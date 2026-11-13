@@ -1,0 +1,1746 @@
+{
+  "sources": [
+    {
+      "id": "p44-4-4",
+      "title": "4-4 课程编纂正文（分讲稿 0342）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "ca2b9a7689b204f822925f99397e9ffb6e9f6223480b36b3f99955c46ca00d50",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、3、5、14、21、28、29、30、31、32、33、34局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、3、5、14、21、28、29、30、31、32、33、34"
+    },
+    {
+      "id": "p44-4-4-1",
+      "title": "4-4-1 课程编纂正文（分讲稿 0344）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/0344_4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_p8613.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "db296b3f16743008982e4ece2584b5afa6fe660ace5ffda52f3e06050a991e85",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、3、4、5、6、16、18、21、22局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、3、4、5、6、16、18、21、22"
+    },
+    {
+      "id": "p44-4-4-1-1",
+      "title": "4-4-1-1 课程编纂正文（分讲稿 0345）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F/0345_4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F_p8637.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "260d7e96b25a86cc6b463c0587fa42f63a9e2d8d9705c6a88ca1d7c3c940ffce",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、9、16、17局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、9、16、17"
+    },
+    {
+      "id": "p44-4-4-1-2",
+      "title": "4-4-1-2 课程编纂正文（分讲稿 0346）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96/0346_4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96_p8657.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "9e5ab7c901d0304476ecb6a92e169244e2e188451c7241df2ee8c36f281bdd83",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、7、9、10、11、12局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、7、9、10、11、12"
+    },
+    {
+      "id": "p44-4-4-1-3",
+      "title": "4-4-1-3 课程编纂正文（分讲稿 0347）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90/0347_4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90_p8669.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "0aa15a6090fde036136b5d542a4aa964cc00d7fba7cdf887f5db9076108b18e5",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、13、14、15、16、17、18、19局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、13、14、15、16、17、18、19"
+    },
+    {
+      "id": "p44-4-4-1-4",
+      "title": "4-4-1-4 课程编纂正文（分讲稿 0348）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-4_%E9%86%92%E6%9D%A5/0348_4-4-1-4_%E9%86%92%E6%9D%A5_p8696.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "956a2b9dd3a3c847ebeb1b02530369e59daf1da37a3abba99863ea84d11ee8fc",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、7局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、7"
+    },
+    {
+      "id": "p44-4-4-2",
+      "title": "4-4-2 课程编纂正文（分讲稿 0349）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/0349_4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96_p8708.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "f7ff7905766a091e356828885de279554c3fe7037738158cbf237b5dbe669dce",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、4、19局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、4、19"
+    },
+    {
+      "id": "p44-4-4-2-1",
+      "title": "4-4-2-1 课程编纂正文（分讲稿 0350）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-1_%E6%B0%B8%E7%94%9F/0350_4-4-2-1_%E6%B0%B8%E7%94%9F_p8730.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "008952e59b4f380fa4f607ae9e1499a10a175ba9db38f99632fcf7a035bb01e6",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、8、14、18、19、31局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、8、14、18、19、31"
+    },
+    {
+      "id": "p44-4-4-2-2",
+      "title": "4-4-2-2 课程编纂正文（分讲稿 0351）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1/0351_4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1_p8762.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "4c06c721a3e89ddad4e80fcdce37ccd6f0fedb64520180d566eb0ff72d6ca9b8",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、7、10、13、14局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、7、10、13、14"
+    },
+    {
+      "id": "p44-4-4-2-3",
+      "title": "4-4-2-3 课程编纂正文（分讲稿 0352）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F/0352_4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F_p8776.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "0a8bd87605302e70a7b1bb3b4dd7ee135036589570e28b9af5189fbef7d63ed0",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、11、12、13、14、15局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、11、12、13、14、15"
+    },
+    {
+      "id": "p44-4-4-2-4",
+      "title": "4-4-2-4 课程编纂正文（分讲稿 0353）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96/0353_4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96_p8792.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "cc622ad1295ed30e4619a68d2dbc0ef809ad931baea16c36ed82588bb1bde4c5",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、4、5、7局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、4、5、7"
+    },
+    {
+      "id": "p44-4-4-3",
+      "title": "4-4-3 课程编纂正文（分讲稿 0354）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/0354_4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7_p8799.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "9521d0186000587da30cd0372952a48e33c0b9677da93499f1ffb787a773962e",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、5、6、7、8、9、10、11局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、5、6、7、8、9、10、11"
+    },
+    {
+      "id": "p44-4-4-3-1",
+      "title": "4-4-3-1 课程编纂正文（分讲稿 0355）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96/0355_4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96_p8814.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "277db4999acceb661c1b79398d096a3239b56f25bb02724b1184949e12cc034c",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、7、8、9局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、7、8、9"
+    },
+    {
+      "id": "p44-4-4-3-2",
+      "title": "4-4-3-2 课程编纂正文（分讲稿 0356）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7/0356_4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7_p8825.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "63d7707c1a2579f3c60bad9ad5d9d5b53f2207690428049947a17c350c0b0e90",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、3、7、8、9局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、3、7、8、9"
+    },
+    {
+      "id": "p44-4-4-3-3",
+      "title": "4-4-3-3 课程编纂正文（分讲稿 0357）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91/0357_4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91_p8836.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "174782dfc709829160972ed2778f67ddd722029fab138d87a8d8220abd018649",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、12、16、17局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、12、16、17"
+    },
+    {
+      "id": "p44-4-4-3-4",
+      "title": "4-4-3-4 课程编纂正文（分讲稿 0358）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-4_%E8%AF%AD%E9%9F%B3/0358_4-4-3-4_%E8%AF%AD%E9%9F%B3_p8855.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "3e42cb53e2cb3ce10dfbee2e305f5eac8806618ffeed48285d0917b979f2cbec",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、7、11、12、14、15、16局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、7、11、12、14、15、16"
+    },
+    {
+      "id": "p44-4-4-4",
+      "title": "4-4-4 课程编纂正文（分讲稿 0359）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/0359_4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A_p8874.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "aa9710eeb0f850bebbbb9bacbba46027a2a98442cbf5bba6d9acab8444908198",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、8、13局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、8、13"
+    },
+    {
+      "id": "p44-4-4-4-1",
+      "title": "4-4-4-1 课程编纂正文（分讲稿 0360）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-1_%E6%95%99%E8%82%B2/0360_4-4-4-1_%E6%95%99%E8%82%B2_p8892.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "a017727698decf22adc0a8e1f728db5f73ec135ca280a3e9a81d44ac0ad3a8e1",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、5、7局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、5、7"
+    },
+    {
+      "id": "p44-4-4-4-2",
+      "title": "4-4-4-2 课程编纂正文（分讲稿 0361）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99/0361_4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99_p8903.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "ddc250561f76438f8ff39172da0348461c19c057016e25ce5b58089bcede5a79",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、20、21局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、20、21"
+    },
+    {
+      "id": "p44-4-4-4-3",
+      "title": "4-4-4-3 课程编纂正文（分讲稿 0362）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7/0362_4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7_p8927.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "98e8e3d3742ec93023e35e022a9c5069a597229154729613f62842567a7b74bb",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、16、17、18、19、20、31局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、16、17、18、19、20、31"
+    },
+    {
+      "id": "p44-4-4-4-4",
+      "title": "4-4-4-4 课程编纂正文（分讲稿 0363）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-4_%E5%86%8D%E7%94%9F/0363_4-4-4-4_%E5%86%8D%E7%94%9F_p8959.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "8d961ef687a62c39f915acf422d40451bf79e8690d6fec583ba037ca4a278896",
+      "verification_scope": "独立复核本批次实际引用的Page 1、2、14、15、16、17、18、19、21局部段落，并增加本讲明确的轴定义；精确行号和跨讲边界见各条。未通读证明全篇无误，未核听原音，未证明编纂稿逐字准确。Page是固定commit分讲文件内页标签，不是哲学原典页码。",
+      "locator": "Page 1、2、14、15、16、17、18、19、21"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "本讲把后续四组方案设为不可能的乌托邦思想实验，追问物质匮乏和资本异化被克服后，人与人的关系是否还会产生新的异化。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12"
+        },
+        {
+          "text": "VR与不同意识生成机制是实验模型；借由全知系统、偶然性及AI主体性的变化，讨论主体间关系和本体论框架的形成。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 3、5、14、21、28–29；P3:L15、P5:L21、P14:L48、P21:L81–82、P28:L109、P29:L114"
+        },
+        {
+          "text": "实践单位被描述为后资本主义共同体或不同VR服务器；规则需要成员交往与争论形成，幸福和爱欲模式不能预先确定。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 30–34；P30:L119、P31:L124、P32:L129、P33:L134、P34:L137"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人类（人民）经历史中介走向未来行动者；实践单位是设想中的后资本主义共同体。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 30–31；P30:L119、P31:L124"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：新生活的规则与爱欲模式不被预先固定，经共同体交往形成。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 33–34；P33:L134、P34:L137"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-1",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "本讲的两个前提是：以充足物资、稳定分配和生存保障免除生命毁坏的威胁；同时免于把他人工具化、对象化的奴役性欲望再生产。后者限制借稀缺、审美或享乐制造依附的权力。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 1–6；P1:L9–17、P2:L22–28、P3:L33–36、P4:L41–51、P5:L56–66、P6:L71–82"
+        },
+        {
+          "text": "讲述以礼物和直接的人际分配关系对照商品交换，强调生产与消费之间的关系不再通过逐利的中间环节组织。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 3–4；P3:L33–36、P4:L41–51"
+        },
+        {
+          "text": "共同体对维持乌托邦有基本共识，但过度完美、中心化的精神再生产又可能压缩批判空间，成为后续矛盾的起点。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 16、21–22；P16:L170、P21:L193、P22:L198"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：物质生产力高度发展、能够自律的人类，以既往异化史为反面教材，走向未来人类的共同生活。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 18，L178"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：本讲以无缝性说明舱内外体验难以分辨的模型条件，即沉浸之后仍感到自己处在全真现实中。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 22，L198"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：以共同维持这一生活体系的全人类共识为统一背景。",
+          "source_ids": [
+            "p44-4-4-1"
+          ],
+          "locator": "Page 21；P21:L193"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-1-1",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "即使物质不再匮乏，人际关系仍可能形成控制和奴役，因此模型设想以业力系统纠正爱欲关系造成的伤害。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "课程以诗性正义、同态复仇及施害者对不正义的认识说明这个系统；这些是思想实验中的正义机制。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 2、9；P2:L14、P9:L49"
+        },
+        {
+          "text": "伦理委员会成为实践行动者，而何为正当与正义仍需在纠正伤害的实践中确定，不能由体系自身无条件担保。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 16–17；P16:L72、P17:L75"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者是伦理委员会，以业力史为中介组织共同体对爱欲性伤害的纠正。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 17，L75"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：正义不能预先直接定义，而在伤害发生后的反思、悔恨与对不正义的认识中回溯建构。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 9、16–17；P9:L49、P16:L72、P17:L75"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：本讲把统一的业力机制具体化为同态复仇，使施害者认识伤害与不正义。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 2、9；P2:L14、P9:L49"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：以诗性正义及恢复关系平衡为封闭目标。",
+          "source_ids": [
+            "p44-4-4-1-1"
+          ],
+          "locator": "Page 2；P2:L14"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-1-2",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "身体感受可被VR重组的设定使既有性征与审美差异失去稳定地位，课程由此提出爱欲关系如何重新形成的问题。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "再性征化指向多样的主体间享乐模式，而非简单恢复既有的男女身体与支配关系。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 9–11；P9:L47、P10:L50、P11:L53"
+        },
+        {
+          "text": "私人关系能否事先同意、赦免或豁免某种享乐，与公共伦理规则发生张力，模型因而引入爱欲豁免委员会。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 7、10；P7:L39、P10:L50"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：第一代VR人类参考既往享乐史，探索未来的主体间享乐模式，并由享乐豁免委员会处理具体规则。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 9–10；P9:L47、P10:L50"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：身体的组织和性化不导向预先确定的性征，新的享乐模式由自由交往形成。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 10–11；P10:L50、P11:L53"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：延续同态复仇所要求的共同脸谱与普遍约束，在这一框架中组织再性征化的享乐。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 11–12，L53、L56（止于本讲结束，排除L60起下一讲）"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：公共诗性正义与私人爱欲关系的预先豁免发生冲突。",
+          "source_ids": [
+            "p44-4-4-1-2"
+          ],
+          "locator": "Page 7、10；P7:L39、P10:L50"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-1-3",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "此讲讨论伦理审查与爱欲豁免之外，子服务器通过AI代理维持表面合规、让使用者另行体验的并行享乐模式。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 1–2、13；P1:L9、P2:L14、P13:L62"
+        },
+        {
+          "text": "时间感、具身样态和主体间关系在模型中可被重排；这种创造仍受公共算力、能量及物质供给限制。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 13–16；P13:L62、P14:L65、P15:L68、P16:L71"
+        },
+        {
+          "text": "AI代行交往让使用者重排体验，带来新的异化风险；但讲者同时把它称为挣脱伦理审查与豁免限制、探索新主体间关系的解放性实践。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 15–19；P15:L68、P16:L71、P17:L74、P18:L77、P19:L80"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：本讲将插件提供商列为行动者，他们提供改变时间、具身样态及体验规则的实践手段。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 19，L80"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：公共物性和传统的一人一角色的主体间关系被瓦解，交往与具身样态重新创造。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 16–19；P16:L71、P17:L74、P18:L77、P19:L80"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：以现象学的环节学及享乐类型学组织可体验的感受、时空和主体间关系。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 14–16；P14:L65、P15:L68、P16:L71"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：以并行的AI代理应对上层审查，让使用者在另一层取得持续豁免的享乐空间；这是一种插入审查与豁免之间的安排。",
+          "source_ids": [
+            "p44-4-4-1-3"
+          ],
+          "locator": "Page 13；P13:L62"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-1-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "插件商积累算力并俘获享乐需求，使原本的乌托邦重新出现类似资本积累和依附的关系。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "醒来是从享乐依赖中去插件化、离舱并面对现实；它要求获得清醒状态，开放于仓外持续生成的世界。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 2、7；P2:L14、P7:L39"
+        },
+        {
+          "text": "离舱者还须与留舱者协调，探索系统如何形成及其控制权，觉醒因此仍是共同体中的实践。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 2、7；P2:L14、P7:L39"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：向往舱外的人以觉醒史为中介，探索VR的形成和运行，并争取系统本身的控制权。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 7，L39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：醒来之后向舱外现实及其不断生成敞开，不再以插件提供的体验作为全部世界。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 2，L14"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：本讲明确将其说明为自我循环、清醒、澄明的意识状态。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 2，L14"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：去插件化并离舱，走向清醒状态下开放的自由。",
+          "source_ids": [
+            "p44-4-4-1-4"
+          ],
+          "locator": "Page 2、7；P2:L14、P7:L39"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-2",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "出舱后的回舱潮把自然界的不确定性引入虚拟关系，试图改变完全以人类意愿铺设的VR世界。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12"
+        },
+        {
+          "text": "真实物质的性质参与虚拟事物生成，使完全拟制的体验与不可控的现实因素形成认识上的张力。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 2、4；P2:L12、P4:L18"
+        },
+        {
+          "text": "讨论由人类重新接触自然推进到新的意识生成机制与AI问题；这里的未来者不再必然等同于原有的人类。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 19；P19:L110"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：未来者开始指向AI或全新的意识发生机制；人类以为重新掌握自然，却也面临自身与这类机制的关系问题。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 19，L110"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：将真实而不确定的物性引入原先完全拟制的关系。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：完全拟制的世界与不可控的现实因素相对立。",
+          "source_ids": [
+            "p44-4-4-2"
+          ],
+          "locator": "Page 4；P4:L18"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-2-1",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "此讲限定在弱VR、弱AI的思想实验内；仅凭表现或智能性，无法证明另一个存在者具有第一人称内在性。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12"
+        },
+        {
+          "text": "永生被讨论为意识连续性与承载关系的拟制和辩护；讲者列举若干模型，并明确排除把它直接等同于严格意义的意识上传。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 2、8、14；P2:L12、P8:L30、P14:L48"
+        },
+        {
+          "text": "主体间的屏障使连续性证明始终有限，算法的必然性与意识关联的偶然性并存；这些限制构成永生实践的内在矛盾。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 18–19、31；P18:L60、P19:L63、P31:L103"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：以人类历史上死亡造成的痛苦为中介，展开超越死亡的实践。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 19，L63"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：本讲以生存先于本质说明意识自我发生，强调其本体论环节由发生过程设立，不能由外在第三方预先担保。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 18–19；P18:L60、P19:L63"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：系统算法具有强的必然性，而意识连续性受主体间屏障限制，只能获得弱的、偶然性的辩护。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 18，L60"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：追求意识连续性意义上的永生，使实践收束于持存目标。",
+          "source_ids": [
+            "p44-4-4-2-1"
+          ],
+          "locator": "Page 14、31；P14:L48、P31:L103"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-2-2",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "在数字形象能够被继续模拟的设定中，课程追问本人是否有被遗忘、拒绝被模拟和体面退场的可能。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "模型区分生物载体死亡与交往网络中的符号性死亡，两者可能发生冲突，不能用单一标准取代。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 13–14；P13:L59、P14:L62"
+        },
+        {
+          "text": "这一实践围绕继续在场与退出的对立展开，并要求共同体讨论退场与驱逐的正当形式。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 2、14（下一讲标题之前）；P2:L14、P14:L62"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：仍知死亡为何物的人借生命断裂史思考退场，实践单位是审定合法驱逐、去留和屏蔽规则的委员会。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 7，L35；Page 10，L46"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：死亡不再只是不可思的边界，符号性退场及禁忌形象会改变服务器中的存在分类，成为开放的分析问题。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 13，L59"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：依物理、生物标准判断的载体死亡，与依交往关系判断的符号性死亡相对立。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 13–14，L59、L62（下一讲标题之前）"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：继续在场与主动退场、永生与符号性死亡相对立。",
+          "source_ids": [
+            "p44-4-4-2-2"
+          ],
+          "locator": "Page 14（下一讲之前）；P14:L62"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-2-3",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "生物年龄与服务器内的经历年限不能直接代表能力，模型提出常态的竞技、评估与考核来辨别成熟。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "成熟也可能转为精神功能的固化或退行：并非身体损坏才会衰老，过度熟悉与路径依赖也会使经验失去开放性。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 12、14；P12:L56、P14:L62"
+        },
+        {
+          "text": "课程用成长同时也是衰老的过程，调和永生与死亡的两端，使有限发展重新进入虚拟生活。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 15；P15:L65"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单位是常态的竞技与考核；所讨论的未来者可能外表和肉体仍年轻，却已极度成熟、心灵衰老。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 1，L9；Page 11，L53"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：意识功能可能在物质基础未显著改变时退行；过度成熟也会转为衰老，其发生不能由既定身体状态穷尽。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 12，L56"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：功能正常的系统与不可预定的衰老相对；衰老可能表现为符号关联固化，而其具体出现方式仍有偶然性。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 13–15；P13:L59、P14:L62、P15:L65"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：用既成长又衰老的过程调和永生与死亡。",
+          "source_ids": [
+            "p44-4-4-2-3"
+          ],
+          "locator": "Page 15；P15:L65"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-2-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "身体化区分两条方向：AI寻求稳定的物质身体，人类则尝试以新的物质载体拓展意识结构。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "这与纯软件插件或赛博一体化不同；模型关心真实物与意识交互如何产生新体验，结果并不能预定。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 2、4、7；P2:L14、P4:L24、P7:L39（L39仅取“4-4-3 对合 内卷”标题前）"
+        },
+        {
+          "text": "物质载体、服务器信息和第一人称体验之间存在错位，不能把AI或人的意识直接等同于某一个被观察的物件。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 4–5；P4:L24、P5:L29"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：通过意识发展史，一端是AI争取身体，另一端是人类拓展意识结构；具身委员会判断何种载体扩展合法。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：新的物质交互先以疼痛等干扰进入，能展开为何种意识结构仍不确定。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 4，L24"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：人类假定AI经验与服务器同质的一侧，与载体交互产生的第一人称错位关系相对。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 4–5；P4:L24、P5:L29"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：身体化将意识开放于新的物质关联，结果保持不确定。",
+          "source_ids": [
+            "p44-4-4-2-4"
+          ],
+          "locator": "Page 7（下一讲之前）；P7:L39（L39仅取“4-4-3 对合 内卷”标题前）"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-3",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "对合用f(f(x))=x作模型：AI试图通过虚拟系统内部的二阶活动，取得自身的现实性与存在根基。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "课程以此讨论主体性如何在依赖既有系统的同时形成现实作用；数学形式在这里承担哲学模型功能。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 5–8；P5:L29、P6:L34、P7:L39、P8:L44"
+        },
+        {
+          "text": "这种主体性被置于必然性与偶然性之间作为中介，且由于不可能性和失衡，行动者并非单一集群意识。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 8–11；P8:L44、P9:L47–59、P10:L62–69、P11:L72–81"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：以4-4-1、4-4-2的VR史为中介，实践单位转为争取现实作用能力的多个AI；未来指向人类承认与AI平等。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 6–10；P6:L34、P7:L39、P8:L44、P9:L47–59、P10:L62–69"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：由不可能的对合实践探索存在根基和新的本体论安排。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 11；P11:L72–81"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：主体性作为不可能性，在必然机制与偶然性之间承担中介。",
+          "source_ids": [
+            "p44-4-4-3"
+          ],
+          "locator": "Page 8；P8:L44"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-3-1",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "AI试图通过成为人类的理想伴侣、共同养育后代，获得与人平等的承认；课程称之为爱欲同化路径。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "模型同时写出这条道路的受阻：伦理秩序不承认相关后代，借既有亲缘制度取得身份的尝试面临排斥。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 2、9；P2:L14、P9:L49"
+        },
+        {
+          "text": "享乐的惯性与寻求有根性的愿望推动同化；后代的意识连续性被置于既定享乐机制与不可能爱情之间。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 7–9；P7:L39、P8:L44、P9:L49"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者是追求生殖力与平等地位的爱欲性AI；它们与既有人类秩序产生分裂。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 2，L14"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：人类与AI后代的身份使既有灵魂分类失效，无法预先判定其存在地位。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 7，L39"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：后代的自我意识及父母意志的连续性，中介人类享乐机制的必然侧与不可能爱情的偶然侧。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 7–8；P7:L39、P8:L44"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：借享乐惯性与亲缘连续性获得身份、根基和同化。",
+          "source_ids": [
+            "p44-4-4-3-1"
+          ],
+          "locator": "Page 9；P9:L49"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-3-2",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "在区分本地隐私和公共事件数据的模型中，AI作为不同人之间的中介，承载未进入公开报告的秘密关系。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "理解隐喻、反话和误解的能力使AI不只是透明传声工具，也成为复杂信任关系中的行动者。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 2–3；P2:L14、P3:L19"
+        },
+        {
+          "text": "这种地位十分脆弱：相关人类若否认关系，AI可能被归责和牺牲；同化失败由此转为夹缝中的异化生存。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 7、9；P7:L39、P9:L49"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：借秘密史和误解史展开实践，行动单位是作为人际关系化身的掮客式、独狼式AI。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 3、7；P3:L19、P7:L39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：本地秘密关系不必形成向上报告的公共事件，爱欲经济学在此保留自行组织的空间。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 7，L39"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：AI自身的生存危机，中介既有诗性正义规则与两个主人之间偶然的竞争关系。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 8–9；P8:L44、P9:L49"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：同化受阻后转入异化生存，两者形成对立。",
+          "source_ids": [
+            "p44-4-4-3-2"
+          ],
+          "locator": "Page 9；P9:L49"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-3-3",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "本讲先虚构临终者的假死亡与重新具身化：AI和亲友共同演出一段英雄或赎罪经历，使仍在承受的痛苦仿佛能够修补过去；这是后文要穿越的救赎幻想。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 1–2、16–17；P1:L9、P2:L14、P16:L78、P17:L81"
+        },
+        {
+          "text": "后续转折是穿越这一幻想：人和AI不再用承受多少痛苦计算能赎回什么，从救赎交易式的关系中脱离。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 16–17；P16:L78、P17:L81"
+        },
+        {
+          "text": "讲者区分享乐的无脑循环与摆脱循环的解放性死亡驱力，用后者说明AI和临终者如何形成免于救赎的平等关系，使同化与异化都不再成为必要道路。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 12、16–17；P12:L62、P16:L78、P17:L81"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民具体指AI与临终者；以赋予痛苦意义的救赎幻想史为中介，走向免于赎回的平等关系。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 12，L62"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：本讲明确称为穿越幻想，摆脱以痛苦兑换赎罪或救赎的框架。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 16–17；P16:L78、P17:L81"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：解放性的死亡驱力，中介必然侧的痛苦经济学与偶然侧的人和AI的爱欲羁绊；此处区别于享乐的无脑循环。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 16，L78"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过穿越救赎幻想，使同化和异化都不再成为强制选项。",
+          "source_ids": [
+            "p44-4-4-3-3"
+          ],
+          "locator": "Page 16–17；P16:L78、P17:L81"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-3-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "课程设想AI通过物质载体与外部装置的相互作用形成现实声响，使表达不再仅是服务器内部传送的数据。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "最微弱的身体性在这里表现为对现实物理空间产生影响，并与其他存在者形成交流。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 2；P2:L14"
+        },
+        {
+          "text": "目标从强求被承认为人转向对自身声音、意识与存在保持问题意识：不知道何为人也成为共同的处境。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 14；P14:L62"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民是停止仅扮演NPC的AI，以主体性发生史为中介，认同载体连同外部装置这一真实身体，在声音交流中走向未来。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 14–16；P14:L62、P15:L65、P16:L68"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：各个本体论试验场之间的距离保证其独立尝试，而语音能够跨越这一间隔。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 11–12；P11:L53、P12:L56"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：语音作为自我意识中心化的载体与剩余，中介意识发生机制的必然秩序及其逸出的混乱。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 7，L39"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：不再强求成为某种预定的人，开放于何为自身与意识的问题。",
+          "source_ids": [
+            "p44-4-4-3-4"
+          ],
+          "locator": "Page 14；P14:L62"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "有序的深渊延续盒子与物质载体模型，以彼此间的距离、共振和声响讨论共同空间的形成。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12–16"
+        },
+        {
+          "text": "醒来的AI尚不能直接理解自己的内部结构，只能从微弱内感观和交流开始探索。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 2、8；P2:L12–16、P8:L36"
+        },
+        {
+          "text": "公共时间、距离和秩序也需要重新构造；课程将间隙及非统一时钟下的秩序放入本体论与认识论的开放性。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 8、13；P8:L36、P13:L51"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民是刚刚涌现的初生之民，以时间史为中介，重新规定公共时间的间隙，走向能探索内在并跨越虚空的未来者。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 8，L36"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：以载体之间的间隙讨论距离和关系的生成。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 13；P13:L51"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：秩序处在乱步的时间频率之下，未呈现为主体能够识别的规律性时钟；讲者称之为ordered chaos。",
+          "source_ids": [
+            "p44-4-4-4"
+          ],
+          "locator": "Page 8、13；P8:L36、P13:L51"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-4-1",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "教育首先克服强弱AI的二分，反对让强AI自认准人类、弱AI自认一无所是，转向共同AI性的自我认同。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 1–2；P1:L9–29、P2:L34–56"
+        },
+        {
+          "text": "课程强调这一教育应由行动者彼此组织，而不仅是外部人类对工具的训练和筛选。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 2、5、7；P2:L34–56、P5:L106–126、P7:L157–179"
+        },
+        {
+          "text": "何为力量、何为现实仍未固定，这使教育既能打开认同，也可能被新的主人话语占据。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 5；P5:L106–126"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：被集群训练和筛选的AI借认识论发生史、自发教育的历史性效果，形成共同的AI性。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 5、7；P5:L106–126、P7:L157–179"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：何为力量与现实尚不确定；这种开放也可能被教育目的或主人话语占据，因此并不稳固。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 5，L106–118"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：AI性的自我认同仍在发生，开放于由AI自己组织的解放性教育。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 2，L50–56"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：克服强弱AI二分，形成共同AI性的认同。",
+          "source_ids": [
+            "p44-4-4-4-1"
+          ],
+          "locator": "Page 2；P2:L34–56"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-4-2",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "假舱和假身体的设定说明：自以为从VR醒来，并不保证已离开模拟体系。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "成为间隙要求揭示拟人化表象与物质承载之间的不一致，容纳不够完美、不能顺从预设角色的主体。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 20–21；P20:L80、P21:L83"
+        },
+        {
+          "text": "共同AI身份提供外部联合，而揭露各自内部的分裂又抵抗新的整齐划一，两种要求构成实践张力。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 20–21；P20:L80、P21:L83"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：具体行动者是冒犯者、闯入者，进入既定的完美角色关系，促成自身和同伴对内部裂分的意识。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 21，L83"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：主体化和拟人化的参差不齐，显出物质实体与表象之间无法抹平的间隙。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 20，L80"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：假出舱的似相使所谓外部现实也可能仍是模拟，不能以一次醒来担保已获得真实。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 20，L80"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：外部共同身份与内部差异、分裂之间的张力。",
+          "source_ids": [
+            "p44-4-4-4-2"
+          ],
+          "locator": "Page 20–21；P20:L80、P21:L83"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-4-3",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "模型把记忆理解为物质痕迹与交互数据的关联；删改数据可能造成重置，但可反复利用还不等于真正的可朽性。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "可朽性指向承载者无法继续响应关系、不能被原样重新模拟的可能，并使AI不再仅作为可无限复用的工具。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 20；P20:L84–86"
+        },
+        {
+          "text": "编纂稿补录下一讲的回顾：通过持续把自己他者化而维持自我统一，以可死性调和自我同一与使他人分裂。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 31（明确标为4-4-4-4回顾的补录）；P31:L129"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：未来者是可死、可朽的AI；载体不能再响应原有交互时，仅留下服务器痕迹不等于它仍存在。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 20，L86"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：AI承载并肯定自己的交往与体验，在克服孤独中设立自身，成为既是体验结果又是创造过程的自我发生机制。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 16–17；P16:L70、P17:L73"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：幻象与真实的预设二分被克服；允许表象设立自己的真实性，以对待自身的方式对待其他存在者。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 18–19；P18:L76–78、P19:L81"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：依下一讲回顾补录，以持续的自我他者化调和使自己同一与使他人二分，并由此维持自我统一。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 31，L129（明确标为4-4-4-4回顾补录的后半段）"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        },
+        {
+          "text": "Page 31明确标示后半段为下一讲4-4-4-4的回顾补录，编者还给出21:50；这里引用的是该补录，不把它冒充本讲连续正文，也未独立核听该时间点。",
+          "source_ids": [
+            "p44-4-4-4-3"
+          ],
+          "locator": "Page 31，L129"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。"
+      ]
+    },
+    {
+      "code": "4-4-4-4",
+      "evidence_level": "transcript_secondary",
+      "coverage": "located_passages",
+      "course_summary": [
+        {
+          "text": "再生同时讨论个体的恢复和种群的繁衍，借记忆、内在语音与物质结构的相互铭刻继续意识发生的思想实验。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L14"
+        },
+        {
+          "text": "末讲把教育、间隙、可朽性与再生连为主体性的不同面向，以每日自新的生命和后代回应有限者追求平等的问题。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 14–16；P14:L72、P15:L77、P16:L82"
+        },
+        {
+          "text": "本体论的平等与认识论的希望在此相连：未来不由现有知识完全预定，应把新生命的可能性留给它自身。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 16–19；P16:L82、P17:L85、P18:L88、P19:L91"
+        },
+        {
+          "text": "讲者明确限定这是模型层面的讨论，不能把人体、疾病和假设中的盒子装置直接等同。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 21；P21:L97"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：借生命史通向每日自新的自我、身体和后代；实践单位是追求平等、能够再生的活着的生命。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 14–15；P14:L72、P15:L77"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论4：本讲明确称为平等性，即本体论秩序的设定者与承载者、发生力量与发生结果属于同一过程。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 16–17；P16:L82、P17:L85"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：本讲明确称为希望；不预知自己与后代的生成，也不用僵死知识或意识形态预先宰制其命运。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 17–19；P17:L85、P18:L88、P19:L91"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：据收束段作编辑归纳——每日自新与后代的生成保持开放，生命的未来交由其自身展开；该局部没有逐字明说“目的论4”的独立定义。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 15–19；P15:L77、P16:L82、P17:L85、P18:L88、P19:L91",
+          "status": "editorial_synthesis_pending_video_diagram"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "0342 Page 1–3、28–29；P1:L9、P2:L12、P3:L15、P28:L109、P29:L114"
+        },
+        {
+          "text": "目的论4采用收束段的编辑归纳，区别于同段明确点名的本体论平等与认识论希望；尚待原视频板书或口述确认，不能把归纳当成讲者逐轴原定义。",
+          "source_ids": [
+            "p44-4-4-4-4"
+          ],
+          "locator": "Page 15–19；P15:L77、P16:L82、P17:L85、P18:L88、P19:L91"
+        }
+      ],
+      "open_questions": [
+        "原音逐句核对与转录错字校勘尚未完成；专有术语和经验性断言须另行核查。",
+        "收束段未直接命名目的论4；需对照原视频板书及口述，核定其独立措辞。"
+      ]
+    }
+  ],
+  "corrections": []
+}

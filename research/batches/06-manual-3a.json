@@ -1,0 +1,591 @@
+{
+  "review_scope": "对列明节点全部feature_list与axis_list逐字段分解核对。支持仅指社区编纂课程原说，不等于哲学史、原典或经验事实成立；未核原音。",
+  "sources": [
+    {
+      "id": "m3-0187",
+      "title": "0187_3_观念论_作为一个现代人_该怎样思考哲学_p4951",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/0187_3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6_p4951.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/0187_3_观念论_作为一个现代人_该怎样思考哲学_p4951.md",
+      "sha256": "e71010d9d81b4eda584e6f4192bf7441edd622ca06d810415146bf7dc27d80d5",
+      "git_blob_sha": "1774d2a2465803a68f6d2540a8c237525a888501",
+      "locator": "Page 1–36，L9–136；L138起3-1下一讲不用于本条",
+      "verification_scope": "逐段核读Page 1–36，L9–136；L138起3-1下一讲不用于本条。只检查人工摘要与该课程编纂文本的对应；未核原典学说归属、未核原音。"
+    },
+    {
+      "id": "m3-0188",
+      "title": "0188_3-1_现象学_胡塞尔和他的事业_拥趸_敌人_p4987",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E5%92%8C%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A_%E6%8B%A5%E8%B6%B8_%E6%95%8C%E4%BA%BA/0188_3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E5%92%8C%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A_%E6%8B%A5%E8%B6%B8_%E6%95%8C%E4%BA%BA_p4987.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学_胡塞尔和他的事业_拥趸_敌人/0188_3-1_现象学_胡塞尔和他的事业_拥趸_敌人_p4987.md",
+      "sha256": "a50c61363510a503c52df75ed0b35eb108ad94313c22432dac344bc4f31c3db8",
+      "git_blob_sha": "2437cae6ce9891461ce9244b2823534a7bb986c5",
+      "locator": "Page 1–29，L9–93；L93仅取“3-1 现象学复习课”前",
+      "verification_scope": "逐段核读Page 1–29，L9–93；L93仅取“3-1 现象学复习课”前。只检查人工摘要与该课程编纂文本的对应；未核原典学说归属、未核原音。"
+    },
+    {
+      "id": "m3-0190",
+      "title": "0190_3-1-1_先验现象学_胡塞尔的先验哲学计划_p5025",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/0190_3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92_p5025.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-1_先验现象学_胡塞尔的先验哲学计划/0190_3-1-1_先验现象学_胡塞尔的先验哲学计划_p5025.md",
+      "sha256": "26329bfdfb35615e572fcd2b8f6fc209a76eddffa59f887c29f1424cc8e899a4",
+      "git_blob_sha": "f7c6517310daeba2aef81bd26117e3bb33d4d2cb",
+      "locator": "Page 1–27，L9–99；L99仅取3-1-1-1标题前",
+      "verification_scope": "逐段核读Page 1–27，L9–99；L99仅取3-1-1-1标题前。只检查人工摘要与该课程编纂文本的对应；未核原典学说归属、未核原音。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0
+      ],
+      "comparison_scope": "全部人工摘要与格位字段已逐项拆解；每个命题的支持程度分别记录。课程解释不自动等于学术共识。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "把背景性秩序悬置起来，不依靠某种背景性秩序进行本体论判断。",
+          "status": "overgeneralized",
+          "finding": "Page10把存在判断悬置专用于现象学；总论Page19–27强调反思先验框架和在两种理解之间切换。原句把一种方法扩展为整类观念论统一禁令。",
+          "source_ids": [
+            "m3-0187"
+          ],
+          "locator": "Page10 L50；Page19–27 L77–101"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "有限心智从转瞬即逝的体验之流抵达普遍、本质性观念是本讲提出的核心问题。",
+          "status": "supported_course_statement",
+          "finding": "开头用心理体验与数学逻辑的普遍有效性设置问题，并以存在与观念的同一性表述。这里记录讲者问题框架，不证明所有观念论者均以此自我定义。",
+          "source_ids": [
+            "m3-0187"
+          ],
+          "locator": "Page1–2 L9–14；Page7–11 L39–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "自我意识在形而下体验与形而上意识结构等两端之间寻求位置。",
+          "status": "supported_course_statement",
+          "finding": "收束段明确列出两端并以主体作为中介；Page25–31强调切换、无根性与寻找本体论地位。",
+          "source_ids": [
+            "m3-0187"
+          ],
+          "locator": "Page25–31 L95–117；Page34–35 L130–133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "超越形而上学，并由不同生存姿态给出不同答案。",
+          "status": "supported_with_scope_limit",
+          "finding": "本讲把意识结构探索与值得过的生活相连，并区分现象学、德国观念论、生存论和结构主义姿态；“超越”是课程的层级评价，不是已证实的哲学史优劣顺序。",
+          "source_ids": [
+            "m3-0187"
+          ],
+          "locator": "Page12–14 L56–62；Page21–22 L83–86"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：自我意识/主体的踌躇。",
+          "status": "supported_course_statement",
+          "finding": "“踌躇”概括不停切换、寻找位置；Page34明确形而上/形而下由自我意识中介。",
+          "source_ids": [
+            "m3-0187"
+          ],
+          "locator": "Page27–31 L101–117；Page34–35 L130–133"
+        }
+      ],
+      "editorial_notes": [
+        "讲者在Page33 L127主动声明可能存在文本纰漏，只解释其理解的大概思路；本次课程忠实度复核不取消这一边界。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未核听原视频；二手讲稿中的术语、英译与哲学家学说归属须另对原典核查。"
+      ]
+    },
+    {
+      "code": "3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1
+      ],
+      "comparison_scope": "全部人工摘要与格位字段已逐项拆解；每个命题的支持程度分别记录。课程解释不自动等于学术共识。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "悬置体验的直接实在性，在体验同时与其拉开距离。",
+          "status": "supported_course_statement",
+          "finding": "音乐例子明说切掉体验直接性，边体验边运思，而非消灭体验。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "意向行为Noesis与意向对象Noema二分，意向行为组织对象并构造背景域。",
+          "status": "supported_course_statement",
+          "finding": "Page3–6逐步说明对象化、区分、统一、完型及背景域也被援结；对主动铺设的概括有出处。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page3–6 L15–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "符号化体验同时包含具体事实与普遍观念，包含本质性分类框架。",
+          "status": "supported_course_statement",
+          "finding": "此细节不在本讲音乐段完整展开，明确对应后续3-1-1开头的matter of fact/relation of idea及橄榄分类框架。保留跨讲证据，不能写成全部来自本讲。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "3-1-1 Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "改变意向对象（乐曲几个音）并比较体验差异，可以把握不变本质。",
+          "status": "needs_precision",
+          "finding": "原文主要是想象和自由变更意向方式、节奏或连接，再找不变结构；并不要求实际改写录音或作品。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page7–10 L27–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "现象学是心理化实证主义，材料来自第一人称体验与分析。",
+          "status": "supported_course_evaluation",
+          "finding": "措辞确见讲者，但其同段明确承认现象学拒斥心理主义。应标为讲者的方法论类比，不能当成胡塞尔承认的学派分类。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page9–10 L33–36；Page20 L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "借实验心理学方法研究自身意识活动，使哲学成为科学。",
+          "status": "supported_course_statement",
+          "finding": "Page20明确说明方法内在化，并说是通过心理学而非数学逻辑成为科学；此是讲者解释，未核方法史因果。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page20–22 L66–72"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "自我调和前科学生活世界与科学化本质领域。",
+          "status": "supported_course_statement",
+          "finding": "本讲结尾直接给出生活世界/本质领域及先验自我的三项。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page28 L90"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1：意向性Noesis-Noema。",
+          "status": "supported_course_statement",
+          "finding": "结尾明确强调二者此处不是本体论对立，而是意向关系的一体关联；故与第一段对两侧的区分不矛盾。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page28 L90"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未核听原视频；二手讲稿中的术语、英译与哲学家学说归属须另对原典核查。"
+      ]
+    },
+    {
+      "code": "3-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "全部人工摘要与格位字段已逐项拆解；每个命题的支持程度分别记录。课程解释不自动等于学术共识。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "先验还原进一步后撤、把意向行为本身悬置，观察世界构造并道说。",
+          "status": "supported_course_statement",
+          "finding": "本讲Page6–7有基地与旁白；前讲Page11–13有完整后撤、静止旁观和报告链条。",
+          "source_ids": [
+            "m3-0190",
+            "m3-0188"
+          ],
+          "locator": "0190 Page6–7 L24–27；0188 Page11–13 L39–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "先验还原是本质还原的基础。",
+          "status": "supported_course_statement",
+          "finding": "前讲把它作为本质还原严格性的前提；本讲方法结构延续此解释。",
+          "source_ids": [
+            "m3-0188"
+          ],
+          "locator": "Page11–13 L39–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主流学界接受本质还原但不接受先验还原。",
+          "status": "overgeneralized",
+          "finding": "本讲限定为当时胡塞尔学生、哥廷根学生和海德格尔，前讲也有“绝大部分学者”的评价；都不能作为跨时代主流学界统计事实。",
+          "source_ids": [
+            "m3-0190",
+            "m3-0188"
+          ],
+          "locator": "0190 Page2 L12；0188 Page14 L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "从先验自我出发，经先验心理学而不借助额外既定分类体系分析体验。",
+          "status": "supported_course_statement",
+          "finding": "Page7–10的描述性心理学和先验自我学，及Page22对既有符号分类的悬置，支持此方法说明。其能否真的不用符号机制，讲者另有反驳。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page7–10 L27–36；Page22 L78"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "先验自我最终抵达先验逻辑学，直接把握元逻各斯作为科学基础。",
+          "status": "needs_precision",
+          "finding": "科学奠基与元逻各斯有出处；但Page9讲者当场改口为不同理路、类似并列关系，不能写成唯一的单向阶段序列。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "普发哲思权、具有解放性。",
+          "status": "supported_course_evaluation",
+          "finding": "讲者以普通人也可返回先验自我和自己思考解释普发哲思权；这是规范评价。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page7–9 L27–33；Page18–20 L64–70"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "经先验主体间性进入非形而上学本体论。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page12同时要求移情与身体构造，原段省略身体环节；非形而上学是讲者归给胡塞尔的自我理解，尚未核原典。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "事物存在方式由意向活动构造，归根到底存在的只是先验自我。",
+          "status": "partially_supported",
+          "finding": "前半见Page13；后半把意义构造夸成只有先验自我存在，与Page14承认异质性感官材料相冲突。应删除唯我论式结论。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page13–15 L45–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "只依靠先验主体性即可明晰把握一切直接经验对象。",
+          "status": "supported_as_attributed_ideal",
+          "finding": "讲者讨论的是他理解的胡塞尔奠基理想，不是本批确认已达到的能力；Page16亦称先验主体性被视为直接经验对象。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page6–11 L24–39；Page16 L58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "主体性是纯粹否定性，只能围绕具体伦理抉择把握，不能直接明证认识，因此计划失败。",
+          "status": "supported_course_critique",
+          "finding": "纯空我思、伦理抉择与不可直观的论证在Page19–20明确出现；失败判断属于讲者的黑格尔/拉康立场，不能写成胡塞尔已接受的结论。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page16–20 L58–70；Page23–25 L83–93"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "先验自我调和直接体验与意向性的二分。",
+          "status": "supported_with_scope_limit",
+          "finding": "先验自我观测体验如何由意向活动构成的结构有出处，但此短句是编者概括，所核本讲未逐字列成这组场域两端。",
+          "source_ids": [
+            "m3-0190",
+            "m3-0188"
+          ],
+          "locator": "0190 Page6–7 L24–27；0188 Page11–13 L39–45、Page28 L90"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1：基于意向性活动的本质还原。",
+          "status": "supported_with_scope_limit",
+          "finding": "本质还原方法与意向构造有出处；格位词组是编者将方法压缩成存在论说明，明确存在论内容应是按意向构造方式区分事物之是。",
+          "source_ids": [
+            "m3-0190"
+          ],
+          "locator": "Page1 L9；Page12–14 L42–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1：先验还原。",
+          "status": "supported_course_statement",
+          "finding": "本讲以先验还原作为统一方法，前讲也对3-1-1的认识论定位作说明。",
+          "source_ids": [
+            "m3-0190",
+            "m3-0188"
+          ],
+          "locator": "0190 Page6–10 L24–36；0188 Page1–2 L9–12"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未核听原视频；二手讲稿中的术语、英译与哲学家学说归属须另对原典核查。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①把背景性秩序悬置起来，不依靠某种背景性秩序进行本体论判断。",
+      "after": "①不把背景性秩序直接当作无需反思的既定前提；讲者要求反思先验框架，并在意识结构中介体验与事物自身结构化的理解之间不断切换。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0187"
+      ],
+      "locator": "Page19–27 L77–101",
+      "rationale": "避免把现象学的悬置直接扩大成所有观念论的唯一方法或禁止任何背景性假设。"
+    },
+    {
+      "code": "3-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②本质还原：人的体验是符号化的，既包含了具体的事物(matter of fact)，又包含了普遍的观念(relation of idea)，普遍观念是贯穿于不同体验中的本质性的先验分类框架，可以通过改变意向对象(比如修改乐曲中的几个音)获得不同的体验，从体验的差异中把握具有普遍性的本质。",
+      "after": "②本质还原：讲者以具体事实(matter of fact)与普遍观念(relation of idea)说明体验的两侧。通过在想象中自由变更意向方式、乐曲节奏或连接，比较体验差异，寻找变化中仍不可缺少的结构；不必实际改写音乐作品。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0188",
+        "m3-0190"
+      ],
+      "locator": "0188 Page7–10 L27–36；0190 Page1 L9",
+      "rationale": "区分想象变更与实际改写对象，并明确事实/观念解释来自后续讲次。"
+    },
+    {
+      "code": "3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③现象学是心理化的实证主义，主体从各种体验间的差异中获得对意识结构的把握，其研究材料完全来自于第一人称的心理体验和对这些体验的分析。现象学借用了实验心理学的研究方法，对自我的意识活动进行实验心理学研究，通过这种方法把哲学变成实证的科学。",
+      "after": "③讲者把这种方法类比为“心理化的实证主义”：从第一人称体验的变更与差异中把握意识结构，并把实验心理学的方法内在化。他同时承认现象学拒斥心理主义；这里是课程的方法论解释，不是胡塞尔对自身立场的标准命名。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0188"
+      ],
+      "locator": "Page9–10 L33–36；Page20 L66",
+      "rationale": "保留课程实际评价，避免抹去原讲明确的反心理主义限定。"
+    },
+    {
+      "code": "3-1-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①先验还原：胡塞尔认为主体可以进一步后撤，不仅与体验，而且与主体的意向性本身拉开距离，回到一个纯粹的先验起点，从纯粹的旁观者角度看到意向性机制是如何构造出整个第一人称世界的，并把整个过程用语言表述。胡塞尔认为先验还原是本质还原的基础，主流学界接受了本质还原，但并不接受先验还原。",
+      "after": "①先验还原：胡塞尔认为主体可以进一步后撤，不仅与体验，而且与主体的意向性本身拉开距离，回到一个纯粹的先验起点，从纯粹的旁观者角度看到意向性机制是如何构造出整个第一人称世界的，并把整个过程用语言表述。胡塞尔认为先验还原是本质还原的基础，讲者称胡塞尔当时的多位学生及海德格尔接受本质还原，却不接受先验还原；这不是对整个学界的统计结论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0190"
+      ],
+      "locator": "Page2 L12",
+      "rationale": "将无限定学术共识缩回原讲列举范围。"
+    },
+    {
+      "code": "3-1-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②先验现象学的起点是先验自我，即主体通过先验心理学而不借助额外的符号体系，直接对所体验到的现象进行分析和思考；先验自我最终抵达先验逻辑学，即主体直接把握元逻辑(“元逻各斯”)，以此作为科学的基础。从这点来说，先验现象学普发了哲思权，具有解放性。",
+      "after": "②先验现象学的起点是先验自我，即主体通过先验心理学而不借助额外的符号体系，直接对所体验到的现象进行分析和思考；讲者又区分先验心理学与先验逻辑学两条类似并列的理路：后者试图通过先验自我把握元逻辑(“元逻各斯”)，为科学奠基。从这点来说，先验现象学普发了哲思权，具有解放性。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0190"
+      ],
+      "locator": "Page9–10 L33–36",
+      "rationale": "保留讲者现场修正后的并列关系，避免单向阶段化。"
+    },
+    {
+      "code": "3-1-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③先验自我可以通过先验主体间性到达本体论，而且这个本体论是非形而上学的本体论，因为所有本体性的事物都是被意向性活动以不同的方式构造出来的，归根到底存在的只是先验自我。",
+      "after": "③按照本讲的重构，先验自我经由移情、先验主体间性与身体构造，能够进入公共对象的本体论研究。事物“是”的方式与意向活动的构造方式相连，讲者称胡塞尔希望这种本体论不导向传统形而上学；这不等于只有先验自我存在，原文仍承认异质性感官材料。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0190"
+      ],
+      "locator": "Page12–14 L42–48",
+      "rationale": "原摘要将意义构成扩成只有自我存在，遗漏身体与异质材料限定。"
+    },
+    {
+      "code": "3-1-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④胡塞尔的先验现象学只依靠先验主体性，一切直接的经验对象都可以通过主体性得到明晰地把握，但是主体性只能通过主体的具体抉择来间接把握，而不能对作为纯粹否定性的主体性本身进行直接明晰地把握，所以胡塞尔的先验现象学必然走向失败。",
+      "after": "④讲者从黑格尔/拉康式立场批评先验现象学：它希望从先验主体性明晰把握经验与意识构造，但纯粹我思本身是空的、否定性的，只能围绕其具体伦理抉择和自由来理解，不能成为直接明证把握的对象。因此讲者判定这一完全透明的奠基理想会失败；这是课程批评，并非胡塞尔本人的结论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0190"
+      ],
+      "locator": "Page16–20 L58–70；Page23–25 L83–93",
+      "rationale": "明确批评主体和适用对象，不把讲者重构归为胡塞尔原说。"
+    },
+    {
+      "code": "3-1-1",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1：基于意向性活动的本质还原",
+      "after": "本体论1：事物的存在方式与意向活动的构造方式相连",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0190"
+      ],
+      "locator": "Page12–14 L42–48",
+      "rationale": "将本体论字段的纯方法名改为本讲实际讨论的存在论内容。"
+    }
+  ]
+}

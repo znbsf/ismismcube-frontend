@@ -1,0 +1,102 @@
+{
+  "scope": {
+    "branch": "1 root",
+    "status": "complete_field_records_not_full_audio_review"
+  },
+  "sources": [
+    {
+      "id": "m1-0001",
+      "title": "1 实在论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/0001_1_%E5%AE%9E%E5%9C%A8%E8%AE%BA_p13.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/0001_1_实在论_p13.md",
+      "sha256": "04bb2d0760a6b387bf6fcdc1b515b6da53d0209c742531f6563d51ec6c75fe3d",
+      "git_blob_sha": "9d5b7ba5b84bc8438275aff436940ef5c4ef8651",
+      "verification_scope": "为逐字段对照实际使用Page 1–5、13–15，其中14–15为下一讲1-1引言；未核听原音。其余正文不因文件下载或关键词检索而视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 4,
+        "recorded": 4,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①场域论闭合，不反思日常生活中被作为背景的秩序。",
+          "claim": "①场域论闭合，不反思日常生活中被作为背景的秩序。",
+          "status": "supported",
+          "finding": "Page1反复说明对融贯时空场及人生断裂不反思；Page3明确预设稳固世界，支持闭合背景秩序的概括。",
+          "source_ids": [
+            "m1-0001"
+          ],
+          "locator": "Page 1、3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②认为拟制的符号学框架是真实存在的(“坐标系真的存在！”)。",
+          "claim": "②认为拟制的符号学框架是真实存在的(“坐标系真的存在！”)。",
+          "status": "supported_core_quote_unlocated",
+          "finding": "Page2–3明确讨论符号系统定位一切并被当作稳固世界；“坐标系真的存在！”这句引号文字未在本讲所核正文找到，不能当逐字引文。",
+          "source_ids": [
+            "m1-0001"
+          ],
+          "locator": "Page 2–3；括注原句未定位"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③现代普通人的基本思想配置，易受各种意识形态的欺骗与鼓动。",
+          "claim": "③现代普通人的基本思想配置，易受各种意识形态的欺骗与鼓动。",
+          "status": "not_located_in_reviewed_text",
+          "finding": "所读正文解释不反思的秩序和意识形态问题，但尚未直接定位“现代普通人的基本配置”范围及易受欺骗鼓动的因果。文件开头是残句，不能排除编纂缺头；本字段不标通过。",
+          "source_ids": [
+            "m1-0001"
+          ],
+          "locator": "Page 1–5、13；未定位此复合断言"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 实在的世界",
+          "claim": "场域论1 实在的世界",
+          "status": "supported",
+          "finding": "Page1将场直接当作均匀融贯的世界或宇宙，Page3说预设稳固场，支持这一轴的简写。",
+          "source_ids": [
+            "m1-0001"
+          ],
+          "locator": "Page 1、3"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录区别课程转述、编者压缩和未定位细节；有对应不等于原典、科学或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；本批未把社区编纂与清理文本当作作者审定稿。"
+      ]
+    }
+  ],
+  "corrections": []
+}

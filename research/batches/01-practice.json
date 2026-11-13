@@ -1,0 +1,203 @@
+{
+  "sources": [
+    {
+      "id": "p01-practice-compiled-preview",
+      "title": "《主义主义四：实践（未明子，2019–2022）》公开文本预览",
+      "url": "https://zh.z-library.sk/book/zOoePZkNjQ/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E5%9B%9B%E5%AE%9E%E8%B7%B5%E6%9C%AA%E6%98%8E%E5%AD%9020192022.html?dsource=recommend",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "2026-11-13通过Exa读取公开页面正文；已读4《实践》正文及4-1《政治-经济-意识形态批判》部分正文。预览在4-1对主客矛盾的讨论处结束，未读取4-1完整章节、4-1-1及其子章节正文，也未下载书籍。编纂者自述对视频有修改，编者身份及修改范围未核实；尚未核听原音，不能视为作者审定稿。目录页码仅用于辨认章节，不视作稳定版本页码。",
+      "locator": "目录之后的4 实践全文；随后4-1 政治-经济-意识形态批判开头至主客矛盾同一的段落。各摘要另附段落主题定位。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "此讲把从观念论走向实践的关键表述为：中介不必是个人主体，物质和历史能够生成自己的符号秩序；主体本身也是这一过程的产物。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4 实践：开篇从3到4的过渡；原初物质自我符号化、历史自我中介的连续段落。"
+        },
+        {
+          "text": "讲述以历史、人民、理论家组成三元关系：历史涉及秩序本身的变化，人民强调多个主体及其差异，理论兼有符号组合与现实话语生产的作用。三项都可能承担中介。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4 实践：依次解释历史、主体的复数化和理论的符号／话语两面；最后将理论改称理论家的段落。"
+        },
+        {
+          "text": "三元关系之外还须有具体的实践单元。主体在实际关系中客体化，才构成此讲所说的实践；单元的形态随社会关系与时代变化，并不限于单个个人。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4 实践：三元组之后追问主体的位置；实践单元、主体客体化及物质性段落。"
+        },
+        {
+          "text": "实践单元具有内在视域与有限性。讲述要求在一段行动中维持理论承诺，同时容许行动结束后的反思修正；这是一项实践姿态要求，并非宣称某套理论永远正确。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4 实践：内在性、有限性及局部总体性的讨论；继而区分行动中的坚持与行动结束后的修正。"
+        },
+        {
+          "text": "结尾将子分支的差异联系到三元关系的中介方式及实践单元的形式，并把4-4描述为面向未来的理论试验。这里仍是总论，不能代替各子分支的专讲。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4 实践：读书小组、家庭等实践单元例子之后，讨论state、pre-state、post-state及4-4探索的收尾段落。"
+        }
+      ],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "以上忠实概括二手整理本中的论证安排，不将其对拉康、唯物主义或哲学史的判定直接当作学界共识。",
+        "原整理包含英文缩写、口语指代和疑似听录误字。本批没有据缩写自行还原组织名称，也没有生成原视频时间码。",
+        "四字头总论不能机械套用四位编号的通用词典；四个轴仍待原讲逐项确认。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听BV1qh411J7kp，确认编纂本对主体、理论家和实践单元的转录是否准确。",
+        "讲述提及《自由的深渊》结尾；应确认具体版本、章节与原文后再建立典籍关联。"
+      ]
+    },
+    {
+      "code": "4-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "此讲将4-1定位为理论家的实践姿态，以马克思、卢卡奇和阿尔都塞为例。政治经济学批判与意识形态批判互相关联，后者也为理解历史运动作准备。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1 政治-经济-意识形态批判：开篇解释标题、理论家及代表人物的段落。"
+        },
+        {
+          "text": "政治、经济、意识形态不能分别固定对应一个阶级或角色。讲述先提出这种表面对应，随后强调交叉：经济生产中处于客体位置的人，也可能承载历史变革。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1：标题解释之后，政治权力、经济生产和理论家的表面对应及交叉关系段落。"
+        },
+        {
+          "text": "历史主体和阶级意识在这里并非个人心理或个人意见的总和，而涉及生产关系和社会交往方式的变化。理论家只能通过理论化间接把握这种过程。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1：历史、辩证法、人民的三元图式之后，区分阶级意识与第一人称体验；其后再论理论化及其社会作用。"
+        },
+        {
+          "text": "本讲把实践单元称为理论家共同体，提出两个要求：理论上同时具备体系性与批判性，现实中能够维持自身生活及理论生产。后者解释了理论生产何以也是实践。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1：实践单元的定义之后，依次展开理论标准、现实标准和维持理论生产的段落。"
+        },
+        {
+          "text": "经济数据与历史考证在此被看作批判的手段。讲述关心的是借材料把握现实矛盾及改变的可能，而非把既有关系当作无须反思的事实。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1：维持理论生产的讨论之后，区分实证性手段与否定性目的的段落。"
+        }
+      ],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本次只读到公开预览中的4-1前部，未读完整专讲或目录中的4-1复习。摘要不声称覆盖全讲。",
+        "课程用谢林的主客关系讨论历史必然性，属于其解释框架；未经谢林、卢卡奇、阿尔都塞原典对读，不把这些说法混写成各作者的原话。",
+        "正文的谢林点指向F. W. J. Schelling的哲学，不能直接释作博弈论中Thomas Schelling的焦点。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听BV1Nb4y1h7mw，补足预览截断以后的认识论、目的论及各轴具体论证。",
+        "查证整理本对阶级意识、客观可能性和历史必然性的归属与译名，避免混同卢卡奇及阿尔都塞。"
+      ]
+    },
+    {
+      "code": "4-1-1",
+      "evidence_level": "catalogue_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "预览目录确认有资本主义史研究章节，但本次未取得该章正文。未用一般资本主义史知识替代该讲。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "取得BV1q3411C7dJ的可核听片段或可信转录，确认此讲的研究对象、实践单元与认识论上的1。"
+      ]
+    },
+    {
+      "code": "4-1-1-1",
+      "evidence_level": "catalogue_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "预览只有经济学哲学批判的目录项。不能因标题相近，便认定此讲以《1844年经济学哲学手稿》为唯一或主要文本。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "取得BV1544y1x7i5的正文证据；核对实际引用典籍及其篇章，再把既有马克思候选阅读与课程建立关联。"
+      ]
+    },
+    {
+      "code": "4-1-1-2",
+      "evidence_level": "catalogue_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "预览只有内外评论的目录项。内外的指向未明，不能据字面改写为内部与外部研究视角。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "取得BV1hq4y197tW的正文，确认内外分别指什么，以及该讲使用哪些实际案例。"
+      ]
+    },
+    {
+      "code": "4-1-1-3",
+      "evidence_level": "catalogue_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "预览只有国际性的理论协调的目录项；未将通用的跨国学术协作建议当作课程内容。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "取得BV1jh411n7i8的正文，确认协调的对象、理论分歧及相关历史人物。"
+      ]
+    },
+    {
+      "code": "4-1-1-4",
+      "evidence_level": "catalogue_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "上游名称为中派的独立生存，编纂本目录为中派中的独立生存；只记录异文，尚不能判断哪个标题更准确。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核对BV19F411Y7Ly标题与正文；确认中派的语境和独立生存的具体含义，再决定是否修改上游名称。"
+      ]
+    },
+    {
+      "code": "4-1-2",
+      "evidence_level": "parent_lecture_reference_only",
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        {
+          "text": "在4-1总论的预告中，4-1-2被联系到理论家的主体性与普罗大众的非主体性之间的对立，并被称为灌输论模型的雏形。这只是父条目的预告，尚不足以概括专讲。",
+          "source_ids": [
+            "p01-practice-compiled-preview"
+          ],
+          "locator": "4-1 政治-经济-意识形态批判：列举具有批判功能的哲学家后，明确提到4-1-2，再过渡到4-1-3卢卡奇的段落。"
+        },
+        "证据范围仅为父讲交叉说明；没有读取灌输专讲，也未确认其四格完整结构。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "取得BV1UL411G7Sd正文，区分父讲中的初步定位与专讲最终论证。"
+      ]
+    }
+  ]
+}

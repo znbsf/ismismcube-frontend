@@ -1,0 +1,1749 @@
+{
+  "review_scope": "2-4-4及四子节点，逐字段核对全部人工feature_list和axis_list，复合字段拆命题；固定commit社区讲稿正文核读及全文检索，不以讲稿忠实度代替原典、社会史、语言发展或心理学事实验证。",
+  "sources": [
+    {
+      "id": "m244-0182",
+      "title": "0182_2-4-4_实用主义_杜威哲学的形而上学预设_p4783",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/0182_2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE_p4783.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-4_实用主义_杜威哲学的形而上学预设/0182_2-4-4_实用主义_杜威哲学的形而上学预设_p4783.md",
+      "sha256": "c0a093ceefe12c63f542a3c5cb424997a89153201e57279d855b60305257b958",
+      "git_blob_sha": "c331e70291f1192c3a02da6a366e44e30ef5a54b",
+      "locator": "Page1–20 L8–73；排除L73的“好的，那讲到这里”以后已转入2-4-4-1，L78属于下一讲",
+      "verification_scope": "实际逐段核读Page1–20 L8–73；初次合并输出有截断，0182末段及0183开头已另行完整补读。对未定位的具体内容再做全文关键词定位；未核原音与原典。排除L73的“好的，那讲到这里”以后已转入2-4-4-1，L78属于下一讲。"
+    },
+    {
+      "id": "m244-0183",
+      "title": "0183_2-4-4-1_逻辑实用主义_如何在学术界风生水起名利双收_奎因的小聪明形而上学_p4803",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/2-4-4-1_%E9%80%BB%E8%BE%91%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AD%A6%E6%9C%AF%E7%95%8C%E9%A3%8E%E7%94%9F%E6%B0%B4%E8%B5%B7%E5%90%8D%E5%88%A9%E5%8F%8C%E6%94%B6_%E5%A5%8E%E5%9B%A0%E7%9A%84%E5%B0%8F%E8%81%AA%E6%98%8E%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0183_2-4-4-1_%E9%80%BB%E8%BE%91%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AD%A6%E6%9C%AF%E7%95%8C%E9%A3%8E%E7%94%9F%E6%B0%B4%E8%B5%B7%E5%90%8D%E5%88%A9%E5%8F%8C%E6%94%B6_%E5%A5%8E%E5%9B%A0%E7%9A%84%E5%B0%8F%E8%81%AA%E6%98%8E%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4803.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-4_实用主义_杜威哲学的形而上学预设/2-4-4-1_逻辑实用主义_如何在学术界风生水起名利双收_奎因的小聪明形而上学/0183_2-4-4-1_逻辑实用主义_如何在学术界风生水起名利双收_奎因的小聪明形而上学_p4803.md",
+      "sha256": "7f56037016498b9193780d342398ee64336e70fc4bf9e97a7586b72863e1b857",
+      "git_blob_sha": "784657caf5a1bb8902b6c0f82d95fb35783aed9a",
+      "locator": "Page1–23 L8–75；排除L76起2-4-4-2",
+      "verification_scope": "实际逐段核读Page1–23 L8–75；初次合并输出有截断，0182末段及0183开头已另行完整补读。对未定位的具体内容再做全文关键词定位；未核原音与原典。排除L76起2-4-4-2。"
+    },
+    {
+      "id": "m244-0184",
+      "title": "0184_2-4-4-2_正统辩证唯物主义_原来_形而上学_才是真正的辩证法_论辩证法的片面_静止_只有量变和二元对立_p4826",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/2-4-4-2_%E6%AD%A3%E7%BB%9F%E8%BE%A9%E8%AF%81%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89_%E5%8E%9F%E6%9D%A5_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_%E8%AE%BA%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E7%89%87%E9%9D%A2_%E9%9D%99%E6%AD%A2_%E5%8F%AA%E6%9C%89%E9%87%8F/0184_2-4-4-2_%E6%AD%A3%E7%BB%9F%E8%BE%A9%E8%AF%81%E5%94%AF%E7%89%A9%E4%B8%BB%E4%B9%89_%E5%8E%9F%E6%9D%A5_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_%E8%AE%BA%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E7%89%87%E9%9D%A2_%E9%9D%99%E6%AD%A2_%E5%8F%AA%E6%9C%89%E9%87%8F%E5%8F%98%E5%92%8C%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_p4826.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-4_实用主义_杜威哲学的形而上学预设/2-4-4-2_正统辩证唯物主义_原来_形而上学_才是真正的辩证法_论辩证法的片面_静止_只有量/0184_2-4-4-2_正统辩证唯物主义_原来_形而上学_才是真正的辩证法_论辩证法的片面_静止_只有量变和二元对立_p4826.md",
+      "sha256": "5e75a91f648ec13e00fd948d8306564fa53b020be7b7c174e3f02c5bdf91568a",
+      "git_blob_sha": "fb6faf40b1e10d5fd967e88e105e503df575c6b7",
+      "locator": "Page1–38 L8–120；排除L122起2-4-4-3",
+      "verification_scope": "实际逐段核读Page1–38 L8–120；初次合并输出有截断，0182末段及0183开头已另行完整补读。对未定位的具体内容再做全文关键词定位；未核原音与原典。排除L122起2-4-4-3。"
+    },
+    {
+      "id": "m244-0185",
+      "title": "0185_2-4-4-3_符号实用主义_何为语言_只要会说话就一定会掌握的一门形而上学_共同体在现代化中必然采取的符号学策略_p4864",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/2-4-4-3_%E7%AC%A6%E5%8F%B7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E4%BD%95%E4%B8%BA%E8%AF%AD%E8%A8%80_%E5%8F%AA%E8%A6%81%E4%BC%9A%E8%AF%B4%E8%AF%9D%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%8E%8C%E6%8F%A1%E7%9A%84%E4%B8%80%E9%97%A8%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%85%B1%E5%90%8C%E4%BD%93%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B8%AD%E5%BF%85/0185_2-4-4-3_%E7%AC%A6%E5%8F%B7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E4%BD%95%E4%B8%BA%E8%AF%AD%E8%A8%80_%E5%8F%AA%E8%A6%81%E4%BC%9A%E8%AF%B4%E8%AF%9D%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%8E%8C%E6%8F%A1%E7%9A%84%E4%B8%80%E9%97%A8%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%85%B1%E5%90%8C%E4%BD%93%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B8%AD%E5%BF%85%E7%84%B6%E9%87%87%E5%8F%96%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E7%AD%96%E7%95%A5_p4864.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-4_实用主义_杜威哲学的形而上学预设/2-4-4-3_符号实用主义_何为语言_只要会说话就一定会掌握的一门形而上学_共同体在现代化中必/0185_2-4-4-3_符号实用主义_何为语言_只要会说话就一定会掌握的一门形而上学_共同体在现代化中必然采取的符号学策略_p4864.md",
+      "sha256": "108fd19fe4cffa86cdc969cf21b87996b1373687de89e78cb5c7e814a71d5e74",
+      "git_blob_sha": "ce8f879d540ff1ce85f1acae906b6b1d4af72ea9",
+      "locator": "Page1–44 L8–142；排除L145起2-4-4-4",
+      "verification_scope": "实际逐段核读Page1–44 L8–142；初次合并输出有截断，0182末段及0183开头已另行完整补读。对未定位的具体内容再做全文关键词定位；未核原音与原典。排除L145起2-4-4-4。"
+    },
+    {
+      "id": "m244-0186",
+      "title": "0186_2-4-4-4_生存实用主义_揭秘禅宗的奥秘_参话头技术指南_前现代的分析师话语_p4909",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/2-4-4-4_%E7%94%9F%E5%AD%98%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%8F%AD%E7%A7%98%E7%A6%85%E5%AE%97%E7%9A%84%E5%A5%A5%E7%A7%98_%E5%8F%82%E8%AF%9D%E5%A4%B4%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97_%E5%89%8D%E7%8E%B0%E4%BB%A3%E7%9A%84%E5%88%86%E6%9E%90%E5%B8%88%E8%AF%9D%E8%AF%AD/0186_2-4-4-4_%E7%94%9F%E5%AD%98%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%8F%AD%E7%A7%98%E7%A6%85%E5%AE%97%E7%9A%84%E5%A5%A5%E7%A7%98_%E5%8F%82%E8%AF%9D%E5%A4%B4%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97_%E5%89%8D%E7%8E%B0%E4%BB%A3%E7%9A%84%E5%88%86%E6%9E%90%E5%B8%88%E8%AF%9D%E8%AF%AD_p4909.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-4_实用主义_杜威哲学的形而上学预设/2-4-4-4_生存实用主义_揭秘禅宗的奥秘_参话头技术指南_前现代的分析师话语/0186_2-4-4-4_生存实用主义_揭秘禅宗的奥秘_参话头技术指南_前现代的分析师话语_p4909.md",
+      "sha256": "e5fc84fbcf6b6a78a4f0bec07513ca501511998ed9b23283834bd9c723fac5e4",
+      "git_blob_sha": "dc4c0bbd74071bac80897b7b3e124f59d237d0c4",
+      "locator": "Page1–42 L8–156；排除L156“今天就讲到这里”以后的3总论及L159",
+      "verification_scope": "实际逐段核读Page1–42 L8–156；初次合并输出有截断，0182末段及0183开头已另行完整补读。对未定位的具体内容再做全文关键词定位；未核原音与原典。排除L156“今天就讲到这里”以后的3总论及L159。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "2-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "全部人工字段拆为可核命题，课程对学说的解释、讲者的自设模型和历史评价分别标注；未核细节列明并在必要时修订显示文字。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "杜威认为哲学本身的发展没有内在目的。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page3比较黑格尔/海德格尔与杜威的哲学史观；明确区分哲学史目的和生活目的。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page3 L15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "哲学流派之别如矿物、岩层的偶然分类。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程用地质分类比喻，未独立核杜威原文；没有根本不同应理解为否认命定发展路线。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page3 L15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "哲学活动摆脱时代二分而追求精简方法。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "经验哲学与思想训练的说明直接支持，不是说哲学活动毫无具体目的。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page4–5 L18–22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "哲学与其他技艺/生活实践平等。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者所述杜威立场明确。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page3 L15；Page5 L21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "以理论取消理论/技艺二分仍立足理论一侧。",
+          "status": "supported_course_evaluation",
+          "finding": "是讲者对杜威的悖论批评，非杜威自我承认的理论。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page4–8 L18–31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "因此实用主义仍为形而上学。",
+          "status": "supported_course_evaluation",
+          "finding": "本讲分类判断，而非标准学科共识。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page14 L49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "实用主义有现实作用。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "过程与教育/社会生活、具体效用相连；未测量实际政策成效。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page11–12 L40–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "杜威拒绝主体旁观对象而获得纯中立知识。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "明确拒斥知识旁观论，并把价值取向纳入经验。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page8–10 L31–37"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "未突出主体性，所以伪辩证。",
+          "status": "supported_course_evaluation",
+          "finding": "讲者以其主体性标准对过程主义、整体主义所作评价。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page13–14 L46–49"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域2经验技艺与哲学理论对立。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "明确幸运/日常技艺与神圣/必然理论两侧；讲者认为实用主义实际站理论一侧。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page2–5 L12–22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4向过程丰富性与整体敞开。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "非无限逼近一个固定终点，且有机体和环境相互影响。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page10–14 L37–49"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4无需认识、好用就行。",
+          "status": "needs_precision",
+          "finding": "正文并不取消认识活动，而是拒绝严格经验/观念二分和旁观式认识，仍要求严肃思想训练与具体效用考察。",
+          "source_ids": [
+            "m244-0182"
+          ],
+          "locator": "Page5 L21；Page8–12 L31–43"
+        }
+      ],
+      "editorial_notes": [
+        "杜威、罗蒂、皮尔士和詹姆斯在本课的编号取决于讲者对主体性中介地位的判断，不是实用主义史的标准分组。课内对杜威、古德曼生平及学术动机的旁评未作独立史料核实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": []
+    },
+    {
+      "code": "2-4-4-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部人工字段拆为可核命题，课程对学说的解释、讲者的自设模型和历史评价分别标注；未核细节列明并在必要时修订显示文字。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "科学话语被放在形而上的一侧。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程说科学话语是形而上学残存的希望，并允许其形式化和方法论检验。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "区别于把右侧规定为哲学话语的2-4-3。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page7有直接比较；这是课程分组，不是概括所有逻辑实证主义者的唯一标准。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page7 L27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "分析性、简明性、统计性是所承认的本体。",
+          "status": "contradicted_by_explicit_explanation",
+          "finding": "分析性被批判为未获支撑的意义承诺；简明性、统计性属于科学方法标准；原子/粒子才是本体承诺例子。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page3–4 L15–18；Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "本体论承诺是服务实践的工作假设。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "明确是语言不可避免的承诺，非优先把握终极实在。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "真正的本体不可且无需讨论。",
+          "status": "needs_precision",
+          "finding": "只说承诺不代表已实质把握本体，并非禁止本体讨论。正文仍谈不同承诺的方法论可辩护性。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page7–8 L27–30；Page13–15 L45–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "意义整体主义可调假说、背景理论、逻辑数学公理和经验报告。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "四维完整列出，并以改变经验报告说法说明整体调整。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page8–10 L30–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "所以所有数学物理社会学理论都说得通。",
+          "status": "needs_precision",
+          "finding": "正文支持调整的可能性，但仍要求说明深度、可检验性及可辩护方法；无条件所有理论说得通过度。全文核读未见该三类的无条件并列结论。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page6–10 L24–36；Page13–15 L45–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "没有坚实的本体/认识保证仍可采用科学假设。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "可接受本体承诺与方法论辩护，不把意义视为独立稳固实体。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page7–10 L27–36；Page14 L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "谓词逻辑、电子为本讲确切例子。",
+          "status": "unsupported_in_checked_passage",
+          "finding": "全文核读定位到逻辑数学方法、公理和原子/基本粒子；未定位谓词逻辑、电子这两个具体词作为该并列例子。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page6–9 L24–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "理论化最终服务生存改善。",
+          "status": "supported_course_statement",
+          "finding": "目的论明确理论化加实践效益，不是单独理论化或单独功利。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page13–16 L45–54"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域2日常话语与科学话语。",
+          "status": "needs_precision",
+          "finding": "讲者随后把左侧具体化为日常/内涵主义的哲学话语，避免误读为任何生活说话都对抗科学。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4实用性的承认。",
+          "status": "supported_course_statement",
+          "finding": "本体论承诺/工作假设直接定义。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4意义整体主义。",
+          "status": "supported_course_statement",
+          "finding": "四维相互联系与可调支持。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page8–10 L30–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的1导向实践效益的理论化。",
+          "status": "supported_course_statement",
+          "finding": "Page14讲者明确二者结合。",
+          "source_ids": [
+            "m244-0183"
+          ],
+          "locator": "Page13–15 L45–51"
+        }
+      ],
+      "editorial_notes": [
+        "本讲明确说“逻辑实用主义”是课程对蒯因的命名，不代表从杜威直接派生的思想史谱系。末段儿童习得语言的刀子/兔子故事，讲者在Page21自称凭空举例；本批不将其当作已验证的语言发展机制。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "讲稿把翻译不确定性多次称为“不可译原则”，术语和对蒯因的批评须另核原典；本批未以此证明实际翻译不可能。"
+      ]
+    },
+    {
+      "code": "2-4-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部人工字段拆为可核命题，课程对学说的解释、讲者的自设模型和历史评价分别标注；未核细节列明并在必要时修订显示文字。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "整体/片面、运动/静止、质变/量变、螺旋上升/循环二元的四重对照。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "四层完整见开篇；是讲者对教科书式论证的重构。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "与高尔吉亚类似的逐层后撤。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page2直接回指高尔吉亚，随后逐层说明。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "后撤证明所谓正统辩证唯物主义仍是形而上学。",
+          "status": "supported_course_evaluation",
+          "finding": "讲者的论证结论，不是由形式结构自动得出的学术共识。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "物质被理解为科学实在论物质且以间接反映把握。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程明确如此批评其反映论。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page1–2 L9–12；Page30 L96"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体/心灵也是特殊物质，能动性来自物质。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "明确说明，且讲者认为由此没有独立认识论地位。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page30–34 L96–108"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "因此忽略否定性主体的中介地位。",
+          "status": "supported_course_evaluation",
+          "finding": "是讲者整讲批评标准。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page1 L9；Page31–34 L99–108"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "辩证法不是顺畅正反合公式，在合题不能产生的僵局出现。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page8–10直接阐释，是讲者积极主张。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page8–10 L30–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "概念体系失效，新的力量/命名可打断旧秩序。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page9–10说异质性超出概念捕获；不是任何僵局都保证成功。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page9–10 L33–36；Page28–29 L90–93"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "真正辩证法承认片面有限、量变和二元对立。",
+          "status": "needs_precision",
+          "finding": "量变指旧分类体系只能识别为量变，并非辩证实践永不产生新质；二元对立是保持未调和张力，不是固定二元本体。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page5–7 L21–27；Page15–22 L51–72；Page24–29 L78–93"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "拒绝超越的全知视角。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "不偏不倚的大他者视角被拒绝。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "辩证行动依赖主观有限位置及否定性。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者强调投身其中与冒险，承认可能站错并成为旧时代残余。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page6–8 L24–30；Page27–29 L87–93"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "斯大林周围文人制造动员框架，内核是穆勒翻版。",
+          "status": "supported_course_evaluation",
+          "finding": "课程有此思想史比拟与评价，未核生成史。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page30–31 L96–99"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "斯大林本人知道其僵死。",
+          "status": "lecturer_hypothesis",
+          "finding": "Page36用“我就认为”引出，属于讲者对内心认知的推测。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page36 L114"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "这种理论动员工业化并支持抵抗战事，是无奈选择。",
+          "status": "supported_course_evaluation",
+          "finding": "Page36–37有此历史评价，也明确“这是我的视角”；未构成单因果战争史证明。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page36–37 L114–117"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "列宁为列宁主义者，斯大林也是列宁主义者但非斯大林主义者。",
+          "status": "supported_course_evaluation",
+          "finding": "原讲确有口号式区分，属于讲者政治解释而非人物自我认同档案。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page36–37 L114–117"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "意识形态工具被当成客观科学造成僵化。",
+          "status": "supported_course_evaluation",
+          "finding": "科学化与意识形态化的交叉是结尾批评重点。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page34–38 L108–120"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "严重限制自然科学及政治经济学。",
+          "status": "unsupported_in_checked_passage",
+          "finding": "全文核读并检索自然科学、政治经济、经济学均未定位；末段具体说人文科学、政治哲学、文艺，不支持当前扩大领域。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page38 L120；全文Page1–38 L9–120"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域2形而上学与辩证法对立。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "作为被批判框架所自设的二分，而非讲者认可二者完全分离。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4物质。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "物质是被本讲批评为科学实在论而经间接反映的物质；不是一般物质概念均归4。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page30 L96"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4基于权力的自然经验主义。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "自然经验主义名称明确；权力限能动性的批评见Page33–34。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page30–34 L96–108"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的2科学化和意识形态化对立。",
+          "status": "supported_course_statement",
+          "finding": "Page34明确轴；结尾论二者死亡交叉。",
+          "source_ids": [
+            "m244-0184"
+          ],
+          "locator": "Page34 L108；Page37–38 L117–120"
+        }
+      ],
+      "editorial_notes": [
+        "本条区分被讲者批判的教科书模型与讲者主张的辩证法，不能把两者混写。斯大林动机、工业化/战事的因果解释和学术后果属于课程评价或推测；本批仅核讲稿，不替这些历史断言作证。",
+        "量变的限定见Page15–22，二元对抗并不保证胜利见Page28–29。讲者并非主张任何主观意见自动为真，而强调介入、张力与可能失败。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "与斯大林原文、苏联教育/科学史及穆勒的具体传承关系需另核；本批不把类比提升为文献证明。"
+      ]
+    },
+    {
+      "code": "2-4-4-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部人工字段拆为可核命题，课程对学说的解释、讲者的自设模型和历史评价分别标注；未核细节列明并在必要时修订显示文字。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "符号系统是第一人称意识与经验的条件。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "开篇直接提出；这是讲者的主体性论题，不是本批验证的神经或儿童发展事实。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "经验现实已经符号化。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "包括神经节律和行动结构的广义符号化，不只口头语言。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page8–9 L30–33；Page14 L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "语言是最广泛符号系统并天然为形而上学。",
+          "status": "needs_precision",
+          "finding": "天然形而上学明确；“最广泛”不是本讲的关键定量比较，语言被说成从广义符号化再拎出的专题链条。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page1 L9；Page9 L33；Page14–15 L48–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体追问为何必须以既定名字称物，形成癔症结构。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "笔为何叫笔、凭什么按主体间规则说话的例子支持。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page3–5 L15–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "前现代闭合为命名暴力，现代保持不闭合。",
+          "status": "needs_precision",
+          "finding": "这是课程类型对照；Page7允许前现代儿童/形而上学家不闭合，Page8允许现代人被俘获而闭合，不是年代决定论。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page3–8 L15–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "现代主体以实用姿态使用不全信的语言。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page5与Page40–42明说不全认同名字而仍使用。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page5 L21；Page40–42 L130–136"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "现实和语言对立是虚假对立。",
+          "status": "needs_precision",
+          "finding": "现实已经符号化不等于张力不存在；Page6仍明确双向不能完全解释，Page14–15以不完备性产生剩余。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page6 L24；Page8–9 L30–33；Page14–15 L48–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "语言是符号化剩余。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "专题化的语言链条作为剩余支持，须与语言完全可有可无区分。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page14–16 L48–54；Page40–43 L130–139"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "本体和认识开放，可容纳不同学说/被不同意识形态俘获。",
+          "status": "supported_course_statement",
+          "finding": "直接用于说明两个4。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page10–12 L36–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "穿越幻想靠主体性否定，构成观念论。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "这是课程对观念论的规定及学习路线。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page10–12 L36–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "名字重复构成锚点链条。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "所有命名靠重复，big names锚定生存与共同体。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page20–21 L66–69；Page31–37 L103–121"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "马恩列斯毛逐个组成同一人类解放目的链。",
+          "status": "partially_supported",
+          "finding": "讲稿有L/S、MSML等缩写及解放/幸福的共同目的例子，全文未定位完整五名逐字清单；不据缩写自行补出名字。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page26–29 L88–97；Page36 L118"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "科学话语联结名字，意识形态赋予历史意义，名字调和两者。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "科学话语/S2、意识形态/S1之分，后段说逻辑联结机制与神圣传承，但明确不是标准S1→S2链。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page12–13 L42–45；Page17 L57；Page23–27 L77–91；Page32–36 L106–118"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "名单必须延续而后继者不够格仍被纳入，名字贬值。",
+          "status": "supported_course_evaluation",
+          "finding": "Page28–30为讲者对这种模式的批评，不是每个历史人物成就已经核查。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page28–30 L94–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "每次语言使用语境有差异，因此重新命名。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page20有完整解释，即使重复其效果仍不同。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page19–21 L63–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "重复把名称和事物关联坐实，因而都是主人话语。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者明确如此扩展主人话语概念，不等同每次发言者都有现实统治权。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page12–13 L42–45；Page19–21 L63–69"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域2现实与语言对立。",
+          "status": "supported_course_statement",
+          "finding": "现实被加引号且已符号化，二分不是未符号世界/符号语言的简单二分。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page6–9 L24–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4开放。",
+          "status": "supported_course_statement",
+          "finding": "不同本体论都可借语言表达。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page10–12 L36–42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4开放。",
+          "status": "supported_course_statement",
+          "finding": "不同认识论亦可习得、构建。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page10 L36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的3大名字锚点调和科学/意识形态话语。",
+          "status": "supported_course_statement",
+          "finding": "命名为直接轴定义；大名字不限伟人，也包括我、父母、亲友。",
+          "source_ids": [
+            "m244-0185"
+          ],
+          "locator": "Page12–13 L42–45；Page31–37 L103–121；Page43 L139"
+        }
+      ],
+      "editorial_notes": [
+        "Page13讲者明说要把拉康的能指链“拽一下”，本讲不能直接当作拉康四话语的标准教科书定义。癔症、阉割、父性等属于这里的理论用语，不是对现代人或某政治人物的临床诊断。",
+        "关于共同体现代化、战争影响以及语言和身体节律的广泛判断，均仅核到讲稿的表述；未作社会史、神经科学或发展心理学的实证确认。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "MSML等缩写对应的完整人物名单及讲者引述齐泽克的具体原典段落未在本批核实，显示摘要已避免据缩写擅补。"
+      ]
+    },
+    {
+      "code": "2-4-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部人工字段拆为可核命题，课程对学说的解释、讲者的自设模型和历史评价分别标注；未核细节列明并在必要时修订显示文字。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "寿山与虚空齐年的问答。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲稿给出此问答并称寿山为所居山，讲者对禅师名号自己表示不确定；问答古籍版本本批未核。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "先以虚空诱导形而上思考，再反转为语言游戏。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "瓮中捉鳖的解释完整见Page15–17，是讲者解读。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page14–17 L48–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "语言携带本体承诺，应破幻想而非替幻想找答案。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page17明确连到蒯因的本体论承诺；未确认这是禅宗所有宗派共同定义。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page16–17 L54–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "牵牛入鼻孔/祸不入慎家之门为讲中所读公案语句。",
+          "status": "supported_course_statement",
+          "finding": "讲稿反复转述，但尚未校古籍用字。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page24–29 L82–110"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "思考语句的隐藏意义像牛被牵鼻。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者把理论冲动解释为自己牵制自己。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page25–29 L85–111"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "谨慎不执理论、不设门便不被祸入。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page30先提出门开再进一步说无门，是逐层解读，不是门从此不存在的物理事实。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page30–33 L114–123"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "场域二分为语言和现象并置平等。",
+          "status": "needs_precision",
+          "finding": "具体论述确实平等看待语言、理论和体验，但明说场域二分为差别见/平等见；原轴混合被平等化的对象与维持的二分。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page21–24 L73–82；Page34–35 L128–133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "语言是激发想象结构的隐喻工具。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "图像/通道/界面解读明确属于讲者方式。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page1–11 L9–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "从纯行动戒律获得前符号领悟。",
+          "status": "needs_precision",
+          "finding": "Page20–21说体验现象已是领悟，不需要后面另一个悟；戒律解释为不执理论，而非从遵戒另获一种超越真理。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page20–24 L70–82"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "法尚应舍何况非法为本讲确切引文。",
+          "status": "unsupported_in_checked_passage",
+          "finding": "全文核读及“法尚/何况/非法”检索未定位；此名句不能作为已核本讲引语。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "全文Page1–42 L9–156"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "禅宗在前现代具有解放性。",
+          "status": "supported_course_evaluation",
+          "finding": "Page35是讲者评价，不是宗教史共识。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page35 L133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "没有独立经济基础只能化缘。",
+          "status": "supported_course_evaluation",
+          "finding": "Page35讲者如此说，但未引寺院经济史证据，且范围不能泛化整个禅宗史。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page35 L133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "对等级符号秩序下受压抑者提供治愈性解脱，可类比分析师话语。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page39–41明确其作用对象与前提；是理论/治疗类比，未验证疗效。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page39–41 L145–153"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "2443与2444相互纠缠或震荡。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page38–39以language/lalangue与中心化/未中心化描述。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page38–39 L142–145"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "同音异义使语言无法完美中心化。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "末段明确同音异义、无名以及只能暂认游戏规则，非仅语言学同音统计。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page38–39 L142–145"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "2444反中心化并保留狂野想象结构。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者称想象性之海和不服固定符号的游戏。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page38–41 L142–153"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域2现象和语言的二分与平等对立。",
+          "status": "needs_precision",
+          "finding": "更直接定义是差别见与平等见；平等见否认语言/真理高于体验，仍以反对执超越性差别为出发点。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page21–24 L73–82；Page34–35 L128–133"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4开放。",
+          "status": "supported_with_scope_limit",
+          "finding": "无单独长篇列格定义，但Page19说语言临时可能与本体上可能平等，后段取消固定名相，可支持开放；这是从正文论证整理。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page19 L65；Page24 L82；Page38 L142"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4开放。",
+          "status": "supported_with_scope_limit",
+          "finding": "通过不执语义语法、不给理论/语言超越地位整理，非独立原音已核的板书文字。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page11–12 L39–42；Page21–24 L73–82"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的4解脱。",
+          "status": "supported_course_statement",
+          "finding": "反复直接以究竟解脱/破除闭合作为旨趣，后段限定已有等级制压抑者。",
+          "source_ids": [
+            "m244-0186"
+          ],
+          "locator": "Page22–24 L76–82；Page39–41 L145–153"
+        }
+      ],
+      "editorial_notes": [
+        "本讲以禅宗为代表并使用若干公案，但课程的拓扑/想象性解读不是古籍原文的直接释义。人名、谱系和公案异文多处转录不稳，讲者本人也表示不熟悉部分谱系；本批不据此补全未核佛教史。",
+        "本体论4和认识论4保留为正文论证可支持的概括，未冒称已有清晰的独立列格原音。关于病理化、治愈以及“不独立经济基础”等广泛断言均仅核课程归属。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "《五灯会元》公案版本、禅师名号和引文字样待原典校核；本批未核“法尚应舍，何况非法”出现在本讲，故已从显示摘要移除。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "2-4-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①杜威认为哲学本身的发展是没有目的性的，各种哲学只有分类学意义上的不同而没有根本的不同，哲学活动的目的是摆脱时代中所流行的二元对立的影响，获得一种精简的思维方法。",
+      "after": "①按本讲对杜威的解释，哲学史没有预定目的，不同流派如偶然形成的岩层分类；这不等于哲学活动毫无目的。其具体任务是摆脱时代文化中的二元对立，经过思想训练获得较精简的思维方法。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0182"
+      ],
+      "locator": "Page3–5 L15–22",
+      "rationale": "区分哲学史没有预定终点与具体活动有目的，标明课程解释。"
+    },
+    {
+      "code": "2-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②杜威把哲学与其他实践活动并列，以此消解作为哲学的理论的超越性，但是他之所以能够取消理论与技艺的二元对立，恰恰是因为他的实用主义本身就是一种哲学理论，实用主义是站在理论的立场上声称的技艺与理论是平等的，所以它依然是一种形而上学。",
+      "after": "②讲者认为，杜威把哲学与其他生活技艺并列，意在取消理论的超越地位；但宣布理论与技艺平等、消解二者对立的活动，本身仍占据理论位置。正是基于这一批评，本课把这种实用主义归入形而上学。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0182"
+      ],
+      "locator": "Page4–8 L18–31",
+      "rationale": "区分杜威被描述的立场与讲者的反驳。"
+    },
+    {
+      "code": "2-4-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③实用主义有一定的现实作用，杜威不认为人的意识可以与它的认识对象拉开距离，以此获得客观中立的知识，但是他没有突出主体性在认知中的重要地位，是伪辩证的。",
+      "after": "③本讲肯定实用主义对具体生活、学习和环境互动的关注，并说明杜威拒绝置身对象之外的知识旁观论；但讲者认为它未把主体性设为核心中介，因而把其过程主义与整体主义批评为“伪辩证”。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0182"
+      ],
+      "locator": "Page8–14 L31–49",
+      "rationale": "保留肯定与批评，明确后者属于讲者判断。"
+    },
+    {
+      "code": "2-4-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4 无需认识、好用就行",
+      "after": "认识论4 拒绝旁观式认识及经验／观念的严格二分，以具体效用检验方法",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0182"
+      ],
+      "locator": "Page8–12 L31–43",
+      "rationale": "无需认识会抹掉讲稿对经验、知识和工具性活动的实质论述。"
+    },
+    {
+      "code": "2-4-4-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，承认本体(分析性、简明性、统计性)的存在，但是这些形而上学承认的意义只是为了使科学共同体的理论建构更加便利，而真正的本体是不可讨论的，也无需讨论。",
+      "after": "②本讲用“本体论承诺”说明其本体论：语言不可避免地采用某些工作假设，例如物理语言中的原子或基本粒子；承诺不等于已经优先把握终极本体。简明性、解释深度和逻辑统计方法用于评估科学理论，不能与所承诺的实体混为一谈；分析性等意义假设反而是本讲所述批判对象。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0183"
+      ],
+      "locator": "Page3–4 L15–18；Page6–8 L24–30",
+      "rationale": "纠正本体对象、方法标准与被批判概念的混淆。"
+    },
+    {
+      "code": "2-4-4-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③意义的整体主义：所有理论语言的意义都可以通过对其中四个维度(假说、背景预设、逻辑公理、经验结果)的调整获得，所以所有理论语言(数学语言、物理语言、社会学语言)都是说得通的。",
+      "after": "③本讲把意义整体主义概括为四个可相互调整的维度：理论假说、背景理论、逻辑数学方法或公理、经验报告及其解释。一个命题要放在这一整体中评估；可调整不等于任何理论都无条件成立，讲稿仍要求简明性、解释深度及方法论上的可辩护性。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0183"
+      ],
+      "locator": "Page6–10 L24–36；Page13–15 L45–51",
+      "rationale": "删除所有语言都说得通的无条件推论。"
+    },
+    {
+      "code": "2-4-4-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在目的论上认为，虽然在本体论和认识论背后没有真正坚实的东西作为保证，但我们依然可以承认一些科学假设(谓词逻辑、电子)，并由此建构一些理论，这些理论的唯一目的就是促进人的生存。",
+      "after": "④在目的论上，本讲把科学化理解为具有实践效益的理论化：采用可辩护的逻辑数学方法和本体论工作假设，形成能改善生存与生活的理论；其价值不是来自一个不受质疑的终极保证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0183"
+      ],
+      "locator": "Page7–9 L27–33；Page13–16 L45–54",
+      "rationale": "使用已定位的例子和条件，不保留未定位的谓词逻辑/电子并列。"
+    },
+    {
+      "code": "2-4-4-1",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论2 日常话语与科学话语的对立",
+      "after": "场域论2 日常／内涵主义的哲学话语与科学话语的对立",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0183"
+      ],
+      "locator": "Page5–7 L21–27",
+      "rationale": "恢复讲者对左侧的即时具体化。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①反对形而上学：\n\t(1)形而上学是片面的，辩证法是整体的。\n\t(2)就算形而上学是整体的，形而上学还是僵死的，而辩证法是运动的。\n\t(3)就算形而上学是运动的，形而上学还是只有量变的，而辩证法是有质变的。\n\t(4)就算形而上学是有质变的，形而上学还是二元对立的，而辩证法是螺旋上升的。\n\t这种撤退式的论述结构非常类似于高尔吉亚的论述结构(2-1-4-1)。这种撤退结构说明正统辩证唯物主义所坚持的“辩证唯物主义”无法自圆其说地与形而上学拉开距离，反而证明这种“辩证唯物主义”就是一种极力掩盖自己是形而上学的形而上学。",
+      "after": "①讲者将教科书式“形而上学／辩证法”对照重构为四层后撤：片面／整体、静止／运动、只有量变／有质变、循环的二元对立／螺旋上升。他把它与高尔吉亚式后撤作比较，并据此批评：这种自称摆脱形而上学的框架，仍预设一个整全而既定的秩序。这里记录的是本讲的论证，不是该学说的中立定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page2–5 L12–21",
+      "rationale": "明确四重重构与批评归属。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②“唯物主义”：正统辩证唯物主义中的物质是科学实在论意义上的物质，但这些物质不能被直接认识，而只能被间接的反映。主体也是一种特殊的物质，人的主观能动性来自于物质，没有看到主体的否定性在辩证法中的关键地位。",
+      "after": "②在本讲的批评中，“正统辩证唯物主义”把物质理解为科学实在论意义的物质，以间接反映把握它；心灵及主观能动性又被归于物质。讲者据此认为，这一框架没有给否定性的主体中介以独立地位。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page1–2 L9–12；Page30–34 L96–108",
+      "rationale": "标明课程批评，避免误作整个传统唯一且中立的描述。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③真正的辩证法不是正反合的公式，而是在正题与反题走向合题的运动陷入僵局时出现，是概念无法在现行的符号系统中流畅运转，从而产生出的一种打破旧符号秩序、创立新符号秩序的力量。",
+      "after": "③讲者主张，辩证法应把握正题与反题无法顺畅走向合题的僵局：旧概念体系不能再吸收异质性，新的力量和命名才可能出现。这不是僵局必然产生成功的新秩序，后文也明确保留行动失败的可能。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page8–10 L30–36；Page28–29 L90–93",
+      "rationale": "补足可能性和失败边界，不把中介转变写成保证。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④真正的辩证唯物主义恰恰承认自己的有限性、片面性、量变性、二元对立，拒绝现成的超越性的辩证法视角，因为这些视角本身就是现行符号秩序所设立的大他者。相反，一切辩证的、鲜活的力量都来自于主体的否定性，都是主体从自己主观的、有限的视角下做出的行动。",
+      "after": "④本讲以片面、有限的主体行动反对现成的全知视角；所谓“只有量变”，是说旧的质的分类体系不能识别新生变化，只把它当作不起眼的量变。坚持二元对抗，则是保持尚未被调和的张力、向新力量开放，不是预知一个必然螺旋上升的结果。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page5–7 L21–27；Page15–22 L51–72；Page24–29 L78–93",
+      "rationale": "澄清量变与二元对立的限定，避免把讲者反常识措辞读成静态定律。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤正统辩证唯物主义是斯大林及其周围的知识分子所构建的，其内核只是穆勒(2-4-2-1)的翻版，斯大林本人也已经意识到了这套理论是僵死的，但这套形而上学提供了意识形态动员力，加速苏联的工业化使其能够赢得二战，是历史中无奈的选择。(列宁是列宁主义者，斯大林也是列宁主义者，但斯大林不是斯大林主义者。)",
+      "after": "⑤讲者把这一教科书框架比作穆勒形而上学的动员化改造，并把它与斯大林时代知识分子的理论工作相联系。他推测斯大林本人明知其僵化而将其作为实用工具，评价这种动员有助于重工业与战时抵抗，并以“斯大林是列宁主义者而非斯大林主义者”概括自己的立场。这些是本讲的思想史比拟、动机推测与历史评价，尚未由本批史料核实。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page30–31 L96–99；Page36–37 L114–117",
+      "rationale": "保留课程观点，明确推测与历史事实证据不足。"
+    },
+    {
+      "code": "2-4-4-2",
+      "field_path": [
+        "feature_list",
+        5
+      ],
+      "before": "⑥正统辩证唯物主义也可称为意识形态实用主义，但使得作为手段的意识形态本身变成一种客观的科学，导致知识分子的头脑被框定在僵死的框架中，严重限制了苏联在自然科学和政治经济学理论方面的发展。",
+      "after": "⑥讲者将其另称“意识形态实用主义”：作为组织动员手段有其效力，但把这套意识形态当作世界和历史的客观科学，会使思想框架僵化。他在末段具体批评其对人文科学、哲学和文艺的代价；本批未在全文定位到“严重限制自然科学和政治经济学”的对应论述。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0184"
+      ],
+      "locator": "Page34–38 L108–120",
+      "rationale": "纠正学科范围的无据扩大，并保留讲者评价身份。"
+    },
+    {
+      "code": "2-4-4-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①符号系统是自我意识产生的基础，所有第一人称感受到的现实都已经是符号化了的，而最广泛的符号系统是语言，语言本身就是一种形而上学。",
+      "after": "①本讲把第一人称经验理解为已经具有符号结构，并把语言称作“天然的形而上学”。这里的符号化比口头语言更广，亦包括行动节律和经验结构；语言则是从中再次拎出的、专题化的符号链条。此说属于讲者的主体性与符号学模型。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0185"
+      ],
+      "locator": "Page1 L9；Page8–9 L30–33；Page14–15 L48–51",
+      "rationale": "不把语言与一切广义符号结构简单等同，也不作发展神经科学断言。"
+    },
+    {
+      "code": "2-4-4-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②对于主体而言，语言是一个癔症的结构，即语言为所有事物(所指)规定了一段语音作为其名称(能指)，只能用这个被规定的名称指称事物，而主体的癔症就是不断追问为什么只能用这个被规定的名称指称事物。对前现代主体，这个癔症会闭合为命名的暴力，而对于现代主体，此癔症是不闭合的，主体只是基于实用主义而承认语言。",
+      "after": "②讲者以“凭什么这个东西必须叫这个名字”的追问说明主体与命名秩序的张力，并称之为癔症结构。他把不把名称当作天然本质、却仍为交流而使用语言的姿态称为现代性的开放；这种张力也可能闭合为命名的暴力。这里不是单按年代分人：讲稿也承认前现代人的开放，以及现代人被意识形态俘获后的闭合。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0185"
+      ],
+      "locator": "Page3–8 L15–30；Page40–42 L130–136",
+      "rationale": "恢复课程自己的交叉例外，避免历史年代本质化。"
+    },
+    {
+      "code": "2-4-4-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在场域论上，现实与语言对立，但此对立是虚假的对立，因为现实本身已经是符号化了的，而语言只是这种符号化的剩余。",
+      "after": "③场域论中的二分是已经符号化的经验现实与被专题化的语言秩序之间的张力；它不是纯粹未符号化的现实与符号的对立。讲者把语言思维视为符号化不能完备所产生的剩余，而不因此否定这一张力的实际作用。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0185"
+      ],
+      "locator": "Page6–9 L24–33；Page14–16 L48–54",
+      "rationale": "虚假的对立误抹去了讲稿保留的不一致性和张力。"
+    },
+    {
+      "code": "2-4-4-3",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤在目的论上，通过语言的重复，构建了作为锚定点的名称的链条，比如马恩列斯毛，他们被共同体命名为是同一目的论(人类解放)的重复。把这些名称联结，并为这种联结赋予合理性的是科学话语，而赋予其历史的锚定点意义的是意识形态话语，所以伟大的名称能够调和科学话语与意识形态话语的对立。但如果只停留在这个阶段，重复的命名就会贬值，因为这种命名必须不断进行，哪怕后来者不够格也必须与前面的名字并列。",
+      "after": "⑤在目的论上，反复命名形成锚定共同体的“大名字”链条，既可涉及历史人物，也包括我、亲人等重要称谓。讲者用人物世系被赋予共同的解放或幸福目的为例，说明名字如何联结科学化话语与意识形态认同；并强调这不是普通的逻辑链。若只靠不断续列大人物而不反思、冒险和实践，他认为命名会因被迫延续而贬值。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0185"
+      ],
+      "locator": "Page12–13 L42–45；Page20–21 L66–69；Page25–37 L83–121",
+      "rationale": "不从缩写还原未经核对的五名清单，补回大名字不只伟人的范围及非逻辑链限定。"
+    },
+    {
+      "code": "2-4-4-3",
+      "field_path": [
+        "feature_list",
+        5
+      ],
+      "before": "⑥所有命名都已经是主人话语：主体对语言的使用，看似是在重复语言中已有的片段，但每次对话的语境都不是完全相同的 ，所以主体每次对语言的使用都是一次新的命名，而恰恰是在每一次命名中，主体通过对名称的重复坐实了能指与所指的关系，所以这种命名就是主人话语。",
+      "after": "⑥在本讲对主人话语的扩展解释中，每次言说都把已有片段置于不完全相同的语境，因此也构成一次命名；反复使用又把名称与事物的关联稳定下来。这里的“主人话语”是讲者的符号学分析，不表示每次发言都来自现实权力的主人。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0185"
+      ],
+      "locator": "Page12–13 L42–45；Page19–21 L63–69",
+      "rationale": "标明技术用语与讲者自设调整，不抹去语境差异。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①“寿山年多少？与虚空齐年。虚空年多少？寿山与齐年。”：有人问寿山禅师说寿山存在了多久，寿山禅师回答说与虚空存在的时间一样久，那人于是又问虚空存在了多久，禅师回答说与寿山存在的时间一样久。这段对话看似毫无意义，但正是禅宗思想的精髓，即通过语言游戏推翻语言的形而上学：寿山禅师的第一次回答，说寿山存在的时间与虚空一样久，这引诱普通人陷入形而上学的思考中，即思考虚空的存在性，以及虚空能否用时间的尺度衡量。但当人们进一步问虚空存在了多久时，得到的回答却是虚空存在的时间与寿山一样久，这是具有讽刺性的，这表明只要主体通过语言去思考，就已经陷入了形而上学幻想，因为语言结构中已经包含了本体性的承诺和形而上学的假设，真正要做的不是为幻想找到答案，而是破除这种幻想，而寿山禅师的回答，正是用来破除幻想的语言游戏。",
+      "after": "①本讲引用“寿山年多少？与虚空齐年；虚空年多少？与寿山齐年”的问答，并作如下解释：先用“虚空”引起追求超越答案的兴趣，再把问者带回名称之间的游戏，暴露其理论性预设。讲者把这称为“瓮中捉鳖”，用来说明如何破除语言引发的形而上学幻想；这是一种课程解读，未由本批核为公案的唯一义解。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page12–17 L42–57",
+      "rationale": "把公案解释与经核古籍定解分开，并规范现有倒装引语。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②“牵牛入你鼻孔，祸不入慎家之门。”：把牛牵入你的鼻孔，看似不知所云，但在人们思考这句话是什么意思的时候，他们就已经被语言的符号体系所牵着走，正如同耕牛被铁环牵着鼻子一样。相反，对语言保持警惕的人，就不会被语言牵制，更进一步，语言的形而上学本身就是主体造作出来的，抛弃这个符号体系，也就抛弃了门，祸也自不会入门。禅宗通过以上例子是要表明“法执太盛”的人容易陷入语言的形而上学中导致自我牵制的窘境。",
+      "after": "②对于“牵牛入你鼻孔，祸不入慎家之门”，讲者把追索语句背后固定意义的行为，比作自己被语言牵着鼻子走；“慎”则被解释为不执着于理论。他又从开门、关门推到根本不设这个门，以说明如何松开自己造出的束缚。此处是讲者逐层展开的隐喻阅读，公案版本和古籍用字尚待另核。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page24–33 L82–123",
+      "rationale": "标明讲者解读和待核古籍边界，不把单一解释当成禅宗固定教义。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在场域论上，把语言和现象放到平等的位置，抛弃语言的形而上的超越性，而只把语言当作用来激发想象性结构的隐喻。因此禅宗反对通过语言把现象(法)理论化(道)，而应该从作为纯粹行动的戒律中获得前符号的领悟。(“法尚应舍，何况非法。”)",
+      "after": "③讲者将本讲的场域二分说成“差别见／平等见”：后者把现象体验、语言和理论活动置于平等位置，否认背后还有一种更高的道或真理。语言因而只是激发想象结构的工具；体验现象本身就被解释为领悟，戒律也被他概括为行动上的不执理论，而非通过理论另取得一个超越答案。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page1–11 L9–39；Page20–24 L70–82；Page34–35 L128–133",
+      "rationale": "纠正二分对象和领悟路径，删除全文未定位的法尚应舍引语。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④禅宗的思想在前现代哲学中是比较有解放性的，但是他们没有独立的经济基础，他们只能通过语言游戏，向在前现代的符号等级制中受压抑的个体提供治愈性的符号学解脱，所以禅宗哲学可以说是分析师话语。",
+      "after": "④讲者评价这类禅宗实践具有前现代的解放性，同时批评其经济不独立；这些历史概括未由本批另核。他又把用语言游戏解除等级化符号束缚的做法类比为“前现代的分析师话语”，并限定其对象是已认真承受这类神圣差异的人。这是理论类比，不是已验证的临床疗效。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page35 L133；Page39–41 L145–153",
+      "rationale": "区分课程宗教史评价、分析话语类比和现实治疗效力。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤生存实用主义与符号实用主义(2-4-4-3)是相互纠缠的，其中，符号实用主义是中心化的，但始终会遭遇中心化的失败，因为能指与所指不是严格对应的，总是有同音异义的情况出现，而生存实用主义是反中心化的，充满了不可符号化的、狂野的想象性结构。",
+      "after": "⑤在讲者的模型中，符号实用主义与生存实用主义可相互震荡：前者以“大名字”中心化，后者把固定命名重新化为暂用的游戏规则，保留同音异义与难以固定符号化的想象结构。因此二者的纠缠不只是一对一词义失败，也关乎主体如何执着或松开名称的权威。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page38–41 L142–153",
+      "rationale": "避免把language/lalangue的课程类比化约为普通同音词问题。"
+    },
+    {
+      "code": "2-4-4-4",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论2 对形而下(现象)和形而上(语言)的二分与平等的对立",
+      "after": "场域论2 差别见与平等见（后者拒绝语言、理论高于现象体验）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m244-0186"
+      ],
+      "locator": "Page21–24 L73–82；Page34–35 L128–133",
+      "rationale": "采用正文直接列出的两侧，区分二分结构与平等化对象。"
+    }
+  ]
+}

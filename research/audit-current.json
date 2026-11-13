@@ -1,0 +1,83 @@
+{
+  "catalogue_source": "https://github.com/spaceater/ismismcube-frontend",
+  "input_path": "public/ism.json",
+  "input_last_commit": "608a5b5a05301d311d460d57f99997768532400a",
+  "input_sha256": "7a9a351da149f096e016b40ec5e22d8caa7d11340ef81b914f09e8b3911d696b",
+  "scope": "Structural inspection only. No video playback or philosophical validation; manual/ai are upstream labels, not quality certificates.",
+  "entry_count": 340,
+  "depth_counts": {
+    "1": 4,
+    "2": 16,
+    "3": 64,
+    "4": 256
+  },
+  "summary_status": {
+    "manual": 213,
+    "ai": 127
+  },
+  "groups": {
+    "1": {
+      "entries": 85,
+      "summary_status": {
+        "manual": 85
+      },
+      "empty_features": 0
+    },
+    "2": {
+      "entries": 85,
+      "summary_status": {
+        "manual": 85
+      },
+      "empty_features": 0
+    },
+    "3": {
+      "entries": 85,
+      "summary_status": {
+        "manual": 43,
+        "ai": 42
+      },
+      "empty_features": 0
+    },
+    "4": {
+      "entries": 85,
+      "summary_status": {
+        "ai": 85
+      },
+      "empty_features": 0
+    }
+  },
+  "missing_codes": [],
+  "other_top_level_keys": [
+    "introduction"
+  ],
+  "duplicate_json_keys": [],
+  "unsupported_status": [],
+  "empty_feature_codes": [],
+  "axis_placeholder_entries": [],
+  "axis_length_mismatches": [],
+  "missing_original_video_codes": [],
+  "original_link_field_interpretation": "The original-video label may contain a transcript-document URL rather than a playable video; inspect document_only_original_links separately.",
+  "document_only_original_links": [
+    {
+      "code": "1-2-1",
+      "links": [
+        "原视频文案链接：https://kdocs.cn/l/smwdYoCixAGE"
+      ]
+    },
+    {
+      "code": "1-2-1-1",
+      "links": [
+        "原视频文案链接：https://kdocs.cn/l/sv6QAEGALwSo"
+      ]
+    },
+    {
+      "code": "1-2-1-2",
+      "links": [
+        "原视频文案链接：https://kdocs.cn/l/scqrDcorcCCn"
+      ]
+    }
+  ],
+  "distinct_original_bvids": 337,
+  "shared_original_video_ids": {},
+  "shared_video_interpretation": "Review candidates only: a shared video may legitimately cover several nodes."
+}

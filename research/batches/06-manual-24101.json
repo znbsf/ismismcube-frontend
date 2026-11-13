@@ -1,0 +1,429 @@
+{
+  "batch": "06-manual-24101",
+  "review_scope": "2-4-1与2-4-1-1共17个人工feature/axis字段逐项核对；仅固定版本编纂稿，不是原音或原典审定。",
+  "sources": [
+    {
+      "id": "m24q-0167",
+      "title": "2-4-1 经验主义_霍布斯的极简形而上学_利维坦和契约论的哲学基础（人工摘要逐字段核查）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80/0167_2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80_p4358.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-1_经验主义_霍布斯的极简形而上学_利维坦和契约论的哲学基础/0167_2-4-1_经验主义_霍布斯的极简形而上学_利维坦和契约论的哲学基础_p4358.md",
+      "sha256": "be6d12ed1be63a1fe06f932df8511add05e424421f07ddba2eff378954be64f7",
+      "git_blob_sha": "fec9edecbbbfe92f8b5d252b0f87e0c39828a4d6",
+      "locator": "分讲Markdown内Page及L行号；不是视频时间码",
+      "verification_scope": "实际核读Page1–21；本讲止Page20前半，后续为波义耳开讲；未核听原音，未据此验证人物生平及原典学说。"
+    },
+    {
+      "id": "m24q-0168",
+      "title": "2-4-1-1 乐于接受的小体主义_波义耳_聪明而怯懦者的形而上学（人工摘要逐字段核查）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80/2-4-1-1_%E4%B9%90%E4%BA%8E%E6%8E%A5%E5%8F%97%E7%9A%84%E5%B0%8F%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%B3%A2%E4%B9%89%E8%80%B3_%E8%81%AA%E6%98%8E%E8%80%8C%E6%80%AF%E6%87%A6%E8%80%85%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0168_2-4-1-1_%E4%B9%90%E4%BA%8E%E6%8E%A5%E5%8F%97%E7%9A%84%E5%B0%8F%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%B3%A2%E4%B9%89%E8%80%B3_%E8%81%AA%E6%98%8E%E8%80%8C%E6%80%AF%E6%87%A6%E8%80%85%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4378.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-1_经验主义_霍布斯的极简形而上学_利维坦和契约论的哲学基础/2-4-1-1_乐于接受的小体主义_波义耳_聪明而怯懦者的形而上学/0168_2-4-1-1_乐于接受的小体主义_波义耳_聪明而怯懦者的形而上学_p4378.md",
+      "sha256": "a83fb789b41fefdfc4aa5d47f188eea70d4e8139274a31bfc0940c40cf838880",
+      "git_blob_sha": "f4f4f218d3687aa6e16de93f867f65e3f0391151",
+      "locator": "分讲Markdown内Page及L行号；不是视频时间码",
+      "verification_scope": "实际核读Page1–26；本讲止Page24，Page25–26为洛克开讲，未用作本讲学说依据；未核听原音，未据此验证人物生平及原典学说。"
+    },
+    {
+      "id": "m24q-0166-transition",
+      "title": "2-4文件末尾的2-4-1开讲",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0166_2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4339.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/0166_2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学_p4339.md",
+      "sha256": "6e9e27cae1875387ad025943b9e876765c9ff14356fa04f6f172311d6dcbe7b2",
+      "git_blob_sha": "f42a46f532b8840b7644de91ff0bc3df0b20e789",
+      "locator": "分讲Markdown内Page及L行号；不是视频时间码",
+      "verification_scope": "实际核读Page18–20；仅Page19–20作为霍布斯开讲补页，Page18属前讲；未核听原音，未据此验证人物生平及原典学说。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "2-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "实际核读范围详sources；含逐字段全部复合命题，但保留明确未核细节",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①霍布斯认为自然秩序中充满互相争斗，其中的个体为了自保而联结形成社会契约，社会契约导向文明秩序，在其中，个人让渡部分自由以换取一个强大的“利维坦(一种巨大的海怪)”政府的保护。霍布斯的《利维坦》站在英国的世俗王权一边，支持英国圣公会与罗马天主教会(Catholicism)的决裂，这与欧陆的宗教改革运动相呼应。",
+          "status": "partially_supported_added_details",
+          "finding": "开讲在0166 Page19明说自然争斗、自保、联结与财产/和平契约，0167 Page1–2有文明秩序、利维坦及站世俗王权反罗马教会/新教运动的叙述。个人让渡部分自由、海怪释名未在这两段出现；支持英国圣公会与罗马决裂是对讲者叙述的历史压缩，不宜写成已核实的《利维坦》政治史结论。改为课程有据的论述并注明归属。",
+          "source_ids": [
+            "m24q-0167",
+            "m24q-0166-transition"
+          ],
+          "locator": "Page19–20 L67–74；Page1–2 L8–13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②经验主义是一种唯名论，在本体论上认为万事万物只是名字、称呼，其背后没有所谓的共相或本质，不同的事物可能有相同的名字仅仅是因为这样最利于个人在自然秩序中对事物进行梳理和安排，或出于建立社会契约时的便利，所以事物的名字就是它的意义(Signification)。",
+          "status": "partially_supported_nominalism_scope_error",
+          "finding": "Page3明确否定的是共相、本质、类的独立本体地位，Page4承认具体苹果的经验作用；不是万事万物都只有名字。Page7–9支持同名出于相似/便利、私人偏好/公共约定及名字与意义差别微弱；“名字就是意义”应保留名字在具体话语中起指称作用的语境。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page3–4 L14–19；Page7–9 L26–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③事物的运动作用于人的感官，人的感官对其产生反作用，这种反作用是事物的运动机制的回音，人通过这种回音获得了对事物的反映，通过这种回音，人可以对运动机制进行想象和回忆，从而产生了语言和名字。名字就是附随在语言中的能够唤起某种想象的声音，这个声音对其唤起的想象之间的关联是随机的，这点非常类似于索绪尔的能指与所指的关系。",
+          "status": "supported_except_unmarked_editorial_comparison",
+          "finding": "Page4–6运动刺激、感官反作用、回声、想象/记忆两侧面均有据；Page6–9声音想象形成语言、附随名字、名字唤起感觉及任意命名有据。全文未提索绪尔，末句是编辑比较；任意性也不是没有公共习惯的随机生成。保留比较时须标明不宣称直接继承或同一理论。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page4–9 L17–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④既然人的感官是对事物的运动机制的反映，那么人所体验到的一切就都是事物的运动的效果(Effects)，所以对一切效果(Effects)都可以找到其背后的运动机制作为此效果的原因(Causes)，而人的意识无非就是在这个过程中对各种概念进行增删、推演并受到习惯、倾向、公共约定所影响的计算机。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page9–10逐效果追原因且追如何导致，外部/内在体验皆物质运动效应；10–11心灵加减运算及三段论，12习惯、个人倾向、公共约定合成心灵均有对应。计算机是讲者的解释比喻，不是证明霍布斯提出当代计算机理论。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page9–12 L32–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤不承认笛卡尔的“我思”：经验主义认为人不能认识任何非物质的东西(比如人可以认识红的苹果，但是不能认识“红”本身)，也不能清楚明白地把握事物之间的不同。而我思是非物质的、无广延的、有缺陷的，所以它不能声称自己的存在，也不可能体验到完满无缺陷的上帝(God)。但是经验主义没有认识到，事物能够被经验性的体验，比如一个苹果可以被体验为甜、圆、红、脆，但是苹果的苹果性本身是无法被经验性体验的，而恰恰是通过这个无法被符号化的苹果性，才使得各个属性组合为苹果这个实体，从而能够被体验到。而“我思”也是如此这般无法被符号化、无法被经验性把握的点位，也恰恰是通过我思，才使得所有的感官和时空观能组合为意识。",
+          "status": "partially_supported_inference_confused_with_discrimination",
+          "finding": "拒绝非物质心灵/我思Page2及12明确；12–15红不能脱载体独存不等于不能认识红的属性；13–14、17–18批评的是由清楚独立思考推出对象独立存在，不是不能分辨差异。“有缺陷”是讲者描述笛卡尔论证的前提，不是经验主义否认我思的直接原因。15–17此苹果性、不可符号化的统一点明确为讲者插论；由它类推所有感官时空观如何组成意识未在本讲正文展开。应标区分，不能当霍布斯原说或已证明认知机制。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page12–18 L41–61"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 自然秩序与文明秩序的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "0166开讲与0167 Page2明确自然秩序/文明秩序对立；文明从自然派生仍被课程作为两层背景。",
+          "source_ids": [
+            "m24q-0167",
+            "m24q-0166-transition"
+          ],
+          "locator": "Page19–20 L67–74；Page2 L11–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 事物的运动/运动机制",
+          "status": "supported_by_compiled_text",
+          "finding": "Page2–3明确本体击穿/悬空而非什么都无，仍用物质运动及运动机制表述，不允许进一步编造本体故事。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page2–3 L11–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 回音论、反映论",
+          "status": "supported_with_preferred_term",
+          "finding": "Page4先称反映/反作用论，Page5明确偏好回音论以避免白板映像；原轴同时列两词有课程依据，宜以回音为主读。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page4–6 L17–25"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本批仅核对课程编纂文本。关于世俗王权、宗教改革、心灵计算及人物性格的评价按讲者解释记录，未作原典、政治史或人物传记审定。",
+          "source_ids": [
+            "m24q-0167"
+          ],
+          "locator": "Page1–20 L8–75"
+        }
+      ],
+      "open_questions": [
+        "课程的人物原典/生平解释尚未独立验证。"
+      ],
+      "reading_links": []
+    },
+    {
+      "code": "2-4-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "9/9",
+        "scope": "实际核读范围详sources；含逐字段全部复合命题，但保留明确未核细节",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①波义耳的微粒概念类似原子，但原子不可分而微粒可分，他认为上帝(God)创造了运动的微粒，并赋予和维持其运动规则(Law)，从而构成物质世界。",
+          "status": "supported_later_with_internal_transcript_conflict",
+          "finding": "创造物质小体、赋运动再赋规则并持续维持在Page3、6明确。可分性有稿内冲突：Page1说原子可无限分而小体不能，Page20、23却说小体可继续/无限分；后段支持现有微粒可分，不据开头孤句反改。原子不可分的对比在本讲缺少一致明文，需保留原音/原典核验注，不能称本字段全获确认。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page1 L8–10；Page3–6 L14–25；Page20–23 L85–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②人的心灵也由微粒构成，人对事物的体验是心灵微粒与事物微粒相互作用产生的表象，但心灵包含非物质的维度，这种非物质性来自于心灵作为承受者承受的上帝(God)所赋予的超越性。",
+          "status": "supported_as_lecturer_reconstruction",
+          "finding": "Page3–5心灵神经小体、附随非物质性与被动承受超越知识逐项有据；Page11、14、16–18小体相互作用产生表象；Page23明确非物质维度只是附随属性而非独立实体。讲者称其含混，不把物质心灵/非物质维度并置视为已经解决的心身理论。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page3–5 L14–22；Page11–14 L42–61；Page16–18 L67–79；Page23 L100–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③在本体论上敞开，放弃“我思”作为中介者的地位，人没有资格也没必要去架设本体论，上帝随时可能干预世界，改变对规则(Law)的设定，由此创造奇迹。",
+          "status": "supported_with_thought_scope",
+          "finding": "Page7–9本体4敞开、奇迹可改变/调节规则以及无资格用思辨倒推创设有据；12–13我思无本体论发言权明确。不过8明确实验结果与思辨框架相互校正，所谓放弃架设本体论不等于不需要任何理论思考。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page7–13 L26–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④在认识论上，认为人只能通过探索性的实验，被动性和接受性的了解上帝设定的规则，而且这些规则随时可能被上帝更改(经验主义的怀疑论)，除此之外，任何对规则的认识都是不可能的，所以波义耳放弃思考心身协同、自由意志等问题。",
+          "status": "partially_supported_exclusive_claim",
+          "finding": "Page9–11、14实验接受性和暂时性，15–16探索性调参实验与可修正规则，14身心/自由意志不可思均有对应；但2、5、14还允许被动启示/超越认识，8允许理论指导实验。因此“只能探索性实验”“除此任何认识不可能”过强，不能把一种实验类型写成全部可能的认识来源。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page2–5 L11–22；Page8–16 L29–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤波义耳的形而上学来自于他命运多舛的生活，他在主体姿态上是后撤的，所以他在主体姿态上不如笛卡尔和伽森狄勇敢。",
+          "status": "supported_only_as_biographical_interpretation",
+          "finding": "Page2–3把童年经验联系接受姿态，13以情感遗憾说明等赏，18–24比较笛卡尔/伽森狄的主体位置，22–24明确命途多舛的传记因果猜解。此为讲者的人格/思想史解释，叙述含多处“好像/不知道”，不能作为已验证的生平与必然思想成因。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page2–3 L11–16；Page12–13 L47–56；Page18–24 L75–109"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 作为微粒的场所的宇宙(Universe)与维持规则(Law)的上帝(God)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "Page5–7将world改成universe作小体场所，对应为其赋予/持续维持秩序的神；两背景明确，不将上帝误为同一空间内另一微粒。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page5–7 L20–28"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 对上帝的规则敞开",
+          "status": "supported_by_compiled_text",
+          "finding": "Page8–9明确4是开放性，奇迹可使既有规则被调整；这不是数字反推。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page8–9 L29–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 通过实验被动接受",
+          "status": "supported_with_receptivity_scope",
+          "finding": "Page11、13–16明确实验的认识论价值与认识论1的被动接受；被动是讲者对心灵位置的刻画，15–16仍描述主动调参，不能读作实验者不操作。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page11–16 L42–69"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 承受上帝的安排",
+          "status": "supported_by_compiled_text",
+          "finding": "Page13直接说伦理学标准1、乐于接受所授规则，21–24重复承受安排/追求超越与善的姿态。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page12–14 L47–61；Page21–24 L90–109"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本批仅核对课程编纂文本。关于世俗王权、宗教改革、心灵计算及人物性格的评价按讲者解释记录，未作原典、政治史或人物传记审定。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page1–24 L8–109"
+        },
+        {
+          "text": "可分性转录前后冲突：Page1把原子/小体的可分性说反于Page20、23。现条目“微粒可分”与后段一致，暂不倒置；原子不可分的对比及开头是否口误/错转仍需核原音或原典。正文其余数理/气体、家族生平例子不因本批核对而获科学或史实认证。",
+          "source_ids": [
+            "m24q-0168"
+          ],
+          "locator": "Page1 L8–10；Page20–24 L85–109"
+        }
+      ],
+      "open_questions": [
+        "课程的人物原典/生平解释尚未独立验证。",
+        "可分性开头与后文冲突待原音核对。"
+      ],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "2-4-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①霍布斯认为自然秩序中充满互相争斗，其中的个体为了自保而联结形成社会契约，社会契约导向文明秩序，在其中，个人让渡部分自由以换取一个强大的“利维坦(一种巨大的海怪)”政府的保护。霍布斯的《利维坦》站在英国的世俗王权一边，支持英国圣公会与罗马天主教会(Catholicism)的决裂，这与欧陆的宗教改革运动相呼应。",
+      "after": "①讲者以霍布斯为代表说明：自然秩序中的个体相互争斗，出于自保而联结，形成财产、和平等契约，进而构成文明秩序与利维坦国家。课程把霍布斯放在支持世俗王权、反对罗马教会权威的背景下理解，并将其与当时的新教运动联系起来；这属于讲者对其政治和宗教立场的概括。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0167",
+        "m24q-0166-transition"
+      ],
+      "locator": "Page19–20 L67–74；Page1–2 L8–13",
+      "rationale": "用实际开讲补页保留契约论；不以未核正文支持让渡自由/海怪释名及过度压缩的教会史。"
+    },
+    {
+      "code": "2-4-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②经验主义是一种唯名论，在本体论上认为万事万物只是名字、称呼，其背后没有所谓的共相或本质，不同的事物可能有相同的名字仅仅是因为这样最利于个人在自然秩序中对事物进行梳理和安排，或出于建立社会契约时的便利，所以事物的名字就是它的意义(Signification)。",
+      "after": "②本讲把霍布斯的经验主义解释为唯名论：否认共相、本质或类具有独立的本体地位，并不否认具体事物对人的经验作用。不同事物被取同一个名字，可以出于相似性、私人整理的便利或人与人之间的公共约定。讲者因此强调名字在话语中的指称作用，把它与意义(Signification)紧密联系，而不另设独立的形而上意义领域。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0167"
+      ],
+      "locator": "Page3–4 L14–19；Page7–9 L26–34",
+      "rationale": "将万事万物仅是名字收窄为共相/本质无独立地位，并恢复话语语境。"
+    },
+    {
+      "code": "2-4-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③事物的运动作用于人的感官，人的感官对其产生反作用，这种反作用是事物的运动机制的回音，人通过这种回音获得了对事物的反映，通过这种回音，人可以对运动机制进行想象和回忆，从而产生了语言和名字。名字就是附随在语言中的能够唤起某种想象的声音，这个声音对其唤起的想象之间的关联是随机的，这点非常类似于索绪尔的能指与所指的关系。",
+      "after": "③事物的运动作用于人的感官，人的感官对其产生反作用，这种反作用是事物的运动机制的回音，人通过这种回音获得了对事物的反映，通过这种回音，人可以对运动机制进行想象和回忆，从而产生了语言和名字。名字就是附随在语言中的能够唤起某种想象的声音，声音与它所唤起的想象之间的命名关联具有任意性，也受私人偏好和公共约定影响。编辑上可以将这种任意性与索绪尔的能指、所指关系作比较，但本讲没有提到索绪尔，也未证明二者是同一理论或直接继承关系。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0167"
+      ],
+      "locator": "Page4–9 L17–34",
+      "rationale": "把随机改为命名任意性，明确索绪尔比较为编辑关联。"
+    },
+    {
+      "code": "2-4-1",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤不承认笛卡尔的“我思”：经验主义认为人不能认识任何非物质的东西(比如人可以认识红的苹果，但是不能认识“红”本身)，也不能清楚明白地把握事物之间的不同。而我思是非物质的、无广延的、有缺陷的，所以它不能声称自己的存在，也不可能体验到完满无缺陷的上帝(God)。但是经验主义没有认识到，事物能够被经验性的体验，比如一个苹果可以被体验为甜、圆、红、脆，但是苹果的苹果性本身是无法被经验性体验的，而恰恰是通过这个无法被符号化的苹果性，才使得各个属性组合为苹果这个实体，从而能够被体验到。而“我思”也是如此这般无法被符号化、无法被经验性把握的点位，也恰恰是通过我思，才使得所有的感官和时空观能组合为意识。",
+      "after": "⑤本讲中的霍布斯不承认非物质的“我思”具有独立本体地位，也反对把“红”等属性当作能脱离具体载体而存在的实体。他质疑的是：能清楚、独立地思考两个概念，是否足以证明它们可各自独立存在；这不等于否认人能分辨事物。讲者随后以苹果的属性清单作自己的反驳：红、甜、圆等属性并不等于使它们成为“此苹果”的统一性，他把这个不能被经验和符号清单穷尽的点称为“此苹果性”。这一批评不是霍布斯的原说；它与“我思”的关系在此作为讲者的哲学问题提出，不能写成已经证明所有感官与时空观如何组成意识。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0167"
+      ],
+      "locator": "Page12–18 L41–61",
+      "rationale": "修正清楚区分与独立存在的推理混淆，区分讲者插论与霍布斯原说，移除未展开的感官/时空机制断言。"
+    },
+    {
+      "code": "2-4-1-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在认识论上，认为人只能通过探索性的实验，被动性和接受性的了解上帝设定的规则，而且这些规则随时可能被上帝更改(经验主义的怀疑论)，除此之外，任何对规则的认识都是不可能的，所以波义耳放弃思考心身协同、自由意志等问题。",
+      "after": "④课程把波义耳的实验认识解释为接受性的：实验让人了解上帝设定的规则，所得知识具有暂时性，不能通过纯思辨反推上帝必须怎样安排世界。讲者特别介绍调参取证的探索性实验，也承认理论与实验可以互相修正，并提到被动接受启示的可能；因此不能说一切认识都只能来自这一类实验。对于身心协同、自由意志等问题，讲者描述他的态度是把相关规则交给上帝，不再主动追问。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0168"
+      ],
+      "locator": "Page2–5 L11–22；Page8–16 L29–69",
+      "rationale": "去除只有探索性实验及其他规则认识皆不可能的全称，保留本讲其他认识来源/理论工作。"
+    },
+    {
+      "code": "2-4-1-1",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤波义耳的形而上学来自于他命运多舛的生活，他在主体姿态上是后撤的，所以他在主体姿态上不如笛卡尔和伽森狄勇敢。",
+      "after": "⑤讲者将波义耳接受、后撤的主体姿态与其生活中的痛苦和遗憾联系起来，并据此评价他不如笛卡尔、伽森狄敢于赋予“我思”本体论地位。这是课程的传记性解释和哲学评价，不能仅凭讲述便认定其生平细节或思想成因已经得到验证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m24q-0168"
+      ],
+      "locator": "Page12–13 L47–56；Page18–24 L75–109",
+      "rationale": "明确勇敢/怯懦与生平因果为讲者解释，不将其自然化成客观人物事实。"
+    }
+  ]
+}

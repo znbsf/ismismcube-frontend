@@ -1,0 +1,3470 @@
+{
+  "scope": {
+    "branch": "1-3",
+    "status": "complete_field_records",
+    "expected_nodes": 21,
+    "recorded_nodes": 21
+  },
+  "sources": [
+    {
+      "id": "m1-0046",
+      "title": "1-3 庸俗唯我论_复习课：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0046_1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p1069.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/0046_1-3_庸俗唯我论_复习课_p1069.md",
+      "sha256": "6d8923bda04e77b33dc20fa56650909268da9db4abfbc22747e5da6d44b595ad",
+      "git_blob_sha": "4f9901c146a35b87d9858dead2932f4ae31a97dd",
+      "verification_scope": "实际核读复习课Page 1–14、21–23；定义另见1-3-1 Page 1–2；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0047",
+      "title": "1-3-1 伪唯心主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/0047_1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_p1102.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-1_伪唯心主义/0047_1-3-1_伪唯心主义_p1102.md",
+      "sha256": "52ac5153db8080157ccb98d9bf70fe48460ed40e24988ca1379d27ad720362b5",
+      "git_blob_sha": "d1110d86f1953ffee939428f0e0c5777600e7d08",
+      "verification_scope": "实际核读Page 1–14；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0048",
+      "title": "1-3-1-1 客观唯心主义_文化贵族们的祖传饭碗_扣在柏拉图_谢林头上的前现代臭痰盂：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/1-3-1-1_%E5%AE%A2%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%96%87%E5%8C%96%E8%B4%B5%E6%97%8F%E4%BB%AC%E7%9A%84%E7%A5%96%E4%BC%A0%E9%A5%AD%E7%A2%97_%E6%89%A3%E5%9C%A8%E6%9F%8F%E6%8B%89%E5%9B%BE_%E8%B0%A2%E6%9E%97%E5%A4%B4%E4%B8%8A%E7%9A%84%E5%89%8D%E7%8E%B0%E4%BB%A3%E8%87%AD%E7%97%B0%E7%9B%82/0048_1-3-1-1_%E5%AE%A2%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%96%87%E5%8C%96%E8%B4%B5%E6%97%8F%E4%BB%AC%E7%9A%84%E7%A5%96%E4%BC%A0%E9%A5%AD%E7%A2%97_%E6%89%A3%E5%9C%A8%E6%9F%8F%E6%8B%89%E5%9B%BE_%E8%B0%A2%E6%9E%97%E5%A4%B4%E4%B8%8A%E7%9A%84%E5%89%8D%E7%8E%B0%E4%BB%A3%E8%87%AD%E7%97%B0%E7%9B%82_p1117.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-1_伪唯心主义/1-3-1-1_客观唯心主义_文化贵族们的祖传饭碗_扣在柏拉图_谢林头上的前现代臭痰盂/0048_1-3-1-1_客观唯心主义_文化贵族们的祖传饭碗_扣在柏拉图_谢林头上的前现代臭痰盂_p1117.md",
+      "sha256": "0a6dc353119eb805183a066357d807e6463a4691889cc57a0a6f3a1d3cd99edb",
+      "git_blob_sha": "431e1663526474f712cbdc42bff54624091da340",
+      "verification_scope": "实际核读Page 1–16；17识别为下一讲开头；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0049",
+      "title": "1-3-1-2 主观唯心主义_成为_圣人_的最廉价方式_不少聪明人无法抵挡的诱惑：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/1-3-1-2_%E4%B8%BB%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%88%90%E4%B8%BA_%E5%9C%A3%E4%BA%BA_%E7%9A%84%E6%9C%80%E5%BB%89%E4%BB%B7%E6%96%B9%E5%BC%8F_%E4%B8%8D%E5%B0%91%E8%81%AA%E6%98%8E%E4%BA%BA%E6%97%A0%E6%B3%95%E6%8A%B5%E6%8C%A1%E7%9A%84%E8%AF%B1%E6%83%91/0049_1-3-1-2_%E4%B8%BB%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%88%90%E4%B8%BA_%E5%9C%A3%E4%BA%BA_%E7%9A%84%E6%9C%80%E5%BB%89%E4%BB%B7%E6%96%B9%E5%BC%8F_%E4%B8%8D%E5%B0%91%E8%81%AA%E6%98%8E%E4%BA%BA%E6%97%A0%E6%B3%95%E6%8A%B5%E6%8C%A1%E7%9A%84%E8%AF%B1%E6%83%91_p1134.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-1_伪唯心主义/1-3-1-2_主观唯心主义_成为_圣人_的最廉价方式_不少聪明人无法抵挡的诱惑/0049_1-3-1-2_主观唯心主义_成为_圣人_的最廉价方式_不少聪明人无法抵挡的诱惑_p1134.md",
+      "sha256": "67f9149b27b369aad2892cb10dff99950b9176af96f6c54e76f5feca30fdb0a3",
+      "git_blob_sha": "fa43aef1c4bdd0032bad7dbfa010f5022226fa2e",
+      "verification_scope": "实际核读Page 1–19、21–26；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0050",
+      "title": "1-3-1-3 现实唯心主义_面对_心不齐_的拧绳哲学：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/1-3-1-3_%E7%8E%B0%E5%AE%9E%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E9%9D%A2%E5%AF%B9_%E5%BF%83%E4%B8%8D%E9%BD%90_%E7%9A%84%E6%8B%A7%E7%BB%B3%E5%93%B2%E5%AD%A6/0050_1-3-1-3_%E7%8E%B0%E5%AE%9E%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E9%9D%A2%E5%AF%B9_%E5%BF%83%E4%B8%8D%E9%BD%90_%E7%9A%84%E6%8B%A7%E7%BB%B3%E5%93%B2%E5%AD%A6_p1164.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-1_伪唯心主义/1-3-1-3_现实唯心主义_面对_心不齐_的拧绳哲学/0050_1-3-1-3_现实唯心主义_面对_心不齐_的拧绳哲学_p1164.md",
+      "sha256": "2efe4156733bc49a53138cc52635c94923ef902bf96bc848ab36056f86d9409c",
+      "git_blob_sha": "80857c57fa5c953cb2fe6124997cf9ff231fda68",
+      "verification_scope": "实际核读Page 1–16、21–22、24–25；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0051",
+      "title": "1-3-1-4 唯梦论_人生如梦_一樽还酹江月的哲学_兼论梦在主体性与主体间性上的核心特征：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/1-3-1-4_%E5%94%AF%E6%A2%A6%E8%AE%BA_%E4%BA%BA%E7%94%9F%E5%A6%82%E6%A2%A6_%E4%B8%80%E6%A8%BD%E8%BF%98%E9%85%B9%E6%B1%9F%E6%9C%88%E7%9A%84%E5%93%B2%E5%AD%A6_%E5%85%BC%E8%AE%BA%E6%A2%A6%E5%9C%A8%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%8E%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E4%B8%8A%E7%9A%84%E6%A0%B8%E5%BF%83%E7%89%B9%E5%BE%81/0051_1-3-1-4_%E5%94%AF%E6%A2%A6%E8%AE%BA_%E4%BA%BA%E7%94%9F%E5%A6%82%E6%A2%A6_%E4%B8%80%E6%A8%BD%E8%BF%98%E9%85%B9%E6%B1%9F%E6%9C%88%E7%9A%84%E5%93%B2%E5%AD%A6_%E5%85%BC%E8%AE%BA%E6%A2%A6%E5%9C%A8%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%8E%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E4%B8%8A%E7%9A%84%E6%A0%B8%E5%BF%83%E7%89%B9%E5%BE%81_p1189.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-1_伪唯心主义/1-3-1-4_唯梦论_人生如梦_一樽还酹江月的哲学_兼论梦在主体性与主体间性上的核心特征/0051_1-3-1-4_唯梦论_人生如梦_一樽还酹江月的哲学_兼论梦在主体性与主体间性上的核心特征_p1189.md",
+      "sha256": "60681d71f78185153115efe3741bccaf9f64495576a19a462e078a216a0446b9",
+      "git_blob_sha": "3fa79594c8b2b0a54705142621a810df47c29441",
+      "verification_scope": "实际核读Page 1–21（末段为下一讲开头）；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0052",
+      "title": "1-3-2 本真主义_小布尔乔亚文青病的基本结构：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/0052_1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p1210.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-2_本真主义_小布尔乔亚文青病的基本结构/0052_1-3-2_本真主义_小布尔乔亚文青病的基本结构_p1210.md",
+      "sha256": "66492c061ca3c90d99e92c3f9ed3c1a3d75b49e49cc633c0eff333006019a2cb",
+      "git_blob_sha": "0e5db1447a233790763bd45a35758487fa4d17e7",
+      "verification_scope": "实际核读Page 1–11、14、16–23；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0053",
+      "title": "1-3-2-1 现代斯多亚主义_文化多元主义所炮制的古典学致幻剂：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/1-3-2-1_%E7%8E%B0%E4%BB%A3%E6%96%AF%E5%A4%9A%E4%BA%9A%E4%B8%BB%E4%B9%89_%E6%96%87%E5%8C%96%E5%A4%9A%E5%85%83%E4%B8%BB%E4%B9%89%E6%89%80%E7%82%AE%E5%88%B6%E7%9A%84%E5%8F%A4%E5%85%B8%E5%AD%A6%E8%87%B4%E5%B9%BB%E5%89%82/0053_1-3-2-1_%E7%8E%B0%E4%BB%A3%E6%96%AF%E5%A4%9A%E4%BA%9A%E4%B8%BB%E4%B9%89_%E6%96%87%E5%8C%96%E5%A4%9A%E5%85%83%E4%B8%BB%E4%B9%89%E6%89%80%E7%82%AE%E5%88%B6%E7%9A%84%E5%8F%A4%E5%85%B8%E5%AD%A6%E8%87%B4%E5%B9%BB%E5%89%82_p1235.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-2_本真主义_小布尔乔亚文青病的基本结构/1-3-2-1_现代斯多亚主义_文化多元主义所炮制的古典学致幻剂/0053_1-3-2-1_现代斯多亚主义_文化多元主义所炮制的古典学致幻剂_p1235.md",
+      "sha256": "8a5ead2a6fd48878b426754772447327b55057e32ba37834672018e96e4cae47",
+      "git_blob_sha": "16467de3c3203a3991cce62c4641b017592de024",
+      "verification_scope": "实际核读Page 1–10、12、14–21、23–26、28–29、31–32；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0054",
+      "title": "1-3-2-2 现代犬儒主义_工薪阶层最容易陷入的意识形态陷阱：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/1-3-2-2_%E7%8E%B0%E4%BB%A3%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82%E6%9C%80%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%99%B7%E9%98%B1/0054_1-3-2-2_%E7%8E%B0%E4%BB%A3%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82%E6%9C%80%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%99%B7%E9%98%B1_p1270.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-2_本真主义_小布尔乔亚文青病的基本结构/1-3-2-2_现代犬儒主义_工薪阶层最容易陷入的意识形态陷阱/0054_1-3-2-2_现代犬儒主义_工薪阶层最容易陷入的意识形态陷阱_p1270.md",
+      "sha256": "274e2e9d2be3f1fdc7c1f1c6688015fdda3bab861f3193975bdd2c62fb8c0bad",
+      "git_blob_sha": "cad2269ca92934a09446236e5ce75aa09dbaa40a",
+      "verification_scope": "实际核读Page 1–16、18–29；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0055",
+      "title": "1-3-2-3 现代爱情主义_现代新柏拉图主义_现代爱情背后的哲学_我们这个时代的罗曼斯崇拜：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/1-3-2-3_%E7%8E%B0%E4%BB%A3%E7%88%B1%E6%83%85%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E6%96%B0%E6%9F%8F%E6%8B%89%E5%9B%BE%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%88%B1%E6%83%85%E8%83%8C%E5%90%8E%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BD%97%E6%9B%BC%E6%96%AF%E5%B4%87%E6%8B%9C/0055_1-3-2-3_%E7%8E%B0%E4%BB%A3%E7%88%B1%E6%83%85%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E6%96%B0%E6%9F%8F%E6%8B%89%E5%9B%BE%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%88%B1%E6%83%85%E8%83%8C%E5%90%8E%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BD%97%E6%9B%BC%E6%96%AF%E5%B4%87%E6%8B%9C_p1301.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-2_本真主义_小布尔乔亚文青病的基本结构/1-3-2-3_现代爱情主义_现代新柏拉图主义_现代爱情背后的哲学_我们这个时代的罗曼斯崇拜/0055_1-3-2-3_现代爱情主义_现代新柏拉图主义_现代爱情背后的哲学_我们这个时代的罗曼斯崇拜_p1301.md",
+      "sha256": "0458ca6d76f7eebcc4838ada22678ddc76b2a1554e7fa9632af05225ff4fd928",
+      "git_blob_sha": "72e3cd0ed0b4e24af6c94eae8ff51687a244bcdc",
+      "verification_scope": "实际核读Page 1–21；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0056",
+      "title": "1-3-2-4 现代智者主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/1-3-2-4_%E7%8E%B0%E4%BB%A3%E6%99%BA%E8%80%85%E4%B8%BB%E4%B9%89/0056_1-3-2-4_%E7%8E%B0%E4%BB%A3%E6%99%BA%E8%80%85%E4%B8%BB%E4%B9%89_p1323.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-2_本真主义_小布尔乔亚文青病的基本结构/1-3-2-4_现代智者主义/0056_1-3-2-4_现代智者主义_p1323.md",
+      "sha256": "26784ffa38f355efb2f8268635f00ffc921c686499e389f1b0c7d09c5394d40a",
+      "git_blob_sha": "9e080d823a78f466fa571b4ac0e164b1fa0e20ab",
+      "verification_scope": "实际核读Page 4–20（19后半–20属下一讲）；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0057",
+      "title": "1-3-3 唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/0057_1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B_p1342.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B/0057_1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B_p1342.md",
+      "sha256": "35f6d3ff6b0781424867f0af7fb5a684732297386b320a2be98b9fdac5b52dd9",
+      "git_blob_sha": "83d4caf47e0fe0596d96991ce820e26128942052",
+      "verification_scope": "实际核读Page 1–13、15、17–21、23；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0058",
+      "title": "1-3-3-1 自我中心主义_把人生当成修仙游戏_念叨_人不为己天诛地灭_却被_我_这个字玩弄一辈子：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/1-3-3-1_%E8%87%AA%E6%88%91%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%8A%8A%E4%BA%BA%E7%94%9F%E5%BD%93%E6%88%90%E4%BF%AE%E4%BB%99%E6%B8%B8%E6%88%8F_%E5%BF%B5%E5%8F%A8_%E4%BA%BA%E4%B8%8D%E4%B8%BA%E5%B7%B1%E5%A4%A9%E8%AF%9B%E5%9C%B0%E7%81%AD_%E5%8D%B4%E8%A2%AB_%E6%88%91_%E8%BF%99%E4%B8%AA%E5%AD%97%E7%8E%A9%E5%BC%84%E4%B8%80/0058_1-3-3-1_%E8%87%AA%E6%88%91%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%8A%8A%E4%BA%BA%E7%94%9F%E5%BD%93%E6%88%90%E4%BF%AE%E4%BB%99%E6%B8%B8%E6%88%8F_%E5%BF%B5%E5%8F%A8_%E4%BA%BA%E4%B8%8D%E4%B8%BA%E5%B7%B1%E5%A4%A9%E8%AF%9B%E5%9C%B0%E7%81%AD_%E5%8D%B4%E8%A2%AB_%E6%88%91_%E8%BF%99%E4%B8%AA%E5%AD%97%E7%8E%A9%E5%BC%84%E4%B8%80%E8%BE%88%E5%AD%90_p1366.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B/1-3-3-1_自我中心主义_把人生当成修仙游戏_念叨_人不为己天诛地灭_却被_我_这个字玩弄一/0058_1-3-3-1_自我中心主义_把人生当成修仙游戏_念叨_人不为己天诛地灭_却被_我_这个字玩弄一辈子_p1366.md",
+      "sha256": "e0c547f0ff2466dc2a4640f4d2d8ec0c04fc0e9ef13e0d22033a7240fce4a622",
+      "git_blob_sha": "8dc7bbb1593a85ea45f637297d989f4f3f871bec",
+      "verification_scope": "实际核读Page 1–10、14–18、20–22、24–25、29、33–38；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0059",
+      "title": "1-3-3-2 道德严酷主义_内在糜烂的道学先生_大他者的享乐工具_扣在康德头上的臭痰盂：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/1-3-3-2_%E9%81%93%E5%BE%B7%E4%B8%A5%E9%85%B7%E4%B8%BB%E4%B9%89_%E5%86%85%E5%9C%A8%E7%B3%9C%E7%83%82%E7%9A%84%E9%81%93%E5%AD%A6%E5%85%88%E7%94%9F_%E5%A4%A7%E4%BB%96%E8%80%85%E7%9A%84%E4%BA%AB%E4%B9%90%E5%B7%A5%E5%85%B7_%E6%89%A3%E5%9C%A8%E5%BA%B7%E5%BE%B7%E5%A4%B4%E4%B8%8A%E7%9A%84%E8%87%AD%E7%97%B0%E7%9B%82/0059_1-3-3-2_%E9%81%93%E5%BE%B7%E4%B8%A5%E9%85%B7%E4%B8%BB%E4%B9%89_%E5%86%85%E5%9C%A8%E7%B3%9C%E7%83%82%E7%9A%84%E9%81%93%E5%AD%A6%E5%85%88%E7%94%9F_%E5%A4%A7%E4%BB%96%E8%80%85%E7%9A%84%E4%BA%AB%E4%B9%90%E5%B7%A5%E5%85%B7_%E6%89%A3%E5%9C%A8%E5%BA%B7%E5%BE%B7%E5%A4%B4%E4%B8%8A%E7%9A%84%E8%87%AD%E7%97%B0%E7%9B%82_p1409.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B/1-3-3-2_道德严酷主义_内在糜烂的道学先生_大他者的享乐工具_扣在康德头上的臭痰盂/0059_1-3-3-2_道德严酷主义_内在糜烂的道学先生_大他者的享乐工具_扣在康德头上的臭痰盂_p1409.md",
+      "sha256": "283d27f6874602ccf90a276b948c7a8cc534a2edba6f2b24db5c985642886883",
+      "git_blob_sha": "073668c82f6b30a02d141aed128d0abb95f049bd",
+      "verification_scope": "实际核读Page 1–10、12–28；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0060",
+      "title": "1-3-3-3 排他的_集体主义_冒充集体主义的自私_看似理性冷静的疯狂_自视宽容仁慈的邪恶：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/1-3-3-3_%E6%8E%92%E4%BB%96%E7%9A%84_%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89_%E5%86%92%E5%85%85%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89%E7%9A%84%E8%87%AA%E7%A7%81_%E7%9C%8B%E4%BC%BC%E7%90%86%E6%80%A7%E5%86%B7%E9%9D%99%E7%9A%84%E7%96%AF%E7%8B%82_%E8%87%AA%E8%A7%86%E5%AE%BD%E5%AE%B9%E4%BB%81%E6%85%88%E7%9A%84%E9%82%AA%E6%81%B6/0060_1-3-3-3_%E6%8E%92%E4%BB%96%E7%9A%84_%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89_%E5%86%92%E5%85%85%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89%E7%9A%84%E8%87%AA%E7%A7%81_%E7%9C%8B%E4%BC%BC%E7%90%86%E6%80%A7%E5%86%B7%E9%9D%99%E7%9A%84%E7%96%AF%E7%8B%82_%E8%87%AA%E8%A7%86%E5%AE%BD%E5%AE%B9%E4%BB%81%E6%85%88%E7%9A%84%E9%82%AA%E6%81%B6_p1438.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B/1-3-3-3_排他的_集体主义_冒充集体主义的自私_看似理性冷静的疯狂_自视宽容仁慈的邪恶/0060_1-3-3-3_排他的_集体主义_冒充集体主义的自私_看似理性冷静的疯狂_自视宽容仁慈的邪恶_p1438.md",
+      "sha256": "f556e5a37dd015623eb7471095d73e4de23b0ca4095ce5eca20cf0d402ba4ef7",
+      "git_blob_sha": "e22257abd355f86d0bc11ddb303c8b8aca99ed0f",
+      "verification_scope": "实际核读Page 1–12、14–26、28、30–32；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0061",
+      "title": "1-3-3-4 厌女症-虚无主义_叔本华的唯意志主义_酸臭文人的最后归宿_康德黑格尔笑掉大牙_凭你也配谈哲学：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/1-3-3-4_%E5%8E%8C%E5%A5%B3%E7%97%87-%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E5%8F%94%E6%9C%AC%E5%8D%8E%E7%9A%84%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E9%85%B8%E8%87%AD%E6%96%87%E4%BA%BA%E7%9A%84%E6%9C%80%E5%90%8E%E5%BD%92%E5%AE%BF_%E5%BA%B7%E5%BE%B7%E9%BB%91%E6%A0%BC%E5%B0%94%E7%AC%91%E6%8E%89%E5%A4%A7%E7%89%99_%E5%87%AD/0061_1-3-3-4_%E5%8E%8C%E5%A5%B3%E7%97%87-%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E5%8F%94%E6%9C%AC%E5%8D%8E%E7%9A%84%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E9%85%B8%E8%87%AD%E6%96%87%E4%BA%BA%E7%9A%84%E6%9C%80%E5%90%8E%E5%BD%92%E5%AE%BF_%E5%BA%B7%E5%BE%B7%E9%BB%91%E6%A0%BC%E5%B0%94%E7%AC%91%E6%8E%89%E5%A4%A7%E7%89%99_%E5%87%AD%E4%BD%A0%E4%B9%9F%E9%85%8D%E8%B0%88%E5%93%B2%E5%AD%A6_p1472.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-3_唯意志主义_理解奋斗_B_批判奋斗_B_解放奋斗_B/1-3-3-4_厌女症-虚无主义_叔本华的唯意志主义_酸臭文人的最后归宿_康德黑格尔笑掉大牙_凭/0061_1-3-3-4_厌女症-虚无主义_叔本华的唯意志主义_酸臭文人的最后归宿_康德黑格尔笑掉大牙_凭你也配谈哲学_p1472.md",
+      "sha256": "0136ea4538475559122c87cd5b43281f0108fdf64748885d1b006884f42c70a2",
+      "git_blob_sha": "d815e7e50f1859bb15657a845cc8247478c80815",
+      "verification_scope": "实际核读Page 1–37全文；38为下一讲开头；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0062",
+      "title": "1-3-4 直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/0062_1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7_p1510.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性/0062_1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性_p1510.md",
+      "sha256": "4c60ac33b64d213cdcba199e00d6209a2d087de1e03cb1c2abf93918a5234a57",
+      "git_blob_sha": "903742e07e7d8f189fd95944623e3952b13d08b2",
+      "verification_scope": "实际核读Page 1–13、16–23、28–34；场域定义另读1-3-3-4 Page 38；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0063",
+      "title": "1-3-4-1 伦理行动主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/1-3-4-1_%E4%BC%A6%E7%90%86%E8%A1%8C%E5%8A%A8%E4%B8%BB%E4%B9%89/0063_1-3-4-1_%E4%BC%A6%E7%90%86%E8%A1%8C%E5%8A%A8%E4%B8%BB%E4%B9%89_p1544.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性/1-3-4-1_伦理行动主义/0063_1-3-4-1_伦理行动主义_p1544.md",
+      "sha256": "541ee4c5c5dfa78df555249800896d7ca417c7b616baa088c71f334c42d21faf",
+      "git_blob_sha": "d68f00ea210d0f8b227a997559f3eaa5021d3d0d",
+      "verification_scope": "实际核读Page 1–31；Page 30后半起为下一讲导入；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0064",
+      "title": "1-3-4-2 随笔主义_写日记的矜持少女_易于陷入的意识形态_穆齐尔_没有个性的人_一个现象学时间性分析：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/1-3-4-2_%E9%9A%8F%E7%AC%94%E4%B8%BB%E4%B9%89_%E5%86%99%E6%97%A5%E8%AE%B0%E7%9A%84%E7%9F%9C%E6%8C%81%E5%B0%91%E5%A5%B3_%E6%98%93%E4%BA%8E%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_%E7%A9%86%E9%BD%90%E5%B0%94_%E6%B2%A1%E6%9C%89%E4%B8%AA%E6%80%A7%E7%9A%84%E4%BA%BA_%E4%B8%80%E4%B8%AA%E7%8E%B0%E8%B1%A1%E5%AD%A6/0064_1-3-4-2_%E9%9A%8F%E7%AC%94%E4%B8%BB%E4%B9%89_%E5%86%99%E6%97%A5%E8%AE%B0%E7%9A%84%E7%9F%9C%E6%8C%81%E5%B0%91%E5%A5%B3_%E6%98%93%E4%BA%8E%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_%E7%A9%86%E9%BD%90%E5%B0%94_%E6%B2%A1%E6%9C%89%E4%B8%AA%E6%80%A7%E7%9A%84%E4%BA%BA_%E4%B8%80%E4%B8%AA%E7%8E%B0%E8%B1%A1%E5%AD%A6%E6%97%B6%E9%97%B4%E6%80%A7%E5%88%86%E6%9E%90_p1574.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性/1-3-4-2_随笔主义_写日记的矜持少女_易于陷入的意识形态_穆齐尔_没有个性的人_一个现象学/0064_1-3-4-2_随笔主义_写日记的矜持少女_易于陷入的意识形态_穆齐尔_没有个性的人_一个现象学时间性分析_p1574.md",
+      "sha256": "95be43d855de50d214c284eb7eed40a83251ffcd37a0bbf50a8c8950b518a7e0",
+      "git_blob_sha": "a2941f80dd963180047279b09fd8ef475966d858",
+      "verification_scope": "实际核读Page 1–30；Page 29后半起为下一讲导入；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0065",
+      "title": "1-3-4-3 唯美主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/1-3-4-3_%E5%94%AF%E7%BE%8E%E4%B8%BB%E4%B9%89/0065_1-3-4-3_%E5%94%AF%E7%BE%8E%E4%B8%BB%E4%B9%89_p1603.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性/1-3-4-3_唯美主义/0065_1-3-4-3_唯美主义_p1603.md",
+      "sha256": "a4f6d3ac79471ffa97f5c70bc683f7b75eb9b1ce80f1e47b582bb69d154705a9",
+      "git_blob_sha": "256015e4c08526b0e3a4f2d479a5926c9b9b6aa8",
+      "verification_scope": "实际核读Page 1–51；Page 49末至50开头含编纂所列置顶评论，Page 50后半起为下一讲；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0066",
+      "title": "1-3-4-4 颓废主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/1-3-4-4_%E9%A2%93%E5%BA%9F%E4%B8%BB%E4%B9%89/0066_1-3-4-4_%E9%A2%93%E5%BA%9F%E4%B8%BB%E4%B9%89_p1653.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-3_庸俗唯我论_复习课/1-3-4_直觉主义_体验主义_意识流_浪子_浪女和后浪们的_浪之哲学_论意识流的泥石流性/1-3-4-4_颓废主义/0066_1-3-4-4_颓废主义_p1653.md",
+      "sha256": "9243db82aaba3ca297d489fbfc86f8754de76bb4aa7f0ee6ad7a1a05999af9f0",
+      "git_blob_sha": "f1b61006141aed4ad4275826ba01efbf32540e72",
+      "verification_scope": "实际核读Page 1–22；Page 21末起为1-4导入；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 4,
+        "recorded": 4,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①一切都是“我”创造的，无法反思背景性框架。",
+          "claim": "①一切都是“我”创造的，无法反思背景性框架。",
+          "status": "supported",
+          "finding": "一切内容由我/心创造而不能反思背景框架，是子讲开头对1-3总分支的明确重述；复习课不是该定义的唯一来源。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "1-3-1 Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②面对主体性的爱欲剩余的不同中心化策略。",
+          "claim": "②面对主体性的爱欲剩余的不同中心化策略。",
+          "status": "supported",
+          "finding": "四种应对主体性爱欲剩余的中心化策略直接出现，分别讨论否认、对抗/投射、排斥和妥协/享乐；是课程解释框架。",
+          "source_ids": [
+            "m1-0046"
+          ],
+          "locator": "复习课Page 4–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序场",
+          "claim": "场域论1 秩序场",
+          "status": "supported",
+          "finding": "整全、不分裂、内部融贯的宇宙秩序场明示，不是凭编号推导。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "1-3-1 Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 自我(调和创造者(Being)与被创造者(beings)的分裂)",
+          "claim": "本体论3 自我(调和创造者(Being)与被创造者(beings)的分裂)",
+          "status": "supported",
+          "finding": "大写Being与杂多beings之间的分裂由主体/我调和有直接表述；创造者一词是摘要的概括，正文此处更准确称高级存在与较低具体存在。",
+          "source_ids": [
+            "m1-0046"
+          ],
+          "locator": "复习课Page 6–7"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①尽管表象是无法被“我”的自由意志控制，但它们归根结底是“我”依据某种精神规则创造的。",
+          "claim": "①尽管表象是无法被“我”的自由意志控制，但它们归根结底是“我”依据某种精神规则创造的。",
+          "status": "supported",
+          "finding": "不能由自由意志随意控制表象、却认为它由我心按精神规则创造，正文直接表达。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "Page 3–4"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②幻想世界由“我”创造，病态自恋，病态追求终极哲学真理以解锁全能的宇宙控制能力。",
+          "claim": "②幻想世界由“我”创造，病态自恋，病态追求终极哲学真理以解锁全能的宇宙控制能力。",
+          "status": "supported_with_attribution",
+          "finding": "世界归我创造、全能幻想、追求真理以解锁控制能力和病态自恋都是讲者的描述；病态是其批判用语，不是本批临床诊断。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "Page 5–6"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③反思性有限，远未达到笛卡尔、费希特水平。",
+          "claim": "③反思性有限，远未达到笛卡尔、费希特水平。",
+          "status": "supported_with_scope",
+          "finding": "正文区别误读笛卡尔/费希特与严格观念论的反思及自我设定；未达水平指思想结构差别，不是对具体人物智力的评价。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "Page 7–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序场(统一的宇宙)",
+          "claim": "场域论1 秩序场(统一的宇宙)",
+          "status": "supported",
+          "finding": "统一且内部融贯的宇宙、秩序之场明确出现。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 自我(调和至高存在(Being)与被具体存在(beings)的对立)",
+          "claim": "本体论3 自我(调和至高存在(Being)与被具体存在(beings)的对立)",
+          "status": "supported_with_wording_issue",
+          "finding": "自我为本体中介在本讲明示，Being/beings的对立由总论说明。字段被具体存在中的被字是语病，宜改为具体存在。",
+          "source_ids": [
+            "m1-0047",
+            "m1-0046"
+          ],
+          "locator": "Page 2；1-3复习课Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 “心灵”(精神秩序)",
+          "claim": "认识论1 “心灵”(精神秩序)",
+          "status": "supported",
+          "finding": "认识论一被明确称为心灵、mental order；第一人称体验服从精神规律，未等于可自由掌控。",
+          "source_ids": [
+            "m1-0047"
+          ],
+          "locator": "Page 3–4"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①在前现代思想体系中广泛存在。",
+          "claim": "①在前现代思想体系中广泛存在。",
+          "status": "supported_with_attribution",
+          "finding": "前现代体系中普遍存在是讲者明确判断，例举理学与文化贵族；不代表本批已做跨文明历史普查。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 3、5、7、10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②通过共同体话语(圣道、圣人)调和主体性(阴-阳、夫-妇、君-臣)对立，为家长制暴力作辩护。",
+          "claim": "②通过共同体话语(圣道、圣人)调和主体性(阴-阳、夫-妇、君-臣)对立，为家长制暴力作辩护。",
+          "status": "supported_with_attribution",
+          "finding": "圣道/圣人和士大夫话语调和夫妇、君臣、阴阳的对立，背后是家长制暴力的论断均可定位。主体性对立在此是社会角色与宇宙等级秩序的映射，不是原典中独立论证。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 5–7、11–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③真正的观念论机制：主体第一人称运用辩证法(语言的张力和无能)揣测背景性的符号学框架。",
+          "claim": "③真正的观念论机制：主体第一人称运用辩证法(语言的张力和无能)揣测背景性的符号学框架。",
+          "status": "supported_distinguishing_comparison",
+          "finding": "第一人称运思、语言能力与无能、符号张力和辩证法揣测背景框架均直接出现；这是讲者用来对比伪唯心主义的真正观念论机制，不是本格自身承认的机制。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序场(统一的宇宙)",
+          "claim": "场域论1 秩序场(统一的宇宙)",
+          "status": "supported",
+          "finding": "场域仍为宇宙且框架闭合；统一秩序的概括有依据。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 2、10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(Spirit)/天理(Reason)",
+          "claim": "本体论3 精神(Spirit)/天理(Reason)",
+          "status": "supported",
+          "finding": "讲者将mind改称spirit，并允许称天理/大写Reason；原文已经取最终措辞。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 心灵(精神秩序)",
+          "claim": "认识论1 心灵(精神秩序)",
+          "status": "supported",
+          "finding": "认识论为心灵并服从精神/理的支配，明确区分其与本体精神。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 3–4、12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 真理(The actualized rationality)",
+          "claim": "目的论1 真理(The actualized rationality)",
+          "status": "supported",
+          "finding": "目的论的真理明确不是truth，而是the actualized rationality：宇宙在规则下循环及实现理的比例关系。",
+          "source_ids": [
+            "m1-0048"
+          ],
+          "locator": "Page 3–4"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①对于“客观唯心主义”的颠覆，克服了主体对于律令规则的过度服从(道德先生)产生的虚无主义(自虐性享乐)，有一定的解放性。",
+          "claim": "①对于“客观唯心主义”的颠覆，克服了主体对于律令规则的过度服从(道德先生)产生的虚无主义(自虐性享乐)，有一定的解放性。",
+          "status": "supported_with_attribution",
+          "finding": "颠覆客观唯心主义、经自虐道德严酷主义的虚无化再恢复主体内在性与解放压抑均有论证；课程不是说这一颠覆消除了所有限制，仍称其前反思。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 4–12、18–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②主体先收缩：放弃一切外部的规定(共同体的律令)，再普遍化：所剩余的“心”必然是人之普遍具有的。",
+          "claim": "②主体先收缩：放弃一切外部的规定(共同体的律令)，再普遍化：所剩余的“心”必然是人之普遍具有的。",
+          "status": "supported_with_scope",
+          "finding": "先撤除外部规定再把内心剩余普遍化有明确对应；必然普遍是该立场的信念，讲者随后指出内心由共同体语言构造，否定其无条件普遍性。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 15–18、22、25–26"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③我的“心”是自由的，造成目的论上的短路，我内心的法等于罪，自由等于背叛。",
+          "claim": "③我的“心”是自由的，造成目的论上的短路，我内心的法等于罪，自由等于背叛。",
+          "status": "mistranscribed_relation",
+          "finding": "我心的自由、法与罪短路有对应，但Page 23配对的是忠诚fidelity与背叛betrayal，不是自由与背叛；普遍法在特殊共同体中被认作罪的限定也应保留。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 13–15、23–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序场(生活世界)",
+          "claim": "场域论1 秩序场(生活世界)",
+          "status": "supported",
+          "finding": "场域明确偏向伦理社会/生活世界而非浓厚宇宙论，仍为同一秩序。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(Spirit)",
+          "claim": "本体论3 精神(Spirit)",
+          "status": "supported",
+          "finding": "中心化的精神spirit直接列为本体。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 心灵(Mind)",
+          "claim": "认识论1 心灵(Mind)",
+          "status": "supported",
+          "finding": "第一人称心灵mind明列为认识论；后文解释其与前格服从性心灵来源不同。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 1、18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 天心(法则)与我心(欲望)的对立",
+          "claim": "目的论2 天心(法则)与我心(欲望)的对立",
+          "status": "supported_but_simplified",
+          "finding": "开头确列天心/我心、法则/欲望；后文深化成特殊共同体法与主体所认普遍法、law&sin与law=sin的冲突。原字段有直接来源，但不能把后半讲还原成简单守法与欲望斗争。",
+          "source_ids": [
+            "m1-0049"
+          ],
+          "locator": "Page 2–3、10–15、24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①现实是被心灵建构出来的，主体面对的现实是被共同体的集体意识建构出来的，所以大家在这种集体意识下的心灵就是同一种心灵(“人同此心”)。",
+          "claim": "①现实是被心灵建构出来的，主体面对的现实是被共同体的集体意识建构出来的，所以大家在这种集体意识下的心灵就是同一种心灵(“人同此心”)。",
+          "status": "supported",
+          "finding": "共同体集体思想建构现实、共同现实被用来推出同一种心灵、人同此心均有明确论证，是对该立场的重述而非逻辑有效性的背书。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 6–10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②通过共同体的行动可以把思想生成为现实(“人心齐，泰山移”)，也只能通过行动维护共同体思想一致性(进行侵略战争)。",
+          "claim": "②通过共同体的行动可以把思想生成为现实(“人心齐，泰山移”)，也只能通过行动维护共同体思想一致性(进行侵略战争)。",
+          "status": "supported_with_scope",
+          "finding": "思想通过集体行动实现、齐人心、用行动维系现实和对外侵略都有对应；课程也举内部压制、驱赶等暴力，侵略战争是历史表现，不能缩成所有行动只有战争。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 8–12、21–22、24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③无法解释共同体的集体意识的最终源头，具有神秘主义底色，是前现代的。",
+          "claim": "③无法解释共同体的集体意识的最终源头，具有神秘主义底色，是前现代的。",
+          "status": "partly_supported_needs_revision",
+          "finding": "思想活动归于最高观念/共同体命运，讲者明说神秘主义；无法解释最终源头是摘要推论，未见同句论证。Page 16又限定不能说完全前现代，而是现代为遮蔽矛盾而撤回前现代。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 12–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "未被反思的统一世界明列为场域，后文分析其社会历史背景。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 4、16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(Spirit)",
+          "claim": "本体论3 精神(Spirit)",
+          "status": "supported",
+          "finding": "本体为spirit明确出现。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 思想(Thought)、心灵(Mind)",
+          "claim": "认识论1 思想(Thought)、心灵(Mind)",
+          "status": "supported",
+          "finding": "认识论思想thought，可称心灵mind或personal spirit，明示同义用法。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 4–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 集体行动、语言(调和了集体秩序(理学)与个体普遍性(心学))",
+          "claim": "目的论3 集体行动、语言(调和了集体秩序(理学)与个体普遍性(心学))",
+          "status": "supported",
+          "finding": "行动/集体语言中介现实的集体秩序与私人纯粹思想，调和前两格的冲突有明确依据；并非只是任意数字拼接。",
+          "source_ids": [
+            "m1-0050"
+          ],
+          "locator": "Page 5–11、14、24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①目的论上的潜藏、寂灭，具有一定解放性。",
+          "claim": "①目的论上的潜藏、寂灭，具有一定解放性。",
+          "status": "supported_with_scope",
+          "finding": "潜藏、寂灭、消散及一定解放性直接出现；只是解除前三种目的规定，不代表整套背景精神秩序也被解除。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 7–8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②通过梦境中自我-他者毫无意义的混乱冲突关系、断裂的叙事、频繁转换的人称视角，不断的体验中心化的失败(怅然若失)。",
+          "claim": "②通过梦境中自我-他者毫无意义的混乱冲突关系、断裂的叙事、频繁转换的人称视角，不断的体验中心化的失败(怅然若失)。",
+          "status": "supported_with_attribution",
+          "finding": "梦中人称转换、身份与叙事连续被打断、他者冲突、中心化失败与醒后怅然若失均有依据。这是讲者解释梦的符号学模型，不是对所有梦的实证定律。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 9–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③放弃用集体意识(1-3-1-1)、个人心灵(1-3-1-2)、行动(1-3-1-3)承接本体论上的精神性秩序。",
+          "claim": "③放弃用集体意识(1-3-1-1)、个人心灵(1-3-1-2)、行动(1-3-1-3)承接本体论上的精神性秩序。",
+          "status": "supported",
+          "finding": "共同体、个人内心、行动三种承接路径的对比与无人能承接精神秩序直接出现；唯梦论仍保留本体精神。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 3–8、18–20"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④导向一种庸俗唯心主义的虚无主义。",
+          "claim": "④导向一种庸俗唯心主义的虚无主义。",
+          "status": "supported",
+          "finding": "讲者明确称其为庸俗唯心主义/理想主义的虚无主义，并解释为何不同于拒绝理想主义的虚无论。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 19–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "世界场域明列，前五页说明仍承认统一精神秩序。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(调和Being与beings)",
+          "claim": "本体论3 精神(调和Being与beings)",
+          "status": "supported",
+          "finding": "精神调和Being与beings、一与多，明确列作本体论。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 1–3、6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 心灵(Mind)",
+          "claim": "认识论1 心灵(Mind)",
+          "status": "supported",
+          "finding": "受精神支配的心灵明列为认识论；后文进一步谈其被梦境吞噬，未抹掉这一格的正式定义。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 6、18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 没有目的的梦(Dream)",
+          "claim": "目的论4 没有目的的梦(Dream)",
+          "status": "supported",
+          "finding": "梦作为无最终目的、消散的运动直接出现；无目的仍可受背景精神支配，不能解释为完全无结构。",
+          "source_ids": [
+            "m1-0051"
+          ],
+          "locator": "Page 7–8、16–20"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本格名词为课程分类用法；对比段落与本格自身主张已分开，不据讲者批评直接判定哲学史或心理事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；原典准确性与课程中人物及学派归类需另行专审。"
+      ]
+    },
+    {
+      "code": "1-3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①前反思的实质主义者，自吹为存在主义者，自我感动的爱情失败者。",
+          "claim": "①前反思的实质主义者，自吹为存在主义者，自我感动的爱情失败者。",
+          "status": "term_error_with_supported_claims",
+          "finding": "前反思、自称存在主义、用爱情失败自我感动都有课程对应；Page 7说本质主义者，不是实质主义者。其余是讲者对本格的批评，非对现实所有人的心理判断。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 6–7、22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②无法反思到底，无法真正贯彻本真性，因此依附崇拜文化和美学权威。",
+          "claim": "②无法反思到底，无法真正贯彻本真性，因此依附崇拜文化和美学权威。",
+          "status": "supported",
+          "finding": "不反思背景与不能贯彻到底、如何定义本真的难题及依附文化/美学权威都有对应；并非对严格存在主义全部流派的归类。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 7、11、14、16–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③有神秘主义色彩，始终设立一个无法达到的“本真”维度，为当前的非本真状态提供一个盼头，嫉妒非本真的人达到其所不理解的状态。",
+          "claim": "③有神秘主义色彩，始终设立一个无法达到的“本真”维度，为当前的非本真状态提供一个盼头，嫉妒非本真的人达到其所不理解的状态。",
+          "status": "supported_with_attribution",
+          "finding": "始终设立不可理解的本真维度、给暂时非本真生活提供向往方向、嫉妒他人走出不同道路均直接出现；具体例子与讲者概括不可当实证心理结论。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 16–20、22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(有序的统一体)",
+          "claim": "场域论1 宇宙(有序的统一体)",
+          "status": "supported",
+          "finding": "整全、有序、融贯的宇宙统一体直接列明。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 本我(宇宙意识)(调和Being与beings的主奴关系)",
+          "claim": "本体论3 本我(宇宙意识)(调和Being与beings的主奴关系)",
+          "status": "supported",
+          "finding": "本我/本真自我、宇宙意识与调和Being/beings的主奴关系均明列；此处本我不是直接等同弗洛伊德id。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 1–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 本真与非本真(异化)的对抗",
+          "claim": "认识论2 本真与非本真(异化)的对抗",
+          "status": "supported",
+          "finding": "本真/非本真或异化的对抗明确出现，认识论包含自我认同与心灵状态。",
+          "source_ids": [
+            "m1-0052"
+          ],
+          "locator": "Page 4–6"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "对课程批评、对比性的反面方案和历史真伪分别标记，不把讲者解释自动提升为学术定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。"
+      ]
+    },
+    {
+      "code": "1-3-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①对自我情感进行表面的反省，预先安排虚假的反思和自我感动。",
+          "claim": "①对自我情感进行表面的反省，预先安排虚假的反思和自我感动。",
+          "status": "supported_with_attribution",
+          "finding": "反省情绪与预先安排的虚假反思、自我感动直接出现；讲者的批评针对不反思反省标准本身，不是否认任何日记都有反思价值。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 12、20–21、31–32"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②写日记写忏悔录，记录情绪，推崇有计划有理性有节制地生活。",
+          "claim": "②写日记写忏悔录，记录情绪，推崇有计划有理性有节制地生活。",
+          "status": "supported",
+          "finding": "日记/忏悔录、记录情绪、计划性理性节制生活均明确列出。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 20–21、25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③建构一种前反思的政治正确、消费正确，用自然包装现代资本主义体系、调和矛盾，维护资产阶级统治秩序。",
+          "claim": "③建构一种前反思的政治正确、消费正确，用自然包装现代资本主义体系、调和矛盾，维护资产阶级统治秩序。",
+          "status": "supported_with_attribution",
+          "finding": "前反思政治/消费正确、亲自然包装资本主义、调和矛盾维持受益秩序均有对应；属课程政治批评，未核证被点名人士的动机或现实行为。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 16–17、23–25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④认为古代的事物更自然和谐，为现存的“体面的”礼仪、生活、欲望方式炮制古典学依据，维持自身符号学特征。",
+          "claim": "④认为古代的事物更自然和谐，为现存的“体面的”礼仪、生活、欲望方式炮制古典学依据，维持自身符号学特征。",
+          "status": "supported_with_attribution",
+          "finding": "古代更自然和谐、为体面生活礼仪与欲望管理寻找古典根据、维持优势地位的符号秩序均有依据。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 14–15、28–29、31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 和谐的宇宙",
+          "claim": "场域论1 和谐的宇宙",
+          "status": "supported",
+          "finding": "讲者短暂提出历史后回到统一和谐宇宙，并明确区别其与古典斯多亚的场域二分；字段采用最后版本。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 理性(调和自然的与反常、过度的)",
+          "claim": "本体论3 理性(调和自然的与反常、过度的)",
+          "status": "supported",
+          "finding": "至高理性中介自然与反常/过度直接列明。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 符合德性的(自然的)与淫欲的(反常的)的对立",
+          "claim": "认识论2 符合德性的(自然的)与淫欲的(反常的)的对立",
+          "status": "supported",
+          "finding": "本真的自然/德性与非本真的过度欲望、lust直接对应；淫欲是较窄措辞，正文还含虚伪、过度、粗鲁等。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 8–9、14–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 和谐、德性、回归自然",
+          "claim": "目的论1 和谐、德性、回归自然",
+          "status": "supported",
+          "finding": "和谐、德性、回归自然直接作为目的论说明，并被讲者联系到维护既有秩序。",
+          "source_ids": [
+            "m1-0053"
+          ],
+          "locator": "Page 16、20"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "对课程批评、对比性的反面方案和历史真伪分别标记，不把讲者解释自动提升为学术定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。"
+      ]
+    },
+    {
+      "code": "1-3-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 9,
+        "recorded": 9,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①自恋的愤世嫉俗，将所有被说出的目的视作虚伪的，不信任任何人的行为动机，自认为戳破了意识形态幌子，由此出卖了去相信的能力。",
+          "claim": "①自恋的愤世嫉俗，将所有被说出的目的视作虚伪的，不信任任何人的行为动机，自认为戳破了意识形态幌子，由此出卖了去相信的能力。",
+          "status": "supported_with_attribution",
+          "finding": "自恋地怀疑一切行为动机、揭穿幌子的自信与出卖信任/坚信能力均可定位；是对课程典型的评价，不是现实人群调查。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 1、8–13、15、27–28"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②将暴力、色情、永生等等视为基础性的本真，并对其进行轻蔑的否定。",
+          "claim": "②将暴力、色情、永生等等视为基础性的本真，并对其进行轻蔑的否定。",
+          "status": "supported",
+          "finding": "暴力、色情、永生三种基础性欲望与廉价轻蔑否定明确出现。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 15–16、18–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③幻想主体有选择冠冕堂皇或蝇营狗苟的自由，幻想存在“我本可以不这样做”，这是虚假的、意识形态的自由。",
+          "claim": "③幻想主体有选择冠冕堂皇或蝇营狗苟的自由，幻想存在“我本可以不这样做”，这是虚假的、意识形态的自由。",
+          "status": "supported",
+          "finding": "幻想主体可在冠冕堂皇与蝇营狗苟间自由站队、我本可以及其意识形态性有直接论证。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 19–23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④真正的现代意识形态运行机制：自反性，通过戳破一个天真的意识形态幌子构建意识形态。意识形态的真正对立面是哲学，是无限的反思性。",
+          "claim": "④真正的现代意识形态运行机制：自反性，通过戳破一个天真的意识形态幌子构建意识形态。意识形态的真正对立面是哲学，是无限的反思性。",
+          "status": "supported_distinguishing_comparison",
+          "finding": "通过意识形态批判再造意识形态、自反性、哲学作为对立面和无数阶反思均出自讲者；这是其外部批评，不是犬儒主义者自述。Page 14–15还承认哲学最终有一个钩子，故无限不应读作无任何立足点。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 8–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "original_field": "⑤真正的自由：回溯性的认定既定现实“我早已这样做了”、“我不得不这么做”，大胆承认主体的欲望“我就想要这样做”，“这就是我的欲望”，这样可以导向真正的自由。",
+          "claim": "⑤真正的自由：回溯性的认定既定现实“我早已这样做了”、“我不得不这么做”，大胆承认主体的欲望“我就想要这样做”，“这就是我的欲望”，这样可以导向真正的自由。",
+          "status": "supported_distinguishing_comparison",
+          "finding": "回溯认定早已/不得不、认领欲望以突破犬儒主义明确出现；此为讲者提出的反犬儒方向，不是本格自身目的，亦非任意行为的免责任许可。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 23–26、28–29"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(Universe)",
+          "claim": "场域论1 宇宙(Universe)",
+          "status": "supported",
+          "finding": "宇宙整体及稳定文化共同体直接列为场域。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(调和本质性的力量(Being)和其具体存在(beings))",
+          "claim": "本体论3 精神(调和本质性的力量(Being)和其具体存在(beings))",
+          "status": "supported",
+          "finding": "至高精神调和本质力量Being与具体beings明示，并通过理性的狡计解释背叛反成服从。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 3–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 本真(谎言、意识形态)与非本真(现实、蝇营狗苟)的对立",
+          "claim": "认识论2 本真(谎言、意识形态)与非本真(现实、蝇营狗苟)的对立",
+          "status": "supported_but_ambiguous",
+          "finding": "原文先将谎言/现实对立称本真/非本真，但随后解释本真是承认自己说谎、戳破谎言的姿态，并非谎言内容本身真实。建议补清括号避免倒读。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 5–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 私人目的(权钱身份地位)与公共目的(真善美)的对立",
+          "claim": "目的论2 私人目的(权钱身份地位)与公共目的(真善美)的对立",
+          "status": "partly_supported",
+          "finding": "私人动机与公开目的以及真善美的对比直接出现；权钱身份地位是常见例化，本讲此处具体列暴力、色情、永生，未逐项确证括号全部名词，但不构成相反命题。",
+          "source_ids": [
+            "m1-0054"
+          ],
+          "locator": "Page 15–16、19–23"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "对课程批评、对比性的反面方案和历史真伪分别标记，不把讲者解释自动提升为学术定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。"
+      ]
+    },
+    {
+      "code": "1-3-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①把基督教三位一体与柏拉图主义相结合，将“圣父-圣子-圣灵”对应于太一(绝对光明)-心灵(具现化的第一人称意识)-灵魂(催动质料的构建性力量)。",
+          "claim": "①把基督教三位一体与柏拉图主义相结合，将“圣父-圣子-圣灵”对应于太一(绝对光明)-心灵(具现化的第一人称意识)-灵魂(催动质料的构建性力量)。",
+          "status": "course_supported_historical_accuracy_unreviewed",
+          "finding": "三位一体和太一/心灵/灵魂的对应、光明、第一人称体验与给质料形式均出自课程；讲者同时说自己不太懂、现学现卖。本批只能证明说过，不能证明新柏拉图主义由基督教三位一体形成的历史因果，建议改为课程类比归属。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 2–4"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②“太一-心灵-灵魂”与现代爱情中\"I-LOVE-U\"的不同对应关系：\n\tI LOVE U：男权主义的自恋式的爱情，爱人的出现戳破其独自存在的维度。\n\tLOVE I U：失败主义的爱情，将自己与爱人作为工具，目的是维持爱情中的激发状态。\n\tU LOVE I：我爱我的缺失，通过神圣的爱接近太一，符号学阉割(类似儿童对母亲的爱)。\n\t... ...",
+          "claim": "②“太一-心灵-灵魂”与现代爱情中\"I-LOVE-U\"的不同对应关系：\n\tI LOVE U：男权主义的自恋式的爱情，爱人的出现戳破其独自存在的维度。\n\tLOVE I U：失败主义的爱情，将自己与爱人作为工具，目的是维持爱情中的激发状态。\n\tU LOVE I：我爱我的缺失，通过神圣的爱接近太一，符号学阉割(类似儿童对母亲的爱)。\n\t... ...",
+          "status": "supported_with_attribution",
+          "finding": "逐项核：I-love-U男权自恋与他人打破独处见9；love-I-U维持激发态、双方工具见10–11；U-love-I内在缺失、神圣中介、典雅爱情与儿童母亲类比见12–16。它们是讲者试排模型，非已验证的爱情或儿童发展分类；省略号对应他明确未继续展开的其他排列。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 4–5、9–16、20–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③爱是现代的宗教，浪漫崇拜。",
+          "claim": "③爱是现代的宗教，浪漫崇拜。",
+          "status": "supported_with_scope",
+          "finding": "love is religion of modern people与拜爱情教明确出现；是对现代浪漫爱情意识形态的批判性类比，不是所有现代人的经验事实。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 1–2、8、20"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(稳定有序的统一体)",
+          "claim": "场域论1 宇宙(稳定有序的统一体)",
+          "status": "supported",
+          "finding": "稳定有序宇宙统一体直接列明。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 精神(调和至高存在(Being)与具体存在(beings))",
+          "claim": "本体论3 精神(调和至高存在(Being)与具体存在(beings))",
+          "status": "supported",
+          "finding": "精神调和至高存在与具体存在的张力直接列明。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 本真(心甘情愿)与非本真(迫不得已)的对立",
+          "claim": "认识论2 本真(心甘情愿)与非本真(迫不得已)的对立",
+          "status": "supported",
+          "finding": "先说爱情/世俗后修正为心甘情愿与迫不得已，原字段取最终明确表述。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 爱情(作为一种超越性力量调和认识论上的矛盾)",
+          "claim": "目的论3 爱情(作为一种超越性力量调和认识论上的矛盾)",
+          "status": "supported",
+          "finding": "爱情作为超越力量让人心甘情愿地迫不得已、又迫不得已地爱，调和两端有正文论证。",
+          "source_ids": [
+            "m1-0055"
+          ],
+          "locator": "Page 7–8"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "对课程批评、对比性的反面方案和历史真伪分别标记，不把讲者解释自动提升为学术定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。"
+      ]
+    },
+    {
+      "code": "1-3-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①发觉背景性秩序本身缺乏目的性，相信存在着一个沉睡的大他者，其可被自己代言，自己就可以创造目的性(“老虎睡大觉，猴子称大王”)。",
+          "claim": "①发觉背景性秩序本身缺乏目的性，相信存在着一个沉睡的大他者，其可被自己代言，自己就可以创造目的性(“老虎睡大觉，猴子称大王”)。",
+          "status": "supported",
+          "finding": "察觉背景秩序无目的却保留沉睡大他者、代言并创造目的，以及老虎/猴子比喻均直接出现；讲者随后否定这种大他者实存。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 6–8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②有虚无主义倾向，认为哲学在终极目的上是一个虚空，因此可以大胆追求目的论上的话语权，争当哲人王。",
+          "claim": "②有虚无主义倾向，认为哲学在终极目的上是一个虚空，因此可以大胆追求目的论上的话语权，争当哲人王。",
+          "status": "supported",
+          "finding": "目的论虚空、抢占话语位置与哲人王野望有对应；这是对该立场的描述，不是主张哲学本身没有价值。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 7–11、17"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③集齐了所有4种符号学运动模式，提供了理智上的全能幻想，可以把所有哲学文本套入四个论格中，自称“可以读懂所有哲学”。",
+          "claim": "③集齐了所有4种符号学运动模式，提供了理智上的全能幻想，可以把所有哲学文本套入四个论格中，自称“可以读懂所有哲学”。",
+          "status": "supported",
+          "finding": "四种运动模式俱备、全能幻想和强套文本的做法明确出现；可以读懂带反讽引号，不是讲者承认真实掌握所有哲学。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 12–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④将官哲视作是和自己一样在目的论中进行争夺的权奴。",
+          "claim": "④将官哲视作是和自己一样在目的论中进行争夺的权奴。",
+          "status": "conflated_targets",
+          "finding": "正文区别两种对象：官哲被当作只抓静态秩序的蠢货；已故或有名且曾被崇拜的哲学家才被视作抢占目的论位置的同类权奴。原字段把后者套到了前者。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙",
+          "claim": "场域论1 宇宙",
+          "status": "supported",
+          "finding": "宇宙场域直接列明，仍保留整体背景而非反思场域本身。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 4、6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 智性(调和Being与beings)",
+          "claim": "本体论3 智性(调和Being与beings)",
+          "status": "supported",
+          "finding": "智性/聪明精神调和Being与beings明列。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 4、12–14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 本真(聪明)与非本真(愚蠢)的对立",
+          "claim": "认识论2 本真(聪明)与非本真(愚蠢)的对立",
+          "status": "supported",
+          "finding": "本真/非本真在此具体为聪明/愚蠢，正文直接列明。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 4、12、14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 真理和目的待定",
+          "claim": "目的论4 真理和目的待定",
+          "status": "supported",
+          "finding": "真理待定具体指终极目的或意义实现方式待定，不是已知事实可以任意更改；原字段概括有依据。",
+          "source_ids": [
+            "m1-0056"
+          ],
+          "locator": "Page 4–8"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "对课程批评、对比性的反面方案和历史真伪分别标记，不把讲者解释自动提升为学术定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。"
+      ]
+    },
+    {
+      "code": "1-3-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①一种强大的固念，将不受自己控制的他者也强行认同为是我的一部分，把体验的一切都强行认同为自己的“命”。",
+          "claim": "①一种强大的固念，将不受自己控制的他者也强行认同为是我的一部分，把体验的一切都强行认同为自己的“命”。",
+          "status": "supported",
+          "finding": "强行把不受控制的他者纳入自身、把一切认作我的命均直接论述，固念是对这种持续肯定姿态的概括。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 5–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②在认识论上继承了本体论上的中心化，光明正大的承认是唯我论。",
+          "claim": "②在认识论上继承了本体论上的中心化，光明正大的承认是唯我论。",
+          "status": "supported",
+          "finding": "明确说认识论继承本体论的中心化，并对比前两格不敢承认唯我论的姿态。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③对个体有一定的进步意义，可以忍受极大的苦难，但是前反思，只能认同既定的秩序，没有反思能力，容易被利用、鼓动、欺骗。",
+          "claim": "③对个体有一定的进步意义，可以忍受极大的苦难，但是前反思，只能认同既定的秩序，没有反思能力，容易被利用、鼓动、欺骗。",
+          "status": "supported_with_scope",
+          "finding": "积极力量、生存尊严、承受强烈痛苦及不反思既有场域/目的、易利用鼓动欺骗均有依据；但讲者也强调可成长、会迁移，不能把没有反思能力理解为永久的人格或能力诊断。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 7–13、23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④唯意志主义的辩证法：带来痛苦的事物无法被奥卡姆剃刀剔除，所以正是我的意志肯定了它。",
+          "claim": "④唯意志主义的辩证法：带来痛苦的事物无法被奥卡姆剃刀剔除，所以正是我的意志肯定了它。",
+          "status": "supported_with_attribution",
+          "finding": "不能剔除的痛苦障碍被反认作意志肯定，明确命名为唯意志主义辩证法；是讲者用奥卡姆剃刀作解释，不是原典已经提出的心理学理论。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 17–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全融贯的宇宙(Universe)",
+          "claim": "场域论1 整全融贯的宇宙(Universe)",
+          "status": "supported",
+          "finding": "物理与叙事/世界史组成融贯整全宇宙明示。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 “我”、一个强大的原初意志(调和Being与beings)",
+          "claim": "本体论3 “我”、一个强大的原初意志(调和Being与beings)",
+          "status": "supported",
+          "finding": "宇宙我、原初意志调和Being/beings的矛盾明示。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 意志(在根本上决定什么是本真什么是非本真)",
+          "claim": "认识论3 意志(在根本上决定什么是本真什么是非本真)",
+          "status": "supported",
+          "finding": "强意志决定何为本真并中介本真/非本真直接出现。",
+          "source_ids": [
+            "m1-0057"
+          ],
+          "locator": "Page 3–5"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "被讲者批判的性别、阶层与族群偏见必须与资料站陈述区分；Id等术语是课程借用，非原典等同性审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；人物思想和历史实例的外部准确性仍需原典专审。"
+      ]
+    },
+    {
+      "code": "1-3-3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①全盘肯定一切，只会厌恶、加害，不会否定、拒斥。",
+          "claim": "①全盘肯定一切，只会厌恶、加害，不会否定、拒斥。",
+          "status": "supported_with_attribution",
+          "finding": "全盘肯定、只会厌恶加害而不懂否定拒斥直接出现；此处否定/拒斥指能够与既定秩序分离，不是否认他们说否定句的日常能力。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②被臣仆化的男权主义和农耕文明批量生产的幼稚的男权载体，看似自由自主，实际是社会秩序的工具人促成人口和符号再生产。",
+          "claim": "②被臣仆化的男权主义和农耕文明批量生产的幼稚的男权载体，看似自由自主，实际是社会秩序的工具人促成人口和符号再生产。",
+          "status": "supported_with_attribution",
+          "finding": "臣仆化男权、农耕批量生产、幼稚载体、虚假自主及人口/符号再生产全部有对应，是课程社会结构解释。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 16–18、20–21、24–25、29、38"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③通过检验是否成功的让周围的人向我而思，试探自己的自私是否成功，实质是渴望获得唯我论的自恋的确证。",
+          "claim": "③通过检验是否成功的让周围的人向我而思，试探自己的自私是否成功，实质是渴望获得唯我论的自恋的确证。",
+          "status": "supported",
+          "finding": "测试他人的爱、考核自己的自私是否成功、向我而思及获取自恋确证均明确出现，非仅据本格标题推断。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 34–38"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "世界/宇宙作为未反思的背景场域明确列出。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 4–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 本我(弗洛伊德的Id)(调和Being与beings)",
+          "claim": "本体论3 本我(弗洛伊德的Id)(调和Being与beings)",
+          "status": "supported_with_attribution",
+          "finding": "课程确实借用弗洛伊德Id并使其调和Being/beings；是课程改用概念，不能视作弗洛伊德本人这样规定宇宙本体。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 “我的”(for me)",
+          "claim": "认识论3 “我的”(for me)",
+          "status": "supported",
+          "finding": "for me、我的、全盘认作自己明列为认识论。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 追求一个成功的自我幻象(有钱有权、成家立业)",
+          "claim": "目的论1 追求一个成功的自我幻象(有钱有权、成家立业)",
+          "status": "supported",
+          "finding": "目的首先明称无条件利己，后说明这个自我是社会灌输的事业、成家、权色幻象；原字段取后文的展开概括。",
+          "source_ids": [
+            "m1-0058"
+          ],
+          "locator": "Page 17、22、25、34–38"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "被讲者批判的性别、阶层与族群偏见必须与资料站陈述区分；Id等术语是课程借用，非原典等同性审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；人物思想和历史实例的外部准确性仍需原典专审。"
+      ]
+    },
+    {
+      "code": "1-3-3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①整个世界都由我来负责，服从我的意志就是高贵的，违抗我的意志就是下贱的。",
+          "claim": "①整个世界都由我来负责，服从我的意志就是高贵的，违抗我的意志就是下贱的。",
+          "status": "supported",
+          "finding": "整个世界由我负责、符合我的意志为高贵、不服从为下贱明确是被批评立场的判断。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 3–6"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②执拗的认为符合道德就对自己有利，但时刻符合道德做不到，于是不停抨击道德秩序中的弱小者，以掩盖自己的伪君子。",
+          "claim": "②执拗的认为符合道德就对自己有利，但时刻符合道德做不到，于是不停抨击道德秩序中的弱小者，以掩盖自己的伪君子。",
+          "status": "supported_with_wording_issue",
+          "finding": "符合道德对己有利、全守道德困难、改而攻击弱者遮掩自身利益均有论证；掩盖自己的伪君子是语病，应为掩盖自己的伪君子本质。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③从根本上是超伦理主义，把符合道德的就对自己有利，变为把一切有利的都说成是道德的，需要不停抨击他人以维持自己道德制高点。",
+          "claim": "③从根本上是超伦理主义，把符合道德的就对自己有利，变为把一切有利的都说成是道德的，需要不停抨击他人以维持自己道德制高点。",
+          "status": "supported_with_attribution",
+          "finding": "超伦理主义、把有利说成道德和以攻击他人维持制高点直接出现；为讲者批评的机制。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 13–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④无法反思何为有利，也不反思道德本身，必须反思到真正下贱的并不是被抨击的道德弱势群体，而是场域论上的既定道德秩序本身。",
+          "claim": "④无法反思何为有利，也不反思道德本身，必须反思到真正下贱的并不是被抨击的道德弱势群体，而是场域论上的既定道德秩序本身。",
+          "status": "supported_distinguishing_comparison",
+          "finding": "不反思有利及既定道德、应转向批判背后秩序有对应；必须反思的后半句是讲者提出的脱离本格路径，不是本格信奉的原则。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 15–18、27–28"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "世界明列为场域，并解释避免无限追问世界背景。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 本我(弗洛伊德的Id)",
+          "claim": "本体论3 本我(弗洛伊德的Id)",
+          "status": "supported_with_attribution",
+          "finding": "本讲明确Id本我，弗洛伊德借词来源见前一讲；其宇宙本体含义是课程的用法，不能反归弗洛伊德原理论。",
+          "source_ids": [
+            "m1-0059",
+            "m1-0058"
+          ],
+          "locator": "Page 1；1-3-3-1 Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 自我意志(Will of Self)",
+          "claim": "认识论3 自我意志(Will of Self)",
+          "status": "supported",
+          "finding": "讲者特意区分自我意志与自我意识，并明列will of self/my will。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 高贵的(noble)与下贱的(ignoble)的对立",
+          "claim": "目的论2 高贵的(noble)与下贱的(ignoble)的对立",
+          "status": "supported_with_scope",
+          "finding": "noble/ignoble明列为目的对立；后文落实为道德话语强弱、能否抨击，是立场自身的等级化，不是对人的客观高低判定。",
+          "source_ids": [
+            "m1-0059"
+          ],
+          "locator": "Page 3–4、16–18"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "被讲者批判的性别、阶层与族群偏见必须与资料站陈述区分；Id等术语是课程借用，非原典等同性审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；人物思想和历史实例的外部准确性仍需原典专审。"
+      ]
+    },
+    {
+      "code": "1-3-3-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①通过排斥和妖魔化某个群体或个人凝聚共同体。",
+          "claim": "①通过排斥和妖魔化某个群体或个人凝聚共同体。",
+          "status": "supported",
+          "finding": "以共同仇恨/妖魔化群体或个人实现伪集体化直接出现。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 1、7–9、12、15–16、22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②目的论上中心化，最高贵的伦理目的就是去伤害、折磨、消灭低贱的人，对应纳粹主义消灭诡计多端的犹太金融资本，回到安居乐业的实业资本主义秩序中。",
+          "claim": "②目的论上中心化，最高贵的伦理目的就是去伤害、折磨、消灭低贱的人，对应纳粹主义消灭诡计多端的犹太金融资本，回到安居乐业的实业资本主义秩序中。",
+          "status": "needs_attribution_of_prejudice",
+          "finding": "把迫害被称低贱者当最高目的，以及纳粹将犹太人与金融阴谋绑定、幻想良性实业资本主义的叙述均出现；原文字面诡计多端的犹太金融资本缺少被批判者归属，易把反犹妖魔化当事实。课程明确称他们会把它说成诡计多端。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 6、10–11"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③是一种伪集体主义，不存在真正的集体意识，个人通过幻想一个以排外为核心的共同体，实现自我认同。",
+          "claim": "③是一种伪集体主义，不存在真正的集体意识，个人通过幻想一个以排外为核心的共同体，实现自我认同。",
+          "status": "supported_with_scope",
+          "finding": "假共同体、各自利己、以共同排外对象幻想利益相同有论证；不存在真正集体意识限定在此种伪集体，不是对所有集体的普遍否定。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 11–16、22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④会清醒的自我脱罪，虽然我行为出格，但我内心清白，虽然被欺负的弱势群体行为正常，但他们内心邪恶变态非人，以此确证我的人性。",
+          "claim": "④会清醒的自我脱罪，虽然我行为出格，但我内心清白，虽然被欺负的弱势群体行为正常，但他们内心邪恶变态非人，以此确证我的人性。",
+          "status": "supported",
+          "finding": "行为残暴却称内心正常可理解，对被迫害者反称表面文明内心非人的镜像辩护逐项出现；确证人性是施害者的自我辩护，不是本批认可。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 23–26、28"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "稳定世界想象明列为场域。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 本我(弗洛伊德的Id)",
+          "claim": "本体论3 本我(弗洛伊德的Id)",
+          "status": "supported_with_attribution",
+          "finding": "Id中介Being/beings明示，弗洛伊德名称为前一讲借用；未核其与弗洛伊德概念相等。",
+          "source_ids": [
+            "m1-0060",
+            "m1-0058"
+          ],
+          "locator": "Page 2；1-3-3-1 Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 自我(调和本真与非本真)",
+          "claim": "认识论3 自我(调和本真与非本真)",
+          "status": "supported",
+          "finding": "ego调和/设定本真非本真、真假与利损，直接明示。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 2–4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 排他性的集体目的(中心化高贵与低贱)",
+          "claim": "目的论3 排他性的集体目的(中心化高贵与低贱)",
+          "status": "supported",
+          "finding": "以排外集体目的将高贵/低贱中心化：把伤害低贱者定义为最高贵；为课程明确批判的意识形态机制。",
+          "source_ids": [
+            "m1-0060"
+          ],
+          "locator": "Page 5–11"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "被讲者批判的性别、阶层与族群偏见必须与资料站陈述区分；Id等术语是课程借用，非原典等同性审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；人物思想和历史实例的外部准确性仍需原典专审。"
+      ]
+    },
+    {
+      "code": "1-3-3-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①认为女人短视、感性，无法达到成熟男人的理性状态，是介于小孩和男人的中间状态。",
+          "claim": "①认为女人短视、感性，无法达到成熟男人的理性状态，是介于小孩和男人的中间状态。",
+          "status": "needs_attribution_of_prejudice",
+          "finding": "女性幼稚、眼光近及介于小孩与成年男子的说法是课程引用并反驳的叔本华偏见；Page 7明确说这些都是偏见我都不同意。应在摘要中标明批判对象，不直接陈述女性性质。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 7–12、19–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②把“感性-知性-理性”的等级制分别对应“小孩-女人-男人”，实质是恶臭男权等级制。",
+          "claim": "②把“感性-知性-理性”的等级制分别对应“小孩-女人-男人”，实质是恶臭男权等级制。",
+          "status": "supported_with_attribution",
+          "finding": "感性/知性/理性按低到高对应小孩/女人/男人，是讲者揭示并反对的鄙视链；恶臭男权为讲者评价，不是原典独立考证。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 23–25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③厌女最终导向虚无主义，厌女者把“理性”作为女性的感性的对立面，但理性作为知性的自我反思(在黑格尔哲学中)本身就是一种狡诈、佯装(因为理性本身是有限的、特殊的，这样把理性普遍化才能发现其中的内在不一致性，才能达到反思)，所以厌女者推崇的“理性”恰恰与女性的“佯装”是一样的，这样消解理性中真正鲜活的力量，否定感性、知性、理性的三种可能性，必然走向虚无主义(把所有本体性机制投射到女性上，再把女性否定)。",
+          "claim": "③厌女最终导向虚无主义，厌女者把“理性”作为女性的感性的对立面，但理性作为知性的自我反思(在黑格尔哲学中)本身就是一种狡诈、佯装(因为理性本身是有限的、特殊的，这样把理性普遍化才能发现其中的内在不一致性，才能达到反思)，所以厌女者推崇的“理性”恰恰与女性的“佯装”是一样的，这样消解理性中真正鲜活的力量，否定感性、知性、理性的三种可能性，必然走向虚无主义(把所有本体性机制投射到女性上，再把女性否定)。",
+          "status": "supported_complex_argument_with_attribution",
+          "finding": "分项：否定女性来建构理性见8–12；知性自反与理性非更高实体见23–26、29；将有限特殊理性普遍化、暴露矛盾再反思见28–34（涉及康德及黑格尔两者，不仅黑格尔）；佯装与女性投射见27、33–35；抽走三维力量而虚无、投射所有本体机制再否定见35–37。整条是讲者论证，必然性仅在其重构模型中成立，未据原典核成学术定论。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 8–12、23–37"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(World)",
+          "claim": "场域论1 世界(World)",
+          "status": "supported",
+          "finding": "世界/意志表象世界直接列为场域。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 原初意志(Will)",
+          "claim": "本体论3 原初意志(Will)",
+          "status": "supported_with_scope",
+          "finding": "原初意志明列；讲者同时说与弗洛伊德本我不太一样，现有字段不强等同Id是合适的。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 “女性”化的阴柔的理性(决定一切本真与非本真，并纠结其中)",
+          "claim": "认识论3 “女性”化的阴柔的理性(决定一切本真与非本真，并纠结其中)",
+          "status": "needs_attribution_of_gendered_term",
+          "finding": "讲者以所谓女性化阴柔理性解释将厌恶对象投射于自身的认识机制，并说不存在女性本质。字段应标明是其投射分析，不应看作女性天然理性的定义。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 4–6、17–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 虚无、无意义(悲观的)",
+          "claim": "目的论4 虚无、无意义(悲观的)",
+          "status": "supported",
+          "finding": "闭合、悲观、无意义的虚无主义明列为目的论，并区别于开放的虚无。",
+          "source_ids": [
+            "m1-0061"
+          ],
+          "locator": "Page 1–3、6、35–37"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "被讲者批判的性别、阶层与族群偏见必须与资料站陈述区分；Id等术语是课程借用，非原典等同性审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；人物思想和历史实例的外部准确性仍需原典专审。"
+      ]
+    },
+    {
+      "code": "1-3-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①直觉主义拒斥的四种表象Appearance：\n\tIllusion：前康德语境中本体之外的剩余，总是偏离、失真、扭曲。\n\tRepresentation：符号性表象，是一种符号学的效果。\n\t奇迹发生的地方：表象的扭曲、扰动就是本体的现身。\n\tPhenomenon：现象学意义上的现象，表象遮蔽了自己背后其实什么都没有，只有一种否定性的运动模式。",
+          "claim": "①直觉主义拒斥的四种表象Appearance：\n\tIllusion：前康德语境中本体之外的剩余，总是偏离、失真、扭曲。\n\tRepresentation：符号性表象，是一种符号学的效果。\n\t奇迹发生的地方：表象的扭曲、扰动就是本体的现身。\n\tPhenomenon：现象学意义上的现象，表象遮蔽了自己背后其实什么都没有，只有一种否定性的运动模式。",
+          "status": "supported_with_scope_correction",
+          "finding": "四项分别对应前康德失真剩余、符号表象、康德式扭曲中的显现、遮蔽背后空无的否定运动；但这是讲者区分，Page 10批评直觉主义混同这些差别，不宜写成它自觉拒斥一套四分法。",
+          "source_ids": [
+            "m1-0062"
+          ],
+          "locator": "Page 4–10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②意识流直接白嫖主体性，但人的主体性恰恰是由物的凝视与符号学大他者的冲突建构。",
+          "claim": "②意识流直接白嫖主体性，但人的主体性恰恰是由物的凝视与符号学大他者的冲突建构。",
+          "status": "supported_as_lecturer_critique",
+          "finding": "未经分析地直接取用主体性与物之凝视/大他者凝视冲突构成主体性两层均有对应；后半为讲者外部解释，不是该立场自述。",
+          "source_ids": [
+            "m1-0062"
+          ],
+          "locator": "Page 10–12、16–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③体验本身是被符号学机制回溯性建构，在大部分情况下意识形态充当这种符号学机制，使第一人称的体验沦为意识形态的自我感动的奖赏机制。",
+          "claim": "③体验本身是被符号学机制回溯性建构，在大部分情况下意识形态充当这种符号学机制，使第一人称的体验沦为意识形态的自我感动的奖赏机制。",
+          "status": "supported_as_lecturer_critique",
+          "finding": "体验回溯建构、意识形态填平断裂及自我感动奖赏均在文中；只是课程论证，并未核成经验科学定律。",
+          "source_ids": [
+            "m1-0062"
+          ],
+          "locator": "Page 28–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(整全一致融贯的秩序场)",
+          "claim": "场域论1 宇宙(整全一致融贯的秩序场)",
+          "status": "supported",
+          "finding": "宇宙的整全融贯定义在前一文件本讲开头明示，本文件接续讨论未经反思的背景。",
+          "source_ids": [
+            "m1-0061",
+            "m1-0062"
+          ],
+          "locator": "1-3-3-4 Page 38；本讲Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 意识流(Stream of Consciousness)(调和后台Being与前台beings分裂)",
+          "claim": "本体论3 意识流(Stream of Consciousness)(调和后台Being与前台beings分裂)",
+          "status": "supported",
+          "finding": "意识流居中调和Being与beings的分裂有明述，未从格号反推。",
+          "source_ids": [
+            "m1-0062"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 “假象”(意识直接把握本体，无需本体之外的表象)",
+          "claim": "认识论4 “假象”(意识直接把握本体，无需本体之外的表象)",
+          "status": "supported_with_scope",
+          "finding": "直接把握本体及拒斥本体之外的表象有据；假象加引号指其对表象的排斥，不表示本讲判定所有意识均虚假。",
+          "source_ids": [
+            "m1-0062"
+          ],
+          "locator": "Page 3–4"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程框架与讲者批评不自动构成哲学史、心理学或生理学事实；逐字段对照不等于原音审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及原典归属与经验性断言仍需独立学术核验。"
+      ]
+    },
+    {
+      "code": "1-3-4-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①前反思的水平，给人自我安慰、自我标榜、固步自封。",
+          "claim": "①前反思的水平，给人自我安慰、自我标榜、固步自封。",
+          "status": "supported_as_lecturer_critique",
+          "finding": "前反思、自我安慰/标榜、固步自封均有明述，属于讲者类型化批评，非职业或人群统计判断。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 2、5–7"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②把人的“内在生活”看作万物交汇之处，但人的内在语言学世界是肤浅的，其呈现为线性的时间流，这种内在的纵深是被超时间的符号学结构回溯性建构的。",
+          "claim": "②把人的“内在生活”看作万物交汇之处，但人的内在语言学世界是肤浅的，其呈现为线性的时间流，这种内在的纵深是被超时间的符号学结构回溯性建构的。",
+          "status": "supported_as_lecturer_critique",
+          "finding": "万物交汇处是该立场的自我理解；讲者区分无意识的交汇与肤浅的内在可言说世界，线性时间流与超时间符号结构回溯建构纵深在Page 17同段。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 12、16–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③其本真姿态是无代价的肤浅的自恋，充满前现代幻想，而真正本真的姿态是破坏性的。",
+          "claim": "③其本真姿态是无代价的肤浅的自恋，充满前现代幻想，而真正本真的姿态是破坏性的。",
+          "status": "supported_as_lecturer_critique",
+          "finding": "免费内在体验、自恋与前现代幻想有对应；真正本真的破坏性指戳破/打破这一自足体验的哲学批评，不能扩成行为伤害规范。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 18–22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(整全秩序)",
+          "claim": "场域论1 世界(整全秩序)",
+          "status": "supported",
+          "finding": "场域世界明确列出。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 体验/“内在生活”(调和超越的、普遍的(Being)与世俗的、偏狭的(beings))",
+          "claim": "本体论3 体验/“内在生活”(调和超越的、普遍的(Being)与世俗的、偏狭的(beings))",
+          "status": "supported",
+          "finding": "超越普遍Being/世俗偏狭beings由内在生命体验中介有明述；内在生活是沿用常见译法，讲者提示生命更贴切。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 折衷主义(大家都有道理，根本上不信任认识论维度)",
+          "claim": "认识论4 折衷主义(大家都有道理，根本上不信任认识论维度)",
+          "status": "supported",
+          "finding": "折衷式称许各家、根本不信任认识论维度的表述对应两句，不是认为所有判断同真。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 13–14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 寻求真善美的统一、心灵理想状态",
+          "claim": "目的论1 寻求真善美的统一、心灵理想状态",
+          "status": "supported",
+          "finding": "真善美统一和内在理想状态明确；后文将其还原为温和秩序之美是进一步批评。",
+          "source_ids": [
+            "m1-0063"
+          ],
+          "locator": "Page 20–21、28–29"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程框架与讲者批评不自动构成哲学史、心理学或生理学事实；逐字段对照不等于原音审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及原典归属与经验性断言仍需独立学术核验。"
+      ]
+    },
+    {
+      "code": "1-3-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①是一个较好的切入哲学的点位，是开放的，可以到达观念论。",
+          "claim": "①是一个较好的切入哲学的点位，是开放的，可以到达观念论。",
+          "status": "supported_as_lecturer_evaluation",
+          "finding": "较开放的哲学入口以及可转入3-1-4-2康德观念论均明确；是讲者建议而非课程保证学习结果。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②对于过去感悲伤，因为过去已经成为永恒，而当下仍然存在各种可能性。",
+          "claim": "②对于过去感悲伤，因为过去已经成为永恒，而当下仍然存在各种可能性。",
+          "status": "supported_with_scope",
+          "finding": "过去永恒化导致悲伤、当下多重可能直接对应；是被分析者的时间体验，非作者断言过去客观永恒。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 17–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③为了让当下存在可能性，透支了松开当下的符号秩序，从而使意向性朝向未来的能力，由此闭合了过去的可能性(相信日记里写的就是真的过去)，难以回溯性重构过去的意义。",
+          "claim": "③为了让当下存在可能性，透支了松开当下的符号秩序，从而使意向性朝向未来的能力，由此闭合了过去的可能性(相信日记里写的就是真的过去)，难以回溯性重构过去的意义。",
+          "status": "supported_with_wording_correction",
+          "finding": "原句语序混乱。正文是把朝向未来的意向性/可能性透支到当下，去松开当下秩序，以过去闭合作代价；相信即时日记且不能回溯重构均有对应。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 21–25、27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④真正的辩证法：过去不是被回忆，而是被体验、重构，人无法在当下体验过去，过去是在未来被建构的，人在回忆过去时，松开了当下的符号秩序，抵达了未来。这种重构使过去可被未来所救赎，达到辩证法的和解。",
+          "claim": "④真正的辩证法：过去不是被回忆，而是被体验、重构，人无法在当下体验过去，过去是在未来被建构的，人在回忆过去时，松开了当下的符号秩序，抵达了未来。这种重构使过去可被未来所救赎，达到辩证法的和解。",
+          "status": "supported_as_lecturer_model",
+          "finding": "回忆即体验/重构、松开当前秩序而抵达未来、未来救赎过去并和解均明确；真正辩证法与不能在当下回忆的说法是讲者的时间性模型，不是已核现象学共识。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 22–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(整全秩序)",
+          "claim": "场域论1 世界(整全秩序)",
+          "status": "supported",
+          "finding": "充满可能性但仍融贯的世界有明述。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 理念的体验(体验各种把现实结构起来的理念)",
+          "claim": "本体论3 理念的体验(体验各种把现实结构起来的理念)",
+          "status": "supported",
+          "finding": "中心化的体验专指使现实被结构起来的多种理念，与旅游等一般体验分开。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 悬置(刻意地对感受到的事物认识论意义进行悬置)",
+          "claim": "认识论4 悬置(刻意地对感受到的事物认识论意义进行悬置)",
+          "status": "supported",
+          "finding": "主动悬置事物真假及认识地位，而非被动认知缺陷，有明确表述。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 因果性的现实与理念性的可能性的对立",
+          "claim": "目的论2 因果性的现实与理念性的可能性的对立",
+          "status": "supported",
+          "finding": "因果网络现实与理念可能性的对立被直接作为目的论2列出。",
+          "source_ids": [
+            "m1-0064"
+          ],
+          "locator": "Page 10、14"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程框架与讲者批评不自动构成哲学史、心理学或生理学事实；逐字段对照不等于原音审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及原典归属与经验性断言仍需独立学术核验。"
+      ]
+    },
+    {
+      "code": "1-3-4-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①克尔凯廓尔的三阶段论：\n\t审美(享乐) vs 伦理(禁欲)\n\t伦理(希冀、依赖) vs 宗教(绝望、孤独)\n\t宗教(信仰) vs 审美(内在体验)",
+          "claim": "①克尔凯廓尔的三阶段论：\n\t审美(享乐) vs 伦理(禁欲)\n\t伦理(希冀、依赖) vs 宗教(绝望、孤独)\n\t宗教(信仰) vs 审美(内在体验)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "三组对立、相应享乐/禁欲、希冀依赖/孤独绝望、信仰与内在审美体验逐项对应Page 3–5。这里只核讲者的三阶段重释，未核克尔凯廓尔原典。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 3–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②爱欲经济学：\n女性化的美的机制：把生(Life)与死(Death)通过管道、孔腔中心化为血肉(Fresh)。\n美通过对诡异的加倍、重复，设立有序性，遮蔽了诡异本身。\n一，脸\n(1)鼻孔：\n\t鼻孔与人中形成骷髅头小脸，这个小脸是婴儿最早对母亲的脸的刻画，原初格式塔的建立。这个脸中脸和脸的轮廓形成嵌套关系就显美。\n\t鼻孔很难性器化，但所有女性化的性器都要模仿鼻孔，成为有腔孔穴，相反，抠鼻孔行为可以卸除性欲。\n(2)鼻梁：\n\t卸除了脸中骷髅头的死亡的恐怖，但是鼻梁可以分别通向额头与眉毛，由此产生了美学二元性在争夺：\n\t\t(a)鼻孔(死亡) →鼻梁(高光)→额头(高光)：死亡→神圣，男性美\n\t\t(b)鼻孔(死亡)→鼻梁影(阴影)→眉毛(黑色)：死亡→生命力，女性美\n\t所以女性鼻梁要挺而且旁边要有阴影才美。\n(3)额头：\n\t额头对应鼻头，两者同构，额头要明亮饱满但不能太长。\n(4)眉毛：\n\t眉毛是小脸的头发，人脸旁边的头发总是垂落，限制了大脸，而小脸的头发(眉毛)是飘起来的，且其弧度与下垂头发的弧度相似，这样眉毛才显得美。\n\t男性眉毛较为平直，使得鼻梁直接通向额头，所以平直眉毛更显男相。男性眉毛较为杂乱，且现代男性普遍头发短，无法形成了眉-发结构。\n(5)头发：\n\t重要的审美末端，卸除鼻孔的死亡恐怖最后需依靠头发。\n\t头发、眉毛的生长代表生命力，因为其是脸的外部的、无知觉的、是可拔除的。\n(6)眼睛：\n\t眼球是对鼻孔的放大，而且眼睛有眼球在其中不是空洞的，由此取消鼻孔的空洞死亡，仿佛鼻孔也不是空无一物的，是有灵魂在其中的。\n\t“眼黑-眼白-眼白-眼黑”是对“眉毛(黑)-额头(白)-眉毛(黑)”的反写，一种暗示。\n(7)人中：\n\t人中的凸起使鼻孔中有生命力继续在皮下涌动，最终汇聚到嘴(血肉)。\n(8)嘴：\n\t两个嵌套的洞，外层是嘴唇，内层是牙齿。\n\t嘴唇：象征血肉，所有烈焰红唇显得美。而血肉本身的混乱的恐怖由唇纹卸除，因为唇纹是平行和垂直排列的，是有序的。此外，嘴唇居于鼻下区的中心位置，也可以卸除它的恐怖。\n\t牙齿：牙齿是齐整的，牙齿本身无知觉、非血肉，进一步消解唇的血肉恐怖。\n\t舌：舌是比嘴唇更纯的血肉且多动，所以更加恐怖，需要由牙齿和唇遮蔽。\n(9)鼻翼与耳：\n\t鼻翼与耳朵的形状类似，也是一种加倍的重复。\n(10)至此，存在5个通路卸除鼻孔构成的脸中骷髅的死亡恐怖：\n\t(a)鼻-额\n\t(b)鼻-眉-发\n\t(c)鼻孔-眼睛\n\t(d)人中-嘴唇-牙齿\n\t(e)鼻翼与耳朵\n脸部的不可能实现的幻想投射在身体上，故身体能够被性器化。\n二，女体\n(1)嘴部的二重空穴的反面实现：\n\t(a)食道-排泄口\n\t(b)性暗示-生殖口\n(2)臀：\n\t对鼻翼的模仿，填补鼻孔的空虚，对应于鼻子，所以放屁与挖鼻孔同样好笑(都通气了)。\n(3)胸：\n\t对应于眼球，所以胸中心一定要有一个点，不然不够审美化。眼球不可突出眼眶，胸部则弥补了不可能性——胸部可以脱离于胸框，可以被揉捏。\n(4)腰：\n\t对应于鼻梁，鼻梁无法扭动，无法被完全环握，而腰可以。\n(5)腿：\n\t对应于人中的两翼，人中的两翼较短而两腿较长，实现了不可能性，所以长腿为美。\n(6)高跟鞋：\n\t最经典的是红色与黑色，红代表嘴唇，黑代表头发。人中的两翼代表双腿，则半个上唇就相当于一只高跟鞋，唇中的牙齿对应鞋根，牙缝对应细跟，牙齿对应粗跟。\n\t恋鞋癖对应童年口唇期的爱欲跳过了嘴唇直接来到舌头:\n\t\t对于唇注重保护性：恋鞋\n\t\t对于唇注重敏感性：恋足\n\t\t脚趾，脚趾甲：对应牙齿\n(7)袜：\n\t对应于胡子，女性不长胡子所以袜满足了此种不可能性，故袜可以被审美化。\n\t(a)喜欢肉色的：对应女性人中的绒毛。\n\t(b)喜欢黑色的：对应黑胡子，代表女性臣服于年轻的争强好胜的男性秩序。\n\t(c)喜欢白色的：对应白胡子，代表年老的男性秩序，所以老年男性或处于弱势的男性喜欢穿白丝的幼化的女性。\n(8)腿毛：\n\t腿毛投射于胡子，长了腿毛在爱欲上就意味着长了胡子，就意味着是男性，所以女性长腿毛丑。\n(9)男性的胡子：\n\t用于直接遮蔽鼻孔构成的脸中骷髅。\n(10)男性的头发：\n\t现代男性如果不留胡子就不能留长发，因为需要打破“眉-发”的审美通路，强调“鼻-额”的神圣通路。相反，现代男性如果留长发必须留胡子，否则会有女性通路，显得女性化。",
+          "claim": "②爱欲经济学：\n女性化的美的机制：把生(Life)与死(Death)通过管道、孔腔中心化为血肉(Fresh)。\n美通过对诡异的加倍、重复，设立有序性，遮蔽了诡异本身。\n一，脸\n(1)鼻孔：\n\t鼻孔与人中形成骷髅头小脸，这个小脸是婴儿最早对母亲的脸的刻画，原初格式塔的建立。这个脸中脸和脸的轮廓形成嵌套关系就显美。\n\t鼻孔很难性器化，但所有女性化的性器都要模仿鼻孔，成为有腔孔穴，相反，抠鼻孔行为可以卸除性欲。\n(2)鼻梁：\n\t卸除了脸中骷髅头的死亡的恐怖，但是鼻梁可以分别通向额头与眉毛，由此产生了美学二元性在争夺：\n\t\t(a)鼻孔(死亡) →鼻梁(高光)→额头(高光)：死亡→神圣，男性美\n\t\t(b)鼻孔(死亡)→鼻梁影(阴影)→眉毛(黑色)：死亡→生命力，女性美\n\t所以女性鼻梁要挺而且旁边要有阴影才美。\n(3)额头：\n\t额头对应鼻头，两者同构，额头要明亮饱满但不能太长。\n(4)眉毛：\n\t眉毛是小脸的头发，人脸旁边的头发总是垂落，限制了大脸，而小脸的头发(眉毛)是飘起来的，且其弧度与下垂头发的弧度相似，这样眉毛才显得美。\n\t男性眉毛较为平直，使得鼻梁直接通向额头，所以平直眉毛更显男相。男性眉毛较为杂乱，且现代男性普遍头发短，无法形成了眉-发结构。\n(5)头发：\n\t重要的审美末端，卸除鼻孔的死亡恐怖最后需依靠头发。\n\t头发、眉毛的生长代表生命力，因为其是脸的外部的、无知觉的、是可拔除的。\n(6)眼睛：\n\t眼球是对鼻孔的放大，而且眼睛有眼球在其中不是空洞的，由此取消鼻孔的空洞死亡，仿佛鼻孔也不是空无一物的，是有灵魂在其中的。\n\t“眼黑-眼白-眼白-眼黑”是对“眉毛(黑)-额头(白)-眉毛(黑)”的反写，一种暗示。\n(7)人中：\n\t人中的凸起使鼻孔中有生命力继续在皮下涌动，最终汇聚到嘴(血肉)。\n(8)嘴：\n\t两个嵌套的洞，外层是嘴唇，内层是牙齿。\n\t嘴唇：象征血肉，所有烈焰红唇显得美。而血肉本身的混乱的恐怖由唇纹卸除，因为唇纹是平行和垂直排列的，是有序的。此外，嘴唇居于鼻下区的中心位置，也可以卸除它的恐怖。\n\t牙齿：牙齿是齐整的，牙齿本身无知觉、非血肉，进一步消解唇的血肉恐怖。\n\t舌：舌是比嘴唇更纯的血肉且多动，所以更加恐怖，需要由牙齿和唇遮蔽。\n(9)鼻翼与耳：\n\t鼻翼与耳朵的形状类似，也是一种加倍的重复。\n(10)至此，存在5个通路卸除鼻孔构成的脸中骷髅的死亡恐怖：\n\t(a)鼻-额\n\t(b)鼻-眉-发\n\t(c)鼻孔-眼睛\n\t(d)人中-嘴唇-牙齿\n\t(e)鼻翼与耳朵\n脸部的不可能实现的幻想投射在身体上，故身体能够被性器化。\n二，女体\n(1)嘴部的二重空穴的反面实现：\n\t(a)食道-排泄口\n\t(b)性暗示-生殖口\n(2)臀：\n\t对鼻翼的模仿，填补鼻孔的空虚，对应于鼻子，所以放屁与挖鼻孔同样好笑(都通气了)。\n(3)胸：\n\t对应于眼球，所以胸中心一定要有一个点，不然不够审美化。眼球不可突出眼眶，胸部则弥补了不可能性——胸部可以脱离于胸框，可以被揉捏。\n(4)腰：\n\t对应于鼻梁，鼻梁无法扭动，无法被完全环握，而腰可以。\n(5)腿：\n\t对应于人中的两翼，人中的两翼较短而两腿较长，实现了不可能性，所以长腿为美。\n(6)高跟鞋：\n\t最经典的是红色与黑色，红代表嘴唇，黑代表头发。人中的两翼代表双腿，则半个上唇就相当于一只高跟鞋，唇中的牙齿对应鞋根，牙缝对应细跟，牙齿对应粗跟。\n\t恋鞋癖对应童年口唇期的爱欲跳过了嘴唇直接来到舌头:\n\t\t对于唇注重保护性：恋鞋\n\t\t对于唇注重敏感性：恋足\n\t\t脚趾，脚趾甲：对应牙齿\n(7)袜：\n\t对应于胡子，女性不长胡子所以袜满足了此种不可能性，故袜可以被审美化。\n\t(a)喜欢肉色的：对应女性人中的绒毛。\n\t(b)喜欢黑色的：对应黑胡子，代表女性臣服于年轻的争强好胜的男性秩序。\n\t(c)喜欢白色的：对应白胡子，代表年老的男性秩序，所以老年男性或处于弱势的男性喜欢穿白丝的幼化的女性。\n(8)腿毛：\n\t腿毛投射于胡子，长了腿毛在爱欲上就意味着长了胡子，就意味着是男性，所以女性长腿毛丑。\n(9)男性的胡子：\n\t用于直接遮蔽鼻孔构成的脸中骷髅。\n(10)男性的头发：\n\t现代男性如果不留胡子就不能留长发，因为需要打破“眉-发”的审美通路，强调“鼻-额”的神圣通路。相反，现代男性如果留长发必须留胡子，否则会有女性通路，显得女性化。",
+          "status": "mixed_detailed_subclaims",
+          "finding": "已把该长字段的各器官、通路与因果子命题拆开对照。多数确实复述本讲自创解释；若干术语、反写和头发/年龄表述需修正。课程Page 46–47明确称独创，不能包装为已确证心理生理规律或拉康原说。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 5–49及置顶评论",
+          "subclaim_checks": [
+            {
+              "claim": "生死经管道孔腔中心化为血肉",
+              "status": "supported_with_typo",
+              "finding": "中文关系对应；Fresh是编纂误拼，后文明确Flesh。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 5–7、11–12"
+            },
+            {
+              "claim": "诡异通过重复加倍设定有序性而遮蔽自己",
+              "status": "supported_as_lecturer_model",
+              "finding": "明确模型，非美学实验事实。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 8–10"
+            },
+            {
+              "claim": "鼻孔人中小脸/婴儿母亲格式塔/与大脸嵌套",
+              "status": "supported_as_lecturer_model",
+              "finding": "三子命题都有；婴儿发展说未独立核验。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 12–17"
+            },
+            {
+              "claim": "鼻孔难性器化/性器模仿鼻孔/抠鼻孔去性化",
+              "status": "supported_as_lecturer_model",
+              "finding": "三项均有；普遍化效果只是讲者断言。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 15–16"
+            },
+            {
+              "claim": "鼻梁卸恐惧及高光到额头的死亡—神圣男性通路",
+              "status": "supported_as_lecturer_model",
+              "finding": "对应崇高；讲者区分男性崇高与女性性感。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 19–23"
+            },
+            {
+              "claim": "鼻影到眉毛的死亡—生命力及鼻挺阴影",
+              "status": "supported_as_lecturer_model",
+              "finding": "女性通路有据，不是女性身体必然规范。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 22–25"
+            },
+            {
+              "claim": "额头同构鼻头，明亮饱满但不能长",
+              "status": "supported_as_lecturer_model",
+              "finding": "该段三项对应。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 37"
+            },
+            {
+              "claim": "眉毛为小脸头发，反转垂落压抑并有类似弧度",
+              "status": "supported_as_lecturer_model",
+              "finding": "垂落/飘起及弧度匹配都讲到。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 25–27"
+            },
+            {
+              "claim": "平直男性眉通额/杂乱短发无法眉发结构",
+              "status": "supported_as_lecturer_model",
+              "finding": "两层都有；现代审美限定不能略去。原文无法形成了有语病。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 28–29"
+            },
+            {
+              "claim": "头发末端卸死亡恐怖",
+              "status": "supported_as_lecturer_model",
+              "finding": "属于此鼻眉发通路的末端，不是所有美的唯一末端。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 29–30"
+            },
+            {
+              "claim": "毛发生命力因为外部无知觉可拔除",
+              "status": "partly_miscombined",
+              "finding": "生命力见23；外在可拔/无感觉/死细胞见30，用于卸恐惧。原摘要将两层不当地接成因果。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 23、29–30"
+            },
+            {
+              "claim": "眼球放大鼻孔，填洞而显示灵魂",
+              "status": "supported_with_term_scope",
+              "finding": "正文首先眼睛放大鼻孔，再以眼球填其洞；原句眼球放大混同眼睛整体与内容物。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 24、31–32"
+            },
+            {
+              "claim": "眼黑眼白结构是眉额的反写",
+              "status": "unsupported_strong_wording",
+              "finding": "讲者中途撤回倒转措辞，改把两眼拼合对应中间亮两边暗的鼻梁/鼻影通路；反写不稳。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 31–32"
+            },
+            {
+              "claim": "人中凸起示生命力皮下流向嘴",
+              "status": "supported_as_lecturer_model",
+              "finding": "该段直接描述，非解剖生理事实。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 33"
+            },
+            {
+              "claim": "嘴为唇与齿两个嵌套洞",
+              "status": "supported_as_lecturer_model",
+              "finding": "两圈与洞中洞明确。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 13、34"
+            },
+            {
+              "claim": "红唇血肉/有序唇纹/鼻下中心卸恐怖",
+              "status": "supported_with_typo",
+              "finding": "三项俱在；所有烈焰红唇应为所以，不能把审美变成全称经验判断。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 34–36"
+            },
+            {
+              "claim": "整齐无知觉非血肉牙齿消解唇恐怖",
+              "status": "supported_as_lecturer_model",
+              "finding": "照录讲者解释；无知觉不能被当作牙组织医学事实，本文未医学核验。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 36"
+            },
+            {
+              "claim": "舌更纯血肉多动，需唇齿遮蔽",
+              "status": "supported_as_lecturer_model",
+              "finding": "纯血肉/动/遮蔽均有；无法停止之生理说未核。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 36–37"
+            },
+            {
+              "claim": "鼻翼与耳相似加倍",
+              "status": "supported_as_lecturer_model",
+              "finding": "第五通路明确。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 33–34"
+            },
+            {
+              "claim": "五通路的列举",
+              "status": "supported_with_count_scope",
+              "finding": "鼻额、鼻眉发、鼻眼、人中唇、鼻翼耳五项对应；作者随后口头称还不止五个，将牙齿收入第四为编辑归并而非严格原枚举。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 33–36"
+            },
+            {
+              "claim": "脸上不可能幻想投射身体而性化",
+              "status": "supported_as_lecturer_model",
+              "finding": "作为后半讲总机制明述。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 39–40"
+            },
+            {
+              "claim": "嘴二重洞对应食道排泄/性暗示生殖",
+              "status": "supported_as_lecturer_model",
+              "finding": "两项分别展开。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 37–38"
+            },
+            {
+              "claim": "臀模仿鼻翼填鼻孔及通气搞笑",
+              "status": "supported_as_lecturer_model",
+              "finding": "前两项明说，抠鼻孔类比需结合16而非本段独立结论。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 38–39"
+            },
+            {
+              "claim": "胸模仿眼球圆心，外于胸腔补眼不能离眶",
+              "status": "supported_as_lecturer_model",
+              "finding": "圆心/不能离眶/胸外转动逐项明述；胸框非规范解剖术语。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 39–40"
+            },
+            {
+              "claim": "胸可揉捏而眼不可",
+              "status": "supported_with_source_scope",
+              "finding": "正文主要说移动；不可触碰揉捏见编纂所录置顶评论，评论未经独立抓取认证。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 49末置顶评论"
+            },
+            {
+              "claim": "腰对应鼻梁并补扭动环握",
+              "status": "supported_as_lecturer_model",
+              "finding": "对应与两种不可能性明说。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 40"
+            },
+            {
+              "claim": "腿对应人中两翼并以长补短",
+              "status": "supported_as_lecturer_model",
+              "finding": "映射及长短对照都有。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 41–43"
+            },
+            {
+              "claim": "红黑高跟鞋对应唇发、半唇鞋、牙缝细跟牙粗跟",
+              "status": "supported_with_typo",
+              "finding": "各对应可定位；原文鞋根应鞋跟。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 41–42"
+            },
+            {
+              "claim": "恋鞋口唇爱欲越过唇到舌",
+              "status": "supported_as_lecturer_model",
+              "finding": "正文如此表述，非公认性心理成因。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 42"
+            },
+            {
+              "claim": "保护恋鞋/敏感恋足/趾甲牙齿",
+              "status": "supported_with_transcript_ambiguity",
+              "finding": "48将保护写成恋唇疑错，49明确保护性恋鞋；敏感恋足、趾甲牙齿在48–49对应。未核音。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 48–49"
+            },
+            {
+              "claim": "袜对应女性未有胡须的不可能性",
+              "status": "supported_as_lecturer_model",
+              "finding": "属于讲者投射框架，不是女性不能长胡须的生理事实。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 43–44"
+            },
+            {
+              "claim": "肉袜绒毛/黑袜年轻男权/白袜年老男权",
+              "status": "supported_as_lecturer_model",
+              "finding": "三色各对应有明述；没有调查支撑。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 43–44"
+            },
+            {
+              "claim": "老年男性或弱势男性喜欢白袜幼化女性",
+              "status": "overgeneralized_demographic_claim",
+              "finding": "讲者主要说心理怯懦、偏好年老男权、心态老，另举老头例子；不能推全体实际老年男性偏好。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 43–44"
+            },
+            {
+              "claim": "腿毛—胡须—男性投射，所以女性腿毛丑",
+              "status": "supported_as_lecturer_model",
+              "finding": "是作者揭示其设定的审美秩序及男性投射，不是本站评价自然身体。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 44–45"
+            },
+            {
+              "claim": "男性胡须遮蔽小骷髅",
+              "status": "supported_as_lecturer_model",
+              "finding": "直接遮蔽解释明述。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 45–46"
+            },
+            {
+              "claim": "无须短发/长发有须以阻断眉发保鼻额",
+              "status": "supported_as_lecturer_model",
+              "finding": "条件推理全有，只在该模型内，不是穿着须发规范。",
+              "source_ids": [
+                "m1-0065"
+              ],
+              "locator": "Page 45–46"
+            }
+          ]
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 稳固的世界(World)",
+          "claim": "场域论1 稳固的世界(World)",
+          "status": "supported",
+          "finding": "稳固世界被明确列为场域。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 直觉性的体验(Intuitional Experience)",
+          "claim": "本体论3 直觉性的体验(Intuitional Experience)",
+          "status": "supported",
+          "finding": "直觉体验调和普遍/具体存在并统摄之，为正文轴定义。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 对美的沉默(Silence)",
+          "claim": "认识论4 对美的沉默(Silence)",
+          "status": "supported",
+          "finding": "面对美而静默认识论、可不人称化的沉默体验明确。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 美(Beauty)",
+          "claim": "目的论3 美(Beauty)",
+          "status": "supported",
+          "finding": "目的论直接列美；中心化机制另在生死与血肉关系中展开。",
+          "source_ids": [
+            "m1-0065"
+          ],
+          "locator": "Page 3、5–6"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程框架与讲者批评不自动构成哲学史、心理学或生理学事实；逐字段对照不等于原音审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及原典归属与经验性断言仍需独立学术核验。"
+      ]
+    },
+    {
+      "code": "1-3-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①极端化的唯美主义，走向“诡异-美”的辩证法的反面，通过创造一种诡异，产生一种美，这是一种倒错，比如通过拧巴的、自虐式的诗歌创作就可以产生美。",
+          "claim": "①极端化的唯美主义，走向“诡异-美”的辩证法的反面，通过创造一种诡异，产生一种美，这是一种倒错，比如通过拧巴的、自虐式的诗歌创作就可以产生美。",
+          "status": "supported_with_attribution_correction",
+          "finding": "极端唯美主义、逆练诡异—美、诗歌自虐三层均对应；能产生美是所批判立场的信念，讲者随后以主体间性不足反驳，不应当作本文认可。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 1–3、5、7–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②是在反抗一个“正常”的符号系统，但是只反抗其“正常性”， 不反抗符号系统本身。",
+          "claim": "②是在反抗一个“正常”的符号系统，但是只反抗其“正常性”， 不反抗符号系统本身。",
+          "status": "supported",
+          "finding": "只反抗正常性/规范、不反抗使其享乐可能的符号系统，被直接区别。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③依然承认事物有意义，但是只能通过倒错地、扭曲地、阴郁地、非正常的符号化地体验，比如通过诗歌、性、病、死亡。",
+          "claim": "③依然承认事物有意义，但是只能通过倒错地、扭曲地、阴郁地、非正常的符号化地体验，比如通过诗歌、性、病、死亡。",
+          "status": "supported_with_scope",
+          "finding": "仍有meaning而以扭曲/阴郁及诗性病死形式表现均明述；不是推崇这些实践，也未核病理学真实性。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 4–5、9–10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④“事后圣如佛”即高潮之后肉体的欲望已死，反而获得了真正的性欲，它使原本的爱欲格式塔消散，女体变得不再诱惑而是诡异，实际上是进一步将女体女体化(通过“诡异-美”的辩证法)，将更淫荡的美学机制纳入新的爱欲格式塔。",
+          "claim": "④“事后圣如佛”即高潮之后肉体的欲望已死，反而获得了真正的性欲，它使原本的爱欲格式塔消散，女体变得不再诱惑而是诡异，实际上是进一步将女体女体化(通过“诡异-美”的辩证法)，将更淫荡的美学机制纳入新的爱欲格式塔。",
+          "status": "supported_with_term_correction",
+          "finding": "生理快感消退但符号性欲望搜寻仍持续、旧格式塔解构、寻找更复杂性化机制均对应；真正性欲应更准确纯精神性欲望；女体女体化是误写，应进一步性化。主体行为为讲者批评的物化，不可转作女性本质。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 15–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 世界(整全秩序)",
+          "claim": "场域论1 世界(整全秩序)",
+          "status": "supported",
+          "finding": "世界整全秩序在正文以稳固均一循环说明。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论3 美学化的直觉/审美体验(Intuitional Experience)",
+          "claim": "本体论3 美学化的直觉/审美体验(Intuitional Experience)",
+          "status": "supported",
+          "finding": "美学化直觉/审美体验直接列出。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 谎言/语言的多重性(没有超语言)",
+          "claim": "认识论4 谎言/语言的多重性(没有超语言)",
+          "status": "supported",
+          "finding": "谎言、语言多重性与无终极超语言同段明说；编纂英文mental疑错，本站中文未照搬。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 4、6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 消解目的、去审美化(厌女)",
+          "claim": "目的论4 消解目的、去审美化(厌女)",
+          "status": "supported_as_lecturer_critique",
+          "finding": "目的论4的伦理意义虚无、消费去审美化与厌女的归结都有；消解目的为编辑压缩，非无任何局部欲望或行动意图。",
+          "source_ids": [
+            "m1-0066"
+          ],
+          "locator": "Page 12–14、19–21"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程框架与讲者批评不自动构成哲学史、心理学或生理学事实；逐字段对照不等于原音审定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及原典归属与经验性断言仍需独立学术核验。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "1-3-1",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论3 自我(调和至高存在(Being)与被具体存在(beings)的对立)",
+      "after": "本体论3 自我(调和至高存在(Being)与具体存在(beings)的对立)",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0047",
+        "m1-0046"
+      ],
+      "locator": "Page 2；1-3复习课Page 6–7",
+      "rationale": "移除语病被字，保留原中介关系。"
+    },
+    {
+      "code": "1-3-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③我的“心”是自由的，造成目的论上的短路，我内心的法等于罪，自由等于背叛。",
+      "after": "③我的“心”被视为自由的，造成目的论上的短路：我内心的普遍法在特殊共同体中被认作罪；忠诚通过背叛既定共同体秩序而实现。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0049"
+      ],
+      "locator": "Page 13–15、23–24",
+      "rationale": "纠正fidelity误写成自由，并补上法等于罪的共同体限定。"
+    },
+    {
+      "code": "1-3-1-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③无法解释共同体的集体意识的最终源头，具有神秘主义底色，是前现代的。",
+      "after": "③把集体心灵的活动归于“最高观念”或共同体命运，具有神秘主义底色；讲者认为它是现代社会为遮蔽自身矛盾而退回前现代结构的意识形态。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0050"
+      ],
+      "locator": "Page 12–16",
+      "rationale": "用实际论证替换未定位的最终源头断言，并保留讲者对前现代判断的修正。"
+    },
+    {
+      "code": "1-3-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①前反思的实质主义者，自吹为存在主义者，自我感动的爱情失败者。",
+      "after": "①前反思的本质主义者，自吹为存在主义者，自我感动的爱情失败者。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0052"
+      ],
+      "locator": "Page 6–7、22",
+      "rationale": "正文概念为本质主义，误作实质。"
+    },
+    {
+      "code": "1-3-2-2",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论2 本真(谎言、意识形态)与非本真(现实、蝇营狗苟)的对立",
+      "after": "认识论2 自认为本真的揭穿谎言、承认套路的姿态，与非本真的蝇营狗苟现实的对立",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0054"
+      ],
+      "locator": "Page 5–8",
+      "rationale": "补明本真是其揭穿/承认谎言的姿态，而非谎言内容为真。"
+    },
+    {
+      "code": "1-3-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①把基督教三位一体与柏拉图主义相结合，将“圣父-圣子-圣灵”对应于太一(绝对光明)-心灵(具现化的第一人称意识)-灵魂(催动质料的构建性力量)。",
+      "after": "①讲者用基督教三位一体与新柏拉图主义作类比，将“圣父-圣子-圣灵”对应于太一(绝对光明)-心灵(具现化的第一人称意识)-灵魂(催动质料的构建性力量)；这是课程的解释模型，相关思想史关系尚未核定。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0055"
+      ],
+      "locator": "Page 2–4",
+      "rationale": "课程自称现学现卖；保留其三元模型，避免把未经核定的学说起源和历史因果当定论。"
+    },
+    {
+      "code": "1-3-2-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④将官哲视作是和自己一样在目的论中进行争夺的权奴。",
+      "after": "④把官哲视为拘泥静态秩序的蠢货；把已故或有名、曾被自己崇拜的哲学家视为抢占目的论位置的同类“权奴”。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0056"
+      ],
+      "locator": "Page 17",
+      "rationale": "还原原文分别评价的两组对象。"
+    },
+    {
+      "code": "1-3-3-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②执拗的认为符合道德就对自己有利，但时刻符合道德做不到，于是不停抨击道德秩序中的弱小者，以掩盖自己的伪君子。",
+      "after": "②执拗的认为符合道德就对自己有利，但时刻符合道德做不到，于是不停抨击道德秩序中的弱小者，以掩盖自己的伪君子本质。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0059"
+      ],
+      "locator": "Page 12–18",
+      "rationale": "修复语病，不改变原机制。"
+    },
+    {
+      "code": "1-3-3-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②目的论上中心化，最高贵的伦理目的就是去伤害、折磨、消灭低贱的人，对应纳粹主义消灭诡计多端的犹太金融资本，回到安居乐业的实业资本主义秩序中。",
+      "after": "②目的论上中心化：在这种排他意识形态看来，最高贵的伦理目的就是伤害、折磨、消灭被它认作“低贱”的人。讲者以纳粹反犹宣传为例，批评其把犹太人妖魔化为操纵金融的阴谋者、幻想靠迫害他们恢复良性实业资本主义秩序的逻辑。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0060"
+      ],
+      "locator": "Page 6、10–11",
+      "rationale": "给反犹妖魔化和高低贵贱加明确立场归属，保留课程的批判逻辑。"
+    },
+    {
+      "code": "1-3-3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①认为女人短视、感性，无法达到成熟男人的理性状态，是介于小孩和男人的中间状态。",
+      "after": "①本讲批判厌女者把女性说成短视、感性，不能达到成年男性的理性状态，是介于小孩与男人之间的状态。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0061"
+      ],
+      "locator": "Page 7–12、19–21",
+      "rationale": "原说是被引用并反驳的偏见，须明确主语。"
+    },
+    {
+      "code": "1-3-3-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③厌女最终导向虚无主义，厌女者把“理性”作为女性的感性的对立面，但理性作为知性的自我反思(在黑格尔哲学中)本身就是一种狡诈、佯装(因为理性本身是有限的、特殊的，这样把理性普遍化才能发现其中的内在不一致性，才能达到反思)，所以厌女者推崇的“理性”恰恰与女性的“佯装”是一样的，这样消解理性中真正鲜活的力量，否定感性、知性、理性的三种可能性，必然走向虚无主义(把所有本体性机制投射到女性上，再把女性否定)。",
+      "after": "③讲者论证这种厌女姿态如何导向虚无主义：厌女者把“理性”作为女性的感性的对立面，但理性作为知性的自我反思(据讲者对黑格尔与康德的解释)本身就是一种狡诈、佯装(因为理性本身是有限的、特殊的，这样把理性普遍化才能发现其中的内在不一致性，才能达到反思)，所以厌女者推崇的“理性”恰恰与女性的“佯装”是一样的，这样消解理性中真正鲜活的力量，否定感性、知性、理性的三种可能性，必然走向虚无主义(把所有本体性机制投射到女性上，再把女性否定)。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0061"
+      ],
+      "locator": "Page 23–37",
+      "rationale": "复杂论证确出课程，但普遍化/佯装部分同时援引康德；加讲者归属，避免冒称原典定论。"
+    },
+    {
+      "code": "1-3-3-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3 “女性”化的阴柔的理性(决定一切本真与非本真，并纠结其中)",
+      "after": "认识论3 讲者所谓“女性化”的阴郁理性：将不理解的本真与非本真关系投射到女性身上并纠结其中",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0061"
+      ],
+      "locator": "Page 4–6、17–18",
+      "rationale": "明确课程的投射分析，不把女性化说成女性的本质属性。"
+    },
+    {
+      "code": "1-3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①直觉主义拒斥的四种表象Appearance：\n\tIllusion：前康德语境中本体之外的剩余，总是偏离、失真、扭曲。\n\tRepresentation：符号性表象，是一种符号学的效果。\n\t奇迹发生的地方：表象的扭曲、扰动就是本体的现身。\n\tPhenomenon：现象学意义上的现象，表象遮蔽了自己背后其实什么都没有，只有一种否定性的运动模式。",
+      "after": "①讲者区分四种表象Appearance，并批评直觉主义以意识流混同其差别：\n\tIllusion：前康德语境中本体之外的剩余，总是偏离、失真、扭曲。\n\tRepresentation：符号性表象，是一种符号学的效果。\n\t奇迹发生的地方：表象的扭曲、扰动就是本体的现身。\n\tPhenomenon：现象学意义上的现象，表象遮蔽了自己背后其实什么都没有，只有一种否定性的运动模式。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0062"
+      ],
+      "locator": "Page 4–10",
+      "rationale": "避免把讲者用于批评的四分法误记为直觉主义自觉提出的四分拒斥。"
+    },
+    {
+      "code": "1-3-4-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③为了让当下存在可能性，透支了松开当下的符号秩序，从而使意向性朝向未来的能力，由此闭合了过去的可能性(相信日记里写的就是真的过去)，难以回溯性重构过去的意义。",
+      "after": "③为了让当下保持多重可能性，把朝向未来的意向性与希望透支到当下，用来松开当下的符号秩序；代价是闭合过去的可能性(相信日记里写的就是真的过去)，难以回溯性重构过去的意义。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0064"
+      ],
+      "locator": "Page 21–25、27",
+      "rationale": "修复透支对象与松开秩序的目的关系，保留日记及回溯重构论点。"
+    },
+    {
+      "code": "1-3-4-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④真正的辩证法：过去不是被回忆，而是被体验、重构，人无法在当下体验过去，过去是在未来被建构的，人在回忆过去时，松开了当下的符号秩序，抵达了未来。这种重构使过去可被未来所救赎，达到辩证法的和解。",
+      "after": "④讲者以辩证法解释回溯性时间：过去不是被回忆，而是被体验、重构，人无法在当下体验过去，过去是在未来被建构的，人在回忆过去时，松开了当下的符号秩序，抵达了未来。这种重构使过去可被未来所救赎，达到辩证法的和解。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0064"
+      ],
+      "locator": "Page 22–27",
+      "rationale": "标明课程理论解释的归属，避免未经核验地当作辩证法或现象学普遍定论。"
+    },
+    {
+      "code": "1-3-4-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①克尔凯廓尔的三阶段论：\n\t审美(享乐) vs 伦理(禁欲)\n\t伦理(希冀、依赖) vs 宗教(绝望、孤独)\n\t宗教(信仰) vs 审美(内在体验)",
+      "after": "①讲者对克尔凯廓尔三阶段论的重释：\n\t审美(享乐) vs 伦理(禁欲)\n\t伦理(希冀、依赖) vs 宗教(绝望、孤独)\n\t宗教(信仰) vs 审美(内在体验)",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0065"
+      ],
+      "locator": "Page 3–5",
+      "rationale": "仅社区课程可证重释，未取得原典支持将此三组对立称为标准三阶段表述。"
+    },
+    {
+      "code": "1-3-4-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②爱欲经济学：\n女性化的美的机制：把生(Life)与死(Death)通过管道、孔腔中心化为血肉(Fresh)。\n美通过对诡异的加倍、重复，设立有序性，遮蔽了诡异本身。\n一，脸\n(1)鼻孔：\n\t鼻孔与人中形成骷髅头小脸，这个小脸是婴儿最早对母亲的脸的刻画，原初格式塔的建立。这个脸中脸和脸的轮廓形成嵌套关系就显美。\n\t鼻孔很难性器化，但所有女性化的性器都要模仿鼻孔，成为有腔孔穴，相反，抠鼻孔行为可以卸除性欲。\n(2)鼻梁：\n\t卸除了脸中骷髅头的死亡的恐怖，但是鼻梁可以分别通向额头与眉毛，由此产生了美学二元性在争夺：\n\t\t(a)鼻孔(死亡) →鼻梁(高光)→额头(高光)：死亡→神圣，男性美\n\t\t(b)鼻孔(死亡)→鼻梁影(阴影)→眉毛(黑色)：死亡→生命力，女性美\n\t所以女性鼻梁要挺而且旁边要有阴影才美。\n(3)额头：\n\t额头对应鼻头，两者同构，额头要明亮饱满但不能太长。\n(4)眉毛：\n\t眉毛是小脸的头发，人脸旁边的头发总是垂落，限制了大脸，而小脸的头发(眉毛)是飘起来的，且其弧度与下垂头发的弧度相似，这样眉毛才显得美。\n\t男性眉毛较为平直，使得鼻梁直接通向额头，所以平直眉毛更显男相。男性眉毛较为杂乱，且现代男性普遍头发短，无法形成了眉-发结构。\n(5)头发：\n\t重要的审美末端，卸除鼻孔的死亡恐怖最后需依靠头发。\n\t头发、眉毛的生长代表生命力，因为其是脸的外部的、无知觉的、是可拔除的。\n(6)眼睛：\n\t眼球是对鼻孔的放大，而且眼睛有眼球在其中不是空洞的，由此取消鼻孔的空洞死亡，仿佛鼻孔也不是空无一物的，是有灵魂在其中的。\n\t“眼黑-眼白-眼白-眼黑”是对“眉毛(黑)-额头(白)-眉毛(黑)”的反写，一种暗示。\n(7)人中：\n\t人中的凸起使鼻孔中有生命力继续在皮下涌动，最终汇聚到嘴(血肉)。\n(8)嘴：\n\t两个嵌套的洞，外层是嘴唇，内层是牙齿。\n\t嘴唇：象征血肉，所有烈焰红唇显得美。而血肉本身的混乱的恐怖由唇纹卸除，因为唇纹是平行和垂直排列的，是有序的。此外，嘴唇居于鼻下区的中心位置，也可以卸除它的恐怖。\n\t牙齿：牙齿是齐整的，牙齿本身无知觉、非血肉，进一步消解唇的血肉恐怖。\n\t舌：舌是比嘴唇更纯的血肉且多动，所以更加恐怖，需要由牙齿和唇遮蔽。\n(9)鼻翼与耳：\n\t鼻翼与耳朵的形状类似，也是一种加倍的重复。\n(10)至此，存在5个通路卸除鼻孔构成的脸中骷髅的死亡恐怖：\n\t(a)鼻-额\n\t(b)鼻-眉-发\n\t(c)鼻孔-眼睛\n\t(d)人中-嘴唇-牙齿\n\t(e)鼻翼与耳朵\n脸部的不可能实现的幻想投射在身体上，故身体能够被性器化。\n二，女体\n(1)嘴部的二重空穴的反面实现：\n\t(a)食道-排泄口\n\t(b)性暗示-生殖口\n(2)臀：\n\t对鼻翼的模仿，填补鼻孔的空虚，对应于鼻子，所以放屁与挖鼻孔同样好笑(都通气了)。\n(3)胸：\n\t对应于眼球，所以胸中心一定要有一个点，不然不够审美化。眼球不可突出眼眶，胸部则弥补了不可能性——胸部可以脱离于胸框，可以被揉捏。\n(4)腰：\n\t对应于鼻梁，鼻梁无法扭动，无法被完全环握，而腰可以。\n(5)腿：\n\t对应于人中的两翼，人中的两翼较短而两腿较长，实现了不可能性，所以长腿为美。\n(6)高跟鞋：\n\t最经典的是红色与黑色，红代表嘴唇，黑代表头发。人中的两翼代表双腿，则半个上唇就相当于一只高跟鞋，唇中的牙齿对应鞋根，牙缝对应细跟，牙齿对应粗跟。\n\t恋鞋癖对应童年口唇期的爱欲跳过了嘴唇直接来到舌头:\n\t\t对于唇注重保护性：恋鞋\n\t\t对于唇注重敏感性：恋足\n\t\t脚趾，脚趾甲：对应牙齿\n(7)袜：\n\t对应于胡子，女性不长胡子所以袜满足了此种不可能性，故袜可以被审美化。\n\t(a)喜欢肉色的：对应女性人中的绒毛。\n\t(b)喜欢黑色的：对应黑胡子，代表女性臣服于年轻的争强好胜的男性秩序。\n\t(c)喜欢白色的：对应白胡子，代表年老的男性秩序，所以老年男性或处于弱势的男性喜欢穿白丝的幼化的女性。\n(8)腿毛：\n\t腿毛投射于胡子，长了腿毛在爱欲上就意味着长了胡子，就意味着是男性，所以女性长腿毛丑。\n(9)男性的胡子：\n\t用于直接遮蔽鼻孔构成的脸中骷髅。\n(10)男性的头发：\n\t现代男性如果不留胡子就不能留长发，因为需要打破“眉-发”的审美通路，强调“鼻-额”的神圣通路。相反，现代男性如果留长发必须留胡子，否则会有女性通路，显得女性化。",
+      "after": "②以下是讲者在本课提出的爱欲经济学解释模型，并非已经心理学、生理学验证的规律：\n女性化的美的机制：把生(Life)与死(Death)通过管道、孔腔中心化为血肉(Flesh)。\n美通过对诡异的加倍、重复，设立有序性，遮蔽了诡异本身。\n一，脸\n(1)鼻孔：\n\t鼻孔与人中形成骷髅头小脸，这个小脸是婴儿最早对母亲的脸的刻画，原初格式塔的建立。这个脸中脸和脸的轮廓形成嵌套关系就显美。\n\t鼻孔很难性器化，但所有女性化的性器都要模仿鼻孔，成为有腔孔穴，相反，抠鼻孔行为可以卸除性欲。\n(2)鼻梁：\n\t卸除了脸中骷髅头的死亡的恐怖，但是鼻梁可以分别通向额头与眉毛，由此产生了美学二元性在争夺：\n\t\t(a)鼻孔(死亡) →鼻梁(高光)→额头(高光)：死亡→神圣，男性美\n\t\t(b)鼻孔(死亡)→鼻梁影(阴影)→眉毛(黑色)：死亡→生命力，女性美\n\t所以女性鼻梁要挺而且旁边要有阴影才美。\n(3)额头：\n\t额头对应鼻头，两者同构，额头要明亮饱满但不能太长。\n(4)眉毛：\n\t眉毛是小脸的头发，人脸旁边的头发总是垂落，限制了大脸，而小脸的头发(眉毛)是飘起来的，且其弧度与下垂头发的弧度相似，这样眉毛才显得美。\n\t男性眉毛较为平直，使得鼻梁直接通向额头，所以平直眉毛更显男相。男性眉毛较为杂乱，且现代男性普遍头发短，无法形成眉-发结构。\n(5)头发：\n\t重要的审美末端，卸除鼻孔的死亡恐怖最后需依靠头发。\n\t讲者把眉毛看作生命力的表征，又把毛发的外在、可拔除、无知觉等特征用于解释死亡恐怖的卸除。\n(6)眼睛：\n\t眼睛是对鼻孔的放大，而且眼睛有眼球在其中不是空洞的，由此取消鼻孔的空洞死亡，仿佛鼻孔也不是空无一物的，是有灵魂在其中的。\n\t讲者将两眼拼合的明暗结构与鼻梁、鼻影通往额头、眉毛的通路相联系；他在讲解中撤回了“倒转”的说法。\n(7)人中：\n\t人中的凸起使鼻孔中有生命力继续在皮下涌动，最终汇聚到嘴(血肉)。\n(8)嘴：\n\t两个嵌套的洞，外层是嘴唇，内层是牙齿。\n\t嘴唇：象征血肉，所以烈焰红唇显得美。而血肉本身的混乱的恐怖由唇纹卸除，因为唇纹是平行和垂直排列的，是有序的。此外，嘴唇居于鼻下区的中心位置，也可以卸除它的恐怖。\n\t牙齿：牙齿是齐整的，牙齿本身无知觉、非血肉，进一步消解唇的血肉恐怖。\n\t舌：舌是比嘴唇更纯的血肉且多动，所以更加恐怖，需要由牙齿和唇遮蔽。\n(9)鼻翼与耳：\n\t鼻翼与耳朵的形状类似，也是一种加倍的重复。\n(10)至此，存在5个通路卸除鼻孔构成的脸中骷髅的死亡恐怖：\n\t(a)鼻-额\n\t(b)鼻-眉-发\n\t(c)鼻孔-眼睛\n\t(d)人中-嘴唇-牙齿\n\t(e)鼻翼与耳朵\n脸部的不可能实现的幻想投射在身体上，故身体能够被性器化。\n二，女体\n(1)嘴部的二重空穴的反面实现：\n\t(a)食道-排泄口\n\t(b)性暗示-生殖口\n(2)臀：\n\t对鼻翼的模仿，填补鼻孔的空虚，对应于鼻子，所以放屁与挖鼻孔同样好笑(都通气了)。\n(3)胸：\n\t对应于眼球，所以胸中心一定要有一个点，不然不够审美化。眼球不可突出眼眶，胸部则弥补了不可能性——胸部可以脱离于胸框，可以被揉捏。\n(4)腰：\n\t对应于鼻梁，鼻梁无法扭动，无法被完全环握，而腰可以。\n(5)腿：\n\t对应于人中的两翼，人中的两翼较短而两腿较长，实现了不可能性，所以长腿为美。\n(6)高跟鞋：\n\t最经典的是红色与黑色，红代表嘴唇，黑代表头发。人中的两翼代表双腿，则半个上唇就相当于一只高跟鞋，唇中的牙齿对应鞋跟，牙缝对应细跟，牙齿对应粗跟。\n\t恋鞋癖对应童年口唇期的爱欲跳过了嘴唇直接来到舌头:\n\t\t对于唇注重保护性：恋鞋\n\t\t对于唇注重敏感性：恋足\n\t\t脚趾，脚趾甲：对应牙齿\n(7)袜：\n\t对应于胡子，女性不长胡子所以袜满足了此种不可能性，故袜可以被审美化。\n\t(a)喜欢肉色的：对应女性人中的绒毛。\n\t(b)喜欢黑色的：对应黑胡子，代表女性臣服于年轻的争强好胜的男性秩序。\n\t(c)喜欢白色的：对应白胡子，代表年老的男性秩序，讲者由此解释偏好年老男权、心态怯懦者对穿白袜的幼化女性形象的幻想。\n(8)腿毛：\n\t腿毛投射于胡子，长了腿毛在爱欲上就意味着长了胡子，就意味着是男性，所以女性长腿毛丑。\n(9)男性的胡子：\n\t用于直接遮蔽鼻孔构成的脸中骷髅。\n(10)男性的头发：\n\t现代男性如果不留胡子就不能留长发，因为需要打破“眉-发”的审美通路，强调“鼻-额”的神圣通路。相反，现代男性如果留长发必须留胡子，否则会有女性通路，显得女性化。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0065"
+      ],
+      "locator": "Page 11–12、23、28–32、35、42–49",
+      "rationale": "保留原器官/通路说明，仅修可定位的误拼、语病、错误因果/反写和年龄泛化，并明确自创模型性质。"
+    },
+    {
+      "code": "1-3-4-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①极端化的唯美主义，走向“诡异-美”的辩证法的反面，通过创造一种诡异，产生一种美，这是一种倒错，比如通过拧巴的、自虐式的诗歌创作就可以产生美。",
+      "after": "①极端化的唯美主义，走向“诡异-美”的辩证法的反面，通过创造一种诡异，产生一种美，这是一种倒错，例如它相信通过拧巴的、自虐式的诗歌创作就可以产生美；讲者批评这忽略了美的主体间性维度。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0066"
+      ],
+      "locator": "Page 7–9",
+      "rationale": "保留原论点并恢复讲者与被批评立场的距离。"
+    },
+    {
+      "code": "1-3-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④“事后圣如佛”即高潮之后肉体的欲望已死，反而获得了真正的性欲，它使原本的爱欲格式塔消散，女体变得不再诱惑而是诡异，实际上是进一步将女体女体化(通过“诡异-美”的辩证法)，将更淫荡的美学机制纳入新的爱欲格式塔。",
+      "after": "④讲者把“事后圣如佛”解释为高潮后生理快感消退、纯精神性的性欲机制仍在运作，它使原本的爱欲格式塔消散，女体变得不再诱惑而是诡异，实际上是进一步将女体进一步性化(通过“诡异-美”的辩证法)，将更淫荡的美学机制纳入新的爱欲格式塔。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0066"
+      ],
+      "locator": "Page 16–20",
+      "rationale": "修误写并把生理欲望消退与符号机制存续的区分写清；不是医学断言或本真的性欲赞许。"
+    }
+  ]
+}

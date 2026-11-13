@@ -1,0 +1,393 @@
+{
+  "review_scope": "德国观念论总论及批判哲学全部人工字段逐项核对；只核课程忠实度，哲学史、原典归属另核。",
+  "sources": [
+    {
+      "id": "m3-0210",
+      "title": "0210_3-2_德国观念论_人类哲学史最精华的部分_p5482",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%BE%B7%E5%9B%BD%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BA%BA%E7%B1%BB%E5%93%B2%E5%AD%A6%E5%8F%B2%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86/0210_3-2_%E5%BE%B7%E5%9B%BD%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BA%BA%E7%B1%BB%E5%93%B2%E5%AD%A6%E5%8F%B2%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86_p5482.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_德国观念论_人类哲学史最精华的部分/0210_3-2_德国观念论_人类哲学史最精华的部分_p5482.md",
+      "sha256": "8418d30d8b767b9f84b15fd7ef97f2dee3a8cfc44d8a2353d2b6b7bc57dc50a8",
+      "git_blob_sha": "589fb261d470d8630113625d4c949a18055b09fc",
+      "locator": "Page1–18 L9–83；Page18仅本讲结束，复习课开头排除",
+      "verification_scope": "逐段核读Page1–18 L9–83；Page18仅本讲结束，复习课开头排除；未核原音和原典，德语词源学及哲学史归属不由讲稿自证。"
+    },
+    {
+      "id": "m3-0212",
+      "title": "0212_3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划_p5524",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/0212_3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92_p5524.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划/0212_3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划_p5524.md",
+      "sha256": "94c4038d3d909c07807d91abb82cc3b6faab7e7372cc547a398e596716c93f49",
+      "git_blob_sha": "2223d74cbda26c199bab7265909744272bb6f78e",
+      "locator": "Page1–15 L9–65；Page16下一讲排除",
+      "verification_scope": "逐段核读Page1–15 L9–65；Page16下一讲排除；未核原音和原典，德语词源学及哲学史归属不由讲稿自证。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1
+      ],
+      "comparison_scope": "每个复合字段分项核查；讲者评价和符号学重述分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "康德发端、费希特核心、黑格尔完成思想实质、谢林实现历史使命。",
+          "status": "supported_course_evaluation",
+          "finding": "Page1明确这组课程定位；不是四人思想史地位的中性定论。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "线性发展论与康德后平行回答论对照。",
+          "status": "supported_course_evaluation",
+          "finding": "Page2–3确实以庸俗/主流命名；主流仅是讲者的判断且带课程时代性。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page2–3 L15–20"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "海德格尔读为存在史，齐泽克读为绝对否定性并以黑格尔走向唯物主义。",
+          "status": "supported_course_report",
+          "finding": "Page4–5明说，尚未核两位完整原作。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page4–5 L23–26"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "自我作为绝对设置者张开符号空间，圆的方可占位却不在通常意义上存在。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page6–10明确区分符号占位与现实存在；不可把虚构空间解释为真实造出矛盾物体。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page6–10 L31–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "A=A以如果A存在为条件，左A对应主体设置，右A对应自身性维持。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "英文句与左右位置逐字对应；这是对同一律的课程式费希特解释，不是形式逻辑标准定义。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page9–11 L40–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "主体无条件自设，主体与自身性绝对重合。",
+          "status": "needs_precision",
+          "finding": "Page15–18区分绝对自我和有限人的自我；原摘要泛称主体，容易把所有经验主体都说成无条件绝对者。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page12–18 L53–83"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "绝对设置者自我调和形而上/下。",
+          "status": "supported_course_statement",
+          "finding": "Page6–7直接给出定义，Page16再释两端；Selbst/Ich书写多次调整，不能视为精确德语术语定式。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page6–7 L31–34；Page16 L73"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "有限的自身与无限自我相对。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page17说明有限者也包括有限人类自我，无限者才是自我/自身直接重合；不是Selbst只能有限、Ich一律无限的字典。",
+          "source_ids": [
+            "m3-0210"
+          ],
+          "locator": "Page16–18 L73–83"
+        }
+      ],
+      "editorial_notes": [
+        "总论的里世界、完成历史使命、现代主流等表述是课程解释史框架；无文献统计支持其代表学界共识。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核原音；康德/费希特等原典与解释史断言待独立验证。"
+      ]
+    },
+    {
+      "code": "3-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "每个复合字段分项核查；讲者评价和符号学重述分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "先验主体性与判断为核心，受经院传统影响、保留前反思预设。",
+          "status": "supported_course_evaluation",
+          "finding": "Page3–5肯定先验主体性，Page8–9及13–15批评旧建筑术；剩余是讲者评价。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page3–5 L19–29；Page8–9 L44–47；Page13–15 L59–65"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "纯粹理性不能合法越现象到物自体，实践理性转而诉诸自由的绝对性。",
+          "status": "supported_course_statement",
+          "finding": "Page5–7明确对照；只核课程概述，不将实践准许直接等同理论知识。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page5–7 L29–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "判断力批判确立自我立法并倒逼无限者可被体验、认识、践行。",
+          "status": "overgeneralized",
+          "finding": "正文强调自由与实践信仰根据，同时保留思辨超越的非法性；认识无限者容易抹平理论认识与实践立场的区分。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page6–8 L34–44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "判断把先天范畴综合成可体验事物，表象是其结果。",
+          "status": "needs_precision",
+          "finding": "Page10–12还包括感性杂多、想象力、统觉等环节，不是仅由概念相加制造对象；表象是结果是讲者的框架。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page10–12 L50–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "康德以辩证法纠错，背后另有自由倒逼的辩证运动，课程借现象学显出它。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page7–9有直接说明；这种需以现象学解康德是讲者教学方案，非普遍学术要求。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page7–9 L39–47"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "先验统觉中介后天经验与先天维度。",
+          "status": "supported_course_statement",
+          "finding": "本讲直接给轴定义；英文本来是a posteriori/a priori，应保留完整术语，经验与先验不能简单等同形而下/上之普遍定律。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page4 L24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "有限人类现象与无限本体相对。",
+          "status": "supported_course_statement",
+          "finding": "本讲直接给轴定义；英文本来是a posteriori/a priori，应保留完整术语，经验与先验不能简单等同形而下/上之普遍定律。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page5–6 L29–34"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "判断/命题化。",
+          "status": "supported_course_statement",
+          "finding": "本讲直接给轴定义；英文本来是a posteriori/a priori，应保留完整术语，经验与先验不能简单等同形而下/上之普遍定律。",
+          "source_ids": [
+            "m3-0212"
+          ],
+          "locator": "Page5 L29；Page10–15 L50–65"
+        }
+      ],
+      "editorial_notes": [
+        "Page8 L44说明不熟康德文本学且不懂德语；Page15 L65承认前批判著作没有时间看。讲稿用于说明课程定位，不能替代康德学研究。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核原音；康德/费希特等原典与解释史断言待独立验证。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①康德的思考姿态引出了德国观念论，费希特承接康德并真正开启了德国观念论，黑格尔在哲学体系上完成了德国观念论，谢林实现了德国观念论的历史使命。",
+      "after": "①本讲把康德视为问题意识的发端，把费希特视为德国观念论的核心灵魂，把黑格尔视为其思想实质的完成，并认为晚期谢林代表了它在后续历史中被理解的一种形态。这些是讲者对该运动的定位与评价，不是已核定的哲学史共同结论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0210"
+      ],
+      "locator": "Page1 L9",
+      "rationale": "标明历史使命等判断所属课程视角。"
+    },
+    {
+      "code": "3-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②康德、费希特、谢林、黑格尔在德国观念论运动中的关系：\n\t庸俗观点：德国观念论是四个独立哲学体系的单向度发展，从康德到费希特到谢林到黑格尔，由黑格尔的绝对唯心主义到达顶点。\n\t现代观点：康德启发了费希特、谢林、黑格尔，此三人的哲学体系相互平行，是对康德开启的问题意识的不同回答。\n\t海德格尔观点：德国观念论是存在(sein)之历史的一部分。\n\t齐泽克观点：德国观念论是主体的绝对否定性的绽放，黑格尔把否定性坚持到底，导向唯物主义。",
+      "after": "②本讲归纳的几种德国观念论解释（名称与主次为讲者判断）：\n\t讲者称为庸俗的线性发展说：德国观念论是四个独立哲学体系的单向度发展，从康德到费希特到谢林到黑格尔，由黑格尔的绝对唯心主义到达顶点。\n\t讲者称为当时主流的平行说：康德启发了费希特、谢林、黑格尔，此三人的哲学体系相互平行，是对康德开启的问题意识的不同回答。\n\t海德格尔观点：德国观念论是存在(sein)之历史的一部分。\n\t齐泽克观点：德国观念论是主体的绝对否定性的绽放，黑格尔把否定性坚持到底，导向唯物主义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0210"
+      ],
+      "locator": "Page2–5 L15–26",
+      "rationale": "不将课程概括冒充当前学界共识。"
+    },
+    {
+      "code": "3-2",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤无条件/绝对的主体：主体是A=A这个结构的例外，主体与主体的自身性是绝对重合的，即主体所处的符号学空间本身就是主体的设立，主体无需\"if A is\"作为条件，所以主体的自我设立和自我维持是无条件、绝对的。",
+      "after": "⑤无条件的绝对自我：在本讲对费希特式设置活动的解释中，绝对自我与自身性直接重合，开显符号空间与在其中维持自己不再是两个外在条件，故不像一般A=A那样另待条件。但讲者同时区分有限的人类自我与无限者；不能据此说每个经验主体都是无条件的绝对者。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0210"
+      ],
+      "locator": "Page12–18 L53–83",
+      "rationale": "恢复有限自我/绝对自我的关键区分。"
+    },
+    {
+      "code": "3-2-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，康德在《纯粹理性批判》中，认为有限的主体由现象直接抵达作为本体的物自体是不合法的，而在《实践理性批判》中，康德却采用了大量的作为无限者的姿态，最后在《判断力批判》中，康德竖立了人的绝对的自由精神，即主体给自己立法，这种绝对的姿态倒逼无限者(本体、上帝)可被主体体验、认识、践行。",
+      "after": "②本讲对比理论与实践两种立场：《纯粹理性批判》限制由现象直接抵达物自体的思辨认识，而实践理性中的自由与自我立法被讲者理解为承担绝对性、支撑有关无限者的实践立场。这种解释不能改写成有限主体因此获得关于上帝或物自体的通常理论知识。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0212"
+      ],
+      "locator": "Page5–8 L29–44",
+      "rationale": "避免课程简写抹去理论认识与实践信仰的差别。"
+    },
+    {
+      "code": "3-2-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③判断(Judgement)：表象(Representation)是主体的判断的结果，主体需要通过合乎理性的判断，使普遍的先天概念/先天范畴综合为可体验、可认识、可实践的事物。",
+      "after": "③判断：本讲把有意义、可理解的表象视为综合活动的结果，强调感性杂多、想象力、先验统觉、知性范畴与判断共同参与其组织。它由此把判断当作普遍规则通向具体认识、实践及体验的枢纽；不能简化成仅把先天概念相加就产生事物。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0212"
+      ],
+      "locator": "Page2–3 L14–19；Page10–12 L50–56",
+      "rationale": "补回原文的材料与多个官能中介。"
+    },
+    {
+      "code": "3-2-1",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：先验主体性、先验统觉(调和形而下(posterior)与形而上(priori)的对立)",
+      "after": "场域论3：先验主体性、先验统觉（调和后天经验a posteriori与先天a priori两端）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0212"
+      ],
+      "locator": "Page4 L24",
+      "rationale": "修正英语与限定该课程两端含义。"
+    }
+  ]
+}

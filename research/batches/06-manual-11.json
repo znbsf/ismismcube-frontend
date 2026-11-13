@@ -1,0 +1,2961 @@
+{
+  "scope": {
+    "branch": "1-1",
+    "status": "complete_field_records",
+    "expected_nodes": 21,
+    "recorded_nodes": 21
+  },
+  "sources": [
+    {
+      "id": "m1-0002",
+      "title": "1-1 科学实在论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA/0002_1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA_p27.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_科学实在论/0002_1-1_科学实在论_p27.md",
+      "sha256": "3d64d6fbf8b2f5a09a6ff64aeaead4ef69c3ab8c7993511c0b4d3b8ee192c7fd",
+      "git_blob_sha": "dd117c0e30559f7745318d009490e386c4f88dae",
+      "verification_scope": "为逐字段对照实际使用Page 1–9及10页本讲结语（排除后续复习课）；未核听原音。其余正文不因文件下载或关键词检索而视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0004",
+      "title": "1-1-1 物理主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/0004_1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89_p44.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-1_物理主义/0004_1-1-1_物理主义_p44.md",
+      "sha256": "9cb53609ac86a410f29c11f5419ec665807230d66783deb9f01589ccdba62159",
+      "git_blob_sha": "22aad06a6cb76eee4a0557ce8a4967b01bbf05b4",
+      "verification_scope": "为逐字段对照实际使用Page 1–15、23–36（排除36页末和37页下一讲）；未核听原音。其余正文不因文件下载或关键词检索而视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0005",
+      "title": "1-1-1-1 科学独断论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-1_%E7%A7%91%E5%AD%A6%E7%8B%AC%E6%96%AD%E8%AE%BA/0005_1-1-1-1_%E7%A7%91%E5%AD%A6%E7%8B%AC%E6%96%AD%E8%AE%BA_p80.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-1_物理主义/1-1-1-1_科学独断论/0005_1-1-1-1_科学独断论_p80.md",
+      "sha256": "9a866fddf209a171307a4f77c9d7dadb3119c951f26eaefcf50c92159d2cc600",
+      "git_blob_sha": "ab8e5d0405d5623fbb382244c43b1bc473e54de6",
+      "verification_scope": "为逐字段对照实际使用Page 1、3–6、9、13–18（20页为下一讲，不用于本节点）；未核听原音。其余正文不因文件下载或关键词检索而视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0006",
+      "title": "1-1-1-2 有机进化论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-2_%E6%9C%89%E6%9C%BA%E8%BF%9B%E5%8C%96%E8%AE%BA/0006_1-1-1-2_%E6%9C%89%E6%9C%BA%E8%BF%9B%E5%8C%96%E8%AE%BA_p99.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-1_物理主义/1-1-1-2_有机进化论/0006_1-1-1-2_有机进化论_p99.md",
+      "sha256": "941956a081cbc45ee3fd81df7715cd077cb3d3354d9393ac2e17da3db9c9bf12",
+      "git_blob_sha": "42e91c0ea556fe5f5bf446eaa84fe8593638eb0b",
+      "verification_scope": "为逐字段对照实际使用Page 1、3、7、9–11、13、16、18–20、22本讲结语（排除下一讲）；未核听原音。其余正文不因文件下载或关键词检索而视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0007",
+      "title": "1-1-1-3 科学消费主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-3_%E7%A7%91%E5%AD%A6%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/0007_1-1-1-3_%E7%A7%91%E5%AD%A6%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89_p121.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-1_物理主义/1-1-1-3_科学消费主义/0007_1-1-1-3_科学消费主义_p121.md",
+      "sha256": "cf72a8fd7c8e2a938edfc3831645dd99e87cf4baf6002ca709e0195076593899",
+      "git_blob_sha": "695cb9586218b829a7f5e34ec3e223b611c2bc02",
+      "verification_scope": "实际核读Page 2–7、13–19、23–25；未核听原音，不将相邻讲次或未读段落视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0008",
+      "title": "1-1-1-4 宇宙悲观主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-4_%E5%AE%87%E5%AE%99%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89/0008_1-1-1-4_%E5%AE%87%E5%AE%99%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89_p149.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-1_物理主义/1-1-1-4_宇宙悲观主义/0008_1-1-1-4_宇宙悲观主义_p149.md",
+      "sha256": "5456e76b491cfeeac5769fc055490ce58c32d2594dfd3f13955b69dc84c1dba5",
+      "git_blob_sha": "0610477c5e0585a0ea10ee82698b997c0656bccc",
+      "verification_scope": "实际核读Page 1–26、27–35、38–42、44–48；未核听原音，不将相邻讲次或未读段落视为审定。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0009",
+      "title": "1-1-2 建构论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/0009_1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA_p198.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-2_建构论/0009_1-1-2_建构论_p198.md",
+      "sha256": "35ce3852496b195fb0e550003a7316f686792fe6b8ad5453331919c8ba619f80",
+      "git_blob_sha": "85e1b07a5ff3eb1197115fdb9f9b83475d895a7f",
+      "verification_scope": "实际核读Page 1–15；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0010",
+      "title": "1-1-2-1 科学知识社会学：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-1_%E7%A7%91%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%A4%BE%E4%BC%9A%E5%AD%A6/0010_1-1-2-1_%E7%A7%91%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%A4%BE%E4%BC%9A%E5%AD%A6_p214.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-2_建构论/1-1-2-1_科学知识社会学/0010_1-1-2-1_科学知识社会学_p214.md",
+      "sha256": "8dd436d7c302bbafaa1b56b59617d382e35692d2ec527fb5318a57a4dd3f805e",
+      "git_blob_sha": "9d0687f01cae698156518d1ea28b07b8095b460f",
+      "verification_scope": "实际核读Page 4–6、8–12、15–16、18–27；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0011",
+      "title": "1-1-2-2 科学革命论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-2_%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E8%AE%BA/0011_1-1-2-2_%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E8%AE%BA_p242.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-2_建构论/1-1-2-2_科学革命论/0011_1-1-2-2_科学革命论_p242.md",
+      "sha256": "75ab181b142abcaaed7dadcc0d4cff3821eaa053b3a747042a59cbc0cf3114bd",
+      "git_blob_sha": "6f4c8fc4127c101d3bc3acadfadb1bd6d01c96cb",
+      "verification_scope": "实际核读Page 1–5、7–16本讲结尾；不含16页末及17页下一讲；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0012",
+      "title": "1-1-2-3 文化本体论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-3_%E6%96%87%E5%8C%96%E6%9C%AC%E4%BD%93%E8%AE%BA/0012_1-1-2-3_%E6%96%87%E5%8C%96%E6%9C%AC%E4%BD%93%E8%AE%BA_p258.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-2_建构论/1-1-2-3_文化本体论/0012_1-1-2-3_文化本体论_p258.md",
+      "sha256": "292cbe5cf5a7e282b2ac697a598105d7bc3c954e759c9c2593ac2b1c3e216602",
+      "git_blob_sha": "4b118cd57fa85368108a9818a0b8ec6d910d02b8",
+      "verification_scope": "实际核读Page 1、4、6–18、20–22；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0013",
+      "title": "1-1-2-4 解构建构论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA/0013_1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA_p282.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-2_建构论/1-1-2-4_解构建构论/0013_1-1-2-4_解构建构论_p282.md",
+      "sha256": "619b5fb3406fce7e5395f73c18d55845571b1b80cf7ff55c29afe55131ca5bcc",
+      "git_blob_sha": "3271f7acf54cdda275c2df910debdc0d09b8583f",
+      "verification_scope": "实际核读Page 1–13全文；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0014",
+      "title": "1-1-3 认知主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/0014_1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89_p296.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-3_认知主义/0014_1-1-3_认知主义_p296.md",
+      "sha256": "7d7d6c283de8919aafcf87abc63e71b74c897e228f19619e89ebab05514ff8ad",
+      "git_blob_sha": "ee321a37fa28474d6f31fc94635ab8436309d35e",
+      "verification_scope": "实际核读Page 1–10本讲全文；11–12页属于下一讲；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0015",
+      "title": "1-1-3-1 功能主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89/0015_1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89_p307.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-3_认知主义/1-1-3-1_功能主义/0015_1-1-3-1_功能主义_p307.md",
+      "sha256": "b40ec8d229249bf4d4c457e6fea462e90ae929f5a3f735675d06eed449a3cc86",
+      "git_blob_sha": "0d5001809d5b536e575f5c9f7a7f8e90588e7c4e",
+      "verification_scope": "实际核读Page 1–17本讲全文；17页末与18页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0016",
+      "title": "1-1-3-2 自由进化论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-3_认知主义/1-1-3-2_自由进化论/0016_1-1-3-2_自由进化论_p324.md",
+      "sha256": "e3809fdff8f0a02a86df86599451c3b6cfd16ff990c204242375de9af9061024",
+      "git_blob_sha": "5aa2e38dfc86508112ff4e8ab3eaed01c6e57704",
+      "verification_scope": "实际核读Page 1–23本讲结尾；23页末及24页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0017",
+      "title": "1-1-3-3 认知自我主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89/0017_1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89_p347.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-3_认知主义/1-1-3-3_认知自我主义/0017_1-1-3-3_认知自我主义_p347.md",
+      "sha256": "22f4dd3c05f57216da31d2e133760ab2b775501fc3c47628a59d048d89a7cfe9",
+      "git_blob_sha": "d4380cb796c2a39ab21a74bd25db83c6d09a956e",
+      "verification_scope": "实际核读Page 1–6、11–21、23、26–27、29–32、34–42本讲结尾；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0018",
+      "title": "1-1-3-4 认知无我论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA/0018_1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA_p389.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-3_认知主义/1-1-3-4_认知无我论/0018_1-1-3-4_认知无我论_p389.md",
+      "sha256": "d1d819fa0be0bc1e563dc01477d88f415dd665ec286f60e6aca7d15a94737094",
+      "git_blob_sha": "8c4d4a6bc0f92b4d72d63b0692c2174ef28120c1",
+      "verification_scope": "实际核读Page 1–27本讲全文；27页末及28页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0019",
+      "title": "1-1-4 行为主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0019_1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p416.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-4_行为主义/0019_1-1-4_行为主义_p416.md",
+      "sha256": "47341db4b7b32819309c3e939a56dae88b57ee2fc7274f4b44ee6f1f3351e81c",
+      "git_blob_sha": "118e8182853cf94efd1ea30360f019432f243b00",
+      "verification_scope": "实际核读Page 1–28本讲全文；28页末与29页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0020",
+      "title": "1-1-4-1 操作行为主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/1-1-4-1_%E6%93%8D%E4%BD%9C%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0020_1-1-4-1_%E6%93%8D%E4%BD%9C%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p444.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-4_行为主义/1-1-4-1_操作行为主义/0020_1-1-4-1_操作行为主义_p444.md",
+      "sha256": "050a02c602cd03863b2f895644e246efb7762807ef44cc92c2e2bf5b9743ffbb",
+      "git_blob_sha": "1e3d5c96154bf2e49480462781f11f1d57d4db3f",
+      "verification_scope": "实际核读Page 1–5、7–18；19–20页后续讲次不使用；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0021",
+      "title": "1-1-4-2 目的行为主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/1-1-4-2_%E7%9B%AE%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0021_1-1-4-2_%E7%9B%AE%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p463.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-4_行为主义/1-1-4-2_目的行为主义/0021_1-1-4-2_目的行为主义_p463.md",
+      "sha256": "02eb66dccdf4e5ca4ce5a825ab4a302a06a5b4f2c1591b92755c86f2ee4a3ce6",
+      "git_blob_sha": "f826e242a90cfaee5b48a6967add51881e023659",
+      "verification_scope": "实际核读Page 1、4–19、21、24–28；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0022",
+      "title": "1-1-4-3 应用行为分析：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/1-1-4-3_%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90/0022_1-1-4-3_%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90_p492.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-4_行为主义/1-1-4-3_应用行为分析/0022_1-1-4-3_应用行为分析_p492.md",
+      "sha256": "402dddf9673c8b496a061cdd193bb29ca3a2d97296160ce80070630c05128bb4",
+      "git_blob_sha": "a431ddcf830a6e3f4fca62c52a4049cc6565143b",
+      "verification_scope": "实际核读Page 2、4–5、7–16、18、20–22；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0023",
+      "title": "1-1-4-4 社会行为主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/1-1-4-4_%E7%A4%BE%E4%BC%9A%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0023_1-1-4-4_%E7%A4%BE%E4%BC%9A%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p515.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-1_复习课/1-1-4_行为主义/1-1-4-4_社会行为主义/0023_1-1-4-4_社会行为主义_p515.md",
+      "sha256": "f048bb787ff0ad3201cf283557b035227d8139906098d4ab30aa4fc1178bd18f",
+      "git_blob_sha": "b663b0d762f2c7709c0fcad3be0f870a0224e33f",
+      "verification_scope": "实际核读Page 1–12本讲全文；12页末及13页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 5,
+        "recorded": 5,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①主体性被压抑。",
+          "claim": "①主体性被压抑。",
+          "status": "supported",
+          "finding": "正文明确说没有主体位置，继而说主体性被压抑；该短句有直接对应。",
+          "source_ids": [
+            "m1-0002"
+          ],
+          "locator": "Page 3、8–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②现代科学生产的必要阶段。",
+          "claim": "②现代科学生产的必要阶段。",
+          "status": "supported_with_scope",
+          "finding": "Page8说该姿态在现代科学做题、积累不一致性的阶段有必要；不是说任何科学活动始终必须坚持该立场。",
+          "source_ids": [
+            "m1-0002"
+          ],
+          "locator": "Page 8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③现代知识生产体系的奴隶制。",
+          "claim": "③现代知识生产体系的奴隶制。",
+          "status": "supported_as_lecturer_metaphor",
+          "finding": "Page8–9用主奴辩证法和奴隶制批评知识生产中的分工与归属；这是课程比喻，不是法律意义上的奴隶制度调查。",
+          "source_ids": [
+            "m1-0002"
+          ],
+          "locator": "Page 8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported_cross_chapter_boundary",
+          "finding": "本讲开头被切在上一分讲Page14，明确说科学化的宇宙、数学物理学主导的秩序场；不是按编号推出来。",
+          "source_ids": [
+            "m1-0001",
+            "m1-0002"
+          ],
+          "locator": "0001 Page14（1-1标题之后）；0002 Page1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 基本粒子",
+          "claim": "本体论1 基本粒子",
+          "status": "overly_narrow",
+          "finding": "正文定义的是科学秩序派生的实体；电子、光子等只是例子，且强调实体不一定叫物质。只写基本粒子把一般定义压缩成了例子。",
+          "source_ids": [
+            "m1-0002"
+          ],
+          "locator": "Page 1"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录区别课程转述、编者压缩和未定位细节；有对应不等于原典、科学或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；本批未把社区编纂与清理文本当作作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①世界的物理学模型就是世界本身。",
+          "claim": "①世界的物理学模型就是世界本身。",
+          "status": "supported_as_course_interpretation",
+          "finding": "Page6–7明确批评将物理学图示、模型等同于世界，支持原短句；是否准确解读纽拉特不在本次文本忠实性范围。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②非符合论。",
+          "claim": "②非符合论。",
+          "status": "supported",
+          "finding": "Page1–4明确区分符合论与整体融贯论，原短句正确概括该讲立场。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 1–4"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③物理学科学话语范式统御一切。",
+          "claim": "③物理学科学话语范式统御一切。",
+          "status": "supported",
+          "finding": "Page1说秩序网络侵吞一切，Page7说内心体验也被消解为物理命题，支持统御一切的课程描述。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 1、7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙(秩序网格)",
+          "claim": "场域论1 科学化的宇宙(秩序网格)",
+          "status": "supported",
+          "finding": "Page1直接把宇宙界定为理论体系、秩序网络。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物理学秩序的实在",
+          "claim": "本体论1 物理学秩序的实在",
+          "status": "supported",
+          "finding": "Page1明确称物理学秩序、理论命题和陈述本身是实在。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 物理学秩序的表象化",
+          "claim": "认识论1 物理学秩序的表象化",
+          "status": "supported",
+          "finding": "Page2直接说认识论上全部现象是物理学秩序、规则和关系的表象化。",
+          "source_ids": [
+            "m1-0004"
+          ],
+          "locator": "Page 2"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录区别课程转述、编者压缩和未定位细节；有对应不等于原典、科学或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；本批未把社区编纂与清理文本当作作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①对“知识就是力量”的误解。",
+          "claim": "①对“知识就是力量”的误解。",
+          "status": "supported",
+          "finding": "正文以培根知识就是力量的两种解读起讲，并将本点位归为误解；不等于已经核验培根本义。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 1、3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②对生存的志趣、自由、偶然的否定。",
+          "claim": "②对生存的志趣、自由、偶然的否定。",
+          "status": "supported",
+          "finding": "Page4逐项否定自由办事者、生存旨趣、任意与偶然维度，覆盖该复合短句全部要素。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 4–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③庸俗版的“永恒轮回”。",
+          "claim": "③庸俗版的“永恒轮回”。",
+          "status": "analogy_may_imply_false_equivalence",
+          "finding": "Page13–14与17强调秩序循环只是说明永恒轮回的比喻，不能直接当尼采永恒轮回；“庸俗版”易把明确区分压成同一理论的低级版本。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 13–14、17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported",
+          "finding": "Page5明确场域是宇宙及无脑重复的规则空间。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 科学实在",
+          "claim": "本体论1 科学实在",
+          "status": "supported",
+          "finding": "Page6本体论定义为物理学实在、理论秩序本身及不受主体制约的客观性。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 科学秩序的表象化",
+          "claim": "认识论1 科学秩序的表象化",
+          "status": "supported",
+          "finding": "Page6明确一切现象都是物理现象、由物理规则驱动的现象化。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 秩序的永恒统御(无脑循环)",
+          "claim": "目的论1 秩序的永恒统御(无脑循环)",
+          "status": "supported",
+          "finding": "Page3–5、9反复说明秩序重复统御及无额外目的，覆盖永恒统御和无脑循环两部分。",
+          "source_ids": [
+            "m1-0005"
+          ],
+          "locator": "Page 3–5、9"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录区别课程转述、编者压缩和未定位细节；有对应不等于原典、科学或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；本批未把社区编纂与清理文本当作作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①独断论的失败。",
+          "claim": "①独断论的失败。",
+          "status": "interpretive_compression",
+          "finding": "Page1强调相较永恒统御模式多出现世界自身的进化；可以理解为对独断模式的突破，但原句只写失败，省去具体变动，不能当作已证明独断论整体失败。",
+          "source_ids": [
+            "m1-0006"
+          ],
+          "locator": "Page 1、7"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②“基本粒子-原子-分子-有机物-细胞-植物-动物-人-有反思力的人”、“时空本体论-几何学-物理学-化学-生物学-经济学-社会学-心理学-神秘学”的等级制。",
+          "claim": "②“基本粒子-原子-分子-有机物-细胞-植物-动物-人-有反思力的人”、“时空本体论-几何学-物理学-化学-生物学-经济学-社会学-心理学-神秘学”的等级制。",
+          "status": "supported_composite_with_qualified_order",
+          "finding": "物质链条的基本粒子、原子分子、有机物、细胞、植物、动物、人及有反思者在Page3、9可逐项找到；学科链的时空几何、物理化学生物、经济社会心理神秘层次见Page10–11、18。讲者还加入离子、逻辑等岔路，所以两串箭头是编者压缩而非一段逐字引文。",
+          "source_ids": [
+            "m1-0006"
+          ],
+          "locator": "Page 3、9–11、18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported",
+          "finding": "Page7明确仍是宇宙和自然秩序场，Page16进一步称真理场。",
+          "source_ids": [
+            "m1-0006"
+          ],
+          "locator": "Page 7、16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 活的科学实在",
+          "claim": "本体论1 活的科学实在",
+          "status": "supported",
+          "finding": "Page7直接说客观实在或客观性是活的，越来越鲜活而有能动性。",
+          "source_ids": [
+            "m1-0006"
+          ],
+          "locator": "Page 7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 科学秩序的表象化(上升的)",
+          "claim": "认识论1 科学秩序的表象化(上升的)",
+          "status": "supported_partly_inherited",
+          "finding": "Page7明确认识论是有等级制、向上发展的科学；“表象化”具体机制沿用父讲物理主义Page2，不是本页原词，两个来源分开。",
+          "source_ids": [
+            "m1-0006",
+            "m1-0004"
+          ],
+          "locator": "0006 Page7；0004 Page2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 秩序上升的进化",
+          "claim": "目的论2 秩序上升的进化",
+          "status": "missing_opposed_term",
+          "finding": "Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上升一侧，没有呈现本讲明说的对立。",
+          "source_ids": [
+            "m1-0006"
+          ],
+          "locator": "Page 10"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录区别课程转述、编者压缩和未定位细节；有对应不等于原典、科学或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；本批未把社区编纂与清理文本当作作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①可量化的幸福度的积攒。",
+          "claim": "①可量化的幸福度的积攒。",
+          "status": "supported_with_scope",
+          "finding": "正文以可计数的幸福总量和游戏笑脸说明积攒；25页另区分不可量化的幸福与量化指标。这里应理解为该立场的计量方式，非幸福能被客观完整测量的科学结论。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 2–3、5–6、25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②享乐被所谓“科学方法”规训。",
+          "claim": "②享乐被所谓“科学方法”规训。",
+          "status": "supported",
+          "finding": "正文讲消费享乐受到科学话语、最优方法的规训，原字段压缩了其中的科学消费指导与市场机制。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 19、23–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③人作为享乐发生的条件之一，宇宙本身在享乐。",
+          "claim": "③人作为享乐发生的条件之一，宇宙本身在享乐。",
+          "status": "supported",
+          "finding": "正文区分人作为享乐的条件和宇宙作为享乐的主体；“宇宙享乐”是课程构造该意识形态的表述。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 15–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported",
+          "finding": "科学法则所规定的宇宙被进一步解释成享乐场；原轴保留其科学化背景。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 4–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 享乐的工具(使宇宙享乐)",
+          "claim": "本体论1 享乐的工具(使宇宙享乐)",
+          "status": "supported",
+          "finding": "物质被解释为消费、享乐的工具，人在其中也是条件；不是作者主张一切物的客观本质就是工具。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 13–14、17–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 各种消费体验",
+          "claim": "认识论1 各种消费体验",
+          "status": "supported",
+          "finding": "正文依次连接科学、产业、市场与消费体验，认识论归结为消费体验有明确对应。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 15–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 人类总体的“幸福”",
+          "claim": "目的论3 人类总体的“幸福”",
+          "status": "supported_but_compressed",
+          "finding": "总量幸福有直接对应；正文还说它调和前两支的永恒循环与上升进化，原字段省略此中介关系。",
+          "source_ids": [
+            "m1-0007"
+          ],
+          "locator": "Page 2–6"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录课程转述、编者压缩和未定位细节；有对应不等于科学、原典或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音，社区编纂稿不是作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①化学能、核能、恒星能量、星系能量、因果律武器的比大小游戏。",
+          "claim": "①化学能、核能、恒星能量、星系能量、因果律武器的比大小游戏。",
+          "status": "supported_core_detail_unlocated",
+          "finding": "行星、恒星系、银河系能量，以及裂变聚变、核弹、反因果律武器的递增比拼均有对应；“化学能”这个具体词在核读段落未定位，不能把整串当逐字引文。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 2、8–9、17、26"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②宇宙毁灭力量的无限制性、无意义的相互攻伐。",
+          "claim": "②宇宙毁灭力量的无限制性、无意义的相互攻伐。",
+          "status": "supported",
+          "finding": "正文说能级可无约束上升，维持系统的力量又可以毁灭系统；以文明互相毁灭说明这种无限比拼，判断是讲者的批评。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 11–14、26、28"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③无视精神和意识的维度。",
+          "claim": "③无视精神和意识的维度。",
+          "status": "supported",
+          "finding": "正文批评这种叙事没有反思意识、精神与符号结构的作用；它也描述感觉体验，因此“无视”指忽略其构成作用，不是声称小说完全不描写心理。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 17–18、23–25、44–45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙(能级比拼场)",
+          "claim": "场域论1 科学化的宇宙(能级比拼场)",
+          "status": "supported",
+          "finding": "正文明确称场域为能级比拼场、文明斗兽场，并批评这种场域被预设。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 8–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 能量",
+          "claim": "本体论1 能量",
+          "status": "supported",
+          "finding": "正文将该立场的物的力量同质化为能量与能级，原轴“能量”有明确本体论段落支撑。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 14–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 感觉、体验",
+          "claim": "认识论1 感觉、体验",
+          "status": "supported",
+          "finding": "正文明确在认识论上把主体维度归为由能量决定的感觉、体验。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 没有目的，仅仅是存在着",
+          "claim": "目的论4 没有目的，仅仅是存在着",
+          "status": "supported",
+          "finding": "开篇明说没有以人类为中心的目的，42页直接回到目的论4的无目的存在。",
+          "source_ids": [
+            "m1-0008"
+          ],
+          "locator": "Page 1、42"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "逐字段记录课程转述、编者压缩和未定位细节；有对应不等于科学、原典或人物评价已独立验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音，社区编纂稿不是作者审定稿。"
+      ]
+    },
+    {
+      "code": "1-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 5,
+        "recorded": 5,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①人不能获得纯客观中立的科学知识。",
+          "claim": "①人不能获得纯客观中立的科学知识。",
+          "status": "supported",
+          "finding": "正文明确否认人类能脱离社会利益、习俗和信念获得完全中立客观的科学；此为课程所描述的建构论立场。",
+          "source_ids": [
+            "m1-0009"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②需要心理学和社会学纠正被社会关系干扰的知识，生产知识的合法性。",
+          "claim": "②需要心理学和社会学纠正被社会关系干扰的知识，生产知识的合法性。",
+          "status": "supported",
+          "finding": "心理学纠偏、社会学探测社会利益，并共同生产知识合法性均有明确对应；原句将二者不同任务合并，未改动主张。",
+          "source_ids": [
+            "m1-0009"
+          ],
+          "locator": "Page 5–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙(穿透力有限)",
+          "claim": "场域论1 科学化的宇宙(穿透力有限)",
+          "status": "supported",
+          "finding": "宇宙秩序可贯彻到本体论而无法透入人的认识维度，原轴的有限穿透是具体机制的压缩。",
+          "source_ids": [
+            "m1-0009"
+          ],
+          "locator": "Page 5、7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 秩序化的物质",
+          "claim": "本体论1 秩序化的物质",
+          "status": "supported",
+          "finding": "正文明确说世界由秩序化物质充盈，建构论未穿透本体论反思。",
+          "source_ids": [
+            "m1-0009"
+          ],
+          "locator": "Page 3–4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 自然的科学与社会学的对立",
+          "claim": "认识论2 自然的科学与社会学的对立",
+          "status": "supported_with_scope",
+          "finding": "自然科学与社会性因素的认识论二分有对应；其社会一侧不限单一社会学学科，也含心理、语言、利益网络。",
+          "source_ids": [
+            "m1-0009"
+          ],
+          "locator": "Page 2、5–8"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "核对课程忠实性不等于认可课程对学者或学科的评价；未进行原音或原典全审。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。"
+      ]
+    },
+    {
+      "code": "1-1-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①在学科机构间下学科大棋。",
+          "claim": "①在学科机构间下学科大棋。",
+          "status": "supported",
+          "finding": "正文把宏观机构间研究称为“下大棋”，含科学机构与金融、工业、医疗等关系，原字段忠实保留讲者的比喻。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 5–6、10–11"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②研究各学科内的知识发生学机制。",
+          "claim": "②研究各学科内的知识发生学机制。",
+          "status": "supported",
+          "finding": "微观一翼研究科学内部的知识发生、修辞和利益偏好，与原字段对应。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 6、8–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③需要社会学不断过滤被污染的科学话语，话语的二阶循环。",
+          "claim": "③需要社会学不断过滤被污染的科学话语，话语的二阶循环。",
+          "status": "supported",
+          "finding": "社会学二阶话语反思科学一阶话语的失真，并形成相辅相成的循环，两层主张均有对应。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 16、23–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported",
+          "finding": "场域仍是宇宙，话语可能为真但发生失真，继而要求二阶批判；原轴只保留背景。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 12、16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物理实在(硬的)",
+          "claim": "本体论1 物理实在(硬的)",
+          "status": "supported",
+          "finding": "正文反复把经验现象背后的物理实在称为“硬的”本体论，并批评未作进一步反思。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 12、15、22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 学科机构间关系与学科内关系的对立",
+          "claim": "认识论2 学科机构间关系与学科内关系的对立",
+          "status": "supported",
+          "finding": "讲者明确将原先科学/社会学的二分改写为机构间与学科内关系的二分，原轴对应最终表述。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 5–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 生产社会学真理",
+          "claim": "目的论1 生产社会学真理",
+          "status": "superseded_within_lecture",
+          "finding": "生产社会学真理是讲者明说的原拟标签，但随后主动改为大学话语的二阶循环；原字段停留在中途标签，应补上最终定义。",
+          "source_ids": [
+            "m1-0010"
+          ],
+          "locator": "Page 22–24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "核对课程忠实性不等于认可课程对学者或学科的评价；未进行原音或原典全审。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。"
+      ]
+    },
+    {
+      "code": "1-1-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①科学从常态走向危机，引发范式革命。",
+          "claim": "①科学从常态走向危机，引发范式革命。",
+          "status": "supported",
+          "finding": "常态做题积累不一致、进入危机、范式替换均有明确阐述；原句是课程的科学史模型，不等于每次反常都必然造成革命。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 1–3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②科学史高于科学。",
+          "claim": "②科学史高于科学。",
+          "status": "supported_with_attribution",
+          "finding": "讲者直接概括库恩为科学史大于科学；这是该讲对库恩的解释，尚未用库恩原典独立核定。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 5、7"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③前康德水平，预设了意义发生的场。",
+          "claim": "③前康德水平，预设了意义发生的场。",
+          "status": "supported_with_attribution",
+          "finding": "前康德水准和预设共同意义发生理论分别有对应；这是讲者的哲学批判，不应冒充学术界定论。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 12–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④没有反思到场和模型史本身是断裂的(一切历史都是当代史)，需要的是历史考古学。",
+          "claim": "④没有反思到场和模型史本身是断裂的(一切历史都是当代史)，需要的是历史考古学。",
+          "status": "supported_with_scope",
+          "finding": "讲者批评库恩预设连续科学史场，并以福柯知识考古学的断裂与历史回溯性对照。原句表达讲者的要求；未单独验证福柯原典及“一切历史都是当代史”的出处。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 14–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 历史(科学史)",
+          "claim": "场域论1 历史(科学史)",
+          "status": "supported",
+          "finding": "正文明确把场域写成历史/科学史及模型发生的连续话语史。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 11–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “自然”模型史",
+          "claim": "本体论1 “自然”模型史",
+          "status": "axis_scope_confusion",
+          "finding": "正文把模型史及其背景话语史放在场域，把本体论解释为宇宙论、自然和不同版本的物理学模型；原轴“模型史”容易混同这两层。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 12–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 历史主义(不可通约性)与数理基础主义(形式逻辑的一致性)的对立",
+          "claim": "认识论2 历史主义(不可通约性)与数理基础主义(形式逻辑的一致性)的对立",
+          "status": "supported_but_compressed",
+          "finding": "历史主义和范式不可通约性，以及数理/逻辑基础主义推动理论处理不一致，均有对应；“形式逻辑的一致性”是对后一机制的编者压缩。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 3–5、7–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 常规状态与反常(革命)状态的对立",
+          "claim": "目的论2 常规状态与反常(革命)状态的对立",
+          "status": "supported",
+          "finding": "常规和危机/革命/反常状况的二分在目的论段落明确出现。",
+          "source_ids": [
+            "m1-0011"
+          ],
+          "locator": "Page 8–10"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "核对课程忠实性不等于认可课程对学者或学科的评价；未进行原音或原典全审。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。"
+      ]
+    },
+    {
+      "code": "1-1-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①决定一个社会的主导性因素是民族文化。",
+          "claim": "①决定一个社会的主导性因素是民族文化。",
+          "status": "supported_with_attribution",
+          "finding": "正文明确描述文化本体论把民族文化作为社会主导因素；这是该意识形态的主张，不是课程之外已验证的社会决定论。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 6–8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②文化有等级制，要追求更文明、包容、先进、开化的文化。",
+          "claim": "②文化有等级制，要追求更文明、包容、先进、开化的文化。",
+          "status": "supported_with_scope",
+          "finding": "文化等级、向更先进开化文化迁移及包容性均有对应；讲者是在批评这种追求，不能将“要追求”理解为讲者的劝告。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 14–18、21–22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(秩序场)",
+          "claim": "场域论1 宇宙(秩序场)",
+          "status": "supported",
+          "finding": "正文直接说明场域仍为宇宙秩序场，并把文化分类学置于这一前提下。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 9、11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物质(文化的载体、基质)",
+          "claim": "本体论1 物质(文化的载体、基质)",
+          "status": "supported",
+          "finding": "物质作为文化活动载体基质、政治游戏道具和暴力性国家建制有明确对应。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 9–10、22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 有明确状态(行政建制)与无明确状态(文化)的对立",
+          "claim": "认识论2 有明确状态(行政建制)与无明确状态(文化)的对立",
+          "status": "supported",
+          "finding": "正文使用state/non-state双关明确状态/国家与无明确状态/文化；行政建制是对国家维度的简化。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 10–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 文化(调和了历史的重复性与异质性)",
+          "claim": "目的论3 文化(调和了历史的重复性与异质性)",
+          "status": "supported_but_compressed",
+          "finding": "正文先讨论重复运动与危机、异质性凸显元叙事，再说文化把两者调和；随后以跨文化可通约和等级上升解释机制，原轴省略后半部。",
+          "source_ids": [
+            "m1-0012"
+          ],
+          "locator": "Page 12–14、16–18"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "核对课程忠实性不等于认可课程对学者或学科的评价；未进行原音或原典全审。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。"
+      ]
+    },
+    {
+      "code": "1-1-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①第一人称心理现实也是一种社会建构的产物。",
+          "claim": "①第一人称心理现实也是一种社会建构的产物。",
+          "status": "supported",
+          "finding": "首段和结语都明确把第一人称心理现实理解为社会关系、主体间话语建构的产物。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 1、12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②世界本身有某种功能性的结构，人类的话语和对知识的把握永远失真。",
+          "claim": "②世界本身有某种功能性的结构，人类的话语和对知识的把握永远失真。",
+          "status": "supported",
+          "finding": "世界有功能结构、人类话语把握会失真两项均有对应；正文另说关系性开放对话可渐进勾勒真实，并非完全取消真实。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 3、5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③用“关系主义”去结点化，去实体化，去中心化。",
+          "claim": "③用“关系主义”去结点化，去实体化，去中心化。",
+          "status": "partially_supported",
+          "finding": "用关系替代实体和去节点化在正文明确出现；“去中心化”未作为独立术语定位，只能视为编者概括，不能整组三词按原话核通过。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 3、12–13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④没有意识到不存在建构者、建构原料、建构活动的三分。",
+          "claim": "④没有意识到不存在建构者、建构原料、建构活动的三分。",
+          "status": "supported_with_attribution",
+          "finding": "讲者批评建构主义预设使用者/语言以及建构者/活动/原料的分离，以结构主义的结构自生来反驳；这是讲者的理论批评。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 9–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宇宙(底层一致的实证主义宇宙)",
+          "claim": "场域论1 宇宙(底层一致的实证主义宇宙)",
+          "status": "supported",
+          "finding": "正文直接称其迂回的实证主义，并预设底层一致的宇宙。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 关系(模型化，可以实证地把握)",
+          "claim": "本体论1 关系(模型化，可以实证地把握)",
+          "status": "supported",
+          "finding": "本体论关系、可模型化、二阶实证及统计模型四点均有直接对应。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 3–4、13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 知识(关系性)与价值(超认识论的)的对立",
+          "claim": "认识论2 知识(关系性)与价值(超认识论的)的对立",
+          "status": "supported",
+          "finding": "正文明确将认识论改写为关系性知识与未经反思的超认识价值之对立。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 4–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 不可能性(共同体甚至不能在一个范式上获得统一的认识)",
+          "claim": "目的论4 不可能性(共同体甚至不能在一个范式上获得统一的认识)",
+          "status": "supported_core_label_unlocated",
+          "finding": "人类共同体甚至无法在同一范式内获得统一认识有明确对应；“不可能性”是原摘要对这段的概括，本讲目的论实际强调体验描述上的平等/相对主义，未把该词正式写成轴名。",
+          "source_ids": [
+            "m1-0013"
+          ],
+          "locator": "Page 10"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "核对课程忠实性不等于认可课程对学者或学科的评价；未进行原音或原典全审。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。"
+      ]
+    },
+    {
+      "code": "1-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①人所体验的所有现象、中心化的产物、人的意识是由物理层面的秩序和人的心灵结构和社会层面的文化背景中心化的产物。",
+          "claim": "①人所体验的所有现象、中心化的产物、人的意识是由物理层面的秩序和人的心灵结构和社会层面的文化背景中心化的产物。",
+          "status": "supported_core_detail_unlocated",
+          "finding": "自然/物理与社会/软件两侧，由相对独立的认知、用户体验维度调和，意识成为结构性产物，均可定位；“所有现象”“中心化”及文化背景这组完整因果句未逐字出现，开篇从半句起，不能据此判定全讲没有。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 6–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②将人的心看成一种巧妙的工程学结果。",
+          "claim": "②将人的心看成一种巧妙的工程学结果。",
+          "status": "supported_as_editorial_paraphrase",
+          "finding": "实验、人工智能、软硬件与设计/交互模型支持“工程学结果”的概括；“巧妙”是编者评价，不是已定位的定义用语。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 1–2、6–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③人的心灵和意识可以通过科学的方法来调控。",
+          "claim": "③人的心灵和意识可以通过科学的方法来调控。",
+          "status": "not_located_in_reviewed_text",
+          "finding": "正文讨论以科学方法研究和建模心灵；未定位到由此直接推出心灵意识均可以科学调控的独立断言。研究、建模与调控不能视为同一命题。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 1–10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④通过研究人的意识结构，可以重新建构人的意识，创造人工智能。",
+          "claim": "④通过研究人的意识结构，可以重新建构人的意识，创造人工智能。",
+          "status": "supported_core_detail_unlocated",
+          "finding": "认知模型与创造人工智能的研究目标有对应；“重新建构人的意识”作为具体操作或已实现能力未定位，应区分研究设想与成功结果。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 1–2、7–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported",
+          "finding": "场域直接定义为科学实在论的宇宙。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物质、基础、基质、硬件",
+          "claim": "本体论1 物质、基础、基质、硬件",
+          "status": "supported",
+          "finding": "物质、基础、基质、硬件四个用词在同一段均有对应，正文用软件可在不同硬件运行解释。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 人的意识、人的心灵结构、人的大脑",
+          "claim": "认识论3 人的意识、人的心灵结构、人的大脑",
+          "status": "supported_but_compressed",
+          "finding": "认识论中心是独立的认知/设计/用户体验维度，调和自然与社会因素；“大脑”不在这里作为第三项的明确最终轴名，不宜将神经实体与认知结构简单等同。",
+          "source_ids": [
+            "m1-0014"
+          ],
+          "locator": "Page 7–9"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "原稿的全称、必要条件和评价措辞逐项限定；课程对人物理论的解释尚未等同于原典核定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。"
+      ]
+    },
+    {
+      "code": "1-1-3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①死板的认为所有心灵意识的活动全都由一种函数决定，可以通过一种数学化的方法去描述它。",
+          "claim": "①死板的认为所有心灵意识的活动全都由一种函数决定，可以通过一种数学化的方法去描述它。",
+          "status": "supported_core_overstatement",
+          "finding": "正文用函数关系、功能层因果网络和通用函数体系来解释心灵；并非只有单个函数。“死板”是编者批评，“所有”应限定为课程所介绍的早期机器功能主义模型。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 6–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②世界中不存在什么东西是超越某种数学规律。",
+          "claim": "②世界中不存在什么东西是超越某种数学规律。",
+          "status": "not_located_in_reviewed_text",
+          "finding": "物理决定论、心灵函数模型和通用计算的叙述有对应；但未定位“世界中不存在任何超数学规律之物”的独立全称命题，不能用心灵可计算直接代替。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 1–17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 科学化的宇宙",
+          "claim": "场域论1 科学化的宇宙",
+          "status": "supported_with_scope",
+          "finding": "场域仍为现实物理宇宙，但正文强调局部黑箱化与弱物理主义，原轴过于简略但无直接矛盾。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 2–4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物质、基础、基质、硬件",
+          "claim": "本体论1 物质、基础、基质、硬件",
+          "status": "supported_with_scope",
+          "finding": "硬件物理基础有对应，正文特别区分类型物理主义与实例物理主义；原轴未体现这个限制。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 1–2、7–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 心理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)",
+          "claim": "认识论3 心理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)",
+          "status": "supported_but_wording_ambiguous",
+          "finding": "左侧是物理主义的输入和行为主义的输出、可测硬件；右侧是不可测体验，由心理状态的多重可实现性调和。原括号省略“输出”使两者关系不清。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 9–10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 数理化函数(终极意义函数的自我循环和运动)",
+          "claim": "目的论1 数理化函数(终极意义函数的自我循环和运动)",
+          "status": "partially_supported",
+          "finding": "目的论段明确描述宇宙不断局部出现功能/心灵黑箱，并追求通用函数体系；“终极意义函数的自我循环”这个具体定义未定位，不宜把它当逐字轴说明。",
+          "source_ids": [
+            "m1-0015"
+          ],
+          "locator": "Page 10–12"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "原稿的全称、必要条件和评价措辞逐项限定；课程对人物理论的解释尚未等同于原典核定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。"
+      ]
+    },
+    {
+      "code": "1-1-3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①相较于基因Gene的生物学层面客观的特性，模因Meme是设计工程学文化层面的东西，认知的构造物，强调设计、工程学关系。",
+          "claim": "①相较于基因Gene的生物学层面客观的特性，模因Meme是设计工程学文化层面的东西，认知的构造物，强调设计、工程学关系。",
+          "status": "partially_supported",
+          "finding": "模因作为设计层面构型、区别物理基底并强调工程关系有对应；Gene的“生物学层面客观特性”这一对比未在本讲已读正文展开，只有借用《自私的基因》的提示。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 1–2、6–8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②丹尼尔·丹尼特研究文化基因如何构建自己：人的意识结构中有优势的模因在进化过程中吞噬其他模因成为主流，在这一过程中模因有自主性，他认为人的意识也产生于这一活动。",
+          "claim": "②丹尼尔·丹尼特研究文化基因如何构建自己：人的意识结构中有优势的模因在进化过程中吞噬其他模因成为主流，在这一过程中模因有自主性，他认为人的意识也产生于这一活动。",
+          "status": "supported_but_compressed",
+          "finding": "模因竞争、吞噬、设计构型及以并行网络解释意识均有对应；“成为主流”未直接定位，自主性应限定为无中心控制、设计层面的相对独立，不能理解为脱离物理基底。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 2、5–7、11–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③“人工智能自我意识觉醒论”是一种自由进化论。",
+          "claim": "③“人工智能自我意识觉醒论”是一种自由进化论。",
+          "status": "not_located_in_reviewed_text",
+          "finding": "正文讨论AI模拟与意识涌现，但未直接把“人工智能自我意识觉醒论”命名为该意识形态；属于待核的编辑关联，不按课程明说处理。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 1–23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④略带中二病的死理性。",
+          "claim": "④略带中二病的死理性。",
+          "status": "not_located_in_reviewed_text",
+          "finding": "本讲有大量对反思不足的评价，未定位“略带中二病的死理性”这个具体判断；现摘要是评价性修辞，不能以相近贬义词代为核实。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 1–23"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 元胞机主体化的物理宇宙",
+          "claim": "场域论1 元胞机主体化的物理宇宙",
+          "status": "supported_core_detail_unlocated",
+          "finding": "物理宇宙作为整体元胞机/模因竞争场有对应；“主体化”一词未作本讲场域的定义，意识发生恰是讲者质疑其未能说明的部分。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 1–3、18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物理现实(1与0)",
+          "claim": "本体论1 物理现实(1与0)",
+          "status": "supported",
+          "finding": "本体论把物理现实说成离散的有无、开关及0/1切换，与原轴对应；此为课程模型，不是物理学结论。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 6–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 设计层面的并行网络(调和底层逻辑与宏观意识现象)",
+          "claim": "认识论3 设计层面的并行网络(调和底层逻辑与宏观意识现象)",
+          "status": "supported",
+          "finding": "设计层面的并行网络调和离散物理底层与连续意识现象，三个部分均有明确对应。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 10–12、15–17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 决定论的物理法则和自由的模因之间的冲突(代表宇宙涌向超越性的方向)",
+          "claim": "目的论2 决定论的物理法则和自由的模因之间的冲突(代表宇宙涌向超越性的方向)",
+          "status": "partially_supported",
+          "finding": "目的论重心是突变性及简单物理层/复杂设计层之间的断裂；“自由模因与决定法则冲突”是概括，“宇宙涌向超越方向”未定位，不能整体核通过。",
+          "source_ids": [
+            "m1-0016"
+          ],
+          "locator": "Page 17–23"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "原稿的全称、必要条件和评价措辞逐项限定；课程对人物理论的解释尚未等同于原典核定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。"
+      ]
+    },
+    {
+      "code": "1-1-3-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①侧重自我意识的研究，研究清楚自我意识的产生是研究其他意识的必要前提。",
+          "claim": "①侧重自我意识的研究，研究清楚自我意识的产生是研究其他意识的必要前提。",
+          "status": "supported_core_detail_unlocated",
+          "finding": "自我发生的研究确为正文重点；“研究清楚自我意识是研究其他意识的必要前提”这一必要条件说未定位，不能由本讲篇幅推出。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 14–17、29–31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②自我是一种觉醒的自我意识，本体层面生成的原我只是一种有机体，维持自我稳态的机制并不算意识，通过维护自传式的自我维护原我的稳定状态。",
+          "claim": "②自我是一种觉醒的自我意识，本体层面生成的原我只是一种有机体，维持自我稳态的机制并不算意识，通过维护自传式的自我维护原我的稳定状态。",
+          "status": "needs_precision",
+          "finding": "原初自身及稳态维持无自我意识、自传性自我与维持稳定有对应；但正文另有非专题化的核心自我/边缘意识，不应把自我一律限定成“觉醒”，也不能跳过核心自我这个中介。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 14–18、23、27、29–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③重视人的情绪，情绪比理性的计算更主要。",
+          "claim": "③重视人的情绪，情绪比理性的计算更主要。",
+          "status": "supported_with_scope",
+          "finding": "正文强调情绪在演化和生命机制上先于理智，并承担价值判断；“比理性计算更主要”应理解为发生学优先，而非一切判断情绪都胜过理性。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 1–6"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④更高级的资产阶级意识形态的消费品。",
+          "claim": "④更高级的资产阶级意识形态的消费品。",
+          "status": "partially_supported",
+          "finding": "正文称其高级保守主义和精英意识形态，并提索罗斯偏爱；未定位“资产阶级意识形态的消费品”完整判断，属于编辑压缩而非已核引语。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 35–38"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 元胞机可以主体化的物理宇宙",
+          "claim": "场域论1 元胞机可以主体化的物理宇宙",
+          "status": "supported",
+          "finding": "直接定义为元胞机能够自我化、主体化的物理宇宙。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 11–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 心脑等价",
+          "claim": "本体论1 心脑等价",
+          "status": "supported",
+          "finding": "心智图像等同神经模式、心脑等价有直接对应。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 自我(调和内在物质性精神与外部环境建构)",
+          "claim": "认识论3 自我(调和内在物质性精神与外部环境建构)",
+          "status": "needs_precision",
+          "finding": "正文最终明确原初自我与传记性自我由核心自我/二阶自反调节来协调；原括号的内在精神与外部环境泛化了这三个具体环节。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 29–31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 所有意识建构活动中最关键的是自我意识的涌现，维护符号性的自我",
+          "claim": "目的论3 所有意识建构活动中最关键的是自我意识的涌现，维护符号性的自我",
+          "status": "needs_precision",
+          "finding": "目的论明确是维持系统自身稳态，协调局部决定论与进化论；自我意识是较高层策略而非唯一目的，当前轴把目的缩窄为维护符号自我。",
+          "source_ids": [
+            "m1-0017"
+          ],
+          "locator": "Page 31–36"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "原稿的全称、必要条件和评价措辞逐项限定；课程对人物理论的解释尚未等同于原典核定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。"
+      ]
+    },
+    {
+      "code": "1-1-3-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①研究自我意识，必须透过自我意识研究自我意识，而真正的意识是研究本身处在的“透明的”框架背景，无法捉摸，所以这种研究必失败。",
+          "claim": "①研究自我意识，必须透过自我意识研究自我意识，而真正的意识是研究本身处在的“透明的”框架背景，无法捉摸，所以这种研究必失败。",
+          "status": "supported_with_scope",
+          "finding": "研究活动位于透明框架内、不能直接客体化框架有对应；“研究必失败”仅适用于上述直接自我把握路径，正文18–19页还提出研究认识论闭合机制的替代路径。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 3–5、11–14、20–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②投靠物理主义，完全否定自我存在，完全否认意识存在，认为自我意识不过是现代、前现代的幻觉或是唯心主义的独断论。",
+          "claim": "②投靠物理主义，完全否定自我存在，完全否认意识存在，认为自我意识不过是现代、前现代的幻觉或是唯心主义的独断论。",
+          "status": "supported_with_qualification",
+          "finding": "正文先以“没有自我、没有意识”批评其保全物理主义，但14页随后改述为不预设意识结构/自我的工作假设，18页仍研究闭合机制；“完全否认意识存在”若无此限制会遗漏本讲自我修正。现代/前现代幻觉的完整措辞未定位。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 9、13–14、18、24–25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③新兴科技资本家的后现代的人生态度。",
+          "claim": "③新兴科技资本家的后现代的人生态度。",
+          "status": "supported_core_detail_unlocated",
+          "finding": "开篇以乔布斯、比尔盖茨、程序员追求空灵作形象，结尾连接新世纪禅宗等；“新兴科技资本家”“后现代人生态度”是编者归纳，不能据课程人物举例扩展到整个群体。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 1、22–25"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 物理宇宙",
+          "claim": "场域论1 物理宇宙",
+          "status": "supported",
+          "finding": "场域明确保留物理主义宇宙。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 物质基础(晦暗的纵深Opaque Depth)",
+          "claim": "本体论1 物质基础(晦暗的纵深Opaque Depth)",
+          "status": "supported",
+          "finding": "正文以opaque depth说明不能直接把握的物质/物理基础，原轴对应。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 4–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 无我论(调和实在论与无主体的表征主义)",
+          "claim": "认识论3 无我论(调和实在论与无主体的表征主义)",
+          "status": "supported",
+          "finding": "实在论的直接体验与无法把握框架的无主体表征主义两侧，由无我论协调，正文明确。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 11–14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 不存在人的自我(只存在物理过程、神经元、神经电化学过程)",
+          "claim": "目的论4 不存在人的自我(只存在物理过程、神经元、神经电化学过程)",
+          "status": "supported_core_detail_unlocated",
+          "finding": "无实体自我、保留神经物理模型有对应；目的论具体描述降阶次/认识论闭合。括号“只存在”的排他性未在目的论段作为完整定义给出。",
+          "source_ids": [
+            "m1-0018"
+          ],
+          "locator": "Page 9、18、20–21"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "原稿的全称、必要条件和评价措辞逐项限定；课程对人物理论的解释尚未等同于原典核定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。"
+      ]
+    },
+    {
+      "code": "1-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①主体性被压抑。",
+          "claim": "①主体性被压抑。",
+          "status": "supported",
+          "finding": "主观意志被剥夺、第一人称报告内容被忽视、内在性被排除，支持主体性受压抑的概括；这是讲者对行为主义的批评。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 13–16、20–23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②场域中的秩序来源于国家。",
+          "claim": "②场域中的秩序来源于国家。",
+          "status": "supported_with_attribution",
+          "finding": "正文将规制力量的秩序说成state强力，并以实验合法性解释国家关系；原句忠实于课程，但尚未作心理学史独立查证。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 12–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③及其反动,维护大他者秩序，暴力压制下位者的内在。",
+          "claim": "③及其反动,维护大他者秩序，暴力压制下位者的内在。",
+          "status": "supported_with_typo",
+          "finding": "保护上位者而压制下位者、将自身视为大他者工具、维持社会秩序均可定位；“反动”是评价概括，且“及其”应为程度副词“极其”。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 10–14、20–22、26"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④相信权威，需要权威，创造权威。",
+          "claim": "④相信权威，需要权威，创造权威。",
+          "status": "partially_supported",
+          "finding": "依赖强者意志和自居客观评价权威可定位；“相信、需要、创造权威”这组三段关系未逐项明说，后者是对其合法化机制的编辑概括。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 14、20–22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序宇宙(“客观”评价体系)",
+          "claim": "场域论1 秩序宇宙(“客观”评价体系)",
+          "status": "supported",
+          "finding": "规制性秩序场与自居客观中立的评价体系分别有对应，不能把引号内客观理解为讲者的认可。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 12–13、16、18–20"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “客观”行为",
+          "claim": "本体论1 “客观”行为",
+          "status": "supported",
+          "finding": "本体论段把可由主体间评价指标描述的行为当作客观现象；其客观性正是被批评的前提。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 17–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "claim": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "status": "supported",
+          "finding": "黑箱、不讨论精神内在及不反思评价视域有明确对应；不是从编号4推得。",
+          "source_ids": [
+            "m1-0019"
+          ],
+          "locator": "Page 2、9、15–16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "涉及心理学效果和历史因果的文字仅核课程对应；讲者评价不等同临床、科学或学术史结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；不把社会身份举例推广为对整个群体的判断。"
+      ]
+    },
+    {
+      "code": "1-1-4-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①以“操作-中间变量-行为”建立数理模型。",
+          "claim": "①以“操作-中间变量-行为”建立数理模型。",
+          "status": "supported",
+          "finding": "刺激/操作、中间变量、反应的模型以及统计数理关系均在正文说明；原字段用行为概括反应，没有改动机制。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 2–4、7、13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②工业人口的批量化教育，如在冷战时实现组织力，凝聚力，国家认同。",
+          "claim": "②工业人口的批量化教育，如在冷战时实现组织力，凝聚力，国家认同。",
+          "status": "supported_with_attribution",
+          "finding": "工业人口批量教育、冷战、组织度、意识形态凝聚及国族认同全部在开篇对应；这只是核实课程表述，并非已核定因果史。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③标准的保守主义。",
+          "claim": "③标准的保守主义。",
+          "status": "supported_with_attribution",
+          "finding": "正文直接称标准的保守主义并解释为固定变量网络与超越观察视角，原句保留讲者评价。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 14–17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序宇宙(“客观”评价体系)",
+          "claim": "场域论1 秩序宇宙(“客观”评价体系)",
+          "status": "supported_but_compressed",
+          "finding": "本讲场域更具体是可操作、可控制的行为世界，且批评操作评价体系不反思；原轴沿用总论的客观评价背景。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 8–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “客观”行为(可操作对象)",
+          "claim": "本体论1 “客观”行为(可操作对象)",
+          "status": "supported",
+          "finding": "本体论明确为可操作对象，可包括中间变量而非只限可见行为；原括号保留了这点，但前缀客观行为偏窄。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "claim": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "status": "supported_with_scope",
+          "finding": "正文承认名义上的内在中间变量，同时说其被机械/物理主义消解、不承认内在体验尊严；原轴应按这一限定理解，而非完全不讨论任何内部变量。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 1–4、12–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 数学变量关系",
+          "claim": "目的论1 数学变量关系",
+          "status": "supported",
+          "finding": "目的论直接把世界秩序归为显隐变量关系、概率/数理网络，原轴对应。",
+          "source_ids": [
+            "m1-0020"
+          ],
+          "locator": "Page 13–16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "涉及心理学效果和历史因果的文字仅核课程对应；讲者评价不等同临床、科学或学术史结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；不把社会身份举例推广为对整个群体的判断。"
+      ]
+    },
+    {
+      "code": "1-1-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①具有一定内在性，以部分主观指标代替纯数量计算。",
+          "claim": "①具有一定内在性，以部分主观指标代替纯数量计算。",
+          "status": "supported_with_scope",
+          "finding": "整体行为有一定内在内容、主观等级指标代替逐项算分均有对应；内在性仍被还原为分子事实的聚合，并非承认独立心灵。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 6–9、11–13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②认为精神发生机制过于复杂，只能从整体去把握，即所谓的“主观指标”。",
+          "claim": "②认为精神发生机制过于复杂，只能从整体去把握，即所谓的“主观指标”。",
+          "status": "supported",
+          "finding": "参量过多无法逐项计算、采用宏观整体和主观评价分别有对应；“只能”是该模型的认识限度判断，不是现实科学的绝对不可能定理。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 8–14、16–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③为行为主义作辩护。",
+          "claim": "③为行为主义作辩护。",
+          "status": "supported",
+          "finding": "正文明确说保持对底层机制的无知反而为行为主义作辩护，并指出其未反思阻断机制。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序宇宙(“客观”评价体系)",
+          "claim": "场域论1 秩序宇宙(“客观”评价体系)",
+          "status": "supported",
+          "finding": "本讲直接保留物理/强力/操作秩序铺满的场；客观评价侧的主观指标见11–13页。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “客观”行为",
+          "claim": "本体论1 “客观”行为",
+          "status": "supported",
+          "finding": "本体论仍为客观现实与可还原的分子事实，目的性等内在内容不取得独立存在地位。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 7–10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "claim": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "status": "supported_with_scope",
+          "finding": "黑箱被说明为参量过多、过于复杂，因而放弃逐项认识；不是简单宣称没有任何心理内容，原轴省略这层理由。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 8–10、18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 分子(离散)与摩尔(整体)的二分",
+          "claim": "目的论2 分子(离散)与摩尔(整体)的二分",
+          "status": "supported",
+          "finding": "分子/离散与摩尔/整体聚合两极在目的论段明确出现。",
+          "source_ids": [
+            "m1-0021"
+          ],
+          "locator": "Page 10、13–16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "涉及心理学效果和历史因果的文字仅核课程对应；讲者评价不等同临床、科学或学术史结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；不把社会身份举例推广为对整个群体的判断。"
+      ]
+    },
+    {
+      "code": "1-1-4-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①把复杂行为分解为简单行为。",
+          "claim": "①把复杂行为分解为简单行为。",
+          "status": "supported",
+          "finding": "洗手、开门和填词的复杂行为分解为简单行为并逐段训练，原句有多个例子支持。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 4–5、7–8"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②简单行为可以“改造”人的内在，使其“自发”进行复杂行为。",
+          "claim": "②简单行为可以“改造”人的内在，使其“自发”进行复杂行为。",
+          "status": "supported_with_scope",
+          "finding": "训练简单行为、形成内在连续链和自主复杂行为均有对应；正文反复说“看上去”具有内在性，不能据此宣称实际上可随意改造人的内心。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 9、12、14–16、21–22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③仍然处在保守主义。",
+          "claim": "③仍然处在保守主义。",
+          "status": "supported_with_attribution",
+          "finding": "讲者把日常关系中微小行为累积的对应意识形态称为温和保守主义；应保留评价的类比范围，非对全部应用技术的政治分类。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 18、20–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序宇宙(复杂结构在其中分解为简单结构)",
+          "claim": "场域论1 秩序宇宙(复杂结构在其中分解为简单结构)",
+          "status": "supported_but_compressed",
+          "finding": "正文在场域段强调小行为能够拼成复杂行为，前文有反向分解；原轴仅写分解，遗漏场域成立所要求的可组合性。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 4–5、8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “客观”行为(侧重主动“客观”行为)",
+          "claim": "本体论1 “客观”行为(侧重主动“客观”行为)",
+          "status": "supported",
+          "finding": "本体论明确只有具体客观行为，并特别要求其最终能够独立、自发地发生，侧重主动性有原文依据。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "claim": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "status": "supported_with_scope",
+          "finding": "心理不被承认为独立位面，自发性也不在认识论中单独描述；因此原轴虽与目的论的内在性并列，看似矛盾却是该讲专门指出的张力。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 9–10、14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 人的内在(调和离散的行为与整体的精神的对立)",
+          "claim": "目的论3 人的内在(调和离散的行为与整体的精神的对立)",
+          "status": "supported",
+          "finding": "原子简单行为与整体宏观精神之间，由自组织、自发行为及内在目的链调和，原字段对应但省略具体机制。",
+          "source_ids": [
+            "m1-0022"
+          ],
+          "locator": "Page 11–16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "涉及心理学效果和历史因果的文字仅核课程对应；讲者评价不等同临床、科学或学术史结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；不把社会身份举例推广为对整个群体的判断。"
+      ]
+    },
+    {
+      "code": "1-1-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①自我被消解为(符号)交互活动的能力。",
+          "claim": "①自我被消解为(符号)交互活动的能力。",
+          "status": "supported",
+          "finding": "自我、心灵与感受被解释成可观察的符号互动能力，原字段准确概括课程。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 1–3、6"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②实证主义/实用主义社会学。",
+          "claim": "②实证主义/实用主义社会学。",
+          "status": "supported",
+          "finding": "正文直接定义为兼具经验实证主义与实用主义的社会学/社会心理学。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 1–3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③拒绝思考符号的存在的运动。",
+          "claim": "③拒绝思考符号的存在的运动。",
+          "status": "supported_core_wording_unlocated",
+          "finding": "讲者批评其预设符号互动场和秩序，未反思场本身；“拒绝思考符号的存在的运动”未作为独立命题定位，是更宽泛的编辑转述。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 5–6、8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 秩序宇宙(可外部观察的符号交互场)",
+          "claim": "场域论1 秩序宇宙(可外部观察的符号交互场)",
+          "status": "supported",
+          "finding": "外部观察、秩序世界与符号互动场均有对应。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 2–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论1 “客观”行为(侧重主动“客观”行为)",
+          "claim": "本体论1 “客观”行为(侧重主动“客观”行为)",
+          "status": "needs_precision",
+          "finding": "本讲本体论明确为可进行符号性互动的物质；“侧重主动客观行为”是前一讲的明确重点，未在本讲重述，当前轴有跨讲沿用嫌疑。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 5–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "claim": "认识论4 黑箱(拒绝认识精神运动，内在性被消解)",
+          "status": "supported_but_compressed",
+          "finding": "正文不是只被动不认识，而是主动把心灵内在性消解成外部互动能力；黑箱是总论式概括，具体机制需保留这一差别。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 没有终极目的/实用主义",
+          "claim": "目的论4 没有终极目的/实用主义",
+          "status": "supported_with_scope",
+          "finding": "没有终极目的/终极律令、实用主义有直接对应；9页又批评其实际仍预设平等互动场，不应误读为讲者认为完全摆脱了场域预设。",
+          "source_ids": [
+            "m1-0023"
+          ],
+          "locator": "Page 7–9"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "涉及心理学效果和历史因果的文字仅核课程对应；讲者评价不等同临床、科学或学术史结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；不把社会身份举例推广为对整个群体的判断。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "1-1",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1 基本粒子",
+      "after": "本体论1 科学秩序派生的实体（常以基本粒子说明）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0002"
+      ],
+      "locator": "Page1",
+      "rationale": "把本体论定义恢复为实体，避免将例子当全部范围。"
+    },
+    {
+      "code": "1-1-1-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③庸俗版的“永恒轮回”。",
+      "after": "③可借秩序循环作类比，但讲者明确区分它与尼采的永恒轮回。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0005"
+      ],
+      "locator": "Page13–14、17",
+      "rationale": "恢复原讲明确的类比与理论本身之别。"
+    },
+    {
+      "code": "1-1-1-2",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论2 秩序上升的进化",
+      "after": "目的论2 秩序的永恒循环与上升进化之间的张力",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0006"
+      ],
+      "locator": "Page10",
+      "rationale": "补回目的论2明说的两端，不只保留上升一端。"
+    },
+    {
+      "code": "1-1-2-1",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论1 生产社会学真理",
+      "after": "目的论1 大学话语的二阶循环（生产社会学真理）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0010"
+      ],
+      "locator": "Page 22–24",
+      "rationale": "讲者在本讲明确把原拟“社会学真理”改写为二阶循环，补充最终定义并保留旧标签。"
+    },
+    {
+      "code": "1-1-2-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1 “自然”模型史",
+      "after": "本体论1 “自然”的宇宙论模型（不同版本的物理学范式）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0011"
+      ],
+      "locator": "Page 12–13",
+      "rationale": "区分本体论所指自然/宇宙论模型与场域所指模型发生的历史。"
+    },
+    {
+      "code": "1-1-3-1",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3 心理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)",
+      "after": "认识论3 心理状态的多重可实现性（调和可测的物理输入、行为输出与不可测的心灵体验）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0015"
+      ],
+      "locator": "Page 9–10",
+      "rationale": "补全行为主义所指输出，保留原有两极和中介。"
+    },
+    {
+      "code": "1-1-3-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②自我是一种觉醒的自我意识，本体层面生成的原我只是一种有机体，维持自我稳态的机制并不算意识，通过维护自传式的自我维护原我的稳定状态。",
+      "after": "②原初自身是无自我意识的稳态维持机制；核心自我以二阶自反调节协调原初自身与自传性自我，后者维持符号性的自我连续性。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0017"
+      ],
+      "locator": "Page 14–18、23、27、29–30",
+      "rationale": "原摘要跳过核心自我并把自我限为觉醒意识，与正文非专题化核心自我的层次区分不符。"
+    },
+    {
+      "code": "1-1-3-3",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3 自我(调和内在物质性精神与外部环境建构)",
+      "after": "认识论3 核心自我（以二阶自反调节协调原初自身与传记性自我）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0017"
+      ],
+      "locator": "Page 29–31",
+      "rationale": "采用本讲最后明确给出的三项定义。"
+    },
+    {
+      "code": "1-1-3-3",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论3 所有意识建构活动中最关键的是自我意识的涌现，维护符号性的自我",
+      "after": "目的论3 维持系统自身稳态（调和局部决定论与自由进化；意识是更高层的维持策略）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0017"
+      ],
+      "locator": "Page 31–36",
+      "rationale": "恢复目的论明确的中介与两极，避免把整个系统目的缩窄为符号自我。"
+    },
+    {
+      "code": "1-1-3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①研究自我意识，必须透过自我意识研究自我意识，而真正的意识是研究本身处在的“透明的”框架背景，无法捉摸，所以这种研究必失败。",
+      "after": "①研究自我意识仍处于“透明的”框架中，无法直接将框架本身对象化；课程因此转向对认识论闭合机制的研究。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0018"
+      ],
+      "locator": "Page 3–5、11–14、18–21",
+      "rationale": "保留透明框架难题，删除对所有研究必然失败的泛化并交代同讲替代路径。"
+    },
+    {
+      "code": "1-1-3-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②投靠物理主义，完全否定自我存在，完全否认意识存在，认为自我意识不过是现代、前现代的幻觉或是唯心主义的独断论。",
+      "after": "②为保全物理主义模型而拒绝把自我当作独立实体；讲者先以“没有意识”概括，随后限定为抛弃自我存在的工作假设，转而研究认识论闭合机制。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0018"
+      ],
+      "locator": "Page 9、13–14、18",
+      "rationale": "标明讲者先强表述后限定，避免以完全否认意识覆盖本讲后续解释。"
+    },
+    {
+      "code": "1-1-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③及其反动,维护大他者秩序，暴力压制下位者的内在。",
+      "after": "③极其反动,维护大他者秩序，暴力压制下位者的内在。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0019"
+      ],
+      "locator": "Page 10–14、20–22",
+      "rationale": "修复程度副词错字，不改变课程评价。"
+    },
+    {
+      "code": "1-1-4-4",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1 “客观”行为(侧重主动“客观”行为)",
+      "after": "本体论1 能进行符号性互动的物质（按秩序相互影响、激发）",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0023"
+      ],
+      "locator": "Page 5–6",
+      "rationale": "采用本讲明确本体论定义，去除沿用前讲“侧重主动行为”的未定位重点。"
+    }
+  ]
+}

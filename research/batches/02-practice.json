@@ -1,0 +1,1944 @@
+{
+  "sources": [
+    {
+      "id": "p02-4114-video-metadata",
+      "title": "【主义主义】中派中的独立生存（4-1-1-4）——这个点位KK不配，配的是那些伟大的坚守与牺牲者",
+      "url": "https://www.bilibili.com/video/BV19F411Y7Ly/",
+      "kind": "course_video_page",
+      "verification_scope": "2026-11-13从B站公开view API读取标题、aid293683258、cid427359277及2224秒时长。未播放，未据标题推导课程内容。匿名player/v2返回code0和空字幕数组，不证明所有登录环境都无字幕。",
+      "locator": "https://api.bilibili.com/x/web-interface/view?bvid=BV19F411Y7Ly 的data.title；player/v2的data.subtitle.subtitles。"
+    },
+    {
+      "id": "p02-0276",
+      "title": "4_实践_p7184：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/0276_4_%E5%AE%9E%E8%B7%B5_p7184.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–5、9–13。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "ef7dbe06d4e8025e660264be286cbf478ddbba227bb71408dcdbe9b700178b12",
+      "git_blob_sha": "30995edb6e6fa79fc5883c379c77908a1d512599",
+      "upstream_path": "corpus/clean-markdown/4_实践/0276_4_实践_p7184.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0277",
+      "title": "4-1_政治-经济-意识形态批判_p7198：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E6%94%BF%E6%B2%BB-%E7%BB%8F%E6%B5%8E-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%89%B9%E5%88%A4/0277_4-1_%E6%94%BF%E6%B2%BB-%E7%BB%8F%E6%B5%8E-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%89%B9%E5%88%A4_p7198.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–6、11–13、17–22、26、28–29（排除末尾复习课）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "421134ecb4e8d3e3a2cda4070a15c86d86f99a1ea69d38b806d9c4d884ce758a",
+      "git_blob_sha": "445e98e552f827f8f799c660e6625ce35e916053",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_政治-经济-意识形态批判/0277_4-1_政治-经济-意识形态批判_p7198.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0279",
+      "title": "4-1-1_资本主义史研究_p7238：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/0279_4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6_p7238.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–21及22页本讲结尾（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "a3eb2e56ba58dc19ff0091bedace77573992a164b5adf9d38ec744a3ae4f54a2",
+      "git_blob_sha": "b432c7398b422a57f8fac3c34fb06aae7e85f501",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-1_资本主义史研究/0279_4-1-1_资本主义史研究_p7238.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0280",
+      "title": "4-1-1-1_经济学哲学批判_p7260：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4/0280_4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4_p7260.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–21、25–43及44页本讲结尾（22–24未核；排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "c14f835eeb8627d97f9d07274e8261ae101f7bc6b676a0378b499bbc56ec4c67",
+      "git_blob_sha": "f597c691a5a04dbc1d48220e98f8c855f436e1fa",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-1_资本主义史研究/4-1-1-1_经济学哲学批判/0280_4-1-1-1_经济学哲学批判_p7260.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0281",
+      "title": "4-1-1-2_内外评论_p7304：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA/0281_4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA_p7304.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–15（排除16–17页下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "7f89ce4d515afe4f15361beca0a4240dd3c8c9922f2cc56e52de61ef0c3a0add",
+      "git_blob_sha": "3bc38be70d971acd9a3c86b6dd1bcea2ebf39a4b",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-1_资本主义史研究/4-1-1-2_内外评论/0281_4-1-1-2_内外评论_p7304.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0282",
+      "title": "4-1-1-3_国际性的理论协调_p7320：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83/0282_4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83_p7320.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–27及28页本讲结尾（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "1779cf27fbc0c66a0d87b9e8e11d2942f68ae1e3b847ca5039e996422af5e8e8",
+      "git_blob_sha": "68e901689559f2122e73f48dea457e8569f4ff90",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-1_资本主义史研究/4-1-1-3_国际性的理论协调/0282_4-1-1-3_国际性的理论协调_p7320.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0283",
+      "title": "4-1-1-4_中派中的独立生存_p7348：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98/0283_4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98_p7348.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 2–5、6–18、22–24（排除25–26页下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "bc8a4538d9306555ed7865147039745d3a044b0377139c297ec9098d77c8a43b",
+      "git_blob_sha": "ca7a93104ac08863b883923d697192201f35a77e",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-1_资本主义史研究/4-1-1-4_中派中的独立生存/0283_4-1-1-4_中派中的独立生存_p7348.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0284",
+      "title": "4-1-2_灌输_p7373：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/0284_4-1-2_%E7%81%8C%E8%BE%93_p7373.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–30本讲（排除末尾及31页下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "01decf90017a05e51e2a340bbdf3a2b489b3941aeda7e1851bbcff6385b70a57",
+      "git_blob_sha": "2807e5d353d926e0ce807d9a67912eb1728d4147",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-2_灌输/0284_4-1-2_灌输_p7373.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0285",
+      "title": "4-1-2-1_学习_研究_p7403：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6/0285_4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6_p7403.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–26及27页本讲结尾（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "dc4eb97d5c4996e196128efdb0a8f32307df112f29d685702ca09e9e1f457fb8",
+      "git_blob_sha": "717b79a6774043ed7d1a86060ee2688502378a40",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-2_灌输/4-1-2-1_学习_研究/0285_4-1-2-1_学习_研究_p7403.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0286",
+      "title": "4-1-2-2_写作_交流_p7430：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81/0286_4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81_p7430.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–21及22页本讲结尾（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "bcc0b21029cfb5104af44ace070738e167b94de027c2e6b72b6285c44778464f",
+      "git_blob_sha": "84bc8d2e8a167b437351a37a180139e8cad2fbe8",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-2_灌输/4-1-2-2_写作_交流/0286_4-1-2-2_写作_交流_p7430.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0287",
+      "title": "4-1-2-3_正派青年的交往与团结_p7452：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93/0287_4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93_p7452.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、6–8、10–13、16本讲结尾。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "f2c538046c8acefa72ef8b65535f1615a9b1362a3d6b1497b575e419b019dba8",
+      "git_blob_sha": "ae128e852f73e181cf196856a0a9ae42ed6f8dcb",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-2_灌输/4-1-2-3_正派青年的交往与团结/0287_4-1-2-3_正派青年的交往与团结_p7452.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0288",
+      "title": "4-1-2-4_现实的本体论化_p7468：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96/0288_4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96_p7468.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–3、6–11、13及15页下一讲引言（仅本讲用于本节点）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "6420463f66af5ebb0b20090be4bb3d7eae309d632fb909de3dad70f44769bb8f",
+      "git_blob_sha": "21827361efd5ea334bf9694ea116d7dd2331a562",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-2_灌输/4-1-2-4_现实的本体论化/0288_4-1-2-4_现实的本体论化_p7468.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0289",
+      "title": "4-1-3_历史的哲学化_p7483：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0289_4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7483.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、3、5–6、8–9、11–14（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "22c944ad8da638fc34ea53fded7b35dd72b0e2f795311773708ee10901c451e0",
+      "git_blob_sha": "0ba87486d1e475bcac24c85e98cd20e8dbb41f52",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-3_历史的哲学化/0289_4-1-3_历史的哲学化_p7483.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0290",
+      "title": "4-1-3-1_方法论上的总体化_p7499：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96/0290_4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96_p7499.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–14。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "707aaf8152f4ba10369a4ba8e96668cda4a3a6532856c011503e41792e1a5474",
+      "git_blob_sha": "beb1bbec1139e916250ee805d4cd7f5173bc3529",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-3_历史的哲学化/4-1-3-1_方法论上的总体化/0290_4-1-3-1_方法论上的总体化_p7499.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0291",
+      "title": "4-1-3-2_教条的哲学化_p7514：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0291_4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7514.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、7–10、12。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "82dfd1ab00e3c0928d228d1e3bd6b5fb4f149b02ab2ac6a2e0266f2f1fcdce5f",
+      "git_blob_sha": "4489978050c5e9e7dce739ca27ed46c0a97bc2d4",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-3_历史的哲学化/4-1-3-2_教条的哲学化/0291_4-1-3-2_教条的哲学化_p7514.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0292",
+      "title": "4-1-3-3_体系化的理论探索_p7531：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2/0292_4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2_p7531.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–3、6、9–11、14。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "fd8c47e4c65c2c376a044d6566a64597bf0f080f7a730d49fc642aabfb43ff9b",
+      "git_blob_sha": "8c0b7aa6262fb818de5d1e1213ee68e74699611f",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-3_历史的哲学化/4-1-3-3_体系化的理论探索/0292_4-1-3-3_体系化的理论探索_p7531.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0293",
+      "title": "4-1-3-4_争夺文化霸权_p7548：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83/0293_4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83_p7548.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、7、12–15、17–18、22。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "4b36083d3d0a22bebf441fab135e0a463948ef2c173343efe2e5bafc309ad904",
+      "git_blob_sha": "55092fd883ba94861e10316ce7182a961adfa1b8",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-3_历史的哲学化/4-1-3-4_争夺文化霸权/0293_4-1-3-4_争夺文化霸权_p7548.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0294",
+      "title": "4-1-4_精神化了的重复_p7573：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/0294_4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D_p7573.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、3–4、6、8–11。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "cd43638ed40423998979757864feaf9387a1d7303f25175ce5c66dc6bfe0130e",
+      "git_blob_sha": "cbccdf9f7d73335739b2c769a2d5925e65e65319",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-4_精神化了的重复/0294_4-1-4_精神化了的重复_p7573.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0295",
+      "title": "4-1-4-1_对意识形态的历史化_p7588：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96/0295_4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96_p7588.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、4–7、10–11、13–15（排除下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "56a68284ee6e82d090596705d9aaec15216a64ccb6b63f41cb0b8e542ed49262",
+      "git_blob_sha": "7397237e30f059b4afa4dbf987da513bc51e4e1b",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-4_精神化了的重复/4-1-4-1_对意识形态的历史化/0295_4-1-4-1_对意识形态的历史化_p7588.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0296",
+      "title": "4-1-4-2_哲学的再现代化_p7604：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96/0296_4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96_p7604.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1、3–11、13、15–16（排除20页下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "6602e62c8597ac0d8145662719eaae32fce054c302ee201e6214271991ee6684",
+      "git_blob_sha": "1cb8e3cd2707a004909226a2b02ce9b0843e15f9",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-4_精神化了的重复/4-1-4-2_哲学的再现代化/0296_4-1-4-2_哲学的再现代化_p7604.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0297",
+      "title": "4-1-4-3_持续地否定_p7624：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A/0297_4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A_p7624.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–6本讲（排除6页末及7页下一讲）。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "35b39d439882d05ecdb888d25fcc1c6ed5a2070f6eb5719ca49606d181313198",
+      "git_blob_sha": "b0150e237aac47fc2cf084b543ffc4822792d72b",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-4_精神化了的重复/4-1-4-3_持续地否定/0297_4-1-4-3_持续地否定_p7624.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    },
+    {
+      "id": "p02-0298",
+      "title": "4-1-4-4_现实生活_p7630：分讲编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB/0298_4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB_p7630.md",
+      "kind": "secondary_compiled_transcript",
+      "verification_scope": "固定提交b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2的clean-markdown编纂转录。实际核读文件内部Page 1–4、6–15。未核听原音；包含整理、转录及清理风险，不是作者审定稿。只以所读正文支持对应短释，不把相邻讲次或该仓库的分析库当独立证据。",
+      "locator": "文件内## Page标题；Page为分讲PDF内部页序，不是视频时间码。原始编纂起页见文件名。",
+      "sha256": "b23076e26276840db87cecc0349dffee03f2bfc44f8ac1d82a3180de2dea3c6c",
+      "git_blob_sha": "8fbab47283b897e1fb79e44196c23721b5a25bba",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-1_复习/4-1-4_精神化了的重复/4-1-4-4_现实生活/0298_4-1-4-4_现实生活_p7630.md",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程从三字头的中介问题转入实践：物质与历史可以自我符号化、自我中介，不能预设所有中介都必须由一个个人主体承担。",
+          "source_ids": [
+            "p02-0276"
+          ],
+          "locator": "Page 1–2，本讲正文"
+        },
+        {
+          "text": "历史、人民与理论构成三项关系。历史涉及本体论框架的变更；人民意味着主体的复数性和他者性；理论既有符号系统的自主性，也有话语的现实作用。",
+          "source_ids": [
+            "p02-0276"
+          ],
+          "locator": "Page 2–5，本讲正文"
+        },
+        {
+          "text": "实践单元使主体客体化。它总处于具体关系与有限视域之中，其局部性不能由一个全知的外部视角来裁定。",
+          "source_ids": [
+            "p02-0276"
+          ],
+          "locator": "Page 9–10，本讲正文"
+        },
+        {
+          "text": "行动要求在一段实践中承担并坚持判断，而非时时撤回；课程同时允许在这一段结束后反思修正，并不主张存在永远正确的理论。",
+          "source_ids": [
+            "p02-0276"
+          ],
+          "locator": "Page 11–12，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史、人民、理论家构成三项关系，另加使主体客体化的实践单元，形成此讲明确说出的“三加一”。",
+          "source_ids": [
+            "p02-0276"
+          ],
+          "locator": "Page 12–13，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "政治、经济、意识形态不是三个互不相干的领域。讲者反复改写它们与阶级位置的对应，要求把理论批判放回实际社会关系之中。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 1–4，本讲正文"
+        },
+        {
+          "text": "此讲把人民放在历史与理论家之间的中介位置，但否认个人的心理体验直接就是历史真相；阶级意识不能等同于个人意见的总和。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 5–6、19–21，本讲正文"
+        },
+        {
+          "text": "理论家共同体既要有体系性和批判性，也要能够维持生活与理论生产。课程把这些物质条件列为实践要求，强调理论并非悬空的学术体系。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "text": "理论家的认识不是对整个历史的无误把握。其活动是否构成实践，要看历史中的实际效果、失败与教训，不能只由内心确信或体系自洽判定。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 22、28–29，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史经由人民的活动而对理论家显现，另以具有体系性、批判性及生存条件的理论家共同体为实践单元。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 5–6、11–13，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：课程区分直接主客同一与主体、客体内在矛盾的同一，借早晚两种“谢林点”说明；重点是实践中两种不一致性的关联。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 17、19–22、26，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "资本主义史研究从研究者当前处境与残存史料出发，重建资本主义关系的发生过程；它包含选择、判断与想象，不能被简化为现成事实的堆积。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 1–4，本讲正文"
+        },
+        {
+          "text": "研究对象可跨越经济、科学、哲学等分科。关键在于把材料与现实历史联系起来，而不是以既定学科边界限制问题。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 8–10，本讲正文"
+        },
+        {
+          "text": "课程把史料研究者之间的辨析、通信、考察及维持生活的活动纳入实践单元，强调研究共同体须有物质条件。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 9–13，本讲正文"
+        },
+        {
+          "text": "历史重建没有一个预先写好的最终章节。理论能够修订，现实行动却有不可撤销的后果，研究者应承认自身视角的有限性。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 13–19，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史经由人民的遗存与活动向研究者显现，具体实践单元是从事史料搜集、辨析和交往的研究共同体。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 9–13，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：历史过程与理论家自身的生存史相接，研究者不是站在历史外面观看它的人。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 15–16，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：从有限视角和历史痕迹重建主导社会关系的发生史，以发生学方式把握资本主义。",
+          "source_ids": [
+            "p02-0279"
+          ],
+          "locator": "Page 16–19，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-1-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "讲者明确以《1844年经济学哲学手稿》为阅读入口，将经济学与哲学批判连在一起：既考察现实苦难的再生产，也反省哲学对这些关系的解释。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 1–7，本讲正文"
+        },
+        {
+          "text": "课程从感性生命、需要及相互对象化解释人与世界的关系，强调现实中的有限存在者彼此关联，反对预设一个无所不包的中立背景。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 11–18、30–36，本讲正文"
+        },
+        {
+          "text": "批判不能止于在思想中宣布现实制度已经被克服。课程要求理论重新进入经济与政治关系的研究，并考察实际改变的条件。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 19–21、38–40，本讲正文"
+        },
+        {
+          "text": "报刊和出版活动被作为此阶段的实践单元：批判要有体系，同时需要载体、读者及现实作用。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 28–29、42–43，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：以能够承载系统性批判并面向读者的报刊、出版活动作为实践单元。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 28–29，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：感性而有限的物质生命通过需要与激情相互对象化，课程以此说明对象间关系。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 30–36，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：意识的发生由物质生命的关系推动，并进一步涉及自我反思和类存在；不是在物质之外添加一个精神实体。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 37，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：将经济学与哲学的批判推进为政治经济关系的现实批判，形成研究、反省与实践之间的连续运动。",
+          "source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 38–40，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [
+        "b01-marx-1844-manuscripts-zh"
+      ],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "b01-marx-1844-manuscripts-zh",
+          "relation": "lecture_explicit_reference",
+          "evidence_source_ids": [
+            "p02-0280"
+          ],
+          "locator": "Page 1明确推荐《1844年经济学哲学手稿》；原典入口仅已核相应节选，不等于课程所推荐印本",
+          "reason": "课程明确提及该书；阅读入口的版本和核读范围以相应原典来源记录为准。"
+        }
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-1-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "“内外评论”讨论对国内与国际事件的理论评论：交代发生了什么，解释后果，批判现有做法，并提出可供讨论的替代方向。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 1–2，本讲正文"
+        },
+        {
+          "text": "评论依靠读者、通信与出版网络运作。理论家的判断来自与具体运动的物质联系，而非超然旁观者的独断。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 3–10，本讲正文"
+        },
+        {
+          "text": "课程强调进退之间的张力：评论既要辨认斗争机会，也要考虑保存已有成果与避免无效牺牲；不能把所有情势处理为同一种口号。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 10–15，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：现实事件、具备阅读条件的人与理论家相联系，实践单元为跨地域的通信、出版和读者网络。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 3–6，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：相互对象化具体表现为劳动者网络中的交往、交换和相互承认。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 6–8，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：理论判断作为共同运动的思考环节产生，理论家依赖支持网络而成为其共同“大脑”的一部分。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 8–10，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：斗争与和平、推进与退让之间保持张力，以具体局势和运动延续为判断条件。",
+          "source_ids": [
+            "p02-0281"
+          ],
+          "locator": "Page 10–15，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-1-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "随着地方与各国运动形成自身条件，早先集中于少数人的通信协调方式受到限制，国际理论工作转向协调具有差异的地方理论与经验。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 1–7，本讲正文"
+        },
+        {
+          "text": "协调不能等同于统一发号施令；课程讨论地方主动性与整体方向之间的张力，以及共同原则、协商和决议的作用。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 9–12、22，本讲正文"
+        },
+        {
+          "text": "共同历史叙述可以提供交流坐标，但把发展序列看成不可变的铁律，又会滑向教条化的进步观或经济决定论。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 18–21，本讲正文"
+        },
+        {
+          "text": "会议及其代表关系构成实践单元，维持共同体的理论协调与相互承认；课程仍把这一阶段放在理论家姿态内。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 23–26，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：面对新的历史局势，各地人民与理论家形成协调关系，实践单元是由共同权威中介的会议共同体。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 12–14、23–26，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：对象间的联系进一步表现为自主群体间的主体间关系，共同形成公共意志与理论坐标。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 15–18，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：借共同的历史与理论坐标容纳地方差异；此坐标也可能僵化为发展阶段的教条。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 18–21，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过共同决议中介地方的直接行动要求与国际整体协调。",
+          "source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 22，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [
+        "b02-engels-socialism"
+      ],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "b02-engels-socialism",
+          "relation": "lecture_explicit_reference",
+          "evidence_source_ids": [
+            "p02-0282"
+          ],
+          "locator": "Page 19明确提到《社会主义从空想到科学的发展》",
+          "reason": "课程明确提及该书；阅读入口的版本和核读范围以相应原典来源记录为准。"
+        }
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-1-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "此点位指中派之内保持独立理论工作的行动者，并非将整个中派或某一著名人物一概等同于这一位置。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 2–5，本讲正文"
+        },
+        {
+          "text": "在组织上的妥协与理论上的独立之间，生存本身成为问题；等待时机既可能保存力量，也可能导致错失机会。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 2–5、17–18，本讲正文"
+        },
+        {
+          "text": "讲者批评把政治空间想成天然中立的公共场所：形式上人人能发言，不意味着拥有同等的时间、资金及出版能力。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 6–8、14–17，本讲正文"
+        },
+        {
+          "text": "结尾提醒分类图式可能有错，应回到真实历史核对；组织条件不会因保持理论独立或等待而自动出现。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 22–24，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：危机中的历史、人民及理论家相互牵连，课程以临时形成、条件不足的团体说明实践单元的脆弱性。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 9–13，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：统一的政治秩序是需要争取的对象，不能当作所有参与者已经共享的中立背景。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 14，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：统一的发言空间被设想为普遍开放，但课程随即追问发言能力背后的物质不平等。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 14–17，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：等待没有必然成功的保证，独立生存与错过历史时机可能同时发生。",
+          "source_ids": [
+            "p02-0283"
+          ],
+          "locator": "Page 17–18，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。",
+        "原视频标题为“中派中的独立生存”；正文也将范围限定为中派中的特定行动者，不宜省略“中”。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲讨论“灌输”作为理论活动，着眼于教育机会、时间与理论能力的不平等，反对假定理论会仅凭自发经验自动形成。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 1–5，本讲正文"
+        },
+        {
+          "text": "理论传递并非复制相同的人。课程强调接收者各自的历史处境与理解差异，并明说灌输不应等同于歪曲事实。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 6–10，本讲正文"
+        },
+        {
+          "text": "理论家与接受者都要在实践中被重新对象化：理论进入实际关系，也改变理论家自身，不能停留在抽象的个人自主性想象。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 14–19，本讲正文"
+        },
+        {
+          "text": "课程设置两种知识立场的对立，认为新的理论要从已有知识出发并改变其框架；这并不等于一概拒绝自然科学。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 20–23，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史经由人民推动理论形成，实践单元是承担理论传递的“先生”及其支持关系。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 1–10，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：通过现实介入使自己与他人重新对象化，理论活动属于同一个物质历史过程。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 14–19，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：课程以两种社会立场的知识体系相对置，讨论从既有知识内部学习而后改变其支配框架。",
+          "source_ids": [
+            "p02-0284"
+          ],
+          "locator": "Page 20–23，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "supersedes_batches": [
+        "01-practice.json"
+      ]
+    },
+    {
+      "code": "4-1-2-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "学习理论和研究现实应相互循环。研究既包含材料、统计与访谈，也包含日常经验中的细节，但须把这些细节联系到历史和社会关系。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 1–5，本讲正文"
+        },
+        {
+          "text": "理论家自身也是研究的对象：现实中的矛盾会迫使其修改概念，不能把预先设定的理论当作永远不会改变的框架。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 5–12，本讲正文"
+        },
+        {
+          "text": "课程区分只求自圆其说的理论与指向实际可行性的理论，要求追问理论能够怎样进入现实，而非仅在概念上解释一切。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 12–16，本讲正文"
+        },
+        {
+          "text": "通俗化既是表达要求，也是理论与现实是否结合的检验；在具体经验与社会关系之间反复往返，才能形成可用的新问题和新概念。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 16–26，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：自身生活史与社会历史进入理论研究，实践单元首先是能够反思和工作的研究者自己。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 5–8，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：理论把现实对象化，现实矛盾又推动理论主体化和改变；两者的统一须在研究中实现。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 9–12，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：使体系自洽的知识与指向实际行动、可行改变的知识相对立。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 12–16，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：通俗化要求现实能够被理论说明，也要求理论能够进入现实生活。",
+          "source_ids": [
+            "p02-0285"
+          ],
+          "locator": "Page 16–19，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-2-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "写作与交流要同时做到通俗和严肃。理论能力可以不对等，但交谈双方都要为自身生活负责，不能把对方仅当成教育实验的对象。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 1–4，本讲正文"
+        },
+        {
+          "text": "课程把传播看成现实活动：读者或听者也会成为说话者，话语通过具体生活和人际交往获得力量。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 5–8，本讲正文"
+        },
+        {
+          "text": "理论生产与传播分发构成相互关联的环节；交谈中的反馈会揭示误解，并迫使表达者重新检查自己给出的解释。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 8–10，本讲正文"
+        },
+        {
+          "text": "讲者将这一交流定位为对现实抉择的讨论，区分于按固定等级进行的教育；其效力要由当事人对处境与利害的判断来承接。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 15–19，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：话语传播史经由读者、听者和说者展开，材料生产者与传播者共同构成实践单元。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 5–8，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：话语具有现实力量，课程以“话语即力量”说明它与社会关系的关联。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 15–16，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：课程将教育性关系与政治性抉择相区别，后者重在成年人对现实处境的判断。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 16–19，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：通俗化与严肃性形成张力，传播手段必须接受对实际后果的责任约束。",
+          "source_ids": [
+            "p02-0286"
+          ],
+          "locator": "Page 1–5，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-2-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程把青年之间的交往放在理论争论与现实生存条件中，关注观念怎样在某些群体与地方扎根，而非只统计观点的流行。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 7–8，本讲正文"
+        },
+        {
+          "text": "文创团队被用作共同实践的比喻，学习研究与写作交流是其前提；共同活动需要生产条件，也要能在现实环境中取得位置。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 6–8、10–11，本讲正文"
+        },
+        {
+          "text": "讲者区分共同承担生存与事业的人和外围关系，强调内部讨论、相互说服及共同责任；这些边界是课程的实践判断，不能据此自动给现实人物贴标签。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "text": "团队的延续不能只靠某个核心人物在场；课程以可持续的共同精神说明成员更替之后仍能合作的问题。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 13，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：理论争论通过人民的现实接受而扎根，具体实践单元以共同生产的文创团队作比喻。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 6–8，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：使自己在现实环境中被对象化、取得可持续的社会位置，课程称之为正常化。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 8、10–11，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：共同承担责任的内部成员与外围关系形成区别，信息、意见及信任须联系实际关系判断。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：以可延续的共同精神维持合作，使团队不完全依赖某一位成员。",
+          "source_ids": [
+            "p02-0287"
+          ],
+          "locator": "Page 13，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-2-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "现实的本体论化被解释为制度化：将现实活动组织为可识别的权力节点、层级关系及决策形式，而非只做抽象的制度设想。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 1–3，本讲正文"
+        },
+        {
+          "text": "制度的发生方式可能固化为制度维持自己的方式。课程借创设者与既成框架的关系讨论这一张力，以及科层结构反过来限制人的可能。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 3、6–7，本讲正文"
+        },
+        {
+          "text": "制度化依赖具体人员与物质条件，理论家要把这些关系表达成能够运行的形式；存在论框架与现实活动的接合正是此点位的核心。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 8–11，本讲正文"
+        },
+        {
+          "text": "课程否认制度有永久成功的保证，指出形式化、教条化及失败会重新引出反思，从而导向历史的哲学化。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 13，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史经由可被组织为单位的人民进入制度建构，实践单元是最初形成制度关系的组织层。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 7–11，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：课程直接以ontological与ontic的接合解释此格，即把现实活动组织为可运行的制度框架。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 11，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：课程把纪律服从与游离于纪律之外的立场相对置；这是其制度化分析中的对立。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 13，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：历史没有保障制度永久成功的目的，形式化与教条化的风险会促发进一步反思。",
+          "source_ids": [
+            "p02-0288"
+          ],
+          "locator": "Page 13，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "历史的哲学化试图重新处理此前尖锐的知识对立。课程将主体化与客体化视为实践中的同一生成过程，要求把历史理解为可以被介入而非预先封闭的过程。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 1、3、5–6，本讲正文"
+        },
+        {
+          "text": "理论家只能作有限的中介，不能以个人意志完整替代历史。课程借卢卡奇等人的讨论批评无限意志与必然成功的想象。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 5–6、11–13，本讲正文"
+        },
+        {
+          "text": "这一理论工作作为对强力动员体系的反思与限制，未必通俗或受欢迎；课程同时讨论精细哲学与教科书化在历史中的不同功能。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 8–9，本讲正文"
+        },
+        {
+          "text": "共同体可以沿历史中的思想传承形成，而不必在同一时刻聚集齐全；历史与哲学的联系需要持续的辩证工作，不能直接画等号。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 12–14，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：历史经由人民的行动而展开，实践单元是参与实际共同事业的辩证法家及其纵向思想传承。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 6、12–13，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：历史与哲学的同一须由辩证工作不断生产，并不指现成理论已经穷尽历史。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 13–14，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以历史的具体普遍性中介对立立场，强调他人的行动使历史无法被单个理论家控制。",
+          "source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 8、14，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [
+        "b01-marx-engels-german-ideology-zh"
+      ],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "b01-marx-engels-german-ideology-zh",
+          "relation": "lecture_explicit_reference",
+          "evidence_source_ids": [
+            "p02-0289"
+          ],
+          "locator": "Page 1讨论《德意志意识形态》中的个人、阶级与异化；不把课程的公式化解释当原书原句",
+          "reason": "课程明确提及该书；阅读入口的版本和核读范围以相应原典来源记录为准。"
+        }
+      ]
+    },
+    {
+      "code": "4-1-3-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "以卢卡奇《历史与阶级意识》为讨论中心，课程强调总体化首先是方法论上的工作，不能直接变成宣称已掌握全部存在的封闭本体论。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 1–3，本讲正文"
+        },
+        {
+          "text": "历史辩证法通过人的实践描述主客体的相互转化，生成优先于现成对象；总体性是历史中的开放关联，不是外置的全知视角。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 2–4、10–12，本讲正文"
+        },
+        {
+          "text": "阶级意识被解释为众多实践共同形成的客观可能性，组织是它的历史表现之一，不能把它等同于个人体验或现有机构的物质规模。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 5–8，本讲正文"
+        },
+        {
+          "text": "讲者把这一理论工作的现实功能概括为团结：通过论争协调不同处境的行动者，并维持能够继续参与共同事业的理论共同体。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 3、8–9、13–14，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民的实践中介历史，理论家以行动方法把握其可能性；实践单元是仍参与共同事业的辩证法家共同体。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 7–9，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：历史是由现实人的实践推动的生成过程。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 10，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：开放的历史总体性中介改变现实与解释现实的理论，使理论在实践中获得客观性。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 10–13，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：课程用“拧绳”比喻通过理论斗争维持团结和相互承认。",
+          "source_ids": [
+            "p02-0290"
+          ],
+          "locator": "Page 2–3、13–14，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-3-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "教条的哲学化讨论已经形成的实践论断怎样获得体系解释。课程同时警惕历史性的论断被加工成铁律，以及主体在理论系统中被过度消除。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 1，本讲正文"
+        },
+        {
+          "text": "哲学一旦进入大众运动，就具有意识形态功能；理论家不仅解释观念，也参与生产可被传播和理解的理论体系。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 7–8，本讲正文"
+        },
+        {
+          "text": "教科书体系是本讲的具体实践单元。课程强调它的精巧程度、可理解性与规模化传播之间存在取舍。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 8、10、12，本讲正文"
+        },
+        {
+          "text": "哲学化既可以服务团结，也可能服务于不同理论力量之间的位置竞争；课程因此不把纯粹理论论争与现实关系割裂。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 9–10，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：思想史经由人民而大众化、意识形态化，实践单元为教科书体系及其生产活动。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 7–8，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：维持社会历史的总体性视野，课程明确以totality概括此格。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 9、12，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：由意识形态化中介应用性的科学知识与哲学体系，并使二者进入现实说服过程。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 9–10，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：团结与争取位置相互牵制，哲学化也是不同理论力量的竞争。",
+          "source_ids": [
+            "p02-0291"
+          ],
+          "locator": "Page 10，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-3-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程以奥地利马克思主义及早期法兰克福学派为线索，讨论对社会主义及其研究方法的系统探索，强调理论研究对现实实践的启发。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 1–3，本讲正文"
+        },
+        {
+          "text": "经济与物质关系也具有社会联系和意识的维度，不能设想一种完全脱离人的社会关系的“经济物质”。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 3，本讲正文"
+        },
+        {
+          "text": "这一研究姿态可以吸收不同学科的方法，并反过来分析现实运动造成的社会变化；其总体性视野不等于普通分科体系中的社会学。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 9–11、14，本讲正文"
+        },
+        {
+          "text": "课程以高级知识分子读书会和研究共同体说明实践单元，讨论处于主要冲突外围的理论探索如何保留未来可能性。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 6、11，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民的社会活动进入理论研究，实践单元以高级知识分子读书会与研究共同体为例。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 6、9，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：社会存在具有总体性，包含人的活动、理论、经验及被把握的自然关系。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 9、14，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：跨学科社会研究中介分科应用科学与总体批判哲学，同时追问研究方法自身。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 10–11，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：在团结与位置竞争之间，保留外围及未来的理论位置。",
+          "source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 11，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [
+        "b02-engels-socialism"
+      ],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "b02-engels-socialism",
+          "relation": "lecture_explicit_reference",
+          "evidence_source_ids": [
+            "p02-0292"
+          ],
+          "locator": "Page 10明确提到《社会主义从空想到科学的发展》第二章",
+          "reason": "课程明确提及该书；阅读入口的版本和核读范围以相应原典来源记录为准。"
+        }
+      ]
+    },
+    {
+      "code": "4-1-3-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程通过葛兰西讨论现代市民社会的文化和认同网络，把文化霸权之争理解为长期、分散的阵地争夺，而非一次完成的正面对决。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 1、7，本讲正文"
+        },
+        {
+          "text": "有机知识分子要在具体文化阵地形成合作共同体；讲者强调这不同于孤立的个人声望或单凭道德姿态发言。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 12–13，本讲正文"
+        },
+        {
+          "text": "此理论预设文化领导可以影响政治与物质力量，但课程追问这一通路是否可靠，以及能否把文化优势误当作真理保证。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 14–15，本讲正文"
+        },
+        {
+          "text": "联盟中的成员可能退出或改变方向，局部文化胜利也可能掩盖现实矛盾的转移；这些是本讲对该实践方式的主要限制判断。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 17–18、22，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：市民社会及其文化网络的历史经由人民展开，实践单元是文化阵地上的有机知识分子共同体。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 7、12–13，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：课程以实践唯物主义概括主客关系，并指出文化领导可通向物质政治力量这一预设。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 13–14，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以意识形态斗争中介哲学与科学，争取文化主导权，同时存在把胜出等同于正确的风险。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 15，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：文化胜利没有必然兑现为现实解放的保证，联盟松散与矛盾转移可能使目标落空。",
+          "source_ids": [
+            "p02-0293"
+          ],
+          "locator": "Page 17–18、22，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "精神化了的重复讨论重大实践失败之后的理论工作：在思想中重新回应既往事件，同时重新思考既有组织与国家模式。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 1、3–6，本讲正文"
+        },
+        {
+          "text": "这不是简单把事件变成哲学解释，也不是宣称新的伟大事件已经发生，而是理论家在有限条件下继续保持改变现实的欲望。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 3–4、8–9，本讲正文"
+        },
+        {
+          "text": "课程把资本主义符号系统描述为不断解域和再结域，能够生产主体与客体，却无法保证稳定的总体框架；认识危机因而常态化。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 9–11，本讲正文"
+        },
+        {
+          "text": "实践单元是有公共声量、能独立活动并维持生活的国际知识分子或学术派别，现实条件仍不可省略。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 6，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：失败的历史经由具有反思性的现代人向理论家显现，实践单元是能独立持续活动的国际知识分子共同体。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 4、6，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：课程以资本主义符号系统持续生产主体、客体及二者的最小差异说明此格；特别声明按自身语境使用这一术语。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 9–11，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：危机成为常态，没有稳定的总体认识框架；理论家的继续寻找本身承担希望的意义。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "Page 8–11，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-4-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程把意识形态的主要功能理解为社会关系的再生产，认为它不只是错误观念，而与制度、日常关系和主体的形成相联系。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 1、4–5，本讲正文"
+        },
+        {
+          "text": "一种意识形态从内部看另一种意识形态有问题，并不足以完成批判；讲者转而要求研究意识形态的范式变化和历史条件。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 5–7，本讲正文"
+        },
+        {
+          "text": "历史化不是改用一条保证胜利的线性历史。课程借阿尔都塞的超定讨论断裂、偶然性及可供实践介入的开放性。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 10–11、15，本讲正文"
+        },
+        {
+          "text": "这一工作同时需要公共言说平台和明确的实践身份，其目的被描述为在失败之后修复与维持一种理论实践的正统性。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 13–15，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：失败的历史要求理论家重新工作，实践单元是能够持续公开言说、同时保有明确共同体身份的人。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 11、13–14，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1（沿用父讲总论）：资本主义符号系统持续生产主体、客体及其最小差异。此处为父讲范围的继承说明，未宣称子讲重新完整论证。",
+          "source_ids": [
+            "p02-0294"
+          ],
+          "locator": "4-1-4，Page 9–11",
+          "inherited_from": "4-1-4"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：历史是断裂且超定的，没有单一线性因果链，开放性使实践介入成为可能。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 10–11，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：通过意识形态的历史化，维护或修复该理论实践及其话语的正统性。",
+          "source_ids": [
+            "p02-0295"
+          ],
+          "locator": "Page 14–15，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-4-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "课程以巴迪欧为线索，将哲学的再现代化解释为在后现代话语中重新争取事件与真理的位置，保持激进改变的可能。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 1、7–8，本讲正文"
+        },
+        {
+          "text": "讲者把数学本体论解释为哲学化的集合论及形式主义本体论，强调此处讨论的并不是直接照搬日常工程计算的数学。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 3–6、15–16，本讲正文"
+        },
+        {
+          "text": "任何完整命名与认识体系都可能留下缺口。课程以爱情、艺术、科学与政治讨论进入真理和经历事件的不同方式。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 9–11，本讲正文"
+        },
+        {
+          "text": "这种实践需要能够代表哲学发言的学术能力和公共地位；其目的超出维护旧有声誉，还要把其他思想力量带入现实相关的论争。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 8–9、11、13，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：现实苦难使理论家重新看见未被解除的现代性问题，实践单元是具有哲学公共地位和理论能力的左翼哲学家。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 7–9，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：以哲学化的集合论组织形式主义本体论，并讨论计数、单元及主体介入。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 3–6、15–16，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：不存在封闭而无缺口的完整认识体系，事件显示其失败和更新的可能。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 9–11，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：维护正统声誉与以攻代守相对照，后者要求重新发动与现实相关的哲学论争。",
+          "source_ids": [
+            "p02-0296"
+          ],
+          "locator": "Page 11、13，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-4-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "持续否定不是把一切都看成无望，而是不把眼前的替代物轻易当成已经实现的解放；课程以不断说“不是这个”概括其姿态。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 1、5–6，本讲正文"
+        },
+        {
+          "text": "课程把政治经济学、德国观念论、精神分析与文化娱乐并置，说明这种批判活动如何在理论与大众文化之间转换。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 2，本讲正文"
+        },
+        {
+          "text": "理论家可以采取自我戏谑的公共形象，同时依靠会议、读者及理论共同体继续生产；表演形象并不等于没有理论工作。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 3，本讲正文"
+        },
+        {
+          "text": "此姿态通过把一个理论推进到它自身未能坚持的地方来批判它，也将维护理论传统与把他人引入论争结合起来。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 4–6，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：在充满拟像的历史中，理论家以戏谑姿态出现，实践单元是持续活动并维持生活的理论共同体。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 2–3，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：课程以理论坚持自身逻辑的连续性解释此格，通过把理论推得更彻底来显露其矛盾。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 3–4，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：课程称之为“崇高的癔症”，持续拒绝把眼前对象认作已经实现的真理。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 2、6，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：持续否定同时承担维护理论传统与引入论争两种作用，以“不是这个”中介二者。",
+          "source_ids": [
+            "p02-0297"
+          ],
+          "locator": "Page 4–6，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    },
+    {
+      "code": "4-1-4-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "现实生活把维持生计、劳动和日常关系中的普通人视为天然的理论家；此处的阶级意识不能被缩减为个人的知识水平或崇高体验。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 1、12–15，本讲正文"
+        },
+        {
+          "text": "物质现实的否定性首先表现为生活资料匮乏与无路可走，也会否定人对自身处境的一厢情愿解释。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 2–4、6–7，本讲正文"
+        },
+        {
+          "text": "当既有知识与治理话语无法解决问题，普通人的现实活动和创造力显得关键；阶级意识在共同生活与符号活动中生成，不等于第一人称心理体验。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "text": "历史更新依靠人的劳动和实践，没有预先保证的进步路线。课程同时指出私人亲缘共同体的支持作用及其退化为宗派、家长制的风险。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 9–10、14–15，本讲正文"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民在生活中成为理论家，实践单元具体表现为具有信任与亲缘支持的私人共同体，同时存在宗派化风险。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 7、9–10，本讲正文"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论1：物质现实对主观意志的否定性，乃至对既有主体中介形式的否定，构成此格的核心。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 2–4、6–7，本讲正文"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：既有逻辑体系和权威话语失效，新的认识可能在大众活动中涌现，而非恢复一个稳定的全知体系。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：历史由人的实际活动创造和更新，没有背景秩序或进化路径保证结果，亦不可预言。",
+          "source_ids": [
+            "p02-0298"
+          ],
+          "locator": "Page 14–15，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "尚未完成原音听校与相关历史事实、原典解释的独立复核。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "4-1-1-4",
+      "field_path": [
+        "ch_name"
+      ],
+      "before": "中派的独立生存",
+      "after": "中派中的独立生存",
+      "kind": "linked_course_title_alignment",
+      "status": "ready",
+      "evidence_source_ids": [
+        "p02-4114-video-metadata",
+        "p02-0283"
+      ],
+      "rationale": "公开视频API标题及分讲标题一致，且正文明确限定为中派中的独立理论行动者。"
+    }
+  ]
+}

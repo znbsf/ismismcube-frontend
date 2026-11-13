@@ -1,0 +1,1018 @@
+{
+  "review_scope": "全部人工字段逐项对照；仅核课程编纂文本，不把讲者转述、推测当成哲学家原典或科学事实。",
+  "sources": [
+    {
+      "id": "m3-0195",
+      "title": "0195_3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒_p5170",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92/0195_3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92_p5170.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒/0195_3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒_p5170.md",
+      "sha256": "1a75f82dd0cbab0f4be000b6231eaf138ab759f12302de05e947a573fc1fc1aa",
+      "git_blob_sha": "2cc0716a5ec68b409ed95269120d649461c21df1",
+      "locator": "Page1–28 L9–132；Page28仅本讲收束，下一讲开头另标使用",
+      "verification_scope": "逐段核读Page1–28 L9–132；Page28仅本讲收束，下一讲开头另标使用；未核原音与所述原典。"
+    },
+    {
+      "id": "m3-0196",
+      "title": "0196_3-1-2-1_媒介性的客观主义_如何在现象学思考中安宁地抵达彼岸_p5198",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92/3-1-2-1_%E5%AA%92%E4%BB%8B%E6%80%A7%E7%9A%84%E5%AE%A2%E8%A7%82%E4%B8%BB%E4%B9%89_%E5%A6%82%E4%BD%95%E5%9C%A8%E7%8E%B0%E8%B1%A1%E5%AD%A6%E6%80%9D%E8%80%83%E4%B8%AD%E5%AE%89%E5%AE%81%E5%9C%B0%E6%8A%B5%E8%BE%BE%E5%BD%BC%E5%B2%B8/0196_3-1-2-1_%E5%AA%92%E4%BB%8B%E6%80%A7%E7%9A%84%E5%AE%A2%E8%A7%82%E4%B8%BB%E4%B9%89_%E5%A6%82%E4%BD%95%E5%9C%A8%E7%8E%B0%E8%B1%A1%E5%AD%A6%E6%80%9D%E8%80%83%E4%B8%AD%E5%AE%89%E5%AE%81%E5%9C%B0%E6%8A%B5%E8%BE%BE%E5%BD%BC%E5%B2%B8_p5198.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒/3-1-2-1_媒介性的客观主义_如何在现象学思考中安宁地抵达彼岸/0196_3-1-2-1_媒介性的客观主义_如何在现象学思考中安宁地抵达彼岸_p5198.md",
+      "sha256": "9608eab8fe6398e4ed452d8844f8e921f630c5bf7ab03da6c89614d3dedfc7d6",
+      "git_blob_sha": "0dea062251b4cf5bb0301ef78e0be118308dacb2",
+      "locator": "Page1–13 L9–53；Page13仅本讲收束；另核Page13末下一讲3122引言",
+      "verification_scope": "逐段核读Page1–13 L9–53；Page13仅本讲收束；另核Page13末下一讲3122引言；未核原音与所述原典。"
+    },
+    {
+      "id": "m3-0197",
+      "title": "0197_3-1-2-2_本质心理主义_心病只用心药医的本质现象学_拒斥彻底而狂妄的先验主体性_p5211",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92/3-1-2-2_%E6%9C%AC%E8%B4%A8%E5%BF%83%E7%90%86%E4%B8%BB%E4%B9%89_%E5%BF%83%E7%97%85%E5%8F%AA%E7%94%A8%E5%BF%83%E8%8D%AF%E5%8C%BB%E7%9A%84%E6%9C%AC%E8%B4%A8%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%8B%92%E6%96%A5%E5%BD%BB%E5%BA%95%E8%80%8C%E7%8B%82%E5%A6%84%E7%9A%84%E5%85%88%E9%AA%8C%E4%B8%BB%E4%BD%93%E6%80%A7/0197_3-1-2-2_%E6%9C%AC%E8%B4%A8%E5%BF%83%E7%90%86%E4%B8%BB%E4%B9%89_%E5%BF%83%E7%97%85%E5%8F%AA%E7%94%A8%E5%BF%83%E8%8D%AF%E5%8C%BB%E7%9A%84%E6%9C%AC%E8%B4%A8%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%8B%92%E6%96%A5%E5%BD%BB%E5%BA%95%E8%80%8C%E7%8B%82%E5%A6%84%E7%9A%84%E5%85%88%E9%AA%8C%E4%B8%BB%E4%BD%93%E6%80%A7_p5211.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒/3-1-2-2_本质心理主义_心病只用心药医的本质现象学_拒斥彻底而狂妄的先验主体性/0197_3-1-2-2_本质心理主义_心病只用心药医的本质现象学_拒斥彻底而狂妄的先验主体性_p5211.md",
+      "sha256": "dfa3c4d30a176464a7828cd2bc83756e4b69fcde5231f93a793b85382e698384",
+      "git_blob_sha": "455ab143c99d8c5d11ddb7edd3b205002d8c9670",
+      "locator": "Page1–10 L9–44；Page10只取本讲收束",
+      "verification_scope": "逐段核读Page1–10 L9–44；Page10只取本讲收束；未核原音与所述原典。"
+    },
+    {
+      "id": "m3-0198",
+      "title": "0198_3-1-2-3_现象学的唯美主义_给美学_撑腰_的现象学_来看看没背叛胡塞尔的海德格尔长什么样_p5221",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92/3-1-2-3_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E5%94%AF%E7%BE%8E%E4%B8%BB%E4%B9%89_%E7%BB%99%E7%BE%8E%E5%AD%A6_%E6%92%91%E8%85%B0_%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%B2%A1%E8%83%8C%E5%8F%9B%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7/0198_3-1-2-3_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E5%94%AF%E7%BE%8E%E4%B8%BB%E4%B9%89_%E7%BB%99%E7%BE%8E%E5%AD%A6_%E6%92%91%E8%85%B0_%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%B2%A1%E8%83%8C%E5%8F%9B%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7_p5221.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒/3-1-2-3_现象学的唯美主义_给美学_撑腰_的现象学_来看看没背叛胡塞尔的海德格尔长什么样/0198_3-1-2-3_现象学的唯美主义_给美学_撑腰_的现象学_来看看没背叛胡塞尔的海德格尔长什么样_p5221.md",
+      "sha256": "76e0cc1d97d9a8404c64b466616ae8954e3bc5823ad3925efa8d76ab9aad6804",
+      "git_blob_sha": "21e66b62402a412122c908649832a24993efd5fa",
+      "locator": "Page1–15 L9–51；Page15仅本讲收束；另核Page15末3124引言",
+      "verification_scope": "逐段核读Page1–15 L9–51；Page15仅本讲收束；另核Page15末3124引言；未核原音与所述原典。"
+    },
+    {
+      "id": "m3-0199",
+      "title": "0199_3-1-2-4_游戏的世界象征主义_我玩故我在_的哲学_p5236",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-2_%E5%AE%9E%E4%BA%8B%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E4%BB%A4%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%BB%8E%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%B5%B0%E5%85%A5%E5%8E%86%E5%8F%B2_%E5%B1%88%E5%B1%85%E4%BA%8C%E5%8F%B7%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A4%A9%E6%89%8D_%E8%88%8D%E5%8B%92/3-1-2-4_%E6%B8%B8%E6%88%8F%E7%9A%84%E4%B8%96%E7%95%8C%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_%E6%88%91%E7%8E%A9%E6%95%85%E6%88%91%E5%9C%A8_%E7%9A%84%E5%93%B2%E5%AD%A6/0199_3-1-2-4_%E6%B8%B8%E6%88%8F%E7%9A%84%E4%B8%96%E7%95%8C%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_%E6%88%91%E7%8E%A9%E6%95%85%E6%88%91%E5%9C%A8_%E7%9A%84%E5%93%B2%E5%AD%A6_p5236.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-2_实事现象学_令现象学从哲学史走入历史_屈居二号人物的天才_舍勒/3-1-2-4_游戏的世界象征主义_我玩故我在_的哲学/0199_3-1-2-4_游戏的世界象征主义_我玩故我在_的哲学_p5236.md",
+      "sha256": "6a2bba6955ede0ec4cab2c40956c39b4f64bc44e48b313f6fc32b9019b8e0efa",
+      "git_blob_sha": "15c5b87a95b32859cf4d256f1fd4d1dd59c9df78",
+      "locator": "Page1–15 L9–53；Page16起下一讲排除",
+      "verification_scope": "逐段核读Page1–15 L9–53；Page16起下一讲排除；未核原音与所述原典。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "全部字段已拆命题核对；术语史实及原典归属不在课程忠实度核验范围。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "接受本质还原，拒绝先验还原及纯粹我思奠基。",
+          "status": "supported_course_statement",
+          "finding": "开篇直接说明；不应理解为否认所有主体性，后文仍以主体为中介。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page1–4 L9–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "连续等级中各心灵形态有本体论地位的平等，依次为冲动、本能、联结记忆、智能、精神，上接上帝。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page11列五种心灵阶次，Page13另加更高神性；上帝不是第六种心灵形态，平等指本体性而非等级无差别。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page5–7 L29–39；Page11–13 L57–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体是等级制例外、意识与无意识冲突焦点；精神向冲动敞开。",
+          "status": "supported_course_statement",
+          "finding": "明确见主体焦点与精神敞开段。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page7 L39；Page12 L62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "精神以否定性压抑四个生命环节，情感冲动不能抑制。",
+          "status": "needs_precision",
+          "finding": "原摘要并列两个相冲突的绝对说法。Page13及19谈压抑能力，但Page14专门限制：不能压住本源冲动，只能清除障碍。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page13–16 L67–82；Page19–20 L95–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "伦理实践从生命环节发现价值，超越性最终来自上帝。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page16–20以大他者解释规范来源与逻辑/宗教双重精神功能。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page16–20 L82–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "反对康德形式伦理；康德规则来自主体间博弈均衡。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程确有这段说法，但博弈/功利主义是讲者的重述，尚未核康德或舍勒原典，不能当作中性定义。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page8–10 L44–52；Page25 L123"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "生命精神活动直观价值；现象学承担反击科学主义侵蚀伦理的历史使命。",
+          "status": "supported_course_evaluation",
+          "finding": "价值领受与历史使命均为本讲明确的评价。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page3–4 L19–24；Page23–25 L115–123"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "主体调和形而下生命本能精神与形而上伦理秩序。",
+          "status": "supported_course_statement",
+          "finding": "有明确格位定义；精神在场域与认识论两个层面承担不同位置，不能仅凭字面判冲突。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page3–4 L19–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论为连续等级制。",
+          "status": "supported_course_statement",
+          "finding": "有明确格位定义；精神在场域与认识论两个层面承担不同位置，不能仅凭字面判冲突。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page5–7 L29–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论分情感与精神。",
+          "status": "supported_course_statement",
+          "finding": "有明确格位定义；精神在场域与认识论两个层面承担不同位置，不能仅凭字面判冲突。",
+          "source_ids": [
+            "m3-0195"
+          ],
+          "locator": "Page7–8 L39–44；Page16 L82"
+        }
+      ],
+      "editorial_notes": [
+        "Page25 L123称仅快速看了导论和目录，Page27 L129称未具体讲读其他文本；本讲的康德博弈论解释、舍勒宇宙论重建都是讲者解释，不能据此证明两位原典学说。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。"
+      ]
+    },
+    {
+      "code": "3-1-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段已拆命题核对；术语史实及原典归属不在课程忠实度核验范围。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "施特拉塞尔属托马斯传统，采用现象学出于宗教关怀。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "前讲末介绍身份，本讲重述宗教背景；具体心理动机含推测。摘要2-3-2与讲稿2-3-2-1不同。",
+          "source_ids": [
+            "m3-0195",
+            "m3-0196"
+          ],
+          "locator": "0195 Page28 L132；0196 Page1–3 L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "灵魂不朽与先验主体永存契合，现象学统一身体和心智意向结构。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "身体/心智统一及不朽说是讲者论述，并直接称哲学信仰，不是实证不朽或已解决身心问题。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page1–3 L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "物理数学是大他者科学，建基于形而上而非生活世界；心理学是人的科学。",
+          "status": "needs_precision",
+          "finding": "Page4–5说自称大他者的科学，且应由人的科学奠基于彼岸；原摘要把批评和规范性方案改写为科学已建立的基础。数学不在本段实例中。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "内在体验与外部客体性连续，客观性作为主体间媒介才有意义，不能自授超越意义。",
+          "status": "supported_course_statement",
+          "finding": "连续性和媒介功能均有连续论述。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page5–9 L21–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "实证科学不能指导社会发展，目的维度仅来自伦理宗教安排。",
+          "status": "overgeneralized",
+          "finding": "正文谈意义需在伦理/彼岸/宗教人类学中界定，没有直接论证实证科学完全不能指导社会方向；该结论超出原段。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page7–10 L27–38"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "人的科学/现象学调和生活世界与超越彼岸。",
+          "status": "supported_with_scope_limit",
+          "finding": "课程有对应；认识一端还包括感性知觉，另一端是非感觉的情绪冲动；目的论安排明确为信仰性假设。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "体验与客观性处于连续本体论。",
+          "status": "supported_with_scope_limit",
+          "finding": "课程有对应；认识一端还包括感性知觉，另一端是非感觉的情绪冲动；目的论安排明确为信仰性假设。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "情感冲动与理性认识对立。",
+          "status": "supported_with_scope_limit",
+          "finding": "课程有对应；认识一端还包括感性知觉，另一端是非感觉的情绪冲动；目的论安排明确为信仰性假设。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论整体被解释为上帝安排。",
+          "status": "supported_with_scope_limit",
+          "finding": "课程有对应；认识一端还包括感性知觉，另一端是非感觉的情绪冲动；目的论安排明确为信仰性假设。",
+          "source_ids": [
+            "m3-0196"
+          ],
+          "locator": "Page7–10 L27–38"
+        }
+      ],
+      "editorial_notes": [
+        "Page9–10 L33–38讲者明确未读施特拉塞尔文本，并说我猜、如果我建构这个体系；其宗教动机及目的论重建须标课程推测。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。"
+      ]
+    },
+    {
+      "code": "3-1-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段已拆命题核对；术语史实及原典归属不在课程忠实度核验范围。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "只接受本质还原，搁置客观性和主体间性建构，研究不可还原心理结构及关系。",
+          "status": "supported_course_statement",
+          "finding": "本讲Page1–2对应；拒绝先验还原在前讲末引言更加完整。",
+          "source_ids": [
+            "m3-0196",
+            "m3-0197"
+          ],
+          "locator": "0196 Page13 L53；0197 Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "澄清实证科学认识机制并恢复被科学危机削弱的信仰。",
+          "status": "supported_course_statement",
+          "finding": "开头直接说明工作目的；恢复近代科学引发的信仰危机用词不准确，应为回应危机/恢复信仰。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "先验哲学与科学属形而下，精神信仰属形而上，以第一人称还原通达原初现象、建构新精神生活。",
+          "status": "supported_course_statement",
+          "finding": "格位段及连续梯次说明直接支持。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "只有信仰才包含原初结构。",
+          "status": "overgeneralized",
+          "finding": "正文研究思维与信念双方的不可还原结构，强调信仰的启示性，不支持把所有原初结构独占给信仰。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page1–4 L9–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "先验哲学与科学被批评为人类中心主义；只有信念能抵达彼岸。",
+          "status": "needs_precision",
+          "finding": "前半为讲者解释；后半忽略本质还原、聆受、分析综合与重建实践的中介，不能概括为仅靠相信。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page5–8 L21–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "第一人称本质还原调和生活科学先验哲学与信仰精神。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确给出格位；连续本体论是讲者对默认前提的解释，不是普凡德尔主动作的本体论计划。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "连续本体论。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确给出格位；连续本体论是讲者对默认前提的解释，不是普凡德尔主动作的本体论计划。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page4 L18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "感觉逻辑现象学思维与信念冲动意志对立。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确给出格位；连续本体论是讲者对默认前提的解释，不是普凡德尔主动作的本体论计划。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "听凭安排与主动重建本真相对。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确给出格位；连续本体论是讲者对默认前提的解释，不是普凡德尔主动作的本体论计划。",
+          "source_ids": [
+            "m3-0197"
+          ],
+          "locator": "Page6–8 L24–36"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。"
+      ]
+    },
+    {
+      "code": "3-1-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段已拆命题核对；术语史实及原典归属不在课程忠实度核验范围。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "自然主义、默认客体性、只接受本质还原，胡塞尔戏称四分之一现象学家。",
+          "status": "supported_course_report",
+          "finding": "这些说法均见讲稿；轶事真实性不能由讲稿本身证明。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page1–4 L9–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "用现象学赋予美学等学科独立性。",
+          "status": "supported_course_statement",
+          "finding": "直接说明美学与晚期形而上学的研究安排。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "艺术对象作为现象，各有本质，不可化约为形而上学规定或实证心理环节。",
+          "status": "supported_course_statement",
+          "finding": "音乐、戏剧、绘画、景观有逐例；摄影未在本讲找到，是摘要添例。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page5–8 L21–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "晚年把方法拓展到相对论量子论等超现象形而上学，再由哲学研究本体结构。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page2明说不能靠意向分析推导科学数学；Page3–4、14谈考察其对象架构的哲学意义，计划未完成。不能理解为现象学替代物理理论。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page2–4 L12–18；Page14 L48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "审美本质还原调和形而下与形而上。",
+          "status": "supported_course_statement",
+          "finding": "格位段逐项明确支持。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page9–12 L33–42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论连续。",
+          "status": "supported_course_statement",
+          "finding": "格位段逐项明确支持。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page12 L42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "艺术性还原与纯逻辑功利认识相对。",
+          "status": "supported_course_statement",
+          "finding": "格位段逐项明确支持。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page12 L42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "通过艺术领受与主动参与调和听凭安排与重建本真。",
+          "status": "supported_course_statement",
+          "finding": "格位段逐项明确支持。",
+          "source_ids": [
+            "m3-0198"
+          ],
+          "locator": "Page13–14 L45–48"
+        }
+      ],
+      "editorial_notes": [
+        "胡塞尔称其四分之一现象学家及具体学术经历目前只核到讲者转述；未据原始文献验证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。"
+      ]
+    },
+    {
+      "code": "3-1-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段已拆命题核对；术语史实及原典归属不在课程忠实度核验范围。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "不同游戏作为世界符号，揭示不同本体性侧面。",
+          "status": "supported_course_statement",
+          "finding": "开篇逐项说明世界现象、世界符号与不同游戏的范式。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "现代工作/游戏二分异化游戏，借宗教礼仪游戏重新接近原初游戏。",
+          "status": "supported_course_statement",
+          "finding": "Page2–3明确说明，宗教自身也已成为最严肃的工作，并非直接复归宗教。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page2–3 L12–15；Page15 L53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "冥想、占卜、傩舞、祈祷显示丰富与目的开放。",
+          "status": "supported_course_statement",
+          "finding": "全部例子与开放性均有对应。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "被玩的人也可立规则、服从规则，成为玩家并参与世界的游戏。",
+          "status": "supported_course_statement",
+          "finding": "Page6完整说明符号拟制规则与本体分量；世界游戏不必须预设人格创造者。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "象不过河等规则显示绝对性也可为无能，借辩证类比把握大他者僵局。",
+          "status": "supported_course_statement",
+          "finding": "本讲直接使用象、士规则及将关系平移到较低阶次的论证。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page12–14 L42–50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "惊奇调和无聊的人类科学维度与世界游戏。",
+          "status": "supported_course_statement",
+          "finding": "格位段明说解除既定本体/价值标准而向现象敞开。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1是世界与人类的二分。",
+          "status": "contradicted_by_explicit_axis",
+          "finding": "Page6明确player与be played连续，人类可以成为player；摘要把连续性改成二分。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "意向构成与世界自行构成二分。",
+          "status": "supported_with_scope_limit",
+          "finding": "本讲引入二次悬置和end-constitution；后者为讲者解释，不是主观任意构造，术语尚未原典校定。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4是play。",
+          "status": "supported_course_statement",
+          "finding": "Page11明确play颠覆统摄结构；Page4说明开放性。",
+          "source_ids": [
+            "m3-0199"
+          ],
+          "locator": "Page4 L18；Page11 L39"
+        }
+      ],
+      "editorial_notes": [
+        "constitution/end-constitution等英语按课程编纂文本记录，尚未据芬克原文校定拼写与概念史；游戏一词不应反过来成为随意推断格位的理由。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-1-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，不同心灵形态平等地处于一个连续的本体论等级制中，从低到高分别是无意识冲动-本能-记忆联结-智能-精神-上帝，主体是这个等级制的例外，是作为意识的精神与作为无意识的情感冲动的冲突点，也是精神向无意识的敞开。",
+      "after": "②本讲把心灵形态列为无意识冲动、本能、联结记忆、智能、精神五个阶次，并在宇宙论解释中另置更高的神性。它们在具有本体性这一点上平等，但仍有等级差异；主体作为其中的例外，是精神与无意识冲动的冲突焦点，也是精神向无意识敞开的所在。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0195"
+      ],
+      "locator": "Page5–7 L29–39；Page11–13 L57–67",
+      "rationale": "避免把上帝混作第六种心灵形态，并明确平等的限定。"
+    },
+    {
+      "code": "3-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在认识论上，情感性是无法抑制的、迸发而出的，而精神性是压抑的、后撤的、认识性的，主体可以通过精神的否定性，压抑冲动-本能-记忆-智能，而精神的伦理实践能从这四个被压抑的环节中发现伦理价值的维度，这种超越性的最终源头是上帝。",
+      "after": "③在本讲的解释中，精神具有否定、后撤与澄清的作用，能抑制或校正本能、联结记忆、智能等环节，却不能彻底压住本源性的无意识冲动；它更多是消除阻碍，让生命敞开。精神的伦理实践又能在这些生命环节中发现价值，而其超越性根据被追溯到上帝或大他者。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0195"
+      ],
+      "locator": "Page13–20 L67–100",
+      "rationale": "保留正文对压抑能力的限制，消除摘要内部矛盾。"
+    },
+    {
+      "code": "3-1-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④舍勒反对康德的形式主义的伦理学(伦理规则来自主体间的博弈均衡而非实质的伦理内容)，主张主体在生命活动和精神活动中，通过现象学直观把握形而上的伦理价值，这也正是现象学面对19世纪末的科学主义对伦理维度的侵蚀所要承担的历史使命。",
+      "after": "④本讲将舍勒的实质价值伦理学与康德形式伦理学相对照，强调在生命和精神活动中通过现象学直观领受价值。讲者用主体间博弈均衡来重述康德式形式原则，并将舍勒的工作评价为回应科学主义侵蚀伦理维度的历史使命；前一种博弈论说法属于课程解释，尚未按两位哲学家的原典验证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0195"
+      ],
+      "locator": "Page8–10 L44–52；Page23–27 L115–129",
+      "rationale": "将课程可核的解释与尚未核的哲学史归属分开。"
+    },
+    {
+      "code": "3-1-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①施特拉塞尔是托马斯·阿奎纳主义者(2-3-2)，他对胡塞尔现象学的研究是出于宗教信仰。托马斯·阿奎纳主认为灵魂不死，这与胡塞尔现象学暗含的先验主体性的永存相契合；现象学还解决了托马斯·阿奎纳的心物二元论问题，可以通过现象学还原，统一心智的意向性结构与身体性的意向性结构的二分。",
+      "after": "①本讲将施特拉塞尔放在托马斯·阿奎纳传统（课程编号2-3-2-1）中理解，并推测其现象学兴趣与宗教关怀相关。讲者把灵魂不朽信念与先验主体持续被给予联系起来，又认为现象学可将身体与心智的意向结构纳入统一描述；这些是课程解释，不能据此认定已证明灵魂不朽或最终解决身心问题。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0196"
+      ],
+      "locator": "Page1–3 L9–15；Page9–10 L33–38",
+      "rationale": "修正分支编号并保留讲者推测、信仰与未读原典边界。"
+    },
+    {
+      "code": "3-1-2-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②人的科学：施特拉塞尔认为物理、数学等科学是大他者的科学，大他者的科学的基础在形而上世界而不是人生活的世界，而基于现象学的心理学研究的是人的精神、意识，所以是人的科学。",
+      "after": "②人的科学：本讲对比自称能说明世界的物理学、自然科学与研究精神、意识的现象学心理学。按讲者的重建，所谓人的科学应使科学认识及共同体生活的意义关联于超越性的彼岸；这是一种奠基要求，并非说自然科学已经建立在神学彼岸之上。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0196"
+      ],
+      "locator": "Page4–5 L18–21",
+      "rationale": "区分既成事实与应当如何奠基的主张。"
+    },
+    {
+      "code": "3-1-2-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在本体论和认识论上，人的内在意识、体验、情感，与外部的客体性(Objectivity)处于同一个连续的本体论中，客体性(客观性)只有作为主体间的媒介才有意义，其本身并没有超越性意义，所以基于客观世界的实证科学并不能指导人类社会的发展方向，这个目的论维度只能来源于伦理学、宗教热忱(上帝的安排)。",
+      "after": "③本讲认为内在意识、体验、情感与外部客体性处于连续谱系中；客观性作为主体间的共同参照才具有意义，不能仅凭自身取得超越性。讲者进一步以伦理学、宗教人类学及目的论整体解释这种意义，并称上帝的安排为信仰性假设；这不足以推出实证科学在任何意义上都不能指导社会生活。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0196"
+      ],
+      "locator": "Page5–10 L21–38",
+      "rationale": "删去未获正文直接支持的全称推论。"
+    },
+    {
+      "code": "3-1-2-1",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论2：情感冲动与理性认识的对立",
+      "after": "认识论2：感性知觉与逻辑认识，对立于情绪冲动及其超越性取向",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0196"
+      ],
+      "locator": "Page6–7 L24–27",
+      "rationale": "补回讲者自行修订后的两端，避免将感觉全放在情感一侧。"
+    },
+    {
+      "code": "3-1-2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①在心理学中引入现象学，接受本质还原，不接受先验还原，悬置客观性和主体间性问题，用现象学方法研究不可还原的思维机制和本质性的意识结构之间的相互关系，以此澄清实证科学中的认识论机制，恢复近代科学引发的信仰危机。",
+      "after": "①在心理学中引入现象学，接受本质还原，不接受先验还原，悬置客观性和主体间性问题，用现象学方法研究不可还原的思维机制和本质性的意识结构之间的相互关系，以此澄清实证科学中的认识论机制，回应本讲所说的近代科学引发的信仰危机、重建精神信仰。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0197"
+      ],
+      "locator": "Page1–2 L9–12",
+      "rationale": "修正恢复危机的语义反向。"
+    },
+    {
+      "code": "3-1-2-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在场域论上，先验哲学与科学共同体所研究的科学理论一样，只是一种说法，因而是属于形而下的维度。而形而上的维度存在于精神和信仰中，只有信仰才包含了原初性的结构，主体通过第一人称的本质直观，从基本心理现象到达至高信仰中的原初现象，由此建构新的精神生活。",
+      "after": "②在场域论上，先验哲学与科学共同体所研究的科学理论一样，只是一种说法，因而是属于形而下的维度。而形而上的维度存在于精神和信仰中，本讲尤其重视信仰中具有启示性的原初结构，主体通过第一人称的本质直观，从基本心理现象到达至高信仰中的原初现象，由此建构新的精神生活。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0197"
+      ],
+      "locator": "Page1–4 L9–18",
+      "rationale": "移除正文不支持的排他量词。"
+    },
+    {
+      "code": "3-1-2-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在认识论上，认为先验哲学与实证科学都是人类中心主义的，妄图通过主体的思维直接抵达超越性的彼岸，而这个彼岸只有通过信念才能到达。",
+      "after": "③按本讲的解释，先验还原与实证主义都可能过分抬高主体的奠基能力。相对地，本质心理主义要求保留人的有限性，通过本质还原、反思以及分析综合等方法把握信念和心理生活的不可还原结构，并在聆受与主动重建中追求本真的精神生活。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0197"
+      ],
+      "locator": "Page5–8 L21–36",
+      "rationale": "补回方法中介，避免只凭信念即可抵达彼岸的简化。"
+    },
+    {
+      "code": "3-1-2-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②现象学的美学：美学对象(音乐、戏剧、摄影)直接就是美学现象，不同的美学对象具有不同的本质，这些本质性维度需要通过现象学直观获得，而且不能被还原到形上体系中，也不能被还原为实证的心理环节。",
+      "after": "②现象学的美学：美学对象(音乐、戏剧、绘画、景观)直接就是美学现象，不同的美学对象具有不同的本质，这些本质性维度需要通过现象学直观获得，而且不能被还原到形上体系中，也不能被还原为实证的心理环节。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0198"
+      ],
+      "locator": "Page5–7 L21–27",
+      "rationale": "改用本讲实际例子；不认定摄影本身不适用。"
+    },
+    {
+      "code": "3-1-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③盖格尔在晚年力图将对美学的现象学研究方法推广到超现象学的形而上学(相对论、量子力学)中，通过本质直观将超现象学的形而上学还原为本体论，然后通过哲学加以研究。",
+      "after": "③本讲认为盖格尔晚年试图把类似的研究方法拓展到相对论、量子力学等超出现象直接分析的领域，考察其研究对象、架构与本体论意义，再交由哲学研究。讲者同时明确，不能靠现象学直观推导其中复杂的数学和物理环节，而且这一工作未及完成。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0198"
+      ],
+      "locator": "Page2–4 L12–18；Page14 L48",
+      "rationale": "补回不能由直观推出物理理论及未完成的限定。"
+    },
+    {
+      "code": "3-1-2-4",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1：作为游戏的世界与可参与游戏的人类的二分",
+      "after": "本体论1：玩家与被玩者的连续性；人类可在游戏中参与世界的本体结构",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0199"
+      ],
+      "locator": "Page5–6 L21–24",
+      "rationale": "直接按本讲明确的一格定义纠正二分。"
+    },
+    {
+      "code": "3-1-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③与大他者博弈：在作为游戏的世界中，人是被玩弄的一方，但人也能通过主动设立并服从自己的游戏规则，从而为其赋予本体性，由此参与到作为超越者的上帝的游戏中。比如，在象棋中象不能过河，这个游戏规则本身是人的符号学拟质，但又是绝对的、僵硬的，这种人对物设立的游戏，就如同大他者对人设立的游戏，所以大他者的游戏也是同样的僵局性的、有限的、否定性的。由此，人可以通过辩证法的方式与大他者博弈。",
+      "after": "③与大他者博弈：在作为游戏的世界中，人是被玩弄的一方，但人也能通过主动设立并服从自己的游戏规则，从而为其赋予本体性，由此参与世界的游戏；本讲也允许不预设人格创造者，而将世界或其本体机制本身理解为游戏。比如，在象棋中象不能过河，这个游戏规则本身是人的符号学拟质，但又是绝对的、僵硬的，这种人对物设立的游戏，就如同大他者对人设立的游戏，所以大他者的游戏也是同样的僵局性的、有限的、否定性的。由此，人可以通过辩证法的方式与大他者博弈。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0199"
+      ],
+      "locator": "Page5–6 L21–24；Page12–14 L42–50",
+      "rationale": "补回正文明确的无创造者分支，避免强行宗教化。"
+    }
+  ]
+}

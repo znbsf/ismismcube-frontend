@@ -1,0 +1,1174 @@
+{
+  "batch": "06-manual-242",
+  "checked_on": "2026-11-13",
+  "review_scope": "五讲正文逐字段核对；课程解释与原典对照分开，未回听原音。",
+  "sources": [
+    {
+      "id": "m242-172",
+      "title": "0172_2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学_p4480",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0172_2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4480.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学/0172_2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学_p4480.md",
+      "sha256": "6a05d6ad1f916012797cbbe0a681ca88c9c84465cf46b484f7119c9d51879c3e",
+      "git_blob_sha": "71009229e5a2df03d941f8700d1cf2cd7bec8141",
+      "locator": "Page1–19 L9–81",
+      "verification_scope": "实际核读Page1–19 L9–81；排除下一讲溢出；未核原音、板书。"
+    },
+    {
+      "id": "m242-173",
+      "title": "0173_2-4-2-1_自然主义的规范论_经典布尔乔亚形而上学_约翰_穆勒的本体论_认识论与道德论_p4499",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2-1_%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89%E7%9A%84%E8%A7%84%E8%8C%83%E8%AE%BA_%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%BA%A6%E7%BF%B0_%E7%A9%86%E5%8B%92%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA_%E8%AE%A4%E8%AF%86%E8%AE%BA%E4%B8%8E%E9%81%93%E5%BE%B7%E8%AE%BA/0173_2-4-2-1_%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89%E7%9A%84%E8%A7%84%E8%8C%83%E8%AE%BA_%E7%BB%8F%E5%85%B8%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%BA%A6%E7%BF%B0_%E7%A9%86%E5%8B%92%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA_%E8%AE%A4%E8%AF%86%E8%AE%BA%E4%B8%8E%E9%81%93%E5%BE%B7%E8%AE%BA_p4499.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学/2-4-2-1_自然主义的规范论_经典布尔乔亚形而上学_约翰_穆勒的本体论_认识论与道德论/0173_2-4-2-1_自然主义的规范论_经典布尔乔亚形而上学_约翰_穆勒的本体论_认识论与道德论_p4499.md",
+      "sha256": "a772dcc8aed1f0a19af0d84d02e0179878cd1bcc3b7b562ff8ce8c42e5ce8ce1",
+      "git_blob_sha": "9189418633d118199f392b14331045cf90140c60",
+      "locator": "Page1–36 L9–140（L140仅本讲结束句，排除随后下一讲）",
+      "verification_scope": "实际核读Page1–36 L9–140（L140仅本讲结束句，排除随后下一讲）；排除下一讲溢出；未核原音、板书。"
+    },
+    {
+      "id": "m242-174",
+      "title": "0174_2-4-2-2_社会实证主义_现代社会学的形而上学背景是谁干的_涂尔干的局限与失败_p4535",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2-2_%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%83%8C%E6%99%AF%E6%98%AF%E8%B0%81%E5%B9%B2%E7%9A%84_%E6%B6%82%E5%B0%94%E5%B9%B2%E7%9A%84%E5%B1%80%E9%99%90%E4%B8%8E%E5%A4%B1%E8%B4%A5/0174_2-4-2-2_%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%83%8C%E6%99%AF%E6%98%AF%E8%B0%81%E5%B9%B2%E7%9A%84_%E6%B6%82%E5%B0%94%E5%B9%B2%E7%9A%84%E5%B1%80%E9%99%90%E4%B8%8E%E5%A4%B1%E8%B4%A5_p4535.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学/2-4-2-2_社会实证主义_现代社会学的形而上学背景是谁干的_涂尔干的局限与失败/0174_2-4-2-2_社会实证主义_现代社会学的形而上学背景是谁干的_涂尔干的局限与失败_p4535.md",
+      "sha256": "78e9f62d195c3b2f2f0a037541ccfba942178405fe8dc68884dfaba57a6e5f28",
+      "git_blob_sha": "aca404360914b0c276c72b7ef6c777f10e38fc9b",
+      "locator": "Page1–45 L9–167",
+      "verification_scope": "实际核读Page1–45 L9–167；排除下一讲溢出；未核原音、板书。"
+    },
+    {
+      "id": "m242-175",
+      "title": "0175_2-4-2-3_自然神论的实证主义_斯宾塞的绅士哲学_绝非社会达尔文主义_亦非安那其先驱_p4580",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2-3_%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA%E7%9A%84%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E6%96%AF%E5%AE%BE%E5%A1%9E%E7%9A%84%E7%BB%85%E5%A3%AB%E5%93%B2%E5%AD%A6_%E7%BB%9D%E9%9D%9E%E7%A4%BE%E4%BC%9A%E8%BE%BE%E5%B0%94%E6%96%87%E4%B8%BB%E4%B9%89_%E4%BA%A6%E9%9D%9E%E5%AE%89%E9%82%A3%E5%85%B6%E5%85%88%E9%A9%B1/0175_2-4-2-3_%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA%E7%9A%84%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E6%96%AF%E5%AE%BE%E5%A1%9E%E7%9A%84%E7%BB%85%E5%A3%AB%E5%93%B2%E5%AD%A6_%E7%BB%9D%E9%9D%9E%E7%A4%BE%E4%BC%9A%E8%BE%BE%E5%B0%94%E6%96%87%E4%B8%BB%E4%B9%89_%E4%BA%A6%E9%9D%9E%E5%AE%89%E9%82%A3%E5%85%B6%E5%85%88%E9%A9%B1_p4580.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学/2-4-2-3_自然神论的实证主义_斯宾塞的绅士哲学_绝非社会达尔文主义_亦非安那其先驱/0175_2-4-2-3_自然神论的实证主义_斯宾塞的绅士哲学_绝非社会达尔文主义_亦非安那其先驱_p4580.md",
+      "sha256": "8190de034b9d7335a4cfa8ec49a269e2d072a3ed9d41f47c197e363f3963f94e",
+      "git_blob_sha": "bd85b89c814fd79f914f819ba36209af0acfb5e9",
+      "locator": "Page1–27 L9–168",
+      "verification_scope": "实际核读Page1–27 L9–168；排除下一讲溢出；未核原音、板书。"
+    },
+    {
+      "id": "m242-176",
+      "title": "0176_2-4-2-4_科学的实证主义_马赫的蛇皮哲学_蕴含着巨大危险_被逻辑实证主义误解_也算是因祸得福_p4607",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2-4_%E7%A7%91%E5%AD%A6%E7%9A%84%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E9%A9%AC%E8%B5%AB%E7%9A%84%E8%9B%87%E7%9A%AE%E5%93%B2%E5%AD%A6_%E8%95%B4%E5%90%AB%E7%9D%80%E5%B7%A8%E5%A4%A7%E5%8D%B1%E9%99%A9_%E8%A2%AB%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89%E8%AF%AF%E8%A7%A3_%E4%B9%9F%E7%AE%97%E6%98%AF%E5%9B%A0%E7%A5%B8%E5%BE%97/0176_2-4-2-4_%E7%A7%91%E5%AD%A6%E7%9A%84%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E9%A9%AC%E8%B5%AB%E7%9A%84%E8%9B%87%E7%9A%AE%E5%93%B2%E5%AD%A6_%E8%95%B4%E5%90%AB%E7%9D%80%E5%B7%A8%E5%A4%A7%E5%8D%B1%E9%99%A9_%E8%A2%AB%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89%E8%AF%AF%E8%A7%A3_%E4%B9%9F%E7%AE%97%E6%98%AF%E5%9B%A0%E7%A5%B8%E5%BE%97%E7%A6%8F_p4607.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-4_反形而上学_学哲学必须绕开的陷阱_嘴巴上不承认自己是形而上学的形而上学/2-4-2_实证主义_为人性筑起圣坛_科学哲学_社会学创始人孔德的形而上学/2-4-2-4_科学的实证主义_马赫的蛇皮哲学_蕴含着巨大危险_被逻辑实证主义误解_也算是因祸得/0176_2-4-2-4_科学的实证主义_马赫的蛇皮哲学_蕴含着巨大危险_被逻辑实证主义误解_也算是因祸得福_p4607.md",
+      "sha256": "da702727ce9216e78bac041eaa0763f5adad9662435880c05e298f7eb69bd754",
+      "git_blob_sha": "52f303d9e0f4eabad437391f30ee81f6f25c2aad",
+      "locator": "Page1–26 L9–84（L84仅结束句，排除随后下一讲）",
+      "verification_scope": "实际核读Page1–26 L9–84（L84仅结束句，排除随后下一讲）；排除下一讲溢出；未核原音、板书。"
+    },
+    {
+      "id": "m242-mill-utility",
+      "title": "功利主义：第二章快乐的质量",
+      "author": "John Stuart Mill",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "页面署第七版，London: Longmans, Green, and Co., 1879；Project Gutenberg电子文本，未核纸本",
+      "locator": "Chapter II，从Human beings have faculties more elevated到It is better to be a human being dissatisfied段；另读From this verdict至whole sentient creation段",
+      "verification_scope": "实际核读以上快乐质量、合格判断者和全体幸福段；未通读全书。"
+    },
+    {
+      "id": "m242-durkheim-rules",
+      "title": "社会学方法的准则：第一章什么是社会事实",
+      "author": "Émile Durkheim",
+      "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/2111-home/CD/TheoryClass/Durkheim%20-%20Division%20of%20Labor_files/Durkheim%20-%20Social%20Facts.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "页面署Steven Lukes编，W. D. Halls译，New York: Free Press, 1982, pp.50–59",
+      "translator": "W. D. Halls",
+      "locator": "Chapter I全文及四条注释",
+      "verification_scope": "实际核读本页第一章及注释；未核全书。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "2-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①推崇聚焦于人的社会学，认为科学中重要的不是其内容而是作为人的活动的研究方法，同理，一切伦理道德也都以人的视角建构，所以伦理学归根到底也是针对人的社会学。社会学是高于一切科学的终极哲学，一切科学的最终目的都是发展社会学。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "科学方法、社会学统摄和伦理学的人类视角均有文本依据，保留课程归属。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page1–2 L9–14；Page5–10 L29–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②是经验主义的，认为实证主义是一个人类脱离神学和形而上学并转向外部经验和事实的的伟大时代，但对人性加以宗教化崇拜(孔德创立了人道教)。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "神学/形而上学/实证阶段与人道教均出现。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page3–4 L19–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③认为人类的伟大力量来自于女性和无产阶级(Proletariat)，女性代表的艺术和爱的维度，是人性的超越性的体现，而无产阶级是“自发的实证主义者”，能实事求是地学习经验，主动寻求恰当的工具和方法去组织理论，而不是停留在形而上学中(人民群众是天然的理论家)，所以实证主义者也只不过是理论能力稍强的无产阶级。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲确实这样解释女性和无产阶级的地位；属于讲者重构，已加可见限定。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page11–12 L53–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④虽然孔德的哲学有一定的解放性，但是他的哲学的出发点是作为整体的人类，设想了一个统一、内部无矛盾的人性，并把这个人性抬到太高的位置，以此压制了主体性(Subjective)的优先性。",
+          "status": "needs_precision",
+          "finding": "“内部无矛盾的人性”是摘要进一步概括；改为本讲明确批评的抽象人类视角与具体主体关系。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page10 L50；Page15–16 L65–68"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 形而下(自发的、散漫的秩序)与形而上(人类的伟大力量)的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "自发秩序与人类伟大力量的对立有明确文本。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page11 L53"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 无法思考、无可判断",
+          "status": "needs_precision",
+          "finding": "不可判断限于本体论承诺，原文写成全面无法思考过宽。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page13–14 L59–62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 科学与社会学的二分",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "科学与社会学的分层明确，不是二者毫无联系。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page1 L9；Page5 L29；Page8 L44"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本条为课程对孔德的重构。社会学层级、人道教以及女性、无产阶级的角色均按讲者表述记录；其中性别评价和阶级能力比较不作为独立史实或群体属性。格位4表示本讲拒绝建构本体论，不表示一切问题都不可思考。",
+          "source_ids": [
+            "m242-172"
+          ],
+          "locator": "Page1–19 L9–81"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "code": "2-4-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①在场域论上，穆勒的共同体的伦理规范(Ethos)指的是19世纪的中上层布尔乔亚共同体的(学术)语言和苦乐秩序的规范，但是穆勒把这个规范宣称是普遍人类(Universal Human)的规范，代表了当时英国的新兴资产阶级的形而上学。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "共同体语言和苦乐标准、阶级归属在本讲明确，但须读作课程批判。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page1–4 L9–19；Page15 L62；Page24–26 L94–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②本体论上的自然主义：反对康德的《纯粹理性批判》中的先天认识，认为所谓的先天认识，只不过是人对物质的某种自然种类(Natural kinds)的直觉，而人的认识只不过是对这些自然种类之间的差异的经验性统计和归纳，所以所有的科学知识(包括数学和几何学知识)都是概率性的。同理，先天的时空官能也不存在，人对时空的感受也只不过是在共同体生活中潜移默化习得的语言用法和想象习惯。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "自然类、经验归纳和数学概率性均见本讲；时空习得说由下一讲回顾穆勒补证，不能误标为本讲直接句。",
+          "source_ids": [
+            "m242-173",
+            "m242-174"
+          ],
+          "locator": "Page4–10 L19–44；Page17–21 L68–80；0174 Page4 L25",
+          "subclaim_checks": [
+            {
+              "claim": "反先天与自然类",
+              "finding": "本讲有相应论述。",
+              "source_ids": [
+                "m242-173"
+              ],
+              "locator": "Page4–10 L19–44"
+            },
+            {
+              "claim": "经验归纳与数学",
+              "finding": "讲者据此解释概率性，不是实际数学定理审查。",
+              "source_ids": [
+                "m242-173"
+              ],
+              "locator": "Page17–21 L68–80"
+            },
+            {
+              "claim": "时空来自语言习得",
+              "finding": "本讲未定位，0174 Page4 L25回顾穆勒时有该说法。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "0174 Page4 L25"
+            }
+          ]
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③在认识论上，作为经验主义的自然主义者，认为人的心灵也是由物质构成，人对物质的一切认识都是经验性的，除此之外，任何基于纯粹的分析的知识只是一种说辞，是没有任何意义的；作为观念论者，认为人的认识是中介性的(即2-4-1-4中的“连接”)，只能通过对经验的归纳获得间接的、无法坐实的认识，怀疑人对物质世界和自我心灵的体验的真实性。",
+          "status": "needs_precision",
+          "finding": "分析命题不增加经验知识不能扩写成任何意义都没有；并将自然主义和中介性解释限定为课程。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page11–21 L47–80"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④在目的论上，单纯的认为存在普遍的幸福(Pleasure)，这种幸福可以跨主体性，即所有人的幸福都是同一种幸福，这种普遍的幸福的标准来自于布尔乔亚共同体，既是未加反思的，又与穆勒自己的认识论相矛盾(所有认识都是经验性的，对幸福的认识也依赖于经验，不存在无条件的普遍的幸福)。",
+          "status": "needs_precision",
+          "finding": "课程确实批评苦乐标准普遍化，但穆勒原典明确讨论快乐质量及种类，不能写成作者认为所有幸福同质。",
+          "source_ids": [
+            "m242-173",
+            "m242-mill-utility"
+          ],
+          "locator": "Page24–29 L94–114；《功利主义》第二章快乐质量及合格判断者段"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 经验性的表象(Appearances)与共同体的伦理规范(Ethos)的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "表象与共同体伦理规范对立明确。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page2–4 L14–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 物质的自然种类(Natural kinds)",
+          "status": "needs_precision",
+          "finding": "自然类是讲者保留的最小本体论剩余，不宜表述为已经直接认定物质种类。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page5–10 L24–44"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 经验主义的自然主义与观念论的二分",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "自然主义与观念论两侧明确。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page11 L47；Page21 L80"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 追求幸福(Pleasure)",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "幸福目的对应1而非3为本讲判断，不是穆勒自用的编号。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page24–26 L94–104"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本讲以英国资产阶级共同体的规范来批判穆勒，属于讲者解释，不据此认定穆勒本人公开宣称阶级利益。社区章节标题出现“规范论”，但正文和视频题名支持“观念论”，故不凭整理标题改名。穆勒《功利主义》明确区分快乐质量；课程批评与作者原说须并读。",
+          "source_ids": [
+            "m242-173"
+          ],
+          "locator": "Page1–36 L9–140（L140仅本讲结束句，排除随后下一讲）"
+        }
+      ],
+      "reading_links": [
+        {
+          "source_id": "m242-mill-utility",
+          "relation": "editorial_reading",
+          "locator": "第二章快乐的质量、合格判断者与最大幸福段",
+          "reason": "校正“所有快乐同质”的误读，同时保留课程对共同体标准普遍化的批评。",
+          "verification_scope": "已读所列段落；不认定课程使用该版本。"
+        }
+      ]
+    },
+    {
+      "code": "2-4-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①实证主义的社会学：孔德的实证主义认为社会学就是终极哲学，而涂尔干认为社会学(Sociology)是与其他学科并列的独立的学科。涂尔干的社会学的研究对象是社会事实(Social Facts)，社会学就是用实证的方法研究社会事实的学问。反对赋予任何科学的研究对象本体论地位，社会学所研究的社会事实也没有本体论地位，所有社会事实都是统计性和概率性的，不能把社会事实还原为确定的因素，而只能把某个社会事实解释为其他周围的社会事实，所以社会事实只是一种拟制，只是事物对人产生的外部约束性(External Constraints)(比如一个人阅读了一篇讽刺漫画而忍不住发笑)。这些事物之所以能对人产生影响，仅仅是因为它们在公共话语中具有这样的表征(比如讽刺漫画中的形象在公共话语中具有某种讽刺含义)，这些理念(Ideas)的集合就是集体意识(Collective Consciousness)，由此构成了共同体的道德、规范和禁忌，所以一些失范(犯罪、自杀等)对于集体意识的整合是必要的。涂尔干是有机论者，认为整体并不是其部分的机械叠加，社会事实也并不是各种社会因素的机械叠加，而是额外产生了内部的有机秩序，整个人类社会也是如此从中世纪的机械的社会向现代的有机的社会发展。",
+          "status": "needs_precision",
+          "finding": "旧长段混同方法论统计与否定社会实在，漫画例未定位；改用本讲国旗例，并保留原典对社会事实独立性的界定。",
+          "source_ids": [
+            "m242-174",
+            "m242-durkheim-rules"
+          ],
+          "locator": "Page1–14 L9–59；Page21–25 L86–98；《社会学方法的准则》第一章",
+          "subclaim_checks": [
+            {
+              "claim": "独立学科",
+              "finding": "区别孔德和涂尔干。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page1–2 L9–15"
+            },
+            {
+              "claim": "其他事实解释事实",
+              "finding": "有明确表述。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page3 L18–22"
+            },
+            {
+              "claim": "统计方法",
+              "finding": "有概率表述，但不能代替全部实在性立场。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page3–5 L22–28"
+            },
+            {
+              "claim": "外部强制",
+              "finding": "以国旗行为等说明，不是纯个人任意想象。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page6 L31–35；Page21–22 L86–89"
+            },
+            {
+              "claim": "漫画例",
+              "finding": "通读本讲未定位，替换为实际国旗例。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page1–45 L9–167"
+            },
+            {
+              "claim": "集体意识",
+              "finding": "在约束、共同体道德处展开。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page6 L35"
+            },
+            {
+              "claim": "犯罪与自杀",
+              "finding": "讲者作功能性解释；摘要原先一概必要过强。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page7 L38；Page9 L44；Page25 L98"
+            },
+            {
+              "claim": "有机联系",
+              "finding": "整体非机械相加，但后来撤回简单社会大于个人。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page9–14 L44–59"
+            },
+            {
+              "claim": "历史转变",
+              "finding": "课程以机械/有机说明，非完成全部社会史验证。",
+              "source_ids": [
+                "m242-174"
+              ],
+              "locator": "Page10–12 L47–53"
+            }
+          ]
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②涂尔干的社会学具有一定的辩证张力，但是过于依赖实证主义的方法，虽然意识到社会就是一系列社会事实，这些社会事实是通过主体的社会行动设立的，但是他没有完成社会学的先验转向，无法将主体性、主体间性等意向性结构放入社会学中，故而无法把对社会事实的研究转化为主动的社会行动。",
+          "status": "needs_precision",
+          "finding": "先验转向及行动能力缺失为讲者评价，不作事实断言。",
+          "source_ids": [
+            "m242-174"
+          ],
+          "locator": "Page18 L77；Page23 L92；Page35 L137"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 第一人称的实证的经验感受(形而下)与第三人称的实证的社会实在(Social Realism)(形而上)的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "两种视角及社会实在主义均明确。",
+          "source_ids": [
+            "m242-174"
+          ],
+          "locator": "Page20–24 L83–95"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 无本体论、一切都是实证的统计性事实",
+          "status": "needs_precision",
+          "finding": "本讲的4不应抹掉其承认社会事实实在性的一侧；原典亦强调独立于个别表现。",
+          "source_ids": [
+            "m242-174",
+            "m242-durkheim-rules"
+          ],
+          "locator": "Page21 L86；Page28 L107；《准则》第一章"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 第一人称的体验的视角与社会学家的统计的视角的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "第一人称体验与统计考察对立有明确文本。",
+          "source_ids": [
+            "m242-174"
+          ],
+          "locator": "Page28–30 L107–113"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 基于认同的社会整合(Social Integration)与基于暴力的社会规训(Social Regulation)的二分",
+          "status": "needs_precision",
+          "finding": "讲者后文区分古代惩罚和现代弥合性法律；只写暴力遗漏后续限定。",
+          "source_ids": [
+            "m242-174"
+          ],
+          "locator": "Page33–34 L124–134；Page38–40 L146–152"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "本讲既以统计性解释本体论4，又承认社会事实具有强制性和社会实在性，不能缩成“社会事实只是虚构”。讲者后来撤回简单的“社会大于个人”和“你好我好大家好”措辞。关于犯罪或自杀的功能论、未完成先验转向及行动局限属于本讲解释，不能直接用作个体行为建议或已确证的学术史结论。",
+          "source_ids": [
+            "m242-174"
+          ],
+          "locator": "Page1–45 L9–167"
+        }
+      ],
+      "reading_links": [
+        {
+          "source_id": "m242-durkheim-rules",
+          "relation": "editorial_reading",
+          "locator": "第一章全篇，尤其外部强制、统计方法和结尾定义",
+          "reason": "对照社会事实的外在性、独立性与统计方法；统计作为识别手段不等于对象只是统计虚构。",
+          "verification_scope": "已读本章及注释；未覆盖第三章正常与病态的完整论证。"
+        }
+      ]
+    },
+    {
+      "code": "2-4-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①支持进化论，认为存在“原子→微粒→无机物→有机物→植物→动物→人→社会→完美社会”的进化链条，这种进化论不仅仅是生物学上的进化论，而是一种形而上学意义上的进化论。",
+          "status": "needs_precision",
+          "finding": "链条次序写错：文本为粒子、原子、分子，而非原子到微粒；改正并注明课程图式。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page3 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②在本体论上，事物不断的复合和解离，失去先前的均衡状态而发生进化，这个过程背后仿佛有某种进化之力在推动，但是这种力本身只是事物的进化的运动的体现，所以进化之力只不过是对事物的进化的拟制，归根到底不存在任何本体性的力量，存在的只有整个世界的不断进化，最终达到万事万物尽善尽美。",
+          "status": "needs_precision",
+          "finding": "本讲把力解释为物质间失衡和运动的描述；强调终极存在不可讨论，非独立证明一切力量不存在。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page6–15 L79–132",
+          "subclaim_checks": [
+            {
+              "claim": "复合解离",
+              "finding": "明确两种力量。",
+              "source_ids": [
+                "m242-175"
+              ],
+              "locator": "Page8 L101–109"
+            },
+            {
+              "claim": "失衡运动",
+              "finding": "明确力作为不均衡描述。",
+              "source_ids": [
+                "m242-175"
+              ],
+              "locator": "Page10–14 L117–129"
+            },
+            {
+              "claim": "有力物质",
+              "finding": "后文自我修订术语。",
+              "source_ids": [
+                "m242-175"
+              ],
+              "locator": "Page15 L132"
+            },
+            {
+              "claim": "最终均衡",
+              "finding": "完美预设且区别热寂。",
+              "source_ids": [
+                "m242-175"
+              ],
+              "locator": "Page15–16 L132–135"
+            }
+          ]
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③在认识论上，用进化论调和了实在论(Realism)与实证主义，虽然实在论是不能被实证的，但是实在论的内容是在一代代的共同体的知识传承过程中经过进化和淘汰而最终胜出的，所以它已经是最可靠最可信的，所以实在论的内容是实证主义可采信的。",
+          "status": "needs_precision",
+          "finding": "本讲多次说“临时相信”“暂且”而非最可靠最可信的最终结论。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page4–5 L53–71；Page9 L114"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④把进化论运用到人类社会的发展，认为人类社会是从基于血缘的机械性的原始社会，进化到依靠暴力的军事社会，再进化到依靠生产的产业社会，最后进化到每个人都自主遵守法律道德、维护和谐安宁的自由社会。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "原始、军事、产业、自主自由四阶段在本讲明确；历史必然性只保留为其图景。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page18–26 L141–165"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 可知的(Knowable)与不可知的(Unknowable)的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "可知经验与不可知背景均明确。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page1–2 L18–34"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 无本体论、作为拟制的进化之力(Force)",
+          "status": "needs_precision",
+          "finding": "本体论4应保留不可讨论及有力物质的后续修订，不以虚构力量代替。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page6 L79–85；Page14–15 L129–132"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 非直观的认识(通过经验和理智)与直观的认识(从共同体的知识中继承)的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "理智与种族知识的直观为明确对立；后者遗传解释未获现代科学证实。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page16–17 L135–138"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 进化(Evolve)(调和复合(compound)与解离(dissolve)的二分)",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "进化调和复合和解离，最后均衡是本讲明确配置。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page8 L103–104；Page14–15 L129–132"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "以下为课程对斯宾塞的解释。进化必然走向完美、心理因子遗传、是否属于社会达尔文主义或无政府主义先驱等历史与理论判断仍归讲者；未将其当作现代生物学结论。实在论在本讲是暂时可采信的，不是已经证成不可错。",
+          "source_ids": [
+            "m242-175"
+          ],
+          "locator": "Page1–27 L9–168"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "code": "2-4-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①在场域论上，虽然是实证主义，但是认为普通人第一人称体验的经验世界是感官性的、刺激性的、失衡的，而形而上的科学世界是关系性的、稳定的、均衡的。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "失衡经验与均衡关系两侧明确，属于课程分类。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②科学经济原则(思维经济原理)：人获得的经验性的感官刺激，不是对刺激本身的一阶反馈，而是二阶反馈，是刺激产生的感官要素之间的差异关系打破了均衡稳定状态。比如，人的视神经维持着一种均衡的稳态，而物体边缘的颜色和纵深的变化能打破这种均衡，所以人能很容易地识别物体的边缘，这种维持稳态的本能有利于生存，所以在进化论上是经济的。同理，对科学的思维也要构建一种均衡和稳态，最终把科学精简为如同视觉一样的人的生存本能(Human of Science)，这对人类种群在进化中的长久生存而言是经济的。",
+          "status": "needs_precision",
+          "finding": "原摘要把均衡维持写成打破均衡，且加“纵深”未定位；改写本讲的趋势延续和差异反馈。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page10–17 L36–57；Page20–22 L66–72",
+          "subclaim_checks": [
+            {
+              "claim": "二阶反馈",
+              "finding": "本讲以差异和趋势而非直接刺激说明。",
+              "source_ids": [
+                "m242-176"
+              ],
+              "locator": "Page11–13 L39–45"
+            },
+            {
+              "claim": "视觉均衡",
+              "finding": "原文强调延续趋势和调节，不是仅仅打破稳态。",
+              "source_ids": [
+                "m242-176"
+              ],
+              "locator": "Page12–14 L42–48"
+            },
+            {
+              "claim": "纵深与边缘",
+              "finding": "纵深例未定位，替换为实际马赫带内容；原图未核。",
+              "source_ids": [
+                "m242-176"
+              ],
+              "locator": "Page9–13 L33–45"
+            },
+            {
+              "claim": "生物经济",
+              "finding": "精简服务稳态而非越少越好。",
+              "source_ids": [
+                "m242-176"
+              ],
+              "locator": "Page14–17 L48–57"
+            },
+            {
+              "claim": "科学精简",
+              "finding": "有损失的重组并服务生存，非还原为世界本体。",
+              "source_ids": [
+                "m242-176"
+              ],
+              "locator": "Page20–22 L66–72"
+            }
+          ]
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③马赫把科学当成进化的一环，暗含了一种种族主义，即一个种族的生存样态越是与经济的、稳固的科学相结合，就越应该获得更多的社会资源和生存空间，也越应当在进化中淘汰其他种族。",
+          "status": "needs_precision",
+          "finding": "原文为讲者推论的政治风险，而非可直接归给马赫本人的种族纲领。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page23–25 L75–81"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 失衡的经验世界与均衡的科学世界的对立",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "对应经验/科学场域的明确对立。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page7 L27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4 无可还原的要素(Elements)",
+          "status": "needs_precision",
+          "finding": "原摘要“无可还原”与本讲要素还能还原但无法体验不符；且要素非本体。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page8–9 L30–33；Page18–21 L60–69"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 经验(感官内容)与经验间的差异关系(科学)的二分",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "经验与联结关系明确，后者不仅直接刺激内容。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page7–9 L27–33；Page15–17 L51–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 生存",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者明确给4，意指仅求生存而无另一个崇高终点；不等于全无功能目的。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page17 L57；Page22–25 L72–81"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "马赫与阿芬那留斯的前/后康德划分、“背后混乱”的解释、科学进化与民族竞争的关联，均是讲者的重构和批评。马赫带的神经机制与本体论不能互相直接证明；未核原板书图，也未把课程的政治风险推论写成马赫本人的种族政策。",
+          "source_ids": [
+            "m242-176"
+          ],
+          "locator": "Page1–26 L9–84（L84仅结束句，排除随后下一讲）"
+        }
+      ],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "2-4-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④虽然孔德的哲学有一定的解放性，但是他的哲学的出发点是作为整体的人类，设想了一个统一、内部无矛盾的人性，并把这个人性抬到太高的位置，以此压制了主体性(Subjective)的优先性。",
+      "after": "④讲者批评孔德把“人类视角”置于具体第一人称主体之上：社会学的总括性可能驯服主体性；他主张不能要求底层个人先代表抽象人类发言。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-172"
+      ],
+      "locator": "Page10 L50；Page15–16 L65–68",
+      "rationale": "“内部无矛盾的人性”是摘要进一步概括；改为本讲明确批评的抽象人类视角与具体主体关系。"
+    },
+    {
+      "code": "2-4-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4 无法思考、无可判断",
+      "after": "本体论4：拒绝预设物质本源等本体，不建构可直接把握的本体论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-172"
+      ],
+      "locator": "Page13–14 L59–62",
+      "rationale": "不可判断限于本体论承诺，原文写成全面无法思考过宽。"
+    },
+    {
+      "code": "2-4-2-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在认识论上，作为经验主义的自然主义者，认为人的心灵也是由物质构成，人对物质的一切认识都是经验性的，除此之外，任何基于纯粹的分析的知识只是一种说辞，是没有任何意义的；作为观念论者，认为人的认识是中介性的(即2-4-1-4中的“连接”)，只能通过对经验的归纳获得间接的、无法坐实的认识，怀疑人对物质世界和自我心灵的体验的真实性。",
+      "after": "③本讲把穆勒的自然主义解释为不诉诸先天知识，并把纯分析命题看成对说法的展开，不提供独立于经验的新知识；把其观念论解释为认识总经由经验和归纳中介，无法直接坐实表象背后的物质世界或自我。二者构成课程所说的认识论张力。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-173"
+      ],
+      "locator": "Page11–21 L47–80",
+      "rationale": "分析命题不增加经验知识不能扩写成任何意义都没有；并将自然主义和中介性解释限定为课程。"
+    },
+    {
+      "code": "2-4-2-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在目的论上，单纯的认为存在普遍的幸福(Pleasure)，这种幸福可以跨主体性，即所有人的幸福都是同一种幸福，这种普遍的幸福的标准来自于布尔乔亚共同体，既是未加反思的，又与穆勒自己的认识论相矛盾(所有认识都是经验性的，对幸福的认识也依赖于经验，不存在无条件的普遍的幸福)。",
+      "after": "④讲者批评穆勒把共同体的苦乐标准普遍化，认为这与其经验和中介性原则发生冲突；这是课程的批判性重述，不能据此说穆勒不区分快乐的种类与质量。《功利主义》第二章明确讨论这种区别，详见原典对照。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-173",
+        "m242-mill-utility"
+      ],
+      "locator": "Page24–29 L94–114；《功利主义》第二章快乐质量及合格判断者段",
+      "rationale": "课程确实批评苦乐标准普遍化，但穆勒原典明确讨论快乐质量及种类，不能写成作者认为所有幸福同质。"
+    },
+    {
+      "code": "2-4-2-1",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4 物质的自然种类(Natural kinds)",
+      "after": "本体论4：不直接断言表象背后的物质本体；自然类只保留最小的本体论剩余（课程解释）。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-173"
+      ],
+      "locator": "Page5–10 L24–44",
+      "rationale": "自然类是讲者保留的最小本体论剩余，不宜表述为已经直接认定物质种类。"
+    },
+    {
+      "code": "2-4-2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①实证主义的社会学：孔德的实证主义认为社会学就是终极哲学，而涂尔干认为社会学(Sociology)是与其他学科并列的独立的学科。涂尔干的社会学的研究对象是社会事实(Social Facts)，社会学就是用实证的方法研究社会事实的学问。反对赋予任何科学的研究对象本体论地位，社会学所研究的社会事实也没有本体论地位，所有社会事实都是统计性和概率性的，不能把社会事实还原为确定的因素，而只能把某个社会事实解释为其他周围的社会事实，所以社会事实只是一种拟制，只是事物对人产生的外部约束性(External Constraints)(比如一个人阅读了一篇讽刺漫画而忍不住发笑)。这些事物之所以能对人产生影响，仅仅是因为它们在公共话语中具有这样的表征(比如讽刺漫画中的形象在公共话语中具有某种讽刺含义)，这些理念(Ideas)的集合就是集体意识(Collective Consciousness)，由此构成了共同体的道德、规范和禁忌，所以一些失范(犯罪、自杀等)对于集体意识的整合是必要的。涂尔干是有机论者，认为整体并不是其部分的机械叠加，社会事实也并不是各种社会因素的机械叠加，而是额外产生了内部的有机秩序，整个人类社会也是如此从中世纪的机械的社会向现代的有机的社会发展。",
+      "after": "①本讲区分孔德的总括性社会学与涂尔干作为独立学科的社会学，强调以其他社会事实解释社会事实。讲者一方面用统计和概率说明实证方法，另一方面承认社会事实对个人的外部强制及社会实在性；不能因此概括为社会事实全是虚构。本讲以国旗面前的肃立等行动说明集体意义和规范。它将犯罪、自杀等议题纳入社会整合的讨论，但这不等于认定所有失范都必要或值得赞成。关于机械联系向有机联系的转变，本讲强调部分间新生的关系，并随后撤回简单的“社会大于个人”说法。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-174",
+        "m242-durkheim-rules"
+      ],
+      "locator": "Page1–14 L9–59；Page21–25 L86–98；《社会学方法的准则》第一章",
+      "rationale": "旧长段混同方法论统计与否定社会实在，漫画例未定位；改用本讲国旗例，并保留原典对社会事实独立性的界定。"
+    },
+    {
+      "code": "2-4-2-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②涂尔干的社会学具有一定的辩证张力，但是过于依赖实证主义的方法，虽然意识到社会就是一系列社会事实，这些社会事实是通过主体的社会行动设立的，但是他没有完成社会学的先验转向，无法将主体性、主体间性等意向性结构放入社会学中，故而无法把对社会事实的研究转化为主动的社会行动。",
+      "after": "②讲者认为涂尔干保留了社会事实之间的张力，却未把主体性、主体间性纳入先验反思，因此无法由实证研究直接推出主动改变社会的实践。这是课程对其方法边界的评价，不是对涂尔干全部著作或社会学实际作用的独立结论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-174"
+      ],
+      "locator": "Page18 L77；Page23 L92；Page35 L137",
+      "rationale": "先验转向及行动能力缺失为讲者评价，不作事实断言。"
+    },
+    {
+      "code": "2-4-2-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4 无本体论、一切都是实证的统计性事实",
+      "after": "本体论4：以实证、统计方法处理社会事实，不建构终极本体；这不等于否认社会现实及其外部强制（课程解释）。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-174",
+        "m242-durkheim-rules"
+      ],
+      "locator": "Page21 L86；Page28 L107；《准则》第一章",
+      "rationale": "本讲的4不应抹掉其承认社会事实实在性的一侧；原典亦强调独立于个别表现。"
+    },
+    {
+      "code": "2-4-2-2",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论2 基于认同的社会整合(Social Integration)与基于暴力的社会规训(Social Regulation)的二分",
+      "after": "目的论2：社会整合与认同，和社会规范与约束的张力；后者包含道德、法律及弥合修补功能，并非只有暴力（课程解释）。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-174"
+      ],
+      "locator": "Page33–34 L124–134；Page38–40 L146–152",
+      "rationale": "讲者后文区分古代惩罚和现代弥合性法律；只写暴力遗漏后续限定。"
+    },
+    {
+      "code": "2-4-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①支持进化论，认为存在“原子→微粒→无机物→有机物→植物→动物→人→社会→完美社会”的进化链条，这种进化论不仅仅是生物学上的进化论，而是一种形而上学意义上的进化论。",
+      "after": "①本讲以“粒子→原子→分子→无机物→有机物→植物→动物→人类→社会→完美的人与社会”概括斯宾塞的全系进化图景：它不限于生物学，而扩展为整个世界的形而上学进程。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-175"
+      ],
+      "locator": "Page3 L42–45",
+      "rationale": "链条次序写错：文本为粒子、原子、分子，而非原子到微粒；改正并注明课程图式。"
+    },
+    {
+      "code": "2-4-2-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，事物不断的复合和解离，失去先前的均衡状态而发生进化，这个过程背后仿佛有某种进化之力在推动，但是这种力本身只是事物的进化的运动的体现，所以进化之力只不过是对事物的进化的拟制，归根到底不存在任何本体性的力量，存在的只有整个世界的不断进化，最终达到万事万物尽善尽美。",
+      "after": "②本讲把复合与解离、机械结构与有机结构的变化解释为进化。力是物质间不均衡及运动的描述，后文改写为“带有力的物质”，而不把力当成可直接把握的独立本体。最终均衡被讲者理解为完美有机状态，并明确区别于热寂；这是该体系的预设，不是已获实证的宇宙结局。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-175"
+      ],
+      "locator": "Page6–15 L79–132",
+      "rationale": "本讲把力解释为物质间失衡和运动的描述；强调终极存在不可讨论，非独立证明一切力量不存在。"
+    },
+    {
+      "code": "2-4-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在认识论上，用进化论调和了实在论(Realism)与实证主义，虽然实在论是不能被实证的，但是实在论的内容是在一代代的共同体的知识传承过程中经过进化和淘汰而最终胜出的，所以它已经是最可靠最可信的，所以实在论的内容是实证主义可采信的。",
+      "after": "③讲者认为斯宾塞以进化论调和实证主义与实在论：人们可以暂时采信在生活和进化中有效的实在论观念，直到出现更好的解释。这是实用与存续意义上的采信，仍保留终极实在不可知的限定。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-175"
+      ],
+      "locator": "Page4–5 L53–71；Page9 L114",
+      "rationale": "本讲多次说“临时相信”“暂且”而非最可靠最可信的最终结论。"
+    },
+    {
+      "code": "2-4-2-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4 无本体论、作为拟制的进化之力(Force)",
+      "after": "本体论4：力或“带有力的物质”作为运动与失衡的描述，其终极存在方式不可讨论（课程解释）。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-175"
+      ],
+      "locator": "Page6 L79–85；Page14–15 L129–132",
+      "rationale": "本体论4应保留不可讨论及有力物质的后续修订，不以虚构力量代替。"
+    },
+    {
+      "code": "2-4-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②科学经济原则(思维经济原理)：人获得的经验性的感官刺激，不是对刺激本身的一阶反馈，而是二阶反馈，是刺激产生的感官要素之间的差异关系打破了均衡稳定状态。比如，人的视神经维持着一种均衡的稳态，而物体边缘的颜色和纵深的变化能打破这种均衡，所以人能很容易地识别物体的边缘，这种维持稳态的本能有利于生存，所以在进化论上是经济的。同理，对科学的思维也要构建一种均衡和稳态，最终把科学精简为如同视觉一样的人的生存本能(Human of Science)，这对人类种群在进化中的长久生存而言是经济的。",
+      "after": "②本讲以马赫带说明感觉不是刺激的简单复制，而涉及对刺激间差异、变化趋势的组织；讲者以“均衡”解释对趋势的延续和调节。所谓经济性不只是越少越好，而是用更可维持、更精简的联结应对复杂条件，并把这种图景延伸到科学与生存。这里是课程的哲学说明，不能代替视觉神经机制的实证解释，也不等于意识能随意控制视觉。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-176"
+      ],
+      "locator": "Page10–17 L36–57；Page20–22 L66–72",
+      "rationale": "原摘要把均衡维持写成打破均衡，且加“纵深”未定位；改写本讲的趋势延续和差异反馈。"
+    },
+    {
+      "code": "2-4-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③马赫把科学当成进化的一环，暗含了一种种族主义，即一个种族的生存样态越是与经济的、稳固的科学相结合，就越应该获得更多的社会资源和生存空间，也越应当在进化中淘汰其他种族。",
+      "after": "③讲者警惕把科学效率、生存优势和民族竞争连在一起，可能为争夺资源、生存空间乃至战争提供正当化。这是他从该体系推演出的政治风险；本次核对未找到马赫原著支持“应淘汰其他种族”的直接主张，不能把推论当成马赫的原话或既定政策。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-176"
+      ],
+      "locator": "Page23–25 L75–81",
+      "rationale": "原文为讲者推论的政治风险，而非可直接归给马赫本人的种族纲领。"
+    },
+    {
+      "code": "2-4-2-4",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4 无可还原的要素(Elements)",
+      "after": "本体论4：要素不被当作终极本体；本讲把其背后的不可直接经验者描述为混乱（课程解释）。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-176"
+      ],
+      "locator": "Page8–9 L30–33；Page18–21 L60–69",
+      "rationale": "原摘要“无可还原”与本讲要素还能还原但无法体验不符；且要素非本体。"
+    },
+    {
+      "code": "2-4-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③讲者警惕把科学效率、生存优势和民族竞争连在一起，可能为争夺资源、生存空间乃至战争提供正当化。这是他从该体系推演出的政治风险；本次核对未找到马赫原著支持“应淘汰其他种族”的直接主张，不能把推论当成马赫的原话或既定政策。",
+      "after": "③讲者警惕把科学效率、生存优势和民族竞争连在一起，可能为争夺资源、生存空间乃至战争提供正当化。这是他从该体系推演出的政治风险；本批未核马赫原著，不能据课程推演把“应淘汰其他种族”归为马赫本人的直接主张或既定政策。",
+      "kind": "evidence_scope_precision",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m242-176"
+      ],
+      "locator": "本批来源与核读范围；0176 Page23–25 L75–81",
+      "rationale": "交叉审查发现“未找到原著支持”可能暗示已经检索核读马赫原著，改成准确的未核原典范围。"
+    }
+  ]
+}

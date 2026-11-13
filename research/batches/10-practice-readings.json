@@ -1,0 +1,302 @@
+{
+  "batch": "10-practice-readings",
+  "checked_on": "2026-11-13",
+  "scope": "实践及AI思想实验的原典对读，14个关系；不以相似主题证明直接继承。",
+  "sources": [
+    {
+      "id": "p10-gramsci-intellectuals",
+      "title": "狱中札记选：知识分子",
+      "author": "安东尼奥·葛兰西",
+      "url": "https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "页面署1971年International Publishers《Selections from the Prison Notebooks》pp.3–23；未核纸本。",
+      "translator": "Quintin Hoare、Geoffrey Nowell Smith（页面所署）",
+      "locator": "I. The Formation of the Intellectuals，从开篇到下一标题The Different Position of Urban and Rural-type Intellectuals之前；另读并区分编者导言",
+      "verification_scope": "实际核读I. The Formation of the Intellectuals，从开篇到下一标题The Different Position of Urban and Rural-type Intellectuals之前；另读并区分编者导言；不代表通读整部著作或确认课程引用。"
+    },
+    {
+      "id": "p10-lenin-self-determination",
+      "title": "论民族自决权：第四章",
+      "author": "弗拉基米尔·列宁",
+      "url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch04.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIA英文网页，1914年文本；此次未核纸本及译者。",
+      "translator": null,
+      "locator": "第四章“民族问题上的实际性”全文",
+      "verification_scope": "实际核读第四章“民族问题上的实际性”全文；不代表通读整部著作或确认课程引用。"
+    },
+    {
+      "id": "p10-marx-machinery",
+      "title": "资本论第一卷：机器和大工业",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIA英文网页本第十五章；章节划分可能与其他版本不同，勿直接当中译本章号。此次未核该页面纸本及译者。",
+      "translator": null,
+      "locator": "第3节A妇女儿童劳动全文；第9节从开头至家庭及两性关系段（脚注231之前），未核全章",
+      "verification_scope": "实际核读第3节A妇女儿童劳动全文；第9节从开头至家庭及两性关系段（脚注231之前），未核全章；不代表通读整部著作或确认课程引用。"
+    },
+    {
+      "id": "p10-locke-identity",
+      "title": "人类理解论：同一与差异",
+      "author": "约翰·洛克",
+      "url": "https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "香港中文大学Humanum英文电子文本；原文非译文，纸本底本未核。网页§3以前小节编号与其他电子本可能不同。",
+      "translator": null,
+      "locator": "第二卷第二十七章§1–20，关联重点为§6–7、9–15、19–20",
+      "verification_scope": "实际核读第二卷第二十七章§1–20，关联重点为§6–7、9–15、19–20；不代表通读整部著作或确认课程引用。"
+    },
+    {
+      "id": "p10-turing-intelligence",
+      "title": "计算机器与智能 / Computing Machinery and Intelligence",
+      "author": "Alan M. Turing",
+      "url": "https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Mind 59(236),1950,pp.433–460；多伦多大学托管期刊扫描件，元数据与Oxford期刊页面相符。",
+      "translator": null,
+      "locator": "第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文",
+      "verification_scope": "实际核读第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文；不代表通读整部著作或确认课程引用。",
+      "edition_metadata_url": "https://academic.oup.com/mind/article/LIX/236/433/986238"
+    },
+    {
+      "id": "p10-mao-investigation",
+      "title": "反对本本主义",
+      "author": "毛泽东",
+      "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIA英文网页所署1930年5月；此轮未核对中译纸本及该英译版本。",
+      "translator": null,
+      "locator": "第I–VI节；关联取第II–III节调查与书本关系",
+      "verification_scope": "实际核读第I–VI节；关联取第II–III节调查与书本关系；不代表通读整部著作或确认课程引用。"
+    },
+    {
+      "id": "p10-lenin-cooperation",
+      "title": "论合作社",
+      "author": "弗拉基米尔·列宁",
+      "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "页面署Collected Works第二英文版，Progress Publishers 1965，第33卷pp.467–475；未核纸本。",
+      "translator": null,
+      "locator": "1923年1月4日与6日两部分全文",
+      "verification_scope": "实际核读1923年1月4日与6日两部分全文；不代表通读整部著作或确认课程引用。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4-1-3-4",
+      "reading_links": [
+        {
+          "source_id": "p10-gramsci-intellectuals",
+          "relation": "editorial_reading",
+          "locator": "I“知识分子的形成”，有机知识分子、社会职能及市民社会/政治社会段",
+          "reason": "区分有机联系、职业身份与单纯个人声望，并对照同意和强制两种职能。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "此节原典以生产关系和社会职能说明知识分子，并区分市民社会中的同意与国家强制；“文化胜利保证真理”不是这里的结论。课程关于退出联盟和局部胜利的判断仍归讲者。",
+          "source_ids": [
+            "p10-gramsci-intellectuals"
+          ],
+          "locator": "I“知识分子的形成”，有机知识分子、社会职能及市民社会/政治社会段"
+        }
+      ]
+    },
+    {
+      "code": "4-1-2-2",
+      "reading_links": [
+        {
+          "source_id": "p10-gramsci-intellectuals",
+          "relation": "editorial_reading",
+          "locator": "I，从人人的智力活动到新型知识分子参与实践生活段",
+          "reason": "比较交谈传播与实际组织关系，避免把表达能力直接等同知识分子的社会作用。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-1-2-1",
+      "reading_links": [
+        {
+          "source_id": "p10-mao-investigation",
+          "relation": "editorial_reading",
+          "locator": "第II–III节",
+          "reason": "对照先调查后结论、书本学习与现实研究相结合的要求。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-1-3-2",
+      "reading_links": [
+        {
+          "source_id": "p10-mao-investigation",
+          "relation": "editorial_reading",
+          "locator": "第III节",
+          "reason": "以对盲从书本和上级指示的批评对读教条问题；不据此推出课程格位。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-2-3-3",
+      "reading_links": [
+        {
+          "source_id": "p10-lenin-self-determination",
+          "relation": "editorial_reading",
+          "locator": "第四章，平等自决权与每次具体分离诉求的区别",
+          "reason": "对照承认权利和无条件支持民族主义的差别，核查领导是否仍保留平等原则。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-3-1-3",
+      "reading_links": [
+        {
+          "source_id": "p10-lenin-self-determination",
+          "relation": "editorial_reading",
+          "locator": "第四章，反对压迫民族特权及被压迫民族排他性段",
+          "reason": "为民族认同和跨民族联合提供对读，不把共同对手自动变为消除内部差异的理由。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-3-2-3",
+      "reading_links": [
+        {
+          "source_id": "p10-marx-machinery",
+          "relation": "editorial_reading",
+          "locator": "第3节A及第9节教育、父权与家庭关系段",
+          "reason": "比较妇女儿童被纳入生产与获得解放的区别，及经济关系、教育和家庭权力的联系。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "《资本论》此章分析十九世纪劳动制度及其矛盾；妇女儿童进入生产本身并不被直接当作解放。课程的三重解放要保留这一条件差别，不能据历史材料给当代童工作辩护。",
+          "source_ids": [
+            "p10-marx-machinery"
+          ],
+          "locator": "第3节A及第9节教育、父权与家庭关系段"
+        }
+      ]
+    },
+    {
+      "code": "4-3-2",
+      "reading_links": [
+        {
+          "source_id": "p10-marx-machinery",
+          "relation": "editorial_reading",
+          "locator": "第9节从旧分工到个人多种能力发展的段落",
+          "reason": "对读生产过程为劳动者服务与劳动者隶属生产过程的差别。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-3-4",
+      "reading_links": [
+        {
+          "source_id": "p10-lenin-cooperation",
+          "relation": "editorial_reading",
+          "locator": "第一部分NEP与合作社；第二部分合作社、所有制及文化建设",
+          "reason": "比较利用商业利益与改变社会关系的条件，不能只凭生产活动持续就认定社会主义性质。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "列宁在此把合作社的社会主义意义放在特定政权、土地及生产资料所有制和文化发展条件下。它不是“任何资本活动只要有用就是社会主义”的论证；本条为与课程解释相互检验的材料。",
+          "source_ids": [
+            "p10-lenin-cooperation"
+          ],
+          "locator": "第一部分NEP与合作社；第二部分合作社、所有制及文化建设"
+        }
+      ]
+    },
+    {
+      "code": "4-4-2-1",
+      "reading_links": [
+        {
+          "source_id": "p10-locke-identity",
+          "relation": "editorial_reading",
+          "locator": "第二卷第二十七章§9–15",
+          "reason": "把人格同一、身体同一和实体同一分开，比较意识连续性的条件。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        },
+        {
+          "source_id": "p10-turing-intelligence",
+          "relation": "editorial_reading",
+          "locator": "第6节(4)，pp.445–447",
+          "reason": "对读外在表现与第一人称意识问题，区分测试思维能力和证明内在体验。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-4-2-4",
+      "reading_links": [
+        {
+          "source_id": "p10-locke-identity",
+          "relation": "editorial_reading",
+          "locator": "第二卷第二十七章§6–7、11–15",
+          "reason": "用身体更换的思想实验对照载体与人格关系；不据此证明意识上传技术。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-4-4-3",
+      "reading_links": [
+        {
+          "source_id": "p10-locke-identity",
+          "relation": "editorial_reading",
+          "locator": "第二卷第二十七章§19–20",
+          "reason": "比较记忆中断与人格同一问题；这不是AI可朽性模型的原始出处。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": []
+    },
+    {
+      "code": "4-4-4-1",
+      "reading_links": [
+        {
+          "source_id": "p10-turing-intelligence",
+          "relation": "editorial_reading",
+          "locator": "第1–2节及第6节(4)，pp.433–435、445–447",
+          "reason": "区分能力判别、主观体验和共同体认同；原论文不提供课程AI教育模型。",
+          "verification_scope": "已核读所列原典段落；是问题对照，不认定课程直接引自此版本。"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "图灵没有宣称意识的一切谜题已经解决；他认为不必先解决全部谜题才讨论其测试问题。课程的AI自我认同、主体性教育仍属于另一层思想实验。",
+          "source_ids": [
+            "p10-turing-intelligence"
+          ],
+          "locator": "第1–2节及第6节(4)，pp.433–435、445–447"
+        }
+      ]
+    }
+  ]
+}

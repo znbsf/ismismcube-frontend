@@ -1,0 +1,935 @@
+{
+  "review_scope": "对四节点全部人工feature_list与axis_list逐命题核对固定commit社区编纂讲稿；支持指课程忠实度，不证明胡塞尔、德里达原典归属或哲学史评价成立；未核原音。",
+  "sources": [
+    {
+      "id": "m3-0191",
+      "title": "0191_3-1-1-1_先验直觉主义_胡塞尔给所有意识普发的完整知识权_比经验主义更经验主义_比直觉主义更直觉主义_比先验主义更先验主义_p5052",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-1-1-1_%E5%85%88%E9%AA%8C%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%BB%99%E6%89%80%E6%9C%89%E6%84%8F%E8%AF%86%E6%99%AE%E5%8F%91%E7%9A%84%E5%AE%8C%E6%95%B4%E7%9F%A5%E8%AF%86%E6%9D%83_%E6%AF%94%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E6%9B%B4%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%AF%94%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89/0191_3-1-1-1_%E5%85%88%E9%AA%8C%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%BB%99%E6%89%80%E6%9C%89%E6%84%8F%E8%AF%86%E6%99%AE%E5%8F%91%E7%9A%84%E5%AE%8C%E6%95%B4%E7%9F%A5%E8%AF%86%E6%9D%83_%E6%AF%94%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E6%9B%B4%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%AF%94%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89%E6%9B%B4%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E6%AF%94%E5%85%88%E9%AA%8C%E4%B8%BB%E4%B9%89%E6%9B%B4%E5%85%88%E9%AA%8C%E4%B8%BB%E4%B9%89_p5052.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-1_先验现象学_胡塞尔的先验哲学计划/3-1-1-1_先验直觉主义_胡塞尔给所有意识普发的完整知识权_比经验主义更经验主义_比直觉主义/0191_3-1-1-1_先验直觉主义_胡塞尔给所有意识普发的完整知识权_比经验主义更经验主义_比直觉主义更直觉主义_比先验主义更先验主义_p5052.md",
+      "sha256": "b14bff24aeb086cf6607733cd1a0099dc0ae921fac076dc7068b482b72046706",
+      "git_blob_sha": "c07285b673e3e305c8621a4975f793912be555f7",
+      "locator": "Page1–24 L9–92（Page24只取本讲收束，不取随后3-1-1-2标题）",
+      "verification_scope": "逐段核读Page1–24 L9–92（Page24只取本讲收束，不取随后3-1-1-2标题）；未核原音、未将本讲哲学史判断当作原典验证。"
+    },
+    {
+      "id": "m3-0192",
+      "title": "0192_3-1-1-2_先验本质主义_先验现象学认识论化_体系化_科学化的前提_p5076",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-1-1-2_%E5%85%88%E9%AA%8C%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E8%AE%A4%E8%AF%86%E8%AE%BA%E5%8C%96_%E4%BD%93%E7%B3%BB%E5%8C%96_%E7%A7%91%E5%AD%A6%E5%8C%96%E7%9A%84%E5%89%8D%E6%8F%90/0192_3-1-1-2_%E5%85%88%E9%AA%8C%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E8%AE%A4%E8%AF%86%E8%AE%BA%E5%8C%96_%E4%BD%93%E7%B3%BB%E5%8C%96_%E7%A7%91%E5%AD%A6%E5%8C%96%E7%9A%84%E5%89%8D%E6%8F%90_p5076.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-1_先验现象学_胡塞尔的先验哲学计划/3-1-1-2_先验本质主义_先验现象学认识论化_体系化_科学化的前提/0192_3-1-1-2_先验本质主义_先验现象学认识论化_体系化_科学化的前提_p5076.md",
+      "sha256": "ab7d40405fa04f330d0742b6e2eceaf19a2f90c875624ce6d935b8210a97ebf4",
+      "git_blob_sha": "4c6c90e39e69f2ad16a8c3dc8e094243333c9dca",
+      "locator": "Page1–17 L9–71（Page17只取本讲收束，不取随后3-1-1-3标题）",
+      "verification_scope": "逐段核读Page1–17 L9–71（Page17只取本讲收束，不取随后3-1-1-3标题）；未核原音、未将本讲哲学史判断当作原典验证。"
+    },
+    {
+      "id": "m3-0193",
+      "title": "0193_3-1-1-3_反思性的主体主义_胡塞尔现象学之枢纽_以及为什么胡塞尔的现象学不是一种庸俗的唯我论_p5093",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-1-1-3_%E5%8F%8D%E6%80%9D%E6%80%A7%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%B9%8B%E6%9E%A2%E7%BA%BD_%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%B8%8D%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BA%B8%E4%BF%97%E7%9A%84%E5%94%AF%E6%88%91/0193_3-1-1-3_%E5%8F%8D%E6%80%9D%E6%80%A7%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%B9%8B%E6%9E%A2%E7%BA%BD_%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E4%B8%8D%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BA%B8%E4%BF%97%E7%9A%84%E5%94%AF%E6%88%91%E8%AE%BA_p5093.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-1_先验现象学_胡塞尔的先验哲学计划/3-1-1-3_反思性的主体主义_胡塞尔现象学之枢纽_以及为什么胡塞尔的现象学不是一种庸俗的唯我/0193_3-1-1-3_反思性的主体主义_胡塞尔现象学之枢纽_以及为什么胡塞尔的现象学不是一种庸俗的唯我论_p5093.md",
+      "sha256": "9e907e20bb013d87b87f2f65a0f4dc89302a5d9b3c83f44d420836d813786207",
+      "git_blob_sha": "cffc6814888159f67251d74fa00943142b431ad0",
+      "locator": "Page1–39 L9–145（Page39只取本讲收束，不取随后3-1-1-4标题）",
+      "verification_scope": "逐段核读Page1–39 L9–145（Page39只取本讲收束，不取随后3-1-1-4标题）；未核原音、未将本讲哲学史判断当作原典验证。"
+    },
+    {
+      "id": "m3-0194",
+      "title": "0194_3-1-1-4_准先验辩证主义_大二时期的德里达如何挽救胡塞尔先验现象学的遗产_p5132",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-1_%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E7%9A%84%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-1-1-4_%E5%87%86%E5%85%88%E9%AA%8C%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E5%A4%A7%E4%BA%8C%E6%97%B6%E6%9C%9F%E7%9A%84%E5%BE%B7%E9%87%8C%E8%BE%BE%E5%A6%82%E4%BD%95%E6%8C%BD%E6%95%91%E8%83%A1%E5%A1%9E%E5%B0%94%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E9%81%97%E4%BA%A7/0194_3-1-1-4_%E5%87%86%E5%85%88%E9%AA%8C%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E5%A4%A7%E4%BA%8C%E6%97%B6%E6%9C%9F%E7%9A%84%E5%BE%B7%E9%87%8C%E8%BE%BE%E5%A6%82%E4%BD%95%E6%8C%BD%E6%95%91%E8%83%A1%E5%A1%9E%E5%B0%94%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E9%81%97%E4%BA%A7_p5132.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-1_先验现象学_胡塞尔的先验哲学计划/3-1-1-4_准先验辩证主义_大二时期的德里达如何挽救胡塞尔先验现象学的遗产/0194_3-1-1-4_准先验辩证主义_大二时期的德里达如何挽救胡塞尔先验现象学的遗产_p5132.md",
+      "sha256": "2735ce511976a2f1102f34a6d2d816cae7e45f3a2b158b654bd16f6275e6baf4",
+      "git_blob_sha": "2c716a2e9ec09d9a113106d92757b6dd798fe680",
+      "locator": "Page1–38 L9–210；L212起3-1-2下一讲排除",
+      "verification_scope": "逐段核读Page1–38 L9–210；L212起3-1-2下一讲排除；未核原音、未将本讲哲学史判断当作原典验证。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-1-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段拆解核对；课程明确自称的个人解读及阅读限制另行标注。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "将一般直觉主义定义为经验须再经逻辑分析。",
+          "status": "overgeneralized",
+          "finding": "Page3所对比的是经验主义，不能替换成所有一般直觉主义。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page3 L19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "逻辑假设、概念化和具体经验均可成为不同方式的直观对象，由先验自我统一。",
+          "status": "supported_course_statement",
+          "finding": "Page4–6区分不同的看及高阶意向性，Page13说明最终回到先验自我。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page4–6 L24–34；Page13 L59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "材料已具有普遍材料性，直观表象时同时把握本质，因此越过材料/形式、表象/本质二分。",
+          "status": "supported_course_statement",
+          "finding": "Page1及16–17以笔、材料性和最低限度分类解释；这是讲者对本质直观的说明。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page1 L9；Page16–17 L68–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "本质差异须被定位、注册到符号分类系统。",
+          "status": "supported_course_statement",
+          "finding": "连续认识不等于瞬间知道一切，而是不断注册差异。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page10–12 L50–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "直观完全没有扭曲且不需要额外纯化。",
+          "status": "needs_precision",
+          "finding": "Page20支持已直观本质无需再纯化，但同段明确需受过现象学训练并掌握词汇，不能写成未经训练即可保证无扭曲。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page20 L80"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "纯粹我思和认识活动相连，可借我看故我在说明其存在方式。",
+          "status": "supported_course_statement",
+          "finding": "Page8–9把笛卡尔式确定性及认识作为意识生命相连；我看故我在是课程式概括。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page8–9 L44–47"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "自然/生活世界认识与本质/科学认识由先验主体性中介。",
+          "status": "supported_with_scope_limit",
+          "finding": "格位有明确对应；目的论还包含连续、循环的差异注册，不能理解为一次性全知。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page14 L62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1以被给予性说明存在与本质。",
+          "status": "supported_with_scope_limit",
+          "finding": "格位有明确对应；目的论还包含连续、循环的差异注册，不能理解为一次性全知。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page14–15 L62–65"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1是先验直观。",
+          "status": "supported_with_scope_limit",
+          "finding": "格位有明确对应；目的论还包含连续、循环的差异注册，不能理解为一次性全知。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page14 L62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1在体验中把握本质。",
+          "status": "supported_with_scope_limit",
+          "finding": "格位有明确对应；目的论还包含连续、循环的差异注册，不能理解为一次性全知。",
+          "source_ids": [
+            "m3-0191"
+          ],
+          "locator": "Page10–11 L50–53；Page14–17 L62–71"
+        }
+      ],
+      "editorial_notes": [
+        "Page7 L39讲者说明本次《观念I》阅读约80页；正文含对自由直观与学科训练的个人批评。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原音与胡塞尔／德里达原典术语归属尚待专项核查。"
+      ]
+    },
+    {
+      "code": "3-1-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段拆解核对；课程明确自称的个人解读及阅读限制另行标注。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "3111提供本体论基础、3112提供认识论基础。",
+          "status": "supported_course_statement",
+          "finding": "开头明说这一课程分工。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "认识活动与先验自我存在关联，因此认识论基础也涉及主体性基础。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page2纠正下一讲更偏主体间性／伦理学，并说认识论本已有主体性；这里是课程层次安排。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page1–2 L9–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "本质直观总伴随特殊的想象画面。",
+          "status": "needs_precision",
+          "finding": "直线例有想象画面，但Page5也举内在符号听觉，不能限定为视觉画面。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page3–5 L19–29"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "普遍之物无需额外体验，故被体验之物必然特殊偶然。",
+          "status": "unsupported_in_checked_passage",
+          "finding": "本讲反而允许把本质自身作为直观对象，未给出普遍者无需体验的推论。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page3–5 L19–29；Page7–8 L39–44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "特殊性本身具有本质性，不同特殊性可被把握。",
+          "status": "supported_course_statement",
+          "finding": "指甲刀例说明此一存在与特殊本质，并用于知识的普遍性。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page7–10 L39–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "现实对象之间共享现实性而与文学虚构对象不同。",
+          "status": "supported_course_statement",
+          "finding": "讲稿实举指甲刀/U盘与贾宝玉/孙悟空；飞机、火车是摘要编写者换的例子，未标编辑举例。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page8–10 L44–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "不是自由挑选差异，而是异质性迫使主体接受；它打开主体间性并类似费希特。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page14明确说我认为，Page16有费希特类比；非已核胡塞尔原文命题。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page13–16 L59–68"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "先验主体性调和自然认识与本质认识。",
+          "status": "supported_inherited_statement",
+          "finding": "本讲说沿用前讲；具体两端及中介实际见0191。",
+          "source_ids": [
+            "m3-0192",
+            "m3-0191"
+          ],
+          "locator": "0192 Page11 L53；0191 Page14 L62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "作为本质的特殊性。",
+          "status": "supported_course_statement",
+          "finding": "本体论与认识论在本讲以存在/本质的相关性解释，目的论另引入强迫性的异质差异。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page7–11 L39–53"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "特殊的存在之物。",
+          "status": "supported_course_statement",
+          "finding": "本体论与认识论在本讲以存在/本质的相关性解释，目的论另引入强迫性的异质差异。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page3–5 L19–29；Page11 L53"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "直观的一与差异的多相对。",
+          "status": "supported_course_statement",
+          "finding": "本体论与认识论在本讲以存在/本质的相关性解释，目的论另引入强迫性的异质差异。",
+          "source_ids": [
+            "m3-0192"
+          ],
+          "locator": "Page12–16 L56–68"
+        }
+      ],
+      "editorial_notes": [
+        "Page6 L34讲者承认关于主体间性的一处具体原文已记不清；他者性解释须保留为其解读。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原音与胡塞尔／德里达原典术语归属尚待专项核查。"
+      ]
+    },
+    {
+      "code": "3-1-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段拆解核对；课程明确自称的个人解读及阅读限制另行标注。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "纯粹我思透明、不作为一般对象显现，仍可无条件反思自身。",
+          "status": "supported_course_statement",
+          "finding": "Page10–12区分不显现和可直接把握，不能把透明解释成无法把握。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page6–7 L32–35；Page10–12 L44–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "因为不显现所以不能真正回到先验自我，反复抛出返回生成中心外围及内时间。",
+          "status": "misattributed_interpretation",
+          "finding": "Page12特意说胡塞尔允许直接自我把握；迂回与断裂是讲者借黑格尔/拉康所加的解释。中心外围、清醒迟钝和内时间确实出现，但本讲未细讲内时间的推导。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page6–12 L32–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主观性从自我扩展到心灵、感官身体和时空定位。",
+          "status": "supported_course_statement",
+          "finding": "自我—心灵—身体—物的构成路径有明确说明。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page12–15 L50–59；Page20 L74"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "身体同时是物，故其他物也可能有身体、心灵和意向主体。",
+          "status": "supported_with_scope_limit",
+          "finding": "正文还要求同感、附现和解释，不是仅凭身体/物重叠的一步证明。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page14–25 L56–89"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "构成他者的迂回断裂也存在于自我的连续体验，自我不能保证感觉永存。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page26–28及35–37支持此批评，但明确保留为空的自我同一与判断功能；不是胡塞尔自认其理论无效。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page26–28 L92–100；Page35–37 L133–139"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "纯粹自我以外的感觉、他者、自然同样可被撤去，因而有同等本体论地位。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page29–33明说平等且随时可丧失；这是讲者的读法，不意味着这些对象属于同一种存在类型。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page29–33 L105–125"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "先验主体性调和自然/本质认识。",
+          "status": "supported_inherited_statement",
+          "finding": "本讲称前三格不变；具体定义来自0191，不从数字倒推。",
+          "source_ids": [
+            "m3-0193",
+            "m3-0191"
+          ],
+          "locator": "0193 Page34 L130；0191 Page14 L62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "被给予且断裂的本体论。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "断裂及同等地位是讲者明确自称的判断。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page35–38 L133–142"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "存在之物是其所是。",
+          "status": "supported_inherited_statement",
+          "finding": "本讲称前三格沿用；是其所是的被给予性需回前讲，避免另造定义。",
+          "source_ids": [
+            "m3-0193",
+            "m3-0191"
+          ],
+          "locator": "0193 Page34 L130；0191 Page15–17 L65–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "反思调和主动直观与被迫接受的差异。",
+          "status": "supported_course_statement",
+          "finding": "格位收束有直接解释，讲者认为反思允许被动接纳。",
+          "source_ids": [
+            "m3-0193"
+          ],
+          "locator": "Page34–36 L130–136"
+        }
+      ],
+      "editorial_notes": [
+        "Page35–37 L133–139明确说明有关认识断裂与本体论连续性的说法是讲者自己的解读，并称胡塞尔没有这样说。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原音与胡塞尔／德里达原典术语归属尚待专项核查。"
+      ]
+    },
+    {
+      "code": "3-1-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "全部字段拆解核对；课程明确自称的个人解读及阅读限制另行标注。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "发生既是绝对开端，又在已有框架中被预期、验证。",
+          "status": "supported_course_statement",
+          "finding": "开头以invention/verification构成两重性；英文拼法按编纂文本记录，尚未校原典术语。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page3–9 L15–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "身体感官能力先于主体存在。",
+          "status": "overgeneralized",
+          "finding": "正文说控制结构在主动调用和自觉学习之前已经配合，并以似乎先于纯粹我思质疑构成解释；不是已证明主体在时间上晚于身体能力的命题。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page15–23 L51–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体发起活动也在验证已有控制能力，发生通过符号网络缝合到主体性。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page24明确区分身体因果域与符号定位网络，并说发生缝合到先验我思、时间体验。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page24–25 L92–103"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "直观与还原在纯粹我思处短路；三个我显示生成/既有的双重结构。",
+          "status": "supported_course_statement",
+          "finding": "三重自我与阶次区分有原文依据，但这是讲者的说明例。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page10–13 L36–45；Page25 L95–102"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "这一僵局使主体成为死亡。",
+          "status": "supported_with_scope_limit",
+          "finding": "death在正文是没有验证和背景联系的纯发起，以及反思自我统握的理论评判；不是医学死亡，也不是原典完整推导。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page26 L111–112；Page36–37 L204–207"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "德里达用形式的辩证法替换先验逻辑，并保留胡塞尔的方法及主体/本体假设。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page27–29有直接对应；讲者承认未读完书，故须标为课程理解的早期德里达计划。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page25–29 L101–146"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "辩证法调和形而下的世界历史生命与形而上的先验观念主体。",
+          "status": "supported_course_statement",
+          "finding": "本讲格位段逐一列出两端、中介及主体从中介移向形而上一端。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page32–33 L187–195"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1沿用被给予性。",
+          "status": "supported_inherited_statement",
+          "finding": "本讲明确称其他两格不变；具体被给予性/直观定义来自前讲。",
+          "source_ids": [
+            "m3-0194",
+            "m3-0191"
+          ],
+          "locator": "0194 Page32 L187–192；Page34 L198；0191 Page14–17 L62–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1沿用事物是其所是。",
+          "status": "supported_inherited_statement",
+          "finding": "本讲明确称其他两格不变；具体被给予性/直观定义来自前讲。",
+          "source_ids": [
+            "m3-0194",
+            "m3-0191"
+          ],
+          "locator": "0194 Page32 L187–192；Page34 L198；0191 Page14–17 L62–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "前符号化的原初运动破坏反思统握，故目的论4。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page34明确个人判断且书未读完，Page35–37说明原初差异先于注册及摧毁三元调和；并非德里达自列格位。",
+          "source_ids": [
+            "m3-0194"
+          ],
+          "locator": "Page34–37 L198–207"
+        }
+      ],
+      "editorial_notes": [
+        "Page25 L101–102及Page34 L198讲者明确承认未读完整本德里达作品，目的论4包含其个人判断；此限制不能从摘要中抹去。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原音与胡塞尔／德里达原典术语归属尚待专项核查。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-1-1-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①彻底的直觉主义：先验直觉主义结合了先验主义和直觉主义，在一般的直觉主义中，通过直觉获得的经验必须通过普遍性的逻辑过程进行分析和把握，而先验直觉主义是直接把逻辑思维本身(逻辑假设、概念化推理)作为对象(object)进行直观，即主体对逻辑过程和具体经验的把握方式都是直观的“看”，只不过“看”的方式不同。“看”的方式不同，看到的对象和本质也不同，而所有的“看”都由先验自我维持，并由先验自我统摄。",
+      "after": "①彻底的直觉主义：先验直觉主义结合了先验主义和直觉主义，在本讲所对比的经验主义中，通过直觉获得的经验必须通过普遍性的逻辑过程进行分析和把握，而先验直觉主义是直接把逻辑思维本身(逻辑假设、概念化推理)作为对象(object)进行直观，即主体对逻辑过程和具体经验的把握方式都是直观的“看”，只不过“看”的方式不同。“看”的方式不同，看到的对象和本质也不同，而所有的“看”都由先验自我维持，并由先验自我统摄。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0191"
+      ],
+      "locator": "Page3–6 L19–34；Page13 L59",
+      "rationale": "修正对比对象，保留其余受支持内容。"
+    },
+    {
+      "code": "3-1-1-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③先验直观的方法就是发现现象之间的本质性差异，对差异进行符号性定位，将其定位符号学系统中。这种先验直观是纯粹的、没有扭曲的，不需要对先验直观看到的本质进行额外的纯化。",
+      "after": "③本讲把先验直观说明为发现本质差异，并将差异定位到符号分类系统中。讲者认为，已经直观到的本质无需另作纯化；但他同时强调现象学训练及术语掌握的条件，并不保证任何未经训练的直觉都毫无扭曲。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0191"
+      ],
+      "locator": "Page10–12 L50–56；Page20 L80",
+      "rationale": "区分本质直观的课程主张与无条件可靠性保证，并补正定位到。"
+    },
+    {
+      "code": "3-1-1-1",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论1：体验表象即把握本质",
+      "after": "目的论1：在持续体验、直观与差异注册中把握本质",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0191"
+      ],
+      "locator": "Page10–11 L50–53；Page14–17 L62–71",
+      "rationale": "补回目的论的持续循环含义。"
+    },
+    {
+      "code": "3-1-1-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②主体在进行本质直观时，主体的意向性也同时指向了具有特殊性的想象性画面(image)。而主体在进行体验时，其所体验到的事物也是特殊的、偶然的，因为如果一个东西是普遍的，那它也就无需额外地被主体体验到。但是，事物作为特殊的存在能够被主体体验，这也说明特殊性本身是本质性的，这种特殊性之间的差异是可被把握的。",
+      "after": "②本讲认为，本质直观须有其对象，并伴随某种特殊的呈现；直线的例子涉及想象画面，也可以涉及内在符号听觉。以指甲刀等为例，事物的此一存在与特殊性本身可以成为本质性把握的内容，不同特殊性之间的差异也可被认识。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0192"
+      ],
+      "locator": "Page3–10 L19–50",
+      "rationale": "去除无来源的普遍者无需体验推论，并避免把对象呈现限成视觉图像。"
+    },
+    {
+      "code": "3-1-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③作为本质的特殊性之间的差异就是主体的意向性朝向不同对象所产生的现实性之间的差异，比如飞机、火车的现实性是同一种现实性，这种现实性与贾宝玉、孙悟空的现实性是不同的，这种差异使得关于本质的分类学成为可能。",
+      "after": "③作为本质的特殊性之间的差异就是主体的意向性朝向不同对象所产生的现实性之间的差异，比如本讲所举的指甲刀、U盘的现实性是同一种现实性，这种现实性与贾宝玉、孙悟空的现实性是不同的，这种差异使得关于本质的分类学成为可能。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0192"
+      ],
+      "locator": "Page8–10 L44–50",
+      "rationale": "恢复课程原例，避免把编辑自拟例子当成讲稿原例。"
+    },
+    {
+      "code": "3-1-1-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④主体所能直观到的不同本质间的差异，不是由主体自由地看到的，而是内在的异质性他者强迫主体不得不看到这些差异(“你必须看到这些差异，因为这就是你的生命！”)，这种他者性维度使得先验主体间性成为可能。这点非常类似费希特。",
+      "after": "④按讲者的解释，主体所能直观到的不同本质间的差异，不是由主体自由地看到的，而是内在的异质性他者强迫主体不得不看到这些差异(“你必须看到这些差异，因为这就是你的生命！”)，这种他者性维度使得先验主体间性成为可能。讲者将这一点类比于费希特。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0192"
+      ],
+      "locator": "Page13–16 L59–68",
+      "rationale": "保留明确的解释归属。"
+    },
+    {
+      "code": "3-1-1-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①无条件的自我反思：纯粹的先验自我是完全明证的，也因而是绝对透明的、不显现的；自我意识从先验自我中抛出，再返回性地指向自身，但因为先验自我是不显现的，自我意识不能真正回到先验自我，所以自我意识会不断地抛出-返回，这种运动就是先验自我的无条件的自我反思(比如我可以反思、可以反思我的反思、可以反思我对反思的反思...)。这个不断的渐进的自指过程区分出了中心-外围、清醒-迟钝、内时间性。",
+      "after": "①无条件的自我反思：本讲将纯粹我思说明为透明、不像一般对象那样显现，却仍能直接把握自身；反思也可以再次成为反思对象。讲者由此讨论中心与外围、清醒与迟钝，并提及内时间性。他另外用黑格尔、拉康式的迂回与断裂来解释反思；这一解释不能写成胡塞尔认为自我永远无法返回自身。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0193"
+      ],
+      "locator": "Page6–12 L32–50",
+      "rationale": "分开胡塞尔式直接自我把握与讲者外加的断裂批评；内时间仅提及，未完整推导。"
+    },
+    {
+      "code": "3-1-1-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②他者的主体性：无条件的自我反思活动中的主观性会扩展到心灵活动上，即将主体的心理活动认为是主体自我的意向性活动；然后，主观性会扩展到身体活动上，即将主体的所有感官能力定位到身体上，以身体为中心定位出整个时空场域；然而身体本身只是一个物，这就使得作为感知主体的身体与作为物的身体重叠；既然身体与物可以是重叠的，那其他物也可以是其他主体的身体，进而这些身体中也可以有心灵活动，进而这些身体中也可以存在具有意向性的主体，由此使得他者的主体性成为可能。",
+      "after": "②他者的主体性：本讲依次说明纯粹自我、心灵活动、感官身体与物的构成及定位。身体既可被自身体验，也可作为物被把握；对于其他身体，主体通过同感、附现与解释，把它理解为具有感受和心灵的身体，并由此进入主体间性。讲者强调，这条路线含有迂回环节，不能简化成物与身体重叠就直接证明他心。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0193"
+      ],
+      "locator": "Page12–25 L50–89",
+      "rationale": "补回正文依赖的同感、附现与解释，避免机械推演。"
+    },
+    {
+      "code": "3-1-1-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③胡塞尔对他者主体性的存在性的解释是非常迂回的，其中的环节是断裂的，这种对他者的主体性的解释的断裂也就是自我的主体性本身的断裂，比如主体在此刻具有听觉，却不能保证下一刻还具有听觉，主体除了确证现象的发生和进行自我反思，不能保证任何其他事物的同一性，而只能无力地被迫接受。",
+      "after": "③按讲者的批评性解释，通向他者主体性的迂回与断裂也存在于自我的体验联系中：此刻的感觉不能保证下一刻仍持续。纯粹自我能够维持最低限度的同一和判断，却不能任意保证感觉、身体及其他对象的持续存在。讲者明确将这种断裂读法区别于胡塞尔自己的表述。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0193"
+      ],
+      "locator": "Page26–28 L92–100；Page35–37 L133–139",
+      "rationale": "去除任何其他同一性都不能保证的过强表述，保留自我最低同一与解释归属。"
+    },
+    {
+      "code": "3-1-1-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④除了不显现的纯粹先验主体性以外，主体的体验能力，与他者的主体性、客观的自然世界一样，都是随时可能被剥夺的，所以它们具有平等的本体论地位。",
+      "after": "④在讲者的解释中，除了不显现的纯粹先验主体性以外，主体的体验能力，与他者的主体性、客观的自然世界一样，都是随时可能被剥夺的，所以它们具有平等的本体论地位。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0193"
+      ],
+      "locator": "Page29–33 L105–125；Page35–37 L133–139",
+      "rationale": "保留观点归属而不冒充原典结论。"
+    },
+    {
+      "code": "3-1-1-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论1：被给予的断裂的本体论",
+      "after": "本体论1：被给予而具有断裂的存在（讲者的解释）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0193"
+      ],
+      "locator": "Page35–38 L133–142",
+      "rationale": "明确课程作者自称的解释属性。"
+    },
+    {
+      "code": "3-1-1-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②起源性与预料性的僵局：先验主体是绝对的开端，但主体的感官能力(听觉、视觉、运动觉)却是先于主体的存在，各种感官能力在被主体的意向性调用之前，就已经被注册到背景性框架中，主体发起的意向性活动只是验证(verify)了主体对感官仍有调用能力。所以，与其说先验主体性是Genesis，不如说是符号系统把Genesis缝合到主体性上。",
+      "after": "②起源性与预料性的僵局：讲者以身体控制为例，指出感官、运动及定位的配合在主体主动调用或自觉学习控制之前已经运作，因而质疑纯粹自我如何被称为这些结构的绝对起源。发起活动也在验证既有控制力；在他的解释中，符号网络把发生缝合到先验主体及其时间体验上。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0194"
+      ],
+      "locator": "Page15–25 L51–103",
+      "rationale": "把先于主动控制与先于主体存在区分，防止将讲者问题化论证写成经验定论。"
+    },
+    {
+      "code": "3-1-1-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④起源性与预料性的僵局会导致先验主体性成为死亡、僵死的东西。德里达的意愿是，把作为形式的辩证法引入先验现象学，用辩证法的逻辑替换先验逻辑，同时保留胡塞尔在主体性和本体论上的一些假设。",
+      "after": "④讲者把脱离验证、背景联系的纯粹发起，以及反思中被固定的主体性，比作死亡或僵死。他将早期德里达的计划理解为引入形式性的辩证法来改造先验逻辑，同时保留胡塞尔的部分方法及主体性、本体论假设；但讲者明确说明自己未读完整部作品，这一概括属于其有限阅读下的解释。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0194"
+      ],
+      "locator": "Page25–29 L101–146；Page34–37 L198–207",
+      "rationale": "交代死亡是哲学比喻及读书范围，避免把个人判定写成完整原典结论。"
+    },
+    {
+      "code": "3-1-1-4",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论4：前符号化的原初运动",
+      "after": "目的论4：前符号化的原初运动使反思统握失效（讲者在有限阅读下的判断）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0194"
+      ],
+      "locator": "Page34–37 L198–207",
+      "rationale": "格位存在直接依据，同时原文主动声明个人判断及未读完书。"
+    }
+  ]
+}

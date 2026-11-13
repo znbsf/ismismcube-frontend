@@ -1,0 +1,1014 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-13",
+  "status": "editorial_readings_with_localized_primary_text_checks",
+  "method": "从现有条目的代表人物、概念和问题出发建立编者阅读关联。原典21项、学术综述7项分别标记；关联不表示课程引用，不据此推导四格。仅保存书目、章节和原创短说明，不收录整书或长段摘录。版本与译者没有证据时记为未知。",
+  "sources": [
+    {
+      "id": "b02-darwin-origin",
+      "title": "物种起源：第四章 自然选择",
+      "author": "Charles Darwin",
+      "url": "https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)/Chapter_IV",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "维基文库标示1859年第一版的网页转录；本次未逐页核对扫描件。",
+      "translator": null,
+      "locator": "Chapter IV, Natural Selection，开头变异、遗传、生存与繁殖优势的论证。",
+      "verification_scope": "核读第四章开头及自然选择定义段；未通读全章，未用1859年文本替代现代演化生物学。"
+    },
+    {
+      "id": "b02-watson-behaviorist",
+      "title": "行为主义者眼中的心理学 / Psychology as the Behaviorist Views it",
+      "author": "John B. Watson",
+      "url": "https://psychclassics.yorku.ca/Watson/views.htm",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "York University 的 Classics in the History of Psychology 转录；原刊 Psychological Review 20（1913），158–177。",
+      "translator": null,
+      "locator": "开头三段：心理学目标、内省法、动物与人类研究的关系。",
+      "verification_scope": "核对原刊书目并核读开头三段；网页维护者 Christopher D. Green 不是文章作者。"
+    },
+    {
+      "id": "b02-mead-self",
+      "title": "心灵、自我与社会：第18节 自我与有机体",
+      "author": "George Herbert Mead",
+      "url": "https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Charles W. Morris 编，University of Chicago（1934）；Brock University Mead Project 网页注明本节页码135–144。",
+      "translator": null,
+      "locator": "Section 18, The Self and the Organism，开头至自我能够成为自身对象的论述。",
+      "verification_scope": "核读网页开头、原书页标135–136附近论述；这是编订出版的讲授材料，非作者亲自定稿的完整专著；未通读本节。"
+    },
+    {
+      "id": "b02-plato-apology",
+      "title": "苏格拉底的申辩 / Apology",
+      "author": "Plato",
+      "url": "https://classics.mit.edu/Plato/apology.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIT Internet Classics Archive，Benjamin Jowett 英译；纸本版次未核。",
+      "translator": "Benjamin Jowett",
+      "locator": "Socrates’ Defense：凯勒丰询问德尔斐神谕，以及苏格拉底检验政治家智慧的段落。",
+      "verification_scope": "核读神谕和检验政治家智慧段落；该页未显示通行斯特凡页码，本次不补造；柏拉图的呈现不等于苏格拉底逐字口述记录。"
+    },
+    {
+      "id": "b02-plato-republic",
+      "title": "理想国：第七卷 / Republic, Book VII",
+      "author": "Plato",
+      "url": "https://classics.mit.edu/Plato/republic.8.vii.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIT Internet Classics Archive，Jowett 英译；具体纸本版次未核。",
+      "translator": "Benjamin Jowett",
+      "locator": "Book VII 开头洞穴比喻：锁链、影像、转身与走向光亮。",
+      "verification_scope": "核读第七卷开头的洞穴比喻及教育造成的痛苦过渡；未据此概括全书政治制度。"
+    },
+    {
+      "id": "b02-aristotle-categories",
+      "title": "范畴篇 / Categories",
+      "author": "Aristotle",
+      "url": "https://classics.mit.edu/Aristotle/categories.1.1.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIT Internet Classics Archive，E. M. Edghill 英译；纸本版次未核。",
+      "translator": "E. M. Edghill",
+      "locator": "Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。",
+      "verification_scope": "核读 Part 4 全段与 Part 5 开头；不把此处实体分类与《形而上学》全部论证视为同一。"
+    },
+    {
+      "id": "b02-epicurus-menoeceus",
+      "title": "致美诺伊克斯的信 / Letter to Menoeceus",
+      "author": "Epicurus",
+      "url": "https://classics.mit.edu/Epicurus/menoec.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIT Internet Classics Archive，Robert Drew Hicks 英译；纸本版次未核。",
+      "translator": "Robert Drew Hicks",
+      "locator": "关于死亡的段落；以欲望区分开头、继以快乐选择和痛苦权衡的段落。",
+      "verification_scope": "核读死亡和欲望分类、快乐选择的局部正文；未核对希腊文。"
+    },
+    {
+      "id": "b02-laozi-wangbi",
+      "title": "道德经（王弼注本）",
+      "author": "传统署名老子；王弼注",
+      "url": "https://zh.wikisource.org/zh-hant/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+      "kind": "primary_text",
+      "language": "zh-Hant",
+      "edition": "维基文库页面题为王弼本，并标“华亭张氏原本”；本次未作版本谱系与校勘核验。",
+      "translator": null,
+      "locator": "第三十七章经文及逐句王弼注；辅读第二章无为与不居功段。",
+      "verification_scope": "核读两章所列段落，区分经文与王弼注文；中国哲学书电子化计划返回访问限制，未绕过，改用此公开转录。"
+    },
+    {
+      "id": "b02-descartes-meditation2",
+      "title": "第一哲学沉思集：第二沉思",
+      "author": "René Descartes",
+      "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "维基文库英文转录；当前单章页未核实译者与纸本底本。",
+      "translator": null,
+      "locator": "Meditation II，网页第1–4段：普遍怀疑与 I am, I exist 的确证。",
+      "verification_scope": "核读第1–4段；尚未核读第六沉思的心身实在区分，不能说第二沉思已完成全部二元论证明。"
+    },
+    {
+      "id": "b02-spinoza-ethics1",
+      "title": "伦理学：第一部 论神",
+      "author": "Benedictus de Spinoza",
+      "url": "https://www.gutenberg.org/cache/epub/919/pg919.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "Project Gutenberg #919；R. H. M. Elwes 英译，具体纸本版次未核。",
+      "translator": "R. H. M. Elwes",
+      "locator": "Part I，定义III–VI，命题XIV及其证明。",
+      "verification_scope": "核读实体、属性、样态、神的定义和命题XIV；网页后续命题分隔有排版异常，未采用其遗漏标题作证据。"
+    },
+    {
+      "id": "b02-leibniz-monadology",
+      "title": "单子论 / Monadology",
+      "author": "Gottfried Wilhelm Leibniz",
+      "url": "https://people.math.harvard.edu/~knill/various/monadology/index.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "Harvard 数学系 Oliver Knill 个人教学页面转录，正文注明 Robert Latta 1898 年英译。",
+      "translator": "Robert Latta",
+      "locator": "§§1–7：简单实体及无窗；§§78–79：心身与前定和谐。",
+      "verification_scope": "核读所列节次并核对译者署名；网页导言的评价与莱布尼茨正文分开，不当作作者原话。"
+    },
+    {
+      "id": "b02-hobbes-leviathan13",
+      "title": "利维坦：第十三章 人类的自然状态",
+      "author": "Thomas Hobbes",
+      "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/text/chapter-13",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Standard Ebooks 英文网页版；该章页未核纸本底本，使用章名定位。",
+      "translator": null,
+      "locator": "Chapter XIII 开头：能力平等、希望平等及竞争、不信任、冲突。",
+      "verification_scope": "核读本章开头；社会契约的完整建立还需另读第十四、十七章，本次不宣称已经读过。"
+    },
+    {
+      "id": "b02-berkeley-principles",
+      "title": "人类知识原理 / A Treatise Concerning the Principles of Human Knowledge",
+      "author": "George Berkeley",
+      "url": "https://www.gutenberg.org/cache/epub/4723/pg4723-images.html",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Project Gutenberg #4723，Col Choat 制作电子文本、Al Haines 制作HTML；纸本版次未核。",
+      "translator": null,
+      "locator": "正文 §§1–2、27：观念、能感知的精神及精神不可被当作被动观念。",
+      "verification_scope": "核读所列节次，避免把前面的 Introduction 段号与正文混用；未通读全书。"
+    },
+    {
+      "id": "b02-hume-enquiry",
+      "title": "人类理解研究 / An Enquiry Concerning Human Understanding",
+      "author": "David Hume",
+      "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Project Gutenberg #9662；书前注明依据1777年身后版，L. A. Selby-Bigge 编，第二版1902年。",
+      "translator": null,
+      "locator": "Section IV, Part I, §§20–21；Section V, Part I, §36。",
+      "verification_scope": "核对书前版本信息，核读观念关系/事实问题之别与习惯原则；Selby-Bigge 是编者，不与休谟并列为论著作者。"
+    },
+    {
+      "id": "b02-dewey-experience",
+      "title": "民主主义与教育：第十一章 经验与思维",
+      "author": "John Dewey",
+      "url": "https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11",
+      "kind": "primary_text",
+      "language": "en",
+      "edition": "Standard Ebooks 英文网页版；此章页未核原刊版权页。",
+      "translator": null,
+      "locator": "Chapter XI, I, The Nature of Experience，开头三个段落。",
+      "verification_scope": "核读尝试、承受后果及学习联系的开头论述；未通读全章。"
+    },
+    {
+      "id": "b02-sartre-humanism",
+      "title": "存在主义是一种人道主义 / Existentialism Is a Humanism",
+      "author": "Jean-Paul Sartre",
+      "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "网页注明选自 Walter Kaufman 编 Existentialism from Dostoyevsky to Sartre，Meridian 1989版，选集首刊1956；仅作公开节选入口。",
+      "translator": "Philip Mairet",
+      "locator": "由裁纸刀例子进入 existence comes before essence 的段落及其后对人的说明。",
+      "verification_scope": "核读该论证开头与无预定人性说明；网页讲演年份字段未独立核对，不用于年代校勘；不保存译文全文。"
+    },
+    {
+      "id": "b02-saussure-third-course",
+      "title": "第三次普通语言学教程讲授笔记（1910–1911）",
+      "author": "Ferdinand de Saussure（学生笔记记录）",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/fr/saussure.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "网页注明 Saussure’s Third Course of Lectures on General Linguistics (1910–1911)，Pergamon Press 1993 的局部节选；译者和笔记者未在所见署名中核实。",
+      "translator": null,
+      "locator": "1910年11月4日讲课中语言作为社会产品的段落；Chapter V, Value of terms and meanings of words 开头。",
+      "verification_scope": "核读所列局部；这是第三次课程笔记节选，不能直接称为1916年《普通语言学教程》全书或索绪尔亲定文本；不保存版权文本长段。"
+    },
+    {
+      "id": "b02-lenin-state-revolution3",
+      "title": "国家与革命：第三章 1871年巴黎公社的经验",
+      "author": "弗拉基米尔·伊里奇·列宁",
+      "url": "https://www.marxists.org/chinese/lenin-cworks/31/004.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《列宁全集》第31卷网页版；纸本版次和译者未核。",
+      "translator": null,
+      "locator": "第三章第1节与第2节：现成国家机器问题、公职选举与撤换等制度安排。",
+      "verification_scope": "核读第1节主要论述和第2节开头；区分列宁正文、所引马克思及编者注；未通读全书。"
+    },
+    {
+      "id": "b02-marx-gotha",
+      "title": "哥达纲领批判",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "网页注明中文据1953年柏林狄茨出版社《马克思恩格斯文选》两卷集德文版第2卷译出；未核中文纸本出版信息。",
+      "translator": null,
+      "locator": "第一部分：社会总产品扣除、个人分配与高级阶段的条件；第四部分B：教育、劳动日、妇女劳动及童工。",
+      "verification_scope": "核读所列段落并辨别恩格斯序言与马克思正文；第四部分属19世纪政治论争，应保留历史语境，不作为当代政策或劳动标准指南。"
+    },
+    {
+      "id": "b02-engels-socialism",
+      "title": "社会主义从空想到科学的发展",
+      "author": "弗里德里希·恩格斯",
+      "url": "https://www.marxists.org/chinese/marx-engels/19/020.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《马克思恩格斯全集》第19卷网页版；具体中文纸本版次、译者未核。",
+      "translator": null,
+      "locator": "第一节开头的空想社会主义历史定位；第三节国家所有与社会直接占有、生产有计划调节的段落。",
+      "verification_scope": "核读所列局部；未通读全篇，不把作者的历史解释当作已完成独立史料核验。"
+    },
+    {
+      "id": "b02-more-utopia-trades",
+      "title": "乌托邦：行业与生活方式",
+      "author": "Thomas More",
+      "url": "https://www.marxists.org/reference/archive/more/works/utopia/ch5.html",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "Marxists Internet Archive 英文分章文本；当前单章页面未核译者与纸本底本。",
+      "translator": null,
+      "locator": "Of their Trades, and Manner of Life 开头：农业与手艺、劳动时间、闲暇与公共讲授。",
+      "verification_scope": "核读该章开头；属于文学性制度叙述，未证明可行性，也不说明课程的“不可能”具有相同含义。"
+    },
+    {
+      "id": "b02-sep-realism",
+      "title": "Scientific Realism",
+      "author": "Anjan Chakravartty",
+      "url": "https://plato.stanford.edu/entries/scientific-realism/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；页面标实质修订2017-06-12。",
+      "translator": null,
+      "locator": "Introduction；§1.1 Epistemic Achievements versus Epistemic Aims 开头。",
+      "verification_scope": "核读导言及§1.1开头；是学术综述，不是科学实在论者的单一本人著作。"
+    },
+    {
+      "id": "b02-sep-physicalism",
+      "title": "Physicalism",
+      "author": "Daniel Stoljar",
+      "url": "https://plato.stanford.edu/entries/physicalism/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；页面标实质修订2026-09-16。",
+      "translator": null,
+      "locator": "Introduction；§1.1 Terminology。",
+      "verification_scope": "核读导言和术语史段落，区分早期维也纳学派的语言论题与当代形而上学论题。"
+    },
+    {
+      "id": "b02-sep-kuhn",
+      "title": "Thomas Kuhn",
+      "author": "Alexander Bird",
+      "url": "https://plato.stanford.edu/entries/thomas-kuhn/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；页面标实质修订2025-09-02。",
+      "translator": null,
+      "locator": "§2 The Development of Science 开头：常规研究、解谜和革命性阶段。",
+      "verification_scope": "核读§2开头；作为进入《科学革命的结构》的学术导读，未通读库恩原著。"
+    },
+    {
+      "id": "b02-sep-husserl",
+      "title": "Edmund Husserl",
+      "author": "Dan Zahavi",
+      "url": "https://plato.stanford.edu/entries/husserl/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；当前条目首刊2025-08-08。",
+      "translator": null,
+      "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+      "verification_scope": "核读上述局部，未通读胡塞尔原著；这是当前署名Zahavi的条目，不沿用历史同URL旧条目的作者信息。"
+    },
+    {
+      "id": "b02-sep-heidegger",
+      "title": "Martin Heidegger",
+      "author": "Mark Wrathall",
+      "url": "https://plato.stanford.edu/entries/heidegger/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；当前条目首刊2025-01-31。",
+      "translator": null,
+      "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+      "verification_scope": "核读上述局部；未通读《存在与时间》，网页所引SZ页码仅属综述引文，未当作本次亲核原书页码。"
+    },
+    {
+      "id": "b02-sep-gadamer",
+      "title": "Hans-Georg Gadamer",
+      "author": "Jeff Malpas",
+      "url": "https://plato.stanford.edu/entries/gadamer/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；页面标实质修订2022-08-22。",
+      "translator": null,
+      "locator": "§3.1 The Positivity of ‘Prejudice’ 开头：前判断、可修订性与解释学循环。",
+      "verification_scope": "核读§3.1开头；未通读《真理与方法》，亦未证明课程关于尼采的特定谱系解释。"
+    },
+    {
+      "id": "b02-sep-wittgenstein",
+      "title": "Ludwig Wittgenstein",
+      "author": "Anat Biletzki、Anat Matar",
+      "url": "https://plato.stanford.edu/entries/wittgenstein/",
+      "kind": "scholarly_reference",
+      "language": "en",
+      "edition": "Stanford Encyclopedia of Philosophy；页面标实质修订2026-09-17。",
+      "translator": null,
+      "locator": "§3.3 Meaning as Use，至语言游戏概念引入。",
+      "verification_scope": "核读§3.3，注意综述所引《哲学研究》§43带有适用范围限定；本次没有直接核读该书原文或中译本。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-realism",
+          "relation": "editorial_reading",
+          "locator": "导言及§1.1开头。",
+          "reason": "了解科学实在论在学术讨论中对可观察和不可观察对象所持的认识论态度，用以辨别课程同名标签的特殊用法。",
+          "verification_scope": "只核读综述局部；不据其常见定义直接覆盖课程分类。"
+        }
+      ],
+      "editorial_notes": [
+        "学术立场不能仅凭从业身份或学习经历确定；资料库中的人物群体标签需另核课程依据。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "1-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-physicalism",
+          "relation": "editorial_reading",
+          "locator": "导言及§1.1 Terminology。",
+          "reason": "区分纽拉特、卡尔纳普时代的物理语言论题与当代物理主义；检验“模型就是世界”是否足以概括这些不同立场。",
+          "verification_scope": "核读术语史及导言；没有核读纽拉特原文。"
+        }
+      ],
+      "editorial_notes": [
+        "语言可译性、实在的物理性、还原论不是自动等价的命题。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "1-1-1-2",
+      "reading_links": [
+        {
+          "source_id": "b02-darwin-origin",
+          "relation": "editorial_reading",
+          "locator": "第四章自然选择开头定义及变异段落。",
+          "reason": "将有利变异在生存与繁殖中的保存，与课程所说从粒子到人的等级序列分开，先看达尔文实际论证的机制。",
+          "verification_scope": "核读1859年版局部；该段不能支持“人体特异功能”或预定进化阶梯。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲的等级序列是对一种意识形态的批评，还是被归给达尔文本人？"
+      ]
+    },
+    {
+      "code": "1-1-2-2",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-kuhn",
+          "relation": "editorial_reading",
+          "locator": "§2 The Development of Science 开头。",
+          "reason": "从常规科学的解谜和革命阶段理解科学变化，避免把范式只当作任意可换的个人观点。",
+          "verification_scope": "核读综述局部；《科学革命的结构》原书仍待核。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程所谓“科学史高于科学”具体针对库恩哪段论证？"
+      ]
+    },
+    {
+      "code": "1-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-watson-behaviorist",
+          "relation": "editorial_reading",
+          "locator": "正文开头三段。",
+          "reason": "核对华生关于客观实验、预测与控制、内省和动物研究的纲领，再区分研究方法与课程给出的政治评价。",
+          "verification_scope": "核读1913年文章开头；没有核验课程涉及的具体矫正机构。"
+        }
+      ],
+      "editorial_notes": [
+        "方法论文本与机构历史、伦理评价需要不同证据。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "1-1-4-4",
+      "reading_links": [
+        {
+          "source_id": "b02-mead-self",
+          "relation": "editorial_reading",
+          "locator": "第18节开头，原书页标135–136附近。",
+          "reason": "理解自我如何在社会经验中发展，以及能成为自身对象何以不同于生理有机体。",
+          "verification_scope": "核读局部；未把“玩梗”这种课程例子当成米德的原始例证。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-1-2-1",
+      "reading_links": [
+        {
+          "source_id": "b02-plato-apology",
+          "relation": "editorial_reading",
+          "locator": "神谕后检验政治家智慧的段落。",
+          "reason": "从苏格拉底检验自以为知者的过程理解其自我限度与提问方式，而不把认识无知等同于拒绝知识。",
+          "verification_scope": "核读柏拉图呈现的申辩局部；不是苏格拉底本人著作。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "关于“美德即知识”的论证应另读哪篇对话？本段仅解决自知与检验问题。"
+      ]
+    },
+    {
+      "code": "2-1-2-2",
+      "reading_links": [
+        {
+          "source_id": "b02-plato-republic",
+          "relation": "editorial_reading",
+          "locator": "第七卷开头洞穴比喻。",
+          "reason": "追踪影像、转身、痛苦与逐渐适应的教育过程，区分比喻中的认识转变与对整套政治制度的评价。",
+          "verification_scope": "核读洞穴比喻开头；未据此验证课程全部柏拉图批评。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-1-2-3",
+      "reading_links": [
+        {
+          "source_id": "b02-aristotle-categories",
+          "relation": "editorial_reading",
+          "locator": "Parts 4–5：类别列表与两种实体。",
+          "reason": "用第一实体和第二实体的层级检验课程对个体、种属和理念的解释，避免把亚里士多德简单写成柏拉图的复述。",
+          "verification_scope": "核读指定段落；形式与质料问题还需另查《形而上学》。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-1-3-3",
+      "reading_links": [
+        {
+          "source_id": "b02-epicurus-menoeceus",
+          "relation": "editorial_reading",
+          "locator": "欲望分类及快乐选择段落；死亡段落。",
+          "reason": "原文按必要性区分欲望，并比较快乐的后果；这提供了检验享乐是否等于即时纵欲的依据。",
+          "verification_scope": "核读相关局部；原子偏斜并非本次所读文本的论证范围。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程的原子偏斜解释还需要哪部原典或传世见证？"
+      ]
+    },
+    {
+      "code": "2-2-2-1",
+      "reading_links": [
+        {
+          "source_id": "b02-laozi-wangbi",
+          "relation": "editorial_reading",
+          "locator": "第三十七章；第二章无为、不居功段。",
+          "reason": "将无为、自化与不争的表达放回经文，并观察王弼怎样解释；能帮助检验课程赋予“承载”一词的额外论证。",
+          "verification_scope": "核读经注局部；未把王弼注直接当作先秦文本原意。"
+        }
+      ],
+      "editorial_notes": [
+        "经文与注文、课程的现代解释分层保存。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-3-1-3",
+      "reading_links": [
+        {
+          "source_id": "b02-spinoza-ethics1",
+          "relation": "editorial_reading",
+          "locator": "第一部定义III–VI、命题XIV。",
+          "reason": "从定义和证明重建实体、属性、样态的关系，检验把万物称为神的“部分”是否准确。",
+          "verification_scope": "核读相关定义与一个命题；人的伦理姿态需另读后续各部。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-3-2",
+      "reading_links": [
+        {
+          "source_id": "b02-descartes-meditation2",
+          "relation": "editorial_reading",
+          "locator": "第二沉思网页第1–4段。",
+          "reason": "以笛卡尔这个课程列举的代表为切入点，观察怀疑中何种确定性先被保留，为后续心身问题建立阅读顺序。",
+          "verification_scope": "只读第二沉思开头；未将其等同于第六沉思的完整心身区分证明。"
+        }
+      ],
+      "editorial_notes": [
+        "本条包含多个时代的思想家，一份笛卡尔文本不覆盖整个分支。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-3-2-4",
+      "reading_links": [
+        {
+          "source_id": "b02-descartes-meditation2",
+          "relation": "editorial_reading",
+          "locator": "第二沉思第3–4段。",
+          "reason": "检查“我在”的确定性如何在受骗和怀疑情境中成立，再读它与“我是什么”的区分。",
+          "verification_scope": "核读局部；课程的符号学和创伤解释属于另一解释层。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-3-3",
+      "reading_links": [
+        {
+          "source_id": "b02-leibniz-monadology",
+          "relation": "editorial_reading",
+          "locator": "§§1–7。",
+          "reason": "区分无部分的简单实体与物理微粒，理解“无窗”关于外部作用的限定。",
+          "verification_scope": "核读节次；未把单子直接等同于康德的物自身。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程把单子说明为符号学封闭时，哪些性质来自原文，哪些属于重述？"
+      ]
+    },
+    {
+      "code": "2-3-3-1",
+      "reading_links": [
+        {
+          "source_id": "b02-leibniz-monadology",
+          "relation": "editorial_reading",
+          "locator": "§§78–79，并回看§§4–6。",
+          "reason": "从目的因与动力因的协调理解前定和谐，同时核对自然过程中不可分解与绝对不可毁灭的差别。",
+          "verification_scope": "核读所列节次；原文§6允许创生和湮灭，不能把“不生不灭”无条件化。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-4-1",
+      "reading_links": [
+        {
+          "source_id": "b02-hobbes-leviathan13",
+          "relation": "editorial_reading",
+          "locator": "第十三章开头平等、不信任和竞争段落。",
+          "reason": "为条目明确提到的《利维坦》提供政治论证入口，阅读从脆弱性和平等希望到冲突的推导。",
+          "verification_scope": "仅覆盖本条霍布斯线索，不代表经验主义所有流派。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "关于语言与唯名论应另定位《利维坦》第四章；本批没有完成该章核读。"
+      ]
+    },
+    {
+      "code": "2-4-1-3",
+      "reading_links": [
+        {
+          "source_id": "b02-berkeley-principles",
+          "relation": "editorial_reading",
+          "locator": "正文§§1–2、27。",
+          "reason": "直接核对被动观念与能感知、能行动的精神的区分，避免把精神当成另一种观念。",
+          "verification_scope": "核读正文三处；未用导论段号替代正文。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-4-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-hume-enquiry",
+          "relation": "editorial_reading",
+          "locator": "第四节第一部分§§20–21；第五节第一部分§36。",
+          "reason": "区分观念关系与事实推断，并阅读习惯怎样解释经验预期；可检验课程把因果推断归为意志活动的表述。",
+          "verification_scope": "核读上述段落；没有据此断言休谟承认可直接认识外部物质。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "2-4-4",
+      "reading_links": [
+        {
+          "source_id": "b02-dewey-experience",
+          "relation": "editorial_reading",
+          "locator": "第十一章第一节开头三段。",
+          "reason": "从行动、承受后果与联系形成说明经验，理解杜威为何反对把学习者当成旁观者。",
+          "verification_scope": "核读具体教育论证；未用它概括全部实用主义，也未把无目的性直接归给杜威。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "relation": "editorial_reading",
+          "locator": "§2意向性及意向充实；§3相关性研究。",
+          "reason": "先区分意向行为与对象的给予方式，为课程现象学总论提供概念对照。",
+          "verification_scope": "综述局部核读；只覆盖胡塞尔这个入口，不代表全部现象学传统。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "relation": "editorial_reading",
+          "locator": "§3自然态度、epoché与还原段落。",
+          "reason": "说明悬置针对未审查的有效性接受，而不是把世界删除或宣布其不存在。",
+          "verification_scope": "核读学术综述对胡塞尔的解释；未核对《观念I》具体中译版本。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-1-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "relation": "editorial_reading",
+          "locator": "§2意向充实、明证性与principle of all principles段落。",
+          "reason": "用意指与直观充实的差别理解明证性，并保留给予界限，避免把直观理解为任意确信。",
+          "verification_scope": "核读综述局部；原著及其引文页码仍待直接核验。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-3-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "relation": "editorial_reading",
+          "locator": "导言存在问题；§2.2在世存在开头。",
+          "reason": "对照基础存在论与此在分析的研究任务，明确这里并非仅在分类某些人的生活态度。",
+          "verification_scope": "核读海德格尔综述局部；不能因此把课程对Existentialism的特殊译名宣布为学界唯一译法。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-3-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "relation": "editorial_reading",
+          "locator": "§2.2.3 Being-in。",
+          "reason": "比较情绪状态、领会、言谈的共同原初地位，检验课程环节链是否把相互依存写成线性派生。",
+          "verification_scope": "核读该节开头；没有完成《存在与时间》相应原文校勘。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-3-1-2",
+      "reading_links": [
+        {
+          "source_id": "b02-sartre-humanism",
+          "relation": "editorial_reading",
+          "locator": "裁纸刀例子至人没有预定本质的论述。",
+          "reason": "从人造物与人的比较理解存在先于本质，并为考察选择和责任建立起点。",
+          "verification_scope": "核读短篇节选局部；《存在与虚无》的虚无发生论另需专门阅读。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-4",
+      "reading_links": [
+        {
+          "source_id": "b02-saussure-third-course",
+          "relation": "editorial_reading",
+          "locator": "1910年11月4日讲课，语言作为社会产品的段落。",
+          "reason": "从语言系统与个人发音活动的区分进入符号研究，为总论提供一个具体传统。",
+          "verification_scope": "核读课程笔记节选；不声称索绪尔覆盖本树所有符号学流派。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-4-1",
+      "reading_links": [
+        {
+          "source_id": "b02-saussure-third-course",
+          "relation": "editorial_reading",
+          "locator": "Chapter V, Value of terms and meanings of words 开头。",
+          "reason": "比较单个符号的意义与系统中相邻项形成的价值，理解为何不能只把语言看成名称清单。",
+          "verification_scope": "核读第三次课程笔记局部；未以此否认索绪尔同时研究历史变化。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-4-4",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-gadamer",
+          "relation": "editorial_reading",
+          "locator": "§3.1 The Positivity of ‘Prejudice’。",
+          "reason": "从可修订的前判断理解解释学循环，并区分传统给予理解的条件与无条件服从成见。",
+          "verification_scope": "核读综述局部；课程把永恒轮回纳入该论证的关系仍待原讲证据。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "3-4-4-3",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-wittgenstein",
+          "relation": "editorial_reading",
+          "locator": "§3.3 Meaning as Use，至语言游戏引入。",
+          "reason": "观察意义研究怎样转向用法的多样性，并保留§43所限定的适用范围。",
+          "verification_scope": "核读综述；未将“意义即用法”当成无例外定义，也未把它直接等同于拉康理论。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-2",
+      "reading_links": [
+        {
+          "source_id": "b02-lenin-state-revolution3",
+          "relation": "editorial_reading",
+          "locator": "第三章第1–2节。",
+          "reason": "提供现实政治形式与制度改造的一个历史对读：理论如何通过巴黎公社经验被重新检查。",
+          "verification_scope": "编者背景阅读；没有把国家问题直接定为课程“现实的正统化”的全部含义。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "本支课程如何解释“正统化”？需在原讲定义后重新检验这一阅读关联。"
+      ]
+    },
+    {
+      "code": "4-2-2",
+      "reading_links": [
+        {
+          "source_id": "b02-lenin-state-revolution3",
+          "relation": "editorial_reading",
+          "locator": "第三章第1节以及第2节开头。",
+          "reason": "以列宁明确展开的公社经验分析进入其国家理论，避免仅用“组织纪律”概括列宁主义。",
+          "verification_scope": "核读两处；本书不能代表列宁全部时期的策略与理论。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-2-3-1",
+      "reading_links": [
+        {
+          "source_id": "b02-lenin-state-revolution3",
+          "relation": "editorial_reading",
+          "locator": "第三章第1节现成国家机器段、第2节替代机构段。",
+          "reason": "把接管人员、运用旧机器与改造制度形式区分开，检查“接管国家机器”这一名称可能隐去的问题。",
+          "verification_scope": "核读相关论述；不把课程标题单独认定为对列宁的错误概括。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲的“接管”是否包含机器结构的改造？"
+      ]
+    },
+    {
+      "code": "4-3",
+      "reading_links": [
+        {
+          "source_id": "b02-marx-gotha",
+          "relation": "editorial_reading",
+          "locator": "第一部分高级阶段条件及生产条件与消费分配关系。",
+          "reason": "以生产关系、分工与发展条件约束理想社会的讨论，避免只剩分配口号。",
+          "verification_scope": "核读第一部分局部；没有据此证明具体建设方案的现实可行性。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-3-1",
+      "reading_links": [
+        {
+          "source_id": "b02-marx-gotha",
+          "relation": "editorial_reading",
+          "locator": "第一部分：个人分配之前的共同需要扣除。",
+          "reason": "从学校、保健、丧失劳动能力者的保障等共同需要，思考生活必需品不能只按个人即时领取来理解。",
+          "verification_scope": "核读扣除论述；这是一种历史理论模型，不是本轮计算出的经济预算。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-3-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-marx-gotha",
+          "relation": "editorial_reading",
+          "locator": "第一部分：补偿生产资料、扩大生产与后备基金。",
+          "reason": "把生产维持、再生产和风险准备纳入组织经济生活的阅读问题，区分社会总产品与可直接消费部分。",
+          "verification_scope": "核读指定段落；未把它当作现成行政操作方案。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-3-2",
+      "reading_links": [
+        {
+          "source_id": "b02-engels-socialism",
+          "relation": "editorial_reading",
+          "locator": "第三节：生产力的社会性质与有计划调节。",
+          "reason": "检视生产者如何从受生产力量支配转为共同理解和安排生产活动。",
+          "verification_scope": "核读局部；不能单凭这段证明具体所有制形式已实现解放。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-3-2-3",
+      "reading_links": [
+        {
+          "source_id": "b02-marx-gotha",
+          "relation": "editorial_reading",
+          "locator": "第四部分B：教育、劳动日、妇女劳动和儿童劳动段落。",
+          "reason": "在同一历史文献中对照经济、教育和家庭成员劳动问题，保留年龄、劳动时间和保护条件等文本限定。",
+          "verification_scope": "核读历史论争文本；不作为当代童工、健康或法律建议，不把19世纪性别判断自然化。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程如何处理其历史局限，是否另引妇女解放的专门文献？"
+      ]
+    },
+    {
+      "code": "4-3-3-3",
+      "reading_links": [
+        {
+          "source_id": "b02-engels-socialism",
+          "relation": "editorial_reading",
+          "locator": "第三节：国家所有尚非冲突解决、社会直接占有生产力段落。",
+          "reason": "区分法律上的国家所有与生产关系的实际改变，用来追问“资本社会化”的具体内容。",
+          "verification_scope": "核读明确区分段落；不把国有化和社会解放简单画等号。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    },
+    {
+      "code": "4-4",
+      "reading_links": [
+        {
+          "source_id": "b02-more-utopia-trades",
+          "relation": "editorial_reading",
+          "locator": "行业与生活方式章开头。",
+          "reason": "提供早期乌托邦文学如何具体安排劳动和生活的对照样本，供讨论理想制度描述与“不可能”的含义差别。",
+          "verification_scope": "编者比较阅读；不宣称莫尔是该讲来源或课程的“不可能”来自这本书。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲的“不可能”指政治条件、主体结构还是文学构想？应据原讲收窄此关联。"
+      ]
+    },
+    {
+      "code": "4-4-1",
+      "reading_links": [
+        {
+          "source_id": "b02-more-utopia-trades",
+          "relation": "editorial_reading",
+          "locator": "同章劳动时间、闲暇与公共讲授段落。",
+          "reason": "比较计划良好的生活如何同时涉及休息、学习与社会规训，提出何种安排真正改善人的生活的问题。",
+          "verification_scope": "核读局部；未把文学叙述当成已经实施的社会试验。"
+        }
+      ],
+      "editorial_notes": [
+        "文中的性别分工与家长制安排需要历史化阅读，不能因“乌托邦”标题而直接认可。"
+      ],
+      "open_questions": [
+        "原讲在何处使用这些概念，与此处原典或学术解释有哪些差别？"
+      ]
+    }
+  ]
+}

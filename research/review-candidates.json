@@ -1,0 +1,41 @@
+{
+  "upstream_data_commit": "608a5b5a05301d311d460d57f99997768532400a",
+  "applied_to_upstream_data": false,
+  "candidates": [
+    {
+      "code": "1-1-3-1",
+      "field": "axis_list[2]",
+      "category": "possible_typo",
+      "observed": "认识论3 理状态的多重可实现性",
+      "proposal": "核对是否缺少“心”字，应为“心理状态的多重可实现性”。",
+      "status": "pending_source_check"
+    },
+    {
+      "code": "1-1-2",
+      "field": "ch_name",
+      "category": "name_variant",
+      "observed": "构建主义",
+      "proposal": "与原视频、早期课程的“建构主义/建构论”核对；保留版本异名，不静默替换。",
+      "status": "pending_course_version_check",
+      "comparison_url": "https://www.bilibili.com/video/BV1cb411U7Gr/"
+    },
+    {
+      "code": "3-2-1-1",
+      "field": "axis_list[1]; feature_list[1]",
+      "category": "terminology_and_interpretation",
+      "observed": "Transcendent 被写为“先验的”；摘要将上帝与本体性的物自体直接联系为同一。",
+      "proposal": "分开检查先验/超验译词、物自体/本体/上帝理念；若原讲如此，保留课程转述并增加原典对照，不能冒称已纠正原作者。",
+      "status": "pending_lecture_and_primary_text_comparison",
+      "source_ids": ["kant-cpr-meiklejohn", "sep-kant-ti"]
+    },
+    {
+      "code": "3-2-4-1",
+      "field": "feature_list[0]",
+      "category": "bibliographic_structure",
+      "observed": "《逻辑学》三部分被写成存在论、本质论、理念论。",
+      "proposal": "增加目录对照：Being、Essence、Notion。检查“概念论”大部与“理念”部分的区别；原讲措辞与中文底本未核实前不覆盖。",
+      "status": "english_toc_difference_confirmed_lecture_attribution_pending",
+      "source_ids": ["hegel-logic-toc"]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "batch": "07-dollar-b",
+  "checked_on": "2026-11-13",
+  "scope": "公开ASR文本的有定位课程摘要，未核听原音。",
+  "sources": [
+    {
+      "id": "d07-BV17q4y1A7LK",
+      "title": "【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处，未能被黑格尔道出（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV17q4y1A7LK__5390c36189.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–36，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–36",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "7bb3bd954eaa7da56a94fd09aaa9f8db81790a745f973f2914ecc00a0bedca8d",
+      "git_blob_sha": "785425ef77bc9a4f0e132b0424a6cd4b127f8f02",
+      "upstream_path": "corpus/bilibili-asr/BV17q4y1A7LK__5390c36189.txt"
+    },
+    {
+      "id": "d07-BV16R4y1g7y7",
+      "title": "【主义主义】对定量的概念化（$-1-2-1）——看到一个数，感觉到它或大或小，发生了什么？（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV16R4y1g7y7__2683341726.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–68，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–68",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "d1d502dd57dfd92ef94db53927a641226d793f3a37be4d164ec0940cca548d5c",
+      "git_blob_sha": "28408f6dc60a82bae03d3180717651a9c430b335",
+      "upstream_path": "corpus/bilibili-asr/BV16R4y1g7y7__2683341726.txt"
+    },
+    {
+      "id": "d07-BV1Xq4y1A7jg",
+      "title": "【主义主义】数学的规定间性（$-1-2-2）——事物在生成中必定要设立基本的单元量（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Xq4y1A7jg__ca386804f4.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–62，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–62",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "9d8d95bffa223b83d753de8f54dfe5776ba41977911681d58f220255bef13201",
+      "git_blob_sha": "016a0007d9792c76f137906205991e9e6a1945fb",
+      "upstream_path": "corpus/bilibili-asr/BV1Xq4y1A7jg__ca386804f4.txt"
+    },
+    {
+      "id": "d07-BV1jT4y127wL",
+      "title": "【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学，比早期谢林的物质发生学要精致得多（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1jT4y127wL__5af960ae19.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–57，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–57",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "2db93f63653627837a4e60a4a61b0bbb2e98ecd30b810a6075b1199ccb9ad023",
+      "git_blob_sha": "3ece1f0044d8392ce4beb6eabb4eb9a1f174083f",
+      "upstream_path": "corpus/bilibili-asr/BV1jT4y127wL__5af960ae19.txt"
+    },
+    {
+      "id": "d07-BV12a411279L",
+      "title": "【主义主义】泰然让之（$-1-2-4）——通过自我关联的否定，从质、量、尺度抵达“本质”（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV12a411279L__93118dc3d0.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–40，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–40",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "4538834a8a9960d5d6c2f49084ad6a8e8015f061cb5725eac065be745c7280c8",
+      "git_blob_sha": "6b09e7fa9ad45c79dc042a0749110713ac5376c5",
+      "upstream_path": "corpus/bilibili-asr/BV12a411279L__93118dc3d0.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV17q4y1A7LK",
+      "series_code": "$-1-2",
+      "title": "【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处，未能被黑格尔道出",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "一阶线性符号体系对应本讲的定量：不同数量开始各有符号身份，可堆叠的倾向转成可表示的数目与单位关系。认识论2因此被讲者重构为语法关系与人造数字符号串的分裂。",
+          "source_ids": [
+            "d07-BV17q4y1A7LK"
+          ],
+          "locator": "L1–12"
+        },
+        {
+          "text": "课程把加法联系于后继与差异，把乘法说明为改变计数单位，把幂关系理解为进一步让数量作用于自身。这些例子用于解释数目和单位相互规定，而非给出完整数学基础。",
+          "source_ids": [
+            "d07-BV17q4y1A7LK"
+          ],
+          "locator": "L13–22"
+        },
+        {
+          "text": "讲者强调数字书写具有任意性，却能在一个符号系统内部获得相对自治；他由此重新评价毕达哥拉斯，并认为不能仅凭纯思忽略技术性符号的中介。",
+          "source_ids": [
+            "d07-BV17q4y1A7LK"
+          ],
+          "locator": "L23–30"
+        },
+        {
+          "text": "结尾将这套说明明确称作对黑格尔的符号学、结构主义改造。下一步将由定量走向程度与比例；这并不意味着黑格尔原书已经采用相同的四格或符号学术语。",
+          "source_ids": [
+            "d07-BV17q4y1A7LK"
+          ],
+          "locator": "L31–36"
+        }
+      ],
+      "editorial_notes": [
+        "课程自定名称“一阶线性符号体系”不能直接等同于现代数理逻辑的一阶逻辑。",
+        "本讲多次把“黑格尔没有充分揭示”与“我的思考”区分；摘要保留这种解释归属。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-being",
+          "relation": "editorial_reading",
+          "locator": "§437–444",
+          "reason": "对读定量的界限与数；课程线性符号体系是解释路径。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV16R4y1g7y7",
+      "series_code": "$-1-2-1",
+      "title": "【主义主义】对定量的概念化（$-1-2-1）——看到一个数，感觉到它或大或小，发生了什么？",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "对于定量的构思对应degree：讲者用“某数很大或很小”的感觉说明把定量当作有内在性质的程度，并对照温度感受与温度计刻度这一内涵量、外延量的例子。",
+          "source_ids": [
+            "d07-BV16R4y1g7y7"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "这种看似直接的大小感觉依赖与其他数的差异，以及计数、交易等实践背景。若忘记比较关系，就会把程度误当作该数孤立拥有的性质；其外部关系则以始终可增可减的潜能返回。",
+          "source_ids": [
+            "d07-BV16R4y1g7y7"
+          ],
+          "locator": "L12–24、L28–33"
+        },
+        {
+          "text": "目的论1被命名为差分性的自我规定，认识论2继续表现为纯思或语法与额外符号系统之间的张力。讲者据此强调，数量的内在性并不是不经中介的感性属性。",
+          "source_ids": [
+            "d07-BV16R4y1g7y7"
+          ],
+          "locator": "L25–27、L34–50"
+        },
+        {
+          "text": "当比较关系不再被遗忘，注意点可从某数的孤立大小转向数与数之间的稳定比例，由此过渡到尺度。后半讲另从劳动行动与计量符号的对应关系提出唯物主义发生解释，并说明逻辑次序不是实际历史的逐步重演。",
+          "source_ids": [
+            "d07-BV16R4y1g7y7"
+          ],
+          "locator": "L51–68"
+        }
+      ],
+      "editorial_notes": [
+        "劳动敲击、记号和分配的情境是讲者用于发生学解释的设例，不是已核实的人类学起源史。",
+        "关于某事发生一次与无数次的口述归引未经本轮原典核验，未将该强断言纳入摘要结论。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-degree",
+          "relation": "editorial_reading",
+          "locator": "§472–482",
+          "reason": "核对程度如何既单一又由其他程度规定，并与广延量互转。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Xq4y1A7jg",
+      "series_code": "$-1-2-2",
+      "title": "【主义主义】数学的规定间性（$-1-2-2）——事物在生成中必定要设立基本的单元量",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲把“数学的规定间性”用于说明规定之间的数量关系：尺度先以任意选取的单位出现，尚未成为由事物自身关系决定的实在尺度。",
+          "source_ids": [
+            "d07-BV1Xq4y1A7jg"
+          ],
+          "locator": "L1–10"
+        },
+        {
+          "text": "尺子与谷物等例子用于追问量的改变如何表现为质的改变；尺度关系需要反思各个规定之间的联系，不能只把结果写成一个孤立数字。",
+          "source_ids": [
+            "d07-BV1Xq4y1A7jg"
+          ],
+          "locator": "L11–24"
+        },
+        {
+          "text": "主讲将目的论上的张力概括为符号关系的自主运作与确立中心单位的标准化之间的冲突。某个量被用作“一”时，其原本任意的选取过程容易被遗忘。",
+          "source_ids": [
+            "d07-BV1Xq4y1A7jg"
+          ],
+          "locator": "L25–31、L44–61"
+        },
+        {
+          "text": "幂次与递归集合的讨论服务于单位如何保留关系的哲学问题；主讲在推演中明确表示“这里不一定对”，因此应按探索性说明阅读，不能当成已经证明的数学定理。",
+          "source_ids": [
+            "d07-BV1Xq4y1A7jg"
+          ],
+          "locator": "L32–43"
+        },
+        {
+          "text": "课程最后将这种依靠外在标准的尺度推向下一讲的实在尺度：不同规定的关联要成为事物存在条件的一部分。",
+          "source_ids": [
+            "d07-BV1Xq4y1A7jg"
+          ],
+          "locator": "L48–62"
+        }
+      ],
+      "editorial_notes": [
+        "“规定间性”按本课程的用语保留。物理常数、温度运算与集合论例证未作学科验证，摘要不据此建立物理或数学结论。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-measure",
+          "relation": "editorial_reading",
+          "locator": "§714–731",
+          "reason": "对读外加单位与量的质性规定，区分度量操作和尺度概念。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1jT4y127wL",
+      "series_code": "$-1-2-3",
+      "title": "【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学，比早期谢林的物质发生学要精致得多",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "实在尺度被用于说明普通事物依赖相互交织的条件而存在。“无尺度”不是随意取消这些条件的经验事实，而是对尺度限制及其超出的哲学追问。",
+          "source_ids": [
+            "d07-BV1jT4y127wL"
+          ],
+          "locator": "L1–9"
+        },
+        {
+          "text": "用水的相变选取参考单位，与火和陶土之间实际发生的变化关系，是两种不同层次。后者不依赖观察者选取哪一个计量标准，而形成具有节点和阈值的关系网络。",
+          "source_ids": [
+            "d07-BV1jT4y127wL"
+          ],
+          "locator": "L10–20"
+        },
+        {
+          "text": "主讲把质对量的改变的承受、量对孤立抽象单位的放弃，解释为互相嵌入的过程，并由此讲述能够持存的实在物质如何在这套逻辑中出现。",
+          "source_ids": [
+            "d07-BV1jT4y127wL"
+          ],
+          "locator": "L21–37"
+        },
+        {
+          "text": "这是一种哲学上的发生论讲解。主讲说明本讲只选择尺度章中的部分内容，并讨论黑格尔时代自然科学的限制；相关例子不构成现代物理学对该逻辑的实验证明。",
+          "source_ids": [
+            "d07-BV1jT4y127wL"
+          ],
+          "locator": "L38–46"
+        },
+        {
+          "text": "末尾把认识中的语法组织与外部自然关系联系起来，强调阈值与不连续变化，并将这一讨论引向符号秩序批判及人的解放问题。",
+          "source_ids": [
+            "d07-BV1jT4y127wL"
+          ],
+          "locator": "L47–57"
+        }
+      ],
+      "editorial_notes": [
+        "量变、相变与自然法则的例子按讲解语境整理，不将未核定的数值或热力学说法写作自然科学事实。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-real-measure",
+          "relation": "editorial_reading",
+          "locator": "§742–744",
+          "reason": "从实在尺度章开头对照尺度之间的关系，仅关联该开篇。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV12a411279L",
+      "series_code": "$-1-2-4",
+      "title": "【主义主义】泰然让之（$-1-2-4）——通过自我关联的否定，从质、量、尺度抵达“本质”",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲以“泰然让之”连接尺度章末尾的无差别性与本质的生成。这个对应是主讲在课程框架内对海德格尔术语与黑格尔逻辑环节的关联，不是二者术语可以直接互换的论证。",
+          "source_ids": [
+            "d07-BV12a411279L"
+          ],
+          "locator": "L1–8"
+        },
+        {
+          "text": "无差别性在有、量和尺度中有不同表现。这里所说的统一者能承载质、量及比例关系，却又通过这些规定与自身发生关联，因而不能简单理解成毫无关系的空底座。",
+          "source_ids": [
+            "d07-BV12a411279L"
+          ],
+          "locator": "L6–15"
+        },
+        {
+          "text": "线条的颜色、长度、直曲和连续性不断变化时，人仍可能把它认作同一对象。主讲以这种辨认过程说明统一性如何超出任何一项具体属性。",
+          "source_ids": [
+            "d07-BV12a411279L"
+          ],
+          "locator": "L16–29"
+        },
+        {
+          "text": "颜色与形状等规定又互相约束、互为尺度；统一者不是任意附加的名称，而在这种关联中被理解为本质，具体属性则被回溯地理解为其表现。",
+          "source_ids": [
+            "d07-BV12a411279L"
+          ],
+          "locator": "L30–34"
+        },
+        {
+          "text": "格位说明把认识论张力放在先验语法与质的相互约束关系之间，把目的论4解释为无动于衷的放任，并将逻辑学描述为本质生成的研究。",
+          "source_ids": [
+            "d07-BV12a411279L"
+          ],
+          "locator": "L35–40"
+        }
+      ],
+      "editorial_notes": [
+        "关于机器无法生成本质表象的断言没有技术证据，本导读不据此作人工智能能力判断。海德格尔、斯宾诺莎的对应属于主讲的跨文本解释。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-indifference",
+          "relation": "editorial_reading",
+          "locator": "§785–793",
+          "reason": "对读绝对无差别；不据中文课程标题将其等同海德格尔的泰然任之。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}

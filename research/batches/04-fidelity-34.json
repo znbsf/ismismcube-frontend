@@ -1,0 +1,1580 @@
+{
+  "batch": "04-fidelity-34",
+  "checked_on": "2026-11-13",
+  "scope": "3-4整支21条的选定核心命题与固定commit社区编纂正文对照；逐条记录实际范围，不能表述为21条摘要全部通过。原典对照与课程忠实性分开。02-review原典提醒继续有效，本批只更新其课程来源待核问题。",
+  "sources": [
+    {
+      "id": "f34-0254",
+      "title": "未明子 3-4 符号学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 4，L20；Page 5，L23；Page 10，L38；Page 12–13，L46、L49",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "0f39499271d9f9f8d3506e64faa155cd5205e346dfd856840679f832e6525ed4",
+      "git_blob_sha": "97c92a561e144bf0af9a7ee145bf5aba4f7112fa",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_符号学/0254_3-4_符号学_p6567.md"
+    },
+    {
+      "id": "f34-0256",
+      "title": "未明子 3-4-1 结构主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 3–4，L15、L18；Page 2，L12；Page 5，L21",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "b188da86fd06f06762312ba9dee2ff76017a6ed83cd3f946cf024ba0c51a8feb",
+      "git_blob_sha": "c23fdd27656b6a91c8a8364accc41980b03efefc",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/0256_3-4-1_结构主义_p6644.md"
+    },
+    {
+      "id": "f34-0257",
+      "title": "未明子 3-4-1-1 结构人本主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 6，L24；Page 13，L45；Page 16–17，L54、L57",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "0a7ecba198b0f718777bfdbc41d96eb4fa075a0d58de42494ba2bd9347f8e9b5",
+      "git_blob_sha": "1cd570a46a8a1d3c5eeadb986b2b72d2272f5b53",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-1_结构人本主义/0257_3-4-1-1_结构人本主义_p6667.md"
+    },
+    {
+      "id": "f34-0258",
+      "title": "未明子 3-4-1-2 隐喻的象征主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 3，L15；Page 8，L30；Page 23–24，L76、L79",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "1890c96a9515def2002f5b93fcceaecc6773e7b073cf4bc94e6246efba299a92",
+      "git_blob_sha": "4aeac7141fbb0f79f1474f6fe117afea4e3334f5",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-2_隐喻的象征主义/0258_3-4-1-2_隐喻的象征主义_p6702.md"
+    },
+    {
+      "id": "f34-0259",
+      "title": "未明子 3-4-1-3 分类性的叙事学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 7–8，L39、L44；Page 6，L34；Page 9–10，L47、L50",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "7ceb1c1adb62d2fecfce52e8cc531c8a92824666ad8890a3091c7bfbdf5f4828",
+      "git_blob_sha": "40ac9b52ed59997716ad12e7314b88aa81f4f505",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-3_分类性的叙事学/0259_3-4-1-3_分类性的叙事学_p6740.md"
+    },
+    {
+      "id": "f34-0260",
+      "title": "未明子 3-4-1-4 陈述性的话语主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 3，L15、L17；Page 5–6，L24、L27；Page 19–20，L100、L103；Page 22–23，L109、L112",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "bcfd6fb75bde6d013e021b1399e67c28a1561f5f5d84f02d4262f08756d82a8d",
+      "git_blob_sha": "574fb6baf64c6888055923260d5e85e7ec88c28b",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-4_陈述性的话语主义/0260_3-4-1-4_陈述性的话语主义_p6762.md"
+    },
+    {
+      "id": "f34-0261",
+      "title": "未明子 3-4-2 后结构主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1–2，L9、L14；Page 6，L34；Page 13–15，L101–130；Page 20–22，L156、L159、L162；Page 16–19，L140–153",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "cb7893bd7950b33f8827675afad78ab05390ff0e0652c0be09b94e433911f132",
+      "git_blob_sha": "85a8510bc5d3bcd87e18aa07e8d0df1fc664c086",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/0261_3-4-2_后结构主义_p6792.md"
+    },
+    {
+      "id": "f34-0262",
+      "title": "未明子 3-4-2-1 无意识的主体主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 2，L12；Page 5，L21；Page 10，L36；Page 30，L96",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "10835bb93a75a1953f2fb1b3435267763b0fdc4b0e76472d7f19cc2c3e50a62f",
+      "git_blob_sha": "7a3eb8418d89b3264a65880cc9a49662aba4829a",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-1_无意识的主体主义/0262_3-4-2-1_无意识的主体主义_p6815.md"
+    },
+    {
+      "id": "f34-0263",
+      "title": "未明子 3-4-2-2 静止的事件主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 3、5，L15、L21；Page 11–12，L39、L42",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "a4b849ff9b9d6de030ab9abd4dbd6b3a6ecd65491e2a004f2b0a224fb46d7124",
+      "git_blob_sha": "7c0519418d0405c7cd763a7af1e5cd6246ba61b2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-2_静止的事件主义/0263_3-4-2-2_静止的事件主义_p6848.md"
+    },
+    {
+      "id": "f34-0264",
+      "title": "未明子 3-4-2-3 哲学的意识形态主义/墨守成规（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 5–6，L21、L24；Page 13–14，L45、L48；Page 18–19，L60、L63",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "533abde010fc4a0a41db225bffb3a3d7ef30204fd1b666d036f228339ccae0e6",
+      "git_blob_sha": "dc90be0b88756b6e2a9afae2d1dff71628d7af81",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-3_哲学的墨守成规/0264_3-4-2-3_哲学的墨守成规_p6880.md"
+    },
+    {
+      "id": "f34-0265",
+      "title": "未明子 3-4-2-4 螺旋的贱斥主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1、3，L9、L19；Page 7，L39；Page 12，L54",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "9831be1b987a734f25f9b5c9e2643df0735d037d76e4a4414700f4d7441e4d54",
+      "git_blob_sha": "f12812e095ec5a67b4268c6f1acbf7f971169a06",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-4_螺旋的贱斥主义/0265_3-4-2-4_螺旋的贱斥主义_p6900.md"
+    },
+    {
+      "id": "f34-0266",
+      "title": "未明子 3-4-3 差异的辩证法（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 13，L45；Page 23，L81；Page 9–11，L33、L36、L39",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "7233df194db41e7b262c6986981e434ff62c759e11b56bc573910bd6a2112bae",
+      "git_blob_sha": "22d2fd9d52be9078168d44a23aa2a4fa9d8510aa",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/0266_3-4-3_差异的辩证法_p6921.md"
+    },
+    {
+      "id": "f34-0267",
+      "title": "未明子 3-4-3-1 游牧的辩证主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 4、6，L18、L24；Page 21–22，L69、L72；Page 22–26，L72、L75、L78、L81、L84",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "ef6855044ab77161e79a2c1d6e388ba98aa46642dd077ed667c353212a64f088",
+      "git_blob_sha": "1a330a90f2124630a9aaabc45be6499e591dfe6b",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-1_游牧的辩证主义/0267_3-4-3-1_游牧的辩证主义_p6954.md"
+    },
+    {
+      "id": "f34-0268",
+      "title": "未明子 3-4-3-2 圆满的经济学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 4、6，L18、L24；Page 7–8，L27、L30",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "bf247b09ba53ce4249dfdd7ff23387aadd5e60a2c52c51ddd30ac9e7a1293ac5",
+      "git_blob_sha": "016193a5736912ff8840d8875d8a4ce62cceaf82",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-2_圆满的经济学/0268_3-4-3-2_圆满的经济学_p6993.md"
+    },
+    {
+      "id": "f34-0269",
+      "title": "未明子 3-4-3-3 倒错的好客主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 10、12、15，L52、L58、L67",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "09e7267b4318c6314a7192293279df5ad8a7dd02115354997b5a236629984d7a",
+      "git_blob_sha": "03a5b4e177b6633dcae335cb965bef4f80d8cfaf",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-3_倒错的好客主义/0269_3-4-3-3_倒错的好客主义_p7017.md"
+    },
+    {
+      "id": "f34-0270",
+      "title": "未明子 3-4-3-4 局部的总体主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 32，L102；Page 12，L42；Page 23–24，L75、L78",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "8951576b8b1c5ae77e4542779507065bc43595fdcb67c85ad842fd9e822e15d0",
+      "git_blob_sha": "1fe36aec4ec477d741e8fc077805035afe5a24ab",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-4_局部的总体主义/0270_3-4-3-4_局部的总体主义_p7043.md"
+    },
+    {
+      "id": "f34-0271",
+      "title": "未明子 3-4-4 解释学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 8–9，L44、L47；Page 11–12，L57、L60",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "3dca1b6940bee3d4d7b438bb42f5148ccd761ddc38a149179c2344285a10518e",
+      "git_blob_sha": "049ecec5b2651cdd629b856f8e1e6ab7ed75fb0c",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/0271_3-4-4_解释学_p7078.md"
+    },
+    {
+      "id": "f34-0272",
+      "title": "未明子 3-4-4-1 现象学的解释学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 13，L45；Page 6、10，L24、L36",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "6962145cd1dafa911d976b8b56c5e4ae5526064a73d41e8a124a0cbf24131417",
+      "git_blob_sha": "ded703f0a820292300a418b91ad61d513fb286b0",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-1_现象学的解释学/0272_3-4-4-1_现象学的解释学_p7101.md"
+    },
+    {
+      "id": "f34-0273",
+      "title": "未明子 3-4-4-2 经典的精神分析（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1，L9；Page 4，L18；Page 12–14，L46、L51、L56",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "e0a355c4af5572cac2377bce52b71445dbe060e9f123d204b4d5a0b94a0afba3",
+      "git_blob_sha": "7ed3bfabe7f03c035b7c42e29e217c2194613765",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-2_经典的精神分析/0273_3-4-4-2_经典的精神分析_p7119.md"
+    },
+    {
+      "id": "f34-0274",
+      "title": "未明子 3-4-4-3 语言游戏（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 6–8，L24、L27、L30；Page 12、14，L42、L48",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "66a2dd2d9f74208fd9a9128defb97e7c332157b95ff331500d310d617e0d179e",
+      "git_blob_sha": "01e4d9ff8ac059b457e103dec94dbf8c98a2a32c",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-3_语言游戏/0274_3-4-4-3_语言游戏_p7139.md"
+    },
+    {
+      "id": "f34-0275",
+      "title": "未明子 3-4-4-4 针对资本主义的精神分析（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读下面定位的选定段落，与现有摘要核心命题作局部对照；长段按检索词附近约1200–1800字阅读，并非整章逐字校读。文件由PDF整理，可能含编纂/OCR错误；没有回听原音，没有人工审定。章节尾溢出的下一讲未用作本讲证据。",
+      "locator": "Page 1–2，L9–35；Page 9–11，L144、L149、L154；Page 15，L174；Page 5，L73–80",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "544bc0531ccf4fd2dee5d4ee7a2182a0ad4875a3547aa7d9399eaab320e9a742",
+      "git_blob_sha": "abf7ffb94c0b47b3f1fc1ee92e329f056b0f14a2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-4_针对资本主义的精神分析/0275_3-4-4-4_针对资本主义的精神分析_p7160.md"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "符号学运动以结构主义反对现象学",
+          "status": "contradicted_by_compiled_text",
+          "source_ids": [
+            "f34-0254"
+          ],
+          "locator": "Page 4，L20；Page 5，L23",
+          "finding": "原稿明确区分符号学与结构主义运动，否认符号学本身是运动；摘要开头需要修订。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主人能指、所指缺失、无意识结构属于符号学基本原理",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0254"
+          ],
+          "locator": "Page 10，L38",
+          "finding": "原稿明言借拉康说明，不能推广为所有符号学传统的共同原则。"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "结构中介意义与符号、主体是结构效果",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0254"
+          ],
+          "locator": "Page 12–13，L46、L49",
+          "finding": "相应轴说明有编纂文本支持。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 中的索绪尔/拉康混合问题现可定位：讲者本人引入拉康；保留学术对照，摘要须让读者知道此处为课程的综合解释。",
+          "source_ids": [
+            "f34-0254"
+          ],
+          "locator": "Page 4，L20；Page 5，L23；Page 10，L38；Page 12–13，L46、L49"
+        }
+      ],
+      "open_questions": [
+        "索绪尔、皮尔斯等不同符号学传统的差异仍须按原著分列，不由本讲统一定义。"
+      ]
+    },
+    {
+      "code": "3-4-1",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "任意性涉及差异关系，并非个人随意更改语言",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0256"
+          ],
+          "locator": "Page 3–4，L15、L18",
+          "finding": "原稿以狗/dog为例，接着把任意性放回差异关系。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "所指缺失与主人能指缝合",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0256"
+          ],
+          "locator": "Page 2，L12；Page 5，L21",
+          "finding": "原稿先把所指缺失置于索绪尔共时性符号学，再明确使用拉康话语解释缝合；这不是摘要凭空添加的论断。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 对作者层次的提醒继续有效，但忠实性结论应限为：该混合在编纂课文中可以找到。不要用索绪尔原典直接覆盖课程的拉康式重构。",
+          "source_ids": [
+            "f34-0256"
+          ],
+          "locator": "Page 3–4，L15、L18；Page 2，L12；Page 5，L21"
+        }
+      ],
+      "open_questions": [
+        "原稿自身的术语混合与括号校订仍需回听；本轮只核编纂文本。"
+      ]
+    },
+    {
+      "code": "3-4-1-1",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "有限能指与无限所指的张力",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0257"
+          ],
+          "locator": "Page 1，L9；Page 6，L24；Page 13，L45",
+          "finding": "有限能指、有限组合与无限世界的对立在课文重复出现。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "mana兼有缺失及过剩效果",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0257"
+          ],
+          "locator": "Page 16–17，L54、L57",
+          "finding": "原稿在mana段明确援引齐泽克《少于无》的诗性过剩，表明不是单纯逐句转述列维-斯特劳斯。",
+          "related_field_paths": [
+            [
+              "feature_list",
+              0
+            ],
+            [
+              "feature_list",
+              3
+            ]
+          ]
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 所列“列维-斯特劳斯说能指过剩，摘要却说能指匮乏”的疑点，现已找到课程中的有限/无限重构；它不能再单凭差异被判为 AI 错写。原典导言与齐泽克式重读应并列。",
+          "source_ids": [
+            "f34-0257"
+          ],
+          "locator": "Page 1，L9；Page 6，L24；Page 13，L45；Page 16–17，L54、L57"
+        }
+      ],
+      "open_questions": [
+        "《少于无》此处的具体章页未核；不能把课堂提及当成已核齐泽克原文。"
+      ]
+    },
+    {
+      "code": "3-4-1-2",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "早期镜像问题及他者欲望",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0258"
+          ],
+          "locator": "Page 1，L9；Page 3，L15；Page 8，L30",
+          "finding": "原稿特别区分小他者与客体小a，术语不可互换。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "欲望坚持到底与客体小a均属单一早期阶段",
+          "status": "omitted_qualification",
+          "source_ids": [
+            "f34-0258"
+          ],
+          "locator": "Page 23–24，L76、L79",
+          "finding": "讲者在这一段承认可能跨文本；摘要漏掉了这一限定。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "可补回讲者关于跨文本的自我限定；保留02-review的年代对照，不把编纂课文中的综合解释误作早期拉康概念发展年表。",
+          "source_ids": [
+            "f34-0258"
+          ],
+          "locator": "Page 1，L9；Page 3，L15；Page 8，L30；Page 23–24，L76、L79"
+        }
+      ],
+      "open_questions": [
+        "所述各概念首次提出及成熟时间仍需按研讨班原文逐项定位。"
+      ]
+    },
+    {
+      "code": "3-4-1-3",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "叙事模型中的人称化镜像认",
+          "status": "mechanical_error_confirmed",
+          "source_ids": [
+            "f34-0259"
+          ],
+          "locator": "Page 7–8，L39、L44",
+          "finding": "课文为镜像误认；摘要缺误字，其轴说明已经保留完整词。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "零度写作、阅读写作与作者已死的联结",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0259"
+          ],
+          "locator": "Page 6，L34；Page 9–10，L47、L50",
+          "finding": "课文主动将这些论题联结，并说巴特后来会说阅读本身即写作；联结有讲稿依据，但不同著作年代不可抹平。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的书目分期问题不构成直接重写课程的依据；本轮可确定修复“镜像误认”的漏字。",
+          "source_ids": [
+            "f34-0259"
+          ],
+          "locator": "Page 7–8，L39、L44；Page 6，L34；Page 9–10，L47、L50"
+        }
+      ],
+      "open_questions": [
+        "《零度写作》《作者之死》《叙事结构分析导论》的对应段落须另做原著对照。"
+      ]
+    },
+    {
+      "code": "3-4-1-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "陈述、档案与考古学机制",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0260"
+          ],
+          "locator": "Page 3，L15、L17；Page 5–6，L24、L27",
+          "finding": "符号结构、档案与考古学之间的联系在本讲有文本依据。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "福柯只允许微观斗争而没有宏观政治",
+          "status": "supported_as_lecturer_critique",
+          "source_ids": [
+            "f34-0260"
+          ],
+          "locator": "Page 19–20，L100、L103；Page 22–23，L109、L112",
+          "finding": "原稿明确以我对福柯的理解引出微观/宏观模型，随后否定宏观运动和阶段论；这是讲者批评，并非摘要独创的福柯方法定义。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "考古学、谱系学与微观权力在同讲出现的事实已确认。02-review 的学术分期提醒仍保留，读者应将“取消宏观政治”等归为讲者评价。",
+          "source_ids": [
+            "f34-0260"
+          ],
+          "locator": "Page 3，L15、L17；Page 5–6，L24、L27；Page 19–20，L100、L103；Page 22–23，L109、L112"
+        }
+      ],
+      "open_questions": [
+        "课文拼写archive/achive和历史阶段判断未作原音校订；未逐一核对福柯各书。"
+      ]
+    },
+    {
+      "code": "3-4-2",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "把阿尔都塞列入后结构主义的分类",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0261"
+          ],
+          "locator": "Page 1–2，L9、L14；Page 6，L34",
+          "finding": "讲者声明采用自己的辩证唯物主义视野，并区别阿尔都塞本人实践与三字头理论产品。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "经济拥有二阶主导性并始终占主导",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0261"
+          ],
+          "locator": "Page 13–15，L101–130；Page 20–22，L156、L159、L162",
+          "finding": "编纂文本确有其他因素决定主导因素、经济永远主导、回溯性建构主导性等命题；摘要没有独自发明“永远”。",
+          "related_field_paths": [
+            [
+              "feature_list",
+              3
+            ]
+          ]
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "科学对意识形态的加工属于理论实践",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0261"
+          ],
+          "locator": "Page 16–19，L140–153",
+          "finding": "症候阅读与把意识形态加工成政治经济学知识均见原稿。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 提醒“最后决定”不能等同每个场合的直接决定，仍是原典对照；现在确认课程明确自设二阶主导性解释，应把该解释署于讲者。",
+          "source_ids": [
+            "f34-0261"
+          ],
+          "locator": "Page 1–2，L9、L14；Page 6，L34；Page 13–15，L101–130；Page 20–22，L156、L159、L162；Page 16–19，L140–153"
+        }
+      ],
+      "open_questions": [
+        "阿尔都塞原词dominance、determination in the last instance等的逐句对照未完成。"
+      ]
+    },
+    {
+      "code": "3-4-2-1",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "以1950年代为中期拉康，讨论阉割与父性秩序",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0262"
+          ],
+          "locator": "Page 1，L9",
+          "finding": "本文件开头确说五十年代；不是摘要自行添加年代。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体位于S1/S2空隙，回溯性设立又抹除",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0262"
+          ],
+          "locator": "Page 2，L12；Page 5，L21；Page 10，L36；Page 30，L96",
+          "finding": "主体空位、能指对子与回溯运动在已读段有据；课文还以在后面已经搞定了提示跨阶段解释。",
+          "related_field_paths": [
+            [
+              "feature_list",
+              2
+            ],
+            [
+              "feature_list",
+              3
+            ]
+          ]
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的年代疑问已得到“课文确有此年代说法”的局部答案，但尚不等于S1/S2术语在1950年代已全部定型。要区分课程命名和思想史年代。",
+          "source_ids": [
+            "f34-0262"
+          ],
+          "locator": "Page 1，L9；Page 2，L12；Page 5，L21；Page 10，L36；Page 30，L96"
+        }
+      ],
+      "open_questions": [
+        "S1/S2、主体分裂和回溯性的研讨班出处未逐项查证。"
+      ]
+    },
+    {
+      "code": "3-4-2-2",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "用数学话语占领本体论阵地的策略",
+          "status": "supported_as_lecturer_critique",
+          "source_ids": [
+            "f34-0263"
+          ],
+          "locator": "Page 3、5，L15、L21",
+          "finding": "课文确以集合论、拓扑等作阵地比喻；是讲者评价，不是巴迪欧给自己的工作命名。"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "Being为uncountable many及本体论不可能",
+          "status": "supported_with_missing_qualification",
+          "source_ids": [
+            "f34-0263"
+          ],
+          "locator": "Page 11–12，L39、L42",
+          "finding": "课文确有不可数的多；但随即说本体论不可能而又可能，并列艺术、政治、科学、爱情四途。摘要轴只保留不可能，宜补双重限定。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 对不可数多与非一致之多的辨析仍有效：现可确认该英语与中文已在编纂文本中出现，不能说是 AI 译错。可直接补回本体论“不可能而又可能”的课程限定。",
+          "source_ids": [
+            "f34-0263"
+          ],
+          "locator": "Page 3、5，L15、L21；Page 11–12，L39、L42"
+        }
+      ],
+      "open_questions": [
+        "uncountable many的原音与讲者是否意指数学基数未校；原著第一沉思不能替代这一听校。"
+      ]
+    },
+    {
+      "code": "3-4-2-3",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "DEN与四重本体论矩阵",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0264"
+          ],
+          "locator": "Page 5–6，L21、L24",
+          "finding": "讲者说我要拉个矩阵，并联系《少于无》和德谟克里特；四重结构是本讲绘制，不足以认定齐泽克自列四元体系。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "卡住时间、停留否定中的Stucked",
+          "status": "spelling_error_confirmed",
+          "source_ids": [
+            "f34-0264"
+          ],
+          "locator": "Page 13–14，L45、L48；Page 18–19，L60、L63",
+          "finding": "课程编纂文本为Stuck/stuck；可修摘要及轴中的Stucked。卡住与无位置的论述有据。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的英文规范建议现有课程文本支撑，可应用；DEN保留专门术语，不将其作为普通英语缩写展开。",
+          "source_ids": [
+            "f34-0264"
+          ],
+          "locator": "Page 5–6，L21、L24；Page 13–14，L45、L48；Page 18–19，L60、L63"
+        }
+      ],
+      "open_questions": [
+        "《少于无》原书页码及四重矩阵对应关系仍未核，不把讲者图式冠为作者定式。"
+      ]
+    },
+    {
+      "code": "3-4-2-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "abjection被解释为主体、无产者主体",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0265"
+          ],
+          "locator": "Page 1、3，L9、L19",
+          "finding": "讲者使用我甚至可以说，明确把贱斥接到无产者主体与马克思主义。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "三代女性主义与无产者都是女人",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0265"
+          ],
+          "locator": "Page 7，L39；Page 12，L54",
+          "finding": "三代及扩大女性主义均在课文中；第三代的震荡不是顺畅有机螺旋。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 由书目无法确认的两条强命题，现在得到课程归属的证据。它们应标为本讲的马克思主义重构，不能据此宣布《女性的时间》原文逐字作同样断言。",
+          "source_ids": [
+            "f34-0265"
+          ],
+          "locator": "Page 1、3，L9、L19；Page 7，L39；Page 12，L54"
+        }
+      ],
+      "open_questions": [
+        "the semiotics与the semiotic的术语区别，以及第三代主张的原文范围仍待原著对照。"
+      ]
+    },
+    {
+      "code": "3-4-3",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "德里达与黑格尔是同一个人",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0266"
+          ],
+          "locator": "Page 1，L9",
+          "finding": "课文明说在绝对知识、同一性与差异理解上大致如此；是强调理论亲缘的论战表达。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "延异与差异没有意义差别而只有书写差别",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0266"
+          ],
+          "locator": "Page 13，L45；Page 23，L81",
+          "finding": "这一强判断在课文明确出现，不能作为摘要新增错误直接删去；应与德里达原文概念区分并列。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "原初实体、符号化、被回溯建构实体的三元模型",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0266"
+          ],
+          "locator": "Page 9–11，L33、L36、L39",
+          "finding": "课文用该模型解释延异，并接续增补论述。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的语音差异不等于概念等同的提醒继续保留。此次明确：同一意义论是讲者的黑格尔式读法，不是已认证的德里达定义。",
+          "source_ids": [
+            "f34-0266"
+          ],
+          "locator": "Page 1，L9；Page 13，L45；Page 23，L81；Page 9–11，L33、L36、L39"
+        }
+      ],
+      "open_questions": [
+        "未把该读法与德里达《延异》全文逐段比对，亦未听原音。"
+      ]
+    },
+    {
+      "code": "3-4-3-1",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主人肯定与奴隶否定的差异",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0267"
+          ],
+          "locator": "Page 4、6，L18、L24",
+          "finding": "课程先以主人持续免疫虚弱否定和奴隶否定主人讲述两种姿态。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "德勒兹主义必须接纳否定性",
+          "status": "supported_as_lecturer_critique",
+          "source_ids": [
+            "f34-0267"
+          ],
+          "locator": "Page 21–22，L69、L72",
+          "finding": "课文以反问和我要说的是提出内在批评，不能冒充德勒兹本人主动认同黑格尔。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "重复之重复和永恒轮回的二重性",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0267"
+          ],
+          "locator": "Page 22–26，L72、L75、L78、L81、L84",
+          "finding": "同一性/差异、死亡/新生的双重运动在本讲论证中得到展开。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的作者归属问题可具体解决：摘要后半是讲者对德勒兹的内在批评和改造，而不是《尼采与哲学》自称辩证法。建议阅读时明确分段。",
+          "source_ids": [
+            "f34-0267"
+          ],
+          "locator": "Page 4、6，L18、L24；Page 21–22，L69、L72；Page 22–26，L72、L75、L78、L81、L84"
+        }
+      ],
+      "open_questions": [
+        "没有逐段核德勒兹原著；本轮不裁决该批评是否成功。"
+      ]
+    },
+    {
+      "code": "3-4-3-2",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "有限经济学与普遍经济学的区分",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0268"
+          ],
+          "locator": "Page 4、6，L18、L24",
+          "finding": "课程以增长积累的计算与无谓耗散作对照。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "无谓耗散与增长达到宇宙平衡的圆满经济学",
+          "status": "supported_as_lecturer_critique",
+          "source_ids": [
+            "f34-0268"
+          ],
+          "locator": "Page 7–8，L27、L30",
+          "finding": "讲者明确说自己把它叫consummate economy，并说明调侃圆房、平衡含义。其定名和系统矛盾批评有课程出处。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 对《被诅咒的部分》增长条件的提醒不变；课程选择突出耗散并批评恢复平衡，这属于课程论证，不是 AI 擅自给巴塔耶改名。",
+          "source_ids": [
+            "f34-0268"
+          ],
+          "locator": "Page 4、6，L18、L24；Page 7–8，L27、L30"
+        }
+      ],
+      "open_questions": [
+        "原书关于耗散、增长、限度与均衡的论述尚未全文对照，不把讲者的调侃当作原著标题。"
+      ]
+    },
+    {
+      "code": "3-4-3-3",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主人/客人/女主人分别对应意识、单称体验和思想",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0269"
+          ],
+          "locator": "Page 1，L9",
+          "finding": "罗伯特夫人及好客寓言的哲学化分配确在课堂文本中。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "好客之道用于尼采永恒轮回与萨德冷漠禁欲的解读",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0269"
+          ],
+          "locator": "Page 10、12、15，L52、L58、L67",
+          "finding": "课文在好客发生学之后分别解读尼采与萨德，摘要核心联结有据。",
+          "related_field_paths": [
+            [
+              "feature_list",
+              1
+            ]
+          ]
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 已核合集书目与单篇区别；本轮确认课程确借好客叙事作哲学解释，但没有因此认证小说中全部情节及真实萨德生平。",
+          "source_ids": [
+            "f34-0269"
+          ],
+          "locator": "Page 1，L9；Page 10、12、15，L52、L58、L67"
+        }
+      ],
+      "open_questions": [
+        "小说中文题名、版本与课程提及的具体篇章仍需核；萨德生平描述不可仅凭课堂转述确证。"
+      ]
+    },
+    {
+      "code": "3-4-3-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "后现代为现代性的一部分及持续危机",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0270"
+          ],
+          "locator": "Page 1，L9；Page 32，L102",
+          "finding": "课程确有此论断，且以危机不可疏解解释后现代。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "paralogism及科学话语冲突的例子",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0270"
+          ],
+          "locator": "Page 12，L42；Page 23–24，L75、L78",
+          "finding": "课文写paralogical、paralogicism，并举爱因斯坦/薛定谔/量子力学三种话语；故问题不只是 AI 编造，但拼写与物理学史仍不由此认证。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的paralogy核词问题保持开放；不把课文的paralogicism直接替代为经过原典核实的标准概念。科学例子归为讲者的说明，不当作已核物理学史。",
+          "source_ids": [
+            "f34-0270"
+          ],
+          "locator": "Page 1，L9；Page 32，L102；Page 12，L42；Page 23–24，L75、L78"
+        }
+      ],
+      "open_questions": [
+        "《后现代状况》13–14节paralogy的准确用法及三类科学话语的历史关系仍需直接来源。"
+      ]
+    },
+    {
+      "code": "3-4-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "偏见是理解条件和敞开力量",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0271"
+          ],
+          "locator": "Page 8–9，L44、L47",
+          "finding": "课文确有正面评价；它没有在这些已读段落逐项区分正当和扭曲理解的偏见。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "问答循环实现视域融合",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0271"
+          ],
+          "locator": "Page 11–12，L57、L60",
+          "finding": "课文强调问题、答案不足、继续追问及本体论更新。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 中“不是所有偏见都正当”保留作原典/学术对照。课程已读段确聚焦偏见的生产性；不把学术补充误写成讲者原句。",
+          "source_ids": [
+            "f34-0271"
+          ],
+          "locator": "Page 8–9，L44、L47；Page 11–12，L57、L60"
+        }
+      ],
+      "open_questions": [
+        "时间距离如何筛选偏见的完整段落未核；不得从积极表述推出每个偏见都正确。"
+      ]
+    },
+    {
+      "code": "3-4-4-1",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "隐喻被讲成不合语法的非法修辞操作",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0272"
+          ],
+          "locator": "Page 1，L9；Page 13，L45",
+          "finding": "非法、不符合语法等措辞见课文；语义张力与语法错误的学术区分仍需保留。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "占有是解释中让陌生文本成为自身领会",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0272"
+          ],
+          "locator": "Page 6、10，L24、L36",
+          "finding": "课文将占有与此在领会、文本多异性和解释中介相连。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 的语义/语法区别不是 AI 忠实性失败的直接证据：该说法来自讲者。读者仍应回到利科的句子语义创新及批判解释，不能把任何语法错误视作隐喻。",
+          "source_ids": [
+            "f34-0272"
+          ],
+          "locator": "Page 1，L9；Page 13，L45；Page 6、10，L24、L36"
+        }
+      ],
+      "open_questions": [
+        "利科各书的修辞、本体论、占有之关系未逐章对照。"
+      ]
+    },
+    {
+      "code": "3-4-4-2",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "经典精神分析不是心理学而是准政治实践",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0273"
+          ],
+          "locator": "Page 1，L9；Page 4，L18",
+          "finding": "原稿开头明确如此说，后面又可将其称实验心理学，显示不同用语层次。可将摘要句首限定为本讲将，而非无条件归给弗洛伊德本人。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "梦的置换、凝缩、视象化和再修饰四机制",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0273"
+          ],
+          "locator": "Page 12–14，L46、L51、L56",
+          "finding": "课文列四机制并明确推荐《梦的心理学》，但神经冲动/视觉脑区的说明是本讲阐释。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "01-review、02-review 留待确认的课程归属现已局部确认：“不是心理学”确见编纂文本。弗洛伊德第35讲的原典差别仍保留；此次修订以本讲将标明归属，不宣称原音听校。",
+          "source_ids": [
+            "f34-0273"
+          ],
+          "locator": "Page 1，L9；Page 4，L18；Page 12–14，L46、L51、L56"
+        },
+        {
+          "text": "进度更新（2026-11-13）：前列01/02批次注中“正文未核”“只有标题”等属于取得讲稿之前的历史状态。本轮已按04-fidelity-34所列位置对照社区编纂正文并限定讲者归属；原典差异注仍有效，未因此宣布全部摘要或原音通过。",
+          "source_ids": [
+            "f34-0273"
+          ],
+          "locator": "见本条checked_claims逐项定位"
+        }
+      ],
+      "open_questions": [
+        "原音未核，课文前后心理学用词的层次仍需细读；不能据四机制段把神经生理解释认定为已核科学机制。"
+      ]
+    },
+    {
+      "code": "3-4-4-3",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "语言意义在用法及私人语言不存在",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0274"
+          ],
+          "locator": "Page 6–8，L24、L27、L30",
+          "finding": "课文把两命题接到主体、无意识、去主体化与马克思，显示这是本讲的综合解释。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "晚期沉默被解读为一种语言游戏",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0274"
+          ],
+          "locator": "Page 12、14，L42、L48",
+          "finding": "讲者区分早期《逻辑哲学论》之沉默与自己对晚期语言游戏的理解，不是摘要凭空插入沉默论。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "02-review 对《哲学研究》§43“许多但非全部”的限定继续列为原典对照；本讲确作较宽的使用，故不直接把原典限定伪装成课堂原句。",
+          "source_ids": [
+            "f34-0274"
+          ],
+          "locator": "Page 6–8，L24、L27、L30；Page 12、14，L42、L48"
+        }
+      ],
+      "open_questions": [
+        "私人语言论证是否否定第一人称体验及沉默读法的原著根据未逐段确认。"
+      ]
+    },
+    {
+      "code": "3-4-4-4",
+      "evidence_level": "community_transcript_selected_claims_compared",
+      "review_status": {
+        "scope": "仅列出的核心论断与编纂正文对照；其他句子没有据此通过",
+        "course_fidelity": "partial_text_comparison_with_attribution_and_qualifications",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "无意识生产主体否定性与客观一致性",
+          "status": "supported_by_selected_text",
+          "source_ids": [
+            "f34-0275"
+          ],
+          "locator": "Page 1–2，L9–35",
+          "finding": "现有正文支持这一课程问题，不再只凭视频标题。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "社会存在而社会关系不存在被称斯洛文尼亚学派共识",
+          "status": "supported_as_lecturer_reconstruction",
+          "source_ids": [
+            "f34-0275"
+          ],
+          "locator": "Page 9–11，L144、L149、L154；Page 15，L174",
+          "finding": "讲者确作此归属，并以阶级斗争、空能指和社会关系压抑解释；本轮只确认讲者说过，未独立证明全学派一致。"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "晚期拉康最后产生大学话语而非分析师话语",
+          "status": "omitted_personal_attribution",
+          "source_ids": [
+            "f34-0275"
+          ],
+          "locator": "Page 5，L73–80",
+          "finding": "课文两次用我觉得/我个人的观点限定，摘要应补回。"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "01-review 与02-review 的“仅标题已核”是历史状态；本批补上上述三组正文定位。它仍是局部编纂文本比较，不把全部抽象活动、资本活力论和幻想机制一并标为已核。",
+          "source_ids": [
+            "f34-0275"
+          ],
+          "locator": "Page 1–2，L9–35；Page 9–11，L144、L149、L154；Page 15，L174；Page 5，L73–80"
+        },
+        {
+          "text": "进度更新（2026-11-13）：前列01/02批次注中“正文未核”“只有标题”等属于取得讲稿之前的历史状态。本轮已按04-fidelity-34所列位置对照社区编纂正文并限定讲者归属；原典差异注仍有效，未因此宣布全部摘要或原音通过。",
+          "source_ids": [
+            "f34-0275"
+          ],
+          "locator": "见本条checked_claims逐项定位"
+        }
+      ],
+      "open_questions": [
+        "摘要第3项幻想/剩余价值细节及认识论轴的所有抽象活动等全称判断，未在本批逐句核完；原音未听校。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①符号学运动以结构主义反对现象学：现象学跳过了符号的中介性，认为第一人称报告直接等同于生存体验。符号学指出一切思想活动都必须通过语言/符号中介，本体论即语言，语言本身就是对世界结构的限制。",
+      "after": "①本讲区分符号学与结构主义运动，并以结构主义运用符号学反对现象学为线索：现象学跳过了符号的中介性，认为第一人称报告直接等同于生存体验。符号学指出一切思想活动都必须通过语言/符号中介，本体论即语言，语言本身就是对世界结构的限制。",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0254"
+      ],
+      "rationale": "Page 4 L20明确说符号学本身不是运动，结构主义运动以符号学反对现象学。修复摘要开头的归属错误。"
+    },
+    {
+      "code": "3-4-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上拉康的伦理姿态是把欲望坚持到底——通过他者的欲望进入欲望辩证法，找到客体小a(镜像认同中必然缺失的剩余)。真正的认识论需要文本诊断学，找到话语中不一致性所揭示的主体位置。",
+      "after": "③在讲者注明可能跨文本的解释中，认识论上的伦理姿态是把欲望坚持到底——通过他者的欲望进入欲望辩证法，找到客体小a(镜像认同中必然缺失的剩余)。真正的认识论需要文本诊断学，找到话语中不一致性所揭示的主体位置。",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0258"
+      ],
+      "rationale": "Page 24 L79明确承认可能跨文本，补回避免把跨时期解释全部当作早期拉康原说的限定。"
+    },
+    {
+      "code": "3-4-1-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①罗兰·巴特是结构主义运动中最不严格的哲学家，但他使结构主义获得了纵深尝试。叙事学的三层模型(功能层/行动层/叙事层)调和非人称化的底层符码与人称化的镜像认——叙事层产生”文本是活的世界”的效果。",
+      "after": "①罗兰·巴特是结构主义运动中最不严格的哲学家，但他使结构主义获得了纵深尝试。叙事学的三层模型(功能层/行动层/叙事层)调和非人称化的底层符码与人称化的镜像误认——叙事层产生”文本是活的世界”的效果。",
+      "kind": "missing_character",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0259"
+      ],
+      "rationale": "Page 8 L44为镜像误认；与本条axis_list[0]一致。"
+    },
+    {
+      "code": "3-4-2-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4：事件哲学——Being是uncountable many(不可数的多)，真正的存在是尚未总体化的无限可能性；本体论是不可能的，但真理显现有四种方式(艺术、政治、科学、爱情)",
+      "after": "本体论4：事件哲学——Being是uncountable many(不可数的多)，真正的存在是尚未总体化的无限可能性；本讲将本体论解释为“不可能而又可能”的双重结构，并以四种真理程序说明其可能性(艺术、政治、科学、爱情)",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0263"
+      ],
+      "rationale": "Page 12 L42在否定之后立即肯定其可能性，原轴丢失双重限定。保留uncountable many作为课程原说并另附原典辨析。"
+    },
+    {
+      "code": "3-4-2-3",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论3：回溯性与整体变革的调和——以\"卡住\"(Stucked)的方式停留在否定中，以拖代守",
+      "after": "目的论3：回溯性与整体变革的调和——以\"卡住\"(Stuck)的方式停留在否定中，以拖代守",
+      "kind": "english_spelling",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0264"
+      ],
+      "rationale": "Page 18–19 L60、L63编纂文本为Stuck/stuck。"
+    },
+    {
+      "code": "3-4-2-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上以\"卡住\"(Stucked)为特征：没有位置可守(不同于巴迪欧有点位可守)，只能通过\"停留在否定中\"来创造位置。齐泽克本质上是一个时间哲学家——通过卡住时间性的稳定流动，使历史自己卡住，从而延宕出位置。这种卡住就是重复，就是时间本身的生成。每一个主体性的当下体验都是卡住，符号系统的不同性态就是卡住的不同模式(mode)。这种卡住的辩证法恢复了数个重要论域的话语合法性，也使得\"主义主义\"本身成为可能——每一种智性状态都被卡在一个坐标上。",
+      "after": "④目的论上以\"卡住\"(Stuck)为特征：没有位置可守(不同于巴迪欧有点位可守)，只能通过\"停留在否定中\"来创造位置。齐泽克本质上是一个时间哲学家——通过卡住时间性的稳定流动，使历史自己卡住，从而延宕出位置。这种卡住就是重复，就是时间本身的生成。每一个主体性的当下体验都是卡住，符号系统的不同性态就是卡住的不同模式(mode)。这种卡住的辩证法恢复了数个重要论域的话语合法性，也使得\"主义主义\"本身成为可能——每一种智性状态都被卡在一个坐标上。",
+      "kind": "english_spelling",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0264"
+      ],
+      "rationale": "Page 18–19 L60、L63编纂文本为Stuck/stuck。"
+    },
+    {
+      "code": "3-4-4-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①精神分析作为非哲学运动——经典精神分析不预设本体论立场，不是哲学也不是心理学，而是一种准政治性的实践。它使用符号学差异原理，不关心世界观问题——科学实在论者、观念论者、超验主义者均可使用精神分析方法。其核心概念力比多(libido)不是实体，而是一种剩余性的符号学运动、一种发生性的否定性力量，是主体最深刻的生存论根基。",
+      "after": "①精神分析作为非哲学运动——本讲将经典精神分析解释为不预设本体论立场、既非哲学也非心理学的一种准政治性实践。它使用符号学差异原理，不关心世界观问题——科学实在论者、观念论者、超验主义者均可使用精神分析方法。其核心概念力比多(libido)不是实体，而是一种剩余性的符号学运动、一种发生性的否定性力量，是主体最深刻的生存论根基。",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0273"
+      ],
+      "rationale": "Page 1 L9确认这是本讲的解释；加归属限定，保留弗洛伊德第35讲不同自我定位的原典注。"
+    },
+    {
+      "code": "3-4-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②社会存在但社会关系不存在——这是斯洛文尼亚学派的核心共识：社会作为一个异质性的空能指博弈场是存在的，但社会关系永远无法被结构起来。每一种社会力量都试图把自己的局部社会关系伪装成社会的普遍法则并压抑到台面之下。布尔乔亚将雇佣制掩盖为普遍商品化，普罗大众则将按劳分配设想为社会的底层规则。双方压抑的东西不同，但最低共识是承认有一个空无的场。",
+      "after": "②社会存在但社会关系不存在——本讲将这一命题称为斯洛文尼亚学派的共识：社会作为一个异质性的空能指博弈场是存在的，但社会关系永远无法被结构起来。每一种社会力量都试图把自己的局部社会关系伪装成社会的普遍法则并压抑到台面之下。布尔乔亚将雇佣制掩盖为普遍商品化，普罗大众则将按劳分配设想为社会的底层规则。双方压抑的东西不同，但最低共识是承认有一个空无的场。",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0275"
+      ],
+      "rationale": "Page 11 L154确有此说，本轮只能确认讲者归属，不能独立验证整个学派一致同意。"
+    },
+    {
+      "code": "3-4-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④大学话语与无力的理论化——晚期拉康最终生产出的是大学话语(普遍话语/S2)而非分析师话语。这是一种注定失败的无力的理论化：理论家如大海中的舵手，无地图、无上帝视角，只能凭借有限的符号线索航行。马克思主义的结构主义方法要求符号系统自我描述其生发主客体的机制，这一言说必须把理论者自身考虑在内，必须是真诚自信的但同时领会到自身可能的错误——一个绝望但不放弃的理论姿态。",
+      "after": "④大学话语与无力的理论化——讲者明确作为个人观点提出：晚期拉康最终生产出的是大学话语(普遍话语/S2)而非分析师话语。这是一种注定失败的无力的理论化：理论家如大海中的舵手，无地图、无上帝视角，只能凭借有限的符号线索航行。马克思主义的结构主义方法要求符号系统自我描述其生发主客体的机制，这一言说必须把理论者自身考虑在内，必须是真诚自信的但同时领会到自身可能的错误——一个绝望但不放弃的理论姿态。",
+      "kind": "qualification_or_attribution",
+      "status": "ready",
+      "evidence_source_ids": [
+        "f34-0275"
+      ],
+      "rationale": "Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主体。"
+    }
+  ]
+}

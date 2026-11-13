@@ -1,0 +1,1157 @@
+{
+  "review_scope": "辩证法总论和四子讲逐字段核查；保留讲者诠释而不冒充黑格尔、法兰克福学派和阿尔都塞的标准学说。",
+  "sources": [
+    {
+      "id": "m3-0227",
+      "title": "0227_3-2-4_辩证法_黑格尔_走向绝对精神的历史走向_p5856",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91/0227_3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91_p5856.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-4_辩证法_黑格尔_走向绝对精神的历史走向/0227_3-2-4_辩证法_黑格尔_走向绝对精神的历史走向_p5856.md",
+      "sha256": "1c3895194593a27041b61cf22d937142c92d0fc03d73c58938fbb69fa52c1b8e",
+      "git_blob_sha": "7e44bdc046d887b4812fb6319848ed380b95ac0a",
+      "locator": "Page1–22 L9–72；L75起下一讲排除",
+      "verification_scope": "逐段核读Page1–22 L9–72；L75起下一讲排除；未核原音及原典，现实新闻幕后动机不由课程举例证实。"
+    },
+    {
+      "id": "m3-0228",
+      "title": "0228_3-2-4-1_逻辑学_黑格尔的逻辑学不仅仅是他的本体论_而且就是一切逻辑本身_p5879",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91/3-2-4-1_%E9%80%BB%E8%BE%91%E5%AD%A6_%E9%BB%91%E6%A0%BC%E5%B0%94%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E4%BB%96%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA_%E8%80%8C%E4%B8%94%E5%B0%B1%E6%98%AF%E4%B8%80%E5%88%87%E9%80%BB%E8%BE%91%E6%9C%AC%E8%BA%AB/0228_3-2-4-1_%E9%80%BB%E8%BE%91%E5%AD%A6_%E9%BB%91%E6%A0%BC%E5%B0%94%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E4%BB%96%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA_%E8%80%8C%E4%B8%94%E5%B0%B1%E6%98%AF%E4%B8%80%E5%88%87%E9%80%BB%E8%BE%91%E6%9C%AC%E8%BA%AB_p5879.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-4_辩证法_黑格尔_走向绝对精神的历史走向/3-2-4-1_逻辑学_黑格尔的逻辑学不仅仅是他的本体论_而且就是一切逻辑本身/0228_3-2-4-1_逻辑学_黑格尔的逻辑学不仅仅是他的本体论_而且就是一切逻辑本身_p5879.md",
+      "sha256": "5f7e393a839948047c801bf7c2ba0283f97708494c821e087d6feb9e97dee508",
+      "git_blob_sha": "18906c861dfe3f961d7ff8400fbb20b2cf6fb838",
+      "locator": "Page1–38 L9–167；Page39起下一讲排除",
+      "verification_scope": "逐段核读Page1–38 L9–167；Page39起下一讲排除；未核原音及原典，现实新闻幕后动机不由课程举例证实。"
+    },
+    {
+      "id": "m3-0229",
+      "title": "0229_3-2-4-2_否定辩证法_无调性哲学_阿多诺过于绝望地离散了_p5918",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91/3-2-4-2_%E5%90%A6%E5%AE%9A%E8%BE%A9%E8%AF%81%E6%B3%95_%E6%97%A0%E8%B0%83%E6%80%A7%E5%93%B2%E5%AD%A6_%E9%98%BF%E5%A4%9A%E8%AF%BA%E8%BF%87%E4%BA%8E%E7%BB%9D%E6%9C%9B%E5%9C%B0%E7%A6%BB%E6%95%A3%E4%BA%86/0229_3-2-4-2_%E5%90%A6%E5%AE%9A%E8%BE%A9%E8%AF%81%E6%B3%95_%E6%97%A0%E8%B0%83%E6%80%A7%E5%93%B2%E5%AD%A6_%E9%98%BF%E5%A4%9A%E8%AF%BA%E8%BF%87%E4%BA%8E%E7%BB%9D%E6%9C%9B%E5%9C%B0%E7%A6%BB%E6%95%A3%E4%BA%86_p5918.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-4_辩证法_黑格尔_走向绝对精神的历史走向/3-2-4-2_否定辩证法_无调性哲学_阿多诺过于绝望地离散了/0229_3-2-4-2_否定辩证法_无调性哲学_阿多诺过于绝望地离散了_p5918.md",
+      "sha256": "0c2f648a5a0190358a7de5dfc0324ac697df2f1402396197194963883ca7bfc6",
+      "git_blob_sha": "cfcd981a205f7e9902f3976c8d1c95b519fe7ab6",
+      "locator": "Page1–22 L9–88，L88仅本讲结束，后接马尔库塞开头排除",
+      "verification_scope": "逐段核读Page1–22 L9–88，L88仅本讲结束，后接马尔库塞开头排除；未核原音及原典，现实新闻幕后动机不由课程举例证实。"
+    },
+    {
+      "id": "m3-0230",
+      "title": "0230_3-2-4-3_爱欲辩证法_马尔库塞的背叛_从否定性的悲观主义走向盲目的爱欲躁动_p5940",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91/3-2-4-3_%E7%88%B1%E6%AC%B2%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%A9%AC%E5%B0%94%E5%BA%93%E5%A1%9E%E7%9A%84%E8%83%8C%E5%8F%9B_%E4%BB%8E%E5%90%A6%E5%AE%9A%E6%80%A7%E7%9A%84%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89%E8%B5%B0%E5%90%91%E7%9B%B2%E7%9B%AE%E7%9A%84%E7%88%B1%E6%AC%B2%E8%BA%81%E5%8A%A8/0230_3-2-4-3_%E7%88%B1%E6%AC%B2%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%A9%AC%E5%B0%94%E5%BA%93%E5%A1%9E%E7%9A%84%E8%83%8C%E5%8F%9B_%E4%BB%8E%E5%90%A6%E5%AE%9A%E6%80%A7%E7%9A%84%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89%E8%B5%B0%E5%90%91%E7%9B%B2%E7%9B%AE%E7%9A%84%E7%88%B1%E6%AC%B2%E8%BA%81%E5%8A%A8_p5940.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-4_辩证法_黑格尔_走向绝对精神的历史走向/3-2-4-3_爱欲辩证法_马尔库塞的背叛_从否定性的悲观主义走向盲目的爱欲躁动/0230_3-2-4-3_爱欲辩证法_马尔库塞的背叛_从否定性的悲观主义走向盲目的爱欲躁动_p5940.md",
+      "sha256": "ee239bae96ae7468fb016850540639cd617786f686fbfe92871b59a56ddde896",
+      "git_blob_sha": "0ee863aa15baf5b249ff025bf2ceeb5215678ed7",
+      "locator": "Page1–17 L9–57；Page18起下一讲排除",
+      "verification_scope": "逐段核读Page1–17 L9–57；Page18起下一讲排除；未核原音及原典，现实新闻幕后动机不由课程举例证实。"
+    },
+    {
+      "id": "m3-0231",
+      "title": "0231_3-2-4-4_意识形态学_黑化_了的哲学_阿尔都塞的_超定_辩证法目前的主要功能_p5958",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-4_%E8%BE%A9%E8%AF%81%E6%B3%95_%E9%BB%91%E6%A0%BC%E5%B0%94_%E8%B5%B0%E5%90%91%E7%BB%9D%E5%AF%B9%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%90%91/3-2-4-4_%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%AD%A6_%E9%BB%91%E5%8C%96_%E4%BA%86%E7%9A%84%E5%93%B2%E5%AD%A6_%E9%98%BF%E5%B0%94%E9%83%BD%E5%A1%9E%E7%9A%84_%E8%B6%85%E5%AE%9A_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9B%AE%E5%89%8D%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD/0231_3-2-4-4_%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%AD%A6_%E9%BB%91%E5%8C%96_%E4%BA%86%E7%9A%84%E5%93%B2%E5%AD%A6_%E9%98%BF%E5%B0%94%E9%83%BD%E5%A1%9E%E7%9A%84_%E8%B6%85%E5%AE%9A_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9B%AE%E5%89%8D%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD_p5958.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-4_辩证法_黑格尔_走向绝对精神的历史走向/3-2-4-4_意识形态学_黑化_了的哲学_阿尔都塞的_超定_辩证法目前的主要功能/0231_3-2-4-4_意识形态学_黑化_了的哲学_阿尔都塞的_超定_辩证法目前的主要功能_p5958.md",
+      "sha256": "2bbdfbae96b0d67c8f26c05fe9a84a009f19ee8fb59b167405bd5df5858e488a",
+      "git_blob_sha": "9d706780d8bc4311cf594d7f4b3853cafba6caed",
+      "locator": "Page1–26 L9–100；L100仅首句为本讲，3-3标题及后续排除",
+      "verification_scope": "逐段核读Page1–26 L9–100；L100仅首句为本讲，3-3标题及后续排除；未核原音及原典，现实新闻幕后动机不由课程举例证实。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "复合字段拆命题比对；讲者自创模型、政治评价及现实推测分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "精神现象学是意识形态形态学和符号系统演化史。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page1明确用此翻译来教读，并以1/2/3字头类比；不是书名标准翻译。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page1–3 L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "意识形态环节通向绝对知识。",
+          "status": "supported_course_statement",
+          "finding": "伦理、宗教、哲学及停留环节均说明。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page1–4 L9–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "绝对知识即费希特知识学。",
+          "status": "needs_precision",
+          "finding": "Page2有简化类比，但Page5又明确黑格尔取消费希特重新构造客体性的步骤，不能严格等同。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page2 L12；Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "绝对知识取消主客认识张力，意识作为精神自知中介。",
+          "status": "supported_course_statement",
+          "finding": "Page3–4明确，不等于个人每个意见都绝对正确。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体/绝对知识与实体/历史二分仍在。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page7–8是讲者不同于齐泽克的判断。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "体系起点信仰之跃由终点反过来证成。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page9–11说体系宿命论，是讲者解释其自我辩护。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "逻辑学本体准备、现象学认识准备，闭合资产阶级法权而非实践开放。",
+          "status": "supported_course_evaluation",
+          "finding": "两准备明确，政治评价见结尾；不应当作实践史独立评估。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page10–11 L36–39；Page22 L72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "历史性贯通本体论目的论，认识论无独立纵深。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page16明确说这是我的理解。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page16 L54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "意识形态批判与符号发生学分别联系德意志意识形态和资本论。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page19–22是讲者为后续工作给的阅读/实践方向。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page19–22 L63–72"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "历史/辩证法调和逻辑学和精神现象学。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲明确轴定义。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page11–13 L39–45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "绝对知识主体与绝对精神历史二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲明确轴定义。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "绝对知识击穿独立认识论。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲明确轴定义。",
+          "source_ids": [
+            "m3-0227"
+          ],
+          "locator": "Page4–6 L18–24；Page16 L54"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。"
+      ]
+    },
+    {
+      "code": "3-2-4-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段拆命题比对；讲者自创模型、政治评价及现实推测分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "逻辑学三部分对应动力、机制、成果。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page1讲者修正材料为动力，后面反复此口诀；原摘要正确保留修正。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page1 L9；Page21 L85；Page33–34 L144–149"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "存在论动词运动、不能用概念固定切中。",
+          "status": "supported_course_statement",
+          "finding": "Page5及12–15说明，是讲者的存在论读法。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page5 L29；Page12–15 L58–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "本质论同一差异实体因果关系与张力。",
+          "status": "supported_course_statement",
+          "finding": "Page7–8及25–28具体说明。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page7–8 L39–44；Page25–28 L99–119"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "理念论固定关系成为具体存在者。",
+          "status": "needs_precision",
+          "finding": "成果可维持自身，但Page15、23、36又强调活的、继续异化；固定不能读成永久静止。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page13–15 L61–67；Page23 L93；Page36 L159"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "理念世界就是现实，不是另一柏拉图超验世界。",
+          "status": "supported_course_statement",
+          "finding": "Page3–4明确，逻辑自然精神为进一步运动。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page3–4 L19–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "只在理念阶段回溯描述此前运动。",
+          "status": "supported_course_statement",
+          "finding": "判断句已经使用理念阶段成果，不是人类穿越到史前。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page13–15 L61–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "逻辑学是符号生长学，从动词到名词。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page30–31直接解释绝对精神自写，是课程符号学重述。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page30–31 L129–134"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "每次闭合失败推动新环节。",
+          "status": "supported_course_statement",
+          "finding": "Page11、21–22、35–36均明说。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page11 L55；Page21–22 L85–90；Page35–36 L154–159"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "纯运动辩证法调和裸符号系统与理念形而上学。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲有直接格位说明。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page33–34 L144–149"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "运动性思维与装配出的理念二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲有直接格位说明。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page34 L149"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "自我符号化不服从外在僵死标准，处处矛盾。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲有直接格位说明。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page35–36 L154–159"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "符号系统成为自身、理念化。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲有直接格位说明。",
+          "source_ids": [
+            "m3-0228"
+          ],
+          "locator": "Page36–37 L159–164"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。"
+      ]
+    },
+    {
+      "code": "3-2-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段拆命题比对；讲者自创模型、政治评价及现实推测分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "反体系、客体优先、反连续总体化。",
+          "status": "supported_course_statement",
+          "finding": "Page2、6、12–14明确，局部音乐比喻属于讲者解说。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page2 L14；Page6 L34；Page12–14 L58–64"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "认为黑格尔把离散强制纳入历史调性。",
+          "status": "supported_course_report",
+          "finding": "Page8–11明确是阿多诺眼中的黑格尔；讲者前文另为黑格尔辩护。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page3–6 L19–34；Page8–11 L44–55"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "星丛即不可符号化剩余。",
+          "status": "needs_precision",
+          "finding": "讲稿同时把星丛称临时命名活动和语用实践场，不能只定义为一团符号之外的物。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page1 L9；Page7–8 L39–44；Page14 L64"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "张力激发命名，声音拉开反思距离。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page7–10明确，但讲者称之为我的先验语音论解释。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page7–10 L39–52"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体内有不可还原客体性，微观批判隐含离散体系。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page13–15明说后半是讲者从体例作的判断。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page13–15 L61–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "过度绝望、未领会重复、错失具体普遍性。",
+          "status": "supported_course_evaluation",
+          "finding": "Page17–22是讲者批评，他也承认读得少和理解肤浅；不能写成已查遍原著所得缺失。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page17–22 L73–88"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "星丛实践场调和主体生存与前符号客体。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程格位有支持；不当原典术语的唯一释义。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page1 L9；Page12–14 L58–64"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "已结构客体与不可还原星丛二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程格位有支持；不当原典术语的唯一释义。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page14–16 L64–70"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "符号化注定失败。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程格位有支持；不当原典术语的唯一释义。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page16 L70"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "总体化体系与离散失败对立。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "课程格位有支持；不当原典术语的唯一释义。",
+          "source_ids": [
+            "m3-0229"
+          ],
+          "locator": "Page17–18 L73–76"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。"
+      ]
+    },
+    {
+      "code": "3-2-4-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段拆命题比对；讲者自创模型、政治评价及现实推测分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "早期否定辩证法，存在闭合失败和解放性否定力量。",
+          "status": "supported_course_statement",
+          "finding": "Page6–7区分闭合失败与突破秩序两层；Page1–3并非仅说融合而强调后来转向。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page1–3 L9–15；Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "拒绝马克思列宁路径，边缘群体保留否定性、工人被整合。",
+          "status": "supported_course_report",
+          "finding": "Page3–4明确为讲者转述，群体举例为课程归纳，未核原典适用范围。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "proletariat等于普罗大众。",
+          "status": "needs_precision",
+          "finding": "本讲下一句明确指工人阶级意识，不宜把无产阶级扩成全部普通公众。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page4 L18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "批判工具理性，数据统计单向度，艺术爱欲解放。",
+          "status": "supported_course_report",
+          "finding": "Page5纠正技术理性为工具理性；Page10及12–13明确两侧。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page5 L21；Page10 L36；Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "恢复压抑本能反抗异化。",
+          "status": "supported_course_report",
+          "finding": "Page12–13以早期记忆和现实原则说明，但这是课程理解，未证明原典主张历史倒退。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "文化批判缺乏变革成为赎罪券，整个学派终局。",
+          "status": "supported_course_evaluation",
+          "finding": "Page8–9、14–17是强烈政治评价，不是经独立社会史评估的结论；Page17也承认仍是文化再生产中的一种实践。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page8–9 L30–33；Page14–17 L48–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "局部断裂调和总体历史与肯定等级制。",
+          "status": "supported_course_statement",
+          "finding": "Page9先画肯定性调和，Page10明确倒转图式以局部否定性作动力，原摘要取修正后版本。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page9–10 L33–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "否定性主体化力量与总体对立。",
+          "status": "supported_course_statement",
+          "finding": "Page11明说不是主体性而是主体化，总体极权译名属讲者。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page11 L39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "反理性、回到无压抑原始时代。",
+          "status": "needs_precision",
+          "finding": "讲稿确给反理性评语，具体说重新激活原始记忆；不能将其硬化成实际恢复某个已知完美时代的原典政策。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page12–14 L42–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "存在者及主体化调和自我符号化/失败。",
+          "status": "supported_course_statement",
+          "finding": "Page15–16明确主体化力量与承载者两面。",
+          "source_ids": [
+            "m3-0230"
+          ],
+          "locator": "Page15–16 L51–54"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。"
+      ]
+    },
+    {
+      "code": "3-2-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段拆命题比对；讲者自创模型、政治评价及现实推测分别限定。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "超定是两个等级体系的隐形中介。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "Page2–3明确借阿尔都塞/弗洛伊德而作讲者自己的拉康化总结。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page1–3 L9–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "刘备血统/天命与女性学伴美/能力例子。",
+          "status": "supported_with_scope_limit",
+          "finding": "例子确在Page13–19；女性形象被明说为男权话语投射，不是当事人的真实品性。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page13–19 L61–79"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "考试传媒重复矛盾点、主体化并嵌入二元框架。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "Page2–5支持机制模型，非对所有考试新闻行为的实证定律。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page2–5 L14–29"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "密集女性遇害报道一定由意识形态家安排。",
+          "status": "lecturer_hypothesis",
+          "finding": "Page20–24有这一动机断言但未给独立证据，不得因课程说了就当已核新闻事实。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page20–24 L82–94"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "重复使原初事件被遗忘，超定依赖主体化。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "Page3–4及22–24明确，与梦境的自由裁决例子有不同适用场景。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page3–4 L19–24；Page22–24 L88–94"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "小写臣民误认自由大写主体，否定路径已安排。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "Page10–12是讲者的拉康化主体解释，未据阿尔都塞原典核大小写对应。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page3 L19；Page10–12 L52–58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "A/B/非A/非B问题式矩阵，炮制者必须认领。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "Page5–6明确，科学在此为课程用法，不是一般科学方法定义。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page5–6 L29–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "炮制者失去目的方向并成为循环环节。",
+          "status": "supported_course_evaluation",
+          "finding": "Page25明确不知道将来干啥，虚无是编辑概括；不能进一步当心理诊断。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page21–25 L85–97"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "隐形中介调和两个等级秩序。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "适用讲者自拟的意识形态炮制模型，不等于阿尔都塞的标准理论框架。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page1–3 L9–19；Page22–24 L88–94"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "两套对立秩序。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "适用讲者自拟的意识形态炮制模型，不等于阿尔都塞的标准理论框架。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page4–5 L24–29；Page12 L58"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "问题式、矩阵及矛盾表象化。",
+          "status": "supported_as_lecturer_scaffolding",
+          "finding": "适用讲者自拟的意识形态炮制模型，不等于阿尔都塞的标准理论框架。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page2–5 L14–29"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "炮制者癔症化并陷入虚无。",
+          "status": "needs_precision",
+          "finding": "Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page25用失去未来方向说明此处4。",
+          "source_ids": [
+            "m3-0231"
+          ],
+          "locator": "Page21 L85；Page25 L97"
+        }
+      ],
+      "editorial_notes": [
+        "Page3 L19明确说本讲的意识形态学不是阿尔都塞本人的哲学立场，而是讲者学习后作的拉康化总结；全部四轴和操作模型均受此限定。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②黑格尔的《精神现象学》最后到达的是绝对知识(即费希特的知识学)，绝对知识是认识论的终点和敞开，瓦解了主客对立。主体对世界的体验和认识就世界活生生的本质，换言之，主体就是绝对精神的自我认识，但其中隐含作为绝对知识的主体(Subject)与绝对精神(Substance)的二元分裂。",
+      "after": "②本讲将《精神现象学》的终点“绝对知识”解释为取消独立的主客认识论张力：意识成为精神认识自身的中介。讲者曾类比费希特知识学，但随后明确区分黑格尔不再重建一个外在客体性的做法，二者不能直接等同。他另认为绝对知识作为主体与绝对精神作为历史运动仍有本体论差异；这是讲者的诠释立场。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0227"
+      ],
+      "locator": "Page2–8 L12–30",
+      "rationale": "避免以局部口语类比抹掉本讲随后给出的差别。"
+    },
+    {
+      "code": "3-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③辩证法体系的起点是信仰之跃，这个起点最终在整个体系完成时被体系自身所指证，形成宿命论式的自我辩护，实现绝对精神的整全闭环。但这个闭环需要逻辑学作为本体论的准备，以及精神现象学作为认识论的准备，指向的是最终的闭合和自我辩护(即资产阶级法权)，而非实践性的敞开(马列主义实践)。",
+      "after": "③讲者把黑格尔体系解释为起点的“信仰之跃”最终被体系自身说明：精神现象学提供认识论准备，逻辑学提供本体论准备，体系完成后再解释自身的出发点。他将这种自我辩护批评为“体系宿命论”，并从马克思主义实践立场反对其走向法权和经院式闭合；这是课程评价，不是本批独立验证的体系或实践史结论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0227"
+      ],
+      "locator": "Page9–11 L33–39；Page22 L72",
+      "rationale": "区分文本结构解释与政治实践评价。"
+    },
+    {
+      "code": "3-2-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④历史性原则：黑格尔使得本体论直接贯通到目的论，主体不能再设立额外的认识论维度作为理论的纵深。对此，理论家必须返回历史环节中，进行意识形态批判和符号发生学研究，这两个部分分别对应马克思的《德意志意识形态》和《资本论》。",
+      "after": "④讲者以“历史性原则”概括本体论与目的论贯通，并强调这是自己的理解：理论家不能额外设一个独立认识论层面。他建议返回具体历史环节，一路从精神现象学推进意识形态批判、联系《德意志意识形态》，另一路从逻辑学推进符号机制发生研究、联系《资本论》。这些对应是课程提出的工作方向，不能直接当作两部马克思著作的完整方法定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0227"
+      ],
+      "locator": "Page16 L54；Page19–22 L63–72",
+      "rationale": "明确作者和方法关联范围。"
+    },
+    {
+      "code": "3-2-4-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①黑格尔哲学体系的基础和精华是逻辑学，揭示了世界的符号学结构，分为三部分：存在论、本质论、理念论。\n\t存在论：探讨符号化的动力。原初的符号化运动是动词性的，无法被概念切中，代表了纯粹存在的动态过程。\n\t本质论：探讨符号化的机制。符号化运动的过程产生了张力关系(同一性、差异、实体性、因果性等)。\n\t理念论：探讨符号化的成果。符号化运动中的各种关系被固定为可把握的概念，成为存在于理念世界的具体的存在者。",
+      "after": "①讲者以符号学和现象学重述黑格尔逻辑学的三部分：存在论侧重原初运动和符号化动力；本质论侧重运动间的关系与张力，如同一、差异、实体和因果；理念论侧重可维持自身的概念化成果。这里的成果仍是活的、会继续运动和异化，不能把“固定”理解为永久静止。这组动力—机制—成果是本讲口诀，不是原典三部名称的完整定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0228"
+      ],
+      "locator": "Page1 L9；Page5–8 L29–44；Page13–15 L61–67；Page33–36 L144–159",
+      "rationale": "保留讲者解释且防止把理念成果僵死化。"
+    },
+    {
+      "code": "3-2-4-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②阿多诺把符号系统底层的那些不可符号化的他者称为“星丛”(Constellation)，这些无法被同一性逻辑消解的剩余是符号系统的内在张力，激发了命名的语音活动。所以阿多诺认为必须倾听声音，声音(尤其是非调性的声音)可以拉开反思性距离和张力。",
+      "after": "②本讲用“星丛”说明不可被同一化消解的客体性，同时把它讲成临时的、历史性的命名活动和语用实践场。讲者以声音及无调性音乐作类比，解释命名如何回应未被纳入体系的张力并拉开反思距离。因此星丛在此不只是一个符号之外的剩余实体；“先验语音论”也是讲者给出的解释名称。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0229"
+      ],
+      "locator": "Page1 L9；Page7–10 L39–52；Page14 L64",
+      "rationale": "补回本讲自身对星丛的活动和实践场说明。"
+    },
+    {
+      "code": "3-2-4-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④阿多诺的否定辩证法过度强调符号系统的断裂导致其陷入绝望，未能把握重复(repetition)作为失败与新生的辩证机制。错失了黑格尔“具体普遍性”的辩证力量，即体系的同一性就在于其能包含异质性他者。",
+      "after": "④讲者批评阿多诺过于强调断裂，未充分发挥“重复的失败”与新生之间的辩证关系，并认为他错失黑格尔具体普遍性包含自身反面的力量。讲者也明确承认自己对阿多诺阅读有限、理解肤浅；这段应保留为课程的争论立场，而非已经完整核验原著后得出的学术定论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0229"
+      ],
+      "locator": "Page17–22 L73–88",
+      "rationale": "忠实保留讲者对自身把握范围的限定。"
+    },
+    {
+      "code": "3-2-4-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②反对马克思列宁的路线，认为边缘群体(如性少数、瘾君子、精神病等)还保有否定性力量，而普罗大众(proletariat)的否定性已经被意识形态融化。",
+      "after": "②讲者认为马尔库塞不接受马克思、列宁所强调的阶级斗争和物质实践道路，转而期待社会边缘群体保留否定性的力量。他把这种转向与发达社会工人阶级被意识形态整合的判断联系起来；这里的proletariat应理解为无产阶级，不能泛指所有普通公众。群体例举及其政治意义为课程转述，本批未核相应原典范围。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0230"
+      ],
+      "locator": "Page3–4 L15–18",
+      "rationale": "限定阶级术语，避免把课程举例泛化为群体本质。"
+    },
+    {
+      "code": "3-2-4-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④马尔库塞的社会批判从物质批判转向文化批判，缺乏实际变革能力，最后成为小布尔乔亚的赎罪券，逐渐丧失批判力。这正是黑格尔主义走到最后的结局，亦是整个法兰克福学派在西欧和美国的结局。",
+      "after": "④讲者从马克思主义实践立场批评马尔库塞由物质批判转向文化和爱欲批判，认为其容易成为文化消费体系中的自我赎罪。他把这种困境扩展到法兰克福学派，但结尾也承认它仍是文化符号再生产中的一种实践。因此“没有实际变革能力”“整个学派的结局”应读作本讲的政治评价，不能当作本批已证的历史定论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0230"
+      ],
+      "locator": "Page8–9 L30–33；Page14–17 L48–57",
+      "rationale": "保留批评和其限制，不把立场评价改写成实证事实。"
+    },
+    {
+      "code": "3-2-4-3",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4：反理性主义，回到文明史之前的无压抑、无异化的原始时代",
+      "after": "认识论4：本讲批评为对工具理性及文明压抑的反理性姿态，以艺术、爱欲和对早期无压抑经验的回忆寻求解放；不等于已核实其主张实际返回一个完美原始时代",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0230"
+      ],
+      "locator": "Page12–14 L42–48",
+      "rationale": "区分课程评语、回忆模型与历史倒退主张。"
+    },
+    {
+      "code": "3-2-4-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①超定(overdetermination)：通过在两个冲突的等级制之间设置隐形中介，比如刘备作为血统论与天命论的中介、“女性学伴”作为外貌等级制和能力等级制的中介，使极端的对立面在某个单一符号上短路，完成意识形态缝合。",
+      "after": "①本讲借“超定”（overdetermination）构造两个等级秩序在隐形中介上短路的模型；讲者明确说这是自己学习阿尔都塞后的拉康化总结，不是阿尔都塞本人的完整立场。他用《三国演义》中刘备连接血统与天命，以及男权话语对女性学伴形象的矛盾投射举例。后者分析的是话语如何塑造形象，不能当作对真实女性品性或能力的判断。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0231"
+      ],
+      "locator": "Page1–3 L9–19；Page13–19 L61–79",
+      "rationale": "恢复原讲明确的自创模型归属和投射分析边界。"
+    },
+    {
+      "code": "3-2-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②质询(interpellation)：意识形态国家机器(ISAs)通过考试、媒体，重复性地强调表象化的创伤事件(如密集报道女性遇害案)，激发主体的癔症化(“我到底是谁？我到底要干什么？”)，使其在无意识中接受预设的二元框架，遗忘原始事件本身。超定机制依赖于主体化，而主体化可以通过意识形态的质询批量生产。",
+      "after": "②在讲者自拟模型中，意识形态征召（interpellation）可借考试或媒体让矛盾点反复进入体验，激发对身份的追问，并把人引入预先设置的对立框架。讲者强调超定依赖主体化，不必先有自主主体；重复还可能使讨论离开原初事件。他以密集新闻报道举例时进一步推断幕后安排，但本批仅核到这一讲述，未取得证实具体报道动机的独立证据。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0231"
+      ],
+      "locator": "Page2–5 L14–29；Page20–25 L82–97",
+      "rationale": "把模型、举例和未经证实的新闻动机断言区分。"
+    },
+    {
+      "code": "3-2-4-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③被意识形态质询所征召的主体是臣民式的小写主体(s)，误以为自己是拥有自由否定权的大写主体(S)，实则其批判的对象和路径早已被意识形态机器预设，无法构建真正的否定性。",
+      "after": "③本讲以大写主体与小写臣民对照，说明人在自以为自由批判时，仍可能沿意识形态预设的路径行动。这属于讲者明确标出的拉康化解释；本批没有核阿尔都塞原典中大写Subject、小写subject与自由否定性的对应，不能直接当作阿尔都塞本人对两种主体的定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0231"
+      ],
+      "locator": "Page3 L19；Page10–12 L52–58",
+      "rationale": "防止讲者重述被误归原典。"
+    },
+    {
+      "code": "3-2-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在认识论上通过二元矩阵(A/B/非A/非B)寻找意识形态缝合点，炮制一套立场矩阵，但该矩阵必须被炮制者本人以发问式的科学姿态无条件认领(“我们的社会究竟出现了什么问题？”)，以维系其意识形态功能。",
+      "after": "④本讲把A、B、非A、非B的立场矩阵与“问题式”（problematic）相连，认为意识形态炮制者必须认领自己排出的关系，维持一种发问和负责的姿态。这是讲者模型中的“科学姿态”，不能等同一般科学方法，也不能不经原典核对就作为阿尔都塞问题式概念的完整定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0231"
+      ],
+      "locator": "Page5–6 L29–34",
+      "rationale": "补足矩阵方法和术语的课程归属。"
+    },
+    {
+      "code": "3-2-4-4",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论4：意识形态炮制者自身癔症化、陷入无伦理方向的虚无",
+      "after": "目的论4：讲者认为意识形态炮制者在持续操作中失去自身未来的方向；Page21已撤回以“癔症化”直接定义此格，因此不能仅用癔症化解释4",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0231"
+      ],
+      "locator": "Page21 L85；Page25 L97",
+      "rationale": "尊重讲者当场修正，而不是沿用其已撤回措辞。"
+    }
+  ]
+}

@@ -1,0 +1,2040 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-13",
+  "scope": "以BV为身份的补充课程与版本目录；未把美元字头或复习讲次硬塞进四位编号。",
+  "sources": [
+    {
+      "id": "cat02-map",
+      "title": "主义主义视频顺序目录",
+      "url": "https://github.com/MAK1MA-AG0NY/ismism-map/blob/c37c8df2e328560cad4321cdcefdc21aa2bc6374/README.md",
+      "kind": "catalogue",
+      "verification_scope": "读取完整列表并提取379个视频身份；仅证明该整理目录如此列出，不等于视频仍可播放或已核读正文。"
+    },
+    {
+      "id": "cat02-meridian",
+      "title": "未明子全部视频清单：1691项归档",
+      "url": "https://github.com/shibusama/meridian-archive/blob/e82394824940b9504721a9a2a6a71039e1f6646a/%E6%9C%AA%E6%98%8E%E5%AD%90%E8%A7%86%E9%A2%91%E7%BC%96%E7%A0%81%E6%B8%85%E5%8D%95/%E6%9C%AA%E6%98%8E%E5%AD%90_%E5%85%A8%E9%83%A8%E8%A7%86%E9%A2%91%E6%B8%85%E5%8D%95.csv",
+      "kind": "catalogue",
+      "verification_scope": "解析1691行CSV，选取标题含主义主义的402行并按BV合并。只作归档目录证据，不用旧播放量表示当前状态；未证明覆盖讲者此后全部作品。"
+    }
+  ],
+  "courses": [
+    {
+      "id": "BV1JT4y1K7dp",
+      "title": "【主义主义】哲学意识形态大全-总纲",
+      "url": "https://www.bilibili.com/video/BV1JT4y1K7dp",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】哲学意识形态大全-总纲",
+      "archival_published_date": "2021-01-24",
+      "related_codes": [],
+      "kind": "overview",
+      "catalogue_code": "1",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】哲学意识形态大全-总纲",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3628,
+        "cid": 286618903,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1XL411x72W",
+      "title": "【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别",
+      "url": "https://www.bilibili.com/video/BV1XL411x72W",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别",
+      "archival_published_date": "2021-09-20",
+      "related_codes": [
+        "1",
+        "2",
+        "3"
+      ],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1777,
+        "cid": 411233151,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1zB4y1K7m9",
+      "title": "【主义主义复习课】四种自以为“超越”的形而下学（1-2）",
+      "url": "https://www.bilibili.com/video/BV1zB4y1K7m9",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】四种自以为“超越”的形而下学（1-2）",
+      "archival_published_date": "2021-06-25",
+      "related_codes": [
+        "1-2"
+      ],
+      "kind": "review",
+      "catalogue_code": "1-2",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】四种自以为“超越”的形而下学（1-2）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1323,
+        "cid": 359240155,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1hf4y1k7sX",
+      "title": "【主义主义】无声版：神创论（1-2-1）",
+      "url": "https://www.bilibili.com/video/BV1hf4y1k7sX",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】无声版：神创论（1-2-1）",
+      "archival_published_date": "2021-01-25",
+      "related_codes": [
+        "1-2-1"
+      ],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】无声版：神创论（1-2-1）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 923,
+        "cid": 287128546,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1vv411h7kx",
+      "title": "【主义主义】复习课2：平凡主义（1-4）四大类十六种普通人所陷入意识形态",
+      "url": "https://www.bilibili.com/video/BV1vv411h7kx",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】复习课2：平凡主义（1-4）四大类十六种普通人所陷入意识形态",
+      "archival_published_date": "2021-03-07",
+      "related_codes": [
+        "1-4"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】复习课2：平凡主义（1-4）四大类十六种普通人所陷入意识形态",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2476,
+        "cid": 307382846,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Hf4y1t7E8",
+      "title": "【主义主义】伦理智性主义（2-1-2-1）——苏格拉底的哲学，“知识助产术”、“知识即美德”、“爱欲是唯一的知识”、“哲学就是练习面对死亡”",
+      "url": "https://www.bilibili.com/video/BV1Hf4y1t7E8",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】伦理智性主义（2-1-2-1）——苏格拉底的哲学，“知识助产术”、“知识即美德”、“爱欲是唯一的知识”、“哲学就是练习面对死亡”",
+      "archival_published_date": "2021-03-16",
+      "related_codes": [
+        "2-1-2-1"
+      ],
+      "kind": "exercise",
+      "catalogue_code": "2-1-2-1",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】伦理智性主义（2-1-2-1）——苏格拉底的哲学，“知识助产术”、“知识即美德”、“爱欲是唯一的知识”、“哲学就是练习面对死亡”",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2899,
+        "cid": 311228005,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1H64y1i72N",
+      "title": "【主义主义复习课】前现代的辩证思维：辩证形而上学（2-2）四大类共十六种",
+      "url": "https://www.bilibili.com/video/BV1H64y1i72N",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】前现代的辩证思维：辩证形而上学（2-2）四大类共十六种",
+      "archival_published_date": "2021-04-20",
+      "related_codes": [
+        "2-2"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】前现代的辩证思维：辩证形而上学（2-2）四大类共十六种",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2297,
+        "cid": 326929646,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Ei4y1N712",
+      "title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余",
+      "url": "https://www.bilibili.com/video/BV1Ei4y1N712",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余",
+      "archival_published_date": "2021-04-05",
+      "related_codes": [
+        "2-2"
+      ],
+      "kind": "extra",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2253,
+        "cid": 320298370,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Sp4y147je",
+      "title": "【主义主义】我思形而上学复习课（2-3）：现代哲学的开胃菜，康德的四位先驱",
+      "url": "https://www.bilibili.com/video/BV1Sp4y147je",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】我思形而上学复习课（2-3）：现代哲学的开胃菜，康德的四位先驱",
+      "archival_published_date": "2021-05-14",
+      "related_codes": [
+        "2-3"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】我思形而上学复习课（2-3）：现代哲学的开胃菜，康德的四位先驱",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1858,
+        "cid": 338577568,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1YZ4y1F7z1",
+      "title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位",
+      "url": "https://www.bilibili.com/video/BV1YZ4y1F7z1",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位",
+      "archival_published_date": "2021-04-27",
+      "related_codes": [
+        "2",
+        "3"
+      ],
+      "kind": "extra",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 912,
+        "cid": 330154586,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1W64y1x7mY",
+      "title": "【主义主义复习课】现象学（3-1）的四种主要形态和具体十六种现象学",
+      "url": "https://www.bilibili.com/video/BV1W64y1x7mY",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】现象学（3-1）的四种主要形态和具体十六种现象学",
+      "archival_published_date": "2021-07-28",
+      "related_codes": [
+        "3-1"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】现象学（3-1）的四种主要形态和具体十六种现象学",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1071,
+        "cid": 377811134,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV15M4y1L7ek",
+      "title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系",
+      "url": "https://www.bilibili.com/video/BV15M4y1L7ek",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系",
+      "archival_published_date": "2021-08-21",
+      "related_codes": [
+        "3-3"
+      ],
+      "kind": "extra",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1176,
+        "cid": 393478173,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1cf4y1H7Ci",
+      "title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学(3-4)",
+      "url": "https://www.bilibili.com/video/BV1cf4y1H7Ci",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号",
+      "archival_published_date": "2021-08-27",
+      "related_codes": [
+        "3-4"
+      ],
+      "kind": "review",
+      "catalogue_code": "3-4",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2737,
+        "cid": 398042923,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Nb4y1h7mw",
+      "title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分(4-1)若没有对应的实践单元则只是被豢养的文人学者",
+      "url": "https://www.bilibili.com/video/BV1Nb4y1h7mw",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】政治-经济-意识形态批判（4-1）——理论家的实践与两种谢林点",
+      "archival_published_date": "2021-10-13",
+      "related_codes": [
+        "4-1"
+      ],
+      "kind": "review",
+      "catalogue_code": "4-1",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】政治-经济-意识形态批判（4-1）——理论家的实践与两种谢林点",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3271,
+        "cid": 424187456,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1aq4y1R7Lk",
+      "title": "【主义主义复习课】现实的正统化(4-2)——行动者将自己铭刻在不竭的历史中",
+      "url": "https://www.bilibili.com/video/BV1aq4y1R7Lk",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】现实的正统化（4-2）——坚定地迈出历史的步伐",
+      "archival_published_date": "2021-11-03",
+      "related_codes": [
+        "4-2"
+      ],
+      "kind": "review",
+      "catalogue_code": "4-2",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】现实的正统化（4-2）——坚定地迈出历史的步伐",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 642,
+        "cid": 435817338,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV16L4y1J7BT",
+      "title": "【主义主义】不可能的乌托邦(4-4)复习课——用VR来模拟的PC（Post Capitalist）时代",
+      "url": "https://www.bilibili.com/video/BV16L4y1J7BT",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践",
+      "archival_published_date": "2021-12-18",
+      "related_codes": [
+        "4-4"
+      ],
+      "kind": "review",
+      "catalogue_code": "4-4",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3603,
+        "cid": 463151081,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1RZ4y1d7cH",
+      "title": "【主义主义复习课】理念等级制（$-1）——从存有论临近本质论的终点的章法",
+      "url": "https://www.bilibili.com/video/BV1RZ4y1d7cH",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】理念等级制（$-1）——从存有论临近本质论的终点的章法",
+      "archival_published_date": "2022-02-05",
+      "related_codes": [
+        "$-1"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】理念等级制（$-1）——从存有论临近本质论的终点的章法",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 686,
+        "cid": 501436427,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Er4y1v78m",
+      "title": "【主义主义】理念等级制（$-1）——用绝对知识，消解场域论，给出本体论",
+      "url": "https://www.bilibili.com/video/BV1Er4y1v78m",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】理念等级制（$-1）——用绝对知识，消解场域论，给出本体论",
+      "archival_published_date": "2022-01-09",
+      "related_codes": [
+        "$-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】理念等级制（$-1）——用绝对知识，消解场域论，给出本体论",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 906,
+        "cid": 480349258,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV18L4y1b7BE",
+      "title": "【主义主义】纯思（$-1-1）——“存在”本身",
+      "url": "https://www.bilibili.com/video/BV18L4y1b7BE",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】纯思（$-1-1）——“存在”本身，理念等级制派下来的先锋小弟，试着自居这一角色，你就把握了这个环节",
+      "archival_published_date": "2022-01-10",
+      "related_codes": [
+        "$-1-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】纯思（$-1-1）——“存在”本身，理念等级制派下来的先锋小弟，试着自居这一角色，你就把握了这个环节",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 886,
+        "cid": 481029054,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1N34y1B7ai",
+      "title": "【主义主义】虚无化了的存在（$-1-1-1）——纯粹思维运起理智直观，反身自视发现一无所有",
+      "url": "https://www.bilibili.com/video/BV1N34y1B7ai",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】虚无化了的存在（$-1-1-1）——纯粹思维运起理智直观，反身自视发现一无所有",
+      "archival_published_date": "2022-01-11",
+      "related_codes": [
+        "$-1-1-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】虚无化了的存在（$-1-1-1）——纯粹思维运起理智直观，反身自视发现一无所有",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1417,
+        "cid": 481721243,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Ea411q7VJ",
+      "title": "【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？",
+      "url": "https://www.bilibili.com/video/BV1Ea411q7VJ",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？何为“恶的无限”？",
+      "archival_published_date": "2022-01-12",
+      "related_codes": [
+        "$-1-1-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？何为“恶的无限”？",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1463,
+        "cid": 482392196,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Sa411z7CS",
+      "title": "【主义主义】一（$-1-1-3）——对于辩证法家而言，何为“自为存在”？何为“1”？",
+      "url": "https://www.bilibili.com/video/BV1Sa411z7CS",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】一（$-1-1-3）——对于辩证法家而言，何为“自为存在”？何为“1”？",
+      "archival_published_date": "2022-01-13",
+      "related_codes": [
+        "$-1-1-3",
+        "1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】一（$-1-1-3）——对于辩证法家而言，何为“自为存在”？何为“1”？",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1057,
+        "cid": 483082267,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1yb4y1H7Da",
+      "title": "【主义主义】连续统（$-1-1-4）——“纯量”的概念发生学机制",
+      "url": "https://www.bilibili.com/video/BV1yb4y1H7Da",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】连续统（$-1-1-4）——“纯量”的概念发生学机制",
+      "archival_published_date": "2022-01-14",
+      "related_codes": [
+        "$-1-1-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】连续统（$-1-1-4）——“纯量”的概念发生学机制",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1851,
+        "cid": 483770577,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV17q4y1A7LK",
+      "title": "【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处",
+      "url": "https://www.bilibili.com/video/BV17q4y1A7LK",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处，未能被黑格尔道出",
+      "archival_published_date": "2022-01-15",
+      "related_codes": [
+        "$-1-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处，未能被黑格尔道出",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1096,
+        "cid": 484494304,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV16R4y1g7y7",
+      "title": "【主义主义】对定量的概念化（$-1-2-1）——看到一个数，感觉到它或大或小，发生了什么？",
+      "url": "https://www.bilibili.com/video/BV16R4y1g7y7",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】对定量的概念化（$-1-2-1）——看到一个数，感觉到它或大或小，发生了什么？",
+      "archival_published_date": "2022-01-16",
+      "related_codes": [
+        "$-1-2-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】对定量的概念化（$-1-2-1）——看到一个数，感觉到它或大或小，发生了什么？",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2056,
+        "cid": 485222766,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Xq4y1A7jg",
+      "title": "【主义主义】数学的规定间性（$-1-2-2）——事物在生成中必定要设立基本的单元量",
+      "url": "https://www.bilibili.com/video/BV1Xq4y1A7jg",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】数学的规定间性（$-1-2-2）——事物在生成中必定要设立基本的单元量",
+      "archival_published_date": "2022-01-18",
+      "related_codes": [
+        "$-1-2-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】数学的规定间性（$-1-2-2）——事物在生成中必定要设立基本的单元量",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1802,
+        "cid": 486646838,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1jT4y127wL",
+      "title": "【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学",
+      "url": "https://www.bilibili.com/video/BV1jT4y127wL",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学，比早期谢林的物质发生学要精致得多",
+      "archival_published_date": "2022-01-19",
+      "related_codes": [
+        "$-1-2-3"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学，比早期谢林的物质发生学要精致得多",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1682,
+        "cid": 487383515,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV12a411279L",
+      "title": "【主义主义】泰然让之（$-1-2-4）——通过自我关联的否定，从质、量、尺度抵达“本质”",
+      "url": "https://www.bilibili.com/video/BV12a411279L",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】泰然让之（$-1-2-4）——通过自我关联的否定，从质、量、尺度抵达“本质”",
+      "archival_published_date": "2022-01-20",
+      "related_codes": [
+        "$-1-2-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】泰然让之（$-1-2-4）——通过自我关联的否定，从质、量、尺度抵达“本质”",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1157,
+        "cid": 488095755,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV12r4y1Y7Hs",
+      "title": "【主义主义】本质（$-1-3）——所谓“表象背后的东西”",
+      "url": "https://www.bilibili.com/video/BV12r4y1Y7Hs",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】本质（$-1-3）——所谓“表象背后的东西”",
+      "archival_published_date": "2022-01-21",
+      "related_codes": [
+        "$-1-3"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】本质（$-1-3）——所谓“表象背后的东西”",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1442,
+        "cid": 488847468,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1a44y1L7Nh",
+      "title": "【主义主义】闪光（$-1-3-1）——所谓本质，不过是作为闪光的闪光",
+      "url": "https://www.bilibili.com/video/BV1a44y1L7Nh",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】闪光（$-1-3-1）——所谓本质，不过是作为闪光的闪光",
+      "archival_published_date": "2022-01-21",
+      "related_codes": [
+        "$-1-3-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】闪光（$-1-3-1）——所谓本质，不过是作为闪光的闪光",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2171,
+        "cid": 489558872,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV15u41117hx",
+      "title": "【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路",
+      "url": "https://www.bilibili.com/video/BV15u41117hx",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路，让本质得以发生的纯粹反思机制",
+      "archival_published_date": "2022-01-23",
+      "related_codes": [
+        "$-1-3-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路，让本质得以发生的纯粹反思机制",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2478,
+        "cid": 490350364,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1sL4y1t78t",
+      "title": "【主义主义】命题演绎的本质性（$-1-3-3）——命题逻辑中的“原初”逻辑形式的发生机制",
+      "url": "https://www.bilibili.com/video/BV1sL4y1t78t",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】命题演绎的本质性（$-1-3-3）——命题逻辑中的“原初”逻辑形式的发生机制",
+      "archival_published_date": "2022-01-25",
+      "related_codes": [
+        "$-1-3-3"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】命题演绎的本质性（$-1-3-3）——命题逻辑中的“原初”逻辑形式的发生机制",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2980,
+        "cid": 491875896,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1EL411F7D9",
+      "title": "【主义主义】根据（$-1-3-4）——什么是“充足理由律”",
+      "url": "https://www.bilibili.com/video/BV1EL411F7D9",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】根据（$-1-3-4）——什么是“充足理由律”：普发本质权的因果网络编织者",
+      "archival_published_date": "2022-01-26",
+      "related_codes": [
+        "$-1-3-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】根据（$-1-3-4）——什么是“充足理由律”：普发本质权的因果网络编织者",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1286,
+        "cid": 492690605,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV18F411n7ww",
+      "title": "【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象",
+      "url": "https://www.bilibili.com/video/BV18F411n7ww",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象，黑格尔如何证明神的实存",
+      "archival_published_date": "2022-01-27",
+      "related_codes": [
+        "$-1-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象，黑格尔如何证明神的实存",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1570,
+        "cid": 493436377,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Ha41117Un",
+      "title": "【主义主义】复数的物自体（$-1-4-1）——物自体的增殖、寄生和瓦解",
+      "url": "https://www.bilibili.com/video/BV1Ha41117Un",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】复数的物自体（$-1-4-1）——物自体的增殖、寄生和瓦解",
+      "archival_published_date": "2022-01-29",
+      "related_codes": [
+        "$-1-4-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】复数的物自体（$-1-4-1）——物自体的增殖、寄生和瓦解",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1727,
+        "cid": 495904720,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1nu411d7s1",
+      "title": "【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复",
+      "url": "https://www.bilibili.com/video/BV1nu411d7s1",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复，令争执次第延宕",
+      "archival_published_date": "2022-01-30",
+      "related_codes": [
+        "$-1-4-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复，令争执次第延宕",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2126,
+        "cid": 497174415,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1534y1y7qf",
+      "title": "【主义主义】有法则的世界性（$-1-4-3）——法则性和世界性的发生学机制",
+      "url": "https://www.bilibili.com/video/BV1534y1y7qf",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】有法则的世界性（$-1-4-3）——法则性和世界性的发生学机制",
+      "archival_published_date": "2022-01-31",
+      "related_codes": [
+        "$-1-4-3"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】有法则的世界性（$-1-4-3）——法则性和世界性的发生学机制",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2044,
+        "cid": 498106796,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1iS4y1y7FL",
+      "title": "【主义主义】本质联系（$-1-4-4）——本质论中的联系的辨证法到底是怎样的",
+      "url": "https://www.bilibili.com/video/BV1iS4y1y7FL",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】本质联系（$-1-4-4）——本质论中的联系的辨证法到底是怎样的",
+      "archival_published_date": "2022-02-02",
+      "related_codes": [
+        "$-1-4-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】本质联系（$-1-4-4）——本质论中的联系的辨证法到底是怎样的",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2013,
+        "cid": 499474312,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1KR4y1M7y6",
+      "title": "【主义主义】绝对者的绝路（$-2）——绝对者从单纯的属性走向成熟的自我认知",
+      "url": "https://www.bilibili.com/video/BV1KR4y1M7y6",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】绝对者的绝路（$-2） ——绝对者从单纯的属性走向成熟的自我认知 并最终湮灭为世界",
+      "archival_published_date": "2022-02-02",
+      "related_codes": [
+        "$-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】绝对者的绝路（$-2） ——绝对者从单纯的属性走向成熟的自我认知 并最终湮灭为世界",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2082,
+        "cid": 499899130,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1zF411J7Yc",
+      "title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）",
+      "url": "https://www.bilibili.com/video/BV1zF411J7Yc",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）",
+      "archival_published_date": "2022-02-06",
+      "related_codes": [
+        "$-2-1"
+      ],
+      "kind": "exercise",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3505,
+        "cid": 502820810,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1tu411d7zr",
+      "title": "【主义主义】绝对者的自我关联（$-2-1）——在黑格尔看来，斯宾诺莎的实体该如何走出自闭",
+      "url": "https://www.bilibili.com/video/BV1tu411d7zr",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】绝对者的自我关联（$-2-1）——在黑格尔看来，斯宾诺莎的实体该如何走出自闭",
+      "archival_published_date": "2022-02-03",
+      "related_codes": [
+        "$-2-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】绝对者的自我关联（$-2-1）——在黑格尔看来，斯宾诺莎的实体该如何走出自闭",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1359,
+        "cid": 500726402,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Zm4y1o7qs",
+      "title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性",
+      "url": "https://www.bilibili.com/video/BV1Zm4y1o7qs",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性，可能=自在+应在=同一+他异",
+      "archival_published_date": "2022-02-08",
+      "related_codes": [
+        "$-2-1-1"
+      ],
+      "kind": "exercise",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性，可能=自在+应在=同一+他异",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2504,
+        "cid": 503810951,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Z3411E7sg",
+      "title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性",
+      "url": "https://www.bilibili.com/video/BV1Z3411E7sg",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性：为什么一切都是可能的又都是不可能的",
+      "archival_published_date": "2022-02-07",
+      "related_codes": [
+        "$-2-1-1"
+      ],
+      "kind": "exercise",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性：为什么一切都是可能的又都是不可能的",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2185,
+        "cid": 503631744,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1BS4y1k7WY",
+      "title": "【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越",
+      "url": "https://www.bilibili.com/video/BV1BS4y1k7WY",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越，先有模态后实体",
+      "archival_published_date": "2022-02-05",
+      "related_codes": [
+        "$-2-1-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越，先有模态后实体",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1422,
+        "cid": 502055570,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1k5411o7QR",
+      "title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）",
+      "url": "https://www.bilibili.com/video/BV1k5411o7QR",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）",
+      "archival_published_date": "2022-02-11",
+      "related_codes": [
+        "$-2-1-2"
+      ],
+      "kind": "exercise",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3478,
+        "cid": 505931291,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1bS4y1G72C",
+      "title": "【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？",
+      "url": "https://www.bilibili.com/video/BV1bS4y1G72C",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？实体和偶性为什么是一回事？",
+      "archival_published_date": "2022-02-10",
+      "related_codes": [
+        "$-2-1-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？实体和偶性为什么是一回事？",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2524,
+        "cid": 505172190,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Nu411R7Ye",
+      "title": "【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限",
+      "url": "https://www.bilibili.com/video/BV1Nu411R7Ye",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限，形式和内容的认识论区分从何而来？",
+      "archival_published_date": "2022-02-14",
+      "related_codes": [
+        "$-2-1-3"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限，形式和内容的认识论区分从何而来？",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2935,
+        "cid": 508241465,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Z44y1H75A",
+      "title": "【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性",
+      "url": "https://www.bilibili.com/video/BV1Z44y1H75A",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性，进而扬弃普遍性和个别性的对立，走向特殊的使命",
+      "archival_published_date": "2022-02-17",
+      "related_codes": [
+        "$-2-1-4"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性，进而扬弃普遍性和个别性的对立，走向特殊的使命",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2088,
+        "cid": 510618019,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Cq4y1t7YE",
+      "title": "【主义主义】构思（$-2-2）——绝对者意识到自己即将失忆，为了自我拯救而留下各种小纸条提醒自己",
+      "url": "https://www.bilibili.com/video/BV1Cq4y1t7YE",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】构思（$-2-2）——绝对者意识到自己即将失忆，为了自我拯救而留下各种小纸条提醒自己",
+      "archival_published_date": "2022-02-19",
+      "related_codes": [
+        "$-2-2"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】构思（$-2-2）——绝对者意识到自己即将失忆，为了自我拯救而留下各种小纸条提醒自己",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 934,
+        "cid": 512749673,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1ri4y1y7bJ",
+      "title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”",
+      "url": "https://www.bilibili.com/video/BV1ri4y1y7bJ",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”",
+      "archival_published_date": "2022-03-01",
+      "related_codes": [
+        "$-2-2-1",
+        "$-2-2-3"
+      ],
+      "kind": "preview",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2950,
+        "cid": 519144741,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV12q4y1x72c",
+      "title": "【主义主义】概念（$-2-2-1）——绝对者作为施动实体的独一性如何走向概念的可数的单一性",
+      "url": "https://www.bilibili.com/video/BV12q4y1x72c",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】概念（$-2-2-1）——绝对者作为施动实体的独一性如何走向概念的可数的单一性",
+      "archival_published_date": "2022-02-23",
+      "related_codes": [
+        "$-2-2-1"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】概念（$-2-2-1）——绝对者作为施动实体的独一性如何走向概念的可数的单一性",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2096,
+        "cid": 514853927,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Gr4y1a7J9",
+      "title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）",
+      "url": "https://www.bilibili.com/video/BV1Gr4y1a7J9",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）",
+      "archival_published_date": "2022-02-12",
+      "related_codes": [
+        "2-1-3"
+      ],
+      "kind": "preview",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3057,
+        "cid": 506660390,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1cq4y1t7TN",
+      "title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？（从$-2-1-3到$-2-1-4）",
+      "url": "https://www.bilibili.com/video/BV1cq4y1t7TN",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？对原因和实体的关系进行探索（从$-2-1-3到$-2-1-4）",
+      "archival_published_date": "2022-02-15",
+      "related_codes": [
+        "2-1-4"
+      ],
+      "kind": "preview",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？对原因和实体的关系进行探索（从$-2-1-3到$-2-1-4）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3449,
+        "cid": 509096449,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Pq4y1b7FX",
+      "title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）",
+      "url": "https://www.bilibili.com/video/BV1Pq4y1b7FX",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）:人为什么能够理解这个世界，为什么能够不通过学习而如同回忆一样掌握各种概念",
+      "archival_published_date": "2022-02-18",
+      "related_codes": [
+        "2-2"
+      ],
+      "kind": "preview",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）:人为什么能够理解这个世界，为什么能够不通过学习而如同回忆一样掌握各种概念",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1761,
+        "cid": 512018337,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Kt4y1z7WU",
+      "title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）",
+      "url": "https://www.bilibili.com/video/BV1Kt4y1z7WU",
+      "source_ids": [
+        "cat02-map",
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）",
+      "archival_published_date": "2021-02-11",
+      "related_codes": [],
+      "kind": "extra",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 5466,
+        "cid": 296144211,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1TX4y157ry",
+      "title": "【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）",
+      "url": "https://www.bilibili.com/video/BV1TX4y157ry",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）",
+      "archival_published_date": "2021-02-09",
+      "related_codes": [
+        "3-4"
+      ],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 777,
+        "cid": 295586630,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1gi4y1T7yg",
+      "title": "【主义主义】复习课：十六种庸俗的唯我论",
+      "url": "https://www.bilibili.com/video/BV1gi4y1T7yg",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】复习课：十六种庸俗的唯我论",
+      "archival_published_date": "2021-02-19",
+      "related_codes": [],
+      "kind": "review",
+      "catalogue_code": "1-3",
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】复习课：十六种庸俗的唯我论",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2249,
+        "cid": 299893218,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1cy4y1E77f",
+      "title": "【主义主义】哲学的二阶论域：进入形而上学的准备工作（四种形而上学的由来）",
+      "url": "https://www.bilibili.com/video/BV1cy4y1E77f",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】哲学的二阶论域：进入形而上学的准备工作（四种形而上学的由来）",
+      "archival_published_date": "2021-03-08",
+      "related_codes": [],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】哲学的二阶论域：进入形而上学的准备工作（四种形而上学的由来）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1634,
+        "cid": 307763974,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Eb4y1Q7tG",
+      "title": "【十分钟哲学】芝诺悖论所对应的四种（或五种）时间观（结合【主义主义】2-1-2-4理解）",
+      "url": "https://www.bilibili.com/video/BV1Eb4y1Q7tG",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【十分钟哲学】芝诺悖论所对应的四种（或五种）时间观（结合【主义主义】2-1-2-4理解）",
+      "archival_published_date": "2021-03-19",
+      "related_codes": [],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【十分钟哲学】芝诺悖论所对应的四种（或五种）时间观（结合【主义主义】2-1-2-4理解）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 538,
+        "cid": 312537615,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1pv411K7oX",
+      "title": "【主义主义复习课】回顾整个德国观念论运动（3-2）",
+      "url": "https://www.bilibili.com/video/BV1pv411K7oX",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】回顾整个德国观念论运动（3-2）",
+      "archival_published_date": "2021-08-10",
+      "related_codes": [
+        "3-2"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】回顾整个德国观念论运动（3-2）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2683,
+        "cid": 385938003,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1SP4y1a7Em",
+      "title": "【主义主义复习课】生存论（3-3）——哲人以心灵、生命和尊严进行的本体论冒险",
+      "url": "https://www.bilibili.com/video/BV1SP4y1a7Em",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】生存论（3-3）——哲人以心灵、生命和尊严进行的本体论冒险",
+      "archival_published_date": "2021-09-03",
+      "related_codes": [
+        "3-3"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】生存论（3-3）——哲人以心灵、生命和尊严进行的本体论冒险",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1802,
+        "cid": 401711350,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV15v411A7nX",
+      "title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学（3-4）",
+      "url": "https://www.bilibili.com/video/BV15v411A7nX",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学（3-4）",
+      "archival_published_date": "2021-09-19",
+      "related_codes": [
+        "3-4"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学（3-4）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 3866,
+        "cid": 410558342,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1fb4y187Sr",
+      "title": "【主义主义复习课】从布尔乔亚的科学主义意识形态（1-1）走向普罗大众的历史、解放的科学精神（4-1）",
+      "url": "https://www.bilibili.com/video/BV1fb4y187Sr",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】从布尔乔亚的科学主义意识形态（1-1）走向普罗大众的历史、解放的科学精神（4-1）",
+      "archival_published_date": "2021-10-15",
+      "related_codes": [
+        "1-1",
+        "4-1"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】从布尔乔亚的科学主义意识形态（1-1）走向普罗大众的历史、解放的科学精神（4-1）",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 969,
+        "cid": 425206637,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1Rq4y1z7KD",
+      "title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分（4-1）若没有对应的实践单元则只是被豢养的文人学者",
+      "url": "https://www.bilibili.com/video/BV1Rq4y1z7KD",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分（4-1）若没有对应的实践单元则只是被豢养的文人学者",
+      "archival_published_date": "2021-11-14",
+      "related_codes": [
+        "4-1"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分（4-1）若没有对应的实践单元则只是被豢养的文人学者",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1550,
+        "cid": 441864228,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1UF411b7Ls",
+      "title": "【主义主义复习课】现实的正统化（4-2）——行动者将自己铭刻在不竭的历史中",
+      "url": "https://www.bilibili.com/video/BV1UF411b7Ls",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】现实的正统化（4-2）——行动者将自己铭刻在不竭的历史中",
+      "archival_published_date": "2021-11-27",
+      "related_codes": [
+        "4-2"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】现实的正统化（4-2）——行动者将自己铭刻在不竭的历史中",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2569,
+        "cid": 449704662,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV19Y411W7dj",
+      "title": "【主义主义复习课】4-3：我心目中建设理想社会的次第和路径",
+      "url": "https://www.bilibili.com/video/BV19Y411W7dj",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】4-3：我心目中建设理想社会的次第和路径",
+      "archival_published_date": "2021-12-21",
+      "related_codes": [
+        "4-3"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】4-3：我心目中建设理想社会的次第和路径",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 796,
+        "cid": 465200464,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1qb4y1H77s",
+      "title": "【主义主义】不可能的乌托邦（4-4）复习课——用VR来模拟的PC（Post Capitalist）时代",
+      "url": "https://www.bilibili.com/video/BV1qb4y1H77s",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】不可能的乌托邦（4-4）复习课——用VR来模拟的PC（Post Capitalist）时代",
+      "archival_published_date": "2022-01-17",
+      "related_codes": [
+        "4-4"
+      ],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】不可能的乌托邦（4-4）复习课——用VR来模拟的PC（Post Capitalist）时代",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1516,
+        "cid": 485916031,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1jb4y1n7jt",
+      "title": "【主义主义】复习课：从虚假的体系走向真正的体系",
+      "url": "https://www.bilibili.com/video/BV1jb4y1n7jt",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】复习课：从虚假的体系走向真正的体系",
+      "archival_published_date": "2022-01-24",
+      "related_codes": [],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】复习课：从虚假的体系走向真正的体系",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 4543,
+        "cid": 491142800,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1HL4y1x7eb",
+      "title": "【主义主义】现代性（$）——本体论和自然秩序的来源，孤独意志的线性独白",
+      "url": "https://www.bilibili.com/video/BV1HL4y1x7eb",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义】现代性（$）——本体论和自然秩序的来源，孤独意志的线性独白",
+      "archival_published_date": "2022-01-28",
+      "related_codes": [
+        "$"
+      ],
+      "kind": "dollar_series",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义】现代性（$）——本体论和自然秩序的来源，孤独意志的线性独白",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2072,
+        "cid": 494195310,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1CL4y1W7hR",
+      "title": "【主义主义复习课】4-实践",
+      "url": "https://www.bilibili.com/video/BV1CL4y1W7hR",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【主义主义复习课】4-实践",
+      "archival_published_date": "2022-01-31",
+      "related_codes": [],
+      "kind": "review",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【主义主义复习课】4-实践",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 2398,
+        "cid": 498460770,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1r14y1s75s",
+      "title": "【项目追踪】主义主义网站（临时站点）目前的功能：首批项目内容的简单公示",
+      "url": "https://www.bilibili.com/video/BV1r14y1s75s",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【项目追踪】主义主义网站（临时站点）目前的功能：首批项目内容的简单公示",
+      "archival_published_date": "2022-09-07",
+      "related_codes": [],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【项目追踪】主义主义网站（临时站点）目前的功能：首批项目内容的简单公示",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1055,
+        "cid": 825888685,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1J14y157Er",
+      "title": "【回应信件】一位对性化和主义主义有所误解的单亲母亲",
+      "url": "https://www.bilibili.com/video/BV1J14y157Er",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【回应信件】一位对性化和主义主义有所误解的单亲母亲",
+      "archival_published_date": "2022-10-22",
+      "related_codes": [],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【回应信件】一位对性化和主义主义有所误解的单亲母亲",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1601,
+        "cid": 868249872,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    },
+    {
+      "id": "BV1oh411u7Ak",
+      "title": "【工益项目】主义主义工益网站的新功能以及内测情况介绍",
+      "url": "https://www.bilibili.com/video/BV1oh411u7Ak",
+      "source_ids": [
+        "cat02-meridian"
+      ],
+      "evidence_level": "catalogue_only",
+      "archival_title": "【工益项目】主义主义工益网站的新功能以及内测情况介绍",
+      "archival_published_date": "2023-04-04",
+      "related_codes": [],
+      "kind": "lecture",
+      "catalogue_code": null,
+      "body_status": "not_reviewed",
+      "video_check": {
+        "status": "metadata_verified",
+        "title": "【工益项目】主义主义工益网站的新功能以及内测情况介绍",
+        "uploader": "未明子",
+        "uploader_mid": 23191782,
+        "duration_seconds": 1281,
+        "cid": 1082116713,
+        "checked_on": "2026-11-13",
+        "scope": "公开view接口的标题、投稿者和时长；未播放视频或核对字幕。"
+      }
+    }
+  ],
+  "directory_counts": {
+    "merged_video_ids": 402,
+    "supplemental_course_records": 73,
+    "matched_current_video_ids": 337
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "editorial_research_candidates_not_course_transcripts",
+  "entries": [
+    {
+      "code": "3-2-1-1",
+      "course_video_url": "https://www.bilibili.com/video/BV1gX4y1A7XY",
+      "course_evidence": {"level": "catalogue_and_video_page", "timestamp": null, "transcript": null},
+      "source_ids": ["kant-cpr-meiklejohn", "sep-kant-ti"],
+      "editorial_note": "先把现象/物自体的认识论问题与道德、宗教问题分开读。上游将物自体、上帝和有限趋近无限连写，需要回到讲次及原典逐句辨析。",
+      "reading_questions": ["先验条件与超验使用分别是什么？", "物自体、消极意义的本体与上帝理念能否直接等同？", "课程对康德的评价针对哪段论证？"],
+      "next_evidence": ["原视频时间码", "实际使用中译本及版本", "有关等同表述的原讲与文本对读"]
+    },
+    {
+      "code": "3-2-4-1",
+      "course_video_url": "https://www.bilibili.com/video/BV1qq4y1p7Hi",
+      "course_evidence": {"level": "catalogue_and_video_page", "timestamp": null, "transcript": null},
+      "source_ids": ["hegel-logic-toc", "hegel-logic-being", "sep-hegel-dialectics"],
+      "editorial_note": "先对照存在、无、变易与扬弃段落，检验课程的符号学解释如何对应文本。英文目录第三大部分为 Doctrine of the Notion；上游摘要的“理念论”需加篇章对照，不能直接据此认定原视频讲错。",
+      "reading_questions": ["纯有与纯无为何过渡到变易？", "扬弃怎样同时包含取消与保存？", "概念论与其中的理念部分有什么层级关系？"],
+      "next_evidence": ["原视频使用篇章名称的时间码", "英译本底本与译者", "中译本目录与原德文目录对照"]
+    },
+    {
+      "code": "4-1-1-1",
+      "course_video_url": "https://www.bilibili.com/video/BV1544y1x7i5",
+      "course_evidence": {"level": "catalogue_link_only", "timestamp": null, "transcript": null},
+      "source_ids": ["marx-1844-estranged-labour"],
+      "editorial_note": "将“异化劳动”作为政治经济学预设批判的候选阅读材料。原文先讨论政治经济学如何接受私有财产等前提，再分析劳动者与产品关系。此关联由本次研究提出，尚不声称该视频引用此章，也不据此补造四格解释。",
+      "reading_questions": ["政治经济学把什么当成无需解释的前提？", "对象化与异化在具体论证中有什么区别？", "这些问题与课程四格如何对应，是否有原讲依据？"],
+      "next_evidence": ["原视频标题与可访问性", "原讲转录或分段核听", "课程实际使用的马克思文本"]
+    }
+  ]
+}

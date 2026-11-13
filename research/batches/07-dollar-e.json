@@ -1,0 +1,429 @@
+{
+  "batch": "07-dollar-e",
+  "checked_on": "2026-11-13",
+  "scope": "公开ASR文本的有定位课程摘要，未核听原音。",
+  "sources": [
+    {
+      "id": "d07-BV1KR4y1M7y6",
+      "title": "【主义主义】绝对者的绝路（$-2） ——绝对者从单纯的属性走向成熟的自我认知 并最终湮灭为世界（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1KR4y1M7y6__0d48b36593.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–65，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–65",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "ed445dbc69224a1c3c23c69362dd358a096b95c4f0bd9fa90e8cbda6581b7458",
+      "git_blob_sha": "961123eca5a2d1859f1b55bd1a7a04c38b081e29",
+      "upstream_path": "corpus/bilibili-asr/BV1KR4y1M7y6__0d48b36593.txt"
+    },
+    {
+      "id": "d07-BV1tu411d7zr",
+      "title": "【主义主义】绝对者的自我关联（$-2-1）——在黑格尔看来，斯宾诺莎的实体该如何走出自闭（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1tu411d7zr__97f5c566bb.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–38，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–38",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "dceedb29edd9f48fd2b122ec0878f57fe18567f9c7e24e18046dabd7c81d1976",
+      "git_blob_sha": "7f3a3c65073623b146cb802fd81b1535ed04686c",
+      "upstream_path": "corpus/bilibili-asr/BV1tu411d7zr__97f5c566bb.txt"
+    },
+    {
+      "id": "d07-BV1BS4y1k7WY",
+      "title": "【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越，先有模态后实体（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1BS4y1k7WY__ab1951e4c7.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–44，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–44",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "821b75e775cb7141c752fc5d8a9cb801727f710a29964dcfd835cef20053251b",
+      "git_blob_sha": "0176f6f6fce6bd971a1768e1414dc25d090b055b",
+      "upstream_path": "corpus/bilibili-asr/BV1BS4y1k7WY__ab1951e4c7.txt"
+    },
+    {
+      "id": "d07-BV1bS4y1G72C",
+      "title": "【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？实体和偶性为什么是一回事？（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1bS4y1G72C__0a0e55e2d6.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–84，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–84",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "a07941a10b940ff8e9c4c3f289053a5b73609654695780f39b610ba347db9592",
+      "git_blob_sha": "538241c3d136826ff11305693123cbf57ae40d53",
+      "upstream_path": "corpus/bilibili-asr/BV1bS4y1G72C__0a0e55e2d6.txt"
+    },
+    {
+      "id": "d07-BV1Nu411R7Ye",
+      "title": "【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限，形式和内容的认识论区分从何而来？（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Nu411R7Ye__bd8df29b67.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–95，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–95",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "5be3db04eacc447f3cf535ffd7fdb37234729fb4373ec53a73da5c2449acbfa8",
+      "git_blob_sha": "e4cc6ce541ab25892cad0edef05ca71408461cb7",
+      "upstream_path": "corpus/bilibili-asr/BV1Nu411R7Ye__bd8df29b67.txt"
+    },
+    {
+      "id": "d07-BV1Z44y1H75A",
+      "title": "【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性，进而扬弃普遍性和个别性的对立，走向特殊的使命（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Z44y1H75A__c1cbae194c.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–69，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–69",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "f553046febc48f48d2aa64a134ccb316989828ddd08920d9f444289c4704c2be",
+      "git_blob_sha": "c844950c72dd6ac79d44ce0eb1fec1802dd32222",
+      "upstream_path": "corpus/bilibili-asr/BV1Z44y1H75A__c1cbae194c.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1KR4y1M7y6",
+      "series_code": "$-2",
+      "title": "【主义主义】绝对者的绝路（$-2） ——绝对者从单纯的属性走向成熟的自我认知 并最终湮灭为世界",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲总述从本质论末尾的现实性、实体到概念论的推进。主讲在讲述中修正“概念发生学”的标题设想，因为从后续 $-2-2 开始已经进入概念自身的活动。",
+          "source_ids": [
+            "d07-BV1KR4y1M7y6"
+          ],
+          "locator": "L1–5、L21–25"
+        },
+        {
+          "text": "现实性把反思的本质与外在实存理解为同一运动的两侧；最初的绝对者仍是受限制的，不能直接等同已经完成的绝对精神。",
+          "source_ids": [
+            "d07-BV1KR4y1M7y6"
+          ],
+          "locator": "L6–18"
+        },
+        {
+          "text": "反思能够通过否定既有有限规定来阐发绝对者，但对绝对者的肯定性展开还需要说明其自身运动。课程据此设置逻辑学与绝对者之间的本体论张力。",
+          "source_ids": [
+            "d07-BV1KR4y1M7y6"
+          ],
+          "locator": "L19–34"
+        },
+        {
+          "text": "可能性、现实性和必然性是接下来讨论的形式规定；由绝对关系到实体的推进，是进入概念论之前仍需完成的工作。",
+          "source_ids": [
+            "d07-BV1KR4y1M7y6"
+          ],
+          "locator": "L35–49"
+        },
+        {
+          "text": "整个过程按不断揭露前一环节局限、返回更充分规定的方式展开。主讲要求预读《逻辑学》本质论最后一部分，并预告后续五讲具体处理绝对者的实在性问题。",
+          "source_ids": [
+            "d07-BV1KR4y1M7y6"
+          ],
+          "locator": "L50–65"
+        }
+      ],
+      "editorial_notes": [
+        "本讲有当场改名和词语自我更正；标题沿视频元数据保存，正文按完整上下文整理。关于绝对者与绝对精神的关系仅报告本课程解释，不混同二者的文本位置。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§1158–1161、1187–1191",
+          "reason": "对照现实性篇结构，区分课程绝路叙述与原书章节次序。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1tu411d7zr",
+      "series_code": "$-2-1",
+      "title": "【主义主义】绝对者的自我关联（$-2-1）——在黑格尔看来，斯宾诺莎的实体该如何走出自闭",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲对应《逻辑学》现实性部分中绝对者的讨论，依次涉及形式同一、属性、样式及表达。主讲特别区别这里的绝对者与后面绝对关系中的实体。",
+          "source_ids": [
+            "d07-BV1tu411d7zr"
+          ],
+          "locator": "L1–8"
+        },
+        {
+          "text": "现实性以同一个运动贯通反思的直接性与实存的直接性，承接此前整体与部分、力与表现、内与外的推进。",
+          "source_ids": [
+            "d07-BV1tu411d7zr"
+          ],
+          "locator": "L9–17"
+        },
+        {
+          "text": "对绝对者的阐发被区分为否定性的把握、在有限环节消逝中看到其指向，以及绝对者实现自身的肯定性运动。",
+          "source_ids": [
+            "d07-BV1tu411d7zr"
+          ],
+          "locator": "L18–24"
+        },
+        {
+          "text": "属性进一步被解释为绝对者显现的方式，并通向样式；这里的 attribute 与前面物的 property 不可仅因都译作“属性”而混同。",
+          "source_ids": [
+            "d07-BV1tu411d7zr"
+          ],
+          "locator": "L25–32"
+        },
+        {
+          "text": "有限和片面的环节不再只是绝对者之外的残缺，而成为其自我表达的形式；课程由此转向现实性的进一步规定。",
+          "source_ids": [
+            "d07-BV1tu411d7zr"
+          ],
+          "locator": "L33–38"
+        }
+      ],
+      "editorial_notes": [
+        "对斯宾诺莎实体的评价按主讲转述黑格尔的批判保留，不据此替代《伦理学》自身的定义与论证。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-absolute",
+          "relation": "editorial_reading",
+          "locator": "§1162–1170",
+          "reason": "对读绝对者的阐释与外在反思，区分绝对者和一个最高对象。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1BS4y1k7WY",
+      "series_code": "$-2-1-1",
+      "title": "【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越，先有模态后实体",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲讨论形式、实在和绝对三个层次中的现实性、可能性及必然性，并把偶然性纳入这些规定相互转化的过程。",
+          "source_ids": [
+            "d07-BV1BS4y1k7WY"
+          ],
+          "locator": "L1–7"
+        },
+        {
+          "text": "可能性被解释为能够被设定和实现的状态，与已经现实化的状态形成张力；单纯的形式现实性仍包含偶然性，不能仅因一件事发生就说其必然。",
+          "source_ids": [
+            "d07-BV1BS4y1k7WY"
+          ],
+          "locator": "L8–18"
+        },
+        {
+          "text": "实在的必然性涉及条件具足与结果发生的关系，绝对必然性则进一步追问这一条件网络及其自我关联。",
+          "source_ids": [
+            "d07-BV1BS4y1k7WY"
+          ],
+          "locator": "L19–27"
+        },
+        {
+          "text": "主讲以绝对者的自我反思说明偶然、可能、现实与必然的关系，并明确说“整个历史都是绝对者的计划”是自己的概括，而非黑格尔原句。",
+          "source_ids": [
+            "d07-BV1BS4y1k7WY"
+          ],
+          "locator": "L28–36"
+        },
+        {
+          "text": "模态的推进被用来说明实体如何获得规定，为绝对关系及实体向主体的转变作准备。主讲据此批评把实体预先当成静止起点的读法。",
+          "source_ids": [
+            "d07-BV1BS4y1k7WY"
+          ],
+          "locator": "L37–44"
+        }
+      ],
+      "editorial_notes": [
+        "课程对 possibility/probability 及中文译法有强烈个人评断；本导读不采用其“可能性译错”的断言，保留通常译名，并区分哲学可能性与概率。对斯宾诺莎主义的评价属于本讲立场。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-modality",
+          "relation": "editorial_reading",
+          "locator": "§1192–1207",
+          "reason": "核对形式可能性、现实性与偶然性；课程对possibility译名的批评不作通行译法。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1bS4y1G72C",
+      "series_code": "$-2-1-2",
+      "title": "【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？实体和偶性为什么是一回事？",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "“绝对再生产性”对应实体与偶性的关系：绝对必然性不再只被当作背后的安排，而通过实体及偶性的显现获得存在。二者是同一运动的两个侧面。",
+          "source_ids": [
+            "d07-BV1bS4y1G72C"
+          ],
+          "locator": "L1–18"
+        },
+        {
+          "text": "偶性处于生成和消逝之流，实体则被理解为这一流动中的自我关联。课程用闪现和返回说明二者，拒绝把实体当成与偶性完全分开的第二个物体。",
+          "source_ids": [
+            "d07-BV1bS4y1G72C"
+          ],
+          "locator": "L19–34"
+        },
+        {
+          "text": "可能性与现实性的相互转入被解释为创造与消解两种力量；再生产性既涉及生成，也涉及已有规定的消逝和重新形成。",
+          "source_ids": [
+            "d07-BV1bS4y1G72C"
+          ],
+          "locator": "L35–50"
+        },
+        {
+          "text": "这种关系仍不对称：实体仿佛单方面决定偶性，偶性之间尚未形成独立的相互作用。但实体又只能通过偶性存在，这成为进一步走向因果关系的张力。",
+          "source_ids": [
+            "d07-BV1bS4y1G72C"
+          ],
+          "locator": "L51–72"
+        },
+        {
+          "text": "主讲把本体论张力放在绝对必然性与实体—偶性关系之间，并建议直接阅读原章；程序员和政治组织的例子只是辅助解释这一不对称关系。",
+          "source_ids": [
+            "d07-BV1bS4y1G72C"
+          ],
+          "locator": "L73–84"
+        }
+      ],
+      "editorial_notes": [
+        "“再生产性”是课程对此环节的命名，不能直接当成马克思政治经济学中的社会再生产概念。偶性、属性和质在本系列中各有位置，不能混用。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-substance",
+          "relation": "editorial_reading",
+          "locator": "§1232–1242",
+          "reason": "对读实体、偶性、创造与毁灭；尤其核对§1239的转换方向。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Nu411R7Ye",
+      "series_code": "$-2-1-3",
+      "title": "【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限，形式和内容的认识论区分从何而来？",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "因果性承接实体与偶性的关系。形式因果性把实体设为发起的原因、偶性设为效果，但若只说结果有原因而没有具体规定，便陷入同义反复。",
+          "source_ids": [
+            "d07-BV1Nu411R7Ye"
+          ],
+          "locator": "L1–18"
+        },
+        {
+          "text": "因此课程转向规定的因果性：因果形式依附具体内容，原因不再是与载体和条件毫无关联的纯粹力量。主讲特别区别这一转折与“形式转为实在”的简单套用。",
+          "source_ids": [
+            "d07-BV1Nu411R7Ye"
+          ],
+          "locator": "L19–32"
+        },
+        {
+          "text": "球的碰撞和下雨等例子用来说明，原因要作为具体存在起作用，本身就已包含结果的环节。课程要求先理解原因与效果的内在关系，再讨论外部链条。",
+          "source_ids": [
+            "d07-BV1Nu411R7Ye"
+          ],
+          "locator": "L33–58"
+        },
+        {
+          "text": "只沿因果链无限向后追溯，仍未解释原因如何成立。主讲把效果使人追问其前提的力量解释为回溯性设定，并由此准备下一讲的作用与反作用。",
+          "source_ids": [
+            "d07-BV1Nu411R7Ye"
+          ],
+          "locator": "L59–76"
+        },
+        {
+          "text": "格位说明仍以绝对者的自我认识为认识论1，以形式与内容的分化协调设定力量与具体存在；主讲承认本讲模型粗略，详细论证需回读原章。",
+          "source_ids": [
+            "d07-BV1Nu411R7Ye"
+          ],
+          "locator": "L77–95"
+        }
+      ],
+      "editorial_notes": [
+        "主讲偏好“起因/效果”的译法，本导读同时保留通用的“原因/结果”。这里的因果性是《逻辑学》特定范畴讨论，不能用来否认经验科学中的因果研究或取代物理模型。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-substance",
+          "relation": "editorial_reading",
+          "locator": "§1243–1254",
+          "reason": "核对因果双方的相互规定，及有限因果中同一内容的重复。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Z44y1H75A",
+      "series_code": "$-2-1-4",
+      "title": "【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性，进而扬弃普遍性和个别性的对立，走向特殊的使命",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "相互性承接规定的因果性与有条件的因果性，目标是说明实体如何转向概念及主体性。课程先重述无限追溯原因为何不能解决原因与效果相互依赖的问题。",
+          "source_ids": [
+            "d07-BV1Z44y1H75A"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "主动实体与被动实体的区别并不稳固：原因要通过效果才成为原因，所谓被动者的反作用又参与设定主动者。因果链因而转成相互作用的循环。",
+          "source_ids": [
+            "d07-BV1Z44y1H75A"
+          ],
+          "locator": "L12–25"
+        },
+        {
+          "text": "这种相互关系使两侧的差别不再只是主动与被动，课程将它推进为普遍性与个别性的关系，再以特殊性说明具体差异。",
+          "source_ids": [
+            "d07-BV1Z44y1H75A"
+          ],
+          "locator": "L26–44"
+        },
+        {
+          "text": "进入概念论，不能满足于泛称某物是整体的一环或与其他环节不同，而要说清它具体如何不同、何以不可或缺。课程把这看作自由与主体性出现的条件。",
+          "source_ids": [
+            "d07-BV1Z44y1H75A"
+          ],
+          "locator": "L45–60"
+        },
+        {
+          "text": "结尾重申从因果性、相互作用到特殊性的路径，同时承认如何具体展开特殊性仍是开放问题。",
+          "source_ids": [
+            "d07-BV1Z44y1H75A"
+          ],
+          "locator": "L61–69"
+        }
+      ],
+      "editorial_notes": [
+        "开头ASR把编号识别为1-2-4，按视频标题及连续课程位置定位为$-2-1-4；尚未核听该口误或误识。主讲对普遍、个别、特殊的次序是本讲解释，须与原书具体段落对照。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§1272–1276",
+          "reason": "核对相互作用向概念的过渡及普遍、个别、特殊三环节。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}

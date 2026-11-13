@@ -1,0 +1,128 @@
+{
+  "checked_on": "2026-11-13",
+  "purpose": "查找四字头可读正文与字幕；索引只存渠道与有限元数据，不保存整书或整段转录。",
+  "new_course_transcripts_found": true,
+  "channels": [
+    {
+      "url": "https://gitee.com/jxyao333/vmz-ismism",
+      "method": "Exa读取README及公开API递归文件树",
+      "result": "笔记镜像中未发现4-1、4-2、4-3、4-4专讲路径；不能据此宣称所有分支、历史版本都没有。"
+    },
+    {
+      "url": "https://alephpi.github.io/note/",
+      "method": "Exa读取笔记索引",
+      "result": "索引的主义主义课程笔记为一字头；无四字头专讲。"
+    },
+    {
+      "url": "http://ismism.cn/",
+      "method": "Exa读取首页",
+      "result": "泛论性质的思想介绍，不含逐讲正文、引用定位或课程转录，不用于补摘要。"
+    },
+    {
+      "url": "https://www.bilibili.com/read/mobile-readlist/rl472783",
+      "method": "Exa读取实在界的马奎尔76篇文集目录",
+      "result": "目录涉及一至三字头；未发现四字头专讲。"
+    },
+    {
+      "url": "https://blog.xiang578.com/post/logseq/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89.html",
+      "method": "Exa读取全文",
+      "result": "只有四格、四数字的简要提纲，不支持四字头逐条摘要。"
+    },
+    {
+      "url": "https://arbel000.github.io/2022/04/05/wmz-philosophy11/",
+      "method": "Exa读取文章开头至现象学讨论",
+      "result": "阅读范围属于三字头与现象学；未把过渡性实践讨论当作四字头专讲。"
+    },
+    {
+      "url": "https://github.com/bjwktcsnzh/vmz-ismism-note-repo/forks",
+      "method": "公开API枚举fork；查看Will666666、JasonChenx3、Timexscz、Wshux、hotongue、1betman、Co4chJoE、imRatel、willlu42、AddNineBestow的master递归文件树",
+      "result": "这十个fork的路径查询未发现四字头专讲标题，不能据此推断未经查看的fork或非默认分支。"
+    },
+    {
+      "url": "https://zh.z-library.sk/book/zOoePZkNjQ/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E5%9B%9B%E5%AE%9E%E8%B7%B5%E6%9C%AA%E6%98%8E%E5%AD%9020192022.html?dsource=recommend",
+      "method": "普通HTTP读取公开预览页",
+      "result": "返回307重定向循环；没有下载书籍。Exa已读内容仍只到4-1中部，无新章节。"
+    },
+    {
+      "url": "https://api.bilibili.com/x/v2/reply",
+      "method": "type1、sort2、pn1，查询首批五讲公开评论",
+      "result": "前四讲未取得超过150字的评论；4-1-1-4长评论为观众政治史议论，不能认作课程转录，未用其补摘要。"
+    }
+  ],
+  "anonymous_subtitle_checks": [
+    {
+      "code": "4-1-1",
+      "bvid": "BV1q3411C7dJ",
+      "cid": 424695353,
+      "duration_seconds": 2287,
+      "api_code": 0,
+      "subtitle_count": 0
+    },
+    {
+      "code": "4-1-1-1",
+      "bvid": "BV1544y1x7i5",
+      "cid": 425750295,
+      "duration_seconds": 3826,
+      "api_code": 0,
+      "subtitle_count": 0
+    },
+    {
+      "code": "4-1-1-2",
+      "bvid": "BV1hq4y197tW",
+      "cid": 426316027,
+      "duration_seconds": 1745,
+      "api_code": 0,
+      "subtitle_count": 0
+    },
+    {
+      "code": "4-1-1-3",
+      "bvid": "BV1jh411n7i8",
+      "cid": 426874943,
+      "duration_seconds": 2730,
+      "api_code": 0,
+      "subtitle_count": 0
+    },
+    {
+      "code": "4-1-1-4",
+      "bvid": "BV19F411Y7Ly",
+      "cid": 427359277,
+      "duration_seconds": 2224,
+      "api_code": 0,
+      "subtitle_count": 0
+    },
+    {
+      "code": "4-1-2",
+      "bvid": "BV1UL411G7Sd",
+      "cid": 427849960,
+      "duration_seconds": 2754,
+      "api_code": 0,
+      "subtitle_count": 0
+    }
+  ],
+  "subtitle_check_scope": "公开view API取得cid，随后匿名请求x/player/v2?bvid=...&cid=...；每项data.subtitle.subtitles为空。只反映此次匿名接口响应，不证明视频永久没有字幕、登录后没有AI字幕或其他渠道不存在转录。未调用账户、未取得浏览器cookie、未绕过访问控制。",
+  "next_routes": [
+    "在已获授权的正常浏览器会话中查看CC与AI字幕可用性；本批未检查登录后的界面。",
+    "如果可合法访问原音，可进行分段转录并保留ASR来源状态及待校标记；不能把机器转录改称人工核听。",
+    "若获得编者公开授权稿或用户持有稿，再按章节补完；不反复用相同关键词查询已确认只有目录的页面。"
+  ],
+  "later_breakthrough": {
+    "date": "2026-11-13",
+    "repository": "https://github.com/weathour/ismism-system",
+    "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+    "path": "corpus/clean-markdown/4_实践",
+    "result": "随后通过GitHub仓库名检索取得完整分讲编纂转录，之前渠道失败不再构成四字头无正文的结论。4和4-1整支22节点已据逐份列明的Page核读范围补写，见02-practice.json；尚未核听原音。",
+    "cache_manifest": "../source-cache/weathour/manifest.json",
+    "related_repository_checks": [
+      {
+        "repository": "LibreGeist-Project/ismism",
+        "commit": "f403a490b1d1adf876ef7b3de239e23411263485",
+        "result": "检查时仅README，无可用转录正文。"
+      },
+      {
+        "repository": "ghoulabc/ismism",
+        "result": "检查时GitHub API返回空仓库409，无可用正文。"
+      }
+    ]
+  },
+  "initial_channel_result": "下列旧渠道检查未取得四字头专讲正文；后续GitHub仓库名检索已取得正文，见later_breakthrough。"
+}

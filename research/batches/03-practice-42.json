@@ -1,0 +1,1791 @@
+{
+  "batch": "03-practice-42",
+  "checked_on": "2026-11-13",
+  "scope": "4-2整支21个节点的首版课程摘要与78个既有格位说明；共63条论点。基于固定提交的社区编纂文本选段，非原音听校或人工审定。父讲继承显式标注，跨文件延续按实际来源引用。",
+  "sources": [
+    {
+      "id": "p42-0299",
+      "title": "4-2 现实的正统化：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–34；L39内复习课标题以前。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–34；L39内复习课标题以前",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_现实的正统化/0299_4-2_现实的正统化_p7647.md",
+      "sha256": "b7eac7c1129cea19984abdb5b4561a6f44e71bf2fd71a9e5bc09ebcd6e912b89",
+      "git_blob_sha": "f0bf0e8d7dbb398f69c360c18574055bd2d3eaa7",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0301",
+      "title": "4-2-1 合律组织：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/0301_4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87_p7674.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–19、44–81；不含L84下一讲。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–19、44–81；不含L84下一讲",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-1_合律组织/0301_4-2-1_合律组织_p7674.md",
+      "sha256": "507df77aea61a4ffa9a81efeabc83c21acfebcf841dde1ece70fd0aeabc17c54",
+      "git_blob_sha": "86a7663d9069fcfa888b68ff3ac2cff9c2175112",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0302",
+      "title": "4-2-1-1 获取典型性：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7/0302_4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7_p7693.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–42；L47中下一讲标题以前。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–42；L47中下一讲标题以前",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-1_合律组织/4-2-1-1_获取典型性/0302_4-2-1-1_获取典型性_p7693.md",
+      "sha256": "4340df75ccd0692037437b202d01e5df20d985680dca6286b4ee70908ec3d7aa",
+      "git_blob_sha": "7ad7716fc051db7b0580f733df544618984e0466",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0303",
+      "title": "4-2-1-2 操作系统程序：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F/0303_4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F_p7702.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–33；不含L36及39的下一讲内容。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–33；不含L36及39的下一讲内容",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-1_合律组织/4-2-1-2_操作系统程序/0303_4-2-1-2_操作系统程序_p7702.md",
+      "sha256": "52445fac0bb2cca57a372503ab6f6dc541eda14ce6da7106c990eade7568f4fa",
+      "git_blob_sha": "e9c42111a730ade368ee605b3a640c4de8632b29",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0304",
+      "title": "4-2-1-3 代表那个体系：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB/0304_4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB_p7712.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–143；L146中下一讲标题以前。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–143；L146中下一讲标题以前",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-1_合律组织/4-2-1-3_代表那个体系/0304_4-2-1-3_代表那个体系_p7712.md",
+      "sha256": "80be99f166db6f5d94ad10a045796d7a49fe1bc0af2930653bea5b524c2d7348",
+      "git_blob_sha": "fc583ac9c9d45bf831238173c802740cbcb8ea0b",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0305",
+      "title": "4-2-1-4 台面上的权宜之计：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1/0305_4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1_p7720.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–24、42–67；不含L81以后下一讲。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–24、42–67；不含L81以后下一讲",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-1_合律组织/4-2-1-4_台面上的权宜之计/0305_4-2-1-4_台面上的权宜之计_p7720.md",
+      "sha256": "cee73f464b2783502d8a243d836f7a5704a83ff535a3b678a641946beee29a1b",
+      "git_blob_sha": "14574c066f2f171edf8537704ec12268394d103a",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0306",
+      "title": "4-2-2 列宁主义：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/0306_4-2-2_L%E4%B8%BB%E4%B9%89_p7737.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–60；另读L63–65进入4-2-2-1的开场，跨讲单独引用。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–60；另读L63–65进入4-2-2-1的开场，跨讲单独引用",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-2_L主义/0306_4-2-2_L主义_p7737.md",
+      "sha256": "bf8d218c7e26933b09132a15de45b1a084d9ba3ee63ae98226dd8554d6d97583",
+      "git_blob_sha": "eb5d29a66f7f408174c81548726b1bc80489ad82",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0307",
+      "title": "4-2-2-1 受信任的联合：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88/0307_4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88_p7752.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–24；另读L29中4-2-2-2开场，跨讲单独引用。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–24；另读L29中4-2-2-2开场，跨讲单独引用",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-2_L主义/4-2-2-1_受信任的联合/0307_4-2-2-1_受信任的联合_p7752.md",
+      "sha256": "ffb28f6cdaa5e6b33266f870c17e9f63438c52bd0cfb1f7a75e03d0b4c16c054",
+      "git_blob_sha": "9c72f309649260dc3a4d52d8635f35cc5cb04f73",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0308",
+      "title": "4-2-2-2 清楚的区分：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86/0308_4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86_p7757.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、42–57。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、42–57",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-2_L主义/4-2-2-2_清楚的区分/0308_4-2-2-2_清楚的区分_p7757.md",
+      "sha256": "23e23de383557c152e6e5d9dcb199c43a274531e559b284b6be4a3340ebbc364",
+      "git_blob_sha": "c7eea51abc062275b35e4f86ad153346fff65d88",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0309",
+      "title": "4-2-2-3 前沿注意：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F/0309_4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F_p7778.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、112–181。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、112–181",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-2_L主义/4-2-2-3_前沿注意/0309_4-2-2-3_前沿注意_p7778.md",
+      "sha256": "5364450eed061045753d2ee2339806a5e589790183155e4a04e13e612959cc39",
+      "git_blob_sha": "1b39f70d5c11edbf158bfde72fc170de306ce0c7",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0310",
+      "title": "4-2-2-4 驱散关键Debuff：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff/0310_4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff_p7804.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–19、29–49。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–19、29–49",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-2_L主义/4-2-2-4_驱逐关键_debuff/0310_4-2-2-4_驱逐关键_debuff_p7804.md",
+      "sha256": "aa5ea7ffec80200a0dc287676610aaf7281185e851b8aef598054ffd7a601f54",
+      "git_blob_sha": "a49425c52e2950841dcb7bd1b2dc44416a04a622",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0311",
+      "title": "4-2-3 真正的国际主义：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/0311_4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89_p7815.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–14、19–44、58。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–14、19–44、58",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-3_真正的国际主义/0311_4-2-3_真正的国际主义_p7815.md",
+      "sha256": "2b757548f1e9b18f830d51ff88912726018b6dbf13088085563dceebea82b1e5",
+      "git_blob_sha": "24a497c5577477cf76a5d043a293238035ff438e",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0312",
+      "title": "4-2-3-1 接管国家机器：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-1_%E6%8E%A5%E7%AE%A1_sa/0312_4-2-3-1_%E6%8E%A5%E7%AE%A1_sa_p7832.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、66、93、102–108。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、66、93、102–108",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-3_真正的国际主义/4-2-3-1_接管_sa/0312_4-2-3-1_接管_sa_p7832.md",
+      "sha256": "612d9fab2bcd71787a4dc026607415b108103855c4079a99fa21d7e26005ca70",
+      "git_blob_sha": "de8a2906782824116258a742059c2294c9f5b5ae",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0313",
+      "title": "4-2-3-2 第三国际早期的历史任务：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89/0313_4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89_p7872.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–14、87–92、112–115。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–14、87–92、112–115",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-3_真正的国际主义/4-2-3-2_将邪恶的帝国主义战争转化为正义的国内战争/0313_4-2-3-2_将邪恶的帝国主义战争转化为正义的国内战争_p7872.md",
+      "sha256": "48cbaf245723ff9b4929c65ae255c2e02c1088a883052042735ff52ab7996972",
+      "git_blob_sha": "7b7aca513a85f1baf7d04b4dc5ca9e89a03da590",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0314",
+      "title": "4-2-3-3 对自决进程施加领导：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC/0314_4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC_p7898.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–14、63、72–81、97。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–14、63、72–81、97",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-3_真正的国际主义/4-2-3-3_对自决进程施加领导/0314_4-2-3-3_对自决进程施加领导_p7898.md",
+      "sha256": "2ecded8d73c0e5140eea953b36b13471d7359a8e349aefba6c75482ac18d3e9c",
+      "git_blob_sha": "1970acb955bc9020a663ba5bcd9918a79eb95623",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0315",
+      "title": "4-2-3-4 历史的妥协：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F/0315_4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F_p7927.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–21、45、54；L69下一讲开始前已截断。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–21、45、54；L69下一讲开始前已截断",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-3_真正的国际主义/4-2-3-4_历史的妥协/0315_4-2-3-4_历史的妥协_p7927.md",
+      "sha256": "cb4bdd39cdb92d7f81820327ab7dbbc2db7354338d1d7ce89f061fbfbabae3d0",
+      "git_blob_sha": "83d5eb59ce81c9a77e07cdfa274b0a1db8599c90",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0316",
+      "title": "4-2-4 再来一次：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/0316_4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1_p7948.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–24、45–57、66、71、80–86；不含L91下一讲。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–24、45–57、66、71、80–86；不含L91下一讲",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-4_再来一次/0316_4-2-4_再来一次_p7948.md",
+      "sha256": "1bf83b5fa35fbe9d2ec0f71f4c96430d319cf4a342e260c54e2a1c55461492b2",
+      "git_blob_sha": "f2e8bae0433555319a7042d5d446547a0c1a92bf",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0317",
+      "title": "4-2-4-1 共进退：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80/0317_4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80_p7973.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、52、67–87。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、52、67–87",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-4_再来一次/4-2-4-1_共进退/0317_4-2-4-1_共进退_p7973.md",
+      "sha256": "8ba25646bfe872aa698397309db4c9f833038f56d25b0562c87ee0c2c9246a13",
+      "git_blob_sha": "af2c8708897444feceb24d324dd493fe07c4ce7e",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0318",
+      "title": "4-2-4-2 不断围绕中心旋转：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC/0318_4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC_p8002.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、54–63、69–90；不含L92下一讲。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、54–63、69–90；不含L92下一讲",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-4_再来一次/4-2-4-2_不断围绕中心旋转/0318_4-2-4-2_不断围绕中心旋转_p8002.md",
+      "sha256": "41a90793e2b26a37c9a543295e3a06da6922ff7ddb141b4b8ea1d5d0297b0570",
+      "git_blob_sha": "2e08873b508ffc9767b56b6ca9c60e5f9cd2513d",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0319",
+      "title": "4-2-4-3 集体创新：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0/0319_4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0_p8030.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–15、29、50–59、77；不含L87以后下一讲。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–15、29、50–59、77；不含L87以后下一讲",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-4_再来一次/4-2-4-3_集体创新/0319_4-2-4-3_集体创新_p8030.md",
+      "sha256": "99c9f845b783129c850b040b963d5255c4e7797a69884e241325994edf530f0d",
+      "git_blob_sha": "110784ffd9bbd54537fd06092a70c795049c9560",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "p42-0320",
+      "title": "4-2-4-4 分类标准上的冲突：社区编纂转录",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81/0320_4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81_p8055.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "本地核读选定定义与论证段，非整章逐字审定、非原音听校。部分超长段只核读段首约1450–1800字；下面各论点定位到实际已读内容。核读范围：L9–21、27–35、49–60、70–84。原文字母代称及历史判断保留为讲者表述，未作独立史实认证。",
+      "locator": "L9–21、27–35、49–60、70–84",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/4-2-4_再来一次/4-2-4-4_分类标准上的冲突/0320_4-2-4-4_分类标准上的冲突_p8055.md",
+      "sha256": "f60869d3fbee6a242a98f95e4994cea47790715f8e509bc4897d8c765c0640df",
+      "git_blob_sha": "8b55e05143eb7cda601c5f8222baa1798ade5b13",
+      "checked_on": "2026-11-13"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把现实的正统化理解为行动者介入人民创造历史的过程；行动者承担中介，而非只在理论上说明历史。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L24–29"
+        },
+        {
+          "text": "与4-1-4-4的直接创造历史相比较，这一格强调组织、教育和引导的中介作用，实践单元被指认为现代政党。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L29"
+        },
+        {
+          "text": "本体论上的冲突是造成苦难的客观物质与社会现实，同失去位置的普罗大众之间的对立；后者构成推动现实改变的力量。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L29–34"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民通过行动者的引导与中介创造历史；行动者把自身作为实践环节投入其中。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L24–29"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：造成苦难的物质及社会现实，与失去位置的普罗大众相对立。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L29–34"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "这里只整理4-2专讲L9–34；L39起转入复习课，不用于本条三点摘要。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L9–34；L39内复习课标题以前"
+        }
+      ],
+      "open_questions": [
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-1",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "本讲以拉萨尔为例，把合律组织放在1848年后劳动群众寻求独立社会位置的背景中。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L9、66–75"
+        },
+        {
+          "text": "讲者强调组织工作的现实条件包括资源、公众声望、听众和合法身份；这些条件需要具体周旋，而非由理论自动提供。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L69–78"
+        },
+        {
+          "text": "课程肯定其行动作用，同时指出个人英雄主义和浪漫主义的局限，认为组织实践需要后继者继续推进。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L78–81"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者组织不愿再依附资产阶级的劳动群众，介入1848年后的新历史。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L66–69"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：悲惨的物质生存现实，与劳动群众缺少地位、尊严和代表位置的处境对立。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L75–78"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：以现实辩证法统合资源、声望、听众与合法身份的具体取得方式。",
+          "source_ids": [
+            "p42-0301"
+          ],
+          "locator": "L78–81"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "拉萨尔生平、诉讼次数和货币金额是转录中的不确定口述，尚未独立核实，未纳入摘要。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-1-1",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程以威廉·李卜克内西为例，将获取典型性解释为获得历史代表性，而不只是取得议席。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L9、28、36–39"
+        },
+        {
+          "text": "组织整合与理论指导共同构成代表性的条件：把分散力量联合起来，同时让群众看到未来方向。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L13–21、33–36"
+        },
+        {
+          "text": "这一格仍把争取合法存在视为持续任务；目的不是安于既有位置，而是维持对劳动群众和新历史力量的代表性。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L42–47"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者承接人民团结的愿望，在德意志统一的历史背景中取得代表性。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L36–39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：无人代表的现实，与群众对身份、根基和自我认同的要求相对立。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L39"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：以争取合法存在贯穿行动，即使暂时被排除也继续维持历史代表性。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L42"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：维持代表性，通过整合和争论防止力量分散或依附于他者。",
+          "source_ids": [
+            "p42-0302"
+          ],
+          "locator": "L42–47"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "标题中的“典型性”是原讲明示的代译；可保留representativeness与代表性为检索别名，不据此擅改标题。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-1-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "本讲借倍倍尔区分理论体系的根本纲领和会议通过的字面纲领；执行体系要求对具体文件保持反思与调整。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "议会代表性与现实策略的优先性形成难以调和的两种要求，课程据此解释这一格的犹疑与中派主义风险。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L15–18"
+        },
+        {
+          "text": "执行机构负责日常事务和策略协调，但仍依赖理论家赋予行动历史连贯性；讲者把这种依赖视为局限。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L21、30–33"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者把工联主义层面的群众引向更广的历史实践；执行机构承担具体协调。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L18–21"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：偏私且可撤回代表权的政治现实，与需要持续存在的现实组织力量相对立。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L21–30"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：行动仍依赖理论体系与理论家来维持历史连贯性，经验成功尚缺充分反思。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L30–33"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：台面上的代表性与现实策略的优先性相冲突，不能自动归于一致。",
+          "source_ids": [
+            "p42-0303"
+          ],
+          "locator": "L15–18"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "program并非软件程序；此处是课程用计算机语言比拟政治纲领。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-1-3",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程借拉法格说明行动者开始承担局部理论工作：他不只等待指导，也以自己的理论线索代表体系。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L9–38"
+        },
+        {
+          "text": "代表体系意味着把整体理论转成合乎时地人条件的表达；讲者以《懒惰权》说明这种调整，而不把它等同于机械照搬。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L40–50"
+        },
+        {
+          "text": "该格以体系代表性调和取得代表位置与维护纲领两种任务；但课程批评其线性经济决定论仍具有形而上学局限。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L41–46、95–121"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者在不同思潮竞争的群众中承担引导，使理论体系进入具体历史场景。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L52–75"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：无情变迁的物质现实，与内部立场动摇、相互争夺的普罗大众相对立。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L95–102"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：经济决定论与实证主义社会进化论提供一条线性的解释框架。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L103–111"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过因地制宜地代表整个体系，调和代表性与纲领维护。",
+          "source_ids": [
+            "p42-0304"
+          ],
+          "locator": "L41–46、120–127"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原转录L42把邻项编号写成4-1-2-1；上下文明确讨论4-2-1-1，本摘要按上下文转述并保留此疑点。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-1-4",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程以饶勒斯讨论议会中的权宜之计，强调其反战和理想主义动机，同时批评其对政治制度连续进步的期待。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L24、42、62–67"
+        },
+        {
+          "text": "讲者认为议会规则不能脱离物质力量来理解：法律与程序可以受到战争及经济支配力量的破坏。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L42–47"
+        },
+        {
+          "text": "判别权宜之计不能只看手段灵活，还要看行动是否承担个人损失并维持共同理想；课程将其与追逐私利区别开。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L62–67"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者面对动摇的群众，通过议会斗争与反战努力迟滞危机；其失败又揭示道路的限度。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L47–57"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：战争阴影下不断尖锐的社会矛盾，与无所适从、立场动摇的群众相对立。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L57–62"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：仍受线性、形而上的历史观支配，对既有议会秩序的持续效力抱有期待。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L24、42–47"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：权宜措施不预设一条固定成功路径，以承担损失、坚持共同理想来区别于谋取私利。",
+          "source_ids": [
+            "p42-0305"
+          ],
+          "locator": "L62–67"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "饶勒斯与米勒兰事件的具体史实尚未核对；本条呈现课程判断。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把主观准备视为客观历史条件的一部分：时机并非纯粹等待出来，行动者的判断与投入会改变时机本身。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L9、29–34"
+        },
+        {
+          "text": "这一格在认识论上维持冲突：既有决定论框架与现实行动中的辩证反思并不等同，前者不能预先穷尽行动的可能。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L29、48–54"
+        },
+        {
+          "text": "先锋队被理解为行动、反思和现实反馈相互循环的中介；讲者强调它并非只以意识或理论来调和世界。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L39–45"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者引领已有实践经验和反思能力的群众，在行动中创造不能预先保证的历史。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L34–45"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：帝国主义战争的现实与人民厌战、无处安置自身的处境相冲突。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L48–51"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：决定论式历史必然性与当下行动中的辩证冒险相对立。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L29、51–54"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "“一国建成”等理论的年代与作者归属未独立审定，暂不据口述补写思想史结论。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-2-1",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "在课程的历史叙述中，受信任的联合是早期列宁主义组织生活的起点；其目的被比作培育能持续生长的基层细胞。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L63–65"
+        },
+        {
+          "text": "讲者把这种实践放在当时俄国公开活动受压制、非公开活动同样面临危险的处境中，强调生存条件对思考方式的制约。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L14–19"
+        },
+        {
+          "text": "基层单元不只是封闭的小圈子，而与更广的联络、分工、经验反馈和理论纠偏相联系。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L24–29"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民已有的历史习惯，经行动者介入而进入更广联络，基层单元在其中生长。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L24"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：公开空间受到压倒性限制，与非公开空间仍缺安全保障的处境形成双重压力。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L19"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：沿用父讲：既有指导框架与具体生存、行动中的现实辩证法保持张力。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L29、51–54",
+          "inherited_from": "4-2-2"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：使基层的活的组织单元持续生长，并以理论与人的协作维持其延续。",
+          "source_ids": [
+            "p42-0306"
+          ],
+          "locator": "L65"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "开场与目的论定义保存在0306文件末尾进入本讲的段落；跨文件来源明确列出，没有当作0307中未见的开头。摘要保留历史解释层，不重述具体隐蔽通信操作。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L9–24；另读L29中4-2-2-2开场，跨讲单独引用"
+        }
+      ],
+      "open_questions": [
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-2-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把清楚的区分解释为分清敌我，并用培育土壤的比喻说明它与前一格基层单元生长的关系。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L29中本讲开场"
+        },
+        {
+          "text": "本讲以S的早期实践讨论受压迫群体的联合，以及形式上的代表机构如何变成实际承担工作的集体。",
+          "source_ids": [
+            "p42-0308"
+          ],
+          "locator": "L12–15、42"
+        },
+        {
+          "text": "知识不是单向接受上层指示；在地实践需要形成自己的理解，使基层经验和困难能够反映到整体判断中。",
+          "source_ids": [
+            "p42-0308"
+          ],
+          "locator": "L51–54"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者使分散、受欺辱的群体获得共同表达与工作联系。",
+          "source_ids": [
+            "p42-0308"
+          ],
+          "locator": "L12–15、42"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：组织生长所需资源与行动者的安全、归属保障之间存在紧张。",
+          "source_ids": [
+            "p42-0308"
+          ],
+          "locator": "L42、48"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：上层理论与指示，同在地实践中自行形成的认识和表达相对立。",
+          "source_ids": [
+            "p42-0308"
+          ],
+          "locator": "L51–54"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：在基层生长的同时进行区分，辨认阻碍其生长的内外力量。",
+          "source_ids": [
+            "p42-0307"
+          ],
+          "locator": "L29中本讲开场"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "S的代称可通过视频核听确认；本批没有把讲者关于人物动机与遗嘱的推测转换成史实。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-2-3",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "前沿注意强调行动者站在历史矛盾的接触处，既观察新的情况，又承担资源与力量的协调。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "课程以T为例，将前沿机构比作连接内部单元与外部现实的神经系统，说明它如何在历史事件中形成新机构的雏形。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L117–145"
+        },
+        {
+          "text": "讲者区分紧迫处境下的试错措施与前瞻判断，并批评把先付代价再修正当作唯一历史方法。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L169–181"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：面对有热情却分散、饱受苦难的群众，行动者在历史前沿提供引领与协调。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L148"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：实际战争前线及人民无位置的现实，与欧洲精英仍沉浸的观念世界相对立。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L160–166"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：紧急对策中的教条与灵活试错，同前瞻和预判之间保持张力。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L169–181"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：以前沿接触和协调网络连接基层生长与内外区分，使组织能够面对外部现实。",
+          "source_ids": [
+            "p42-0309"
+          ],
+          "locator": "L139–145"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程将这一结构比作神经网络，属于解释性类比；人物预判是否准确需独立史料复核。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-2-4",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程区分经济关系中的剥削与政治代表权被占用的问题，本讲集中讨论后者的否定与独立表达的形成。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L9–19"
+        },
+        {
+          "text": "组织生活在这里既是共同实践，也是成员自主参与的生活关系；它不能只靠来自上层的抽象忠诚要求维持。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L19、39–49"
+        },
+        {
+          "text": "上层指导和基层主动反馈构成双向关系，具体生活的开放性要求因地制宜地理解共同要求。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L34–49"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：已参与组织生活的行动者，使尚未参与者形成独立表达并进入新的共同历史。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L19、29"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：分化收买的客观现实，与普罗大众缺乏独立性、被他者引导的状态相对立。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L29–34"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：来自上层的体系指导，与自下而上的主动参与、反馈和具体判断相对立。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L34–49"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：通过自主自愿的共同生活形成真实而非被代替的政治表达；结果在现实实践中展开。",
+          "source_ids": [
+            "p42-0310"
+          ],
+          "locator": "L39–49"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "L49以字母D表示目标，完整术语需核原音；这里按已读的自主参与与代表性论证作限定转述。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-3",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把真正的国际主义放在跨越国别界限的解放实践中，其历史组织形态以第三国际及其分支为例。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L9–14"
+        },
+        {
+          "text": "帝国主义战争和民族压迫使阶级问题与民族问题交织，历史不再是一条单线的发展序列。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L34–44"
+        },
+        {
+          "text": "认识论上的调和力量被称为解放的普遍主义：阶级解放与受压迫民族的解放相互交叉，而非简单分属辩证法和形而上学。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L58"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：国际性的行动者联结战时受迫害、并开始独立组织的人民，共同改变战争支配的历史。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L24–34"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：帝国主义战争与掠夺的现实，同失去可靠民族根基的国际主义力量相对立。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L39–44"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：解放的普遍主义调和形而上学与辩证法，并使阶级与民族解放交叉联系。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L58"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "战争联盟、人物遇害与组织成立的时间细节在转录中有口误，未写入事实性时间表。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-3-1",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "本讲区分接管国家机器与只取得制度表面的职位：课程认为成败关系到实际承担社会运转的能力。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "恢复秩序在这里不必等于原样恢复旧关系；新的承担者可以在秩序恢复中改变它的具体内容。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L102–108"
+        },
+        {
+          "text": "课程把战争尤其战败造成的失序，作为理解群众对秩序要求的历史背景，并用它说明普遍主义如何具体化。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L93、102–108"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：能够实际承担公共运转的行动者介入失序局面，而非仅成为制度表面的代表。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L9–15、66"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：战争、战败带来的惨痛现实，与可能改变既有关系的历史窗口相对立。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L93"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：恢复秩序的普遍要求调和形而上学与辩证法，具体体现为新的组织与服从关系。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L102–105"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：恢复并维持社会秩序，同时使新秩序取代旧秩序的具体实现形式。",
+          "source_ids": [
+            "p42-0312"
+          ],
+          "locator": "L105–108"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "这是课程对俄国革命经验的解释，未据此验证对其他历史失败案例的因果归纳。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-3-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "本讲讨论第三国际早期以国际协调反对帝国主义战争、支持各国解放实践的历史任务。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L9–14"
+        },
+        {
+          "text": "课程把早期第三国际的正当性，与已经出现的新型国家实践及劳动群众的代表性联系起来。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L92、112"
+        },
+        {
+          "text": "与前一格恢复秩序相比，本格突出既有秩序的继承与新秩序的创造之间的冲突。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L112–115"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：沿用父讲：国际行动者联结各国人民，把分散实践置入共同的历史进程。",
+          "source_ids": [
+            "p42-0311"
+          ],
+          "locator": "L24–34",
+          "inherited_from": "4-2-3"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：帝国主义外战的惨痛现实，与国内政治冲突中尚未确定、仍被争夺的人民位置相对立。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L87–92"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以解放实践的正当性与普遍代表性调和形而上学和辩证法。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L92、112"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：维持、继承现有秩序与创造、取代为新秩序相对立。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L112–115"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "源文件长标题与现有“第三国际早期的历史任务”不同；本批保留原数据标题，并明确摘要的历史语境。",
+          "source_ids": [
+            "p42-0313"
+          ],
+          "locator": "L9–14、87–92、112–115"
+        }
+      ],
+      "open_questions": [
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-3-3",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把自决问题置于帝国主义作用下的民族冲突与现代化冲击中，强调不能仅凭抽象口号判断具体诉求。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L63、72–81"
+        },
+        {
+          "text": "领导在这里意味着形成共同的实践方向，并辨认不同混乱的来源；它不是默认任何既成民族立场都具有解放性。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L63、97"
+        },
+        {
+          "text": "认识论上的普遍性被称为理想主义，但须通过公平对待和实际行动体现，不能只停留于悬空的原则。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L81、97"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者联结易受利用、彼此冲突的群体，形成共同方向并使落后和少数民族相互团结。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L63"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：强制现代化及民族冲突的现实，与各群体不知走哪条道路的迷惘相对立。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L72–81"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：经实践体现的理想主义，调和抽象普遍原则与现实辩证判断。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L81、97"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过判断混乱的来源，协调恢复秩序与建立新秩序之间的矛盾。",
+          "source_ids": [
+            "p42-0314"
+          ],
+          "locator": "L97"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "关于具体边疆地区与第三国际错误的口述判断尚未独立史料核验，未扩展成事实目录。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-3-4",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "历史的妥协被解释为向当下人民负责，而非只向过去的权威或未来的历史目标负责。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L12–18"
+        },
+        {
+          "text": "课程以第三国际解散和反法西斯合作为背景，讨论在地责任与跨国中心之间的张力，以及共同目标下的联合。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L9–15、45"
+        },
+        {
+          "text": "妥协在此并非自动放弃独立性；讲者把保持自身主体位置与通过妥协推动历史同时提出。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L45–54"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：行动者通过妥协与广泛联合推动历史，同时保留自身独立性。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L45–54"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：纳粹主义带来的紧迫灾难，与合作各方及群众之间的疑虑、不信任相对立。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L18–21"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：共同生活于当下这一普遍条件，调和形而上学与辩证法，并要求承认时代局限。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L15–18"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：优先向当下人民负责，放弃以单一超在地中心或预定历史承诺穷尽责任。",
+          "source_ids": [
+            "p42-0315"
+          ],
+          "locator": "L12–18"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "第三国际解散原因、战争伤亡等史实仍需原始文献对照，本批保留为讲者的解释。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-4",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "再来一次指在历史遭遇停滞后重复一次重大实践；课程将其理解为试错与承担失败的努力，而非成功保证。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L9–24"
+        },
+        {
+          "text": "行动者在这里不再作为掌控总体结果的中心，而把自身作为外在环节投入历史，将结果托付给其他人与后来者。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L45–57"
+        },
+        {
+          "text": "期待不可能性具有双重张力：既希望突破既有尺度，又承认无法用旧标准预知是否成功。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L51–57"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：退潮中的人民经行动者再度投入历史重复；行动者是外在中介而非全能中心。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L24、45"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：阶级斗争所派生的客观现实，与其派生的主体之间维持未被调和的冲突。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L71"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：期待不可能性；既期待突破僵局，又承认成败不能被既有尺度预先担保。",
+          "source_ids": [
+            "p42-0316"
+          ],
+          "locator": "L51–57、66"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "课程将若干历史尝试统称失败格，这是其评价框架；尚未独立审定全部比较史判断。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-4-1",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "共进退不仅要求一起前进，也要求能够一起退却；课程特别把农业人口和粮食条件放入工业社会实践的基础。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "行动者被理解为共同承担困难的化身；其代表历史的主张首先意味着优先面对困境，而非具有更高的人身等级。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L52、67–72"
+        },
+        {
+          "text": "课程把权宜措施描述为不确定处境下的试探与退让，强调它们可能伴随损失和悲剧性代价。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L77–87"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：掌握实际职责的行动者，以纪律与承担困难维系人民的共同进退。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L52、67–72"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：帝国主义压力，与工业社会对粮食的依赖及农业人口的离心力相对立。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L72–77"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：不确定处境中的权宜判断与冒险，需要不断面对现实修正原先理想。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L77–87"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：维系战略与实践上的共同进退，尤其保持工业与农业人口之间的联系。",
+          "source_ids": [
+            "p42-0317"
+          ],
+          "locator": "L9–15、87"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "原讲对饥荒、强制及伤亡的归因不在本批史实核验范围，摘要没有将其当作已证实的免责结论。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-4-2",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程把不断围绕中心旋转解释为与现行中心拉开距离的实践姿态：它不再维持上一格的直接共同进退。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L54、69"
+        },
+        {
+          "text": "相对边缘的观察位置被认为有助于前瞻，但也使行动者越来越通过人口和整体态势的名义面对具体的人。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L63、69、78–81"
+        },
+        {
+          "text": "讲者明确讨论这种战略化视角的代价：世界可能被当成抽象图景，行动者由此与人的具体生活发生疏远。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L81–90"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：相对边缘化的行动者代表整体人口作前瞻判断，也因此与具体个体拉开距离。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L63、78–81"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：集中且强硬的科层现实，与尚不设防、缺少保障的广大地区相对立。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L57–60"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：以游离的战略判断面对不确定态势，课程将其表述为手段不受单一预设限制。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L54–57"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：共同进退转为保持距离，围绕不能抵达的中心持续运动。",
+          "source_ids": [
+            "p42-0318"
+          ],
+          "locator": "L54"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "“不断革命”等学说的标准译名和该格命名并不等同，本条只整理课程的空间化解释。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-4-3",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "集体创新强调新的规则从劳动与实践中形成，而非先由知识分子给出完整原理再要求群众执行。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "课程把行动者的作用改写为鼓励、信任并解除思想束缚；它试图使游离的批判重新回到群众的实际活动。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L29、59"
+        },
+        {
+          "text": "讲者同时承认混乱会使人民没有位置，并批评神格化和无脑崇拜；本讲并未把所有自发冲突都当作成功创新。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L50–59、77"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民创造历史，行动者主要通过鼓励、信任与解除思想束缚起作用。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L59"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：集中科层制的现实，与混乱中人民仍无位置、缺少方向的处境相对立。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L50–59"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：新的理与规则在实践过程中发生，不预设知识分子拥有最终指导框架。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过从群众中来、回到群众中的运动，协调共同进退与游离的批判。",
+          "source_ids": [
+            "p42-0319"
+          ],
+          "locator": "L29"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "有关具体历史运动的功过是课程评价，摘要保留其失败与混乱的限定，不将其改写为单向赞颂。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    },
+    {
+      "code": "4-2-4-4",
+      "evidence_level": "community_transcript_excerpt",
+      "review_status": {
+        "course_text": "selected_argument_passages_compared",
+        "coverage": "three_claims_and_existing_axes",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [
+        {
+          "text": "课程以受奴役和伤害、依靠劳动维持生活的人作为这一格的主体，并把他们的意志能否进入生产分配关系作为问题。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L9–15"
+        },
+        {
+          "text": "公平在这里不是现成无争议的标准；不同生产分配关系争夺何为公平，使分类和规范本身进入实践冲突。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L18–21"
+        },
+        {
+          "text": "认识论上的解放思想要求在实际活动中重新寻求规则；相信未来则被说明为当下承担的一种伦理姿态。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L49–60、70–78"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：人民与行动者的区分趋于短路，实际站起来行动的人本身构成实践单元。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L21、35"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论2：尚未实现的公平普遍性，与各种现实而不公平的生产分配关系相对立。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L15–21、27–35"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：解放思想，使实际活动优先于僵化分类，从实践事实中寻求新的规定。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L49–60"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：相信未来，把不能预先固定结果的未来作为当下的伦理承担。",
+          "source_ids": [
+            "p42-0320"
+          ],
+          "locator": "L49、70–78"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "L18与L35对左右两侧的排序有变动，轴说明保留对立关系而不固定图示左右。",
+        "对照原视频核听所列段落，补视频时间码；本批行号是固定提交的转录文本行号。"
+      ]
+    }
+  ],
+  "corrections": []
+}

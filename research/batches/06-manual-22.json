@@ -1,0 +1,3496 @@
+{
+  "batch": "06-manual-22",
+  "checked_on": "2026-11-13",
+  "scope": "2-2全支21个节点人工摘要全部axis_list和feature_list逐字段对照固定版本社区编纂文本；具体范围、未核细节与原典导读逐条注明；未回听原音、未经人工审定。",
+  "sources": [
+    {
+      "id": "m2-0118",
+      "title": "2-2 辩证形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%8A%8A%E6%8F%A1%E6%97%B6%E9%97%B4_%E6%8A%8A%E6%8F%A1%E8%99%9A%E6%97%A0_%E6%8A%8A%E6%8F%A1%E5%90%A6%E5%AE%9A%E6%80%A7%E7%9A%84%E5%AD%98%E5%9C%A8/0118_2-2_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%8A%8A%E6%8F%A1%E6%97%B6%E9%97%B4_%E6%8A%8A%E6%8F%A1%E8%99%9A%E6%97%A0_%E6%8A%8A%E6%8F%A1%E5%90%A6%E5%AE%9A%E6%80%A7%E7%9A%84%E5%AD%98%E5%9C%A8_p3136.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–15 L9–77；未回听原音、未核板书。",
+      "locator": "实际核读Page1–15 L9–77",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_辩证形而上学_把握时间_把握虚无_把握否定性的存在/0118_2-2_辩证形而上学_把握时间_把握虚无_把握否定性的存在_p3136.md",
+      "sha256": "e0c03c9f6c0c9e0edb4752780c07f04882d60bc636b831d20f4c0aa42178da05",
+      "git_blob_sha": "bbd824b0b201f93de37df220da39722268dd3cd6"
+    },
+    {
+      "id": "m2-0120",
+      "title": "2-2-1 无限主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0120_2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p3174.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–41 L9–145；未纳入后续下一讲；未回听原音、未核板书。",
+      "locator": "实际核读Page1–41 L9–145；未纳入后续下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学/0120_2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学_p3174.md",
+      "sha256": "71cdbddf08267eb1e02344517d72cd9c0f4356a0a73958705adb39c6efeb4769",
+      "git_blob_sha": "dce5b33e7f28df1b724671ae821af8dd1f4435c2"
+    },
+    {
+      "id": "m2-0121",
+      "title": "2-2-1-1 分子业力主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-2-1-1_%E5%88%86%E5%AD%90%E4%B8%9A%E5%8A%9B%E4%B8%BB%E4%B9%89_%E8%80%86%E9%82%A3%E6%95%99%E5%92%8C%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E5%85%B3%E4%BA%8E%E4%B8%9A%E5%8A%9B_%E6%84%8F%E8%AF%86_%E8%BD%AE%E5%9B%9E%E4%B8%8E%E8%A7%A3%E8%84%B1%E7%9A%84%E7%BA%B5%E5%90%91%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%9C%8B%E5%AE%8C%E4%B8%8D%E7%94%A8/0121_2-2-1-1_%E5%88%86%E5%AD%90%E4%B8%9A%E5%8A%9B%E4%B8%BB%E4%B9%89_%E8%80%86%E9%82%A3%E6%95%99%E5%92%8C%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E5%85%B3%E4%BA%8E%E4%B8%9A%E5%8A%9B_%E6%84%8F%E8%AF%86_%E8%BD%AE%E5%9B%9E%E4%B8%8E%E8%A7%A3%E8%84%B1%E7%9A%84%E7%BA%B5%E5%90%91%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%9C%8B%E5%AE%8C%E4%B8%8D%E7%94%A8%E5%90%83%E7%BD%97%E6%B1%89%E6%9E%9C_p3216.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–41 L9–139；排除Page42起下一讲；未回听原音、未核板书。",
+      "locator": "实际核读Page1–41 L9–139；排除Page42起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学/2-2-1-1_分子业力主义_耆那教和原始佛教关于业力_意识_轮回与解脱的纵向形而上学_看完不用/0121_2-2-1-1_分子业力主义_耆那教和原始佛教关于业力_意识_轮回与解脱的纵向形而上学_看完不用吃罗汉果_p3216.md",
+      "sha256": "fe28075fce877226ff81598d2d99ded2e1df549231452b2d4f9111505bd2bdef",
+      "git_blob_sha": "846aa455e97b98945238640da9d84341c42b5532"
+    },
+    {
+      "id": "m2-0122",
+      "title": "2-2-1-2 永恒时态主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-2-1-2_%E6%B0%B8%E6%81%92%E6%97%B6%E6%80%81%E4%B8%BB%E4%B9%89_%E6%97%B6%E9%97%B4%E7%9B%B8%E4%BD%8D%E8%BD%AC%E7%A7%BB%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%B0%8F%E4%B9%98%E6%9C%89%E5%AE%97_%E8%AF%B4%E4%B8%80%E5%88%87%E6%9C%89%E9%83%A8/0122_2-2-1-2_%E6%B0%B8%E6%81%92%E6%97%B6%E6%80%81%E4%B8%BB%E4%B9%89_%E6%97%B6%E9%97%B4%E7%9B%B8%E4%BD%8D%E8%BD%AC%E7%A7%BB%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%B0%8F%E4%B9%98%E6%9C%89%E5%AE%97_%E8%AF%B4%E4%B8%80%E5%88%87%E6%9C%89%E9%83%A8_p3258.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–36 L9–130；未回听原音、未核板书。",
+      "locator": "实际核读Page1–36 L9–130",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学/2-2-1-2_永恒时态主义_时间相位转移的形而上学_小乘有宗_说一切有部/0122_2-2-1-2_永恒时态主义_时间相位转移的形而上学_小乘有宗_说一切有部_p3258.md",
+      "sha256": "5d1c4ff3e3435ad54b26c1e2f13faf754200e164bd32b7d033d47aec4bba14c5",
+      "git_blob_sha": "53b6de1ba2911214eb5a93c0afcf3684a7f85d28"
+    },
+    {
+      "id": "m2-0123",
+      "title": "2-2-1-3 因果种子示踪主义/经量部的种子形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-2-1-3_%E7%81%B5%E9%AD%82%E7%A4%BA%E8%B8%AA%E4%B8%BB%E4%B9%89_%E7%BB%8F%E9%87%8F%E9%83%A8%E7%9A%84%E7%A7%8D%E5%AD%90%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E4%B9%94%E8%BE%BE%E6%91%A9_%E6%82%89%E8%BE%BE%E5%A4%9A%E5%93%B2%E5%AD%A6%E7%9A%84%E9%A5%AE%E9%B8%A9%E6%AD%A2%E6%B8%B4/0123_2-2-1-3_%E7%81%B5%E9%AD%82%E7%A4%BA%E8%B8%AA%E4%B8%BB%E4%B9%89_%E7%BB%8F%E9%87%8F%E9%83%A8%E7%9A%84%E7%A7%8D%E5%AD%90%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E4%B9%94%E8%BE%BE%E6%91%A9_%E6%82%89%E8%BE%BE%E5%A4%9A%E5%93%B2%E5%AD%A6%E7%9A%84%E9%A5%AE%E9%B8%A9%E6%AD%A2%E6%B8%B4_p3296.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–12 L9–60、Page17 L88、Page21–33 L104–144、Page35 L152、Page37 L158、Page39–47 L164–190、Page53–56 L210–219（末段下一讲标题前）；未回听原音、未核板书。",
+      "locator": "实际核读Page1–12 L9–60、Page17 L88、Page21–33 L104–144、Page35 L152、Page37 L158、Page39–47 L164–190、Page53–56 L210–219（末段下一讲标题前）",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学/2-2-1-3_灵魂示踪主义_经量部的种子形而上学_乔达摩_悉达多哲学的饮鸩止渴/0123_2-2-1-3_灵魂示踪主义_经量部的种子形而上学_乔达摩_悉达多哲学的饮鸩止渴_p3296.md",
+      "sha256": "3c924142669cf7484f5d5bc884ecc6c0d8aebbfa2b078206626efb0a2bc37757",
+      "git_blob_sha": "eccc1c245c03be96f98c9a8cece0b994494950ae"
+    },
+    {
+      "id": "m2-0124",
+      "title": "2-2-1-4 摩尔唯心主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-2-1-4_%E6%91%A9%E5%B0%94%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E5%94%AF%E8%AF%86%E8%AE%BA%E7%9A%84%E5%9B%9E%E5%85%89%E8%BF%94%E7%85%A7_%E9%98%BF%E8%B5%96%E8%80%B6%E7%9A%84%E5%8D%83%E5%8F%A4%E6%82%B2%E6%AD%8C/0124_2-2-1-4_%E6%91%A9%E5%B0%94%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E5%94%AF%E8%AF%86%E8%AE%BA%E7%9A%84%E5%9B%9E%E5%85%89%E8%BF%94%E7%85%A7_%E9%98%BF%E8%B5%96%E8%80%B6%E7%9A%84%E5%8D%83%E5%8F%A4%E6%82%B2%E6%AD%8C_p3352.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–46 L9–223（L223下一讲2-2-2标题前）；未回听原音、未核板书。",
+      "locator": "实际核读Page1–46 L9–223（L223下一讲2-2-2标题前）",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-1_无限主义_唯有时间无限_大雄与释迦的觉醒中包含的全新形而上学/2-2-1-4_摩尔唯心主义_唯识论的回光返照_阿赖耶的千古悲歌/0124_2-2-1-4_摩尔唯心主义_唯识论的回光返照_阿赖耶的千古悲歌_p3352.md",
+      "sha256": "281c2dda6d6d8ea92042163f0c667d7c13b1b22a0957fce4a08aa86d46135bca",
+      "git_blob_sha": "f1db47a2fe241accd5eb2ee4b34cddfaba7d7ef5"
+    },
+    {
+      "id": "m2-0125",
+      "title": "2-2-2 否定主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/0125_2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4_p3398.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–16 L9–64、Page30–40 L116–172；不将未逐字核对的中段引文标作校定原典；未回听原音、未核板书。",
+      "locator": "实际核读Page1–16 L9–64、Page30–40 L116–172；不将未逐字核对的中段引文标作校定原典",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/0125_2-2-2_否定主义_道家哲学的至高法要_太一生水_p3398.md",
+      "sha256": "b0bcdb887a432ba381b0ef92b54b818b810ef3ee742186fe66d62da1e33d29b7",
+      "git_blob_sha": "8031c423b4688ce81091075871313284894a86fa"
+    },
+    {
+      "id": "m2-0127",
+      "title": "2-2-2-1 无为主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/item_0127_%E5%8E%9F%E8%A7%86%E9%A2%91%E6%A0%87%E9%A2%98_%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89_%E6%97%A0%E4%B8%BA%E4%B8%BB%E4%B9%89_2-2-2-1_%E8%80%81%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6/0127_item_%E5%8E%9F%E8%A7%86%E9%A2%91%E6%A0%87%E9%A2%98_%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89_%E6%97%A0%E4%B8%BA%E4%B8%BB%E4%B9%89_2-2-2-1_%E8%80%81%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_p3438.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读L14–29、L39–121中关于时间/空间、王、刚柔、知愚及目的论的段落；未读L34。末尾下一讲标题前截止；未回听原音、未核板书。",
+      "locator": "实际核读L14–29、L39–121中关于时间/空间、王、刚柔、知愚及目的论的段落；未读L34。末尾下一讲标题前截止",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/item_0127_原视频标题_主义主义_无为主义_2-2-2-1_老子的哲学/0127_item_原视频标题_主义主义_无为主义_2-2-2-1_老子的哲学_p3438.md",
+      "sha256": "baaed01b9304b15c9b6a8f441c3ab8db08fbf76705c69df3c563ba001ac00ca6",
+      "git_blob_sha": "ae1321e4ee752a609a3410b0606829b88a12d104"
+    },
+    {
+      "id": "m2-0128",
+      "title": "2-2-2-2 积极的神秘主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_1_%E6%80%BB%E7%BA%B2/0128_2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_1_%E6%80%BB%E7%BA%B2_p3467.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–7 L9–57，下一讲标题之前；未回听原音、未核板书。",
+      "locator": "实际核读Page1–7 L9–57，下一讲标题之前",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/2-2-2-2_积极的神秘主义_庄子的哲学_1_总纲/0128_2-2-2-2_积极的神秘主义_庄子的哲学_1_总纲_p3467.md",
+      "sha256": "c753579a1c536bd2a522be31218149020123931522dc1650e86c7984e013fe0c",
+      "git_blob_sha": "24ddf31b0ce4ccc31d283dac5c6b7c14456430f5"
+    },
+    {
+      "id": "m2-0131",
+      "title": "2-2-2-2 积极的神秘主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_3_%E5%9C%A3%E4%BA%BA%E5%B7%A5%E5%8E%82/0131_2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_3_%E5%9C%A3%E4%BA%BA%E5%B7%A5%E5%8E%82_p3497.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–26 L15–187，L187下一讲2-2-2-3标题前截止；未回听原音、未核板书。",
+      "locator": "实际核读Page1–26 L15–187，L187下一讲2-2-2-3标题前截止",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/2-2-2-2_积极的神秘主义_庄子的哲学_3_圣人工厂/0131_2-2-2-2_积极的神秘主义_庄子的哲学_3_圣人工厂_p3497.md",
+      "sha256": "d7f6823059f9113a13503ddc4f2a7b49820de7841f0b4b8504830c369655fc6b",
+      "git_blob_sha": "56570a84cf22d1f94727c9f7ddae80d9092898e6"
+    },
+    {
+      "id": "m2-0132",
+      "title": "2-2-2-3 人道的自然主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-3_%E4%BA%BA%E9%81%93%E7%9A%84%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E6%9D%A8%E6%9C%B1_%E6%8B%94%E4%B8%80%E6%AF%9B%E8%80%8C%E5%88%A9%E5%A4%A9%E4%B8%8B_%E5%BC%97%E4%B8%BA%E4%B9%9F/0132_2-2-2-3_%E4%BA%BA%E9%81%93%E7%9A%84%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E6%9D%A8%E6%9C%B1_%E6%8B%94%E4%B8%80%E6%AF%9B%E8%80%8C%E5%88%A9%E5%A4%A9%E4%B8%8B_%E5%BC%97%E4%B8%BA%E4%B9%9F_p3523.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–20 L9–72，L72下一讲标题前截止；未回听原音、未核板书。",
+      "locator": "实际核读Page1–20 L9–72，L72下一讲标题前截止",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/2-2-2-3_人道的自然主义_杨朱_拔一毛而利天下_弗为也/0132_2-2-2-3_人道的自然主义_杨朱_拔一毛而利天下_弗为也_p3523.md",
+      "sha256": "6c5d2b9fc1da78ed00a71f0fcd706167482e99de6d0642b7ab882cff633bd5a1",
+      "git_blob_sha": "c4506fbb85d62fecf0e5c0827033492ebcb2649e"
+    },
+    {
+      "id": "m2-0133",
+      "title": "2-2-2-4 实用的神秘主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-4_%E5%AE%9E%E7%94%A8%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E9%9F%A9%E9%9D%9E%E5%AD%90%E7%9A%84%E9%81%93%E5%AE%B6%E9%AD%94%E6%B3%95_%E6%88%98%E5%9B%BD%E9%A1%B6%E7%BA%A7%E8%B4%B5%E6%97%8F%E5%AD%90%E5%BC%9F%E6%8E%A5%E5%8F%97%E7%9A%84%E7%A5%9E%E7%A7%98%E5%AD%A6%E6%95%99%E8%82%B2/0133_2-2-2-4_%E5%AE%9E%E7%94%A8%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E9%9F%A9%E9%9D%9E%E5%AD%90%E7%9A%84%E9%81%93%E5%AE%B6%E9%AD%94%E6%B3%95_%E6%88%98%E5%9B%BD%E9%A1%B6%E7%BA%A7%E8%B4%B5%E6%97%8F%E5%AD%90%E5%BC%9F%E6%8E%A5%E5%8F%97%E7%9A%84%E7%A5%9E%E7%A7%98%E5%AD%A6%E6%95%99%E8%82%B2_p3543.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读正文Page1–38 L9–187（Page14 L102部分句子工具截断）；附录《解老》L190–200（另核原典网页对应段）；未回听原音、未核板书。",
+      "locator": "实际核读正文Page1–38 L9–187（Page14 L102部分句子工具截断）；附录《解老》L190–200、L233（另核原典网页对应段）",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-2_否定主义_道家哲学的至高法要_太一生水/2-2-2-4_实用的神秘主义_韩非子的道家魔法_战国顶级贵族子弟接受的神秘学教育/0133_2-2-2-4_实用的神秘主义_韩非子的道家魔法_战国顶级贵族子弟接受的神秘学教育_p3543.md",
+      "sha256": "cba3c63342eb7fdf0eabfa335b15b95ac514a6809b266ab21afd988027d95813",
+      "git_blob_sha": "503bc1b95cce3e915a93dc8874d52f7ae68fcec5"
+    },
+    {
+      "id": "m2-zhuangzi-dazongshi",
+      "title": "《庄子·大宗师》",
+      "url": "https://zh.wikisource.org/wiki/莊子/大宗師",
+      "kind": "primary_text",
+      "verification_scope": "实际核读网页L117–126，重点女偊段L121；社区电子文本，未校影印本。",
+      "locator": "女偊教卜梁倚段，L121"
+    },
+    {
+      "id": "m2-hanfeizi-jielao",
+      "title": "《韩非子·解老》",
+      "url": "https://zh.wikisource.org/wiki/韓非子/解老",
+      "kind": "primary_text",
+      "verification_scope": "实际核读网页L114–142，重点L115无为有常与L123前识；社区电子文本，未校影印本。",
+      "locator": "无为/虚段L115；前识与情貌段L121–124"
+    },
+    {
+      "id": "m2-0134",
+      "title": "2-2-3 超验主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/0134_2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90_p3595.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–34 L9–134，下一讲标题之前；未回听原音、未核板书。",
+      "locator": "实际核读Page1–34 L9–134，下一讲标题之前",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运/0134_2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运_p3595.md",
+      "sha256": "312c516d5f512dd9a7f58188c757662bc7125d65001509590d8b800adb7a4d4e",
+      "git_blob_sha": "891114d1e770206db21a3a4d869cdc796e696352"
+    },
+    {
+      "id": "m2-0135",
+      "title": "2-2-3-1 历史符号主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/2-2-3-1_%E5%8E%86%E5%8F%B2%E7%AC%A6%E5%8F%B7%E4%B8%BB%E4%B9%89_%E4%BB%A5_%E5%91%A8%E6%98%93_%E4%B8%BA%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/0135_2-2-3-1_%E5%8E%86%E5%8F%B2%E7%AC%A6%E5%8F%B7%E4%B8%BB%E4%B9%89_%E4%BB%A5_%E5%91%A8%E6%98%93_%E4%B8%BA%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F_p3629.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–9 L17–99，L172、175、200、204、212及Page26–33 L215–237；其余实例未逐段校读；未回听原音、未核板书。",
+      "locator": "实际核读Page1–9 L17–99，L172、175、200、204、212及Page26–33 L215–237；其余实例未逐段校读",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运/2-2-3-1_历史符号主义_以_周易_为代表的形而上学范式/0135_2-2-3-1_历史符号主义_以_周易_为代表的形而上学范式_p3629.md",
+      "sha256": "2bbcd7c3089c3d10be19d3d92771e34a567d627d743fac01e9109eac7112d9b6",
+      "git_blob_sha": "87d6c02c62f321fd5563931adb0c960ed7f08250"
+    },
+    {
+      "id": "m2-0136",
+      "title": "2-2-3-2 形而上神秘主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/2-2-3-2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8%E5%93%B2%E5%AD%A6%E8%AF%86%E7%A0%B4%E9%82%A3%E4%BA%9B%E7%9C%8B%E4%BC%BC%E7%B2%BE%E5%B7%A7%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E5%A4%A7%E5%8E%A6/0136_2-2-3-2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8%E5%93%B2%E5%AD%A6%E8%AF%86%E7%A0%B4%E9%82%A3%E4%BA%9B%E7%9C%8B%E4%BC%BC%E7%B2%BE%E5%B7%A7%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E5%A4%A7%E5%8E%A6_p3662.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–17 L9–90，L90下一讲标题前；未回听原音、未核板书。",
+      "locator": "实际核读Page1–17 L9–90，L90下一讲标题前",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运/2-2-3-2_形而上神秘主义_手把手教你用哲学识破那些看似精巧的神秘主义形而上学大厦/0136_2-2-3-2_形而上神秘主义_手把手教你用哲学识破那些看似精巧的神秘主义形而上学大厦_p3662.md",
+      "sha256": "0f2a39e0f6a74a8670e35ebe275575bdbe6de764f66c8d2ddb12c9639aa81d49",
+      "git_blob_sha": "b43ee99dfa9ac216624238fe9996550bd129f28f"
+    },
+    {
+      "id": "m2-0137",
+      "title": "2-2-3-3 理性唯灵论（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/2-2-3-3_%E7%90%86%E6%80%A7%E5%94%AF%E7%81%B5%E8%AE%BA_%E4%B8%89%E6%B5%81%E8%AF%97%E4%BA%BA%E4%B8%BA%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E7%82%AE%E5%88%B6%E7%9A%84%E6%8B%A7%E7%BB%B3%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E9%9F%B3%E4%B9%90%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%BB%93%E6%9E%84/0137_2-2-3-3_%E7%90%86%E6%80%A7%E5%94%AF%E7%81%B5%E8%AE%BA_%E4%B8%89%E6%B5%81%E8%AF%97%E4%BA%BA%E4%B8%BA%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E7%82%AE%E5%88%B6%E7%9A%84%E6%8B%A7%E7%BB%B3%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E9%9F%B3%E4%B9%90%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%BB%93%E6%9E%84_p3679.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–29 L9–98；未读Page30以后；未回听原音、未核板书。",
+      "locator": "实际核读Page1–29 L9–98；未读Page30以后",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运/2-2-3-3_理性唯灵论_三流诗人为现代社会炮制的拧绳形而上学_音乐的形而上学结构/0137_2-2-3-3_理性唯灵论_三流诗人为现代社会炮制的拧绳形而上学_音乐的形而上学结构_p3679.md",
+      "sha256": "8687ebc9cb268c34e1c7420434b3154431cd123a5a3216fd983b911774738d1d",
+      "git_blob_sha": "d6e287034595b7afd2b52c8dff891be28206dc07"
+    },
+    {
+      "id": "m2-0138",
+      "title": "2-2-3-4 超时代的诗歌主义/诗的形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/2-2-3-4_%E8%AF%97%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%94%A8%E5%93%B2%E5%AD%A6%E7%A0%B4%E8%A7%A3%E8%AF%97%E6%AD%8C%E7%9A%84%E5%A5%A5%E7%A7%98_%E6%AF%8F%E9%A6%96%E8%AF%97%E9%83%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%AE%E5%9E%8B%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E4%BD%93%E7%B3%BB/0138_2-2-3-4_%E8%AF%97%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%94%A8%E5%93%B2%E5%AD%A6%E7%A0%B4%E8%A7%A3%E8%AF%97%E6%AD%8C%E7%9A%84%E5%A5%A5%E7%A7%98_%E6%AF%8F%E9%A6%96%E8%AF%97%E9%83%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%AE%E5%9E%8B%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E4%BD%93%E7%B3%BB_p3713.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–38 L13–154，L154下一讲标题前；未回听原音、未核板书。",
+      "locator": "实际核读Page1–38 L13–154，L154下一讲标题前",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-3_超验主义_辩证形而上学的荣耀_为个体带来心灵解脱_为共同体激发_国运/2-2-3-4_诗的形而上学_用哲学破解诗歌的奥秘_每首诗都是一个微型形而上学体系/0138_2-2-3-4_诗的形而上学_用哲学破解诗歌的奥秘_每首诗都是一个微型形而上学体系_p3713.md",
+      "sha256": "65ee512052772f5b7f9b2dc9b74c65cab743ab6021963827c1c32de62a8f9ec3",
+      "git_blob_sha": "b4737fb65dc3417779edcea8cae5fbe3f822c83c"
+    },
+    {
+      "id": "m2-emerson-nature",
+      "title": "Ralph Waldo Emerson, Nature（1849版）",
+      "url": "https://www.gutenberg.org/cache/epub/29433/pg29433-images.html",
+      "kind": "primary_text",
+      "verification_scope": "实际核读导言L54–63及Chapter I L67–81；未核全书，非1836初版影印。",
+      "locator": "Introduction；Chapter I"
+    },
+    {
+      "id": "m2-whitman-cradle",
+      "title": "Walt Whitman, Out of the Cradle Endlessly Rocking",
+      "url": "https://rpo.library.utoronto.ca/content/out-cradle-endlessly-rocking",
+      "kind": "primary_text",
+      "verification_scope": "实际核读全诗183行，重点末段165–183；RPO据1891–92 Leaves of Grass pp.196–201。",
+      "locator": "诗行165–183；网页L324–358"
+    },
+    {
+      "id": "m2-0139",
+      "title": "2-2-4 反二元对立（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/0139_2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5%E8%BF%9B%E8%A1%8C%E5%93%B2%E5%AD%A6%E8%BF%90%E6%80%9D_p3751.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–17 L9–122；L125起下一讲排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–17 L9–122；L125起下一讲排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵/0139_2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵进行哲学运思_p3751.md",
+      "sha256": "a44d39b5a9c6b4c7c940cf2c1203003b293bd4c13640703f00018ad0470e3cd0",
+      "git_blob_sha": "50fe73bddf7f9e2d15bfe8d89bfec5fc4583e8f9"
+    },
+    {
+      "id": "m2-0140",
+      "title": "2-2-4-1 具有伦理热忱的虚无主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/2-2-4-1_%E5%85%B7%E6%9C%89%E4%BC%A6%E7%90%86%E7%83%AD%E5%BF%B1%E7%9A%84%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E9%BE%99%E6%A0%91_%E4%B8%AD%E8%AE%BA_%E8%AE%B2%E8%A7%A3_%E9%BE%99%E6%A0%91%E5%A6%82%E4%BD%95%E7%A0%B4%E9%99%A4%E4%BA%8C%E5%85%83_%E4%B8%89%E5%85%83_%E5%9B%9B%E5%85%83_%E5%AF%B9%E7%AB%8B/0140_2-2-4-1_%E5%85%B7%E6%9C%89%E4%BC%A6%E7%90%86%E7%83%AD%E5%BF%B1%E7%9A%84%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E9%BE%99%E6%A0%91_%E4%B8%AD%E8%AE%BA_%E8%AE%B2%E8%A7%A3_%E9%BE%99%E6%A0%91%E5%A6%82%E4%BD%95%E7%A0%B4%E9%99%A4%E4%BA%8C%E5%85%83_%E4%B8%89%E5%85%83_%E5%9B%9B%E5%85%83_%E5%AF%B9%E7%AB%8B_p3769.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–16 L9–165及Page33–38 L266–293；中段未通读；未回听原音、未核板书。",
+      "locator": "实际核读Page1–16 L9–165及Page33–38 L266–293；中段未通读",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵/2-2-4-1_具有伦理热忱的虚无主义_龙树_中论_讲解_龙树如何破除二元_三元_四元_对立/0140_2-2-4-1_具有伦理热忱的虚无主义_龙树_中论_讲解_龙树如何破除二元_三元_四元_对立_p3769.md",
+      "sha256": "e3e3221f2ea9ec82af62047e48a0ae3496ef084f03fe0fb97d04615b4f232229",
+      "git_blob_sha": "40f1aee688a7f5c49c4012b45b48187f9739b97c"
+    },
+    {
+      "id": "m2-0141",
+      "title": "2-2-4-2 可辩论的道德主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/2-2-4-2_%E5%8F%AF%E8%BE%A9%E7%9A%84%E9%81%93%E5%BE%B7%E7%AE%B4%E8%A8%80/0141_2-2-4-2_%E5%8F%AF%E8%BE%A9%E7%9A%84%E9%81%93%E5%BE%B7%E7%AE%B4%E8%A8%80_p3807.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–20 L9–63；L66起下一讲排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–20 L9–63；L66起下一讲排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵/2-2-4-2_可辩的道德箴言/0141_2-2-4-2_可辩的道德箴言_p3807.md",
+      "sha256": "fae5890ed9cb94b88b133729b72d24818125cfdb8944a2864aea6a4999de3c9d",
+      "git_blob_sha": "411a9a34f43d5f4d783f2f7b998277a3a278d48c"
+    },
+    {
+      "id": "m2-0142",
+      "title": "2-2-4-3 新实用主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/2-2-4-3_%E6%96%B0%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E7%90%86%E6%9F%A5%E5%BE%B7_%E7%BD%97%E8%92%82_%E7%94%A8%E7%9C%9F%E8%AF%9A%E4%BB%A3%E6%9B%BF%E7%9C%9F%E7%90%86_%E7%94%A8%E4%BF%AE%E8%BE%9E%E4%BB%A3%E6%9B%BF%E7%A5%9E%E8%AF%9D/0142_2-2-4-3_%E6%96%B0%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E7%90%86%E6%9F%A5%E5%BE%B7_%E7%BD%97%E8%92%82_%E7%94%A8%E7%9C%9F%E8%AF%9A%E4%BB%A3%E6%9B%BF%E7%9C%9F%E7%90%86_%E7%94%A8%E4%BF%AE%E8%BE%9E%E4%BB%A3%E6%9B%BF%E7%A5%9E%E8%AF%9D_p3827.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–22 L9–72；下讲标题以后排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–22 L9–72；下讲标题以后排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵/2-2-4-3_新实用主义_理查德_罗蒂_用真诚代替真理_用修辞代替神话/0142_2-2-4-3_新实用主义_理查德_罗蒂_用真诚代替真理_用修辞代替神话_p3827.md",
+      "sha256": "bfa7951f4bd351327cbfd73553fedc07c30b3205c8fc2a289b7737efdba7a25c",
+      "git_blob_sha": "6c9c952a5a78e2f73cf57840e0686453ce41dad7"
+    },
+    {
+      "id": "m2-0143",
+      "title": "2-2-4-4 好辩的虚无主义/原始的现象学兼分析哲学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/2-2-4-4_%E5%8E%9F%E5%A7%8B%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%83%A0%E6%96%BD%E5%93%B2%E5%AD%A6%E7%B2%BE%E8%AE%B2_%E6%96%B9%E4%B8%AD%E6%96%B9%E7%9D%A8_%E6%96%B9%E7%94%9F%E6%96%B9%E6%AD%BB_%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D/0143_2-2-4-4_%E5%8E%9F%E5%A7%8B%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%83%A0%E6%96%BD%E5%93%B2%E5%AD%A6%E7%B2%BE%E8%AE%B2_%E6%96%B9%E4%B8%AD%E6%96%B9%E7%9D%A8_%E6%96%B9%E7%94%9F%E6%96%B9%E6%AD%BB_%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D_p3849.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–60 L9–276全文；L278起2-3溢出排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–60 L9–276全文；L278起2-3溢出排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-2_复习课/2-2-4_反二元对立_哲学极速上手秘籍_手把手教你进行真正的哲学思考_随时随地搭建形而上学矩阵/2-2-4-4_原始的现象学_分析哲学_惠施哲学精讲_方中方睨_方生方死_到底是什么意思/0143_2-2-4-4_原始的现象学_分析哲学_惠施哲学精讲_方中方睨_方生方死_到底是什么意思_p3849.md",
+      "sha256": "f764cbb849df8cf41906d88d60f8a9c5c7aa9b44b689567a96cb07b13ea11de0",
+      "git_blob_sha": "f478afe8611bdd5bcd4a5f9aa366fa730ce97e49"
+    },
+    {
+      "id": "m2-zhuangzi-tianxia",
+      "title": "《庄子·天下》惠施及辩者段",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/天下&oldid=11117721",
+      "kind": "primary_text",
+      "verification_scope": "实际核读惠施段网页L128–133；未作古本版本校勘。",
+      "locator": "惠施多方至篇末；网页L128–133"
+    }
+  ],
+  "entries": [
+    {
+      "code": "2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "4/4",
+        "scope": "逐字段记录；同字段复合段拆分或明确未证细节。讲稿对应不等于宗教史或原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(共时性)与时间(历时性)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "空间共时性与时间历时性直接定义。",
+          "source_ids": [
+            "m2-0118"
+          ],
+          "locator": "Page5 L29"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 肯定性存在与否定性存在的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "否定性/肯定性存在直接定义；不在却起作用。",
+          "source_ids": [
+            "m2-0118"
+          ],
+          "locator": "Page5–6 L29–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①否定性存在并不是不存在，而是主体使用了否定性的能力，建构出一个虚构的存在(Fiction)，并通过这个虚构的纬度产生效果(比如通过虚构的寓言故事可以阐明真切的道理)，现实正是通过虚构的方式结构起来。",
+          "status": "supported_with_typo",
+          "finding": "虚构不是全无效果、主体否定性、故事产生现实效果与现实以虚构结构均对应；“纬度”误为地理术语，应维度。",
+          "source_ids": [
+            "m2-0118"
+          ],
+          "locator": "Page6–9 L34–49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②时间就是这样一种否定性存在，只有时间被花费了，主体才能感受到时间的存在，所以时间总是被体验为来不及、催人跑，除了这种被体验时间的时间外，不存在一个公允的刻度化的时间。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "时间花费、来不及/还不够与拒绝数字化客观时间均见正文；这是讲者的体验时间论，不是本批以物理证据排除计量时间。",
+          "source_ids": [
+            "m2-0118"
+          ],
+          "locator": "Page9–15 L49–77"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲明确以黑格尔式方式读老子；对时间的讨论包含讲者现象学立场，不能作为物理测量无效的实验结论。",
+          "source_ids": [
+            "m2-0118"
+          ],
+          "locator": "Page3 L19；Page10–15 L54–77"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段记录；同字段复合段拆分或明确未证细节。讲稿对应不等于宗教史或原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "时间/空间对立与时间优先明确。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page4–7 L22–31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 无(去主体化、去时间化的存在状态)(Void)与业力(时间性的连结力量)(Karma)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "业作为时间联结，空作为去主体/去时间化状态且两者对抗见正文；本讲混合多个传统作结构解释，不等于各派自述相同。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page20–22 L74–80"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 各种法(dharma)",
+          "status": "supported_by_compiled_text",
+          "finding": "以法的分类学作认识论1。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page23–27 L83–95"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①时间是优先于空间的，庸人以空间性把握世界，圣人以时间性把握世界，以第一人称将世界把握为过程性、事件性、时态性的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "凡俗空间化、圣人时间化、第一人称过程和事件逐项出现。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page6–9 L28–37"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②人不能在瞬间就白嫖在场性，空间的广延需要耗费时间才能被感受到，把空间性体验化约为时间性体验，消解了在场性。",
+          "status": "supported_by_compiled_text",
+          "finding": "广延体验还需时间，不能瞬间无条件获得整个场。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page16–18 L58–68"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③万物的每一刹那(Kṣaṇa)都是静态的切片，其本身是无法被体验为存在的，需要依靠业力(Karma)网络才能相互连结起来，被主体化地体验。",
+          "status": "partially_supported",
+          "finding": "切片间业力联结有据；“刹那本身无法被体验”不能绝对化：Page10允许只体验瞬间，Page22则进一步否认切片实存。本讲层次需区分。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page9–10 L37–40；Page20–22 L74–80"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④业力是一种拟质，业力通过不同的法(dharma)使得刹那(Kṣaṇa)相互连结，但是对各种法的分类学是天真、粗糙的，其中包含了一个前反思的伦理学大他者的维度。",
+          "status": "supported_with_attribution_needed",
+          "finding": "业的拟制性、法分类粗糙和伦理大他者批评均有；“拟质”应为拟制，且这是讲者评论，不是所有佛教原典共同术语。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page5 L25；Page23–28 L83–98；Page30–38 L104–132"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤印度佛教时间表：\n\t公元前6世纪乔达摩悉达多创教，从此到根本分裂的百年称为原始佛教时期。\n\t公元前4世纪佛教发生第一次大分裂，称为根本分裂，佛教分裂为上座部和大众部，其中上座部主要为佛教僧团中的长老，大众部主要为中下层佛教徒。\n\t公元前3世纪佛教发生第二次大分裂，称为部派分裂，从此佛教进入部派时期，在这一时期上座部和大众部分裂、融合，到公元前1世纪形成具有完整体系的大乘佛教和小乘佛教，又各自分为大乘有宗、大乘无宗、小乘有宗、小乘无宗。",
+          "status": "unsupported_in_primary_lecture_cache",
+          "finding": "逐章核读未发现这份分期表；创教与根本分裂日期、上座/大众社会阶层划分、前1世纪两乘四宗形成，均未由这份主讲确认。需补充历史来源及讲次，不能因人物标题判通过。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page1–41 L9–145（本讲范围）"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "这份讲稿用跨传统、现代时间论语言重构耆那教与佛教，并对分类学作批评。勿将其全部归为释迦本人直接主张。",
+          "source_ids": [
+            "m2-0120"
+          ],
+          "locator": "Page1–5 L9–25；Page24–28 L86–98"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段记录；同字段复合段拆分或明确未证细节。讲稿对应不等于宗教史或原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与叙事性的时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "空间与叙事时间明确；不是均匀数轴。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page5–6 L25–28"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 物质性微粒(Molecular)与虚无(Void)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "原子性存在和虚无对立，按两教分别讨论。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page6 L28；Page15–16 L55–60"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 微粒与业的结合形成表象(生老病死、爱欲体验)",
+          "status": "supported_by_compiled_text",
+          "finding": "微尘加业组成表象、生死与爱欲。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page18–20 L66–72"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 从轮回中解脱",
+          "status": "supported_by_compiled_text",
+          "finding": "唯一方向是解脱轮回。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page23–28 L81–96"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①业的词义、物质业与符号学拟质",
+          "status": "supported_with_terminology_correction",
+          "finding": "“业”在本讲解释为造作、行动/开启力量，不是词义直接等于造作者；拟质为拟制误字。耆那物质业与佛教符号拟制的差别是本讲重构。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page9–14 L37–52"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①耆那教的漏入、系缚与排尘",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "命/非命、无漏心灵、业尘附着和苦行排除均有；心灵被解为虚无是讲者解读，未核耆那原典。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page6–9 L28–37；Page16–17 L60–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①佛教心法、无明、压抑和自我的关系",
+          "status": "partly_conflates_exposition_and_critique",
+          "finding": "心法、无明、压抑、自我与符号剩余有据；但把这些无区别写成佛教定论混合了讲者后半黑格尔/拉康批评，需显式归属。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page10–14 L40–52；Page35–40 L117–136"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②相信存在大他者对业力进行增减计算，所以解脱是可能的，对解脱方法(八正道)的把握是经验性的，没有反思到底。",
+          "status": "partially_supported",
+          "finding": "增减可算背后大他者与八正道经验性批评有据；讲稿同时否认实际账簿，并限定陷入无明时大他者存在，摘要无条件相信易误读。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page14 L52；Page21–22 L75–78；Page32 L108"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③只存在第一人称时间性体验的宇宙，主体的体验就是世界的体验，是一种唯我论。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "第一人称宇宙、体验即世界与唯我结构有据；这里是讲者对模型的批评标签。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page24–25 L84–87；Page31 L105"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④得到解脱的唯一方法就是使主体彻彻底底的时间化，使主体与物质性微粒脱离、去主体化、去实体化、去空间化，完全融入时间的纵向运动，是一种无我论，唯我论与无我论短路。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "彻底时间化、去主体/实体/空间及无我的悖论均有；不以此证明真实修行结果。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page25–29 L87–99"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "主体性与虚无的后半讨论自称按黑格尔主义批评，不能与前半传统叙述连写而省去归属。",
+          "source_ids": [
+            "m2-0121"
+          ],
+          "locator": "Page33–38 L111–126"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-1-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "9/9",
+        "scope": "逐字段对照；涉及宗教史、唯识术语的对应仅证明编纂讲稿有此说法。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "正文轴总论明确空间与时间二分。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page26 L86"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Persist))与虚空的对立",
+          "status": "contradicted_term",
+          "finding": "法体跨时态是exist而非persist；原括注将二者颠倒。微粒与虚空二分另有明确依据。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page26 L86；Page31–34 L115–124"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 时态的各个环节",
+          "status": "supported_by_compiled_text",
+          "finding": "以诸时间环节为认识论内容，正文四本相/四随相展开后重述。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page27 L89–96"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 空间性的存在(Exist)与时间性的持存(Persist)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "结尾明确区分exist/persist，前者跨时态、后者当下。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page30–36 L105–130"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①原始佛教认为只有当下是实存的，但这样因果关系的延宕就是不可能的，即一切都是在当下这个时态中偶然的发生因果联系，在这种情况下主体的行动也是没有必要的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "仅当下实有导致因果延宕失效、行动意义被撤销为讲者对前一格的批判性推导；并非本批确认早期佛教排除因果。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②原始佛教认为有生(产生)、住异(存在并变化)、灭(消失)三个环节，说一切有部是部派佛教之一，把生、住异、灭拆分为生(产生)、住(时间性的持存)、异(变化)、灭(消失)。通过这种拆分以及从生到住、从住到异、从异到灭的变化，使得过去、现在、未来此三种时态都获得了本体论地位，都实存(三世实有)。",
+          "status": "partially_supported_misleading_sequence",
+          "finding": "三环节拆四、三世实有都有正文依据；但“从生到住、从住到异、从异到灭”易使人以为依次产生，正文明确否认生生成住再生成异灭，解释为同时起作用的四种功能。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page3–5 L15–21；Page20 L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③任何法都包括四本相(生、住、异、灭)，四本相使得时态机制(过去、现在、未来)被确立，但是生也是一种时态机制，也要穿越四本相，其本身不能穿越自身，同理住、异、灭也不能穿越自身，所以产生四随相，即生生、住住、异异、灭灭。",
+          "status": "supported_by_compiled_text",
+          "finding": "四本相及各自不能单靠自己起作用、须由四随相补足均展开；这里是讲者的时间机制解释。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page15–22 L51–72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④四随相是二阶的，四本相的这种自我延宕、自我加倍说明法在时态中也是二阶段的，是可以跨时态存在的(法体常在)，由此因果关系才能延宕。",
+          "status": "supported_with_typo",
+          "finding": "自我加倍、二阶化、法体常在及因果延宕均有依据；“二阶段”与本句“二阶的”及讲稿相冲突，应二阶。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page23–25 L77–83；Page31–34 L115–124"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤原始佛教(2-2-1-1)的唯一解脱方法的是使主体彻底时间化，永恒时态主义认为只需要把握长存的法是如何在时态的变迁中起作用的因果性机制，就能避免受到无明、烦恼的影响，就解脱了。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "前一格彻底时间化与本格通过理解因果机制免烦恼，是正文给出的两格对比；不等于确认各派唯一宗教实践。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page28–29 L99–102"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "四相不可被读成四个相继制造后一个的实体；讲者在Page20专门作此否定。",
+          "source_ids": [
+            "m2-0122"
+          ],
+          "locator": "Page20 L66"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-1-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照；涉及宗教史、唯识术语的对应仅证明编纂讲稿有此说法。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "本格轴定义重述空间与时间二分。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page21 L104"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 跨时态性的存在(种子、界、心法、事件)与时态性的存在(蕴、处、微粒)的对立",
+          "status": "overbroad_grouping",
+          "finding": "正文将种子、界的机制性归跨时态，但心法/事件作为发生着的现象仍属persist；原括号把心法和事件整体列入跨时态，抹去了心法种子与心法发生的区别。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page22–25 L107–120"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 随相说",
+          "status": "supported_by_compiled_text",
+          "finding": "随相说在轴总结处得到重申；非凭数字推导。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page35 L152"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 迟滞、延留(调和空间性的存在(Exist)与时间性的持存(Persist)的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "迟滞延留用于说明种子现在埋下而作用延迟，并调和exist/persist。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page35 L152；Page37 L158；Page39 L164"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①经量部是最后一个部派佛教，把原始佛教的时间性机制运用到极致，提出色(物质性)心(时间性)互熏说，反驳了说一切有部的三世实有、法体常在。",
+          "status": "partially_supported_unsupported_historical_superlative",
+          "finding": "色心互熏、强化时间性、反驳三世实有/法体常在均有依据；“最后一个部派”未获得严格历史断代证据，正文的最后回光返照是讲者定位。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page1 L9；Page7–11 L27–50；Page17 L88"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②经量部提出种子熏习说，种子作为机制性本体熏习出一切(内时间意识极其精微的创造过程)，成为色根、心法等，死后也依然存在极精微的心种子(灵魂)，色根(感官能力)会逐渐再从心种子中熏习出来，最后形成肉身。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "机制性种子、细微心种子及色根再起在讲稿中明确出现；括号“灵魂”为讲者的批评性类比，并非经量部自称持常一灵魂，更非本批验证轮回事实。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page4–5 L18–21；Page30–33 L135–144；Page46 L185"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③不承认三世实有，种子(因果的源头、业债)在当下被埋下，产生迟滞、延留的影响(后果、业报)，所以内部世界与外部世界必须拉开距离，外境通过失真的似境这个中介影响内部世界，似境是主体体验的外部世界(如梦境)。",
+          "status": "supported_by_compiled_text",
+          "finding": "拒三世实有、当下埋种、后果迟滞，以及外境经似境中介、梦境例子分别有正文；“业债/业报”在此是因果功能说明。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page8–11 L30–50；Page27–29 L126–132；Page37 L158；Page39 L164"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④原始佛教的时间性是主体体验的时间性，经量部是原教旨主义的部派佛教，但是预设了在体验的时间性之下的伦理的时间性(只有在伦理的时间性中埋下种子才能产生迟滞、延留的后果)，这种预设为佛教在印度的没落埋下种子。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "体验时间/更深伦理时间对比、原教旨定位和印度衰落的因果推测均出自讲者；后者没有在本批得到宗教史独立验证。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page17 L88；Page41–45 L170–182"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本体论括号必须区分心法种子与正在发生的心法；“最后一个部派”改为讲者在这条时间性路径上的定位。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page7 L27；Page22–25 L107–120"
+        },
+        {
+          "text": "印度佛教衰落及“灵魂”的说法保留为讲者解释，不作为历史定论或经量部的自我命名。",
+          "source_ids": [
+            "m2-0123"
+          ],
+          "locator": "Page42–46 L173–185"
+        }
+      ],
+      "open_questions": [
+        "经量部各支对于种子、极细心与相续的不同说法仍需原典逐支核对。"
+      ]
+    },
+    {
+      "code": "2-2-1-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照；涉及宗教史、唯识术语的对应仅证明编纂讲稿有此说法。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间(内意识体验)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "正文直接将空间与内意识体验的时间二分。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page12–13 L74–88"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 种子(实体性现象的本质)与阿赖耶识(无漏种子，主体性的本质)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "种子作为实体性现象的本质、阿赖耶主体性及无漏种子关系均在本讲；“无漏种子马甲”是讲者的重构语，不应当作佛教学定义的无条件同义关系。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page11–12 L60–76"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 三分法(自证分(自我设定体验内容)、见分(体验者的活动)、相分(体验内容))",
+          "status": "supported_by_compiled_text",
+          "finding": "自证/见/相三分及自我设定体验内容有正文依据；本批只对其课程表述核对。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page13 L79–88；Page37 L196"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 抛弃经验性观察反思和独立的伦理实践的探索",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者明确以否定独立经验观察和伦理实践归目的论4。此为课程批判，并非已经证实唯识宗信徒不进行伦理实践。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page31–33 L178–184；Page44–45 L217–220"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①逻辑学上否认同一性，用因果关系的逻辑维度模拟时间维度，坚持因果关系的存在性，否定对事物的连续的第一人称直观体验的可能性(镜像版休谟)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "否同一性、以因果模拟时间、保因果而不保连续第一人称体验，以及镜像休谟类比均明确。正文前段有口头自我修正，不能把早期口误另加为教义。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page3–6 L15–24；Page9 L33–38；Page28 L169"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②完成了原始佛教的伪先验化，依然不够辩证，阿赖耶识是种子的集合，没有意识到阿赖耶识不仅仅是种子的叠加，阿赖耶识本身已经包含了背景性空间，阿赖耶识的主体化使得集合成为可能。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "伪先验化/不辩证、种子集合、海底与海的类比、背景空间及主体化批判逐项对应；判断归讲者。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page17–24 L136–157"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③阿赖耶识是见分，末那识是对阿赖耶识的相分，但是归根到底见分和相分都来自于自证分，是阿赖耶识自我污染，生成末那识(自我认识)，导致错误的种子。",
+          "status": "supported_lecture_doctrinal_check_pending",
+          "finding": "阿赖耶见分/末那相分、自证分、自污染及错误种子均是讲稿明确说法，因此不能凭通常唯识术语直接判摘要抄错；识与分的跨层类比是否符合原典仍待独立核对。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page25–26 L160–163；Page29 L172"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④基于经验观察的独立反思和独立的伦理实践的探索都是不可能的，因为外部世界和伦理领域都包含了无以计数的种子，它们之间的关系是混沌的，最终因果报应的解释权和行动的善恶标准只能归于权威，这使得乔达摩·悉达多对世人的爱闭合为话语符号操控术。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "经验/伦理独立性的否定、种子复杂性、善恶解释权与权威、悉达多对世人的爱退为话语支配，均可定位；这是讲者规范性批判，并非对全部佛教伦理实践的经验调查结论。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page31–36 L178–193；Page43–45 L214–220"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲开头明确将龙树暂放一边，重点在唯识；相关人物列表不宜让读者误以为龙树是唯识三分说的提出者。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "text": "阿赖耶识与无漏种子、见分与末那相分的对应是本讲的解释框架；应另用《成唯识论》核对，不能标记为已完成教义审定。",
+          "source_ids": [
+            "m2-0124"
+          ],
+          "locator": "Page12 L68–76；Page25 L160"
+        }
+      ],
+      "open_questions": [
+        "待《成唯识论》原文逐项核对识、种子、见分相分与自证分，尤其不能把本讲比喻直接当作教义同义词。"
+      ]
+    },
+    {
+      "code": "2-2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "5/5",
+        "scope": "逐字段对照；复合段逐项拆分或明确限定未证细节。哲学史、词源和现代类比不因讲稿对应而独立成立。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "结尾直接定义空间时间二分，时间更本源。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page39 L169"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 岁(物质维度)与神明(精神维度)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "神明/岁分别解释为精神/物质维度。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page39–40 L169–172"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 无名(愚、无法言说)与有名(知、聪明的、可言说)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "聪明/愚鲁、有言有名/无言无名直接定义，后者优先。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page40 L172"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①《太一生水》：\n\t太一生水。\n\t水反辅太一，是以成天。\n\t天反辅太一，是以成地。\n\t天地复相辅也，是以成神明。\n\t神明复相辅也，是以成阴阳。\n\t阴阳复相辅也，是以成四时。\n\t四时复相辅也，是以成凔热。\n\t凔热复相辅也，是以成湿燥。\n\t湿燥复相辅也，成岁而止。",
+          "status": "partially_supported_quote_not_collated",
+          "finding": "起首太一生水、水反辅成天、天反辅成地和成岁而止及冷热湿燥等次序在所读段落出现；天地至阴阳的整段引文没有在本批逐字校勘简文、残字补字及凔热异体，不能标原典引用全部通过。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page5–16 L21–64；Page32–38 L148–166"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②《太一生水》讨论的实际上是前本体论的场域论机制和本体论机制：\n(1)太一生水：太一是虚无和纯粹的否定性，也是起源，水喻指抽象的连续的时间性，同时也规定了水只能不断涌现，不能倒流。\n(2)水反辅太一，是以成天：抽象的时间性是一种过程性的生成运动，它反过来规定了太一不能返回其自身，太一也限定了水不能如太一一般“生”万物，而只能“成”万物，这种限定就敞开了一个连续的场域(天)，天包含了最低限度的空间性，这个背景性的场域是万物的本体论前提，这也表明否定性的力量能生出万物。\n(3)天反辅太一，是以成地：天生成了空间的开放性，反过来规定了起源，就结构出了一个闭合的承载性的空间(地)。\n... ...",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "(1)太一原初否定性、水连续时间；(2)水约束太一不能重复创生、由生转成、开出承载场域；(3)天的开放反规定起源、地的闭合承载，逐项对应。文末省略号代表尚未补写的后续结构，不能算本摘要覆盖全篇。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page5–16 L21–64"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "水=时间、太一=否定性、天地=空间层次，属于讲者的非宇宙论读法，不能仅凭讲稿将其他简帛训诂读法判错。",
+          "source_ids": [
+            "m2-0125"
+          ],
+          "locator": "Page5–7 L21–27；Page14–16 L54–64"
+        }
+      ],
+      "open_questions": [
+        "《太一生水》引文尚须依具体郭店简释文版本校核残字与异体。"
+      ]
+    },
+    {
+      "code": "2-2-2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段对照；复合段逐项拆分或明确限定未证细节。哲学史、词源和现代类比不因讲稿对应而独立成立。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(天)与时间(水)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "轴总结时间/空间明确，水天是前文解释背景；讲者在空间项也使用天下。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L39–52"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 刚(快的、强硬的)与柔(慢的、可观其变的)的对立",
+          "status": "partially_supported_later_refinement_omitted",
+          "finding": "柔刚初步二分得到支持；后文进一步将实体的柔or刚与神明的柔and刚对立。快慢括注在本篇所读段落未直接展开，不把原始概括当作最终完整轴定义。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L82–103；另见m2-0132 Page6–7 L28–31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 愚与知的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "认识论明确知与愚，并说明道家偏向愚。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L103–106"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 无为",
+          "status": "supported_by_compiled_text",
+          "finding": "目的论明确无为，随后解释承载历史舞台。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L106；L115–118"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①passive既指被动的，又暗含承载之意，无为并非无动于衷，而是成为不动的的支点承载整个符号学秩序。在先秦道家中，王作为符号学支点被给予了与水、天并列的本体论地位。",
+          "status": "supported_with_typo_and_qualification",
+          "finding": "支点承载符号秩序、王列域内四大有正文；并列有本体地位不等于位阶完全相等，讲者还反复犹疑神明应否纳入。双“的”为机械错误。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L14–29；L88–103"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②道是介于水与天之间的敞开的时间流，把空间性的时间之位让予存在者，使得存在者有位置存在。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "水天之间、最低空间化时间流、让出存在者位置均对应；这是讲者对《太一生水》未明写环节的补构，L77明确说“我认为”。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L39–52；L77"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③可以导向激进的实践，目的论上无为就是要使行动去空间化，使主体成为历史舞台的舞台。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "激进实践可能性、行动去空间化、成为历史舞台三项有明确正文，属于讲者重构方向。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L112–118"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "旧索引row126只有一页开头；本次实际核读主体续篇row127。轴在本讲后半由柔/刚继续修订为柔or刚/柔and刚，须保留讲述过程。",
+          "source_ids": [
+            "m2-0127"
+          ],
+          "locator": "L82–103"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照；复合段逐项拆分或明确限定未证细节。哲学史、词源和现代类比不因讲稿对应而独立成立。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(天地、天下)与时间(反、道、水)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "时间反/道/水与空间天地/天下直接定义。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page3 L27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 造化、太素与心、神明的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "心/神明与造化/大块/太素直接定义。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page3–4 L28–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 愚与知的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "知愚二分直接定义。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page4 L34"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 无为与有为的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "有为/无为两者平等并站两者之间直接论证。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page4 L34–37"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①本体论上认为有本体论地位的要素都彼此平等，可以用非辩证法的方式揣测世界的本体论结构，所以依然是一种神秘主义。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本体项相对平等、非主体性辩证法而揣测本体结构，是讲者命名神秘主义的理由。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page1–2 L12–20"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②应当“从心”，随心而动，服从一阶的欲望，但是不能对欲望本身进行二阶的评判。",
+          "status": "supported_by_compiled_text",
+          "finding": "随心、一阶欲望许可与二阶评判否定逐项对应。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page2–3 L20–25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③在四个格上全部是对抗性的，但把对抗的两方面看作平等的，产生对抗性的一致性，有解放性。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "四轴对抗而产生一致性、解放性是讲者明确评价。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row128 Page4–5 L37–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(外天下)：(1)外天下：去庸俗实在论，脱离稳定、安宁的背景性场域，进入思想的动员状态。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "去庸俗实在论、背景场域不永固及动员状态均明确。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page1–2 L23–41"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(外物)：(2)外物：悬置外在的事物，把主体抽离于空间性结构，进入第一人称直观状态。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "悬置客体化、自己不作物并保持第一人称距离明确；并不是物理清空所有物品。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page2–3 L42–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(外生)：(3)外生：把生命体验去空间化(不把生命看成线性的进度条)，使生命不断自我涌现。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "反对线性寿命区间、生命体验不空间化及每刻涌现明确。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page4–6 L71–109"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(朝彻)：(4)朝彻：通过外天下、外物、外生让渡了空间化的操作的权力，使外物在时间之流中自然而然的自我结构起来，大放光明。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "前三步让渡空间化操作、事物自身生出结构并光亮，讲稿有此重构；不作为神经科学已证机制。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page6–9 L110–126"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(见独)：(5)见独(成为真人)：刺穿规训体系，形成新的快感通路，产生新的自我意识，生成独立于意识形态和庸俗伦理标准的目的论体系和规范框架。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "快感通路/规训、替代旧主体性、独立意识形态及自己伦理规范明确；皆讲者现代心理学解释。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page9–14 L126–141"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(无古今)：(6)无古今(成为圣人)：自我设定的目的论体系和规范框架在第一人称体验中是去时间化的、超历史的存在。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "超历史是在第一人称中如此体验；正文马上指出其实仍为特定历史条件产物，不能读成客观超历史。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page15 L144"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(不死不生)：(7)不死不生(成为神人)：坚持自我设定的目的论体系和规范框架，使这种立场去主体化，把自己注册为本体性的力量。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "伦理立场坚持到去主体化、本体性力量和神人称谓明确。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page16–18 L147–153"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④(撄宁)：(8)撄宁(成为至人)：矛盾、不一致性、开放性和断裂先于任何符号学体系，只有通过现世的实践才能重构本体论结构，这一点对于辩证唯物主义者是显而易见的。",
+          "status": "partially_supported_attribution_blurred",
+          "finding": "矛盾先于符号结构、实践重建有依据，但讲者区分庄子超越性的神秘主义布置与自己在世实践理解，摘要将两者压在一起。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page19–22 L156–167"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "八项名称来自《大宗师》女偊段；逐级配对真人/圣人/神人/至人及快感、意识形态、神经病理等，属于讲者解释，不是古文逐字内容，也未完成医学验证。",
+          "source_ids": [
+            "m2-0128",
+            "m2-0131"
+          ],
+          "locator": "row131 Page1 L15–16；Page9–21 L126–162"
+        },
+        {
+          "text": "原典女偊段有这些次序名称，但本条的现象学、规训与快感解释是课程的现代解读，不能排成原典逐句译文。",
+          "source_ids": [
+            "m2-zhuangzi-dazongshi",
+            "m2-0131"
+          ],
+          "locator": "原典L121；讲稿Page1–21"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-zhuangzi-dazongshi",
+          "relation": "editorial_reading",
+          "locator": "女偊教卜梁倚段L121",
+          "reason": "可逐项核对外天下至撄宁的次序；古文未在该段作现代快感理论及四种人格等级的逐级配对。",
+          "verification_scope": "实际阅读该段，未以单段证明全书无其他真人/神人讨论。"
+        }
+      ]
+    },
+    {
+      "code": "2-2-2-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照；复合段逐项拆分或明确限定未证细节。哲学史、词源和现代类比不因讲稿对应而独立成立。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 国家的建制化权力与人生的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "城邦/人生明确，国家建制权力的批判另由拔毛论证展开。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page9–13 L37–51；Page18 L66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 欲望与给养的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "给养/欲望且欲望有限度明确。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page18 L66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 愚(自然、任心)与知(有序、刻意、礼教)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "礼教有序/自然、刻意/任心、知/愚逐项可定位。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page16 L60；Page19 L69"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 厌、本体性的死亡的力量(调和无为与有为的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "厌调和有为无为，并以死作终结性本体力量明确。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page19–20 L69–72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①厌既有满足的意思，又有过剩的含义，在人的自然需求满足后，不追求更多过剩的东西(奢华、声望、权力、永生)，不造作。",
+          "status": "partially_supported_lexical_shift",
+          "finding": "厌有满足与厌恶两个面向；原文说厌恶过剩，并非简单把厌字释作过剩。四自然欲望、拒奢华名声权力永生明确。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page7–8 L31–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②厌包含废与任，废是反对有为，要废除礼教、权力和死后的名誉，这些机制看似压制了过剩的欲望，实际上反而不断生产着过剩的欲望，任是任心要无为，任由内心，不压抑自然的欲望。",
+          "status": "contradicted_relation",
+          "finding": "废/任以及礼教催生过剩欲望均明确；但正文说“废”是有为维度，摘要“废是反对有为”颠倒了本格调和机制。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page14–16 L54–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③“拔一毛而利天下不为也”：并不是在拔一毛就能利天下这个假设中选择不拔一毛，而是反对这个假设本身，即如果天下的命运可以仅凭拔一毛就能影响，那说明社会秩序已经动荡到荒谬的程度了，所以要反对的是使社会秩序可能动荡的力量。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "拒拔毛假设而非只择自利、天下由轻微事项支配代表秩序失常、反对机制本身，均是正文详述；属于讲者对杨朱的政治解释。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page9–14 L37–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④产生于贵族秩序行将奔溃的历史阶段，没有完全排除主体的空间化和时间化结构，反映了战国时期小地主阶级的思想。",
+          "status": "supported_as_lecturer_interpretation_with_typo",
+          "finding": "贵族世系未崩溃、小地主阶级定位及空间/时间结构都在正文；这些历史社会学归属未获独立史料证明。奔溃应崩溃。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page17–18 L63–66"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "讲者在开头主动承认杨朱本体论不可考、沿用道家格位会失去严格性。因此这组轴定义首先是课程重构。",
+          "source_ids": [
+            "m2-0132"
+          ],
+          "locator": "Page1 L9"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-2-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照；复合段逐项拆分或明确限定未证细节。哲学史、词源和现代类比不因讲稿对应而独立成立。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(赋予事物结构和规定性的静力学机制)与时间(支撑事物的实存和变化的动力学机制)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "静力学空间/动力学生存变化之时间逐项直接定义。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page30 L159"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 物与道、理的对立",
+          "status": "ambiguous_oral_grouping",
+          "finding": "正文口头轴总结“道 vs 物”紧接“道和理”有停顿歧义；前文明确理为成物之文而道支撑物，不能仅凭残缺口语把公共字段物与道理判定已校准。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page3–7 L44–62；Page31 L162"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 貌与情的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "貌外表/情内在状态直接定义，并于轴总论重述。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page13 L97；Page31 L162"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 无定操",
+          "status": "supported_by_compiled_text",
+          "finding": "无定操明确开放有为/无为，不拘固定方式。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page31–35 L162–176"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①“道者，万物之所然也，万理之所稽也。理者，成物之文也；道者，万物之所以成也。”：万物的生成需要道，道是具有最低空间性的时间，万物从中涌现，理是事物的空间性规定性，道迟滞了理，使得万物存在于一个连续的时间框架中。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "引句对应；道为最低空间化时间、理为空间规定、道稽留理并支撑生成都对应讲稿。这是讲者训诂与哲学读法，非已经公认的稽字释义。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page1–9 L13–68"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②“凡道之情，不制不形，柔弱随时，与理相应。”：道是一种本体性力量，它的内在是不被规制的、不外在的表现出来的，它在四季的景物的变化回转中柔顺的流动，在这些事物的空间化中被体现。由此可以看出古今对时间性体验的转变，古代把时间性体验为在时节的变化中起作用的神秘力量，而现代人把时间普遍把握为科学实在论意义上的时分秒。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "引句对应；不制不形、随季节流动及与理相应、古今时间体验之分都有对应。关于所有古代人与现代人的概括只是讲者论述，无社会史调查核验。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page2 L34；Page13–17 L97–112"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③“唯夫与天地之剖判也具生，至天地之消散也不死不衰者谓常。而常者，无攸易，无定理。无定理，非在于常所，是以不可道也。圣人观其玄虚，用其周行，强字之曰‘道’，然而可论。故曰‘道可道，非常道’。”：只有从天地开辟到天地消散都不改变的是本体性力量(即太一生水中的水)，这种常在的本体性力量是不会有变化，没有额外的规定性的约束这种力量，这种力量也没有空间化的结构，所以是不能被言说的。圣人通过观察它的结构，使用其中的机制，强行把这种本体性的力量称为“道”，所以说“道可道，非常道”。",
+          "status": "partially_supported_qualification_omitted",
+          "finding": "引文见正文及附录；水与天地前后关系、无定理/无常所、圣人命名明确。但“不会有变化”过于静态，讲者后续限定无迅速转瞬变化，而同讲反复说道促进变化、无固定运作方式。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page21–28 L124–153"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④有为与无为的界限是不确定的，刻意追求无为也就是一种有为，而神秘主义的修行也是华而不实的，真正要追求的是虚而不常的境界，不必太关注伦理维度，所有伦理道德只是一种可操作可消耗的资源，这些心法要为实用目的服务。",
+          "status": "supported_with_misattributed_phrase",
+          "finding": "不固执无为、前识华而不实有本讲依据；道德作为可操纵资源在下一讲Page5–6明确出现，因此不再列为无讲稿依据。仍须归属于讲者的法家解释。“虚而不常”应改为不以无为为有常。",
+          "source_ids": [
+            "m2-0133",
+            "m2-0134"
+          ],
+          "locator": "row133 Page31–36 L162–179、附录L191；row134 Page5–6 L29–34"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "讲者置顶回复承认“理之考也”来自百科错字，改为“理之者也”；摘要未重复该错字，应保留此校正记录，并把“燃料”训诂与文本字形分开。",
+          "source_ids": [
+            "m2-0133"
+          ],
+          "locator": "Page37–38 L184–187"
+        }
+      ],
+      "open_questions": [
+        "本体论轴“物与道、理”需原视频板书确认分组，不依据断句歧义直接修订。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "m2-hanfeizi-jielao",
+          "relation": "editorial_reading",
+          "locator": "L115；L121–124",
+          "reason": "对照无为不固执于无为、取情去貌及对前识的批评，分清原典论述与时间性/魔法值的现代解释。",
+          "verification_scope": "实际阅读相关段，未审定全篇古文训诂。"
+        }
+      ]
+    },
+    {
+      "code": "2-2-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段对照，复合断言在finding逐项限定；课程相符不等于原典/思想史已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(宇宙)与时间(超灵)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "宇宙作为空间与超灵作为真正时间直接定义。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page15–16 L73–76"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 自然(象征，包含着神秘的维度)与心灵(描述，从自然中把握超自然)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "自然象征与心灵描述均源于超灵，及从自然把握隐秘象征有明确正文。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page17–19 L79–85"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 第一人称的伦理直觉(调和愚蠢与智慧的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "第一人称伦理直觉调和智愚、孟子四端例子明确。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page23–24 L97–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①关于生成性：\n\t佛教哲学：无生(一切都是虚假的)\n\t道家哲学：生(太一生水)\n\t超验主义：生生(生成性的生成)",
+          "status": "partially_supported_nihilism_overstatement",
+          "finding": "无生/生/生生对照由下一讲明确列出；但无生指对生成的概念性追问与否定，不能直接压缩为“一切都是虚假的”的全称虚无论。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row135 Page3–5 L45–60；row134 Page3–4 L19–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②神秘的超灵化身为外部的自然现象，主体通过第一人称的经验认识自然现象，从而把握超灵。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "超灵化身自然、心灵由象征把握超越力量有正文；其神秘存在未在本批当成经验事实验证。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page11 L59；Page18–19 L82–85"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③简化了形而上学结构，直接基于第一人称的伦理直觉对事物进行伦理判断，由此低成本的快速形成伦理共同体，提升国家的动员力(国运)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "简化体系、直觉伦理、公约数降低统治成本及国运动员逐项对应；政治机制是讲者解释，不是量化效果结论。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page24–31 L102–125"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④现代性的临界点(美国精神的巅峰)，是对现代性的掩盖，最后必然失败崩解，使现代性危机爆发。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "现代性临界、掩盖、崩溃后危机与美国精神巅峰均为讲者评价；不将“必然”提升为已经验证的思想史规律。",
+          "source_ids": [
+            "m2-0134",
+            "m2-0135"
+          ],
+          "locator": "row134 Page29–33 L119–131"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-emerson-nature",
+          "relation": "editorial_reading",
+          "locator": "导言L61；Chapter I L76–80",
+          "reason": "原文自然/灵魂划分与透明眼球段可对照课程的超灵体验说明；阅读时区分作者叙述与课程关于国家动员、反思不足的评价。",
+          "verification_scope": "读过导言和第一章，仅将这些段落用于关联。"
+        }
+      ]
+    },
+    {
+      "code": "2-2-3-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照，复合断言在finding逐项限定；课程相符不等于原典/思想史已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间与时间的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "场域时间/空间直接定义。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page2 L29"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 易(超验性)与阴(涌现的、有形的)、阳(退场的、无形的)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "正文先阴阳、随后明确改成阴阳vs易，阴生成有形/阳消散无形均对应；这套读法不应推广为全部易学共同释义。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page2–3 L30–45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 超验性的道(调和愚、无知与知、真相的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "智慧与愚鲁由超验性道调和，并区分康德先验。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page5–6 L61–67"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 易(生生，时间的周期循环)",
+          "status": "supported_by_compiled_text",
+          "finding": "生生、时间循环/历史周期论直接作为目的论1。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page6 L68–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①对时间进行生存论判断，判断一个时间性事件对主体的利弊影响。",
+          "status": "supported_by_compiled_text",
+          "finding": "吉凶时作为对主体生存抉择意义的判断直接对应。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page1–2 L22–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②以《周易》为范本，周易中的阳爻和阴爻针对的是时间性，阳爻是连同的，代表时间的畅通无阻，阴爻是断开的，代表时间性被中断、阻塞，这种中断代表时间被实体化所迟滞。",
+          "status": "supported_with_typo",
+          "finding": "连贯阳爻与断裂阴爻表示时间不阻/被实体化阻滞均对应；“连同”在此应连通。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page2–3 L33–43；Page8–9 L89–95"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③周易的八卦不是指具体的自然物，而是阴(生的力量、阻滞)和阳(灭的力量、催灭)对于天(开放性)、人(意识)、地(封闭性)的不同组合产生的不同时间性样态，而六十四卦是八卦的叠加，从初爻到上爻的六爻代表时间性的六个阶段，分别是：开、初、形、新、成、终。",
+          "status": "partially_supported_phase_labels_ambiguous",
+          "finding": "三才天地人及阴阳的生灭解释、八卦至六十四卦与六阶段有正文；原“形”字不是所读正文明确列举，讲者多次口头命名略异，宜使用完整的六阶段描述并标其解读。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page7–8 L78–88；L172–175；L204"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④本质上是共同体对政治经验的统计和历史符号的把握的形而上学化，其预测力实际上是诱导人们按照它所描述的博弈机制行事。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "政治经验、统计频次、博弈反应及诱导预测逐项对应；只证明讲者作此模型解释，未验证古代编纂过程真的做统计调查。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "Page25–28 L212–221"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "阴生阳灭、天人地空间解释及六阶段是本讲的解释，讲者明确允许不同读法；不能替代周易原文和历代注疏。",
+          "source_ids": [
+            "m2-0135"
+          ],
+          "locator": "L204；Page28 L221"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-3-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段对照，复合断言在finding逐项限定；课程相符不等于原典/思想史已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(存在之所)与时间(超越于存在的范畴)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "空间存在/不存在位面与超越这对范畴之时间直接定义。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page3 L27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 被流溢物(物质、一般精神)与流溢者(太一)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "正文主动修正物质vs精神为物质加一般精神vs流溢者，摘要保存了修正。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page4 L30–32"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 隐秘的智慧(调和愚昧与智慧的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "隐秘智慧调和智愚，并细化神智论/神爱论。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page4 L34；Page7 L46"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 循环与终结的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "同时承认循环与最终终结，形成冲突明确。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page7–10 L48–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①在前现代常与历史符号主义(2-2-3-1)相竞争，一旦在竞争中掌权就会迅速滑向庸俗的实在论。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "敌对竞争、成功后2变1有明确正文；掌权必滑庸俗实在论是格位解释的概括，不是独立历史定律。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page1–3 L13–25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②与主流对抗，通过对经典进行再解读，得出某种隐秘的启示，获得动员力。",
+          "status": "supported_by_compiled_text",
+          "finding": "经典再解释、仪式化阅读/隐义与动员能力均对应。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page4–6 L34–42；Page10 L57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③部分下放释经权，每个个体都被赋予了认识论例外，可以自由探索隐秘的智慧，具有一定的现代性和平等主义色彩。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "解释权、每个人认识论例外及现代性/解放性，讲者明确讨论；不能推广到任一历史宗派的所有人实际均有释经权。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page9–11 L54–60"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲以七伊玛目派举例，但宗教历史与数字体系的细节未在本批向该传统原文逐项核验。",
+          "source_ids": [
+            "m2-0136"
+          ],
+          "locator": "Page2 L22；Page6 L42"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段对照，复合断言在finding逐项限定；课程相符不等于原典/思想史已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 知性(空间、碎片化的)与理性(时间、超越性的)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "碎片经验/知性/空间和整体超越/理性/目的时间对应清楚。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 二重性(二元对立)与一元性(太一)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "经验二重性与超越一元性直接定义；以太一概括结合前文流溢解读。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page2 L12；Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 超灵(Over-Soul)(调和愚蠢与智慧的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "超灵中介智愚、理性渗透知性直接定义。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page7–10 L27–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 永恒(调和循环与终结的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "永恒调和终结循环，并澄清非僵死无时间而为tempo。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page13–16 L45–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①糅合了新柏拉图主义和庸俗版德国观念论，暗含盎格鲁撒克逊的神智论传统，特别注重理智直观(隐秘体验)而反思不足。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "新柏拉图主义、德观念论、神智传统和理智直观反思不足都为讲者明确批评；“庸俗”不当作已获思想史共识的评价。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page1–2 L9–12；Page8–12 L30–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②超灵是一种神秘主义体验，将理性渗透到日常生活中，从中体验到隐秘的象征含义和征兆。",
+          "status": "supported_by_compiled_text",
+          "finding": "日常表象被体验为征兆、理性之光渗透知性有正文。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page7–9 L27–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③目的论上用永恒调和循环与终结，永恒既包含循环又包含终结，是一种律动、合拍、共鸣的运动，这种共鸣用于在陌生人社会中生造出共同体，调和并统一多元主义。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "永恒含循环/终结、律动合拍共鸣、陌生人共同体与统一多元主义都能逐项定位；国家共同体形成的因果主张未独立验证。",
+          "source_ids": [
+            "m2-0137"
+          ],
+          "locator": "Page13–17 L45–57；Page26 L89"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-emerson-nature",
+          "relation": "editorial_reading",
+          "locator": "导言L61；Chapter I L76–80",
+          "reason": "原文自然/灵魂划分与透明眼球段可对照课程的超灵体验说明；阅读时区分作者叙述与课程关于国家动员、反思不足的评价。",
+          "verification_scope": "读过导言和第一章，仅将这些段落用于关联。"
+        }
+      ]
+    },
+    {
+      "code": "2-2-3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "9/9",
+        "scope": "逐字段对照，复合断言在finding逐项限定；课程相符不等于原典/思想史已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(共存、彼此依赖、精微的结构)与时间(生与死、宿命、残酷的创伤性)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "时间的生死创伤宿命与空间共存精微结构逐项定义。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page4–6 L24–32"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 凡俗的主客体的区分与主体的超越性的诗性体验的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "凡俗主客维度整体与超出其整全性的诗性体验对立；不是把凡俗主体与客体分别当两格。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page6–9 L32–41；Page22 L88"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 诗歌(调和愚蠢(共同体道德、国族认同)与智慧(神秘主义玄思、形而上学)的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "共同体认同伦理热忱之愚与形而上玄思之智，由诗歌中介明确。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page10–11 L44–47"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 重复、开放、随诗而动、死亡驱力",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "重复、目的开放与死亡驱力均有明确正文；驱力为讲者精神分析读法。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page12–17 L50–71；Page34–35 L142–145"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①诗性体验被设立为有本体论地位，这种体验迫使诗人不得不把它写出来，主体只是中介者，记录不断涌出的诗性体验。",
+          "status": "supported_by_compiled_text",
+          "finding": "诗性体验本体地位、迫使写下、主体中介截取字句均对应；内在神秘体验按讲者模型归纳。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page6–9 L32–41；Page14 L62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②包含了至少两种重复，一是音韵的重复，二是记录诗性体验的重复，这种重复的背后是死亡驱力。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "韵脚/句式重复与记录心中语句的重复明确区分，死亡驱力归因也明确；不是本批验证普遍心理机制。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page13–16 L53–68"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③诗歌的自由代表共同体的目的论体系的最终失败，循环与终结的对抗已经无法被符号化的表达。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "共同体目的论无法稳定、循环终结角逐难以符号化、自由与盛衰判断均出自正文。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page16–17 L68–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④主体性通过诗歌领受时代精神，将目的论撑开，导向共同体的符号学实践，所以诗歌比形而上学更临近主体与场域上的分裂的搏杀，但如果进一步试图把这个结构理论化就会进入观念论，所以无法真正的形而上学化。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "聆受天命被重释为符号实践、主体撑开目的论、诗一线搏杀、理论化转3字头均可定位；不将前现代诗歌一概纳入此模型视为独立文史结论。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page18–19 L74–77；Page22–23 L88–93；Page30–31 L128–133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤如果进一步顺着时间与空间的裂隙摸索，会发现时间性背后是没有保障的，唯一存在的时间性就是主体的生存叙事的冒险，主体要为一切负绝对的责任，而诗人在这里怂了，把这种绝对否定性封印在符号化的诗歌中。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "无人可依靠、时间为生存叙事冒险、绝对责任与诗人退回符号庇护逐项有正文。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page20–25 L80–103"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲还把未押韵的体验与幻听、妄想相连；这一临床式断言未获医学证据，本批不为其背书。现有摘要没有复制该断言，不增补为事实。",
+          "source_ids": [
+            "m2-0138"
+          ],
+          "locator": "Page28–29 L118–123"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-whitman-cradle",
+          "relation": "editorial_reading",
+          "locator": "诗行165–183",
+          "reason": "课程直接引用结尾死亡词的重复；诗的听觉叙事与反复有原文可查，死亡驱力仍是课程解释。",
+          "verification_scope": "实际读完全诗，重点核末段；未以一诗证明全部诗歌机制。"
+        }
+      ]
+    },
+    {
+      "code": "2-2-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "实际核读Page1–17 L9–122；L125起下一讲排除；全部字段已作对应，复合字段拆分；课程相符不等于原典已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 闭合的与开放的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "闭合/开放为场域矩阵两端。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page4 L24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 内在的与外在的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "内在/外在为本体矩阵两端。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page4 L24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 开放",
+          "status": "supported_by_compiled_text",
+          "finding": "认识论4为打破矩阵平衡后的开放。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page3 L19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①通过给出矩阵进行哲学运思，矩阵的基本要素是场域论和本体论上的两组二元对立，可以通过把握其中的短路点打破矩阵的平衡，突破到认识论的维度，可以通过这种方法破解各种二元对立，比如决定论和自由意志等二元对立。",
+          "status": "supported_by_compiled_text",
+          "finding": "两组对立、矩阵短路、认识论开放及决定论/自由意志示例均有；是课程练习法，未证明适用所有二元论。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page3–5 L19–29；Page13–17 L92–122"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②二元对立的基本形态是主客对立，在场域论上是去客体化与去主体化的对立，在本体论上是客体化与主体化的对立，其中已经预设了主体不能去主体化且客体不能去客体化，既然如此，那么去主体化和去实体化都是不可能的，由此就发现了这组二元对立的破解点。",
+          "status": "partially_supported_needs_correction",
+          "finding": "主客四种运动与两项预设可定位；结论应是模型不能解释运动，且去实体化误作去客体化。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page5–8 L29–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③破除主客二元对立，存在既主体化又去主体化的东西，这就是实体，它的内在不一致性甩出了外部的现象和内部的精神，实体的去客体化就是它的主体化。",
+          "status": "supported_with_qualification",
+          "finding": "实体兼具主体化/去主体化、甩出现象精神、去客体化与主体化短路有正文；讲者随即警告直接等同不留间隙是粗糙黑格尔主义。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page11–12 L77–89"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "实体运动是本讲矩阵练习中的解释。讲者随即警告：把去客体化与主体化直接等同、不保留最低间隙，会退为粗糙的黑格尔主义；不能把这段练习当成完整的黑格尔体系。",
+          "source_ids": [
+            "m2-0139"
+          ],
+          "locator": "Page12 L87–89"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "实际核读Page1–16 L9–165及Page33–38 L266–293；中段未通读；全部字段已作对应，复合字段拆分；课程相符不等于原典已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 色(被符号编织起来的世界，空间)与空(时间)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "色作为符号编织空间、空作为时间，是讲者格位解释。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 凡俗的万物(陷于存不存在的范畴)与涅槃(去符号化的持存)的二分",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "凡物存在/不存在与涅槃去符号化持存两侧明确。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 去结构化、去符号化(de-fabrication)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "de-fabrication明确为去结构/符号化。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page3 L15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 离苦、从苦难中解脱、超脱",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "离苦为伦理热忱目的。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page3 L15；Page7 L29–31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①对符号化的世界进行反思，通过这种加倍的符号化，达到对世界去符号化把握，从而从凡俗的事物中超脱。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "加倍符号化以破除固定符号把握并超脱可定位。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page3 L15；Page5 L21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②没有意识到在涅槃(Nirvana)中去主体化、去符号化的就是主体性本身，错把这种主体性物化为空(Empty)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "把去主体化者判为主体性、批评其被物化为空，是讲者对龙树的批评。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③对世界的任何符号化的把握都是错的(因此也就都是对的)，总之任何符号化的尝试都是没有用的，唯一重要的是要有伦理热忱。",
+          "status": "partially_supported_needs_correction",
+          "finding": "正文讨论“一切都错”陈述自身仍为符号化；并不因此每个命题都对。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page8–9 L49–64；Page33 L268"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条的“空＝时间”“涅槃＝主体性被物化”均属讲者的框架和批评，不能据此说《中论》原典直接提出这些等式。讲稿对〈观四谛品〉二谛的僧团解释仍待原典逐段核对，本批不予原典审定。",
+          "source_ids": [
+            "m2-0140"
+          ],
+          "locator": "Page1–5 L9–21；Page12–16 L88–165"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-4-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "实际核读Page1–20 L9–63；L66起下一讲排除；全部字段已作对应，复合字段拆分；课程相符不等于原典已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(圣经中记录的圣言)与时间(饱含生命力的历史性解读)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "圣言空间/有历史生命力的解释时间明确。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 (Vita/Vie)与神圣(Divine)的对立",
+          "status": "partially_supported_needs_correction",
+          "finding": "Vita/Vie明确是生命，摘要漏中文名。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 依赖于神圣文本(Fundamentalism)",
+          "status": "supported_with_qualification",
+          "finding": "依圣典文本，但允许历史性解释，不是通常不容解释的教条。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page4–5 L18–21；Page17 L57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 对生命的怜悯与对神圣维度的返回(牺牲、对苦难的承受)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "怜悯生命与回神圣的牺牲两端均有。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①共同体的高级知识分子通过对律法的辩论克服二元对立，必须严格按照经典文本进行解读和辩论，但在解读和辩论中又包含一种与时俱进的生命力，道德在其中也化为可辩论的条目。",
+          "status": "supported_by_compiled_text",
+          "finding": "律法知识分子辩论、严格依文本、历史活力及道德可辩均有；仅本讲列维纳斯解读。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②怜悯和自怜都是无力的，要承受苦难，甚至主动创造痛苦以承受，才能返回神圣维度，是绝望主义的，但在此之上有一种伦理热忱，愿意进行繁复的智力劳作延缓灾难性后果的降临，自我牺牲。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "怜悯无力、承苦乃至制造苦、绝望、智力劳作延缓灾难与牺牲均为讲者解释，非本批认定犹太教普遍教义。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page6–8 L24–30；Page15–18 L51–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③上帝是他者之他者，人对上帝的认识就是上帝对自己的认识，人对上帝的告解就是上帝对人的宽恕，这就克服了人与人间有限的他者性，只需要对上帝进行告解，而不用向人寻求宽恕。",
+          "status": "contradicted_by_compiled_text",
+          "finding": "神人关系的自我宽恕论有，但正文明确人与人之间必须忏悔并得到对方原谅，摘要最后倒置。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page7 L27；Page9 L33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④这种上帝对人无条件的宽恕就是人的自我宽恕，上帝作为无限的他者性就是自我的伦理精神的内在超越性，对上帝的神圣伦理的维度的回归就是对自我内在的回归。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "自我宽恕、无限他者性为内在超越、神圣回归为内在回归均可定位，是讲者哲学重释。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page10 L36；Page19 L63"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条不是《塔木德》全书概述。讲者自述主要借列维纳斯《四篇塔木德读解》《总体与无限》作粗略理解；“主动创造痛苦”“神圣者无条件宽恕”应保留为本讲解释，不能推广为宗教全部教义。认识论4的Fundamentalism在这里仍包含历史性解读。",
+          "source_ids": [
+            "m2-0141"
+          ],
+          "locator": "Page14 L48；Page17 L57"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-4-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "9/9",
+        "scope": "实际核读Page1–22 L9–72；下讲标题以后排除；全部字段已作对应，复合字段拆分；课程相符不等于原典已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 空间(主体间性)与时间(历史主义的语境主义)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "主体间空间和历史语境时间明确。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page4–6 L18–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 托洛茨基(公共的真理)与野兰花(私人的真理)的二分",
+          "status": "partially_supported_needs_correction",
+          "finding": "正文明确公共的真诚而非公共真理；野兰花用原摘要保留，编纂稿作野玫瑰不据此改原篇名。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page10 L36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 无真理，只有修辞学",
+          "status": "supported_with_qualification",
+          "finding": "无终极真理、修辞讨论；并未否认痛苦和交往的现实。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page11–14 L39–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 去本体论的伦理学(不强加伦理学的伦理学、不强加戒律的种族中心主义)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "去本体伦理、不以族群标准强迫他人均有。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page15–19 L51–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①人只能在其所处的历史性的语用学实践之中通过解释学的方式把握事物，而无法跳出语境之外去依照某种外部的标准，甚至对语用学进行内外的划分都是不可能的。",
+          "status": "supported_by_compiled_text",
+          "finding": "历史语用实践/解释学、无外标准、语用自身无内外分割均可定位。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②不相信任何离开第一人称体验的绝对真理，反对实在论、先验主义和相对主义，反对存在跨主体间性的永恒标准和真理，真理只是一种修辞学的方法，与其追求真理，不如先做到真诚。",
+          "status": "supported_with_qualification",
+          "finding": "拒绝绝对实在与先验永恒标准、同时反相对主义、修辞与真诚替代对绝对真理追求均出正文；“第一人称”不应读为取消主体间交往。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page1–3 L9–15；Page14 L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③反对伦理驱动的主体化(2-2-4-1)，也反对伦理驱动的去主体化(2-2-4-2)，共同体的伦理建立在统一的本体论基础上是不可能的，每个人的本体论预设和真理都是内部的，没有所谓公共的客观中立的本体论基础，所以共同体的伦理学只能去本体论化。推崇开放包容的伦理学，但同时又有一种共通的伦理直觉贯穿不同主体的私人伦理空间，由此可以构建出共同体的伦理热忱。",
+          "status": "partially_supported_needs_correction",
+          "finding": "公共伦理不能从私人本体推出及共同伦理直觉有正文；开头把本体化/去本体化写为主体化/去主体化，术语错位。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page15–19 L51–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④主体的公共的伦理实践是真实的有重要意义的，在这种主体间的交往中最重要的是真诚，要直面共同体中个体的快乐与痛苦，并把这些看作是真正重要的，而不是用各种形而上框架遮盖这些现实。",
+          "status": "supported_by_compiled_text",
+          "finding": "伦理实践现实性、真诚、直面快乐痛苦及反形而上遮蔽均有。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page11–12 L39–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤代表美国的多元主义的伦理学精神，主体不能以跨主体间性的方式对实体性的事物加以控制，一个人不能把其族群的戒律强加给其他人(己之所欲，毋施于人)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "美式多元伦理及不强加族群戒律有；这里是讲者对罗蒂的定位，不是对美国现实制度的实证概括。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page3–4 L15–18；Page16 L54"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“无真理”在本讲针对脱离历史实践的终极标准；正文同时肯定公共交往中人的快乐、痛苦的现实意义。不要把它展示为“所有事实都不存在”。“种族中心主义”在此是ethnocentrism的课程译法，其与罗蒂原文关系本批未审定。",
+          "source_ids": [
+            "m2-0142"
+          ],
+          "locator": "Page11–14 L39–48；Page16–19 L54–63"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-2-4-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "实际核读Page1–60 L9–276全文；L278起2-3溢出排除；全部字段已作对应，复合字段拆分；课程相符不等于原典已审定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 凡俗物质所处的空间与符号学时间的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "凡俗物质空间与符号时间明确。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论2 彼(Thatness)/此(Thisness)(不加中介的直接性存在)与无有(Nothingness)的二分",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "彼/此直接性与无有对立明确。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 舛驳不中(反人为实，胜人为名)、一切都是语言学游戏",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "舛驳不中与语言游戏解释有；不是原典使用现代语言学术语。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page3–4 L15–18；Page43–48 L211–226"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 散于万物",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "散于万物明确，但讲者中途按泛爱万物考虑改列2241/2243，末尾又回判目的4。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page4 L18；Page42 L208；Page58 L270"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①惠施的思想主要见于《庄子·天下》，其中原文：\n\t惠施多方，其书五车，其道舛驳，其言也不中。历物之意，曰：“至大无外，谓之大一；至小无内，谓之小一。无厚，不可积也，其大千里。天与地卑，山与泽平。日方中方睨，物方生方死。大同而与小同异，此之谓小同异；万物毕同毕异，此之谓大同异。南方无穷而有穷。今日适越而昔来。连环可解也。我知天之中央，燕之北、越之南是也。泛爱万物，天地一体也。”惠施以此为大，观于天下而晓辩者，天下之辩者相与乐之。卵有毛。鸡三足。郢有天下。犬可以为羊。马有卵。丁子有尾。火不热。山出口。轮不蹍地。目不见。指不至，至不绝。龟长于蛇。矩不方，规不可以为圆。凿不围枘。飞鸟之景未尝动也。镞矢之疾，而有不行、不止之时。狗非犬。黄马骊牛三。白狗黑。孤驹未尝有母。一尺之棰，日取其半，万世不竭。",
+          "status": "supported_with_qualification",
+          "finding": "十事及辩者列目可与《天下》L128–129对照；引文属节录，止于万世不竭省去后句。天/天下、棰/捶为异文，不作错字；须区分惠施十事与辩者应和。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page5 L21；Page22 L114；Page27–29 L138–150；Page36–38 L184–194；Page43–56 L211–264"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(1)“至大无外，谓之大一；至小无内，谓之小一。无厚，不可积也，其大千里。”：大到没有外部是大一，小到没有内部的是小一，这二者指的就是空间，唯有空间是无边界性的，空间没有厚度不能累积，但它是最大的。由此说明原始的空间关系是一对概念相互依赖的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "无内无外与无厚读作空间、相互依赖均有；不作为独立数学结论。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page5–8 L21–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(2)“天与地卑，山与泽平。”：高与低、平与突的概念是由天与地、山与泽的差异产生的，在天地的差异产生出高低的概念的瞬间，天地并没有被分配谁高谁低，它们的高低属性是在这个概念产生后回溯性指派的。由此说明平等的抽象空间关系是相互依赖的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "原初差异先于高低概念及回溯分配均有。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page9–13 L33–73"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(3)“日方中方睨，物方生方死。”：太阳处在正中间的状态只有通过想象它再移动一点就睨(歪斜)才能被设立，物体活跃起来(自我驱动而不是按照被外部规定好的运动模式运动)的状态，只有通过想象它们完全按照外部规定的路线进行运动的僵死的运动状态才能被设立，所以“中”和“生”是由“睨”和“死”通过差异二阶抽象出来的，通过这种符号学想象就引入了时间的维度。由此说明一种不平等的分为一阶和二阶的抽象关系也是相互依赖的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "由睨/死到中/生的二阶抽象、不平等依赖和时间想象都有；讲者明确这是其现象学解读。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page14–21 L76–111；Page26 L130–133"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(4)“大同而与小同异，此之谓小同异；万物毕同毕异，此之谓大同异。”：事物在大的方面相同和在小的方面相同这两种相同是不一样的，它们之间有层级关系，这种分层级的同一性称为小同异；而万物归根到底既是相同的又是相异的，这种同一性与差异性的相互依赖关系称为大同异。在小同异中同一性的层级的差异也是相互依赖的，正如大同异中同一性与差异性是相互依赖的，所以万物是毕同毕异的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "层级同一性与大同异、层级也互依、万物毕同毕异逐项有。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page22–27 L114–136"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(5)“南方无穷而有穷。”：南的方向性必须是无穷的，如果它是有穷的那么在这个有穷点以北的都是北方，那么南北的分界就不是绝对的了，但即使南的方向性是无穷的，我们也可以自由设定原点，以此划定南北方向的界线。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "方向无穷与可随时设中心的有穷两面均有。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page27–28 L138–144"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(6)“今日适越而昔来。”：一个人今天到越国去他昨天就已经到达了，说明现在与过去的时间性差异与人的主体性姿态是密切相关的，一个人要到越国去，这种主体性姿态反过来追加了现在这个时间性，同理一个人处于已经到达的姿态，这种主体性姿态反过来追加了过去这个时间性，这种时态的转化是由主体在实践中完成的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "今/昔取决于适/来姿态、主体实践的时态变化有；不是时间旅行式昨天已到的事实。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page29–35 L147–179"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(7)“连环可解也。”：上述由(1)至(6)中包含的平等的和不平等的空间性关系、同层级和不同层级的抽象概念的关系、今昔的时间性关系和主体性姿态是一个连环，是彼此依赖的符号学拟质，是一个能指链，而能指链是可以被断开的。",
+          "status": "partially_supported_needs_correction",
+          "finding": "能指连环涵盖抽象/空间/时态关系、可解均有；拟质应为拟制。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page36–38 L184–194"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(8)“我知天下之中央，燕之北、越之南是也。”：主体可以设立空间中心的衡量点和空间体系的方向性，并把方向性这个一阶的空间性和空间中心这个二阶的空间性(因为中只能通过睨二阶的把握)作为一整个体系去加以把握(我知)，说明主体当下的第一人称体验具有优先性，可以设立所有规范性和有效性。",
+          "status": "partially_supported_needs_correction",
+          "finding": "主体设空间中心与拍平阶次可定位；“所有规范性有效性”超出此处空间坐标的明确范围，应收窄。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page38–41 L194–205"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "(9)“卵有毛。鸡三足。郢有天下。犬可以为羊。马有卵。丁子有尾。火不热。山出口。轮不蹍地。目不见。指不至，至不绝。龟长于蛇。矩不方，规不可以为圆。凿不围枘。飞鸟之景未尝动也。镞矢之疾，而有不行、不止之时。狗非犬。黄马骊牛三。白狗黑。孤驹未尝有母。一尺之棰，日取其半，万世不竭。”：因为能指链被解开，所以任何表述都能获得逻辑上的连贯性，各种可被指称的东西之间的差异都是平等的，比如火并不与热相关联，火与热的差异并不小于火与冷的差异，这种差异并不是概念上的而是能指意义上的(狗和犬是一个概念但不是同一个能指)，这种差异就代表了留给主体性的解释空间，通过这种方法可以对所有看上去不符合日常认知的观点进行辩论。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "拆能指链维持说法融贯、差异平等、狗犬与解释空间都有；正文对黄马骊牛、孤驹、尺棰另有具体读法，不能将每一命题都直接归惠施本人。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page43–60 L211–276"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "第②项是讲者的现代现象学、符号学读法，讲者自己承认这是超出训诂的解释。原典区分惠施十事与辩者应和；后一组“卵有毛”等不宜全部直接署为惠施本人断言。引文的天/天下、棰/捶在传本文字有异，暂不据单一网页统一。",
+          "source_ids": [
+            "m2-0143",
+            "m2-zhuangzi-tianxia"
+          ],
+          "locator": "Page41–43 L205–211；原典L128–133"
+        },
+        {
+          "text": "目的论格位在讲内发生试探：Page42因“泛爱万物”考虑把惠施列入2241/2243，Page58又据庄子对其争辩活动的批评回到4。保留最终格位，但不能掩盖讲内限定。",
+          "source_ids": [
+            "m2-0143"
+          ],
+          "locator": "Page42 L208；Page58 L270"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-zhuangzi-tianxia",
+          "relation": "editorial_reading",
+          "locator": "惠施十事、辩者命题及篇末评语 L128–133",
+          "reason": "直接对照本条长引文；原篇先列惠施十事，再述辩者应和，现代现象学解释需与原文分开。",
+          "verification_scope": "实际核读该段，未核诸古本。"
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①否定性存在并不是不存在，而是主体使用了否定性的能力，建构出一个虚构的存在(Fiction)，并通过这个虚构的纬度产生效果(比如通过虚构的寓言故事可以阐明真切的道理)，现实正是通过虚构的方式结构起来。",
+      "after": "①否定性存在并不是不存在，而是主体使用了否定性的能力，建构出一个虚构的存在(Fiction)，并通过这个虚构的维度产生效果(比如通过虚构的寓言故事可以阐明真切的道理)，现实正是通过虚构的方式结构起来。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0118"
+      ],
+      "rationale": "Page8 L44为虚构维度，修正明显同音字。"
+    },
+    {
+      "code": "2-2-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④业力是一种拟质，业力通过不同的法(dharma)使得刹那(Kṣaṇa)相互连结，但是对各种法的分类学是天真、粗糙的，其中包含了一个前反思的伦理学大他者的维度。",
+      "after": "④讲者把业力解释为一种拟制，业力通过不同的法(dharma)使得刹那(Kṣaṇa)相互连结，但是对各种法的分类学是天真、粗糙的，其中包含了一个前反思的伦理学大他者的维度。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0120"
+      ],
+      "rationale": "本讲Page5 L25说明造作而非实存，并有符号学批评；既修正拟质也标解释归属。"
+    },
+    {
+      "code": "2-2-1-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①业的原意是造作者，使得世界被呈现，耆那教认为业是物质性的，佛教认为业是不实存的拟质：\n\t耆那教认为人的原初心灵是混沌的虚无状态，外部的业尘(时间性的因果网络)漏入心灵中束缚住了心灵，使得物质性的微粒附着在心灵上，使人有了世俗的欲望，追求通过苦修把业尘(非命)从心灵(命)排出。\n\t佛教把心法归于业，认为业是符号学拟质，业出于无明，无明是一种压抑使自己不主体化的力量，这种力量就是自我，即原初心灵的虚无状态，而业是这种符号化的剩余。",
+      "after": "①讲者把业解释为造作、行动的力量，使得世界被呈现，耆那教认为业是物质性的，佛教认为业是不实存的拟制：\n\t耆那教认为人的原初心灵是混沌的虚无状态，外部的业尘(时间性的因果网络)漏入心灵中束缚住了心灵，使得物质性的微粒附着在心灵上，使人有了世俗的欲望，追求通过苦修把业尘(非命)从心灵(命)排出。\n\t讲者继而以符号学和主体性理论重释佛教：心法被归于业，业是符号学拟制，业出于无明，无明是一种压抑使自己不主体化的力量，这种力量就是自我，即原初心灵的虚无状态，而业是这种符号化的剩余。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0121"
+      ],
+      "rationale": "Page9–10是造作不是造作者；Page10、14明确拟制；后半为讲者理论重释，应与原典区分。"
+    },
+    {
+      "code": "2-2-1-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Persist))与虚空的对立",
+      "after": "本体论2 法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Exist))与虚空的对立",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0122"
+      ],
+      "rationale": "Page26明确法是exist不是persist，Page31–34进一步区分。"
+    },
+    {
+      "code": "2-2-1-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②原始佛教认为有生(产生)、住异(存在并变化)、灭(消失)三个环节，说一切有部是部派佛教之一，把生、住异、灭拆分为生(产生)、住(时间性的持存)、异(变化)、灭(消失)。通过这种拆分以及从生到住、从住到异、从异到灭的变化，使得过去、现在、未来此三种时态都获得了本体论地位，都实存(三世实有)。",
+      "after": "②原始佛教认为有生(产生)、住异(存在并变化)、灭(消失)三个环节，说一切有部是部派佛教之一，把生、住异、灭拆分为生(产生)、住(时间性的持存)、异(变化)、灭(消失)。通过这种拆分，以及对诸法在过去、现在、未来中的作用方式的分析，使得过去、现在、未来此三种时态都获得了本体论地位，都实存(三世实有)。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0122"
+      ],
+      "rationale": "避免将同时起作用的四相误写成相继生成链，Page20明确否认该链。"
+    },
+    {
+      "code": "2-2-1-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④四随相是二阶的，四本相的这种自我延宕、自我加倍说明法在时态中也是二阶段的，是可以跨时态存在的(法体常在)，由此因果关系才能延宕。",
+      "after": "④四随相是二阶的，四本相的这种自我延宕、自我加倍说明法在时态中也是二阶的，是可以跨时态存在的(法体常在)，由此因果关系才能延宕。",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0122"
+      ],
+      "rationale": "正文解释的是second order，不是两个阶段。"
+    },
+    {
+      "code": "2-2-1-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 跨时态性的存在(种子、界、心法、事件)与时态性的存在(蕴、处、微粒)的对立",
+      "after": "本体论2 跨时态性的存在(种子、界等机制性规定)与时态性的存在(蕴、处，以及发生中的心法、事件)的对立",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0123"
+      ],
+      "rationale": "Page22–25将种子的机制性与心法/事件的持存区分；原括号误归并。"
+    },
+    {
+      "code": "2-2-1-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①经量部是最后一个部派佛教，把原始佛教的时间性机制运用到极致，提出色(物质性)心(时间性)互熏说，反驳了说一切有部的三世实有、法体常在。",
+      "after": "①讲者把经量部视为原始佛教时间性思路的最后一次集中展开，把原始佛教的时间性机制运用到极致，提出色(物质性)心(时间性)互熏说，反驳了说一切有部的三世实有、法体常在。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0123"
+      ],
+      "rationale": "将无严格历史证据的最后一个部派限定为本讲的路径性评价。"
+    },
+    {
+      "code": "2-2-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①passive既指被动的，又暗含承载之意，无为并非无动于衷，而是成为不动的的支点承载整个符号学秩序。在先秦道家中，王作为符号学支点被给予了与水、天并列的本体论地位。",
+      "after": "①passive既指被动的，又暗含承载之意，无为并非无动于衷，而是成为不动的支点承载整个符号学秩序。在先秦道家中，王作为符号学支点被给予了与水、天并列的本体论地位。",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0127"
+      ],
+      "rationale": "重复助词。"
+    },
+    {
+      "code": "2-2-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①厌既有满足的意思，又有过剩的含义，在人的自然需求满足后，不追求更多过剩的东西(奢华、声望、权力、永生)，不造作。",
+      "after": "①厌既有满足的意思，又有厌恶过剩的含义，在人的自然需求满足后，不追求更多过剩的东西(奢华、声望、权力、永生)，不造作。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0132"
+      ],
+      "rationale": "正文是厌恶过剩，不能略掉否定关系。"
+    },
+    {
+      "code": "2-2-2-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②厌包含废与任，废是反对有为，要废除礼教、权力和死后的名誉，这些机制看似压制了过剩的欲望，实际上反而不断生产着过剩的欲望，任是任心要无为，任由内心，不压抑自然的欲望。",
+      "after": "②厌包含废与任，废是有为的维度，要废除礼教、权力和死后的名誉，这些机制看似压制了过剩的欲望，实际上反而不断生产着过剩的欲望，任是任心要无为，任由内心，不压抑自然的欲望。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0132"
+      ],
+      "rationale": "Page16明确废是有为，任是无为，二者被厌调和。"
+    },
+    {
+      "code": "2-2-2-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④产生于贵族秩序行将奔溃的历史阶段，没有完全排除主体的空间化和时间化结构，反映了战国时期小地主阶级的思想。",
+      "after": "④产生于贵族秩序行将崩溃的历史阶段，没有完全排除主体的空间化和时间化结构，反映了战国时期小地主阶级的思想。",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0132"
+      ],
+      "rationale": "机械错字。"
+    },
+    {
+      "code": "2-2-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③“唯夫与天地之剖判也具生，至天地之消散也不死不衰者谓常。而常者，无攸易，无定理。无定理，非在于常所，是以不可道也。圣人观其玄虚，用其周行，强字之曰‘道’，然而可论。故曰‘道可道，非常道’。”：只有从天地开辟到天地消散都不改变的是本体性力量(即太一生水中的水)，这种常在的本体性力量是不会有变化，没有额外的规定性的约束这种力量，这种力量也没有空间化的结构，所以是不能被言说的。圣人通过观察它的结构，使用其中的机制，强行把这种本体性的力量称为“道”，所以说“道可道，非常道”。",
+      "after": "③“唯夫与天地之剖判也具生，至天地之消散也不死不衰者谓常。而常者，无攸易，无定理。无定理，非在于常所，是以不可道也。圣人观其玄虚，用其周行，强字之曰‘道’，然而可论。故曰‘道可道，非常道’。”：只有从天地开辟到天地消散都不改变的是本体性力量(即太一生水中的水)，按讲者的后续限定，这种常在的本体性力量不受转瞬即逝的变化支配，没有额外的规定性的约束这种力量，这种力量也没有空间化的结构，所以是不能被言说的。圣人通过观察它的结构，使用其中的机制，强行把这种本体性的力量称为“道”，所以说“道可道，非常道”。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0133"
+      ],
+      "rationale": "Page27对无攸易作进一步限定，避免与整讲道作为转化力量的说明冲突。"
+    },
+    {
+      "code": "2-2-2-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④有为与无为的界限是不确定的，刻意追求无为也就是一种有为，而神秘主义的修行也是华而不实的，真正要追求的是虚而不常的境界，不必太关注伦理维度，所有伦理道德只是一种可操作可消耗的资源，这些心法要为实用目的服务。",
+      "after": "④在本讲解释中，有为与无为的界限不能固定，刻意追求无为也会受制于无为；应当“不以无为为有常”，不固执于虚。韩非批评只追求前识的修行华而不实。讲者在下一讲进一步把这一走向解释为将道德当作可操作、可消耗的资源，使相关心法服务于实用目的。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0133",
+        "m2-0134"
+      ],
+      "rationale": "原典不以无为为有常纠正压缩错引；道德资源化在下一讲有直接解释，保留为讲者评价。"
+    },
+    {
+      "code": "2-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①关于生成性：\n\t佛教哲学：无生(一切都是虚假的)\n\t道家哲学：生(太一生水)\n\t超验主义：生生(生成性的生成)",
+      "after": "①讲者关于生成性的比较：\n\t佛教哲学：无生(反思并否定将生成视为自明的实体性过程)\n\t道家哲学：生(太一生水)\n\t超验主义：生生(生成性的生成)",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0134",
+        "m2-0135"
+      ],
+      "rationale": "row135解释无生为生成的概念性判断问题，原括注一切虚假过度扩大。"
+    },
+    {
+      "code": "2-2-3-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②以《周易》为范本，周易中的阳爻和阴爻针对的是时间性，阳爻是连同的，代表时间的畅通无阻，阴爻是断开的，代表时间性被中断、阻塞，这种中断代表时间被实体化所迟滞。",
+      "after": "②以《周易》为范本，周易中的阳爻和阴爻针对的是时间性，阳爻是连通的，代表时间的畅通无阻，阴爻是断开的，代表时间性被中断、阻塞，这种中断代表时间被实体化所迟滞。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0135"
+      ],
+      "rationale": "爻线连通与中断相对，机械词误。"
+    },
+    {
+      "code": "2-2-3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③周易的八卦不是指具体的自然物，而是阴(生的力量、阻滞)和阳(灭的力量、催灭)对于天(开放性)、人(意识)、地(封闭性)的不同组合产生的不同时间性样态，而六十四卦是八卦的叠加，从初爻到上爻的六爻代表时间性的六个阶段，分别是：开、初、形、新、成、终。",
+      "after": "③周易的八卦不是指具体的自然物，而是阴(生的力量、阻滞)和阳(灭的力量、催灭)对于天(开放性)、人(意识)、地(封闭性)的不同组合产生的不同时间性样态，而六十四卦是八卦的叠加，从初爻到上爻的六爻代表时间性的六个阶段，按讲者的解释分别是：开始、初生、大成、新位面、成功、终极。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0135"
+      ],
+      "rationale": "采用L175明确列出的完整词组，避免形/成压缩及不稳定口诀误导。"
+    },
+    {
+      "code": "2-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②二元对立的基本形态是主客对立，在场域论上是去客体化与去主体化的对立，在本体论上是客体化与主体化的对立，其中已经预设了主体不能去主体化且客体不能去客体化，既然如此，那么去主体化和去实体化都是不可能的，由此就发现了这组二元对立的破解点。",
+      "after": "②二元对立的基本形态是主客对立，在场域论上是去客体化与去主体化的对立，在本体论上是客体化与主体化的对立，其中已经预设了主体不能去主体化且客体不能去客体化，这些预设使主客二元论无法解释去主体化、去客体化运动本身如何实现，由此暴露出这组对立的限制。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0139"
+      ],
+      "rationale": "L34–42讨论模型预设未反思自身运动，不能改写为这些运动实际不可能。"
+    },
+    {
+      "code": "2-2-4-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③对世界的任何符号化的把握都是错的(因此也就都是对的)，总之任何符号化的尝试都是没有用的，唯一重要的是要有伦理热忱。",
+      "after": "③按讲者的解读，《中论》以否定性的论证破除对世界的固定符号化把握；但“一切符号化把握都错”这一说法本身也仍是符号化尝试。讲者把离苦的伦理热忱视为这条路径保留的核心目的。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0140"
+      ],
+      "rationale": "去掉把全称否定直接变全称肯定的摘要跳步，保留讲者自指批评及伦理目的。"
+    },
+    {
+      "code": "2-2-4-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 (Vita/Vie)与神圣(Divine)的对立",
+      "after": "本体论2 生命(Vita/Vie)与神圣(Divine)的对立",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0141"
+      ],
+      "rationale": "补回正文生命术语。"
+    },
+    {
+      "code": "2-2-4-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③上帝是他者之他者，人对上帝的认识就是上帝对自己的认识，人对上帝的告解就是上帝对人的宽恕，这就克服了人与人间有限的他者性，只需要对上帝进行告解，而不用向人寻求宽恕。",
+      "after": "③在讲者的解释中，上帝是他者之他者，人对上帝的认识就是上帝对自己的认识，人对上帝的告解就是上帝对人的宽恕。讲者以此区分神圣者的无限他者性与邻人的有限他者性；人与人之间的宽恕仍须当事人忏悔并获得对方原谅，不能用向上帝告解来替代。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0141"
+      ],
+      "rationale": "P7/P9明确需要他人原谅，原摘要相反。"
+    },
+    {
+      "code": "2-2-4-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 托洛茨基(公共的真理)与野兰花(私人的真理)的二分",
+      "after": "本体论2 托洛茨基(公共的真诚)与野兰花(私人的真理)的二分",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0142"
+      ],
+      "rationale": "P10将Trotsky公共一侧明确写作真诚。"
+    },
+    {
+      "code": "2-2-4-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③反对伦理驱动的主体化(2-2-4-1)，也反对伦理驱动的去主体化(2-2-4-2)，共同体的伦理建立在统一的本体论基础上是不可能的，每个人的本体论预设和真理都是内部的，没有所谓公共的客观中立的本体论基础，所以共同体的伦理学只能去本体论化。推崇开放包容的伦理学，但同时又有一种共通的伦理直觉贯穿不同主体的私人伦理空间，由此可以构建出共同体的伦理热忱。",
+      "after": "③反对从私人的本体论推出强制他人的伦理戒律，也反对把绝对伦理标准再本体化，共同体的伦理建立在统一的本体论基础上是不可能的，每个人的本体论预设和真理都是内部的，没有所谓公共的客观中立的本体论基础，所以共同体的伦理学只能去本体论化。推崇开放包容的伦理学，但同时又有一种共通的伦理直觉贯穿不同主体的私人伦理空间，由此可以构建出共同体的伦理热忱。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0142"
+      ],
+      "rationale": "P15–17讨论本体论基础和伦理本体化，改掉主体化混用并避免把两条伦理机械对号。"
+    },
+    {
+      "code": "2-2-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②对其中记载的惠施的思想的解读：\n(1)“至大无外，谓之大一；至小无内，谓之小一。无厚，不可积也，其大千里。”：大到没有外部是大一，小到没有内部的是小一，这二者指的就是空间，唯有空间是无边界性的，空间没有厚度不能累积，但它是最大的。由此说明原始的空间关系是一对概念相互依赖的。\n(2)“天与地卑，山与泽平。”：高与低、平与突的概念是由天与地、山与泽的差异产生的，在天地的差异产生出高低的概念的瞬间，天地并没有被分配谁高谁低，它们的高低属性是在这个概念产生后回溯性指派的。由此说明平等的抽象空间关系是相互依赖的。\n(3)“日方中方睨，物方生方死。”：太阳处在正中间的状态只有通过想象它再移动一点就睨(歪斜)才能被设立，物体活跃起来(自我驱动而不是按照被外部规定好的运动模式运动)的状态，只有通过想象它们完全按照外部规定的路线进行运动的僵死的运动状态才能被设立，所以“中”和“生”是由“睨”和“死”通过差异二阶抽象出来的，通过这种符号学想象就引入了时间的维度。由此说明一种不平等的分为一阶和二阶的抽象关系也是相互依赖的。\n(4)“大同而与小同异，此之谓小同异；万物毕同毕异，此之谓大同异。”：事物在大的方面相同和在小的方面相同这两种相同是不一样的，它们之间有层级关系，这种分层级的同一性称为小同异；而万物归根到底既是相同的又是相异的，这种同一性与差异性的相互依赖关系称为大同异。在小同异中同一性的层级的差异也是相互依赖的，正如大同异中同一性与差异性是相互依赖的，所以万物是毕同毕异的。\n(5)“南方无穷而有穷。”：南的方向性必须是无穷的，如果它是有穷的那么在这个有穷点以北的都是北方，那么南北的分界就不是绝对的了，但即使南的方向性是无穷的，我们也可以自由设定原点，以此划定南北方向的界线。\n(6)“今日适越而昔来。”：一个人今天到越国去他昨天就已经到达了，说明现在与过去的时间性差异与人的主体性姿态是密切相关的，一个人要到越国去，这种主体性姿态反过来追加了现在这个时间性，同理一个人处于已经到达的姿态，这种主体性姿态反过来追加了过去这个时间性，这种时态的转化是由主体在实践中完成的。\n(7)“连环可解也。”：上述由(1)至(6)中包含的平等的和不平等的空间性关系、同层级和不同层级的抽象概念的关系、今昔的时间性关系和主体性姿态是一个连环，是彼此依赖的符号学拟质，是一个能指链，而能指链是可以被断开的。\n(8)“我知天下之中央，燕之北、越之南是也。”：主体可以设立空间中心的衡量点和空间体系的方向性，并把方向性这个一阶的空间性和空间中心这个二阶的空间性(因为中只能通过睨二阶的把握)作为一整个体系去加以把握(我知)，说明主体当下的第一人称体验具有优先性，可以设立所有规范性和有效性。\n(9)“卵有毛。鸡三足。郢有天下。犬可以为羊。马有卵。丁子有尾。火不热。山出口。轮不蹍地。目不见。指不至，至不绝。龟长于蛇。矩不方，规不可以为圆。凿不围枘。飞鸟之景未尝动也。镞矢之疾，而有不行、不止之时。狗非犬。黄马骊牛三。白狗黑。孤驹未尝有母。一尺之棰，日取其半，万世不竭。”：因为能指链被解开，所以任何表述都能获得逻辑上的连贯性，各种可被指称的东西之间的差异都是平等的，比如火并不与热相关联，火与热的差异并不小于火与冷的差异，这种差异并不是概念上的而是能指意义上的(狗和犬是一个概念但不是同一个能指)，这种差异就代表了留给主体性的解释空间，通过这种方法可以对所有看上去不符合日常认知的观点进行辩论。",
+      "after": "②以下是讲者对《天下》所载惠施十事及辩者命题的现象学、符号学解读：\n(1)“至大无外，谓之大一；至小无内，谓之小一。无厚，不可积也，其大千里。”：大到没有外部是大一，小到没有内部的是小一，这二者指的就是空间，唯有空间是无边界性的，空间没有厚度不能累积，但它是最大的。由此说明原始的空间关系是一对概念相互依赖的。\n(2)“天与地卑，山与泽平。”：高与低、平与突的概念是由天与地、山与泽的差异产生的，在天地的差异产生出高低的概念的瞬间，天地并没有被分配谁高谁低，它们的高低属性是在这个概念产生后回溯性指派的。由此说明平等的抽象空间关系是相互依赖的。\n(3)“日方中方睨，物方生方死。”：太阳处在正中间的状态只有通过想象它再移动一点就睨(歪斜)才能被设立，物体活跃起来(自我驱动而不是按照被外部规定好的运动模式运动)的状态，只有通过想象它们完全按照外部规定的路线进行运动的僵死的运动状态才能被设立，所以“中”和“生”是由“睨”和“死”通过差异二阶抽象出来的，通过这种符号学想象就引入了时间的维度。由此说明一种不平等的分为一阶和二阶的抽象关系也是相互依赖的。\n(4)“大同而与小同异，此之谓小同异；万物毕同毕异，此之谓大同异。”：事物在大的方面相同和在小的方面相同这两种相同是不一样的，它们之间有层级关系，这种分层级的同一性称为小同异；而万物归根到底既是相同的又是相异的，这种同一性与差异性的相互依赖关系称为大同异。在小同异中同一性的层级的差异也是相互依赖的，正如大同异中同一性与差异性是相互依赖的，所以万物是毕同毕异的。\n(5)“南方无穷而有穷。”：南的方向性必须是无穷的，如果它是有穷的那么在这个有穷点以北的都是北方，那么南北的分界就不是绝对的了，但即使南的方向性是无穷的，我们也可以自由设定原点，以此划定南北方向的界线。\n(6)“今日适越而昔来。”：一个人今天到越国去他昨天就已经到达了，说明现在与过去的时间性差异与人的主体性姿态是密切相关的，一个人要到越国去，这种主体性姿态反过来追加了现在这个时间性，同理一个人处于已经到达的姿态，这种主体性姿态反过来追加了过去这个时间性，这种时态的转化是由主体在实践中完成的。\n(7)“连环可解也。”：上述由(1)至(6)中包含的平等的和不平等的空间性关系、同层级和不同层级的抽象概念的关系、今昔的时间性关系和主体性姿态是一个连环，是彼此依赖的符号学拟制，是一个能指链，而能指链是可以被断开的。\n(8)“我知天下之中央，燕之北、越之南是也。”：主体可以设立空间中心的衡量点和空间体系的方向性，并把方向性这个一阶的空间性和空间中心这个二阶的空间性(因为中只能通过睨二阶的把握)作为一整个体系去加以把握(我知)，说明主体当下的第一人称体验具有优先性，可以设立这里空间坐标及其衡量规则的有效性。\n(9)“卵有毛。鸡三足。郢有天下。犬可以为羊。马有卵。丁子有尾。火不热。山出口。轮不蹍地。目不见。指不至，至不绝。龟长于蛇。矩不方，规不可以为圆。凿不围枘。飞鸟之景未尝动也。镞矢之疾，而有不行、不止之时。狗非犬。黄马骊牛三。白狗黑。孤驹未尝有母。一尺之棰，日取其半，万世不竭。”：因为能指链被解开，所以任何表述都能获得逻辑上的连贯性，各种可被指称的东西之间的差异都是平等的，比如火并不与热相关联，火与热的差异并不小于火与冷的差异，这种差异并不是概念上的而是能指意义上的(狗和犬是一个概念但不是同一个能指)，这种差异就代表了留给主体性的解释空间，通过这种方法可以对所有看上去不符合日常认知的观点进行辩论。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0143"
+      ],
+      "rationale": "现代框架归属讲者；修拟制；限定我知论证的空间规范范围，避免从空间扩成一切规范。"
+    }
+  ]
+}

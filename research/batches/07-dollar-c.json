@@ -1,0 +1,359 @@
+{
+  "batch": "07-dollar-c",
+  "checked_on": "2026-11-13",
+  "scope": "公开ASR文本的有定位课程摘要，未核听原音。",
+  "sources": [
+    {
+      "id": "d07-BV12r4y1Y7Hs",
+      "title": "【主义主义】本质（$-1-3）——所谓“表象背后的东西”（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV12r4y1Y7Hs__fe7a5c7180.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–47，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–47",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "18063c4b8d67fcff90be391601461e2d018ec939dda2fe61b0c7da016911e220",
+      "git_blob_sha": "863da93b3164c67a53786161f8e966613d325aff",
+      "upstream_path": "corpus/bilibili-asr/BV12r4y1Y7Hs__fe7a5c7180.txt"
+    },
+    {
+      "id": "d07-BV1a44y1L7Nh",
+      "title": "【主义主义】闪光（$-1-3-1）——所谓本质，不过是作为闪光的闪光（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1a44y1L7Nh__646bd042b9.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–72，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–72",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "41cf99c22bda6761b4762ff4e2a870c8774b90104b0d47f5e58ea5a4311c6d35",
+      "git_blob_sha": "55d6bae67b3a45ffff51845d0c440ef02d179e22",
+      "upstream_path": "corpus/bilibili-asr/BV1a44y1L7Nh__646bd042b9.txt"
+    },
+    {
+      "id": "d07-BV15u41117hx",
+      "title": "【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路，让本质得以发生的纯粹反思机制（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV15u41117hx__c35b6aa007.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–84，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–84",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "aefad59d072081bef443cac852a1da9167b3de961e306f4a53fe0983aaa837ac",
+      "git_blob_sha": "294b70dbd6bda239767597023c0b9b509c3c2f72",
+      "upstream_path": "corpus/bilibili-asr/BV15u41117hx__c35b6aa007.txt"
+    },
+    {
+      "id": "d07-BV1sL4y1t78t",
+      "title": "【主义主义】命题演绎的本质性（$-1-3-3）——命题逻辑中的“原初”逻辑形式的发生机制（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1sL4y1t78t__5ea5e30194.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–101，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–101",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "2addafacdac5a5fc2f4cd92e1b7f8371236e4efa7b5f5d8da1cff7b0d67b7a57",
+      "git_blob_sha": "55d69eeabedae550628a3ef8f51a2e3219d292d4",
+      "upstream_path": "corpus/bilibili-asr/BV1sL4y1t78t__5ea5e30194.txt"
+    },
+    {
+      "id": "d07-BV1EL411F7D9",
+      "title": "【主义主义】根据（$-1-3-4）——什么是“充足理由律”：普发本质权的因果网络编织者（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1EL411F7D9__c342664a71.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–45，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–45",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "5e9ffb45e2e870603b204637fa6e783ec2a74e122708d271cf5dd43765057ece",
+      "git_blob_sha": "01ca1446ccf6417cf60caefba84c341188b1ac83",
+      "upstream_path": "corpus/bilibili-asr/BV1EL411F7D9__c342664a71.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV12r4y1Y7Hs",
+      "series_code": "$-1-3",
+      "title": "【主义主义】本质（$-1-3）——所谓“表象背后的东西”",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本质被解释为一种设立与反思活动：它把直接存在降为短暂显现，又把自身设定为这些规定的真正根据。这不是在现象背后另添一个可以直接看见的物体。",
+          "source_ids": [
+            "d07-BV12r4y1Y7Hs"
+          ],
+          "locator": "L4–18"
+        },
+        {
+          "text": "“绝对否定的自我关联”和“从无到无”用来描述本质否定外在性、返回自身的机制。苹果的比喻帮助说明这种机制，不能取代《逻辑学》的推导。",
+          "source_ids": [
+            "d07-BV12r4y1Y7Hs"
+          ],
+          "locator": "L8–17、L27–34"
+        },
+        {
+          "text": "主讲认为本质仍需依附表象，尚未成为概念；后续将讨论它如何走向根据、实存及现象。课程自己的四格分配与黑格尔《逻辑学》本质论的篇章范围并不重合。",
+          "source_ids": [
+            "d07-BV12r4y1Y7Hs"
+          ],
+          "locator": "L18–25"
+        },
+        {
+          "text": "主讲明确把本质论与后续实存、现象研究之间的边界称为个人探索，并承认受到四格结构约束，不能把这个划分写成公认哲学史结论。",
+          "source_ids": [
+            "d07-BV12r4y1Y7Hs"
+          ],
+          "locator": "L20–24"
+        },
+        {
+          "text": "阅读建议明确指向英文版《逻辑学》的本质论部分，并要求结合前面的导论和存在论熟悉其用语；课程也借谢林的先验观念论进行比较。",
+          "source_ids": [
+            "d07-BV12r4y1Y7Hs"
+          ],
+          "locator": "L26、L43–47"
+        }
+      ],
+      "editorial_notes": [
+        "本讲确实推荐阅读《逻辑学》，但没有据此确认某一个网络译本或出版社版本。对“物自体学”、外在中介和超验意向性的说明保留为主讲的解释。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§807–813",
+          "reason": "直接对读本质作为有的真理及其否定运动。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1a44y1L7Nh",
+      "series_code": "$-1-3-1",
+      "title": "【主义主义】闪光（$-1-3-1）——所谓本质，不过是作为闪光的闪光",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "“闪光”对应 Schein，讨论存在在本质中的残余。课程先区分本质与非本质，再说明非本质的规定为何被理解为不能自行持存的显现。",
+          "source_ids": [
+            "d07-BV1a44y1L7Nh"
+          ],
+          "locator": "L1–12"
+        },
+        {
+          "text": "显现虽然直接呈现，却被理解为依靠本质不断维持。红苹果变色等例子用来展示这种经由中介的直接性，以及本质对现象独立性的否定。",
+          "source_ids": [
+            "d07-BV1a44y1L7Nh"
+          ],
+          "locator": "L13–25"
+        },
+        {
+          "text": "本质也不能脱离显现另行被把握；显现不断否认自身就是最终实在，这种否定活动构成了所谓本质。因而本质与闪光不是两个已经独立完成的实体。",
+          "source_ids": [
+            "d07-BV1a44y1L7Nh"
+          ],
+          "locator": "L26–40"
+        },
+        {
+          "text": "目的论说明落在自我关联的否定性：本质通过不断否定具体显现而维持自身的直接性和他者地位。课程以反复闪烁的灯光等比喻解释这一机制。",
+          "source_ids": [
+            "d07-BV1a44y1L7Nh"
+          ],
+          "locator": "L41–61"
+        },
+        {
+          "text": "末段进一步讨论本质如何被设立为超越性他者，并将本体论保持为本质发生学；主讲也当场更正了把认识论误说成本体论的口误。",
+          "source_ids": [
+            "d07-BV1a44y1L7Nh"
+          ],
+          "locator": "L62–72"
+        }
+      ],
+      "editorial_notes": [
+        "“闪光”是本课程对 Schein 的解释性译法，不宜与日常视觉闪光或后续 Erscheinung 混为一谈。与《中论》的比较是讲者类比，尚非原典相同论证的确认。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§818–830",
+          "reason": "核对Schein的本质内部地位，区别于后面的Erscheinung。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV15u41117hx",
+      "series_code": "$-1-3-2",
+      "title": "【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路，让本质得以发生的纯粹反思机制",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "“从无到无”指纯粹反思的运动。本讲主要重讲上一讲的闪光问题，尚未详细展开设定的、预设的和规定的反思。",
+          "source_ids": [
+            "d07-BV15u41117hx"
+          ],
+          "locator": "L1–3、L64"
+        },
+        {
+          "text": "苹果的颜色、形状和滋味都不能单独代表苹果本身；课程把每一显现对自身独立性的否认，解释为让人设想背后持存本质的条件。",
+          "source_ids": [
+            "d07-BV15u41117hx"
+          ],
+          "locator": "L4–25"
+        },
+        {
+          "text": "显现的自我否定与本质对显现的否定，在讲解中被揭示为同一活动的两个位置。本质不是附在这些显现之外的另一种载体。",
+          "source_ids": [
+            "d07-BV15u41117hx"
+          ],
+          "locator": "L26–39"
+        },
+        {
+          "text": "这一否定活动又必须否定自身的固定化，不能停在一个封闭对象上；它通过不断超出具体规定而返回自身，形成看似持存的本质。",
+          "source_ids": [
+            "d07-BV15u41117hx"
+          ],
+          "locator": "L40–63"
+        },
+        {
+          "text": "课程以这种运动解释认识上的他我区分及超越性他者，并把目的论2放在显现中的否定与返回自身的否定之间。",
+          "source_ids": [
+            "d07-BV15u41117hx"
+          ],
+          "locator": "L65–84"
+        }
+      ],
+      "editorial_notes": [
+        "苹果、圆圈与人物情境都是讲解反思运动的比喻，不作为心理学或经验世界的独立证据。ASR有明显重复及同音误识，正文为按语境重述。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-reflection",
+          "relation": "editorial_reading",
+          "locator": "§833–859",
+          "reason": "对读从无到无与设定、外在、规定反思三种形式。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1sL4y1t78t",
+      "series_code": "$-1-3-3",
+      "title": "【主义主义】命题演绎的本质性（$-1-3-3）——命题逻辑中的“原初”逻辑形式的发生机制",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲把同一、差别、殊异、对立和矛盾作为反思所产生的本质性来讨论，而不是把它们当成互不相干、无需说明的逻辑起点。主讲的发生顺序也不完全沿用书面章次。",
+          "source_ids": [
+            "d07-BV1sL4y1t78t"
+          ],
+          "locator": "L1–9"
+        },
+        {
+          "text": "同一包含排除差别并返回自身的活动；差别也包含同一与差别两个环节。讲解借内在反思与外在反思的区别，说明同一和差别如何被不同地凸显。",
+          "source_ids": [
+            "d07-BV1sL4y1t78t"
+          ],
+          "locator": "L10–33"
+        },
+        {
+          "text": "对立双方各自包含同一与差别，不能简单化成一方只有同一、另一方只有差别。进一步的矛盾在于双方都试图排除对方，却又依赖对方来规定自身。",
+          "source_ids": [
+            "d07-BV1sL4y1t78t"
+          ],
+          "locator": "L34–56"
+        },
+        {
+          "text": "课程用观念论与实在论的相互依赖说明矛盾如何通向根据：根据需要容纳双方的关系，不能只是漠然站在旁边的第三者。",
+          "source_ids": [
+            "d07-BV1sL4y1t78t"
+          ],
+          "locator": "L57–75"
+        },
+        {
+          "text": "本质在规定的反思中形成相对稳定的逻辑形式；主讲将其解释为形式逻辑有效性的发生学，但明确说拓扑化只是比喻，并对这一发生学是否充分保持疑问。",
+          "source_ids": [
+            "d07-BV1sL4y1t78t"
+          ],
+          "locator": "L76–101"
+        }
+      ],
+      "editorial_notes": [
+        "“命题演绎”是课程标题和解释框架，不等于现代命题逻辑的形式证明。末尾关于阶级矛盾与先验语法的关系是主讲进一步提出的批判性思路。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-identity",
+          "relation": "editorial_reading",
+          "locator": "§862–881",
+          "reason": "对读把反思规定写成思维规律的局限和抽象同一批判；此关联未覆盖全章矛盾论。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1EL411F7D9",
+      "series_code": "$-1-3-4",
+      "title": "【主义主义】根据（$-1-3-4）——什么是“充足理由律”：普发本质权的因果网络编织者",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "根据被解释为本质中介关系的扩展：解释不再只在一个事物内部绕行，而指向使这一事物及其结果得以发生的其他关系。主讲借因果链作入门比喻。",
+          "source_ids": [
+            "d07-BV1EL411F7D9"
+          ],
+          "locator": "L1–18"
+        },
+        {
+          "text": "单纯宣称每件事都有道理容易沦为形式上的辩护；根据必须进一步面对条件，说明哪些条件出现或缺席时，结果如何发生或不发生。",
+          "source_ids": [
+            "d07-BV1EL411F7D9"
+          ],
+          "locator": "L19–23"
+        },
+        {
+          "text": "根据依赖条件的实存才能起作用，实存又由根据关系加以把握。目的论4因此被说明为普遍条件性，揭露根据并非无需中介的独立力量。",
+          "source_ids": [
+            "d07-BV1EL411F7D9"
+          ],
+          "locator": "L24–29、L36–39"
+        },
+        {
+          "text": "认识论3以充足根据律组织解释网络。课程把这一原则同经验科学寻找条件和理由的工作联系起来，同时区别这种知识原则与此前的形式逻辑规定。",
+          "source_ids": [
+            "d07-BV1EL411F7D9"
+          ],
+          "locator": "L29–35"
+        },
+        {
+          "text": "结尾强调根据也有自己的发生和中介过程；若只不停追问背后的更强根据，却不反思这种关系，便停留在层层后退的解释网络中。",
+          "source_ids": [
+            "d07-BV1EL411F7D9"
+          ],
+          "locator": "L40–45"
+        }
+      ],
+      "editorial_notes": [
+        "主讲在此借因果性解释根据；《逻辑学》的因果关系另有后续章节，阅读时不能把 Grund 与 Ursache 无条件等同。鸡鸣等例子为说明关系所用，未作因果实验验证。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§1034–1039",
+          "reason": "从根据与条件向实存的过渡反查课程根据论，留意根据自身的消退。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}

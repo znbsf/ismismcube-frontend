@@ -1,0 +1,80 @@
+{
+  "batch": "05-axis-3434",
+  "checked_on": "2026-11-13",
+  "scope": "补3-4-3-4缺失的目的论轴；实际核读固定commit社区编纂正文Page 27–35（L87–111）。Page 32 L102明确给出目的论词组，解释性后半句据相邻论证概括，非按编号推演。未核原音或板书图。",
+  "sources": [
+    {
+      "id": "a3434-0270",
+      "title": "未明子 3-4-3-4 局部的总体主义：目的论段（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page 27–35的段落L87、L90、L93、L96、L99、L102、L105、L108、L111，另检索目的论关键词。Page 32 L102直接说目的论写不可导、不可微、没有方向性、无方向性；后文是讲者对利奥塔的批评。未回听原音，未核对视频板书；L116起的下一讲3-4-4未用于此轴。",
+      "locator": "Page 27–35，L87–111；直接轴定义Page 32，L102",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "8951576b8b1c5ae77e4542779507065bc43595fdcb67c85ad842fd9e822e15d0",
+      "git_blob_sha": "1fe36aec4ec477d741e8fc077805035afe5a24ab",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-4_局部的总体主义/0270_3-4-3-4_局部的总体主义_p7043.md"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4-3-4",
+      "evidence_level": "community_transcript_explicit_axis_text",
+      "review_status": {
+        "scope": "仅补原始axis_list缺失的末项；目的论相关编纂段落已核读",
+        "audio_check": "not_performed",
+        "board_image_check": "not_performed",
+        "human_approval": false
+      },
+      "course_summary": [],
+      "axis_explanations": [
+        {
+          "axis_index": 3,
+          "text": "目的论4：不可导、不可微、无方向性——本讲以取消永恒轮回的最低本体论预设说明：主体不能再通过最小差异把握历史方向，只能面对持续的异质话语与叙事冲突",
+          "source_ids": [
+            "a3434-0270"
+          ],
+          "locator": "Page 30–32，L96、L99、L102；Page 33，L105",
+          "derivation": "不可导、不可微、无方向性是编纂文本直接标出的目的论词组；破折号后的句子是对讲者相邻论证的摘要。"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "这里的不可导、不可微是讲者解释利奥塔历史观时使用的数学比喻：他把主体与最小差异的联结中断，与否定永恒轮回的最低本体论预设相联系。它并非已核实的利奥塔原著四轴自我分类，也不能据此断言微分学作为数学理论失效。",
+          "source_ids": [
+            "a3434-0270"
+          ],
+          "locator": "Page 30–33，L96、L99、L102、L105"
+        }
+      ],
+      "open_questions": [
+        "原视频板书的确切排版及原音措辞尚未核；本轴关键词已有直接编纂文本依据。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-3-4",
+      "field_path": [
+        "axis_list"
+      ],
+      "before": [
+        "场域论3：叙事(Narrative)调和结构(共时性/系统)与历史(历时性/事件)的对立",
+        "本体论4：极端的视角主义——不存在元叙事，一切叙事都只是视角，连永恒轮回这一最小公共叙事也被抛弃",
+        "认识论3：悖论主义(Paralogism)调和真理/知识(总体化)与神话/叙事(局域化)的对立——通过科学中的悖论(冲突话语共存)来协调"
+      ],
+      "after": [
+        "场域论3：叙事(Narrative)调和结构(共时性/系统)与历史(历时性/事件)的对立",
+        "本体论4：极端的视角主义——不存在元叙事，一切叙事都只是视角，连永恒轮回这一最小公共叙事也被抛弃",
+        "认识论3：悖论主义(Paralogism)调和真理/知识(总体化)与神话/叙事(局域化)的对立——通过科学中的悖论(冲突话语共存)来协调",
+        "目的论4：不可导、不可微、无方向性——本讲以取消永恒轮回的最低本体论预设说明：主体不能再通过最小差异把握历史方向，只能面对持续的异质话语与叙事冲突"
+      ],
+      "kind": "missing_axis",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a3434-0270"
+      ],
+      "rationale": "现有axis_list长度为3，缺失目的论整项。Page 32 L102明确标出目的论的不可导、不可微、无方向性，且Page 27 L87起进入目的论、Page 30–33说明其论证。仅在该路径为数组末尾且不存在时追加，不替换既有三轴；文本后半为有定位的概括。"
+    }
+  ]
+}

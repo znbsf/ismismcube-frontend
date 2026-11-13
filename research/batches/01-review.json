@@ -1,0 +1,296 @@
+{
+  "batch": "01-review",
+  "checked_on": "2026-11-13",
+  "sources": [
+    {
+      "id": "r01-functional-note",
+      "title": "1-1-3-1 功能主义（遐思笔记）",
+      "url": "https://alephpi.github.io/note/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89/1-1-3-1%20%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89%EF%BC%88Functionalism%EF%BC%89",
+      "kind": "community_note",
+      "verification_scope": "阅读完整条目；非原音逐字稿，未验证作者转录准确性。",
+      "locator": "释读：认识论3及多重可实现性段落",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-functional-sep",
+      "title": "Functionalism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/functionalism/",
+      "kind": "scholarly_reference",
+      "verification_scope": "阅读导言和第1节；用于术语与学术语境对照，不用来判定课程忠实性。",
+      "locator": "§1 What is Functionalism?：mental states, causal roles, multiple realization",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-constructivism-video",
+      "title": "【主义主义】建构论（1-1-2）",
+      "url": "https://www.bilibili.com/video/BV1ef4y1w7Dn/",
+      "kind": "course_video_page",
+      "verification_scope": "核对页面标题；未播放或转录音频。",
+      "locator": "视频标题中的建构论（1-1-2）",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-early-course",
+      "title": "一分钟哲学课（2019年早期版本）",
+      "url": "https://www.bilibili.com/video/BV1cb411U7Gr/",
+      "kind": "course_video_page",
+      "verification_scope": "核对分集列表；未把标题视作完整讲解。",
+      "locator": "分集112建构主义",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-kant-cpr",
+      "title": "The Critique of Pure Reason — Meiklejohn 英译",
+      "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+      "kind": "primary_text_translation",
+      "verification_scope": "核对目录与先验辩证论导论关于immanent/transcendent/transcendental的局部段落；未通读。",
+      "locator": "Transcendental Dialectic, Introduction I, Of Transcendental Illusory Appearance；包含transcendental and transcendent are not identical terms的段落",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-kant-sep",
+      "title": "Kant’s Transcendental Idealism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/",
+      "kind": "scholarly_reference",
+      "verification_scope": "阅读导言和第一节开头及全篇目录；用于标识解释争论，不认为各解释已有唯一结论。",
+      "locator": "§1 Appearances and Things in Themselves；§6 Things in themselves, noumena, and the transcendental object",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-hegel-toc",
+      "title": "Hegel’s Science of Logic — Table of Contents",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm",
+      "kind": "primary_text_translation",
+      "verification_scope": "核对英文目录层级；未核对中译本底本和页码。",
+      "locator": "Being / Essence / Subjective Logic: The Doctrine of the Notion",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-hegel-note",
+      "title": "（3-2-4-1）黑格尔逻辑学逻辑本身 — 开源课程笔记",
+      "url": "https://github.com/bjwktcsnzh/vmz-ismism-note-repo/blob/master/%E7%AC%94%E8%AE%B0/%5B10406%5D%EF%BC%883-2-4-1%EF%BC%89%E9%BB%91%E6%A0%BC%E5%B0%94%E9%80%BB%E8%BE%91%E5%AD%A6%E9%80%BB%E8%BE%91%E6%9C%AC%E8%BA%AB.md",
+      "kind": "community_note",
+      "verification_scope": "阅读全文；笔记反复使用理念论，也出现概念论，不能视为经过原音校对。",
+      "locator": "逻辑学分；提醒；结尾加粗的三段结构",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-freud35",
+      "title": "Freud, Lecture XXXV: A Philosophy of Life",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm",
+      "kind": "primary_text_translation",
+      "verification_scope": "阅读开头关于精神分析、心理学及科学世界观的段落；未核对德文、译者和印本页码。",
+      "locator": "开头第3—4段：专门科学、心理学分支与接受科学世界观",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-freud-video",
+      "title": "【主义主义】经典的精神分析（3-4-4-2）",
+      "url": "https://www.bilibili.com/video/BV18Q4y1k7hi/",
+      "kind": "course_video_page",
+      "verification_scope": "核对标题与原课程关联；未取得原音转录。",
+      "locator": "标题：弗洛伊德引导的第一次精神分析运动",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r01-capitalism-video",
+      "title": "【主义主义】针对资本主义的精神分析（3-4-4-4）",
+      "url": "https://www.bilibili.com/video/BV1QA411F7ut/",
+      "kind": "course_video_page",
+      "verification_scope": "只核对视频标题，不足以证明当前AI摘要中的每项细节。",
+      "locator": "标题涉及无意识生产主客体、理论家与大学话语",
+      "checked_on": "2026-11-13"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1-1-3-1",
+      "evidence_level": "secondary_note_and_scholarly_comparison",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "原数据“理状态”缺“心”字。社区课程笔记的认识论一栏明确使用心理状态与多重实现性，学术综述也以mental state及其功能角色讨论多重实现。修订限于补字，不代表原条目其余评价已获学术认可。",
+          "source_ids": [
+            "r01-functional-note",
+            "r01-functional-sep"
+          ],
+          "locator": "课程笔记认识论3；SEP §1"
+        },
+        {
+          "text": "课程把功能主义描述为函数、算法和意识形态结构；心灵哲学的通行定义首先关注心理状态的因果角色。不同类型的功能主义不能被“所有东西都是数学函数”一句穷尽，应把课程解读与标准定义并列。",
+          "source_ids": [
+            "r01-functional-sep"
+          ],
+          "locator": "导言、§1、§3目录"
+        }
+      ],
+      "open_questions": [
+        "原视频的具体措辞和时间码仍待核听。"
+      ]
+    },
+    {
+      "code": "1-1-2",
+      "evidence_level": "course_title_checked",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "当前条目所链接的2021年视频题为“建构论”；2019年分集使用“建构主义”。以所链接讲次的名称作主名，保留建构主义为早期名、构建主义为上游数据旧名。",
+          "source_ids": [
+            "r01-constructivism-video",
+            "r01-early-course"
+          ],
+          "locator": "2021年视频标题；2019年分集112"
+        }
+      ],
+      "open_questions": [
+        "两版理论内容是否变化尚未逐讲比较。"
+      ]
+    },
+    {
+      "code": "3-2-1-1",
+      "evidence_level": "primary_passage_and_scholarly_comparison",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "应区分Transcendental与Transcendent。所读康德英译在先验辩证论导论明确区分两词，并将越出可能经验界限的原则称为transcendent。只把原字段括号内Transcendent对应的中文改为超验，保留其余课程结构待查。",
+          "source_ids": [
+            "r01-kant-cpr"
+          ],
+          "locator": "Transcendental Dialectic, Introduction I"
+        },
+        {
+          "text": "“物自体与上帝同一”不能作为未经限定的康德通说。现象/物自体、消极本体以及最高存在者的理念，应按各自论证语境区分。这里先补概念对照，未核对视频前不把这一问题归责为讲者错误或AI新增。",
+          "source_ids": [
+            "r01-kant-cpr",
+            "r01-kant-sep"
+          ],
+          "locator": "目录中的Phenomena and Noumena、The Ideal of Pure Reason；SEP §1及§6目录"
+        }
+      ],
+      "open_questions": [
+        "原视频是否明说物自体与上帝同一，或者使用了限制条件？",
+        "道德哲学与理论认识论是否被摘要混写？"
+      ]
+    },
+    {
+      "code": "3-2-4-1",
+      "evidence_level": "secondary_note_and_primary_toc_comparison",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "原典英文目录的三大部分是Being、Essence、Notion，通常对应存在论、本质论、概念论。现有课程笔记却反复写“理念论”，并以符号化的动力、机制、成果作解读。应保留课程用语，同时提供原典目录层级；不宜直接全局替换并宣称纠正了原讲。",
+          "source_ids": [
+            "r01-hegel-toc",
+            "r01-hegel-note"
+          ],
+          "locator": "英文目录大标题；课程笔记“逻辑学分”及结尾"
+        },
+        {
+          "text": "社区笔记同时出现“理念论”和“概念论”，说明待核问题包括译词与概念层级。原数据关于符号系统的解释属于课程阐释，不能直接当作黑格尔原文术语。",
+          "source_ids": [
+            "r01-hegel-note"
+          ],
+          "locator": "“提醒”段：存有在概念论中获得概念化把握"
+        }
+      ],
+      "open_questions": [
+        "原视频是否明确区分概念论与理念部分？",
+        "需确定实际中译本和原德文Begriff/Idee对应。"
+      ]
+    },
+    {
+      "code": "3-4-4-2",
+      "evidence_level": "primary_text_difference_identified_course_fidelity_pending",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。",
+          "source_ids": [
+            "r01-freud35",
+            "r01-freud-video"
+          ],
+          "locator": "Freud Lecture XXXV开头第3—4段；课程标题"
+        },
+        {
+          "text": "“不创造自己的完整世界观”不等于“不受任何科学立场约束”。弗洛伊德在同一段落批评封闭的整全世界观，同时明确保留科学研究立场；两点应一并阅读。",
+          "source_ids": [
+            "r01-freud35"
+          ],
+          "locator": "第3段scientific Weltanschauung及第4段研究心灵"
+        }
+      ],
+      "open_questions": [
+        "未取得3-4-4-2原讲转录，无法判断此表述是原讲观点还是AI摘要的扩大化。",
+        "梦的机制与“升华为显现方式”等论断仍需独立核对，不因本条对照而视作已审完。"
+      ]
+    },
+    {
+      "code": "3-4-4-4",
+      "evidence_level": "title_only_ai_claims_pending",
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。",
+          "source_ids": [
+            "r01-capitalism-video"
+          ],
+          "locator": "原视频完整标题"
+        }
+      ],
+      "open_questions": [
+        "需要原讲转录和具体段落，分别核对“社会关系不存在”、大学话语与分析师话语的论断。",
+        "需核实这些判断的主体、语境及是否带有反讽或限定。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "1-1-3-1",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3 理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)",
+      "after": "认识论3 心理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)",
+      "kind": "typographic_omission",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r01-functional-note",
+        "r01-functional-sep"
+      ],
+      "rationale": "只补缺失的心字；认识论同段术语在课程笔记和学术综述中均可核对，其他措辞不动。"
+    },
+    {
+      "code": "1-1-2",
+      "field_path": [
+        "ch_name"
+      ],
+      "before": "构建主义",
+      "after": "建构论",
+      "kind": "linked_course_title_alignment",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r01-constructivism-video",
+        "r01-early-course"
+      ],
+      "rationale": "主名采用当前原视频链接的标题；早期建构主义和上游旧名构建主义保留在附注中以支持回查。"
+    },
+    {
+      "code": "3-2-1-1",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2：被派生的先验框架(Transcendental)与本体性的先验的物自体(Transcendent)的对立",
+      "after": "本体论2：被派生的先验框架(Transcendental)与本体性的超验的物自体(Transcendent)的对立",
+      "kind": "bilingual_terminology_normalization",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r01-kant-cpr"
+      ],
+      "rationale": "保留英文及课程结构，只区别同句Transcendental/Transcendent的中文；这不是认可把物自体整体归为某种超验实体，也不解决上帝等同问题。"
+    }
+  ],
+  "scope": "6条局部复核，其中2条上游ai摘要。3条ready为限定的编辑修订；未核听原音，不代表完成整个条目哲学审定。",
+  "search_results_requested": 15
+}

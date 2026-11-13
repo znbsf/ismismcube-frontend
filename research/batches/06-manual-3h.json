@@ -1,0 +1,1169 @@
+{
+  "review_scope": "知识学及四子讲全部人工字段核对；现代符号学/现象学措辞均须保留课程归属。",
+  "sources": [
+    {
+      "id": "m3-0217",
+      "title": "0217_3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特_p5631",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9/0217_3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9_p5631.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特/0217_3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特_p5631.md",
+      "sha256": "b594f92387bd8cfe80ed8c6d10c0835e8af2b082d01186a116de549422264027",
+      "git_blob_sha": "d095ace9e9f9c548b1d7dbeef74193efc03faf37",
+      "locator": "Page1–20 L9–67；仅核本讲正文",
+      "verification_scope": "逐段核读Page1–20 L9–67；仅核本讲正文；未核原音与原典。"
+    },
+    {
+      "id": "m3-0218",
+      "title": "0218_3-2-2-1_理智直观主义_从先验主体性退回绝对整体主义_晚年费希特_怂了_p5651",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9/3-2-2-1_%E7%90%86%E6%99%BA%E7%9B%B4%E8%A7%82%E4%B8%BB%E4%B9%89_%E4%BB%8E%E5%85%88%E9%AA%8C%E4%B8%BB%E4%BD%93%E6%80%A7%E9%80%80%E5%9B%9E%E7%BB%9D%E5%AF%B9%E6%95%B4%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%99%9A%E5%B9%B4%E8%B4%B9%E5%B8%8C%E7%89%B9_%E6%80%82%E4%BA%86/0218_3-2-2-1_%E7%90%86%E6%99%BA%E7%9B%B4%E8%A7%82%E4%B8%BB%E4%B9%89_%E4%BB%8E%E5%85%88%E9%AA%8C%E4%B8%BB%E4%BD%93%E6%80%A7%E9%80%80%E5%9B%9E%E7%BB%9D%E5%AF%B9%E6%95%B4%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%99%9A%E5%B9%B4%E8%B4%B9%E5%B8%8C%E7%89%B9_%E6%80%82%E4%BA%86_p5651.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特/3-2-2-1_理智直观主义_从先验主体性退回绝对整体主义_晚年费希特_怂了/0218_3-2-2-1_理智直观主义_从先验主体性退回绝对整体主义_晚年费希特_怂了_p5651.md",
+      "sha256": "bb958d16d351abe1540b7ed3489d6f6eaa0896734b235b2f21debaae31ec1ace",
+      "git_blob_sha": "58dc28682ff95e5d6384385e613a18d12970b04e",
+      "locator": "Page1–23 L9–75；Page24起下一讲排除",
+      "verification_scope": "逐段核读Page1–23 L9–75；Page24起下一讲排除；未核原音与原典。"
+    },
+    {
+      "id": "m3-0219",
+      "title": "0219_3-2-2-2_先验观念论_不用再读康德了_读了谢林_25_岁写的这本书_直接上手观念论和辩证法吧_p5675",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9/3-2-2-2_%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%BB%E5%BA%B7%E5%BE%B7%E4%BA%86_%E8%AF%BB%E4%BA%86%E8%B0%A2%E6%9E%97_25_%E5%B2%81%E5%86%99%E7%9A%84%E8%BF%99%E6%9C%AC%E4%B9%A6_%E7%9B%B4%E6%8E%A5%E4%B8%8A%E6%89%8B%E8%A7%82%E5%BF%B5%E8%AE%BA%E5%92%8C%E8%BE%A9%E8%AF%81%E6%B3%95/0219_3-2-2-2_%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%B8%8D%E7%94%A8%E5%86%8D%E8%AF%BB%E5%BA%B7%E5%BE%B7%E4%BA%86_%E8%AF%BB%E4%BA%86%E8%B0%A2%E6%9E%97_25_%E5%B2%81%E5%86%99%E7%9A%84%E8%BF%99%E6%9C%AC%E4%B9%A6_%E7%9B%B4%E6%8E%A5%E4%B8%8A%E6%89%8B%E8%A7%82%E5%BF%B5%E8%AE%BA%E5%92%8C%E8%BE%A9%E8%AF%81%E6%B3%95%E5%90%A7_p5675.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特/3-2-2-2_先验观念论_不用再读康德了_读了谢林_25_岁写的这本书_直接上手观念论和辩证法/0219_3-2-2-2_先验观念论_不用再读康德了_读了谢林_25_岁写的这本书_直接上手观念论和辩证法吧_p5675.md",
+      "sha256": "dd708b0bf5a85731d38a19317084857e07a3397fd258865f4db0fb1c0384a7bd",
+      "git_blob_sha": "441fe607da550dd0f55c3af9554ccfc888c014c2",
+      "locator": "Page1–27 L9–101，L101仅至本讲结束，随后詹姆斯标题及正文排除",
+      "verification_scope": "逐段核读Page1–27 L9–101，L101仅至本讲结束，随后詹姆斯标题及正文排除；未核原音与原典。"
+    },
+    {
+      "id": "m3-0220",
+      "title": "0220_3-2-2-3_彻底的经验主义_最聪明的实用主义者威廉_詹姆斯_其实是一个平行进化的费希特主义者_p5702",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9/3-2-2-3_%E5%BD%BB%E5%BA%95%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%9C%80%E8%81%AA%E6%98%8E%E7%9A%84%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E8%80%85%E5%A8%81%E5%BB%89_%E8%A9%B9%E5%A7%86%E6%96%AF_%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B9%B3%E8%A1%8C%E8%BF%9B%E5%8C%96%E7%9A%84%E8%B4%B9%E5%B8%8C%E7%89%B9%E4%B8%BB%E4%B9%89%E8%80%85/0220_3-2-2-3_%E5%BD%BB%E5%BA%95%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%9C%80%E8%81%AA%E6%98%8E%E7%9A%84%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E8%80%85%E5%A8%81%E5%BB%89_%E8%A9%B9%E5%A7%86%E6%96%AF_%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B9%B3%E8%A1%8C%E8%BF%9B%E5%8C%96%E7%9A%84%E8%B4%B9%E5%B8%8C%E7%89%B9%E4%B8%BB%E4%B9%89%E8%80%85_p5702.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特/3-2-2-3_彻底的经验主义_最聪明的实用主义者威廉_詹姆斯_其实是一个平行进化的费希特主义者/0220_3-2-2-3_彻底的经验主义_最聪明的实用主义者威廉_詹姆斯_其实是一个平行进化的费希特主义者_p5702.md",
+      "sha256": "d802bb6fe41697a3e984c211adb1ad9aba0ad9201db837480a96d26fd129dcc6",
+      "git_blob_sha": "f70148fcfa8aaa583855b2896401173cd83b6ec9",
+      "locator": "Page1–30 L9–96；L102起下一讲排除",
+      "verification_scope": "逐段核读Page1–30 L9–96；L102起下一讲排除；未核原音与原典。"
+    },
+    {
+      "id": "m3-0221",
+      "title": "0221_3-2-2-4_唯我的实在论_现实主义_早期维特根斯坦的_逻辑哲学论_是费希特先验唯我论迟到的讣告_p5733",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-2_%E7%9F%A5%E8%AF%86%E5%AD%A6_%E6%88%91%E5%9C%A8%E6%95%85%E6%88%91%E5%9C%A8_%E8%BE%A9%E8%AF%81%E6%B3%95_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%92%8C%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E4%B8%89%E9%87%8D%E5%85%88%E9%A9%B1_%E8%B4%B9%E5%B8%8C%E7%89%B9/3-2-2-4_%E5%94%AF%E6%88%91%E7%9A%84%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E6%97%A9%E6%9C%9F%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E7%9A%84_%E9%80%BB%E8%BE%91%E5%93%B2%E5%AD%A6%E8%AE%BA_%E6%98%AF%E8%B4%B9%E5%B8%8C%E7%89%B9%E5%85%88%E9%AA%8C%E5%94%AF%E6%88%91%E8%AE%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E8%AE%A3/0221_3-2-2-4_%E5%94%AF%E6%88%91%E7%9A%84%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E6%97%A9%E6%9C%9F%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E7%9A%84_%E9%80%BB%E8%BE%91%E5%93%B2%E5%AD%A6%E8%AE%BA_%E6%98%AF%E8%B4%B9%E5%B8%8C%E7%89%B9%E5%85%88%E9%AA%8C%E5%94%AF%E6%88%91%E8%AE%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E8%AE%A3%E5%91%8A_p5733.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-2_知识学_我在故我在_辩证法_现象学和存在主义的三重先驱_费希特/3-2-2-4_唯我的实在论_现实主义_早期维特根斯坦的_逻辑哲学论_是费希特先验唯我论迟到的讣/0221_3-2-2-4_唯我的实在论_现实主义_早期维特根斯坦的_逻辑哲学论_是费希特先验唯我论迟到的讣告_p5733.md",
+      "sha256": "416c490c81ad5d43627def6b8e52260a4339d97773e469aa82e5a01cef3642ac",
+      "git_blob_sha": "ec4b879e88d32568dd161dfa17a69402bc0eeda8",
+      "locator": "Page1–22 L9–72；Page23下一讲排除",
+      "verification_scope": "逐段核读Page1–22 L9–72；Page23下一讲排除；未核原音与原典。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "逐字段拆分命题比对；不以讲稿证明学术史事实。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "以分割和命题形式逻辑研究发生机制，而非意向性。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "原文明确声明使用现代术语，并以胡塞尔作比较。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page1 L9；Page17–18 L58–61"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "先暂用逻辑再由知识学说明逻辑结构。",
+          "status": "supported_course_statement",
+          "finding": "Page3明说循环论证及形式/内容关系，不是完全不用逻辑。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page3–4 L16–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "自我设立其存在，超因果的原初行动开启符号空间。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page8–9这样解释我在故我在；符号学是课程说明语汇。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page8–9 L31–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "可拟制圆的方、黑的白。",
+          "status": "supported_with_scope_limit",
+          "finding": "圆的方例子明确，黑的白是同型编辑例子；拟制符号位置不等于现实造出矛盾对象。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page8 L31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "自我同时就是非我，以可分性等活动克服分裂。",
+          "status": "needs_precision",
+          "finding": "讲稿区分设立者与被设立者，再由量/可分性统合；不能把自我=非我当无条件同一公式。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page6 L25；Page10–11 L37–40"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "知识学科学之科学，必然底层结构与自由假说之别。",
+          "status": "supported_course_statement",
+          "finding": "全讲反复明说；是费希特课程框架而非当代科学定义。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page2–4 L13–19；Page15–17 L52–58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "底层意识结构也是本体论结构。",
+          "status": "supported_course_statement",
+          "finding": "Page2和4直接说明。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page2–4 L13–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "绝对主体中介直接存在与反思理念。",
+          "status": "supported_course_statement",
+          "finding": "场域明确。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page12 L43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "自我分裂=自我等于非我，对立绝对活动。",
+          "status": "needs_precision",
+          "finding": "本讲轴实际是设立活动的产物一侧与主动活动一侧，不是取消自我非我区别。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page7 L28；Page14–15 L49–52"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "知识学与科学对立。",
+          "status": "supported_course_statement",
+          "finding": "必然构成条件与自由假说实验区分。",
+          "source_ids": [
+            "m3-0217"
+          ],
+          "locator": "Page15–17 L52–58"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。"
+      ]
+    },
+    {
+      "code": "3-2-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐字段拆分命题比对；不以讲稿证明学术史事实。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "晚年由自我设立退回绝对者自我直观。",
+          "status": "supported_course_evaluation",
+          "finding": "本讲这样定位并称为倒退，保守是讲者评价。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "未把握实体内在不一致导致主体化。",
+          "status": "supported_course_evaluation",
+          "finding": "这是讲者借黑格尔、谢林和齐泽克所提出的反驳，并非费希特承认的前提。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page2–3 L12–15；Page15–16 L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "自我及非我作为绝对者表象。",
+          "status": "supported_course_statement",
+          "finding": "Page12–14将先验自我解释成绝对者显现的视域。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page12–14 L42–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "绝对表象必须有非绝对表象作对照，主体就是对照面。",
+          "status": "supported_course_statement",
+          "finding": "具体区分绝对者的表象与该表象本身不是绝对者；非绝对者为有限自我。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page12–14 L42–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体理智直观就是绝对者显现方式和过程。",
+          "status": "needs_precision",
+          "finding": "有限主体只是见证、反射性的二手直观，讲稿不让其与绝对者的创造性直观无差别同一。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page14 L48；Page18–20 L60–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "目的论回归整体、保守闭合。",
+          "status": "supported_course_evaluation",
+          "finding": "明确目的论1，但保守是课程评判。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page20–23 L66–75"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "绝对者显现调和存在和本质。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；未核晚年各版知识学。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page16–17 L54–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "神圣原初存在与先验自我对立。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；未核晚年各版知识学。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page17–18 L57–60"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "完整的真直观与有限反思直观对立。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；未核晚年各版知识学。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page18–20 L60–66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "回归整体的闭合。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；未核晚年各版知识学。",
+          "source_ids": [
+            "m3-0218"
+          ],
+          "locator": "Page20–23 L66–75"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。"
+      ]
+    },
+    {
+      "code": "3-2-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐字段拆分命题比对；不以讲稿证明学术史事实。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "自然与人的创造力为同一精神，艺术解除意识限制。",
+          "status": "supported_course_statement",
+          "finding": "场域定义直接说明自然无限制、人类多重受限及艺术回归。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page9–10 L33–36；Page14 L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "内在意识与外在无意识智能，以及先验/自然哲学方向。",
+          "status": "needs_precision",
+          "finding": "Page4–5按生成方向称无意识到意识为主体发生；Page12–13按研究出发点称先验由思到在、自然由在到思，必须区分生成方向和研究方向。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page4–5 L18–21；Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "时间/空间，自我感觉观念艺术与磁电化学有机物人。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page7–8给出粗线条模型并明说漏环节；不是自然科学过程的实证断言。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "每一步由辩证原理中介。",
+          "status": "supported_course_statement",
+          "finding": "原文明确每个异质规定性的过渡需要中介命题。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page7–8 L27–30；Page11 L39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "绝对者超时间完成，个体如其回忆。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "原文说类似回忆，是解释性比喻。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page4 L18；Page16–17 L54–59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "一维表象为意识与他者均衡，进一步发展多维。",
+          "status": "supported_with_scope_limit",
+          "finding": "均衡点和角度说明见Page18–21；Page22–24明确加入讲者自认为较谢林更精细的中心化重构，不能全归谢林书中。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page18–24 L64–92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "智性努力迫使符号系统给出真相。",
+          "status": "supported_course_evaluation",
+          "finding": "这是讲者对方法的赞赏，不是实证确认发现世界真相。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page25 L95"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "命题仅为脚手架，非理性生成超出命题，谢林未充分认识。",
+          "status": "supported_course_evaluation",
+          "finding": "Page26限定至少这本书没有清楚说出，并承认他已体会到非理性生成。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page25–27 L95–101"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "意志精神调和实在论与观念论。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确选择此较深二分，非仅把自然/先验并列项当最终对立。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "自然心灵的运动与超时间绝对者二分。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确选择此较深二分，非仅把自然/先验并列项当最终对立。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page12 L42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "两类哲学共同的研究运动与原初审美创造力对立。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确选择此较深二分，非仅把自然/先验并列项当最终对立。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page13–14 L45–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "意识无意识双向运动。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确选择此较深二分，非仅把自然/先验并列项当最终对立。",
+          "source_ids": [
+            "m3-0219"
+          ],
+          "locator": "Page14–16 L48–54"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。"
+      ]
+    },
+    {
+      "code": "3-2-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐字段拆分命题比对；不以讲稿证明学术史事实。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "与现象学比较，经验结果和底层活动仍二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page1–3及10–11如此定位，是讲者的比较框架。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page1–3 L9–15；Page10–11 L36–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "纯粹经验作为去结构化调和。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page16–17以差不多相当于现象学还原作类比，而非詹姆斯使用胡塞尔方法的历史事实。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page16–17 L54–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "经验与观念平等，底层本能组织时空对象。",
+          "status": "supported_course_statement",
+          "finding": "关系本身也是经验；同时本讲保留生成活动与结果区别。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page3–6 L15–24；Page19 L63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "温柔/强硬气质对应理性主义/经验主义。",
+          "status": "supported_course_statement",
+          "finding": "Page18明确，Page19又说二者均可被经验主义纳入。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page18–19 L60–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "对象实在性通过实用的信用链维持，真理也是信用体系。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲稿多次以手机和月亮说明，并强调下意识愿望及习惯，不是每一步都显性计算。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page4–9 L18–33；Page20–23 L66–75"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "方向盘轮廓、轴心、握持度与回正扭矩例子。",
+          "status": "unsupported_in_checked_passage",
+          "finding": "完整核读Page1–30并定位例子；本讲用手机、月亮和记忆，未找到方向盘各技术细节。此可为编辑另举但未标明。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page4–9 L18–33；Page20–23 L66–75"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "所有事实经验平等，绝对者观念也为经验。",
+          "status": "supported_course_statement",
+          "finding": "Page24–25明确无经验单元具有绝对优先。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page24–25 L78–81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "绝对者就是对其经验性把握本身。",
+          "status": "needs_precision",
+          "finding": "Page26–28另区分整体经验场与其中绝对者观念这一部分；原摘要只保留后者。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page26–28 L84–90"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "纯粹经验中介结构化体验和生成活动。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确轴说明；马赛克整体/要素论是讲者的比较解读。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page15–17 L51–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "经验结果与底层无意识活动二分。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确轴说明；马赛克整体/要素论是讲者的比较解读。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page3 L15；Page10–11 L36–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "气质愿望与信用真理二分。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确轴说明；马赛克整体/要素论是讲者的比较解读。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page17–23 L57–75"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "多元经验事实调和意识绝对者的双向运动。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确轴说明；马赛克整体/要素论是讲者的比较解读。",
+          "source_ids": [
+            "m3-0220"
+          ],
+          "locator": "Page23–28 L75–90"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。"
+      ]
+    },
+    {
+      "code": "3-2-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐字段拆分命题比对；不以讲稿证明学术史事实。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主体是世界界限而非组成部分。",
+          "status": "supported_course_statement",
+          "finding": "开头直接引出该命题；原典条号尚未本批复核。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "世界视域经逻辑机制与语言过程符号化。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page2–4明确，属于讲者的先验发生学重述。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "事实由关联对象构成，对象为最小单元。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确区分对象不能直接理解为普通物品。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page3–5 L15–21；Page14–17 L48–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "对象存在由语言赋予且毋庸置疑。",
+          "status": "needs_precision",
+          "finding": "本讲确以语言规定不可分命名，但后段强调对象的持存及原初差异；不宜写成任意语词可以创造真实对象。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page11 L39；Page17 L57；Page19–20 L63–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "图像也是事实，世界与图像嵌套。",
+          "status": "supported_course_statement",
+          "finding": "Page5–10给出映射及显示自身的区分。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page5–10 L21–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体无力超出语言界限，是悲观唯我论。",
+          "status": "supported_course_evaluation",
+          "finding": "Page12–13及20–21明确如此评判。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page12–13 L42–45；Page20–21 L66–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "真理是按逻辑句法实事求是说出，错误哲学无意义。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page17–18这样说明，但不能将本讲的可说=真直接当原典完整真值理论。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page17–18 L57–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "私人语言是早期维特根斯坦的标准教义术语。",
+          "status": "needs_precision",
+          "finding": "讲者全文使用私人语言作自身解释；未据原典证实这与后期私人语言论题的关系。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page2 L12；Page13 L45；Page17–19 L57–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "世界自我符号化的暴力、唯我论=实在论。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page19–20明确用无主体的世界自我显示收束，暴力机制是课程措辞。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page19–20 L63–66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "世界图像调和现实视域与事态形式可能性。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "支持本讲分类；私人语言、僵死等须作为讲者解释而非原典通行定名。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page14–17 L48–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "对象和语言的二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "支持本讲分类；私人语言、僵死等须作为讲者解释而非原典通行定名。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page17 L57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "逻辑句法下真理与无意义哲学话语二分。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "支持本讲分类；私人语言、僵死等须作为讲者解释而非原典通行定名。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page17–18 L57–60"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "唯我论到底及语言结构的僵死。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "支持本讲分类；私人语言、僵死等须作为讲者解释而非原典通行定名。",
+          "source_ids": [
+            "m3-0221"
+          ],
+          "locator": "Page18–21 L60–69"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-2-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②我在故我在：主体的存在不需要额外的他者设立，主体直接设立自我的存在，而自我的存在本身又使得主体能够自我设立存在，这种超越因果关系的原初本体论暴力撕开了符号学空间，使得主体可以自由设立符号学拟制，哪怕这个符号学拟制是矛盾的，比如圆的方、黑的白。主体的自我设立产生了自我的原初分裂(主动的设立者(自我)与被动的被设立者(非我)的分裂)，即自我既是自我又是非我，费希特用主体主动的意识行动(可分性、肯定性、否定性)克服这种自我的不一致性。",
+      "after": "②本讲以“我在故我在”解释自我设立：自我的存在与设立自身是同一原初行动，讲者用超因果性和符号空间作现代重述。主体可以为“圆的方”等表达拟制符号位置，这不等于创造现实中的矛盾对象。设立活动包含主动设立者与被设立者的差异，自我与非我在绝对自我中相互限制，并由可分性、肯定和否定等活动得到统合；不能简写成自我与非我无差别同一。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0217"
+      ],
+      "locator": "Page6–11 L25–40",
+      "rationale": "区分符号拟制与实物创造、原初分裂与简单同一。"
+    },
+    {
+      "code": "3-2-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2：自我的分裂(自我=非我)与绝对自我的意识活动的二分",
+      "after": "本体论2：作为设立结果的自我与非我，对立于使其生成和统合的绝对自我之意识活动（可分性、肯定性、否定性）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0217"
+      ],
+      "locator": "Page7 L28；Page14–15 L49–52",
+      "rationale": "恢复讲者对表面自我/非我二分的明确修正。"
+    },
+    {
+      "code": "3-2-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①晚年的费希特从知识学中绝对主体的自我设立(3-2-2)撤回到绝对者(上帝)的自我直观，没有反思到符号化的主体意味着作为原初实体的上帝自身是不一致的，实体的内在不一致性使得符号化的主体不得不显现。",
+      "after": "①讲者将晚年费希特解释为从先验主体的自我设立退回绝对者的自我直观，并把这评价为保守的转向。他借谢林、黑格尔及齐泽克的思路批评费希特未充分把握实体内在的不一致与主体化的关系；这段是课程的比较和批评，不是费希特本人的自述。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0218"
+      ],
+      "locator": "Page1–3 L9–15；Page15–16 L51–54",
+      "rationale": "明确反驳立场归属。"
+    },
+    {
+      "code": "3-2-2-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③主体的理智：正因为绝对的表象只有以非绝对的表象为对立面才成立，所以绝对的表象需要向主体显现，正是这种显现使得主体能够通过意识活动到达绝对的本质的维度。换言之，主体的理性直观就是绝对者通过作为绝对的表象而显现的方式和过程。",
+      "after": "③在本讲解释中，有限自我是绝对者显现所需的对照面和观看者，因此能够见到意识结构的生成。但这种理智直观是反思性的、片段性的“表象之表象”，不同于绝对者完整、统一的原初直观；主体并不因此重新获得独立创造整个显现过程的地位。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0218"
+      ],
+      "locator": "Page13–14 L45–48；Page18–20 L60–66",
+      "rationale": "防止把有限观看与绝对创造混为一谈。"
+    },
+    {
+      "code": "3-2-2-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，世界分为有意识的和无意识的，有意识的是内在智能(反思的维度)，无意识的是外在智能(存在的维度)；从无意识运动到意识是主体的发生学(先验哲学)，从意识运动到无意识是客体的发生学(自然哲学)。主体的意识是时间，客体的无意识是空间，意识经由自我→感觉→观念→艺术抵达无意识，无意识经由磁→电→化学→无机物→有机物→人抵达意识，其中，每个环节都依靠辩证法连接。",
+      "after": "②本讲以有意识的内在智能和无意识的外在智能说明心灵与自然的相互发生。需区分两种方向：生成过程有无意识到意识及其反向；研究路径则在Page12–13明确为自然哲学由存在推向思维、先验哲学从自我思维追问其更原初的无意识结构。自我、感觉、观念、艺术，以及磁、电、化学、有机物、人等是讲者给出的粗略环节示意，他也承认其中省略了环节；时间与空间的说明属于课程发生学模型。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0219"
+      ],
+      "locator": "Page4–8 L18–30；Page12–13 L42–45",
+      "rationale": "避免混淆研究起点与发生方向，也不把示意链当完整科学链。"
+    },
+    {
+      "code": "3-2-2-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④谢林的《先验观念论体系》运用了大量辩证法，比如，谢林将一维空间性解释为由意识达到表象，表象是意识与无意识的交锋的均衡点，这个均衡点既是主体的认知的极限，也是异质性他者的极限。同理，意识在此均衡点以不同角度朝向无意识就产生了多维空间性。",
+      "after": "④本讲借《先验观念论体系》说明辩证的空间发生模型：主体向外理解的力与客体抵抗在表象点达到均衡，再通过新的响应点出现方向与角度。讲者在二维、三维及中心化的说明中加入自己的重构，并明确说谢林没有讲得这样精细。因此这些图式应当读作本讲对谢林的讲解和补充，而非逐项等同书中原论证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0219"
+      ],
+      "locator": "Page18–24 L64–92",
+      "rationale": "区分书中模型与讲者补充。"
+    },
+    {
+      "code": "3-2-2-2",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤观念论的启发性在于，主体的意识能够通过智性努力迫使符号系统不得不给出真相。但是，谢林没有反思到符号化的命题本身只是意识与存在达成一致的中介，意识与存在的交锋与均衡是前符号化的、非理性的，而谢林却把这种非符号化的运动，制作成名为先验观念论的命题体系，这是他的局限性所在。",
+      "after": "⑤讲者赞赏先验观念论以智性努力追问体验结构，并强调符号命题只是思维与存在相互中介的临时脚手架。他认为谢林已经体会到生成机制不断超出命题，但至少在《先验观念论体系》中没有充分说清这一点，最终仍将其组织为命题体系；这是本讲对该书方法与局限的评价。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0219"
+      ],
+      "locator": "Page25–27 L95–101",
+      "rationale": "保留讲者的至少本书与已体会到等限定。"
+    },
+    {
+      "code": "3-2-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①詹姆斯的哲学没有闭合为现象学(意识活动=意识对象)，在本体论上依然维持了意向对象(经验)与意向活动(主体无意识的建构活动)的二分，这种二分在场域论上的调和，是通过主体将结构化的经验/意识流还原为非结构化的纯粹经验实现。",
+      "after": "①讲者认为詹姆斯仍保留经验结果与底层结构化活动的区分，因此没有达到他所理解的现象学一元性。他把“纯粹经验”类比为悬置形而上判断后的经验流，以此说明场域的调和；这里的现象学还原是课程的解释性比较，不能写成詹姆斯实际采用胡塞尔方法的事实。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0220"
+      ],
+      "locator": "Page1–3 L9–15；Page10–11 L36–39；Page16–17 L54–57",
+      "rationale": "限定现象学术语的类比性质。"
+    },
+    {
+      "code": "3-2-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在认识论上，气质主要分为温柔气质(tender mindedness)和强硬气质(tough mindedness)，理性主义(援引稳固的形而上观念)是温柔气质，经验主义(援引感性临时构建的规则)是强硬气质，这两种气质都是经验性的。而体验之物的实在性是主体依据自身的生存实用性构建的信用链条，比如，方向盘在最底层的体验中只是一个连续的轮廓，但主体会把其体验为可绕轴心旋转、具有适当的握持度、具有回正扭矩，这种经验性体验中每个体验环节之间的连接并不是固定的，而是依据主体计算所得的信用链条，即依据此信用链条的体验方式最有利于主体的生存。真理也就是信用链条的集合。",
+      "after": "③本讲区分温柔气质与强硬气质，分别对应偏向稳定理念规则的理性主义和愿意随经验改动规则的经验主义；两者本身仍是经验。讲者用手机和月亮举例：从光影侧写到承认实体存在，中间依赖习惯、愿望、证据和实用利益所维持的信用链；这些环节常是下意识的，不必都为显性的计算。真理体系被本讲解释为这些可靠关联构成的信用体系。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0220"
+      ],
+      "locator": "Page4–9 L18–33；Page18–23 L60–75",
+      "rationale": "以实际核到的课程例子替换未标来源的方向盘细节，并保留下意识限定。"
+    },
+    {
+      "code": "3-2-2-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在目的论上，认为一切都是经验事实，因而一切都是平等的。无所谓是由意识(自我)运动到无意识(绝对者)还是由无意识运动到意识，因为主体对绝对者(上帝)的把握也是经验性的，换言之，绝对者就是对绝对者的经验性把握本身。",
+      "after": "④本讲用马赛克宇宙说明目的论3：各经验事实包括关系、观念及对绝对者的把握，都不预先享有压倒其他经验的地位。讲者进一步区分作为一个经验要素的“绝对者观念”与包含全部经验的整体场，并借整体与部分的关系调和自我与绝对者的两个运动方向；这也是本讲将詹姆斯与费希特、谢林比较的解释。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0220"
+      ],
+      "locator": "Page23–28 L75–90",
+      "rationale": "补回整体场/观念要素双层，不将绝对者简单等同单一心理把握。"
+    },
+    {
+      "code": "3-2-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②世界由事实(facts/cases)构成，事实是不同对象(objects)的相互关联，对象是可被语言把握的最小符号化单元，它的存在是由语言赋予的也是毋庸置疑的。",
+      "after": "②本讲将世界说明为事实与事态的关联，对象则是不可再分的基本单元，不能直接等同日常物品。讲者用语言中的不可分命名解释对象的单元性，同时强调其原初差异与持存；这里不是说任意造一个词便能创造相应的真实对象。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0221"
+      ],
+      "locator": "Page3–5 L15–21；Page11 L39；Page14–20 L48–66",
+      "rationale": "约束语言赋予存在的歧义。"
+    },
+    {
+      "code": "3-2-2-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在认识论上，早期维特根斯坦认为真理就是按照先验的逻辑句法，实事求是地用主体的私人语言把事物向主体的显像说出来，这种可言说性就是存在；而哲学家有时却狂妄地杜撰出错误的言语。",
+      "after": "④讲者把本讲的认识论2解释为：按照逻辑句法实事求是地说出显现及其关联，与哲学家越出这些关联而制造无意义话语的对立。他以“私人语言”和先验发生机制重述早期维特根斯坦；这些是课程解释，不能直接当作《逻辑哲学论》的完整真值理论，也不能未经核对就与后期的私人语言问题混同。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0221"
+      ],
+      "locator": "Page2 L12；Page17–18 L57–60",
+      "rationale": "保留课程原说，区分原典命题与现代诠释。"
+    },
+    {
+      "code": "3-2-2-4",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤在目的论上，私人语言就是异质性他者的世界化/符号化/命题化/逻辑化的暴力机制，这种暴力的符号化机制就是事物向主体显现的机制，也就是事物存在的机制，也就是世界的自我显现机制，所以绝对的唯我论就是绝对的实在论。",
+      "after": "⑤本讲将目的论4读成世界通过语言自行显现：符号化、命题化与显现的机制重合，主体不能在其外另设一个支配世界的目的。讲者据此把彻底唯我论与实在论相接，并以“暴力机制”形容不可由主体任意改动的原初差异。这是本讲的先验观念论解释，不是对维特根斯坦全部思想的中性概括。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0221"
+      ],
+      "locator": "Page19–21 L63–69",
+      "rationale": "为符号化暴力的课程重述补归属。"
+    },
+    {
+      "code": "3-2-2-4",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论4：把唯我论坚持到底、僵死的私人语言",
+      "after": "目的论4：本讲解释为唯我论贯彻到底，与纯粹实在论相接；世界由语言结构自行显示，主体无另行支配的目的（“私人语言”“僵死”为讲者评语）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0221"
+      ],
+      "locator": "Page18–21 L60–69",
+      "rationale": "避免将特定课程命名当原典通说。"
+    }
+  ]
+}

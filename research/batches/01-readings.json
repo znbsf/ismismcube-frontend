@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-13",
+  "status": "editorial_readings_with_localized_primary_text_checks",
+  "method": "以下关联由编者提出；没有以书名相近或主题相关替代原讲引用证据。核读范围以每项记录为准，不代表通读典籍。中文网页是可回查文本入口，未核对纸本版权页和逐字校勘；译者未知处保留 null。",
+  "sources": [
+    {
+      "id": "b01-marx-theses-feuerbach-zh",
+      "title": "关于费尔巴哈的提纲",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/chinese/marx-engels2/01/15.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《马克思恩格斯文集》第一卷网页版；页面并列原提纲与恩格斯整理版本，纸本出版信息未核对。",
+      "translator": null,
+      "locator": "页面第一组“1．关于费尔巴哈”：第一、二、三、四、六、八、十一条；勿与随后“马克思论费尔巴哈”整理版本混用。",
+      "verification_scope": "核读所列条文及版本分隔信息；未核对德文手稿、纸本页码或该课程的实际引用。"
+    },
+    {
+      "id": "b01-marx-engels-german-ideology-zh",
+      "title": "德意志意识形态（节选）",
+      "author": "卡尔·马克思、弗里德里希·恩格斯",
+      "url": "https://www.marxists.org/chinese/marx-engels2/01/16.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《马克思恩格斯文集》第一卷网页版，纸本版权页未核对。",
+      "translator": null,
+      "locator": "费尔巴哈部分：“1．一般意识形态，特别是德国哲学”之 A，现实个人、生活资料生产、分工与所有制形式的开头段落。",
+      "verification_scope": "核读 A 节开头的现实前提、生产活动与分工论述；不声称通读全章。不同编排版本的章节次序须另行对照。"
+    },
+    {
+      "id": "b01-marx-1844-manuscripts-zh",
+      "title": "1844年经济学哲学手稿：异化劳动和私有财产",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/chinese/marx-engels2/01/05.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《马克思恩格斯文集》第一卷网页版，未核对纸本底本。",
+      "translator": null,
+      "locator": "［异化劳动和私有财产］，手稿标记 XXII 至 XXIII：政治经济学的预设、劳动产品与劳动活动的异化。",
+      "verification_scope": "核读该节开头及 XXIII 过渡段；网页可见个别录入瑕疵，正式逐字引用前应核对纸本或影印本；未通读全部手稿。"
+    },
+    {
+      "id": "b01-marx-capital-commodity-zh",
+      "title": "资本论 第一卷 第一章：商品",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/chinese/marx/capital/01.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《资本论》第一卷网页版；具体纸本版次未核对。",
+      "translator": null,
+      "locator": "第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。",
+      "verification_scope": "核读使用价值与价值的开头区分、第4节劳动社会性质以物的属性出现的论述；未通读本章及全卷，未核对版次间差异。"
+    },
+    {
+      "id": "b01-marx-1859-preface-zh",
+      "title": "《政治经济学批判》序言（1859年）",
+      "author": "卡尔·马克思",
+      "url": "https://www.marxists.org/chinese/marx-engels2/02/12.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《马克思恩格斯文集》第二卷网页版，纸本出版信息未核对。",
+      "translator": null,
+      "locator": "以“我的研究得出这样一个结果”起始的方法论段落及其后生产关系、生产力与社会变革的论述。",
+      "verification_scope": "核读序言中的研究回顾与方法论段落；不将简短序言当成其历史研究的全部论证。"
+    },
+    {
+      "id": "b01-lenin-what-is-to-be-done-ch2-zh",
+      "title": "怎么办？第二章：群众的自发性和社会民主党的自觉性",
+      "author": "弗拉基米尔·伊里奇·列宁",
+      "url": "https://www.marxists.org/chinese/lenin-cworks/06/005.htm",
+      "kind": "primary_text_translation",
+      "language": "zh-Hans",
+      "edition": "中文马克思主义文库《列宁全集》第6卷网页版；具体纸本版次及译者未核对。",
+      "translator": null,
+      "locator": "（一）自发高潮的开始；（二）对自发性的崇拜。《工人思想报》中关于工人参与理论创造的作者注。",
+      "verification_scope": "核读俄国19世纪90年代运动语境、工联意识与社会民主主义意识之别，以及不排除工人作为理论家参与的注释；未通读全书。"
+    },
+    {
+      "id": "b01-althusser-ideology-isa-en",
+      "title": "意识形态与意识形态国家机器 / Ideology and Ideological State Apparatuses (Notes towards an Investigation)",
+      "author": "Louis Althusser",
+      "url": "https://www.marxists.org/reference/archive/althusser/1970/ideology.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "网页注明法文首刊 La Pensée（1970）；英译收入 Lenin and Philosophy and Other Essays，Monthly Review Press（1971）；Andy Blunden 转录。",
+      "translator": "Ben Brewster",
+      "locator": "论意识形态物质存在的 Thesis II；Ideology Interpellates Individuals as Subjects。",
+      "verification_scope": "核对网页书目信息，核读意识形态的物质存在与询唤主体两段论证；未核对法文原版或中译本。"
+    },
+    {
+      "id": "b01-kant-cpr-meiklejohn-en",
+      "title": "纯粹理性批判 / The Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "Project Gutenberg 电子文本 #4280；Meiklejohn 英译本，未核对电子文本所据纸本版次。",
+      "translator": "J. M. D. Meiklejohn",
+      "locator": "Preface to the Second Edition (1787) 中现象、物自身及经验界限的段落；Introduction VII 中定义 transcendental 的段落。",
+      "verification_scope": "核对译者署名、目录并核读上述两处正文；仅据网页章节定位，不补造 A/B 页码。该电子文本已在先导书目登记，此处补充实际核读范围。"
+    },
+    {
+      "id": "b01-hegel-logic-being-en",
+      "title": "逻辑学：存在论 / Science of Logic — Being",
+      "author": "G. W. F. Hegel",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm",
+      "kind": "primary_text_translation",
+      "language": "en",
+      "edition": "MIA网页版；总目录署1969年George Allen & Unwin英译版、Andy Blunden于1997年转录。未核对纸本，不能据此推断课程所用版本。",
+      "translator": "A. V. Miller（站点版本说明所署）",
+      "locator": "网页 §§132–134（Being、Nothing、Becoming）；§§184–185（To Sublate）。",
+      "verification_scope": "实际核读上述五段；段号仅指此网页。页面编入列宁标注，应与黑格尔正文分开。该文本已在先导书目登记，此处作为本批关联记录复用。",
+      "edition_metadata_url": "https://www.marxists.org/reference/archive/hegel/works/hl/index.htm"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-theses-feuerbach-zh",
+          "relation": "editorial_reading",
+          "locator": "原提纲第一、二、三、八、十一条。",
+          "reason": "从感性活动、真理的实践检验及教育者与环境的相互改变理解实践；第十一条需连同前文阅读。",
+          "verification_scope": "核读所列条文；只能提供实践问题的原典入口，不能据此推出课程的四字头格位。"
+        },
+        {
+          "source_id": "b01-marx-engels-german-ideology-zh",
+          "relation": "editorial_reading",
+          "locator": "费尔巴哈部分，1．一般意识形态，特别是德国哲学，A 节开头。",
+          "reason": "把现实个人及其物质生活条件纳入实践讨论，追问活动怎样同生产和社会关系相联。",
+          "verification_scope": "核读该节开头；课程是否采用这一论证仍待原视频定位。"
+        }
+      ],
+      "editorial_notes": [
+        "读者应区分马克思的实践论述与主义主义对“4”的特定定义，后者仍需讲次证据。"
+      ],
+      "open_questions": [
+        "原讲何处定义“实践”，是否明确援引上述文本及哪一版本？"
+      ]
+    },
+    {
+      "code": "4-1",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-1859-preface-zh",
+          "relation": "editorial_reading",
+          "locator": "“我的研究得出这样一个结果”起始段落。",
+          "reason": "为政治、经济和意识形式之间的联系提供方法论入口，留意文本区分物质变革与人们理解冲突的形式。",
+          "verification_scope": "核读指定段落；其表述不能替代对具体历史关系的研究。"
+        },
+        {
+          "source_id": "b01-marx-1844-manuscripts-zh",
+          "relation": "editorial_reading",
+          "locator": "［异化劳动和私有财产］XXII 开头。",
+          "reason": "观察批判如何追问政治经济学未经解释的私有财产、工资等前提。",
+          "verification_scope": "核读该节开头；未确认课程引用。"
+        }
+      ],
+      "editorial_notes": [
+        "这里只建立问题关联，不把不同写作年代的文本合并为一套无差别术语。"
+      ],
+      "open_questions": [
+        "课程把政治、经济、意识形态三种批判连接起来时，采用了什么文本和论证顺序？"
+      ]
+    },
+    {
+      "code": "4-1-1",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-engels-german-ideology-zh",
+          "relation": "editorial_reading",
+          "locator": "A 节开头：生产活动、分工与所有制形式。",
+          "reason": "练习从具体生产与交往条件提问历史变化，而不是把历史仅写作观念的先后替换。",
+          "verification_scope": "核读局部；其中历史概括需进一步接受史料检验。"
+        },
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "relation": "editorial_reading",
+          "locator": "第一章第4节开头。",
+          "reason": "分析商品形式中的社会关系，为研究资本主义的历史特殊性提供概念起点；本节本身不是一部资本主义编年史。",
+          "verification_scope": "核读拜物教论述开头；未用其证明具体历史年代或事件。"
+        }
+      ],
+      "editorial_notes": [
+        "概念分析与历史材料需要分别采集、互相检验。"
+      ],
+      "open_questions": [
+        "该讲采用何种资本主义起源分期与史料？尚须补具体史学著作及其分歧。"
+      ]
+    },
+    {
+      "code": "4-1-1-1",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-1844-manuscripts-zh",
+          "relation": "editorial_reading",
+          "locator": "［异化劳动和私有财产］XXII–XXIII。",
+          "reason": "区分劳动对象化与特定经济关系下的异化，并追踪分析如何从产品关系转入劳动活动本身。",
+          "verification_scope": "核读局部；没有把全部对象化等同于异化，也未核听原讲。"
+        },
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "relation": "editorial_reading",
+          "locator": "第一章第1节开头与第4节开头。",
+          "reason": "对照使用价值、价值与商品拜物教，考察社会关系为什么表现为物的属性；可与早期异化论比较，但不能直接认定二者同义。",
+          "verification_scope": "核读所列段落；概念延续与变化仅作为比较问题提出。"
+        }
+      ],
+      "editorial_notes": [
+        "商品拜物教涉及社会关系的客观表现形式，不宜简化成个人贪财或认知错误。"
+      ],
+      "open_questions": [
+        "原讲实际引用的是1844手稿、资本论还是其他文本？",
+        "是否需要另设早期与成熟期马克思概念关系的争议注？"
+      ]
+    },
+    {
+      "code": "4-1-2",
+      "reading_links": [
+        {
+          "source_id": "b01-lenin-what-is-to-be-done-ch2-zh",
+          "relation": "editorial_reading",
+          "locator": "第二章（一）及（二）关于工人参与理论创造的作者注。",
+          "reason": "追查“灌输”与自发性、自觉性之争的历史语境，并同页阅读不排除工人理论创造的限定。",
+          "verification_scope": "核读上述正文和注释；不能据此断言课程完全沿用列宁的含义。"
+        },
+        {
+          "source_id": "b01-marx-theses-feuerbach-zh",
+          "relation": "editorial_reading",
+          "locator": "原提纲第三条。",
+          "reason": "将关于环境和教育者的反思作为对照问题：教育过程如何避免把教育者设在社会关系之外？",
+          "verification_scope": "核读第三条；这是编者提出的对读，不声称马克思在评论后来的列宁文本。"
+        }
+      ],
+      "editorial_notes": [
+        "保留列宁论争的具体时代和组织语境，不把“灌输”直接解释成现代日常语义中的单向强迫，也不据此否定工人的思考能力。"
+      ],
+      "open_questions": [
+        "课程所说“灌输”有哪些接受者、媒介与反馈机制？需要原讲定位。"
+      ]
+    },
+    {
+      "code": "3-2-1-1",
+      "reading_links": [
+        {
+          "source_id": "b01-kant-cpr-meiklejohn-en",
+          "relation": "editorial_reading",
+          "locator": "第二版序言的现象/物自身段落；导论 VII 对 transcendental 的定义。",
+          "reason": "先辨认关于先天认识方式的研究与对对象的通常研究，再读现象、物自身和经验界限；这能约束将物自身直接替换为上帝的简化。",
+          "verification_scope": "核读两处正文；本轮未核读完整先验辩证论，未确证讲者的用词和中译版本。"
+        }
+      ],
+      "editorial_notes": [],
+      "open_questions": [
+        "选用哪种可核对版权页与页码的中译本？",
+        "原讲如何区分先验、超验、物自身与上帝理念？"
+      ]
+    },
+    {
+      "code": "3-2-4-1",
+      "reading_links": [
+        {
+          "source_id": "b01-hegel-logic-being-en",
+          "relation": "editorial_reading",
+          "locator": "网页 §§132–134、184–185。",
+          "reason": "直接比较纯有、纯无、变易的过渡及扬弃的取消和保存双重含义，为检验课程的符号学解释提供短篇原文。",
+          "verification_scope": "核读五段；段号依本网页，未据此断定课程解释正确或错误。"
+        }
+      ],
+      "editorial_notes": [
+        "英文网页所据译本未核实，不能反向补造中文术语与页码。"
+      ],
+      "open_questions": [
+        "补齐英译本底本与中译本对照。",
+        "讲者所用“理念论”和《逻辑学》篇章层级的关系，应由时间码及目录共同核实。"
+      ]
+    },
+    {
+      "code": "3-2-4-4",
+      "reading_links": [
+        {
+          "source_id": "b01-althusser-ideology-isa-en",
+          "relation": "editorial_reading",
+          "locator": "Thesis II（意识形态的物质存在）；Ideology Interpellates Individuals as Subjects。",
+          "reason": "把意识形态放回制度装置、实践与仪式，并理解询唤如何构成主体，避免只用“头脑中的虚假观念”解释。",
+          "verification_scope": "核读所列论述；对意识形态物质性的表述需保留作者关于不同存在方式的限定。"
+        }
+      ],
+      "editorial_notes": [
+        "英译本版本与译者有网页书目依据；中文标题仅作检索名，不冒充某一中译本题名或用词。"
+      ],
+      "open_questions": [
+        "课程是否直接采用1970年这篇论文，还是经由其他作者的解释？",
+        "若增加中文术语表，应先确定具体译本再核对询唤、主体与大写 Subject。"
+      ]
+    }
+  ]
+}

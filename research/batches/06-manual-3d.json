@@ -1,0 +1,981 @@
+{
+  "review_scope": "3-1-3全支全部人工摘要与轴逐字段复核；仅确认社区课程文本支持程度，非哲学家原典真实性验证。",
+  "sources": [
+    {
+      "id": "m3-0200",
+      "title": "0200_3-1-3_生活世界现象学_用主体间性取代主体性_p5252",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7/0200_3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7_p5252.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-3_生活世界现象学_用主体间性取代主体性/0200_3-1-3_生活世界现象学_用主体间性取代主体性_p5252.md",
+      "sha256": "d61395c128b9ea171d24836b07e679e1043dcef424ef4d200b5100df7a976394",
+      "git_blob_sha": "6444846fdc01db9038569a6b08e3173b767884e7",
+      "locator": "Page1–19 L9–73；Page19仅本讲收束",
+      "verification_scope": "逐段核读Page1–19 L9–73；Page19仅本讲收束；未核原音与学术原典。"
+    },
+    {
+      "id": "m3-0201",
+      "title": "0201_3-1-3-1_主体间普遍主义_哈贝马斯的去先验化路径_p5271",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7/3-1-3-1_%E4%B8%BB%E4%BD%93%E9%97%B4%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%E7%9A%84%E5%8E%BB%E5%85%88%E9%AA%8C%E5%8C%96%E8%B7%AF%E5%BE%84/0201_3-1-3-1_%E4%B8%BB%E4%BD%93%E9%97%B4%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%E7%9A%84%E5%8E%BB%E5%85%88%E9%AA%8C%E5%8C%96%E8%B7%AF%E5%BE%84_p5271.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-3_生活世界现象学_用主体间性取代主体性/3-1-3-1_主体间普遍主义_哈贝马斯的去先验化路径/0201_3-1-3-1_主体间普遍主义_哈贝马斯的去先验化路径_p5271.md",
+      "sha256": "01e2ef02c83a68964e23628e69c4bec7f66c9d9acbcaec3f2e5012de292e20c1",
+      "git_blob_sha": "20dc518ad625c03d4e8c9fcfda672c237f0697df",
+      "locator": "Page1–17 L9–71",
+      "verification_scope": "逐段核读Page1–17 L9–71；未核原音与学术原典。"
+    },
+    {
+      "id": "m3-0202",
+      "title": "0202_3-1-3-2_本土方法论_加芬克尔的现象学社会学_人人都有一套自己的理性_p5288",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7/3-1-3-2_%E6%9C%AC%E5%9C%9F%E6%96%B9%E6%B3%95%E8%AE%BA_%E5%8A%A0%E8%8A%AC%E5%85%8B%E5%B0%94%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%A4%BE%E4%BC%9A%E5%AD%A6_%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%80%E5%A5%97%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E6%80%A7/0202_3-1-3-2_%E6%9C%AC%E5%9C%9F%E6%96%B9%E6%B3%95%E8%AE%BA_%E5%8A%A0%E8%8A%AC%E5%85%8B%E5%B0%94%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%A4%BE%E4%BC%9A%E5%AD%A6_%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%80%E5%A5%97%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E6%80%A7_p5288.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-3_生活世界现象学_用主体间性取代主体性/3-1-3-2_本土方法论_加芬克尔的现象学社会学_人人都有一套自己的理性/0202_3-1-3-2_本土方法论_加芬克尔的现象学社会学_人人都有一套自己的理性_p5288.md",
+      "sha256": "910027fc82c9baa4110f7b23d3d9d507505b44347140aa0815353facdad463f5",
+      "git_blob_sha": "3a9bc2e1caf2dff58d3f180a365fe0cc3a201539",
+      "locator": "Page1–14 L9–54；Page14排除下一讲标题",
+      "verification_scope": "逐段核读Page1–14 L9–54；Page14排除下一讲标题；未核原音与学术原典。"
+    },
+    {
+      "id": "m3-0203",
+      "title": "0203_3-1-3-3_格式塔现象学_古尔维奇对胡塞尔先验现象学的掐头行动_p5302",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7/3-1-3-3_%E6%A0%BC%E5%BC%8F%E5%A1%94%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%8F%A4%E5%B0%94%E7%BB%B4%E5%A5%87%E5%AF%B9%E8%83%A1%E5%A1%9E%E5%B0%94%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E6%8E%90%E5%A4%B4%E8%A1%8C%E5%8A%A8/0203_3-1-3-3_%E6%A0%BC%E5%BC%8F%E5%A1%94%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%8F%A4%E5%B0%94%E7%BB%B4%E5%A5%87%E5%AF%B9%E8%83%A1%E5%A1%9E%E5%B0%94%E5%85%88%E9%AA%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E6%8E%90%E5%A4%B4%E8%A1%8C%E5%8A%A8_p5302.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-3_生活世界现象学_用主体间性取代主体性/3-1-3-3_格式塔现象学_古尔维奇对胡塞尔先验现象学的掐头行动/0203_3-1-3-3_格式塔现象学_古尔维奇对胡塞尔先验现象学的掐头行动_p5302.md",
+      "sha256": "c5bbcfe1a3cbd2a0597dc8ef727147ecb73a16bae6a2854854d5fd40080166f6",
+      "git_blob_sha": "d1f7ed747a196fb77ac5459487a27bc316a24036",
+      "locator": "Page1–17 L9–65；Page17排除下一讲标题",
+      "verification_scope": "逐段核读Page1–17 L9–65；Page17排除下一讲标题；未核原音与学术原典。"
+    },
+    {
+      "id": "m3-0204",
+      "title": "0204_3-1-3-4_自身性现象学_当代现象学的主流范式_胡塞尔_梅洛-庞蒂_海德格尔_萨特分别是如何建构他者性与主体间性的_p5319",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-1-3_%E7%94%9F%E6%B4%BB%E4%B8%96%E7%95%8C%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E7%94%A8%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E5%8F%96%E4%BB%A3%E4%B8%BB%E4%BD%93%E6%80%A7/3-1-3-4_%E8%87%AA%E8%BA%AB%E6%80%A7%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%BD%93%E4%BB%A3%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E4%B8%BB%E6%B5%81%E8%8C%83%E5%BC%8F_%E8%83%A1%E5%A1%9E%E5%B0%94_%E6%A2%85%E6%B4%9B-%E5%BA%9E%E8%92%82_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E8%90%A8%E7%89%B9%E5%88%86%E5%88%AB%E6%98%AF%E5%A6%82%E4%BD%95/0204_3-1-3-4_%E8%87%AA%E8%BA%AB%E6%80%A7%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E5%BD%93%E4%BB%A3%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E4%B8%BB%E6%B5%81%E8%8C%83%E5%BC%8F_%E8%83%A1%E5%A1%9E%E5%B0%94_%E6%A2%85%E6%B4%9B-%E5%BA%9E%E8%92%82_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E8%90%A8%E7%89%B9%E5%88%86%E5%88%AB%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%9E%84%E4%BB%96%E8%80%85%E6%80%A7%E4%B8%8E%E4%B8%BB%E4%BD%93%E9%97%B4%E6%80%A7%E7%9A%84_p5319.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-1_现象学复习课/3-1-3_生活世界现象学_用主体间性取代主体性/3-1-3-4_自身性现象学_当代现象学的主流范式_胡塞尔_梅洛-庞蒂_海德格尔_萨特分别是如何/0204_3-1-3-4_自身性现象学_当代现象学的主流范式_胡塞尔_梅洛-庞蒂_海德格尔_萨特分别是如何建构他者性与主体间性的_p5319.md",
+      "sha256": "6f6245a36396285f7af98e06304d32b6acf2b4659c2ac3c629f8e0e7552843b8",
+      "git_blob_sha": "97e5cb34966ddd1cf39e303bf56e2b8d9dbd405f",
+      "locator": "Page1–22 L9–181",
+      "verification_scope": "逐段核读Page1–22 L9–181；未核原音与学术原典。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "comparison_scope": "逐项比较所有人工字段及其复合命题；讲者拟构、类比、学术归属均另标。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "胡塞尔以身体相似性、移情与主体性的转嫁构造他者，遭遇先已预设内外与他者区分的困难。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "本讲的批评性概括直接支持，非完整胡塞尔原典论证。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page1–3 L9–22"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "意向性结构都不是精神性，故不能转移。",
+          "status": "overgeneralized",
+          "finding": "Page4专指舍勒解释的身体感觉定位等生命机制，不是所有意向结构非精神性。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page4–5 L25–28"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "社会生活中原初主体间性比先验反思主体具有优先性。",
+          "status": "supported_course_statement",
+          "finding": "Page5及15说明社会性原初维度及发生学优先性。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page5 L28；Page15–17 L61–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "舒茨只到他人关联，未到绝对本体异质性，因此本体论连续。",
+          "status": "supported_course_evaluation",
+          "finding": "本体论段直接支持，但未把握是课程的理论评价。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page9 L43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "知识库由话语、传统窍门、经验试错和共同类型化积淀，混合前反思与反思。",
+          "status": "supported_course_statement",
+          "finding": "Page6–7及11–17完整说明来源、混合、交往分类与渐次反思。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page6–7 L31–34；Page11–17 L49–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体不是以纯粹自我逐项还原来获得日常认知。",
+          "status": "supported_with_scope_limit",
+          "finding": "否定日常认知以逐项先验还原为起点，不是否认后来的反思或本质还原可能。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page12–15 L52–61"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "生活世界/主体间性中介自然日常把握与先验反思。",
+          "status": "supported_course_statement",
+          "finding": "有直接定义。Page7一处形而上/下与历史/哲学配对疑似口误，定位采用此前连续说明，不据该倒置改轴。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page5–8 L28–40"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "主体间性视域连续，无绝对他者断裂。",
+          "status": "supported_course_statement",
+          "finding": "有直接定义。Page7一处形而上/下与历史/哲学配对疑似口误，定位采用此前连续说明，不据该倒置改轴。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page9 L43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "话语中的现成知识库中介情感生命与反思逻辑。",
+          "status": "supported_course_statement",
+          "finding": "有直接定义。Page7一处形而上/下与历史/哲学配对疑似口误，定位采用此前连续说明，不据该倒置改轴。",
+          "source_ids": [
+            "m3-0200"
+          ],
+          "locator": "Page10–15 L46–61"
+        }
+      ],
+      "editorial_notes": [
+        "本讲把舍勒、梅洛-庞蒂等人的批评汇合来解释生活世界路径；不可把所有批评统一归为舒茨原话。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程原音与相关原典尚待专项验证；课程内的学术评价不等于学界共识。"
+      ]
+    },
+    {
+      "code": "3-1-3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐项比较所有人工字段及其复合命题；讲者拟构、类比、学术归属均另标。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主体间语用和人称化先于主体性，日常语用出问题引发先验反思。",
+          "status": "supported_course_statement",
+          "finding": "Page4–7支持主体性发生与反思旨趣生成；摘要中的先验能力过泛，正文谈先验反思姿态而非所有先验能力。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page4–7 L24–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "儿童看见受打画面，以创伤性的内在化交换自他视角。",
+          "status": "supported_as_lecturer_example",
+          "finding": "Page1–4详举此例，Page5明确哈贝马斯没有特别用这种弗洛伊德方法。不能当作其原典例。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page1–5 L9–29"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "视域置换和人称化依赖语言，主体间性需话语中介。",
+          "status": "supported_course_statement",
+          "finding": "Page3–4直接说符号系统先组织画面、话语实践居间；这是讲者论证，不是已核儿童发展定律。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page3–4 L19–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "公共性不是超验客观性，而由知识分子建制构建。",
+          "status": "needs_precision",
+          "finding": "前半明确；后半过于单向，Page9–10说发生机制来自日常语用、修复维系依赖知识界，不是知识精英独自制造公共性。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page9–10 L47–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "多种本体论可在公共话语安顿，不威胁公共场域的多元姿态。",
+          "status": "supported_course_evaluation",
+          "finding": "Page11–12说明连续、多元及排除极端；自由主义与实用主义是讲者分类。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page10–12 L50–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "哲学通过社会学还原与持续去先验化维护公共理性。",
+          "status": "supported_course_statement",
+          "finding": "Page14–16直接对应；社会学还原是课程称谓，不据此判断哈贝马斯全部方法。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page14–16 L62–68"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "公共话语空间调和日常非专题化与专题知识。",
+          "status": "supported_course_statement",
+          "finding": "格位段明确支持；认识论段开头虽说记不清两端，随后实际作了定义。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page8–10 L44–50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "多种本体论可作连续社会学理解。",
+          "status": "supported_course_statement",
+          "finding": "格位段明确支持；认识论段开头虽说记不清两端，随后实际作了定义。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page11–12 L53–56"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "公共话语中介前反思情感与反思认识。",
+          "status": "supported_course_statement",
+          "finding": "格位段明确支持；认识论段开头虽说记不清两端，随后实际作了定义。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page13–14 L59–62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "维护公共理性。",
+          "status": "supported_course_statement",
+          "finding": "格位段明确支持；认识论段开头虽说记不清两端，随后实际作了定义。",
+          "source_ids": [
+            "m3-0201"
+          ],
+          "locator": "Page14–16 L62–68"
+        }
+      ],
+      "editorial_notes": [
+        "Page5 L29讲者明确说本书多年未重读、旧论文有学术硬伤；尤其儿童幻想例不是哈贝马斯本人使用的方法。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程原音与相关原典尚待专项验证；课程内的学术评价不等于学界共识。"
+      ]
+    },
+    {
+      "code": "3-1-3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐项比较所有人工字段及其复合命题；讲者拟构、类比、学术归属均另标。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "不同情境中的局部理性取代统一公共理性，分类包括比较、容错、后果、时机、语义、逻辑。",
+          "status": "supported_course_statement",
+          "finding": "Page1–3逐项列举，Page14承认普遍科学理性仍与局部理性竞争。课程比较不意味着加芬克尔亲自针对哈贝马斯争论。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page1–3 L9–21；Page14 L54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "分类及方法须依具体情境，不能自上而下套固定要素。",
+          "status": "supported_course_statement",
+          "finding": "Page4、9明确临时、由下而上、试错。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page4 L24；Page9 L39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "打断并追问代词/指示词使默认共享指称显露。",
+          "status": "supported_course_statement",
+          "finding": "丈夫妻子老电影例对应，反思结论是共享而情境性的指称网络。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page4–5 L24–27；Page9–10 L39–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "语用行动构造语境，语境反过来规定行动，是反身性。",
+          "status": "supported_course_statement",
+          "finding": "陪审团例及明确reflexivity定义直接对应；不是单纯内省自反。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page5–7 L27–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "黑咖啡体验、标签与概念相互促进，意外标签触发原因判断。",
+          "status": "supported_with_scope_limit",
+          "finding": "黑咖啡例对应；原讲意外标签是硫酸铜及恶作剧，摘要换成拿铁、豆变质，须标编辑改写，不能作为课程逐字实例。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page7–8 L33–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "局部合理性调和日常与理论姿态。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确格位支持；认识论中介用反身性，不应误改为普通自我反省。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page12 L48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "连续社会构造。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确格位支持；认识论中介用反身性，不应误改为普通自我反省。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page12–13 L48–51"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "反身性中介情感语境与合理化行动。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确格位支持；认识论中介用反身性，不应误改为普通自我反省。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page13 L51"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "普遍科学理性与临时情境合理性竞争。",
+          "status": "supported_course_statement",
+          "finding": "本讲明确格位支持；认识论中介用反身性，不应误改为普通自我反省。",
+          "source_ids": [
+            "m3-0202"
+          ],
+          "locator": "Page14 L54"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程原音与相关原典尚待专项验证；课程内的学术评价不等于学界共识。"
+      ]
+    },
+    {
+      "code": "3-1-3-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐项比较所有人工字段及其复合命题；讲者拟构、类比、学术归属均另标。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "拒绝独立纯质料与统握活动的相加，感受材料已经属于有意义的整体。",
+          "status": "supported_course_statement",
+          "finding": "Page2–4解释内外变量不能独立相加，并称材料已是sense；不是简单否认任何区分。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "取消独立先验自我，改用格式塔心理结构。",
+          "status": "supported_course_statement",
+          "finding": "Page1、5明确去先验主体化，自我在活动中结构出来。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page1 L9；Page5 L21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "意识场中心主题、中层主题语境、外围时间持留及行动可能视域。",
+          "status": "supported_course_statement",
+          "finding": "盆花/桌/苍蝇、移动打碎、时间消逝和未来谋划均直接对应；摘要蜜蜂替换苍蝇，为非原例细节。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "自我通过人称话语暂时拟制；自我作为主题也服从三层结构。",
+          "status": "supported_with_scope_limit",
+          "finding": "Page8–10支持，但人称话语不是唯一路径，还提反思、身体感、其他心理活动及问题意识。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page8–10 L30–38"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "公共理性在中心、本土合理性在外围，格式塔调和两者。",
+          "status": "lecturer_hypothesis",
+          "finding": "这是Page14公开宣告的如果要建构就大抵如此，非已找到古尔维奇文本。犯罪也仅是边缘例之一，不等于全部本土理性都是犯罪。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page14–16 L54–62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "意识场协调自然姿态与先验自我领域。",
+          "status": "supported_course_statement",
+          "finding": "前三轴有明确定义；目的轴虽有课堂定义，但讲者同时声明其社会学扩展为推测。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page10 L38"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "连续格式塔。",
+          "status": "supported_course_statement",
+          "finding": "前三轴有明确定义；目的轴虽有课堂定义，但讲者同时声明其社会学扩展为推测。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page11–12 L41–44"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "整体性中介前反思与反思。",
+          "status": "supported_course_statement",
+          "finding": "前三轴有明确定义；目的轴虽有课堂定义，但讲者同时声明其社会学扩展为推测。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page12–14 L45–53"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "整体场中介普遍理性与临时合理性。",
+          "status": "lecturer_hypothesis",
+          "finding": "前三轴有明确定义；目的轴虽有课堂定义，但讲者同时声明其社会学扩展为推测。",
+          "source_ids": [
+            "m3-0203"
+          ],
+          "locator": "Page14–16 L54–62"
+        }
+      ],
+      "editorial_notes": [
+        "Page14 L55公开说明未查主体间性研究，以下公共理性/私人理性的场论只是讲者推测；摘要及目的轴须显式标注。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程原音与相关原典尚待专项验证；课程内的学术评价不等于学界共识。"
+      ]
+    },
+    {
+      "code": "3-1-3-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "逐项比较所有人工字段及其复合命题；讲者拟构、类比、学术归属均另标。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "自身性现象学延续当代研究，坚持主体间性可思考、可研究。",
+          "status": "supported_course_statement",
+          "finding": "Page2、15–22说明未结束运动与可理解性信念；当代指课程所处时代，不表示本次核验最新全领域现状。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page2 L12；Page15–22 L108–181"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体间性核心在自我与他者差异如何可识别，有四种可参考路径。",
+          "status": "supported_course_statement",
+          "finding": "Page4–5明确问题并称四种路径均有道理、可以参考。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "胡塞尔路线以移情、陌生体验和投射构造他异性；梅洛-庞蒂路线放到身体交往。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page7–10逐项解释；属于课程浓缩，身体路线中的主体前反思性应保留。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page7–10 L27–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "海德格尔以在世存在和存在论视域解释；萨特强调超越的他者与交锋。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page11–14逐项对应。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page11–14 L49–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "胡塞尔/海德格尔可能唯我，梅洛-庞蒂/萨特使他异性难以思考。",
+          "status": "supported_course_evaluation",
+          "finding": "正文分别批评投射傀儡、匿名元存在、第一人称视域和敌对超越；不是原典已被证明失败。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page8–14 L30–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "自身性先于反思主体，具有本能性；语言揭示而非创造其原初结构。",
+          "status": "supported_course_statement",
+          "finding": "Page15–20逐项对应；原文还说语言激活、人称化，故并非完全无构成作用。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page15–20 L112–175"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "自身性中介自然日常与本质先验。",
+          "status": "supported_course_statement",
+          "finding": "本讲实际格位段明确支持，目的论开放不是编辑因缺资料而猜测。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page15–16 L112–129"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "连续、可理解性是现象学信念。",
+          "status": "supported_course_statement",
+          "finding": "本讲实际格位段明确支持，目的论开放不是编辑因缺资料而猜测。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page17–18 L146–159"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "前反思自身性中介情感与理性，语言激活其中可能性。",
+          "status": "supported_course_statement",
+          "finding": "本讲实际格位段明确支持，目的论开放不是编辑因缺资料而猜测。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page18–20 L160–175"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "研究未结束，结果不确定，仍待探索。",
+          "status": "supported_course_statement",
+          "finding": "本讲实际格位段明确支持，目的论开放不是编辑因缺资料而猜测。",
+          "source_ids": [
+            "m3-0204"
+          ],
+          "locator": "Page5 L21；Page15 L109–110；Page20–21 L175–178"
+        }
+      ],
+      "editorial_notes": [
+        "本讲以多位哲学家路径概括自身性现象学的研究资源；四路的优缺点评价是讲者立场，不是已证实所有当代研究者共同结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "课程原音与相关原典尚待专项验证；课程内的学术评价不等于学界共识。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-1-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①主体间性的优先性：胡塞尔通过身体-物的重叠解释主体间性(3-1-1-3)，认为先验自我的意向性结构是可以转移的，这种转移使得主体之外的他人可以获得属于他们的主体性，由此就能产生主体间性；但主体的意向性结构并不是精神性的存在，如果意向性结构能够转移，那主体何以能够清楚地把自我与他者相区分？所以，必然存在原初的主体间的维度(社会、历史)支撑着主体间性，因此主体间性是先于先验主体性的，这是对先验现象学的超越。",
+      "after": "①主体间性的优先性：本讲批评从身体相似性、移情和主体性转嫁出发的他者构造，认为这种解释已经预设了自我与他者、内部与外部的区分。讲者又援引舍勒式批评：身体感觉定位属于生命机制，不能简单当作纯精神结构向他人转移。由此，本讲把社会生活中原初的主体间维度置于孤立先验自我的构造之前，并以此说明生活世界路径的优先性。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0200"
+      ],
+      "locator": "Page1–5 L9–28；Page15–17 L61–67",
+      "rationale": "把身体定位的限定恢复，区分多位哲学家与讲者的批评来源。"
+    },
+    {
+      "code": "3-1-3-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①哈贝马斯同舒茨(3-1-3)一样，认为认识的起点不是先验主体性，而是主体间性。主体间性(语用学、人称化机制)生产出了主体性，主体的先验能力是由于主体间的语用学发生了差错，导致主体发现那些原先在语用学中想当然的事情(take for granted)是可问题化的(problematizable)。",
+      "after": "①哈贝马斯同舒茨(3-1-3)一样，认为认识的起点不是先验主体性，而是主体间性。主体间性(语用学、人称化机制)生产出了主体性，按本讲解释，主体的先验反思姿态产生于主体间的语用学发生了差错，导致主体发现那些原先在语用学中想当然的事情(take for granted)是可问题化的(problematizable)。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0201"
+      ],
+      "locator": "Page5–7 L29–39",
+      "rationale": "将泛称先验能力收窄到正文所论的反思姿态。"
+    },
+    {
+      "code": "3-1-3-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②可置换性：主体间性是人称化的视域，这个视域是具有可置换性的。比如孩子看到大人在打其他孩子的画面，这个画面通过激起孩子的创伤，将孩子的主体性注入到被打的孩子的视域中，使主体将此画面内在化。在这个内在化的画面中，主体与他者的位置发生了置换，在其中承受痛苦的不再是他者，而是主体自己。这个可置换的视域本身是依靠语言结构起来的，所以主体间性需要以语言为中介。",
+      "after": "②可置换性：主体间性是人称化的视域，这个视域是具有可置换性的。讲者借用弗洛伊德式幻想分析举例（并明确说哈贝马斯本人并未采用这一具体方法）：孩子看到大人在打其他孩子的画面，这个画面通过激起孩子的创伤，将孩子的主体性注入到被打的孩子的视域中，使主体将此画面内在化。在这个内在化的画面中，主体与他者的位置发生了置换，在其中承受痛苦的不再是他者，而是主体自己。这个可置换的视域本身是依靠语言结构起来的，所以主体间性需要以语言为中介。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0201"
+      ],
+      "locator": "Page1–5 L9–29",
+      "rationale": "标清例子来源，避免将课程旁证移植成哈贝马斯原说。"
+    },
+    {
+      "code": "3-1-3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③主体间话语的公共性并不是由某种超越性的客观性给予的，而是由共同体的知识建制(知识分子、文化精英)构建出来的。",
+      "after": "③本讲将公共话语的客观性理解为主体间性的，而非来自某种超验客观性的直接保证。它的发生联系日常语用实践；知识分子与哲学家则被赋予诊断扭曲、修复和维系公共话语的责任，并非由知识精英独自创造全部公共性。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0201"
+      ],
+      "locator": "Page9–10 L47–50",
+      "rationale": "恢复发生与维系的不同机制。"
+    },
+    {
+      "code": "3-1-3-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①反对哈贝马斯(3-1-3-1)所设想的普遍的公共理性，遵循舒茨(3-1-3)的认识论，对共同体认知库中想当然的事物进行现象学还原(也可以说是社会学还原)，将其分类为在具体的历史条件下的局部理性(Local Rationality)，比如对原因分类、分析可能后果、接受可容忍的错误、关注时机、辨析语义、形式逻辑推演等等，这个分类学本身也是暂时性的、在具体的社会条件下的。",
+      "after": "①本讲用这一立场对比哈贝马斯(3-1-3-1)所设想的普遍的公共理性，遵循舒茨(3-1-3)的认识论，对共同体认知库中想当然的事物进行现象学还原(也可以说是社会学还原)，将其分类为在具体的历史条件下的局部理性(Local Rationality)，比如对原因分类、分析可能后果、接受可容忍的错误、关注时机、辨析语义、形式逻辑推演等等，这个分类学本身也是暂时性的、在具体的社会条件下的。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0202"
+      ],
+      "locator": "Page1 L9；Page9 L39；Page14 L54",
+      "rationale": "避免把课程对照误作有据可查的直接学术论战。"
+    },
+    {
+      "code": "3-1-3-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④离散的本土理性被配置到这个由语用和语境相互建构起来的符号学网络中，使得主体的意向性结构被激发。比如，一个人点了一杯黑咖啡，他越喝，就越结构起黑咖啡的概念，也越觉得他喝的是黑咖啡；而如果此时他看见咖啡标签上写的是拿铁，那么，对原因分类的本土理性就被引入了主体的意向性，主体便开始思考可能的原因(标签记错了、咖啡豆变质了)。",
+      "after": "④局部合理性被配置到语用行动与语境相互构成的网络中，使不同的意向结构被调用。本讲以咖啡标签为例：饮用体验与对标签的理解相互促进；如果标签突然与味觉经验明显不符，人会转而追问标签是否出错等原因，语境也随之被重新解释。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0202"
+      ],
+      "locator": "Page7–8 L33–36",
+      "rationale": "保留原例论证结构，去除未经标记的拿铁与豆变质添例。"
+    },
+    {
+      "code": "3-1-3-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②格式塔现象学将意向性活动解释为从中心到边缘的意识场：\n\t在中心的是主题：主体的意向性所构造的对象(比如一盆花)。\n\t在中间层的是主题语境：主题所在的背景(这盆花周围的蜜蜂、这盆花底下的桌子)。\n\t在边缘的是视域：主题在时间之流中的消逝与持留(这盆花在当下存在于此)、意向性的可能性(把这盆花打碎、把这盆花移动一下位置)。\n\t在胡塞尔现象学中，主体的意向性需要先验自我作为支撑；而在格式塔现象学，作为意向性的发起者的自我只是在一个个不同主题的格式塔中临时性的构建，即在话语活动中，通过人称代词临时构建的拟制。如果要把握自我，这个自我也只能作为主题在格式塔中以“主题-主题语境-视域”的结构建构而来。",
+      "after": "②格式塔现象学将意向性活动解释为从中心到边缘的意识场：\n\t在中心的是主题：主体的意向性所构造的对象(比如一盆花)。\n\t在中间层的是主题语境：主题所在的背景(这盆花周围的小苍蝇、这盆花底下的桌子)。\n\t在边缘的是视域：主题在时间之流中的消逝与持留(这盆花在当下存在于此)、意向性的可能性(把这盆花打碎、把这盆花移动一下位置)。\n\t在胡塞尔现象学中，主体的意向性需要先验自我作为支撑；而在格式塔现象学，作为意向性的发起者的自我只是在一个个不同主题的格式塔中临时性的构建，可通过人称代词的使用、事后反思、身体体验等活动被暂时构造出来。如果要把握自我，这个自我也只能作为主题在格式塔中以“主题-主题语境-视域”的结构建构而来。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0203"
+      ],
+      "locator": "Page6–10 L24–38",
+      "rationale": "恢复原例并避免把多种自我构成路径缩减成人称代词唯一机制。"
+    },
+    {
+      "code": "3-1-3-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在目的论上，用格式塔的结构调和公共理性与本土理性的对立，在中心的是共同体的公共价值/公共理性，在边缘的是本土理性，比如为了个人利益最大化而违法犯罪。",
+      "after": "③目的论3是讲者的推测性扩展：他明确说没有查到古尔维奇关于主体间性的相关文本，设想若把格式塔方法用于公共生活，可以把公共价值置于场的中心，把临时、情境性的合理化方式置于相关的背景或边缘，以整体场调和两者。犯罪等只是其设想中的边缘例子，不能等同全部本土理性。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0203"
+      ],
+      "locator": "Page14–16 L54–62",
+      "rationale": "把未核原典的课程拟构明示，消除确定性误导。"
+    },
+    {
+      "code": "3-1-3-3",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论3：整体场(调和普遍的公共理性与临时的情景化的本土理性的对立)",
+      "after": "目的论3：整体场调和普遍公共理性与临时情境合理性（讲者的推测性扩展）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0203"
+      ],
+      "locator": "Page14–16 L54–62",
+      "rationale": "格位有课说但课说明确是猜测，不能省略。"
+    },
+    {
+      "code": "3-1-3-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③四种路径：\n\t经典的胡塞尔路径(先验自我)：主体与他者的差异是先验自我通过身体-物的重叠、意向性的转移主动投射的。\n\t梅洛-庞蒂路径(身体性)：差异是身体自发地产生的，是在与他人的人称性的交往中获得的。\n\t海德格尔路径(在世性)：差异是主体所在的生存论视域(Horizon)的基本特征。\n\t萨特路径(超越性)：差异是主体与他者的交锋，他者即地狱。\n\t胡塞尔路径和海德格尔路径容易导向唯我论，梅洛-庞蒂路径和萨特路径使得主体间性难以被思考。",
+      "after": "③本讲归纳并评价四种路径（以下优缺点为讲者的解释）：\n\t经典的胡塞尔路径(先验自我)：主体与他者的差异是先验自我通过身体-物的重叠、意向性的转移主动投射的。\n\t梅洛-庞蒂路径(身体性)：差异是身体自发地产生的，是在与他人的人称性的交往中获得的。\n\t海德格尔路径(在世性)：差异是主体所在的生存论视域(Horizon)的基本特征。\n\t萨特路径(超越性)：差异是主体与他者的交锋，他者即地狱。\n\t胡塞尔路径和海德格尔路径容易导向唯我论，梅洛-庞蒂路径和萨特路径使得主体间性难以被思考。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0204"
+      ],
+      "locator": "Page7–14 L27–104",
+      "rationale": "防止把课程简化与评价误认为已核完整哲学史结论。"
+    }
+  ]
+}

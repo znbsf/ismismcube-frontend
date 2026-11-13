@@ -1,0 +1,1046 @@
+{
+  "review_scope": "批判哲学四子讲全部人工摘要和四轴逐字段核查；课程解释不等于原典事实。",
+  "sources": [
+    {
+      "id": "m3-0213",
+      "title": "0213_3-2-1-1_无限的有限主义_道德刷刷刷游戏的肝中肝帝_康德哲学的基本态势_p5540",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-2-1-1_%E6%97%A0%E9%99%90%E7%9A%84%E6%9C%89%E9%99%90%E4%B8%BB%E4%B9%89_%E9%81%93%E5%BE%B7%E5%88%B7%E5%88%B7%E5%88%B7%E6%B8%B8%E6%88%8F%E7%9A%84%E8%82%9D%E4%B8%AD%E8%82%9D%E5%B8%9D_%E5%BA%B7%E5%BE%B7%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%81%E5%8A%BF/0213_3-2-1-1_%E6%97%A0%E9%99%90%E7%9A%84%E6%9C%89%E9%99%90%E4%B8%BB%E4%B9%89_%E9%81%93%E5%BE%B7%E5%88%B7%E5%88%B7%E5%88%B7%E6%B8%B8%E6%88%8F%E7%9A%84%E8%82%9D%E4%B8%AD%E8%82%9D%E5%B8%9D_%E5%BA%B7%E5%BE%B7%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%81%E5%8A%BF_p5540.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划/3-2-1-1_无限的有限主义_道德刷刷刷游戏的肝中肝帝_康德哲学的基本态势/0213_3-2-1-1_无限的有限主义_道德刷刷刷游戏的肝中肝帝_康德哲学的基本态势_p5540.md",
+      "sha256": "71fe195bcba2dd02d98dbcb4031121e13d405af2aa2d299bd05e75fd9dc7c6c8",
+      "git_blob_sha": "ce09ad4554e608a29a74e655a667f66bffbe563a",
+      "locator": "Page1–24 L9–96；L97起下一讲排除",
+      "verification_scope": "逐段核读Page1–24 L9–96；L97起下一讲排除；未核原音和所述哲学家原典。"
+    },
+    {
+      "id": "m3-0214",
+      "title": "0214_3-2-1-2_先验经验主义_劣版现象学_普发主体性_自称_前康德_的后康德主义_怀特海的过程哲学_p5564",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-2-1-2_%E5%85%88%E9%AA%8C%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E5%8A%A3%E7%89%88%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%99%AE%E5%8F%91%E4%B8%BB%E4%BD%93%E6%80%A7_%E8%87%AA%E7%A7%B0_%E5%89%8D%E5%BA%B7%E5%BE%B7_%E7%9A%84%E5%90%8E%E5%BA%B7%E5%BE%B7%E4%B8%BB%E4%B9%89_%E6%80%80%E7%89%B9%E6%B5%B7%E7%9A%84%E8%BF%87%E7%A8%8B%E5%93%B2/0214_3-2-1-2_%E5%85%88%E9%AA%8C%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E5%8A%A3%E7%89%88%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E6%99%AE%E5%8F%91%E4%B8%BB%E4%BD%93%E6%80%A7_%E8%87%AA%E7%A7%B0_%E5%89%8D%E5%BA%B7%E5%BE%B7_%E7%9A%84%E5%90%8E%E5%BA%B7%E5%BE%B7%E4%B8%BB%E4%B9%89_%E6%80%80%E7%89%B9%E6%B5%B7%E7%9A%84%E8%BF%87%E7%A8%8B%E5%93%B2%E5%AD%A6_p5564.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划/3-2-1-2_先验经验主义_劣版现象学_普发主体性_自称_前康德_的后康德主义_怀特海的过程哲/0214_3-2-1-2_先验经验主义_劣版现象学_普发主体性_自称_前康德_的后康德主义_怀特海的过程哲学_p5564.md",
+      "sha256": "daceeebeefe7f39e70b742454138326418825e28d32908184b803a5018fefffa",
+      "git_blob_sha": "97b7e6e1ed1715ea88468f07796442844df0f468",
+      "locator": "Page1–20 L9–93；L94起下一讲排除",
+      "verification_scope": "逐段核读Page1–20 L9–93；L94起下一讲排除；未核原音和所述哲学家原典。"
+    },
+    {
+      "id": "m3-0215",
+      "title": "0215_3-2-1-3_先验逻辑主义_回到康德去_真正的_死硬的唯心主义_p5584",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-2-1-3_%E5%85%88%E9%AA%8C%E9%80%BB%E8%BE%91%E4%B8%BB%E4%B9%89_%E5%9B%9E%E5%88%B0%E5%BA%B7%E5%BE%B7%E5%8E%BB_%E7%9C%9F%E6%AD%A3%E7%9A%84_%E6%AD%BB%E7%A1%AC%E7%9A%84%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/0215_3-2-1-3_%E5%85%88%E9%AA%8C%E9%80%BB%E8%BE%91%E4%B8%BB%E4%B9%89_%E5%9B%9E%E5%88%B0%E5%BA%B7%E5%BE%B7%E5%8E%BB_%E7%9C%9F%E6%AD%A3%E7%9A%84_%E6%AD%BB%E7%A1%AC%E7%9A%84%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_p5584.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划/3-2-1-3_先验逻辑主义_回到康德去_真正的_死硬的唯心主义/0215_3-2-1-3_先验逻辑主义_回到康德去_真正的_死硬的唯心主义_p5584.md",
+      "sha256": "a4f71d8589deac2953962db7ca0b2b3a5daa1f71704b2d69b50b3e8b0168c84d",
+      "git_blob_sha": "fc147244f038a2c7b22bbecc49ca4f1a21dd8b10",
+      "locator": "Page1–21 L9–124；L125起下一讲排除",
+      "verification_scope": "逐段核读Page1–21 L9–124；L125起下一讲排除；未核原音和所述哲学家原典。"
+    },
+    {
+      "id": "m3-0216",
+      "title": "0216_3-2-1-4_符号形式主义_民哲终结者_新康德主义的回光返照_卡西尔的泛隐喻主义符号哲学_p5605",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/3-2-1-4_%E7%AC%A6%E5%8F%B7%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89_%E6%B0%91%E5%93%B2%E7%BB%88%E7%BB%93%E8%80%85_%E6%96%B0%E5%BA%B7%E5%BE%B7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9B%9E%E5%85%89%E8%BF%94%E7%85%A7_%E5%8D%A1%E8%A5%BF%E5%B0%94%E7%9A%84%E6%B3%9B%E9%9A%90%E5%96%BB%E4%B8%BB%E4%B9%89%E7%AC%A6%E5%8F%B7%E5%93%B2%E5%AD%A6/0216_3-2-1-4_%E7%AC%A6%E5%8F%B7%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89_%E6%B0%91%E5%93%B2%E7%BB%88%E7%BB%93%E8%80%85_%E6%96%B0%E5%BA%B7%E5%BE%B7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9B%9E%E5%85%89%E8%BF%94%E7%85%A7_%E5%8D%A1%E8%A5%BF%E5%B0%94%E7%9A%84%E6%B3%9B%E9%9A%90%E5%96%BB%E4%B8%BB%E4%B9%89%E7%AC%A6%E5%8F%B7%E5%93%B2%E5%AD%A6_p5605.md",
+      "kind": "secondary_compiled_transcript",
+      "repository_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-2_复习课/3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划/3-2-1-4_符号形式主义_民哲终结者_新康德主义的回光返照_卡西尔的泛隐喻主义符号哲学/0216_3-2-1-4_符号形式主义_民哲终结者_新康德主义的回光返照_卡西尔的泛隐喻主义符号哲学_p5605.md",
+      "sha256": "83500def5b64310db7ee7ead96d9da2b9de3ab089e38ade81414484d2ed2cc19",
+      "git_blob_sha": "0e472a6c313f9911d7904b7f74966d65ae5071e9",
+      "locator": "Page1–26 L9–102；L104起下一讲排除",
+      "verification_scope": "逐段核读Page1–26 L9–102；L104起下一讲排除；未核原音和所述哲学家原典。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-2-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段分命题比较；保留讲者解释与批评的归属，未将其提升为学界定论。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "有限者以自律的实践理性承担伦理使命。",
+          "status": "supported_course_statement",
+          "finding": "开头和场域定义均明确；有限理性并非因此不能自由。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page1 L9–11；Page8 L32"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "自由意志由上帝赋予。",
+          "status": "overgeneralized",
+          "finding": "全讲核查只有上帝作为伦理基础、实践悬设及使命叙述，不能改写为已证明的赋予机制。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page6 L26；Page8 L32；Page21–22 L81–86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "人的体验推理判断须经先验框架。",
+          "status": "supported_course_statement",
+          "finding": "框架本身也属实在，是人的中介性条件。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page9–11 L35–41"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "上帝与物自体同一，无需框架。",
+          "status": "overgeneralized",
+          "finding": "原文是如果存在如上帝那样的本体性主体则无需中介，不是上帝与一切物自体严格同一。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page12 L44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "判断结合材料、原理与分析论和辩证论。",
+          "status": "supported_course_statement",
+          "finding": "讲稿将时空形式下材料和原理结合为教学模型；未核其与康德原典术语精确对应。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page13–15 L47–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "把限于经验的原理用到物自体产生形而上幻相。",
+          "status": "supported_course_statement",
+          "finding": "Page16明说超出适用范围的后果；实践悬设不是理论证明。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page16–17 L56–61"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "有限框架中的自我立法须经普遍化检验并不断修正。",
+          "status": "supported_course_statement",
+          "finding": "检验动机及准则的普遍化，且反对把康德简化为禁欲严酷主义。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page18–20 L66–76；Page23 L91"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "最终趋向上帝完满、人本身为目的。",
+          "status": "needs_precision",
+          "finding": "趋近是不停逼近而非最终达成；本讲明确不能确认动机绝对纯粹。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page18–21 L66–81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "新兴资产阶级共同体依法审判一切。",
+          "status": "supported_course_evaluation",
+          "finding": "这是讲者对康德伦理姿态的政治历史定位，非原典自述。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page4 L20"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "自由实践的人调和经验与先天。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；仅为课程分类。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page8 L32"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "先验框架与超验物自体之分。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；仅为课程分类。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page9–12 L35–44"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "判断一元论。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；仅为课程分类。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page17 L61"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "有限无限逼近。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；仅为课程分类。",
+          "source_ids": [
+            "m3-0213"
+          ],
+          "locator": "Page18 L66"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "本批核的是编纂讲稿忠实度，原音、原典术语与哲学史判断仍须另核。"
+      ]
+    },
+    {
+      "code": "3-2-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段分命题比较；保留讲者解释与批评的归属，未将其提升为学界定论。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "克服主客二分、把判断力批判进行到底。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "讲者说可以这样看，是课程类比，非怀特海自述。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page3–4 L29–38"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "实体普遍获得主体权，尊重心理事物。",
+          "status": "needs_precision",
+          "finding": "泛主体性明确；尊重童年记忆情感的段落含讲者自身经历，后文特别区分自己的现象学立场与怀特海。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page2 L22–24；Page5 L43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "确定存在八种原初形式，非时空心理体验一概不是实体。",
+          "status": "overgeneralized",
+          "finding": "原文说好像八个、最好实体时空化；Page14还讨论负向摄入及审美伦理体验，不支持所有非时空体验一概排除。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page6–7 L50–53；Page14 L74"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "实体是体验，摄入其他实体并由主观形式组合。",
+          "status": "supported_course_statement",
+          "finding": "讲稿区分摄入主体、材料和主观形式；较高实体组合较低实体。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page8–10 L56–62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "最小单元是纯有/纯思。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确这样表述；未据原典确认是否是怀特海本人的标准术语。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page10 L62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "上帝有可能性理念总和与最完满现实整合两面。",
+          "status": "supported_course_statement",
+          "finding": "本讲以前后两面讲解，并与康德比较。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page1 L15；Page16–18 L80–86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "井井有条的有限世界吸引无限世界。",
+          "status": "needs_precision",
+          "finding": "所说完满秩序是趋向的目的，不能直接把现有有限世界等同已完成的完满。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page15 L77；Page18 L86"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "通过形式组合而成的他者调和现实与可能。",
+          "status": "needs_precision",
+          "finding": "Page13明确调和者为泛主体性，组合的他者只说明局部生成机制。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page12–13 L68–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "现实实体与永恒客体对立。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确对照，中文显相属于本讲译述。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page1 L15；Page12–13 L68–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "显相、感受与摄入一元论。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确对照，中文显相属于本讲译述。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page13–14 L71–74"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "有限趋无限与无限趋有限的方向对立。",
+          "status": "supported_course_statement",
+          "finding": "有本讲明确对照，中文显相属于本讲译述。",
+          "source_ids": [
+            "m3-0214"
+          ],
+          "locator": "Page15–18 L77–86"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "本批核的是编纂讲稿忠实度，原音、原典术语与哲学史判断仍须另核。"
+      ]
+    },
+    {
+      "code": "3-2-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段分命题比较；保留讲者解释与批评的归属，未将其提升为学界定论。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "存在是思维性的，按理念规则构造感觉和数理对象。",
+          "status": "supported_course_statement",
+          "finding": "Page1–8从思维与理念的二分说明；不可误作个体随意幻想创造世界。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page1–8 L9–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "没有思维完全不可触及的物自体。",
+          "status": "supported_course_statement",
+          "finding": "讲稿将不可思性还原为思维自设的停止点。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "把伦理无限趋近运用于现象和物自体。",
+          "status": "supported_course_statement",
+          "finding": "讲稿明确作此类比，以无穷小边界解释。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page3–5 L15–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "边界之外是不可思的感觉。",
+          "status": "contradicted_by_explicit_explanation",
+          "finding": "Page5明确不是不可思，而是思维自己设定不能思；感觉本身仍是思维活动。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page5 L21；Page18 L80–88"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "观念伦理等级赋予科学合法性。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "原文如此讲其先验逻辑，属于课程解释。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page9–10 L33–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "影响19世纪末20世纪初科学革命。",
+          "status": "supported_course_report",
+          "finding": "讲稿有年代及普朗克爱因斯坦例子，但这是讲者的影响史判断，未核史料。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page10–11 L36–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "先验逻辑只是学术话语习惯。",
+          "status": "supported_course_evaluation",
+          "finding": "原文为讲者对体系未经反省之处的批评。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page13–14 L45–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "伦理学经法学法律国家导向极右翼国家主义。",
+          "status": "supported_course_evaluation",
+          "finding": "明确说法见Page15及19–20；不能脱离归属写成中性的政治史定论。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page15 L51；Page19–20 L91–115"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "先验逻辑中介实体与理念。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；Page17误提怀特海不改变上下文是在解释科亨。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page12–13 L42–45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "思维与理念二分。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；Page17误提怀特海不改变上下文是在解释科亨。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page1 L9；Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "意识/判断一元论及伦理规则。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；Page17误提怀特海不改变上下文是在解释科亨。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page14–16 L48–65"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "自设最小边界调和两种有限无限方向。",
+          "status": "supported_course_statement",
+          "finding": "与本讲明确轴说明相符；Page17误提怀特海不改变上下文是在解释科亨。",
+          "source_ids": [
+            "m3-0215"
+          ],
+          "locator": "Page16–18 L54–88"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "本批核的是编纂讲稿忠实度，原音、原典术语与哲学史判断仍须另核。"
+      ]
+    },
+    {
+      "code": "3-2-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "all_manual_fields_compared",
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comparison_scope": "复合字段分命题比较；保留讲者解释与批评的归属，未将其提升为学界定论。",
+      "course_summary": [],
+      "axis_explanations": [],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "科学共同体夺走定义权，卡西尔以动态文化批判回应。",
+          "status": "supported_course_evaluation",
+          "finding": "Page3–4以争夺学术地位叙述；是讲者对哲学动机的评价。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "理念与逻辑由符号行为动态建构。",
+          "status": "supported_course_statement",
+          "finding": "明确以动态文化取代僵死理念等级。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page3–4 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "经验世界与文化世界都经符号构造，底层是神话隐喻。",
+          "status": "supported_course_statement",
+          "finding": "Page1–5完整展开部分代表整体。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "人本身是自转符号系统。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page14明确这样转述卡西尔，不能和讲者后文自己的主体论混同。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page14 L58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "隐喻向他者敞开，闪电与神怒连接，感知也由此构造。",
+          "status": "supported_course_statement",
+          "finding": "原文甚至强调神话中闪电就是神怒，非已经分开的再现。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page7–10 L27–38"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "没有进一步解释主体性时间性。",
+          "status": "supported_course_evaluation",
+          "finding": "这是讲者的批评，后面反复说尚未回答，不等于已全文检查卡西尔著作证明不存在讨论。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page10 L38；Page21–24 L83–92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "表现神话、直观实体偶性、概念关系功能。",
+          "status": "supported_course_statement",
+          "finding": "三种功能均有局部清楚定义；Page14的文化层次排序不能抹掉Page12把日常语言归直观。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page11–13 L43–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "一切符号建构。",
+          "status": "supported_course_statement",
+          "finding": "认识论1明说。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page11 L43；Page14 L58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "本体论完备与终极真相不可能。",
+          "status": "supported_course_statement",
+          "finding": "Page17–19直接否定绝对完备，但没有把完备与上帝作严格同一的定义。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page17–19 L71–77"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "科学历史艺术宗教都是自由创造。",
+          "status": "needs_precision",
+          "finding": "本讲有创造性共同点，但科学历史仍受规则和事实约束，艺术自由程度最高，不可压成同等任意。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page15–17 L63–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "文化准超越且不朽，现代柏拉图。",
+          "status": "supported_as_attributed_interpretation",
+          "finding": "Page19及21–22以讲者及其援引齐泽克的转述展开。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page19 L77；Page21–22 L83–86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "海德格尔认为有限性是超越基础。",
+          "status": "supported_course_report",
+          "finding": "讲者这样呈现争论，未核达沃斯文本。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page20 L80；Page22–23 L86–89"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            5
+          ],
+          "claim": "符号阉割及动物不一致性是海德格尔直接批判。",
+          "status": "misattributed_interpretation",
+          "finding": "Page20接入讲者自己的精神分析术语，Page21明确援引齐泽克；不能全段直接归海德格尔。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page20–21 L80–83"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "神话隐喻中介形而下和符号文化。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；目的论自由不抹去各文化形式的约束差别。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "符号活动与文化产物二分。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；目的论自由不抹去各文化形式的约束差别。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page7–11 L27–43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "符号建构一元论。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；目的论自由不抹去各文化形式的约束差别。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page11 L43；Page14 L58"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "完全自由的符号创造。",
+          "status": "supported_course_statement",
+          "finding": "与本讲轴定义相符；目的论自由不抹去各文化形式的约束差别。",
+          "source_ids": [
+            "m3-0216"
+          ],
+          "locator": "Page17–19 L71–77"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "本批核的是编纂讲稿忠实度，原音、原典术语与哲学史判断仍须另核。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-2-1-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①在场域论上抱有很强的伦理热忱，作为有限者的人拥有自由意志，人的自由意志是被上帝赋予的，人拥有自由意志的目的是领受使命，并通过自我设立绝对的法践行这个使命。",
+      "after": "①本讲以强烈的伦理热忱解释康德：有限的人具有自由实践的能力，通过纯粹实践理性自我立法并承担道德使命。上帝出现在伦理基础和实践悬设的说明中；这不等于理论上证明自由意志由上帝赋予。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0213"
+      ],
+      "locator": "Page1 L9–11；Page8 L32；Page21–22 L81–86",
+      "rationale": "去除把伦理悬设改成已证神授机制的推断。"
+    },
+    {
+      "code": "3-2-1-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②在本体论上，人对表象的体验、推理、判断需要先验框架作为中介，换言之，人的主体性本身就是由先验框架结构起来的，而上帝与本体性的物自体是同一的，无需经由先验框架。",
+      "after": "②在本讲的本体论解释中，人的体验、推理和判断须经先验框架中介；讲者设想，如有上帝那样的本体性主体，它便无需这种中介。人的理论认识不能凭此直达物自体，也不能将上帝与一切物自体直接等同。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0213"
+      ],
+      "locator": "Page9–12 L35–44",
+      "rationale": "恢复条件式主体例子，避免物自体与上帝同一化。"
+    },
+    {
+      "code": "3-2-1-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④在目的论上，人是有限者，人的体验、推理、判断只能在有限的先验框架(形式逻辑、命题化)中运行，但人能够按照这种有限的理性给自己立法，并通过实践理性检验它的普遍有效性，以此不断修正有限理性，最终趋向绝对者(上帝)的完满状态。在这个过程中，人本身就是人的自我立法，因此人本身就是目的，这代表18世纪新兴资产阶级昂扬的伦理姿态：共同体设立普遍的法，并依从此法审判一切。",
+      "after": "④本讲将目的论解释为有限者不断趋近无限：人在有限的认识条件下自我立法，以普遍化检验准则，并持续反省动机，不能宣称已经达到绝对纯粹或上帝的完满。人作为自律的伦理主体本身是目的。讲者进一步把这种姿态联系到18世纪新兴资产阶级共同体设立普遍法律的热忱；这是课程的历史评价。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0213"
+      ],
+      "locator": "Page4 L20；Page18–23 L66–91",
+      "rationale": "明确渐近过程及政治评价归属。"
+    },
+    {
+      "code": "3-2-1-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①泛主体化：怀特海批判康德哲学的主客对立，把康德的《判断力批判》进行到底，将康德对灵魂的分类学扩展到所有实体上，认为所有实体(包括人的思维对象、心理现象)都具有不同程度的主体性，这些他者的主体性是由上帝普发的，主体要尊重所有他者。但是，怀特海的实体分类学是被科学共同体束缚的，他设立了8种原初形式，只有由这8种原初形式组合而成的才是实体，不认可非时空化的心理体验是实体。",
+      "after": "①讲者以“泛主体化”解释怀特海，认为现实实体都具有主体性，并将此类比为把康德《判断力批判》推进到底。讲者也批评其实体分类受科学共同体限制，但提到原初形式数量时说的是“好像是八个”，不能据此确定为八种。讲稿对某些审美、诗性体验的排除提出批评，同时又讨论负向摄入；不宜概括成所有非时空心理体验都不被承认。尊重记忆与情感的部分还包含讲者自己的立场。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0214"
+      ],
+      "locator": "Page2–7 L22–53；Page14 L74",
+      "rationale": "保留原说不确定性，区分讲者经历、分类批评与怀特海主张。"
+    },
+    {
+      "code": "3-2-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③井井有条的实体世界：康德的哲学是人类有限主义的，作为有限者的人要趋向无限的上帝；而怀特海的上帝是分裂的，上帝在无限的可能世界中是所有理念的总合，而在有限的实体世界中是完美的井井有条的现实。井井有条的有限世界在目的论上吸引着混乱的无限世界，使得无限世界中的形式能够对有限世界中实体进行组合。",
+      "after": "③本讲将怀特海的上帝讲成两面：无限可能性的理念总和，以及现实实体最终趋向的完满整合。与康德的有限趋近无限相对，怀特海又呈现由无限可能走向有限现实秩序的方向。井井有条的完满是这一过程的目的，不能把当下的有限世界直接等同于已经完成的完满状态。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0214"
+      ],
+      "locator": "Page15–18 L77–86",
+      "rationale": "区分目的性完满与现存世界。"
+    },
+    {
+      "code": "3-2-1-2",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：通过形式组合而成的他者(调和形而下(偶然的现实实体)与形而上(观念的可能世界)的对立)",
+      "after": "场域论3：泛主体性（调和形而下的现实实体与形而上的可能世界；形式选择与摄入说明其生成机制）",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0214"
+      ],
+      "locator": "Page12–13 L68–71",
+      "rationale": "恢复本讲点名的调和者。"
+    },
+    {
+      "code": "3-2-1-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②消解物自体：将康德在道德哲学中提出的由有限趋近无限(3-2-1-1)运用于表象-物自体，表象无限趋近物自体，换言之，物自体就是思维给自己设定的最小可思之边界，表象趋近于此边界，而在此边界之外则为不可思的感觉。",
+      "after": "②本讲把康德道德哲学的有限趋近无限类比到现象与物自体：所谓物自体成为思维给自己设定的最小边界。感觉并不是边界之外真正不可思的异物，而是思维自行停下、把最小单元当作感觉的结果；讲者明确说这种不可思性是思维自己设定的。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0215"
+      ],
+      "locator": "Page3–5 L15–21；Page18 L80–88",
+      "rationale": "原摘要把自设的不可思边界改成真正外在感觉，与本讲明确说明冲突。"
+    },
+    {
+      "code": "3-2-1-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③先验逻辑就是观念的伦理学等级制，科学中的所有命题关系和数理逻辑必须符合此伦理学等级制才能获得合法的本体论地位，影响了19世纪末20世纪初的欧陆科学革命。但是没有意识到先验逻辑本身只是学术共同体的话语习惯，而不具有真正的先验的超越性；伦理学等级制背后的保障是法学，法学背后是法律，法律背后是国家，导向极右翼国家主义。",
+      "after": "③讲者把科亨的先验逻辑解释为观念的伦理等级，科学命题须由其取得合法性，并认为这种思路影响了19世纪末至20世纪初的科学发展。随后讲者批评它把学术共同体的话语习惯当作超越根据，并沿伦理学、法学、法律到国家的链条批评其国家主义倾向。科学影响史与“极右翼”的政治定性均为本讲判断，本批未以原典或历史材料独立证实。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0215"
+      ],
+      "locator": "Page9–15 L33–51；Page19–20 L91–115",
+      "rationale": "为复合历史与政治判断补足归属，保留课程批判内容。"
+    },
+    {
+      "code": "3-2-1-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①柯亨的先验逻辑主义(3-2-1-3)最终会导致科学共同体获得先验逻辑的定义权，进而褫夺哲学的独立性和领导地位。卡西尔用动态的文化批判代替静态的理性批判，先验逻辑不是超越性的，而是由语言/符号行为动态建构的，以此反击科学共同体。",
+      "after": "①讲者认为，科亨式先验逻辑依赖学术共同体的理念等级，科学家的话语权增长使哲学地位下降；他据此解释卡西尔用动态文化批判替代静态理性批判的动机。逻辑与理念被视为语言和符号活动的动态构造。这种学术权力叙述是本讲评价，非本批独立核实的思想史因果。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0216"
+      ],
+      "locator": "Page3–4 L15–18",
+      "rationale": "为动机因果判断保留课程归属。"
+    },
+    {
+      "code": "3-2-1-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在本体论上，人类通过隐喻性的语言，使得主体向异质性他者敞开，比如，原始人通过把闪电隐喻为神明的愤怒，使闪电这个事物本身向主体显现，同理，人的一切感觉、体验的底层符号机制都是这样的隐喻。但是卡西尔没有进一步解释人的主体性、时间性是如何构造的。",
+      "after": "③本讲以神话中的闪电与神怒说明隐喻性符号活动如何向异质他者敞开，并把基本感觉的形成也纳入此机制。随后讲者批评卡西尔没有充分追问主体性与时间性如何生成；这是本讲的批判立场，不能据此宣称已核卡西尔全部著作而证明他从未讨论这些问题。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0216"
+      ],
+      "locator": "Page7–10 L27–38；Page21–24 L83–92",
+      "rationale": "限定否定性学术判断的核查范围。"
+    },
+    {
+      "code": "3-2-1-4",
+      "field_path": [
+        "feature_list",
+        4
+      ],
+      "before": "⑤在目的论上，认为本体论的完备(即上帝)是不可能的、形而上世界背后的真相(即无限)是不存在的，一切科学、历史、艺术、宗教都是人类通过隐喻性的符号活动进行的自由创造。",
+      "after": "⑤本讲将目的论4解释为开放的符号创造：任何构造都不能成为完备的本体论真相，无限本身也是符号构造。科学、历史、艺术和宗教都有创造性，但自由程度和约束不同；讲稿特别区分科学历史的事实与规则要求，以及艺术更直接的自由创造。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0216"
+      ],
+      "locator": "Page15–19 L63–77",
+      "rationale": "去除上帝等于完备的未明定义，保留各形式约束差别。"
+    },
+    {
+      "code": "3-2-1-4",
+      "field_path": [
+        "feature_list",
+        5
+      ],
+      "before": "⑥人是符号的动物：卡西尔认为有限的人类可以通过符号活动拟制出具有准超越性的文化世界，这个文化世界不朽，人的精神在文化世界中永存，这种文化世界不过是柏拉图的理念世界的现代翻版。海德格尔对卡希尔有进一步的批判：人的有限性是肯定性的而非否定性的，主体的有限性就是主体的超越性；主体不是符号活动，而是符号的自我阉割活动；与其说人是符号的动物，不如说人是动物对自身不一致性的符号学阉割。",
+      "after": "⑥本讲把卡西尔的“符号动物”解释为有限人类建构准超越文化世界，并借齐泽克的讨论将其比作现代的柏拉图理念位面。讲者以海德格尔强调有限性和时间性来反驳以文化不朽超越人的有限性，又用精神分析的“符号阉割”和动物自身的不一致性重述主体问题。后者是本讲结合齐泽克展开的解释，不宜整段当作海德格尔直接提出的术语与论证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m3-0216"
+      ],
+      "locator": "Page19–24 L77–92",
+      "rationale": "区分卡西尔转述、海德格尔争论及讲者的精神分析重述。"
+    }
+  ]
+}

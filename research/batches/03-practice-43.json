@@ -1,0 +1,1865 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-13",
+  "status": "secondary_transcript_partial_reading_candidates",
+  "method": "本批逐条核读固定提交中的课程二手整理正文相关段落，概括讲述的论证，不将历史评价与政治判断当作独立核验的事实。每项有本地行号及文件内Page定位；Page不是原视频时间码或原书通用页码。排除文件末尾已进入下一讲的内容。轴定义优先取本讲，继承父讲时显式注明。未逐字核听原视频，未通读全部正文。",
+  "sources": [
+    {
+      "id": "p03-43-43",
+      "title": "主义主义 4-3：建设理想社会（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/0321_4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A_p8077.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、39、50、62、65；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/0321_4-3_建设理想社会_p8077.md",
+      "sha256": "ade2e2a64059377b951bc47f1ed6d6beb4a6c38d085af8aed1f3d774837307c2",
+      "git_blob_sha": "f67e6de1d74b4c618e9f7c2b06d27e38badb33fb"
+    },
+    {
+      "id": "p03-43-431",
+      "title": "主义主义 4-3-1：生活必须品（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/0322_4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81_p8111.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、30、39、45、57；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-1_生活必须品/0322_4-3-1_生活必须品_p8111.md",
+      "sha256": "f8bfd749aeb55a375f9fdedc5b533d8fe5967ae61cb5e31db115636be17e497b",
+      "git_blob_sha": "155cfd20ad43000e56b6f16ed7a44ab2f9d3a456"
+    },
+    {
+      "id": "p03-43-4311",
+      "title": "主义主义 4-3-1-1：组织经济生活（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB/0323_4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB_p8135.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、14、44、62、83；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-1_生活必须品/4-3-1-1_组织经济生活/0323_4-3-1-1_组织经济生活_p8135.md",
+      "sha256": "4b7fa75a3b5bcadd3976c0c7ca6f5033a3d5a77f651a9cb36b3c990cd4d843e4",
+      "git_blob_sha": "a58874c02d91fbd6aab8b6845b3f44cef40619e1"
+    },
+    {
+      "id": "p03-43-4312",
+      "title": "主义主义 4-3-1-2：生产的再政治化（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96/0324_4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96_p8160.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、57、62、92、95、104；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-1_生活必须品/4-3-1-2_生产的再政治化/0324_4-3-1-2_生产的再政治化_p8160.md",
+      "sha256": "41fecf4f4468a8c0af67926c2d8ab9830f214fa3df3975319440b6741af3364d",
+      "git_blob_sha": "8a20148bfa57ae292e02b25ba3758f7a473ec15d"
+    },
+    {
+      "id": "p03-43-4313",
+      "title": "主义主义 4-3-1-3：列阵的统一（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80/0325_4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80_p8187.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、18、57、117、127；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-1_生活必须品/4-3-1-3_列阵的统一/0325_4-3-1-3_列阵的统一_p8187.md",
+      "sha256": "30fe83ed370ff509dbf170e88340682e2b3a7d8142d6e2f87be5383a2fec69d3",
+      "git_blob_sha": "0e87c67a8e0d04bdf4e51c5cea147fdd18283721"
+    },
+    {
+      "id": "p03-43-4314",
+      "title": "主义主义 4-3-1-4：埋下生命线（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF/0326_4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF_p8224.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、29、44、54、64；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-1_生活必须品/4-3-1-4_埋下生命线/0326_4-3-1-4_埋下生命线_p8224.md",
+      "sha256": "7b2f58fd041a0806e3a6d24fbcee5876d829e6546cb980ce344a6ffe5f8c9320",
+      "git_blob_sha": "9f3c77d641ea5cfbe6f8f953c02aecda32aec0d3"
+    },
+    {
+      "id": "p03-43-432",
+      "title": "主义主义 4-3-2：对于生产活动的解放_要抢在历史惯性前头积极做出改变（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/0327_4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98_p8251.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、15、18、24、36；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变/0327_4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变_p8251.md",
+      "sha256": "44c3295b2f10679246e795e550e8177cb04df11a5b00b73b9912727d9a7a9dd2",
+      "git_blob_sha": "b1c1b2c4f51eb6124db0985d2fb1cf449332ea52"
+    },
+    {
+      "id": "p03-43-4321",
+      "title": "主义主义 4-3-2-1：人道化人口（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3/0328_4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3_p8266.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：10、73、117、132、138；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变/4-3-2-1_人道化人口/0328_4-3-2-1_人道化人口_p8266.md",
+      "sha256": "28799bae94f59696c57f07ee42f10680a6e5e4bd8d5a40132f1da42c90416d98",
+      "git_blob_sha": "8e9ee8af677087f77a5e2d13fc653742c976e190"
+    },
+    {
+      "id": "p03-43-4322",
+      "title": "主义主义 4-3-2-2：激发自发性（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7/0329_4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7_p8289.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、24、33、45；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变/4-3-2-2_激发自发性/0329_4-3-2-2_激发自发性_p8289.md",
+      "sha256": "b43ad213e085264b9bfa4f70881341467eb16fee9621074ebf06736e8b71d124",
+      "git_blob_sha": "067735fbe319f72277b57d3e94eead643c9bfc57"
+    },
+    {
+      "id": "p03-43-4323",
+      "title": "主义主义 4-3-2-3：经济-妇女-儿童的三重解放（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE/0330_4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE_p8308.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、80、92、101、104、110；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变/4-3-2-3_经济-妇女-儿童的三重解放/0330_4-3-2-3_经济-妇女-儿童的三重解放_p8308.md",
+      "sha256": "5db88c05b960c28935360effcc51655171ba5ec21cd711076af61960d6286a6f",
+      "git_blob_sha": "61cba3e6d471f125f15d4c22d0f52aa9edf56c7d"
+    },
+    {
+      "id": "p03-43-4324",
+      "title": "主义主义 4-3-2-4：解放思想（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3/0331_4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3_p8339.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：24、103、109、124、127；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-2_对于生产活动的解放_要抢在历史惯性前头积极做出改变/4-3-2-4_解放思想/0331_4-3-2-4_解放思想_p8339.md",
+      "sha256": "981c9a7ca44199ca5c4f0c304093429aecba2a84fd38fab99d6d186101dac763",
+      "git_blob_sha": "a0e0a0c292cf6df938a9ae5d25b17f83930b369d"
+    },
+    {
+      "id": "p03-43-433",
+      "title": "主义主义 4-3-3：战略-战役-战斗的统合（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/0332_4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88_p8371.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、45、57、86；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-3_战略-战役-战斗的统合/0332_4-3-3_战略-战役-战斗的统合_p8371.md",
+      "sha256": "004917d9cb101539fc38cb79df14c54239dfb42a3f24b83feac07e0b986d390f",
+      "git_blob_sha": "75fd85954dce6fd2f24ea26d8b36106fbe41cf1d"
+    },
+    {
+      "id": "p03-43-4331",
+      "title": "主义主义 4-3-3-1：攻略性组织工作（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C/0333_4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C_p8400.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：41、51、60；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-3_战略-战役-战斗的统合/4-3-3-1_攻略性组织工作/0333_4-3-3-1_攻略性组织工作_p8400.md",
+      "sha256": "b756bd8ca9f37a1e6c2923cd6fca5cb818783ac5ffba2946af1ddf938f8b115b",
+      "git_blob_sha": "b41e840ccc48193f730e487e3239dcbcb522461c"
+    },
+    {
+      "id": "p03-43-4332",
+      "title": "主义主义 4-3-3-2：纪律教育（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2/0334_4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2_p8418.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、24、44、52、55；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-3_战略-战役-战斗的统合/4-3-3-2_纪律教育/0334_4-3-3-2_纪律教育_p8418.md",
+      "sha256": "de2a1c781b14b8e234ea6cea9565b40d9573e1caf5a42004786ff1f5957b994d",
+      "git_blob_sha": "1db773671f9e914f88dd259c1eee206bfb6bf9f6"
+    },
+    {
+      "id": "p03-43-4333",
+      "title": "主义主义 4-3-3-3：将资本社会化_投身于伟大的实践之中（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD/0335_4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD_p8436.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：10、26、50、67、81、90；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-3_战略-战役-战斗的统合/4-3-3-3_将资本社会化_投身于伟大的实践之中/0335_4-3-3-3_将资本社会化_投身于伟大的实践之中_p8436.md",
+      "sha256": "eee29d2712d33563eabeb9aa4d4645e824ba00df7cae0afcb20ed08cc13b0335",
+      "git_blob_sha": "34d6222f753044f4ab6570e534a950f46dd8f265"
+    },
+    {
+      "id": "p03-43-4334",
+      "title": "主义主义 4-3-3-4：将全球主义替换掉（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89/0336_4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89_p8454.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：14、24、29、39、50、59；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-3_战略-战役-战斗的统合/4-3-3-4_将全球主义替换掉/0336_4-3-3-4_将全球主义替换掉_p8454.md",
+      "sha256": "9937558f0dbe75a71f74399bb78f6f58574591c1f365bd5ee2076250e5efd559",
+      "git_blob_sha": "8899ee2a011bb0cb40acd0928ba0995ed7aefbab"
+    },
+    {
+      "id": "p03-43-434",
+      "title": "主义主义 4-3-4：s主义的资本实现（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/0337_4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0_p8468.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、24、29、34、39；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-4_s主义的资本实现/0337_4-3-4_s主义的资本实现_p8468.md",
+      "sha256": "52d0483fb9f7796f29d1d22404a69fa6e114ff0f6109c7da7999bd536794f42c",
+      "git_blob_sha": "ad578f39fd3ca64c1bb6a3d4c89ad1fd61acb935"
+    },
+    {
+      "id": "p03-43-4341",
+      "title": "主义主义 4-3-4-1：农业的去本地化（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96/0338_4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96_p8479.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、49、70、76、82；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-4_s主义的资本实现/4-3-4-1_农业的去本地化/0338_4-3-4-1_农业的去本地化_p8479.md",
+      "sha256": "b96ae951d4cf9df67c81badea7105350e9d3af7b5c9229c7559620abe3d8ea0b",
+      "git_blob_sha": "9d391768339bfe1adf70206e7e31199d7dc017d9"
+    },
+    {
+      "id": "p03-43-4342",
+      "title": "主义主义 4-3-4-2：去代理人化（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96/0339_4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96_p8503.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、36、42、54；另核读L60结语前；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-4_s主义的资本实现/4-3-4-2_去代理人化/0339_4-3-4-2_去代理人化_p8503.md",
+      "sha256": "056fa264913af09a2870eb8a159c33d6007d87fc8a9f229bb552f102600a0d7e",
+      "git_blob_sha": "2a1cf6e3276a49a12d98eb5266d9a517d6b773cd"
+    },
+    {
+      "id": "p03-43-4343",
+      "title": "主义主义 4-3-4-3：合法性的再生产（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7/0340_4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7_p8521.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、14、19、39；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-4_s主义的资本实现/4-3-4-3_合法性的再生产/0340_4-3-4-3_合法性的再生产_p8521.md",
+      "sha256": "ddc39f6615fabdd1969637d95e24c19544ab8ddbda46c290641d6b122a632369",
+      "git_blob_sha": "5507119eb4270361a289b69455ef7860729f3827"
+    },
+    {
+      "id": "p03-43-4344",
+      "title": "主义主义 4-3-4-4：s主义的人类学实现（二手整理正文）",
+      "author": "未明子讲述；当前仓库整理与校订责任未独立核实",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0/0341_4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0_p8535.md",
+      "kind": "secondary_compiled_transcript",
+      "language": "zh-Hans",
+      "edition": "weathour/ismism-system 固定提交 b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2 的 corpus/clean-markdown 分章文本。",
+      "translator": null,
+      "locator": "文件内Page及Markdown行号，详见各项；不等于原视频时间码。",
+      "verification_scope": "定向核读本批引用的局部论证，主要定位行：9、60、66、69、72、75；未通读全章，未核听原视频，也未独立验证史实。排除末尾已切换下一讲的段落；同一行混有换讲时仅取换讲前内容。",
+      "repository_path": "corpus/clean-markdown/4_实践/4-3_建设理想社会/4-3-4_s主义的资本实现/4-3-4-4_s主义的人类学实现/0341_4-3-4-4_s主义的人类学实现_p8535.md",
+      "sha256": "752d7b901ec04c1c2dd65448d80b74c374339a7b63d556293d4af7fe7ef78220",
+      "git_blob_sha": "6f72e7ccde62ec0d24641b3bdd3f9885d227c335"
+    }
+  ],
+  "entries": [
+    {
+      "code": "4-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲区分作为建设手段的活动与所建成的社会关系：某项措施服务于社会主义建设，并不表示其直接结果已经具有社会主义性质。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "建设者以历史条件为中介，指向人民的幸福；物质丰富和发展机会应使人逐渐摆脱与劳动、思想及生活相分离的状态。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 7；L39"
+        },
+        {
+          "text": "建设被理解为长期过程，行动者不能要求历史在自己一生内兑现理想，更不能以此无视多数人的生活体验。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 10–12；L50–56"
+        },
+        {
+          "text": "本体论的中介被表述为人民的幸福：生活的意义和对自身历史的认可，用来区别于奴役者与被奴役者两端的异化享乐。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 14–15；L62–65"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：建设者借历史条件开展建设，以人民幸福为指向；实践单元被表述为掌握现实力量的组织。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 7；L39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以人民幸福中介历史现实与人的生存体验，使人能够认可并参与自己的历史。",
+          "source_ids": [
+            "p03-43-43"
+          ],
+          "locator": "文件内 Page 15；L65"
+        }
+      ],
+      "editorial_notes": [
+        "本讲对晚期谢林的定位属于讲者解释；引用缩写未在本批自行还原。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。",
+        "整理本L110把此哲学位置联系到晚期谢林；需要具体原典与原讲图示对照。"
+      ]
+    },
+    {
+      "code": "4-3-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "以“生活必须品”命名，是为了突出生产、交换、分配和消费围绕物展开，同时构成人与物的实践关系。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "认识方式称为后勤学，所维持的不只是物资供给，也包括组织、纪律及共同生活的持续。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 8；L30"
+        },
+        {
+          "text": "实践单元被描述为类家庭的生产和分配组织，要协调普通人口、部队与先锋力量的生存；类家庭不被直接等同于家长制。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 13；L45"
+        },
+        {
+          "text": "安全、归属和亲近感构成这一层次的幸福；与此同时，讲述警惕供给改善之后重新出现的分化。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 17–23；L57–75"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：基层建设者面对草创、危机中的物质条件，借农业、手工业及其组织维持共同体。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 11；L39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以免于失所和基本生存不安的安全感、归属感作为中介。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 17；L57"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：后勤学统一处理物资供给、组织延续及纪律问题。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 8；L30"
+        }
+      ],
+      "editorial_notes": [
+        "上游标题为“生活必需品”，整理本作“生活必须品”；这里记录异文，不据此覆盖原题。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-1-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "组织经济生活具有超出经济本身的目的，但经济生活的维持也被当成独立重要的实践任务。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "直接目的被确定为解放区的存续；互助、信用与生产组织在周边压力中支撑其生活。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "text": "建设从具体农业和手工业发展阶段出发，依靠基层组织把分散的协作联结成网络。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 8–12；L44–62"
+        },
+        {
+          "text": "本体论中介是生活可由自己把握的自主感；互助既涉及主动参与，也涉及超出地方能力时的协同支援。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 19；L83"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：建设者从当地经济发展的历史阶段出发组织生产，实践单元落在各级基层组织。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 8；L44"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：在既有生产关系遗产与经济孤立之间，通过互助中的自主感进行中介。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 12；L62"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：讲述将其概括为全心全意为人民服务。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：维持解放区的现实存在，使其经济和共同生活能够存续。",
+          "source_ids": [
+            "p03-43-4311"
+          ],
+          "locator": "文件内 Page 2；L14"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。",
+        "L9明确推荐缩写“M”的选集第一卷，题名、作者及推荐篇目须与原讲核对后登记。"
+      ]
+    },
+    {
+      "code": "4-3-1-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲把生产再政治化解释为：生产组织者不能只计算产品和收益，还须面对生产关系造成的社会后果。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "使有关力量进入代表和责任关系，是为了让其承担所组织生产过程的后果，而非任其将责任完全外部化。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 11；L57"
+        },
+        {
+          "text": "建设者借既有统治关系组建新的政治关系，因此需要处理纳入旧有力量与改变其行为之间的张力。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 12；L62"
+        },
+        {
+          "text": "目的论的两端是维持生产生存，以及修补生产中的人际关系、明确谁应响应和承担责任。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 22；L104"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：建政者借既有统治史和生产联系建立新的公共责任关系。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 12；L62"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以负责关系带来的安定感中介生产关系中的支配、痛苦及既有力量。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 18；L92"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：采用一阶代表关系和多数决，讲述以不同阶层的比例安排为例。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 19；L95"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：自力更生、维持生存，与修补社会关系、承担责任并列而有张力。",
+          "source_ids": [
+            "p03-43-4312"
+          ],
+          "locator": "文件内 Page 22；L104"
+        }
+      ],
+      "editorial_notes": [
+        "关于具体历史制度及英国政治的描述尚未作独立史料核验。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-1-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲接续生存与责任之间的冲突，将孤立地方关系放入更大范围的联合问题。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 1–4；L9–18"
+        },
+        {
+          "text": "统一战线被说明为围绕共同面对的帝国主义压力对齐不同力量，而不要求各方原有差异立即消失。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 4；L18"
+        },
+        {
+          "text": "比类家庭照料更广的认同感，被联系到民族和国族认同；讲述同时承认这种认同有历史生成过程。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 17–20；L57–66"
+        },
+        {
+          "text": "认识上坚持普通人口的大多数与少数统治者并不等同，反对将整个民族共同体都视作统治力量的支持者。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 31–34；L117–130"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：沿用父讲总论，以建设者组织既有物质和社会条件，维持共同体生存。",
+          "source_ids": [
+            "p03-43-431"
+          ],
+          "locator": "文件内 Page 11；L39",
+          "inherited_from": "4-3-1"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以更广范围的共同体认同中介地方生活和外部历史力量。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 17；L57"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：坚持一阶的大多数代表关系，避免把整个人口与少数统治者直接等同。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 33；L127"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：开篇把维持生存与承担生产责任的冲突，转入围绕共同对手的战线对齐。",
+          "source_ids": [
+            "p03-43-4313"
+          ],
+          "locator": "文件内 Page 4；L18",
+          "status": "transition_based_pending_video_diagram"
+        }
+      ],
+      "editorial_notes": [
+        "整理本L18将统一战线称作“本体论”，同时开篇承接前讲目的论两端；目的论3这一整理依赖过渡论证，仍需核听原图示。",
+        "标题“列阵的统一”与上游“阵列的统一”存在异文。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-1-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "“生命线”指历史情境中维系内外联系的情报工作，并与公开的统一战线形成相互关联的两面。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "讲述强调这种活动的最终效果受外部复杂局势影响，不能预先固定为单一结果。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 5–6；L29–34"
+        },
+        {
+          "text": "认识上将事态看作平面的关联网络，强调普通个人提供的信息也具有意义。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 8–9；L44–49"
+        },
+        {
+          "text": "本体论中介被称为安全感；这一解释服务于讲者对共同体存续的理解。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 10；L54"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单元被指定为有关情报组织，服务于共同体与外部关系的维持。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 12；L64"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以安全感中介外部威胁和共同体生存。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 10；L54"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论1：把不同位置的事态作为一阶关联网络加以认识。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 8；L44"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：活动效果向复杂局势开放，目的不能被僵硬地预先锁定。",
+          "source_ids": [
+            "p03-43-4314"
+          ],
+          "locator": "文件内 Page 5；L29"
+        }
+      ],
+      "editorial_notes": [
+        "此条只作历史课程概念概括，未据缩写还原具体机构，也未核实讲述中的战果统计。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "解放的对象是生产活动本身，包括生产者、自然对象、产品及生产关系，而不只是增加抽象的生产力。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "历史继承的生产关系会不断重造被视为自然的状态，因此解放需要另设新的普遍关系并持续介入。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 3；L15"
+        },
+        {
+          "text": "自由感和生命的新鲜感被用来中介既有枷锁与异化造成的痛苦。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 4–7；L18–27"
+        },
+        {
+          "text": "实践单元是不同领域的解放者；新设机构的常设性不意味着僵止，而应包含持续的主动活动。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 10–11；L36–39"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：由不同生产及社会领域的解放者持续介入历史条件。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 10；L36"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以自由感和新鲜感中介既有枷锁与异化造成的痛苦。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 6；L24"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：历史再生产的所谓自然状态，与新设立的解放性普遍关系相对。",
+          "source_ids": [
+            "p03-43-432"
+          ],
+          "locator": "文件内 Page 3；L15"
+        }
+      ],
+      "editorial_notes": [],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。",
+        "L24明确提到马克思《1844年经济学哲学手稿》，并谈及英国工人生存状况；后者的作者归属和文本位置须进一步校勘。"
+      ]
+    },
+    {
+      "code": "4-3-2-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "“人道化人口”被解释为过程：使受支配的人获得更有纪律、目的和主动性的生活，而不是只把他们计算成人口数量。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 1–3；L10–34"
+        },
+        {
+          "text": "军事和思想政治工作被放在共同的历史建设过程中讨论，强调主动保护和发展正在形成的人与关系。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 10–13；L117–126"
+        },
+        {
+          "text": "认识论区分一般情报上报与逐级反思、判断后的意见，集体智慧并非简单相加个人意见。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 15；L132"
+        },
+        {
+          "text": "目的论将人的解放与共同决策后的服从联系起来，讲述把自下而上的参与和自上而下的执行视为同一过程的两面。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 17–20；L138–147"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单元落在各层级政治工作者；建设者在剧烈历史变化中保护和发展人的生活。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 10；L117"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以积极性、朝气和充实感作为幸福的中介。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 6；L73"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：未经反思的一般信息，与逐层判断和抉择形成的意见相区别。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 15；L132"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：以人道化为指向，并把共同决策后的执行服从视作实现这一目标的条件。",
+          "source_ids": [
+            "p03-43-4321"
+          ],
+          "locator": "文件内 Page 17；L138"
+        }
+      ],
+      "editorial_notes": [
+        "“investigated”“human eyes”等英文转写明显可疑，本批未据此制作术语定义。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-2-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "与前讲主动组织的解放相比，本讲关注群众从自身历史经验中出现的自我解放活动。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "组织者既要承接正义诉求，也要防止旧有恩怨转化为无政府状态或失控仇杀。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 6–7；L24–27"
+        },
+        {
+          "text": "认识上的两端是较稳定的法制工作，以及对具体情境中正义诉求的判断；两者需要同时开展。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 9–11；L33–39"
+        },
+        {
+          "text": "行动者不能设想自己站在历史之外下指令，而须承认自身也被当地关系塑造，并承担判断的局限。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 13–16；L45–54"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：地方组织工作者协调组织行动与群众自发活动，自己也处于现实关系之内。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 6；L24"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以正义感中介历史恩怨和自发活动可能失控的否定性。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 6；L24"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：较稳定的法制化与具体情境下的灵活判断形成张力。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 9；L33"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：由组织主动展开的人道化，与群众自我解放的自发性相对。",
+          "source_ids": [
+            "p03-43-4322"
+          ],
+          "locator": "文件内 Page 1；L9"
+        }
+      ],
+      "editorial_notes": [
+        "这部分涉及讲者对历史暴力与正义的评价；摘要记录其论证，不作现实行动建议。",
+        "整理本L63明确说相关描绘是比喻，讲者自称未体验该历史过程。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-2-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "经济、妇女和儿童解放被视为同一过程；妇女劳动权益、儿童教育和免受家庭捆绑的条件，是检验经济生活的重要尺度。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "亲子、性别、代际和宗族关系看似非生产关系，却与生产关系的历史局限相连；改变经济关系应同时关注这些联系。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 17–20；L80–89"
+        },
+        {
+          "text": "一方面建立婚姻、继承和财产制度，另一方面承认地区、人员与行政资源的限制，不能把抽象原则直接变成即时结果。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 24–25；L101–104"
+        },
+        {
+          "text": "工作需要依靠妇女和儿童自身的参与，又要抵抗旧有父权和族权惯性；行动者也必须反省自身的旧观念。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 27–30；L110–119"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：调整看似非生产的性别、亲子和代际关系，实践单元侧重相关民政与妇幼工作。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 17；L80"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以家庭和社会关系中的平等、融洽感中介疏离与压迫。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 21；L92"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：制度化权利安排与因地、因人的具体处理并列。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 24；L101"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：通过协作把主动引导与依靠当事人自发力量协调起来。",
+          "source_ids": [
+            "p03-43-4323"
+          ],
+          "locator": "文件内 Page 25；L104"
+        }
+      ],
+      "editorial_notes": [
+        "此处有明确的儿童教育及免于劳动权利论述；不能用19世纪其他文本的童工观点替代本讲。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-2-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "科学被按解放作用来衡量：它应来自实践、回到实践，帮助人摆脱陈旧和异化的生产状况。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 2；L24"
+        },
+        {
+          "text": "讲述强调行动者、生产能手和普通人在一线实践中产生知识，而不以研究发生在哪种政体内部直接判定其性质。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 20；L103"
+        },
+        {
+          "text": "好奇心和求知欲的满足构成本体论中介，使知识不只是外在命令而成为与自然打交道的能力。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 22；L109"
+        },
+        {
+          "text": "认识论承认功利经验与探索性科学的冲突；目的则是向异质性敞开，让经验对象改变既有思维。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 27–28；L124–127"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单元包括行动标兵和生产能手，在现实活动中创造可解放人的知识。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 20；L103"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以好奇心、求知欲得到满足的有根感作为中介。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 22；L109"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论2：功利性的经验指标与冒险、探索性的科学相对。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 27；L124"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：向异质性敞开，使思维能够被其对象改变。",
+          "source_ids": [
+            "p03-43-4324"
+          ],
+          "locator": "文件内 Page 28；L127"
+        }
+      ],
+      "editorial_notes": [
+        "本讲的意识身体性与自然自我实现论述仍需和相关原典对读；未采纳其末尾溢入的4-3-3内容。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲把战略、战役和战斗称为统合关系，而不只是协同；三者时间尺度不同，整体方向须由战略规定。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "建设者被理解为三种层次相结合的行动者，既认识自己的前沿任务，也辨认后方支持与更长程方向。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 13–15；L45–51"
+        },
+        {
+          "text": "人的成长与发展构成本体论中介：能力、理想和物质条件的结合，使人感到自己能够处理更复杂的问题。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 17；L57"
+        },
+        {
+          "text": "认识论以理想性的战略方向协调较僵硬的现实条件与灵活的具体判断；讲述同时指出战役符号与个体真实伤亡并不相同。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 24–27；L86–101"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：以具有战略、战役和战斗视野的行动者建设和维护历史进程。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 13；L45"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：人的成长、能力提升与发展喜悦作为中介。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 17；L57"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以理想性的战略方向协调具体条件的僵硬性与行动判断的灵活性。",
+          "source_ids": [
+            "p03-43-433"
+          ],
+          "locator": "文件内 Page 24；L86"
+        }
+      ],
+      "editorial_notes": [
+        "军事例子作为课程哲学图式保存；本批没有验证其军事理论或操作有效性。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-3-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "攻略性组织工作以形成真正的同伴关系为核心；团队认同和对共同立场的认同是关键环节。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 11；L41"
+        },
+        {
+          "text": "组织面对的是已经存在的意识形态残余，而非空白个人，因此吸收新成员并不等于无条件包揽所有人。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 11；L41"
+        },
+        {
+          "text": "认识论强调现实时间窗口与组织进度，具体行动必须接受整体战略条件的限制。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 13；L51"
+        },
+        {
+          "text": "目的被明确概括为壮大队伍，但讲述要求将人数、质量与可投入的时间一同衡量。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 16；L60"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单元是现实的组织活动，以形成共同工作的团队为指向。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 11；L41"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以彼此认同及共同立场的认同，处理中介前的意识形态残余。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 11；L41"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以整体战略与时间进度协调成员数量、质量及具体行动条件。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 13；L51"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：发展和壮大队伍。",
+          "source_ids": [
+            "p03-43-4331"
+          ],
+          "locator": "文件内 Page 16；L60"
+        }
+      ],
+      "editorial_notes": [
+        "本讲词源和三国史例子中，讲者自称可能不对、并非专门史研究；未把这些例子当作已校订事实。",
+        "文件末尾L69–70已转入纪律教育，不用于本条摘要。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-3-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "纪律教育被解释为用意识形态组织不同能力、不同习惯的人，使人数扩展与少数人的反思能力在统一框架内协调。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "目的论并列吸收同伴与对历史进程负责；讲述认为不是所有同阵营者都能立即承担同样的决策责任。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 4–15；L24–67"
+        },
+        {
+          "text": "意识形态在此是形成纪律及决策执行关系的工具；讲者同时承认这种实践可能一刀切、矫枉过正并产生创伤。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 10；L52"
+        },
+        {
+          "text": "集体归属和荣誉感被用来中介既有共同体网络与主体的不安；本讲区分决策同伴和纪律上的同阵营关系。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 11–15；L55–67"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：意识形态与纪律建设者组织现实的纪律实践，历史材料包括观念、习俗及生活习惯。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 8；L44"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以集体归属和荣誉感中介既有共同体关系与主体的癔症化。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 11；L55"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以意识形态的战略安排协调群众的稳定习惯与个体突破性。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：吸收为同伴，与使队伍对历史进程承担责任相对。",
+          "source_ids": [
+            "p03-43-4332"
+          ],
+          "locator": "文件内 Page 4；L24"
+        }
+      ],
+      "editorial_notes": [
+        "以上保留讲者对强制性纪律的论证及其承认的创伤，不据此认可无限服从或免除组织责任。",
+        "L58、70明确否认网络直播间能直接等同这种具有现实资源的实践单元。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-3-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "此讲把避免组织者与共同体成员之间的异化作为持续任务，而非一次设立机构即可完成的工作。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 1；L10–17"
+        },
+        {
+          "text": "所谓社会资本在这里被重新解释为多数人生活水准的再生产关系网络，讲述反对仅将其看成追求自我增值的资产。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 2–3；L26–38"
+        },
+        {
+          "text": "工业化、教育和市场体系需要资源积累，但积累过程须避免将掌握分配权的人同多数人的生活分离。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 5–6；L50–56"
+        },
+        {
+          "text": "认识论用防止极端化的长期方向协调量化指标与全方位社会影响，目的不只是提高单个经济数字。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 15–16；L90–93"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：实践单元落在经济、财政、货币及其计划和市场安排的现实组织者。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 8；L67"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以有发展余地的自由感中介改造过程，维持多数人的生活再生产。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 12；L81"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：以防微杜渐、避免极端化协调指标要求与全方位影响。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 15；L90"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：持续协调队伍发展与共同体组织，避免组织者和人民之间发生异化。",
+          "source_ids": [
+            "p03-43-4333"
+          ],
+          "locator": "文件内 Page 1；L10"
+        }
+      ],
+      "editorial_notes": [
+        "本讲的social capital不是现成社会科学概念的统一定义；讲者在L60–62主动改称去资本化的再生产关系。",
+        "文件末尾L102的三个世界论已属于下一讲，不归入本条。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-3-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲的替代不是原样占据全球资本的位置，而是设想保留全球分工协作、改变其支配和收益关系。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "text": "讲述认为既有体系内的参与和牺牲，与最终改变体系的目标并存；不能把所有相关人口统称为剥削者。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 4；L24"
+        },
+        {
+          "text": "认识论将遵守现行国际规则、不结盟的自主姿态和三个世界论的战略方向区分为不同层面。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 5–6；L29–34"
+        },
+        {
+          "text": "代表广大人类的使命感构成本体论中介；目的论强调寻找历史机遇，而非把目标当成可以立即兑现的结果。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 7–13；L39–59"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：新的国际主义建设者借冷战及民族解放的历史条件展开实践。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 10；L50"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以面向广大人类的使命感中介超额剥削与不自主、依附性。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 7；L39"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论3：三个世界论的战略层协调既有规则内的参与与不结盟的自主姿态。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 5；L29"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：朝向改变全球资本关系的目标，等待并寻找历史性机遇。",
+          "source_ids": [
+            "p03-43-4334"
+          ],
+          "locator": "文件内 Page 13；L59"
+        }
+      ],
+      "editorial_notes": [
+        "本讲关于当时国际格局、国家性质及未来趋势的判断属于讲述时的政治解释；本批未独立核验，也不当作2026年的现状报告。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。",
+        "L39提到“资本论第三篇”，所指卷、篇和论证位置不明确，暂不登记成精确原典引用。"
+      ]
+    },
+    {
+      "code": "4-3-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "资本实现被引申为维持各类实践所需消费和剩余产品的再生产，衡量重点是能否使现实活动持续。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "认识论4被解释为一种不可直接分辨性：个人可能体验到同样的异化，无法仅凭体验认出其社会主义性质。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 4；L24"
+        },
+        {
+          "text": "建设者和生产部门本身未必已有完成的社会主义关系；讲述将其纳入的条件是仍可被组织、引导并用于更广泛的再生产。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 5–6；L29–34"
+        },
+        {
+          "text": "本体论中介是正当感，但这种正当性不能只靠自我宣称，而须看是否真正支持其他解放性实践。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 7–8；L39–44"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：建设者借既有异化历史及尚未充分转变的生产部门，支持人的自我现实化。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 5；L29"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以正当感中介既有法律权利体系与原教旨式道德严酷主义。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 6；L34"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：第一人称经验无法直接区分相似的异化过程及其社会主义性质。",
+          "source_ids": [
+            "p03-43-434"
+          ],
+          "locator": "文件内 Page 4；L24"
+        }
+      ],
+      "editorial_notes": [
+        "本讲明确区分socialist capital与social capital；不应按相近字面合并为同一术语。",
+        "L44对4-1和4-2层级的口语归属可能存在转写或口误，摘要不沿用该具体排序。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-4-1",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "农业被当作消费资料、生产资料和劳动再生产相结合的循环；去本地化意在把封闭地方循环接入更广的生产联系。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "活动基础还包含工业品、运输、通信、供销与公共组织能力，而非孤立的农业产量。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 9；L49"
+        },
+        {
+          "text": "人民的富足感成为中介；讲述警惕经济管理者把整体发展转成个人的积累冲动。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 16–19；L70–79"
+        },
+        {
+          "text": "改造须处理宗族网络与工业资本冲击的张力，使生活改善和人与人的关系不再被物的增值压倒。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 20–23；L82–91"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：地方建设组织跨农业、工业和战略任务的联系，实践单元以区域性管理和建设机构为例。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 16；L70"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以富足感中介农业宗族关系与工业化冲击，避免再生产出新的依附关系。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 16；L70"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：服务公共发展的克制与追逐资产积累的禁欲，在主观快感上可能难以区分。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 18；L76"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论1：形成支撑人口活动和其他实践的物质再生产基础。",
+          "source_ids": [
+            "p03-43-4341"
+          ],
+          "locator": "文件内 Page 9；L49"
+        }
+      ],
+      "editorial_notes": [
+        "讲述关于行政区划是否仍存在的自述带有不确定性，未用作当下行政事实。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-4-2",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "去代理人化指反对国家及内部管理者沦为全球资本的代理环节，涉及对外合作和内部关系两面。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "建设者被描述为新治理关系的倡导者，强调后发国家保留自身发展道路。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 10；L36"
+        },
+        {
+          "text": "和平安宁和独立性是本讲赋予这种关系的体验尺度；它应使有关人口免于进一步被外部关系支配。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 12；L42"
+        },
+        {
+          "text": "认识上可能被误看成温和扩张，目的则在于减轻代理关系放大的危机，而不只是扩大自身经济规模。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 16–18；L54–60"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：通过外交、商务及援助等现实接口倡导新的治理关系。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 10；L36"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以和平安宁的感觉中介外部依附关系，保留自主发展的条件。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 12；L42"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：实践的性质可能被误认为温和经济扩张或民族主义。",
+          "source_ids": [
+            "p03-43-4342"
+          ],
+          "locator": "文件内 Page 16；L54"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论2：去本地化的生产联结与去代理人化的危机降阶并置；后讲明确回顾这两个方向。",
+          "source_ids": [
+            "p03-43-4342",
+            "p03-43-4343"
+          ],
+          "locator": "4-3-4-2：文件内 Page 16，L54；4-3-4-3：文件内 Page 3，L19",
+          "cross_reference_from": "4-3-4-3"
+        }
+      ],
+      "editorial_notes": [
+        "4-3-4-2正文L60在结语之后已进入4-3-4-3，L63也属于后者；本条引用L60仅限结语前。",
+        "关于现实国际政策的自我描述仅作为课程立场记录。",
+        "目的论两端结合4-3-4-3的显式回顾整理；本讲自身的图示仍待原视频核对。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-4-3",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "本讲从既有社会与改变历史惯性的力量之间的张力，讨论正统性如何被生产和维持。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "具有中心和使命的自我感受，是讲述所用的中介，但它在认识上可能与激进民族主义相似。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "text": "目的论以凝聚力协调去本地化与去代理人化：一面形成更广的生产周期，一面抵抗危机的资本化传导。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 3–5；L19–29"
+        },
+        {
+          "text": "正统性的维持不能止于言说，还须落实为能够吸引和团结他人的实践；其历史资源被联系到人类已有的乌托邦期待。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 7–11；L39–57"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：正统性生产者通过言说和实际关系组织凝聚力，并借用乌托邦史中的期待。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 7；L39"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：中心感、使命感中介既有社会与改变历史的异质力量。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：这种使命体验可能与民族主义的选民感难以区分。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 2；L14"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论3：以凝聚力协调去本地化形成的周期联结与去代理人化的逆周期方向。",
+          "source_ids": [
+            "p03-43-4343"
+          ],
+          "locator": "文件内 Page 3；L19"
+        }
+      ],
+      "editorial_notes": [
+        "legitimacy在整理本中交替译作合法性和正统性；保留概念范围问题，不直接视为法律意义的合法性。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    },
+    {
+      "code": "4-3-4-4",
+      "evidence_level": "transcript_secondary",
+      "course_summary": [
+        {
+          "text": "人类学实现被解释为培养具有道德、纪律、理想和文化的人，这四项须同解放性实践相联系。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 1；L9"
+        },
+        {
+          "text": "各环节都可能意识形态化，文化的反思和更新应能回看这些环节，甚至突破现有范式。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 12；L60"
+        },
+        {
+          "text": "本体论以自发的集体使命感中介异化的精神史和现代、后现代虚无主义。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 14–15；L66–69"
+        },
+        {
+          "text": "认识上它可能像激进批判主义，区别须看是否与持续的现实机制结合；目的向尚未完成的未来开放。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 16–17；L72–75"
+        }
+      ],
+      "axis_explanations": [
+        {
+          "axis_index": 0,
+          "text": "场域论4：教育、社会氛围和公共事务的实践者参与培育新的生活与精神形式。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 12；L60"
+        },
+        {
+          "axis_index": 1,
+          "text": "本体论3：以面向人类未来的集体使命感中介异化精神史与虚无主义。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 15；L69"
+        },
+        {
+          "axis_index": 2,
+          "text": "认识论4：在表面批判姿态上与虚无主义相似，必须回到现实实践的联系判断。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 16；L72"
+        },
+        {
+          "axis_index": 3,
+          "text": "目的论4：现有手段仍有局限，实践向尚未完成的未来开放。",
+          "source_ids": [
+            "p03-43-4344"
+          ],
+          "locator": "文件内 Page 17；L75"
+        }
+      ],
+      "editorial_notes": [
+        "本讲L99结语后及L102已经进入4-4总论，未作为本条自己的论证。",
+        "道德、纪律、理想、文化的次序由讲者重新安排，不当作历史口号的原始排序。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "核听对应原视频，确认二手整理中的口语转写、缩写及图式关系。"
+      ]
+    }
+  ]
+}

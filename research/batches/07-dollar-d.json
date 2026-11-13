@@ -1,0 +1,359 @@
+{
+  "batch": "07-dollar-d",
+  "checked_on": "2026-11-13",
+  "scope": "公开ASR文本的有定位课程摘要，未核听原音。",
+  "sources": [
+    {
+      "id": "d07-BV18F411n7ww",
+      "title": "【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象，黑格尔如何证明神的实存（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV18F411n7ww__1e9afc17c6.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–53，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–53",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "b0b08dd06dcb8923517cdeacdbbdd4c5b4b407179216aa758ab3b7af0f878e92",
+      "git_blob_sha": "6d6e0a3aaa800e55081cde334b877cc435be7982",
+      "upstream_path": "corpus/bilibili-asr/BV18F411n7ww__1e9afc17c6.txt"
+    },
+    {
+      "id": "d07-BV1Ha41117Un",
+      "title": "【主义主义】复数的物自体（$-1-4-1）——物自体的增殖、寄生和瓦解（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Ha41117Un__391b00d866.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–57，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–57",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "942591cd58132c8ab667af7bc6f4c9ac8d8e66d967baf1a3adb5b248a128a025",
+      "git_blob_sha": "16d73482b79e8432161e55363341aa87e48777d3",
+      "upstream_path": "corpus/bilibili-asr/BV1Ha41117Un__391b00d866.txt"
+    },
+    {
+      "id": "d07-BV1nu411d7s1",
+      "title": "【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复，令争执次第延宕（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1nu411d7s1__d476c666fc.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–74，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–74",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "cdda83d92798471c0e7854833215c5f98b457336310831fecb66981c1221416c",
+      "git_blob_sha": "adf79d65e04fd2c852719fdcb1dc972d0ec3959d",
+      "upstream_path": "corpus/bilibili-asr/BV1nu411d7s1__d476c666fc.txt"
+    },
+    {
+      "id": "d07-BV1534y1y7qf",
+      "title": "【主义主义】有法则的世界性（$-1-4-3）——法则性和世界性的发生学机制（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1534y1y7qf__253ba8363d.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–70，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–70",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "62b44ddc5486c6628aa1988a071c4e5244f3f36741b2966d16d288327c5663f0",
+      "git_blob_sha": "7a709665882ff19f561936016e994f971df359b5",
+      "upstream_path": "corpus/bilibili-asr/BV1534y1y7qf__253ba8363d.txt"
+    },
+    {
+      "id": "d07-BV1iS4y1y7FL",
+      "title": "【主义主义】本质联系（$-1-4-4）——本质论中的联系的辨证法到底是怎样的（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1iS4y1y7FL__53717005ff.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–64，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–64",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "8f00db604e778d95c3a13f6e1ba5de00ec753b6d40f760175d97079b6b8e4f9e",
+      "git_blob_sha": "ea0425766e19000f4a8d683cef6d846cbc292097",
+      "upstream_path": "corpus/bilibili-asr/BV1iS4y1y7FL__53717005ff.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV18F411n7ww",
+      "series_code": "$-1-4",
+      "title": "【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象，黑格尔如何证明神的实存",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "表象界被作为本质走向具体实存的环节来讲解：本质不再仅仅藏在背后作根据，而在自己的显现中存在。课程因此拒绝把本质与表象理解成互不相干的两层实体。",
+          "source_ids": [
+            "d07-BV18F411n7ww"
+          ],
+          "locator": "L1–8"
+        },
+        {
+          "text": "主讲以中介的受阻和自我中介的中断说明显现，进而提出对上帝存在证明的解释。这是本讲对黑格尔的重构，不能直接当作神学命题已经成立。",
+          "source_ids": [
+            "d07-BV18F411n7ww"
+          ],
+          "locator": "L9–20"
+        },
+        {
+          "text": "根据要使所根据者能够自立，就不能让它永远陷在向后追问的链条中；“无根据”和“深渊”的说法用于说明这一转折。",
+          "source_ids": [
+            "d07-BV18F411n7ww"
+          ],
+          "locator": "L21–28、L40–49"
+        },
+        {
+          "text": "课程区别具体实存与前面直接的定在，也指出具体性与现实性在黑格尔那里并非同一环节；后续分别讨论物、表象、本质关系等问题。",
+          "source_ids": [
+            "d07-BV18F411n7ww"
+          ],
+          "locator": "L29–38"
+        },
+        {
+          "text": "对表象界的讲解继续属于本质论的运动。与海德格尔等后继思想的比较是主讲提出的阅读线索，不能把课程四格结构当作原书目录。",
+          "source_ids": [
+            "d07-BV18F411n7ww"
+          ],
+          "locator": "L39–53"
+        }
+      ],
+      "editorial_notes": [
+        "本讲的“表象”主要对应 appearance/Erscheinung，与上一组的 Schein 及德语 Vorstellung 需作区别。课程也有“具体/现实”暂时并用的表述，导读保留其后来作出的区分。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§1080–1087",
+          "reason": "对读现象，避免混淆Schein、Erscheinung与Wirklichkeit三个环节。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Ha41117Un",
+      "series_code": "$-1-4-1",
+      "title": "【主义主义】复数的物自体（$-1-4-1）——物自体的增殖、寄生和瓦解",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲沿着物自体的复数化、属性、材料及物的瓦解展开，讨论物如何走向表象。这里的“材料”是本章特定逻辑环节，不能直接套用前面实在物质的含义。",
+          "source_ids": [
+            "d07-BV1Ha41117Un"
+          ],
+          "locator": "L1–7"
+        },
+        {
+          "text": "如果把现象背后的统一者设为物自体，每项现象也可以主张自己的“本身”。由此出现复数的物自体，它们以此与彼的关系互相规定。",
+          "source_ids": [
+            "d07-BV1Ha41117Un"
+          ],
+          "locator": "L8–22"
+        },
+        {
+          "text": "外在反思在本讲中不是一个预先独立的意识对对象拍照，而是物自身与表象自身的区分及关联；课程借此解释内外差别如何产生。",
+          "source_ids": [
+            "d07-BV1Ha41117Un"
+          ],
+          "locator": "L23–31"
+        },
+        {
+          "text": "属性获得相对独立性后被当作材料，物本身则退为这些材料共存的纽带。既相互贯穿又各自独立的关系，进一步动摇了物作为固定统一体的地位。",
+          "source_ids": [
+            "d07-BV1Ha41117Un"
+          ],
+          "locator": "L32–46"
+        },
+        {
+          "text": "主讲把仅按多少、比例和此彼关系把握材料的方式称为外在反思，并在末尾特别要求区分“规定性”与“确定性”的翻译。",
+          "source_ids": [
+            "d07-BV1Ha41117Un"
+          ],
+          "locator": "L47–57"
+        }
+      ],
+      "editorial_notes": [
+        "颜色、甜味和班级的例子用来阐明逻辑关系；“材料”不能不加说明地理解成现代化学元素。对培根、洛克的定位是课程评价，尚非其原作逐句校勘。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-essence",
+          "relation": "editorial_reading",
+          "locator": "§1060–1063",
+          "reason": "对读物与性质的关系，勿把复数物自体简化成许多不可知实体。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1nu411d7s1",
+      "series_code": "$-1-4-2",
+      "title": "【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复，令争执次第延宕",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "表象本身由物、属性和材料之间的矛盾推进而来。材料各自要求独立实存，物的一性又要求它们共存，这使原先稳固的物及材料关系发生瓦解。",
+          "source_ids": [
+            "d07-BV1nu411d7s1"
+          ],
+          "locator": "L1–12"
+        },
+        {
+          "text": "这里的表象不同于先前的闪光：它被把握为有自身实存的整体，同时分出变动的杂多与相对持存的一性。双方又都把对方指认为被设定的。",
+          "source_ids": [
+            "d07-BV1nu411d7s1"
+          ],
+          "locator": "L13–34"
+        },
+        {
+          "text": "这种冲突推动表象的世界化，并进一步区分表象世界与世界本身。课程强调世界本身也由这一运动中产生，不能把它当作无须说明的预设背景。",
+          "source_ids": [
+            "d07-BV1nu411d7s1"
+          ],
+          "locator": "L35–48"
+        },
+        {
+          "text": "两个世界最终指向本质关系：关键不在选定其中一个为唯一实在，而在理解使两者区分并关联的力量。主讲明确称本讲为粗略版本，建议继续读《逻辑学》。",
+          "source_ids": [
+            "d07-BV1nu411d7s1"
+          ],
+          "locator": "L49–60"
+        },
+        {
+          "text": "末段把这种区分同表征模型及试错认识联系起来；这是主讲对科学认识位置的哲学评价，不是对具体科学家研究实践的实证调查。",
+          "source_ids": [
+            "d07-BV1nu411d7s1"
+          ],
+          "locator": "L61–74"
+        }
+      ],
+      "editorial_notes": [
+        "本讲自述目的论2的安排“有点怪”，并把协调环节放到后续关系论；保留这项自我限定。“表象本身”不可直接等同 Schein，也不宜把译名相似当作同一概念。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-law",
+          "relation": "editorial_reading",
+          "locator": "§1088–1094",
+          "reason": "对读现象之流变及其内在规律，补足仅靠图解容易省去的关系。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1534y1y7qf",
+      "series_code": "$-1-4-3",
+      "title": "【主义主义】有法则的世界性（$-1-4-3）——法则性和世界性的发生学机制",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲补讲表象之律、表象世界与世界本身。表象之律先被解释为杂多内容能够共存和次第出现的一般秩序，区别于规定特定事物如何相互约束的具体法则。",
+          "source_ids": [
+            "d07-BV1534y1y7qf"
+          ],
+          "locator": "L1–17"
+        },
+        {
+          "text": "每项表象与其他表象的制约关系形成网络，使一般共存推进为表象世界；进一步把这些关系作为总体把握，便提出世界本身。",
+          "source_ids": [
+            "d07-BV1534y1y7qf"
+          ],
+          "locator": "L18–32"
+        },
+        {
+          "text": "表象世界与世界本身都要求总体性，又都把对方容纳为自己的环节。主讲以相互嵌套说明二者无法彻底分离，进而指向本质关系。",
+          "source_ids": [
+            "d07-BV1534y1y7qf"
+          ],
+          "locator": "L33–51"
+        },
+        {
+          "text": "目的论3在此被解释为以总体性协调直接性与中介性的对立；认识上的任务则是把握产生两种总体性及其差别的关系，而非简单选择其中一方。",
+          "source_ids": [
+            "d07-BV1534y1y7qf"
+          ],
+          "locator": "L52–64"
+        },
+        {
+          "text": "课程把此处逻辑学称为法则性与世界性的发生学，并提出它与科学研究及政治法权思维的双重联系；后一联系是主讲的延伸解释。",
+          "source_ids": [
+            "d07-BV1534y1y7qf"
+          ],
+          "locator": "L65–70"
+        }
+      ],
+      "editorial_notes": [
+        "这里的“法度”“律法”和“规律”涉及同一词在讲解中的多重用法，不能把逻辑范畴直接当作现行法律制度。与政治法权的关联尚需独立原典论证。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-law",
+          "relation": "editorial_reading",
+          "locator": "§1088–1094",
+          "reason": "与上一讲共同对读规律作为现象内在持存的环节；未宣称通读后续全章。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1iS4y1y7FL",
+      "series_code": "$-1-4-4",
+      "title": "【主义主义】本质联系（$-1-4-4）——本质论中的联系的辨证法到底是怎样的",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本质关系从表象世界与世界本身的区别及统一中出现，先以整体与部分的关系呈现。双方各自要求独立，又只有依赖对方才能成为整体或部分。",
+          "source_ids": [
+            "d07-BV1iS4y1y7FL"
+          ],
+          "locator": "L1–19"
+        },
+        {
+          "text": "整体与部分之争揭露了直接性与中介性的冲突，并推进为力与表现的关系。主讲强调后续范畴是在道出前一关系的实质，而非随意换一个话题。",
+          "source_ids": [
+            "d07-BV1iS4y1y7FL"
+          ],
+          "locator": "L20–26"
+        },
+        {
+          "text": "力既显得外在于承受它的事物，又通过这些事物及相互作用而发生；主动与被动、内在与外在的纠缠，使讲解进一步转向内与外的关系。",
+          "source_ids": [
+            "d07-BV1iS4y1y7FL"
+          ],
+          "locator": "L27–37"
+        },
+        {
+          "text": "内与外被理解为同一事物的两侧时，反思的本质与具体实存之间的割裂开始被克服，课程由此过渡到现实性。",
+          "source_ids": [
+            "d07-BV1iS4y1y7FL"
+          ],
+          "locator": "L38–54"
+        },
+        {
+          "text": "主讲明确说明下一组本体论2将以逻辑学与现实性的对立来安排，而不会等到概念论才划出这道界限；这是其课程自身的立场和编排。",
+          "source_ids": [
+            "d07-BV1iS4y1y7FL"
+          ],
+          "locator": "L55–64"
+        }
+      ],
+      "editorial_notes": [
+        "力学例子辅助说明概念关系，不是对所有物理相互作用的完整理论。对布拉德雷的批评是主讲评价，未据此宣称已完成《现象与实在》的校读。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-relation",
+          "relation": "editorial_reading",
+          "locator": "§1112–1121",
+          "reason": "核对整体与部分、力及其表现、内与外三种本质关系的次序。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}

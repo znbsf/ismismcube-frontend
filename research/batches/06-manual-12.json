@@ -1,0 +1,2910 @@
+{
+  "scope": {
+    "branch": "1-2",
+    "status": "complete_field_records",
+    "expected_nodes": 21,
+    "recorded_nodes": 21
+  },
+  "sources": [
+    {
+      "id": "m1-0024",
+      "title": "1-2 宗教实在论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%AE%97%E6%95%99%E5%AE%9E%E5%9C%A8%E8%AE%BA/0024_1-2_%E5%AE%97%E6%95%99%E5%AE%9E%E5%9C%A8%E8%AE%BA_p527.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_宗教实在论/0024_1-2_宗教实在论_p527.md",
+      "sha256": "e71c482caf4b96e0ff924d365cb61cf146d4ca429f7040e6b9def574b39fa0ff",
+      "git_blob_sha": "3c2b399a73714d205169a037efd8247efa3a5b74",
+      "verification_scope": "实际核读Page 1–3课程正文；4–6社区笔记另作区别；复习课Page 1–11本讲部分；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0026",
+      "title": "1-2-1 神创论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/0026_1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA_p544.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-1_神创论/0026_1-2-1_神创论_p544.md",
+      "sha256": "132b2ba73444d3528e30e6c35167a0cea4150dd9fd633198abc61e2caf071a0a",
+      "git_blob_sha": "905118b58f467598884cf86c915660d7de8d1fae",
+      "verification_scope": "实际核读Page 1–8本讲全文；9–10页下一讲另作定位；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0027",
+      "title": "1-2-1-1 自然神论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/1-2-1-1_%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA/0027_1-2-1-1_%E8%87%AA%E7%84%B6%E7%A5%9E%E8%AE%BA_p553.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-1_神创论/1-2-1-1_自然神论/0027_1-2-1-1_自然神论_p553.md",
+      "sha256": "f6f0ceb68cf507e3e4f6de60ac66c5de570d9cb1951e5bcf149a6b39bfccf2d2",
+      "git_blob_sha": "8a2375d4d6ba00399fa8da11fb52b0aaacf6493f",
+      "verification_scope": "实际核读Page 1–20本讲结尾；20页末及21页下一讲另作定位；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0028",
+      "title": "1-2-1-2 神义论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/1-2-1-2_%E7%A5%9E%E4%B9%89%E8%AE%BA/0028_1-2-1-2_%E7%A5%9E%E4%B9%89%E8%AE%BA_p573.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-1_神创论/1-2-1-2_神义论/0028_1-2-1-2_神义论_p573.md",
+      "sha256": "aedb83b3fee6457437740aff4f75b33aab427346570f7c868bcb3b17a7117ec8",
+      "git_blob_sha": "1b67f793341474bc16da9891dcc5202044e23c57",
+      "verification_scope": "实际核读Page 1–16本讲结尾；16页末及17页下一讲排除；开场见前讲Page 20；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0029",
+      "title": "1-2-1-3 一元论诺斯替主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/1-2-1-3_%E4%B8%80%E5%85%83%E8%AE%BA%E8%AF%BA%E6%96%AF%E6%9B%BF%E4%B8%BB%E4%B9%89/0029_1-2-1-3_%E4%B8%80%E5%85%83%E8%AE%BA%E8%AF%BA%E6%96%AF%E6%9B%BF%E4%B8%BB%E4%B9%89_p589.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-1_神创论/1-2-1-3_一元论诺斯替主义/0029_1-2-1-3_一元论诺斯替主义_p589.md",
+      "sha256": "3e5fc7628aaf6da93c953cfacaa2252100b6a34f0f15f45d23f872f61e89709e",
+      "git_blob_sha": "e06ca447a1daf516f92804ad96d07846c1269234",
+      "verification_scope": "实际核读Page 1–15本讲结尾；15页末及16页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0030",
+      "title": "1-2-1-4 模态位格一元论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/1-2-1-4_%E6%A8%A1%E6%80%81%E4%BD%8D%E6%A0%BC%E4%B8%80%E5%85%83%E8%AE%BA/0030_1-2-1-4_%E6%A8%A1%E6%80%81%E4%BD%8D%E6%A0%BC%E4%B8%80%E5%85%83%E8%AE%BA_p604.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-1_神创论/1-2-1-4_模态位格一元论/0030_1-2-1-4_模态位格一元论_p604.md",
+      "sha256": "cadc98981e53e5b475041a5fe92478af85a69fb000e958b974b31920c8f3c6e9",
+      "git_blob_sha": "66c060b0a24f83b903420ca095dfbedb926cfe71",
+      "verification_scope": "实际核读Page 1–21本讲结尾；21页后半至22页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0025",
+      "title": "1-2 宗教实在论复习课：人工摘要来源核对",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/0025_1-2_%E5%A4%8D%E4%B9%A0_p533.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/0025_1-2_复习_p533.md",
+      "sha256": "123fe237ab5730d7109f1d4dbc80c6b41825138075c8108630af1eaa1bfbe947",
+      "git_blob_sha": "0ef6eefddca69779f6780e9bcca84b64c1e23854",
+      "verification_scope": "实际核读Page 1–11复习课结尾；11页后半至12页神创论开场区分；未核听原音。",
+      "locator": "复习课固定版本Markdown的Page编号，非视频时间。"
+    },
+    {
+      "id": "m1-0031",
+      "title": "1-2-2 偶像论_偶像崇拜：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/0031_1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C_p625.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-2_偶像论_偶像崇拜/0031_1-2-2_偶像论_偶像崇拜_p625.md",
+      "sha256": "1b61240d67ecdfa9f669128edcb38b8bc3786591f8c2a77aabae73aae24df9c4",
+      "git_blob_sha": "d912292ebe48b44606d250046e78742e6e3a619b",
+      "verification_scope": "实际核读Page 2–6、10–21、23、25–26本讲结尾；1–2页开头社区笔记与26页末后续讲次区分；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0032",
+      "title": "1-2-2-1 传殖主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-1_%E4%BC%A0%E6%AE%96%E4%B8%BB%E4%B9%89/0032_1-2-2-1_%E4%BC%A0%E6%AE%96%E4%B8%BB%E4%B9%89_p651.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-2_偶像论_偶像崇拜/1-2-2-1_传殖主义/0032_1-2-2-1_传殖主义_p651.md",
+      "sha256": "782454bf2e7907deb0072958855cb3b2291922fee74b43be044fd57a632a9344",
+      "git_blob_sha": "a1297071a8730f4e52101f5f3449b52a3b7c25a8",
+      "verification_scope": "实际核读Page 1–10、12–13、16–19、21–23、27本讲结尾；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0033",
+      "title": "1-2-2-2 部分主义：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-2_%E9%83%A8%E5%88%86%E4%B8%BB%E4%B9%89/0033_1-2-2-2_%E9%83%A8%E5%88%86%E4%B8%BB%E4%B9%89_p678.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-2_偶像论_偶像崇拜/1-2-2-2_部分主义/0033_1-2-2-2_部分主义_p678.md",
+      "sha256": "c1ea5d7a121422293f2532548cfbb76f0f47e2c6cd1cb18ce688ec36f69bdb42",
+      "git_blob_sha": "e8f49f3b62afde69d271d09f34e898ac27ad678f",
+      "verification_scope": "实际核读Page 2、4–8、10–14、18–19、22、25、27、30；34页后续讲次不使用；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0034",
+      "title": "1-2-2-3 拜物教_读懂资本论的必修课_物神崇拜的符号学功能_偶像崇拜的第三种形式：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F/0034_1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F_p711.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-2_偶像论_偶像崇拜/1-2-2-3_拜物教_读懂资本论的必修课_物神崇拜的符号学功能_偶像崇拜的第三种形式/0034_1-2-2-3_拜物教_读懂资本论的必修课_物神崇拜的符号学功能_偶像崇拜的第三种形式_p711.md",
+      "sha256": "10bf6564f67a1ada42fc4cee3cde87540a97065e0a6741b8737404c2a4f69c67",
+      "git_blob_sha": "1afcc2383229e2d9daee7d21ade5a9afd675a8ad",
+      "verification_scope": "实际核读Page 1–21本讲结尾；21页末及22页下一讲排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0035",
+      "title": "1-2-2-4 时间崇拜_偶像崇拜的终极形式_论时间之神_Aion_狄奥尼索斯与奥菲欧斯的三位一体_节庆_永恒_往生_死亡崇拜背后的意识形态机制：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-4_%E6%97%B6%E9%97%B4%E5%B4%87%E6%8B%9C_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%BB%88%E6%9E%81%E5%BD%A2%E5%BC%8F_%E8%AE%BA%E6%97%B6%E9%97%B4%E4%B9%8B%E7%A5%9E_Aion_%E7%8B%84%E5%A5%A5%E5%B0%BC%E7%B4%A2%E6%96%AF%E4%B8%8E%E5%A5%A5%E8%8F%B2%E6%AC%A7%E6%96%AF%E7%9A%84%E4%B8%89%E4%BD%8D%E4%B8%80/0035_1-2-2-4_%E6%97%B6%E9%97%B4%E5%B4%87%E6%8B%9C_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%BB%88%E6%9E%81%E5%BD%A2%E5%BC%8F_%E8%AE%BA%E6%97%B6%E9%97%B4%E4%B9%8B%E7%A5%9E_Aion_%E7%8B%84%E5%A5%A5%E5%B0%BC%E7%B4%A2%E6%96%AF%E4%B8%8E%E5%A5%A5%E8%8F%B2%E6%AC%A7%E6%96%AF%E7%9A%84%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93_%E8%8A%82%E5%BA%86_%E6%B0%B8%E6%81%92_%E5%BE%80%E7%94%9F_%E6%AD%BB%E4%BA%A1%E5%B4%87%E6%8B%9C%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6_p732.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-2_偶像论_偶像崇拜/1-2-2-4_时间崇拜_偶像崇拜的终极形式_论时间之神_Aion_狄奥尼索斯与奥菲欧斯的三位一/0035_1-2-2-4_时间崇拜_偶像崇拜的终极形式_论时间之神_Aion_狄奥尼索斯与奥菲欧斯的三位一体_节庆_永恒_往生_死亡崇拜背后的意识形态机制_p732.md",
+      "sha256": "92a53dc4201b4a1f83d2898dca8695a38d84b86cf14423ee24afef7846e145be",
+      "git_blob_sha": "6f55d6198145cdde972c619d71a50a224c9167ca",
+      "verification_scope": "实际核读Page 1–5、7、14–29本讲结尾；29页后半下一讲笔记排除；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0036",
+      "title": "1-2-3 唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/0036_1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_p761.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态/0036_1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态_p761.md",
+      "sha256": "6db5c9db2a460193b123056d36e30dfb64f4f9c3deb15fc56aa038e46001a31e",
+      "git_blob_sha": "91062af3aa8dc409e45f94b04e0e6c981ac426ce",
+      "verification_scope": "实际核读Page 3–4、6–7、10–12、16–20、22–26；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0037",
+      "title": "1-2-3-1 永生主义_为什么追求永生或厌弃生命都是完全没有必要的：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/1-2-3-1_%E6%B0%B8%E7%94%9F%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%BD%E6%B1%82%E6%B0%B8%E7%94%9F%E6%88%96%E5%8E%8C%E5%BC%83%E7%94%9F%E5%91%BD%E9%83%BD%E6%98%AF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%E7%9A%84/0037_1-2-3-1_%E6%B0%B8%E7%94%9F%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%BD%E6%B1%82%E6%B0%B8%E7%94%9F%E6%88%96%E5%8E%8C%E5%BC%83%E7%94%9F%E5%91%BD%E9%83%BD%E6%98%AF%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%E7%9A%84_p800.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态/1-2-3-1_永生主义_为什么追求永生或厌弃生命都是完全没有必要的/0037_1-2-3-1_永生主义_为什么追求永生或厌弃生命都是完全没有必要的_p800.md",
+      "sha256": "56fe360e31a6ee9e30e68bd5fa529ed6447b406352b4e9f64bd130b5345ab5b6",
+      "git_blob_sha": "c1c63c3ceed9231cdd58e3409ffb7c4171549327",
+      "verification_scope": "实际核读Page 1–3、10–19、23–24、27–29；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0038",
+      "title": "1-2-3-2 回归式唯灵论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/1-2-3-2_%E5%9B%9E%E5%BD%92%E5%BC%8F%E5%94%AF%E7%81%B5%E8%AE%BA/0038_1-2-3-2_%E5%9B%9E%E5%BD%92%E5%BC%8F%E5%94%AF%E7%81%B5%E8%AE%BA_p830.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态/1-2-3-2_回归式唯灵论/0038_1-2-3-2_回归式唯灵论_p830.md",
+      "sha256": "7bfd1638b0fd29f07110a7656f1971aeb37a501b7371799686dddd2e86414c9f",
+      "git_blob_sha": "cbfb57ae935bf14d90b64bc6c186fc0b0d69664b",
+      "verification_scope": "实际核读Page 1–16；17–18识别为下一讲开头；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0039",
+      "title": "1-2-3-3 魔法师主义_为什么魔法归根结底是一种自恋的_倒错的癔症：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/1-2-3-3_%E9%AD%94%E6%B3%95%E5%B8%88%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AD%94%E6%B3%95%E5%BD%92%E6%A0%B9%E7%BB%93%E5%BA%95%E6%98%AF%E4%B8%80%E7%A7%8D%E8%87%AA%E6%81%8B%E7%9A%84_%E5%80%92%E9%94%99%E7%9A%84%E7%99%94%E7%97%87/0039_1-2-3-3_%E9%AD%94%E6%B3%95%E5%B8%88%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AD%94%E6%B3%95%E5%BD%92%E6%A0%B9%E7%BB%93%E5%BA%95%E6%98%AF%E4%B8%80%E7%A7%8D%E8%87%AA%E6%81%8B%E7%9A%84_%E5%80%92%E9%94%99%E7%9A%84%E7%99%94%E7%97%87_p847.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态/1-2-3-3_魔法师主义_为什么魔法归根结底是一种自恋的_倒错的癔症/0039_1-2-3-3_魔法师主义_为什么魔法归根结底是一种自恋的_倒错的癔症_p847.md",
+      "sha256": "b451be0861d3fcae3b7af72dfac12a67e2566bd88f4ab762dbb21fce626d4ba8",
+      "git_blob_sha": "7126624ecc4caae065a8c3b1e7b0144c16e6afee",
+      "verification_scope": "实际核读Page 1–5、7、12–15、19–24、35、39；前文件Page 17–18开讲定位；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0040",
+      "title": "1-2-3-4 弃绝主义_解脱痛苦追求涅槃_意识的符号学机制：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/1-2-3-4_%E5%BC%83%E7%BB%9D%E4%B8%BB%E4%B9%89_%E8%A7%A3%E8%84%B1%E7%97%9B%E8%8B%A6%E8%BF%BD%E6%B1%82%E6%B6%85%E6%A7%83_%E6%84%8F%E8%AF%86%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E6%9C%BA%E5%88%B6/0040_1-2-3-4_%E5%BC%83%E7%BB%9D%E4%B8%BB%E4%B9%89_%E8%A7%A3%E8%84%B1%E7%97%9B%E8%8B%A6%E8%BF%BD%E6%B1%82%E6%B6%85%E6%A7%83_%E6%84%8F%E8%AF%86%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E6%9C%BA%E5%88%B6_p888.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-3_唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态/1-2-3-4_弃绝主义_解脱痛苦追求涅槃_意识的符号学机制/0040_1-2-3-4_弃绝主义_解脱痛苦追求涅槃_意识的符号学机制_p888.md",
+      "sha256": "9fe0850cc462c6155bd7808ffaba1b7c9cfae93e7334abcba2979a3204cd1fa9",
+      "git_blob_sha": "772ab955f30d28d47cebbebb67696fe6d918e6a9",
+      "verification_scope": "实际核读Page 2–5、8–9、12–16、19–20、24、29–31、34–36；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0041",
+      "title": "1-2-4 反偶像论_揭秘_信仰钢印_背后的意识形态机制：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/0041_1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6_p925.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制/0041_1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制_p925.md",
+      "sha256": "7cfdd744910c1b45e0e84db521f5bddb9acf5f257c227a2883c0b53f0dc5e4d6",
+      "git_blob_sha": "eaaf5e938d5d34386405231743a6d5dea441f7a5",
+      "verification_scope": "实际核读Page 2–16、20、23–24；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0042",
+      "title": "1-2-4-1 作为信仰的命定论_如何用哲学理解祥林嫂：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/1-2-4-1_%E4%BD%9C%E4%B8%BA%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%91%BD%E5%AE%9A%E8%AE%BA_%E5%A6%82%E4%BD%95%E7%94%A8%E5%93%B2%E5%AD%A6%E7%90%86%E8%A7%A3%E7%A5%A5%E6%9E%97%E5%AB%82/0042_1-2-4-1_%E4%BD%9C%E4%B8%BA%E4%BF%A1%E4%BB%B0%E7%9A%84%E5%91%BD%E5%AE%9A%E8%AE%BA_%E5%A6%82%E4%BD%95%E7%94%A8%E5%93%B2%E5%AD%A6%E7%90%86%E8%A7%A3%E7%A5%A5%E6%9E%97%E5%AB%82_p953.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制/1-2-4-1_作为信仰的命定论_如何用哲学理解祥林嫂/0042_1-2-4-1_作为信仰的命定论_如何用哲学理解祥林嫂_p953.md",
+      "sha256": "3a09562f841b1c5f045c12046e3aa1cc08bfb6357ba61b2cbab57bda7fc58e29",
+      "git_blob_sha": "5f865e929a456d7e34662ecac9fe2a201ef22437",
+      "verification_scope": "实际核读Page 2–5、8–20；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0043",
+      "title": "1-2-4-2 救世主主义_尼采因何而疯_最危险_最廉价的意识形态_意识产生之前的人格化的符号学机制：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/1-2-4-2_%E6%95%91%E4%B8%96%E4%B8%BB%E4%B8%BB%E4%B9%89_%E5%B0%BC%E9%87%87%E5%9B%A0%E4%BD%95%E8%80%8C%E7%96%AF_%E6%9C%80%E5%8D%B1%E9%99%A9_%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_%E6%84%8F%E8%AF%86%E4%BA%A7%E7%94%9F%E4%B9%8B%E5%89%8D%E7%9A%84%E4%BA%BA%E6%A0%BC%E5%8C%96%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6/0043_1-2-4-2_%E6%95%91%E4%B8%96%E4%B8%BB%E4%B8%BB%E4%B9%89_%E5%B0%BC%E9%87%87%E5%9B%A0%E4%BD%95%E8%80%8C%E7%96%AF_%E6%9C%80%E5%8D%B1%E9%99%A9_%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_%E6%84%8F%E8%AF%86%E4%BA%A7%E7%94%9F%E4%B9%8B%E5%89%8D%E7%9A%84%E4%BA%BA%E6%A0%BC%E5%8C%96%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E6%9C%BA%E5%88%B6_p979.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制/1-2-4-2_救世主主义_尼采因何而疯_最危险_最廉价的意识形态_意识产生之前的人格化的符号学/0043_1-2-4-2_救世主主义_尼采因何而疯_最危险_最廉价的意识形态_意识产生之前的人格化的符号学机制_p979.md",
+      "sha256": "b7e7ae226d85deeadda66025b5da55b361f2132474de03d9ae5e60517262981f",
+      "git_blob_sha": "0dae1791468c58c7a6e4eedcba4eb212dca357fa",
+      "verification_scope": "实际核读Page 1–17、21–24、29–30（后两页为下一讲开头）；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0044",
+      "title": "1-2-4-3 神智论：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/1-2-4-3_%E7%A5%9E%E6%99%BA%E8%AE%BA/0044_1-2-4-3_%E7%A5%9E%E6%99%BA%E8%AE%BA_p1008.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制/1-2-4-3_神智论/0044_1-2-4-3_神智论_p1008.md",
+      "sha256": "6aed77992cfbf5f1a972021a6db3cdf6b5a9d2457030432630d82a727b4af9bc",
+      "git_blob_sha": "6af8384372017501a90f6f08e1d06aa7c431baf5",
+      "verification_scope": "实际核读Page 1–17、20–34；33–34为下一讲开头，另核上一文件Page 29–30；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    },
+    {
+      "id": "m1-0045",
+      "title": "1-2-4-4 神爱论_神圣的爱_永不失败的_爱情_对大他者的一厢情愿：人工摘要逐字段复核",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/1-2-4-4_%E7%A5%9E%E7%88%B1%E8%AE%BA_%E7%A5%9E%E5%9C%A3%E7%9A%84%E7%88%B1_%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%B4%A5%E7%9A%84_%E7%88%B1%E6%83%85_%E5%AF%B9%E5%A4%A7%E4%BB%96%E8%80%85%E7%9A%84%E4%B8%80%E5%8E%A2%E6%83%85%E6%84%BF/0045_1-2-4-4_%E7%A5%9E%E7%88%B1%E8%AE%BA_%E7%A5%9E%E5%9C%A3%E7%9A%84%E7%88%B1_%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%B4%A5%E7%9A%84_%E7%88%B1%E6%83%85_%E5%AF%B9%E5%A4%A7%E4%BB%96%E8%80%85%E7%9A%84%E4%B8%80%E5%8E%A2%E6%83%85%E6%84%BF_p1041.md",
+      "kind": "secondary_compiled_transcript",
+      "repository": "weathour/ismism-system",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "source_path": "corpus/clean-markdown/1_实在论/1-2_复习/1-2-4_反偶像论_揭秘_信仰钢印_背后的意识形态机制/1-2-4-4_神爱论_神圣的爱_永不失败的_爱情_对大他者的一厢情愿/0045_1-2-4-4_神爱论_神圣的爱_永不失败的_爱情_对大他者的一厢情愿_p1041.md",
+      "sha256": "e152540573ce607f1e63ac774db812c7dc5522111d7770688542524c6c359590",
+      "git_blob_sha": "4c1956f2712e6aea9da7f778e47d19a2497c6cfc",
+      "verification_scope": "实际核读Page 1–17、22–26；上一文件Page 33–34为本讲开头；未核听原音。",
+      "locator": "固定版本分讲Markdown内Page标题；页码非视频时间。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 5,
+        "recorded": 5,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①创造者与被创造者同属一个叙事场中。",
+          "claim": "①创造者与被创造者同属一个叙事场中。",
+          "status": "supported",
+          "finding": "创造者与被造者同属整全宇宙、一套故事一个场直接出现；其来源为复习课而非本讲标题。",
+          "source_ids": [
+            "m1-0025"
+          ],
+          "locator": "复习课Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②创造者可以自由地跨越位面，被创造者被束缚在低位面，不同位面同属于一个场。",
+          "claim": "②创造者可以自由地跨越位面，被创造者被束缚在低位面，不同位面同属于一个场。",
+          "status": "supported",
+          "finding": "高低位面、创造者可自由跨越、被造者被限制三项均直接出现；是在讲者分类内部解释，不是关于宗教对象的事实断言。",
+          "source_ids": [
+            "m1-0025"
+          ],
+          "locator": "复习课Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③前反思人口使自己适配于社会秩序的一种方式。",
+          "claim": "③前反思人口使自己适配于社会秩序的一种方式。",
+          "status": "supported_with_attribution",
+          "finding": "复习课末明确称前反思人口适配既有社会秩序的一种心理状态/意识形态；原句保留讲者评价。",
+          "source_ids": [
+            "m1-0025"
+          ],
+          "locator": "复习课Page 8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全的宇宙",
+          "claim": "场域论1 整全的宇宙",
+          "status": "supported",
+          "finding": "宇宙由单一主宰秩序构成及整全背景，两个讲次均有对应。",
+          "source_ids": [
+            "m1-0024",
+            "m1-0025"
+          ],
+          "locator": "正文Page 1–3；复习课Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 创造者与被创造者的对立",
+          "claim": "本体论2 创造者与被创造者的对立",
+          "status": "supported",
+          "finding": "存在/存在者、太一/杂多、主宰/众生等作为同一本体分裂的不同版本，原轴创造者/被创造者概括有明确根据。",
+          "source_ids": [
+            "m1-0024",
+            "m1-0025"
+          ],
+          "locator": "正文Page 1–3；复习课Page 1–2"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①世界万物，包括人的灵魂是由上帝创造的。",
+          "claim": "①世界万物，包括人的灵魂是由上帝创造的。",
+          "status": "supported",
+          "finding": "正文明确在世界被创造之外进一步强调灵魂及第一人称体验也被神创造。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②坚信一切都被主宰，反对“信则有，不信则无”的怀疑论立场。",
+          "claim": "②坚信一切都被主宰，反对“信则有，不信则无”的怀疑论立场。",
+          "status": "supported",
+          "finding": "反对信则有不信则无、信与不信也受造及内心情绪被主导均明确说明；限定于本讲所构造的神创论类型。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 2–4"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③是一种霸道的原教旨主义。",
+          "claim": "③是一种霸道的原教旨主义。",
+          "status": "supported_with_attribution",
+          "finding": "“霸道的原教旨主义”是正文直接评价，不代表已对现实所有神创论流派作独立判断。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 2、4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全的宇宙(统一体)",
+          "claim": "场域论1 整全的宇宙(统一体)",
+          "status": "supported",
+          "finding": "统一体和稳固秩序所构成的宇宙直接作为场域定义。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 造物者与被创造者的对立",
+          "claim": "本体论2 造物者与被创造者的对立",
+          "status": "supported",
+          "finding": "creator/creature的对立直接作为本体论定义。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 1"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 人的灵魂",
+          "claim": "认识论1 人的灵魂",
+          "status": "supported",
+          "finding": "认识论明确为受造的灵魂soul，与当前轴对应。",
+          "source_ids": [
+            "m1-0026"
+          ],
+          "locator": "Page 1–2"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-1-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①对科学化的宇宙的第一推动力的思考。",
+          "claim": "①对科学化的宇宙的第一推动力的思考。",
+          "status": "supported",
+          "finding": "第一推动与后继因果网络的区分，以及科学决定论者思考第一推动的例子都有对应；不是把该疑问判定为科学结论。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 1–2、8、11–13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②调和贵族与僧侣之间的二元冲突。",
+          "claim": "②调和贵族与僧侣之间的二元冲突。",
+          "status": "supported_with_attribution",
+          "finding": "正文明确把贵族/僧侣二元冲突与牛顿的调和联系起来；这是讲者的社会史解释，尚未核实其历史归因。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 14–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③作为资本主义寄生的前现代残余而存在。",
+          "claim": "③作为资本主义寄生的前现代残余而存在。",
+          "status": "supported_with_scope",
+          "finding": "前现代残余、资本主义需要寄生其上及残余不断被生产都有对应；此段也以君主立宪作类比，不能把所有残余等同自然神论。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 17–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全的宇宙(统一体)",
+          "claim": "场域论1 整全的宇宙(统一体)",
+          "status": "supported_with_cross_page",
+          "finding": "正式场域定义位于前一缓存末尾的本讲开场，明确宇宙统一体、秩序与自循环；本讲继续解释自然法则。",
+          "source_ids": [
+            "m1-0026",
+            "m1-0027"
+          ],
+          "locator": "上一讲1-2-1 Page 9；本讲Page 6–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 造物者与被创造者的对立",
+          "claim": "本体论2 造物者与被创造者的对立",
+          "status": "supported_but_compressed",
+          "finding": "正文沿用创造者/被造者但进一步具体为始因/第一推动与后继因果网络；原轴可保留但少了本讲特征。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 人的灵魂(Psyche)",
+          "claim": "认识论1 人的灵魂(Psyche)",
+          "status": "supported_with_attribution",
+          "finding": "Psyche区别soul是讲者明确提出的本讲解释；词源、神话和历史推演未以原典独立验证。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 3–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 自然法则的统御",
+          "claim": "目的论1 自然法则的统御",
+          "status": "supported",
+          "finding": "自然法则、自行循环、创造后不再干预在目的论段明确出现。",
+          "source_ids": [
+            "m1-0027"
+          ],
+          "locator": "Page 6–8"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-1-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①上帝永远是正义的，但是恶是存在的，需要为恶的存在做解释。",
+          "claim": "①上帝永远是正义的，但是恶是存在的，需要为恶的存在做解释。",
+          "status": "supported",
+          "finding": "恶和苦难存在而上帝仍被宣称全善，神义论需为之辩护，两个命题均有对应。",
+          "source_ids": [
+            "m1-0028"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②四种经典辩护：\n\t普罗蒂诺：世界不存在恶，只是善有缺失。\n\t奥古斯丁：由恶到善是运动的过程。\n\t爱任纽：恶是上帝的考验。\n\t莱布尼茨：预定和谐(万物已被安排好了)→充足理由律(恶是偶然，不能归罪于上帝)→最好的世界(上帝用自己的自由意志挑选了一个最不坏的世界)。",
+          "claim": "②四种经典辩护：\n\t普罗蒂诺：世界不存在恶，只是善有缺失。\n\t奥古斯丁：由恶到善是运动的过程。\n\t爱任纽：恶是上帝的考验。\n\t莱布尼茨：预定和谐(万物已被安排好了)→充足理由律(恶是偶然，不能归罪于上帝)→最好的世界(上帝用自己的自由意志挑选了一个最不坏的世界)。",
+          "status": "supported_with_one_overstatement",
+          "finding": "复合项逐项：普罗蒂诺善的缺失见1–3；奥古斯丁的完善运动及反向退化为恶见3–6，原文“由恶到善”是压缩；爱任纽考验见6–7；莱布尼茨预定和谐见8、必然/偶然经因果网络区分见8–9、最好可能世界及自由意志见10–11。原摘要“不能归罪上帝”过强，正文说不能直接归责且上帝仍负整体总责。以上仅核课程对四人的转述。",
+          "source_ids": [
+            "m1-0028"
+          ],
+          "locator": "Page 1–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全的宇宙(统一体)",
+          "claim": "场域论1 整全的宇宙(统一体)",
+          "status": "supported_with_cross_page",
+          "finding": "本讲开场的宇宙定义在前一缓存末尾，15页另回到既定神创论架构。",
+          "source_ids": [
+            "m1-0027",
+            "m1-0028"
+          ],
+          "locator": "前讲1-2-1-1 Page 20；本讲Page 15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 造物者与被创造者的对立",
+          "claim": "本体论2 造物者与被创造者的对立",
+          "status": "supported_with_cross_page",
+          "finding": "开场直接给造物主/被造物二分，后文围绕创造者对有限万物负责展开。",
+          "source_ids": [
+            "m1-0027",
+            "m1-0028"
+          ],
+          "locator": "前讲1-2-1-1 Page 20；本讲Page 1、5–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 人的灵魂(Soul)",
+          "claim": "认识论1 人的灵魂(Soul)",
+          "status": "supported",
+          "finding": "开头明确回到soul，并以灵魂认识有限说明恶的解释问题。",
+          "source_ids": [
+            "m1-0028"
+          ],
+          "locator": "Page 1–2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 神的正义与邪恶对立",
+          "claim": "目的论2 神的正义与邪恶对立",
+          "status": "supported",
+          "finding": "神的正义与邪恶在目的论段直接对立。",
+          "source_ids": [
+            "m1-0028"
+          ],
+          "locator": "Page 1"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-1-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①人类是最差的世界中最好的存在。",
+          "claim": "①人类是最差的世界中最好的存在。",
+          "status": "supported",
+          "finding": "最低等世界中的最高贵者及最差环境中自认最好，两处直接对应。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 5、14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②认为人具有神性，能通过努力回到起源之地。",
+          "claim": "②认为人具有神性，能通过努力回到起源之地。",
+          "status": "supported_with_scope",
+          "finding": "人有属灵面、靠灵知回返有对应；具体机制为文本、基督与共同体精神，原句“努力”较宽但未改变方向。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 5–6、13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③为被上层创造的恶进行辩护。",
+          "claim": "③为被上层创造的恶进行辩护。",
+          "status": "supported_with_scope",
+          "finding": "正文让至高创造者免于恶的责任，把问题归于中间派生者，并准备灵知回返；“上层”是社会类比，不是原典历史术语。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 6、13–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④无法坚持三位一体，无法维持罗马的等级秩序，无法调和社会矛盾。",
+          "claim": "④无法坚持三位一体，无法维持罗马的等级秩序，无法调和社会矛盾。",
+          "status": "supported_with_attribution",
+          "finding": "无法坚持三位一体、不能维持罗马等级、无法调和矛盾三个判断和因果链都在正文；这是讲者的历史解释，未据古代文献核实。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 7–11、13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神话性的宇宙",
+          "claim": "场域论1 神话性的宇宙",
+          "status": "supported",
+          "finding": "神圣宇宙秩序、背景宇宙论神话和一套连续叙事直接定义场域。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 1、4–5"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 灵知与现象的对立",
+          "claim": "本体论2 灵知与现象的对立",
+          "status": "supported_with_attribution",
+          "finding": "正文把form/pleroma/灵知与phenomenon对立；这些概念之间的等同属于课程解释，未代替诺斯替文献的术语校准。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 2"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 虚假的知识(人体验的一切现象都是堕落的)",
+          "claim": "认识论1 虚假的知识(人体验的一切现象都是堕落的)",
+          "status": "supported",
+          "finding": "所体验现象堕落、知识虚假明确出现，正文也沿用灵魂并写Sophia；原轴选取其虚假知识一面。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 2–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 灵知(调和神义论与罪恶的对立)",
+          "claim": "目的论3 灵知(调和神义论与罪恶的对立)",
+          "status": "supported",
+          "finding": "gnosis调和神义与罪恶、说明创造却不用承担恶的责任，并引导回返，均有对应。",
+          "source_ids": [
+            "m1-0029"
+          ],
+          "locator": "Page 5–6、13"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-1-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①圣父、圣子、圣灵的三位一体可以融合为一个第四位格。",
+          "claim": "①圣父、圣子、圣灵的三位一体可以融合为一个第四位格。",
+          "status": "contradicted_by_lecture_distinction",
+          "finding": "正文把对照者的三位格/同实体解释为3+1，称第四项为godhead实体；萨伯琉则被说成同一位格的三个面向。不是三个位格融合生成第四位格，原句混淆两种模型且把实体误作位格。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 1–3"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②上帝为自己创造的世界受苦。",
+          "claim": "②上帝为自己创造的世界受苦。",
+          "status": "supported",
+          "finding": "创造者本人化身受苦、承担自己所创世界的代价多次明说。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 2–3、5–9、12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③解决了上帝创造的灵魂有瑕疵的道德困境。",
+          "claim": "③解决了上帝创造的灵魂有瑕疵的道德困境。",
+          "status": "supported_with_attribution",
+          "finding": "人的灵魂及世界有瑕疵与全能全善的张力，被讲者说成通过创造者亲自受苦解决；这是本讲对其道德功能的解释。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 4–6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 连续的叙事",
+          "claim": "场域论1 连续的叙事",
+          "status": "supported",
+          "finding": "从创世、神话到现实历史是连续叙事、同一个cosmos，直接作场域定义。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 9–10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 神圣和凡俗的对立",
+          "claim": "本体论2 神圣和凡俗的对立",
+          "status": "supported",
+          "finding": "本体论直接定义神圣/超越力量与凡俗世界。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论1 位格(Persona)",
+          "claim": "认识论1 位格(Persona)",
+          "status": "supported",
+          "finding": "所有伦理体验融通为同一persona，虽有不同faces，作为认识论1明确出现。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 10–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 受苦",
+          "claim": "目的论4 受苦",
+          "status": "supported",
+          "finding": "目的论明确suffer/passion、支付代价，并以微服私访解释社会类比。",
+          "source_ids": [
+            "m1-0030"
+          ],
+          "locator": "Page 12–14"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "课程忠实性与神学/思想史原典准确性分开记录；本批不把课程人物评价升级为历史定论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；神学词源及历史归因尚需原典专题核对。"
+      ]
+    },
+    {
+      "code": "1-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①由父系血脉崇拜发展而来。",
+          "claim": "①由父系血脉崇拜发展而来。",
+          "status": "supported_with_attribution",
+          "finding": "正文称偶像崇拜一开始是父性血脉崇拜，并解释为何用更宽的偶像崇拜名目；这是讲者的发生学解释，不是已验证的史前史。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 10、25"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②悲剧英雄、符号学献祭、人类对抗过剩。",
+          "claim": "②悲剧英雄、符号学献祭、人类对抗过剩。",
+          "status": "supported",
+          "finding": "悲剧英雄故事、符号献祭与以献祭排出过剩恢复均衡三项均有展开；不是仅凭剧名作联想。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 2–6、10–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③史前人类与创伤(闪电、林火、生育、死亡)拉开距离，是一种进步。",
+          "claim": "③史前人类与创伤(闪电、林火、生育、死亡)拉开距离，是一种进步。",
+          "status": "supported_with_attribution",
+          "finding": "闪电/森林大火、生殖/死亡及通过符号与创伤性暴力拉开距离均直接出现，进步性评价也明确；其史前因果推断仍属于讲者理论。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 12–13、17–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神话叙事",
+          "claim": "场域论1 神话叙事",
+          "status": "supported",
+          "finding": "场域直接定义为神话叙事中的世界。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 创造者与被创造者的对立",
+          "claim": "本体论2 创造者与被创造者的对立",
+          "status": "needs_specific_axis",
+          "finding": "本讲正式本体论是神圣力量与凡俗力量；创造者/被造者属于上层宗教实在论的总括，当前轴没体现本讲具体改写。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 14–17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 凡俗与神秘的对立",
+          "claim": "认识论2 凡俗与神秘的对立",
+          "status": "supported",
+          "finding": "日常不起眼现象与具有神秘神圣光环的现象在体验内部对立，原轴对应。",
+          "source_ids": [
+            "m1-0031"
+          ],
+          "locator": "Page 15–17"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本批保留讲者符号人类学解释的归属，不将其升级为原典、临床或史前史实证结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；复合字段的未定位例子与暂定判断已逐项标注。"
+      ]
+    },
+    {
+      "code": "1-2-2-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①由血脉崇拜替代偶像崇拜，易走向父权崇拜。",
+          "claim": "①由血脉崇拜替代偶像崇拜，易走向父权崇拜。",
+          "status": "classification_misstated",
+          "finding": "血脉崇拜是偶像崇拜的第一种，不是取代偶像崇拜的另一类；正文说它以祖先传承中介替代对造物主的直接崇拜，并通向父权崇拜。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 1–6"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②人的灵魂代际传递，人在出生前自由地选择了继承祖先的伦理属性、神圣性和原罪。",
+          "claim": "②人的灵魂代际传递，人在出生前自由地选择了继承祖先的伦理属性、神圣性和原罪。",
+          "status": "supported_with_attribution",
+          "finding": "灵魂代际传殖、出生前选择、继承伦理债及神圣性分别在1、2/16、3–4页明确；神圣性也被继承是讲者进一步解释，不能全部当作特土良原典已核定。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 1–4、16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③为大他者创造的世界的不完满性和人的有限性辩护。",
+          "claim": "③为大他者创造的世界的不完满性和人的有限性辩护。",
+          "status": "supported",
+          "finding": "世界不完满、个体有限与恶的责任被移至血脉，从而回护至高创造者，几个分句均有对应。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 3–5、16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神话叙事(创世纪-世系-我的出生)",
+          "claim": "场域论1 神话叙事(创世纪-世系-我的出生)",
+          "status": "supported",
+          "finding": "创世至世系再到我的出生明确构成连贯叙事场。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 创生性的存在与派生性的存在的对立",
+          "claim": "本体论2 创生性的存在与派生性的存在的对立",
+          "status": "supported",
+          "finding": "创生性精血、祖先父母与由其派生的自身明确二分。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 7–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 信仰(唯一性)与异教(多元性)的对立",
+          "claim": "认识论2 信仰(唯一性)与异教(多元性)的对立",
+          "status": "supported",
+          "finding": "faith/pagan二分及信仰唯一主线、多元哲学令其迷失均在认识论段阐述。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 8–10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 信仰的秩序(经典(圣经、论语)包含了一切)",
+          "claim": "目的论1 信仰的秩序(经典(圣经、论语)包含了一切)",
+          "status": "supported_core_example_unlocated",
+          "finding": "rule of faith与经文包含全部真理有明确对应，也类比中国古代经典；具体书名“论语”未在该段定位，不能把它当课程明确荐书。",
+          "source_ids": [
+            "m1-0032"
+          ],
+          "locator": "Page 12–13"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本批保留讲者符号人类学解释的归属，不将其升级为原典、临床或史前史实证结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；复合字段的未定位例子与暂定判断已逐项标注。"
+      ]
+    },
+    {
+      "code": "1-2-2-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①对人的符号学本能的拆解能力的恐惧。",
+          "claim": "①对人的符号学本能的拆解能力的恐惧。",
+          "status": "supported_with_attribution",
+          "finding": "人类对知性拆分、部分器官及符号学本能的恐惧明确展开；此为讲者符号人类学解释，未作人类学实证验证。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 6–8、10–11"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②人的符号学拆解能力与人追求整全的矛盾。",
+          "claim": "②人的符号学拆解能力与人追求整全的矛盾。",
+          "status": "supported",
+          "finding": "知性分解优先与人类追求完整拼合的反向趋向有明确对应，原句概括这层张力。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 7–8、10–13"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③爱人的部分大于人的整体：恋足癖、恋唇癖。",
+          "claim": "③爱人的部分大于人的整体：恋足癖、恋唇癖。",
+          "status": "supported_with_scope",
+          "finding": "爱身体局部胜过整体及恋足、恋唇例子明确出现；讲者将神学partialism与性化想象相联，是其跨领域解释而非两者学术上无差别。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 2、14、25"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 整全的宇宙(拼合而成)",
+          "claim": "场域论1 整全的宇宙(拼合而成)",
+          "status": "supported",
+          "finding": "场域明确为不同碎片拼成的完整整全。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 4"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 部分物(拆解)与自然物(整全)的对立",
+          "claim": "本体论2 部分物(拆解)与自然物(整全)的对立",
+          "status": "supported_but_compressed",
+          "finding": "可拆分部分客体及其奇美拉拼合物，与自然生长的整体之物构成神圣/凡俗两侧；原轴仅写拆解，省略神圣拼合物一面。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 4–6、10–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 待拼合的符号与凡俗的事物的对立",
+          "claim": "认识论2 待拼合的符号与凡俗的事物的对立",
+          "status": "supported",
+          "finding": "可拼合的神圣符号与凡俗事物在认识论段明确二分。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 13–14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 信仰的秩序(符号)与图示的神秘(想象)的对立",
+          "claim": "目的论2 信仰的秩序(符号)与图示的神秘(想象)的对立",
+          "status": "supported",
+          "finding": "rule of faith与myth of image在目的论段明确对立；符号和想象的解释是正文讨论两种能力的压缩。",
+          "source_ids": [
+            "m1-0033"
+          ],
+          "locator": "Page 19、22"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本批保留讲者符号人类学解释的归属，不将其升级为原典、临床或史前史实证结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；复合字段的未定位例子与暂定判断已逐项标注。"
+      ]
+    },
+    {
+      "code": "1-2-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①由传殖主义发展而来。",
+          "claim": "①由传殖主义发展而来。",
+          "status": "supported_but_incomplete",
+          "finding": "正文沿用传殖说身体创造灵魂的思维，同时以部分主义从自然背景分离的机制解释拜物教；原句只交代其中一个来源。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 1–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②人类创造工具的过程中，给人造物注入灵性，就如同先祖的身体创造出了后代的灵魂。",
+          "claim": "②人类创造工具的过程中，给人造物注入灵性，就如同先祖的身体创造出了后代的灵魂。",
+          "status": "supported",
+          "finding": "人创制工具注入灵性，与祖先生殖传承灵魂之间的类比明确；此是宗教/符号学机制的解释，不是工具真的获得灵魂。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 4–6、10–12、16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③拜物教的基本机制也是主体间语言产生的基本机制，即人创造语句的过程中注入了精神性力量，使得别人也知晓其意思。",
+          "claim": "③拜物教的基本机制也是主体间语言产生的基本机制，即人创造语句的过程中注入了精神性力量，使得别人也知晓其意思。",
+          "status": "supported_with_provisional_attribution",
+          "finding": "语句由人创造、被视为承载超物质意义及他者同样理解的力量，均明确；讲者称其个人看法并说还需进一步考察，现摘要应保留理论提出者与暂定性。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 7–10、15–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 连续的叙事(创造者叙事)",
+          "claim": "场域论1 连续的叙事(创造者叙事)",
+          "status": "supported",
+          "finding": "原始力量创造世界、祖先、我、工具形成连续创造者叙事，正文明确命名。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 12–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 平凡物与物神(凝结了神秘力量)的对立",
+          "claim": "本体论2 平凡物与物神(凝结了神秘力量)的对立",
+          "status": "supported",
+          "finding": "平凡物与物神作为两种事物直接出现，神秘力量凝结在物中在同段解释。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 工具理性与神秘力量凝结于工具的对立",
+          "claim": "认识论2 工具理性与神秘力量凝结于工具的对立",
+          "status": "supported",
+          "finding": "工具性认知/创造机制与神秘力量凝结为认识论两侧，正文还提醒资本拜物教不只工具理性。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 14–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 符号与想象返回于物神化",
+          "claim": "目的论3 符号与想象返回于物神化",
+          "status": "supported_with_scope",
+          "finding": "物神化调和符号和想象，且被讲者认为更原初、分裂为前两者；“返回”应指理论发生关系，不是已证的历史倒流。",
+          "source_ids": [
+            "m1-0034"
+          ],
+          "locator": "Page 15–18"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本批保留讲者符号人类学解释的归属，不将其升级为原典、临床或史前史实证结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；复合字段的未定位例子与暂定判断已逐项标注。"
+      ]
+    },
+    {
+      "code": "1-2-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①时间在永恒的循环，人有来世。",
+          "claim": "①时间在永恒的循环，人有来世。",
+          "status": "supported_with_scope",
+          "finding": "活的永恒循环与俄耳甫斯/狄奥尼索斯传统中的来世均有对应；不是宣称所有时间观都蕴含来世。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 3–7、14–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②崇拜比人更长久存在的物(神像、建筑)。",
+          "claim": "②崇拜比人更长久存在的物(神像、建筑)。",
+          "status": "supported_core_example_unlocated",
+          "finding": "泥塑偶像比人寿命长及由此获得崇高感明确；“建筑”这个具体例子全文检索未出现，尚未定位，不能扩成课程已举例。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 1–2、22–23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③通过节庆性体验来感受主体性。",
+          "claim": "③通过节庆性体验来感受主体性。",
+          "status": "supported",
+          "finding": "神圣节庆瞬间被解释为主体性抉择当下及周期性释放，原句概括有明确对应；正文另批评必须等到指定节日的限制。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 20–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 永恒循环的、有活性的时间",
+          "claim": "场域论1 永恒循环的、有活性的时间",
+          "status": "supported",
+          "finding": "场域直接定义aion为包裹宇宙、永恒但活动循环的时间。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 17–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 Aion(具有神圣力量的时间)与Chronos(可朽的时间)的对立",
+          "claim": "本体论2 Aion(具有神圣力量的时间)与Chronos(可朽的时间)的对立",
+          "status": "supported_with_attribution",
+          "finding": "aion的神圣激活时间与chronos的时态束缚、可朽时间明确二分；神话中相关神名关系尚未原典校准。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 4、19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论2 日常体验(生老病死)与节庆性体验(神圣时刻)的对立",
+          "claim": "认识论2 日常体验(生老病死)与节庆性体验(神圣时刻)的对立",
+          "status": "supported",
+          "finding": "日常生老病死与节庆神秘/神圣瞬间在认识论段直接二分。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 20–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 超越符号、想象和物神化",
+          "claim": "目的论4 超越符号、想象和物神化",
+          "status": "supported",
+          "finding": "时间超出延续、分裂和增长三种符号学模式，并消解前面符号/想象/物神化三种目的模式，原轴有正文支持。",
+          "source_ids": [
+            "m1-0035"
+          ],
+          "locator": "Page 25–27"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "本批保留讲者符号人类学解释的归属，不将其升级为原典、临床或史前史实证结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；复合字段的未定位例子与暂定判断已逐项标注。"
+      ]
+    },
+    {
+      "code": "1-2-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①介于庸俗唯我论与原始认知主义。",
+          "claim": "①介于庸俗唯我论与原始认知主义。",
+          "status": "supported",
+          "finding": "讲者明确放在庸俗唯我论与古代认知主义之间，并补充它含有好奇、探索的因素；此处为课程内部的谱系定位。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 17–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②可以打怪升级，获得超凡能力，使自我的存在更高级，是一种自我偶像崇拜。",
+          "claim": "②可以打怪升级，获得超凡能力，使自我的存在更高级，是一种自我偶像崇拜。",
+          "status": "supported_with_scope",
+          "finding": "打怪升级、超凡能力与超越神祇的自我提升都有对应，且指出仍保留偶像崇拜。这是在复述该立场的想象；没有证成超能力真实存在，所谓高级也不表示背景本体秩序被改写。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 7、16–17、23–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③对象化把握自我意识，无法进入先验阶段。",
+          "claim": "③对象化把握自我意识，无法进入先验阶段。",
+          "status": "supported_with_scope",
+          "finding": "直接指出将主体性对象化、现象化，就不能把握先验框架；随后允许通过教育或哲学转向进入先验问题。不能进入是维持此立场的限制，不是人的永久能力判定。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 25–26"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 叙事框架(宇宙、位面)",
+          "claim": "场域论1 叙事框架(宇宙、位面)",
+          "status": "supported",
+          "finding": "宇宙和多重位面仍被一个完整叙事框架包容；多位面不等于多个彼此断裂的场域。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 3–4、6"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 自然与超自然的二分",
+          "claim": "本体论2 自然与超自然的二分",
+          "status": "supported",
+          "finding": "自然与超自然/灵性明确列为本体对立。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 玄妙体验(调和神圣体验与日常体验的对立)",
+          "claim": "认识论3 玄妙体验(调和神圣体验与日常体验的对立)",
+          "status": "supported",
+          "finding": "以自我心灵中的玄妙体验中介神圣意义与日常体验，原字段的调和关系有正文依据。",
+          "source_ids": [
+            "m1-0036"
+          ],
+          "locator": "Page 19–20、24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "区分讲者的分类解释、立场自身信念及学术事实；未据课程论述验证超自然能力或临床结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。"
+      ]
+    },
+    {
+      "code": "1-2-3-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①实质是追求主体间关系网络(社会关联)的持续存在。",
+          "claim": "①实质是追求主体间关系网络(社会关联)的持续存在。",
+          "status": "supported_with_attribution",
+          "finding": "讲者把永生欲望解释为持续拥有主体间的社会关系网络，且区别生物生命延长。这是讲者对动机的解释，不能推广为所有追求长寿者的心理定论。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 11–15、23–24、29"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②易走向家族主义，以家族关系的延续替代单个主体的永生。",
+          "claim": "②易走向家族主义，以家族关系的延续替代单个主体的永生。",
+          "status": "supported",
+          "finding": "家族主义与以家族关系延续代替每个个体永久存活均直接论述；原文用易走向，比讲者部分必然性措辞更审慎。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 12–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 宜居的世界",
+          "claim": "场域论1 宜居的世界",
+          "status": "supported",
+          "finding": "宜居、可以安顿生存的世界直接出现；讲者同时容许精神性的宜居世界，并不限物质肉身。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 1–3"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 可朽与不朽的对立",
+          "claim": "本体论2 可朽与不朽的对立",
+          "status": "supported",
+          "finding": "可朽与不朽的对立明确出现，材料举例是课程说明，并非延寿建议或有效性证实。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 15–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 自我的生存体验(调和神圣体验与日常体验)",
+          "claim": "认识论3 自我的生存体验(调和神圣体验与日常体验)",
+          "status": "supported",
+          "finding": "以自身生存体验调和神圣体验与日常体验有明确对应。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 生活的延续",
+          "claim": "目的论1 生活的延续",
+          "status": "supported",
+          "finding": "讲者特意区别生活延续与生命延续，现有字段保留了该区别。",
+          "source_ids": [
+            "m1-0037"
+          ],
+          "locator": "Page 23–24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "区分讲者的分类解释、立场自身信念及学术事实；未据课程论述验证超自然能力或临床结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。"
+      ]
+    },
+    {
+      "code": "1-2-3-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①不追求肉体的永生，追求灵体的升级，达到与至高主宰合一。",
+          "claim": "①不追求肉体的永生，追求灵体的升级，达到与至高主宰合一。",
+          "status": "supported",
+          "finding": "不以肉体永存为终点、追求灵体升级并与至高者合一均有对应；课程强调超越有限性，不只是获取神通。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 2–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②不把世俗世界看作家园，对共同体话语中的神秘性、想象性的家园有思乡病。",
+          "claim": "②不把世俗世界看作家园，对共同体话语中的神秘性、想象性的家园有思乡病。",
+          "status": "supported",
+          "finding": "世俗世界不是家园、共同体神话话语构成想象的家园与思乡病均有正文；不是实际存在灵魂故乡的证明。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 7–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 精神位面(从低到高)",
+          "claim": "场域论1 精神位面(从低到高)",
+          "status": "supported",
+          "finding": "低到高的精神位面梯度明确列作场域。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 1、13–14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 凡俗与灵性的对立",
+          "claim": "本体论2 凡俗与灵性的对立",
+          "status": "supported",
+          "finding": "凡俗/物质与灵性对立直接列明。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 14"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 通灵、催眠(调和了共同体的话语与神秘的话语)",
+          "claim": "认识论3 通灵、催眠(调和了共同体的话语与神秘的话语)",
+          "status": "supported_with_scope",
+          "finding": "共同体日常话语与神秘话语由通灵体验及催眠等方式中介有对应；讲者也谈幻觉，不能把通灵当已证实能力。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 14–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 留在凡俗世界与回归灵魂位面的对立",
+          "claim": "目的论2 留在凡俗世界与回归灵魂位面的对立",
+          "status": "supported",
+          "finding": "留恋此世的人际生活与回归灵魂位面之间的目的冲突明确出现。",
+          "source_ids": [
+            "m1-0038"
+          ],
+          "locator": "Page 16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "区分讲者的分类解释、立场自身信念及学术事实；未据课程论述验证超自然能力或临床结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。"
+      ]
+    },
+    {
+      "code": "1-2-3-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①调和了永生主义和回归式唯灵论，是一种神秘主义的人本主义。",
+          "claim": "①调和了永生主义和回归式唯灵论，是一种神秘主义的人本主义。",
+          "status": "supported",
+          "finding": "本讲的人本关怀和改善共同体、留世与回归的调和支持该概括；上一文件末明确将本讲引为前两种立场的调和与神秘主义人本主义。",
+          "source_ids": [
+            "m1-0039",
+            "m1-0038"
+          ],
+          "locator": "本讲Page 2–4、19–21；上一文件Page 17–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②要求自尊自爱、不求享乐、甘于贫困，以泰然自若的态度面对至高主宰，反对迷信。",
+          "claim": "②要求自尊自爱、不求享乐、甘于贫困，以泰然自若的态度面对至高主宰，反对迷信。",
+          "status": "supported_with_scope",
+          "finding": "自尊自爱、节制、甘贫与面对至高者的泰然态度均列出；反迷信是此立场的自我理解，讲者使用自以为反迷信，并非替魔法证成理性。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 1、3–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③在古代经典中散落着一条隐秘的道路，可以通过这条道路实现自我超越，从人类可触及的小宇宙穿透到大宇宙。",
+          "claim": "③在古代经典中散落着一条隐秘的道路，可以通过这条道路实现自我超越，从人类可触及的小宇宙穿透到大宇宙。",
+          "status": "supported_with_scope",
+          "finding": "古代经典中的隐秘智慧、修炼道路及微观/宏观宇宙联系均有对应；穿透应理解为连续宇宙内部建立联系，Page 12明确不是突破两套断裂场域。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 2–3、7、12、39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 大宇宙和小宇宙的连续体",
+          "claim": "场域论1 大宇宙和小宇宙的连续体",
+          "status": "supported",
+          "finding": "大小宇宙连续且小宇宙属于大宇宙明确出现。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 自然力与神秘力(星辰力)的二分",
+          "claim": "本体论2 自然力与神秘力(星辰力)的二分",
+          "status": "supported_with_scope",
+          "finding": "自然力与隐秘的星辰力被列为两类力量；此为课程所描述的魔法世界图景，不是天体影响的科学证实。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 12–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 “理论化”的魔法术法(调和神圣体验与日常体验)",
+          "claim": "认识论3 “理论化”的魔法术法(调和神圣体验与日常体验)",
+          "status": "supported",
+          "finding": "带引号的理论化魔法术法与神圣、日常体验的中介关系明确出现，并区别瞬间神秘合一体验。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 14–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 帮助共同体获得更好的存在状态(调和留在凡俗世界与回归灵魂位面的对立)",
+          "claim": "目的论3 帮助共同体获得更好的存在状态(调和留在凡俗世界与回归灵魂位面的对立)",
+          "status": "supported_with_scope",
+          "finding": "改善共同体和世界调和留世/回归两极有明确对应；Page 20也提及自利黑魔法，因此不能将利他伦理当作所有魔法实践者的实际动机。",
+          "source_ids": [
+            "m1-0039"
+          ],
+          "locator": "Page 19–21"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "区分讲者的分类解释、立场自身信念及学术事实；未据课程论述验证超自然能力或临床结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。"
+      ]
+    },
+    {
+      "code": "1-2-3-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①易由严重的创伤性造成，有负罪感的主体把体验不停地返回到自我意识。",
+          "claim": "①易由严重的创伤性造成，有负罪感的主体把体验不停地返回到自我意识。",
+          "status": "supported_with_attribution",
+          "finding": "严重丧失/创伤的例子、负罪感与反复返回自我意识均出现。它是讲者对一种意识结构的解释，未提供临床因果研究，不应读作创伤患者的统一诊断。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 8–9、14–16、20"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②目的论上的让位代表了一种自由，具有一定的解放性。",
+          "claim": "②目的论上的让位代表了一种自由，具有一定的解放性。",
+          "status": "supported_with_attribution",
+          "finding": "讲者明确评价此种让出目的维度为自由并具有解放性；后文限定其仍可能困于原有语言秩序，故原文一定程度的限定合适。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 12、15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③意识本身就是这种创伤性应激障碍：“我觉得我对这个东西的出现有亏欠，它明明出现了，却在我的意识里空转，我不能就这样辜负了它，我一定要让它显现出来，然后(我的意识)就会以某种方式把它结构出来”。",
+          "claim": "③意识本身就是这种创伤性应激障碍：“我觉得我对这个东西的出现有亏欠，它明明出现了，却在我的意识里空转，我不能就这样辜负了它，我一定要让它显现出来，然后(我的意识)就会以某种方式把它结构出来”。",
+          "status": "needs_attribution",
+          "finding": "意识本身是创伤性应激障碍及亏欠/辜负/结构出来的说明确实出自课程；讲者在讨论符号学、伦理与意识结构的同构，不能未经归属直接作为医学事实。建议加课程解释归属。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 15–16、29–31、34–35"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 语言/命运",
+          "claim": "场域论1 语言/命运",
+          "status": "supported",
+          "finding": "语言或命运明列为背景场域；命运在后文通过共同体话语与遭遇说明。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 2、8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 断裂(语词)与连续(意义)的对立",
+          "claim": "本体论2 断裂(语词)与连续(意义)的对立",
+          "status": "supported",
+          "finding": "词语断裂、意义连续直接列明，后以重大事件断裂与生活连续作例。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 2–3、8–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论3 自我意识(调和神圣现象与凡俗现象)",
+          "claim": "认识论3 自我意识(调和神圣现象与凡俗现象)",
+          "status": "supported",
+          "finding": "主体性/自我意识通过不断返回自身调和神圣与凡俗现象，正文明确。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 3–5、9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 弃绝、敞开(追求涅槃而不得，依赖奇迹)",
+          "claim": "目的论4 弃绝、敞开(追求涅槃而不得，依赖奇迹)",
+          "status": "supported",
+          "finding": "弃绝、让出目的与敞开均有对应；追求涅槃不可得、依赖奇迹是讲者在此结构内的判断，Page 24直接表述。",
+          "source_ids": [
+            "m1-0040"
+          ],
+          "locator": "Page 12–15、24"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "区分讲者的分类解释、立场自身信念及学术事实；未据课程论述验证超自然能力或临床结论。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。"
+      ]
+    },
+    {
+      "code": "1-2-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①至高存在不能表象也不可思考。",
+          "claim": "①至高存在不能表象也不可思考。",
+          "status": "supported_with_scope",
+          "finding": "不可表象乃至不可思考明确出现，属于本讲描述的反偶像立场，不是所有宗教的统一教义。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 8–9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②完全沉浸于神圣秩序，脱离仪式的私人的信仰。",
+          "claim": "②完全沉浸于神圣秩序，脱离仪式的私人的信仰。",
+          "status": "supported_with_scope",
+          "finding": "沉浸神圣秩序、可脱离仪式共同体、私人话语面对至高者均有对应；课程说最极端可以如此，不意味着任何反偶像传统都没有仪式。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 9–10、16、24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③对自我的去主体化，拒绝回归自我意识。",
+          "claim": "③对自我的去主体化，拒绝回归自我意识。",
+          "status": "supported",
+          "finding": "去主体化、不回到自我而回到神圣秩序直接说明；这是课程的主体性模型，未验证普遍心理因果。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 12–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神圣秩序",
+          "claim": "场域论1 神圣秩序",
+          "status": "supported",
+          "finding": "神圣秩序直接作为场域列出。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 至高存在和最低限度的表征(符号化)的对立",
+          "claim": "本体论2 至高存在和最低限度的表征(符号化)的对立",
+          "status": "supported",
+          "finding": "至高存在和不得不留下的最低限度表征之间的对立明确出现，表征可以是人格化或因果秩序。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 11–12、15–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 去符号化(放弃对至高存在的指称、仪式、人格化)",
+          "claim": "认识论4 去符号化(放弃对至高存在的指称、仪式、人格化)",
+          "status": "supported_with_scope",
+          "finding": "去符号化、反对直接指称、去人格化与无需仪式有依据；去除是其要求，不是成功消除一切符号，Page 12–16强调始终剩下最低表征。",
+          "source_ids": [
+            "m1-0041"
+          ],
+          "locator": "Page 10、16、20"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "已逐项区分课程自我修订、立场内在描述与讲者外部批评；不以本批替代宗教史、临床史或原典核证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。"
+      ]
+    },
+    {
+      "code": "1-2-4-1",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①放弃自己的选择权。",
+          "claim": "①放弃自己的选择权。",
+          "status": "supported",
+          "finding": "放弃选择权、没有自由意志有明确对应；Page 3关于真正自由的讨论属于讲者对比，不应混成该意识形态的自我主张。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 2、18–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②“我”、“这”、“命”的短路，我就是这样，这就是命。",
+          "claim": "②“我”、“这”、“命”的短路，我就是这样，这就是命。",
+          "status": "supported",
+          "finding": "我、这、命的短路与我就是这样、这就是命有逐字对应，且讨论自我被注册为命运文本的痕迹。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 9–10"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③在命定前自我驯服，感受痛楚中的快感。",
+          "claim": "③在命定前自我驯服，感受痛楚中的快感。",
+          "status": "supported_with_attribution",
+          "finding": "面对命运自我驯服、压抑欲望及痛楚中快感明确出现；是讲者解释，不是对所有受苦者心理的调查结论。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 13–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神圣秩序(圣典化的世界)",
+          "claim": "场域论1 神圣秩序(圣典化的世界)",
+          "status": "supported",
+          "finding": "神圣秩序与圣典化/剧本化世界明确列作背景，圣典可指原则和叙事，不限一本现实书籍。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 8、11–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 无力的挣扎与决定一切的“命”的对立",
+          "claim": "本体论2 无力的挣扎与决定一切的“命”的对立",
+          "status": "supported",
+          "finding": "讲者先说主宰随后改称挣扎的力量，与决定一切的命对立；原字段已经采用后来的修正。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 12–13"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 放弃自由意志",
+          "claim": "认识论4 放弃自由意志",
+          "status": "supported",
+          "finding": "认识论4直接解释为弃守、听之任之和放弃自由意志，不是自由地向新知识敞开。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 18–19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论1 承受命定的清苦状态(涤罪)",
+          "claim": "目的论1 承受命定的清苦状态(涤罪)",
+          "status": "contradicted_by_later_revision",
+          "finding": "净化是前段暂用的词；Page 19明确说不能叫purification，改为被动承受、因果网络命定循环。原括号涤罪保留了已撤回的说法。",
+          "source_ids": [
+            "m1-0042"
+          ],
+          "locator": "Page 2、18–19"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "已逐项区分课程自我修订、立场内在描述与讲者外部批评；不以本批替代宗教史、临床史或原典核证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。"
+      ]
+    },
+    {
+      "code": "1-2-4-2",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 6,
+        "recorded": 6,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①幻想有大他者对泥泞的循环进行结算。",
+          "claim": "①幻想有大他者对泥泞的循环进行结算。",
+          "status": "supported",
+          "finding": "泥泞的善恶苦乐循环与幻想大他者清算均明确出现；讲者同时否定真实存在一个记账者，因此原文幻想准确保留批判距离。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 11–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②以献祭人格的方式等待大他者出现，希望结算一切并为一切负责，尼采因之而疯。",
+          "claim": "②以献祭人格的方式等待大他者出现，希望结算一切并为一切负责，尼采因之而疯。",
+          "status": "needs_attribution",
+          "finding": "献祭人格等待弥赛亚、让大他者结算与负责都有对应。尼采精神崩溃被讲者如此解释，但本段没有提供传记病因证据，不能以因之而疯直接作为历史或医学定论。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 1–4、17、21–23"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 因果网络(善恶苦乐秩序)",
+          "claim": "场域论1 因果网络(善恶苦乐秩序)",
+          "status": "supported",
+          "finding": "因果网络、善恶网络和苦乐秩序作为一整套场域直接列出。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 6–9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 当下陷于凡俗的善恶冲突循环(罪)和过去与未来的超越与光明(赎)的对立",
+          "claim": "本体论2 当下陷于凡俗的善恶冲突循环(罪)和过去与未来的超越与光明(赎)的对立",
+          "status": "supported_with_qualification",
+          "finding": "当下善恶循环之罪与过去/未来救赎力量有对应；Page 10特意说明不再按凡圣高低划分，原句凡俗应只当现处泥潭的说明，不能恢复已被否定的凡圣二分。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 8–11"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 离苦，寻找救赎性力量",
+          "claim": "认识论4 离苦，寻找救赎性力量",
+          "status": "supported",
+          "finding": "离苦与在一切认识中寻找不再痛苦的救赎力量明确列出。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 11–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论2 命定(因果循环)与结算(歇息、停止)的二分",
+          "claim": "目的论2 命定(因果循环)与结算(歇息、停止)的二分",
+          "status": "supported",
+          "finding": "命定因果循环与算账/停止/歇息的目的冲突明确列出；结算可只是暂时喘息而非永恒终止。",
+          "source_ids": [
+            "m1-0043"
+          ],
+          "locator": "Page 12–14"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "已逐项区分课程自我修订、立场内在描述与讲者外部批评；不以本批替代宗教史、临床史或原典核证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。"
+      ]
+    },
+    {
+      "code": "1-2-4-3",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 7,
+        "recorded": 7,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①发源自苏非主义。",
+          "claim": "①发源自苏非主义。",
+          "status": "overstated_origin",
+          "finding": "开讲明确用苏非主义作为主要例子与代表群体，并排除布拉瓦斯基近代神智学运动；没有论证整个神智论唯一发源于苏非主义。建议把起源断言改成课程举例范围。",
+          "source_ids": [
+            "m1-0044",
+            "m1-0043"
+          ],
+          "locator": "本讲Page 1–2；上一文件Page 29–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②通过彻底的无我状态与主宰合二为一，获得神智。",
+          "claim": "②通过彻底的无我状态与主宰合二为一，获得神智。",
+          "status": "supported_with_qualification",
+          "finding": "无我状态、等待主宰赏赐神智有对应；Page 3–4特意说明无我而为一而非两个有限实体主动融合，也不同于打怪升级式回归。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 1–5"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③节律性地压抑身体的自然节律，获取神秘主义的快感体验：荒谬的循环→能指链的断裂→能指与所指短路→报复性地拼合能指链→防御性的快感涌现。",
+          "claim": "③节律性地压抑身体的自然节律，获取神秘主义的快感体验：荒谬的循环→能指链的断裂→能指与所指短路→报复性地拼合能指链→防御性的快感涌现。",
+          "status": "needs_attribution_and_sequence_qualification",
+          "finding": "节律性压抑、荒谬的最小循环、能指链断开与所指短路都有对应；防御性快感在Page 21–22已出现，Page 23再说报复性拼链，不支持箭头所示严格先拼链再快感顺序。神经机制是讲者解释，未由本批核成实验结论。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 13–16、20–23、26"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 大他者的自我体验(大他者的梦境)",
+          "claim": "场域论1 大他者的自我体验(大他者的梦境)",
+          "status": "supported",
+          "finding": "主宰自我认识/体验、整个世界如其梦境作为背景场域直接陈述。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 7–8"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 梦境的隐匿状态(凡俗的世界)与梦境的显现状态(神智状态)的二分",
+          "claim": "本体论2 梦境的隐匿状态(凡俗的世界)与梦境的显现状态(神智状态)的二分",
+          "status": "incorrect_subject",
+          "finding": "隐匿或显现的是大他者/主宰：其隐匿时凡俗梦境显现，其觉醒时梦境消灭。本字段把主语写成梦境，反转了隐匿/显现所指。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 8–10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 一切都是虚幻",
+          "claim": "认识论4 一切都是虚幻",
+          "status": "overbroad",
+          "finding": "虚假针对平时凡俗的有限体验；讲者描述该立场仍承认无我出神时获得真实神智。无限定一切都是虚幻会抹掉它承认的真实维度。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 5、10"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论3 获得主宰赏赐的神智(调和因果的循环与最后的结算)",
+          "claim": "目的论3 获得主宰赏赐的神智(调和因果的循环与最后的结算)",
+          "status": "supported",
+          "finding": "赏赐神智的暂时显现/暂停中介无限循环与终局结算，原字段的三元调和有直接依据。",
+          "source_ids": [
+            "m1-0044"
+          ],
+          "locator": "Page 10–11、30"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "已逐项区分课程自我修订、立场内在描述与讲者外部批评；不以本批替代宗教史、临床史或原典核证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。"
+      ]
+    },
+    {
+      "code": "1-2-4-4",
+      "evidence_level": "transcript_secondary",
+      "review_status": "transcript_compared_all_fields_partial_text",
+      "field_coverage": {
+        "expected": 8,
+        "recorded": 8,
+        "all_requested_fields_recorded": true,
+        "all_claims_confirmed": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "original_field": "①发源自苏非主义。",
+          "claim": "①发源自苏非主义。",
+          "status": "supported_with_attribution",
+          "finding": "开讲直接说来自苏非主义，并提代表女性及其入门方法；因此有课程来源，但未完成这一广义范畴的历史起源核证。本讲末承认传统还有后续智性修为，不能把整个苏非传统等同本格。",
+          "source_ids": [
+            "m1-0045",
+            "m1-0044"
+          ],
+          "locator": "上一文件Page 33；本讲Page 12、23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "original_field": "②爱有三分：肉体之爱、灵魂之爱、真正之爱(对大他者之爱)。",
+          "claim": "②爱有三分：肉体之爱、灵魂之爱、真正之爱(对大他者之爱)。",
+          "status": "supported",
+          "finding": "肉体、精神/灵魂、神圣超越者的爱三分明确出现；真正的爱是所述传统的名称，讲者后来不认同把它直接视为真正人际爱情。",
+          "source_ids": [
+            "m1-0045",
+            "m1-0044"
+          ],
+          "locator": "Page 1（另见上一文件Page 34）"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "original_field": "③对背景性秩序对象化、人格化，幻想自己被大他者所爱，对大他者的化身一厢情愿、死缠烂打的爱。",
+          "claim": "③对背景性秩序对象化、人格化，幻想自己被大他者所爱，对大他者的化身一厢情愿、死缠烂打的爱。",
+          "status": "supported_with_scope",
+          "finding": "背景秩序对象化/人格化、被爱幻想、依赖和死缠烂打均有对应；化身只是通向背后秩序的媒介，不是单独迷恋躯壳。Page 12–13还区别保持裂隙的代表人物与不保持裂隙的狂热者。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 3–5、7–9、12–14"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "original_field": "④实质是对大他者的一种亵渎，对大他者产生情爱而非敬畏。",
+          "claim": "④实质是对大他者的一种亵渎，对大他者产生情爱而非敬畏。",
+          "status": "supported_with_attribution",
+          "finding": "讲者明确说带有亵渎意味、情欲之爱取代敬畏；实质是其批判判断，而不是该传统公认自我定义。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 3、5–6、13、16–17"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "original_field": "场域论1 神圣文本(圣典、情诗、梦)",
+          "claim": "场域论1 神圣文本(圣典、情诗、梦)",
+          "status": "supported",
+          "finding": "圣典、情诗、神秘体验与梦被注册为神圣文本，明确作为背景场域。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 6–7"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "original_field": "本体论2 至善至美的大他者与凡俗之物的二分",
+          "claim": "本体论2 至善至美的大他者与凡俗之物的二分",
+          "status": "supported",
+          "finding": "至善完美可爱的大他者与凡俗一般事物的二分直接列出。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 2、10、15–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "original_field": "认识论4 放弃知识(不分辨不同现象)",
+          "claim": "认识论4 放弃知识(不分辨不同现象)",
+          "status": "supported_with_scope",
+          "finding": "痴迷、放弃智识和分辨不同事物明确出现；指此意识形态的结构，不是声称所有信徒事实上没有知识。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 14–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "original_field": "目的论4 放弃目的论思考(任由所爱施为，予取予求)",
+          "claim": "目的论4 放弃目的论思考(任由所爱施为，予取予求)",
+          "status": "supported",
+          "finding": "任由所爱施为、予取予求与放弃对整个世界运行方式及目的的思考均直接出现。",
+          "source_ids": [
+            "m1-0045"
+          ],
+          "locator": "Page 14–16"
+        }
+      ],
+      "course_summary": [],
+      "axis_explanations": [],
+      "editorial_notes": [
+        "已逐项区分课程自我修订、立场内在描述与讲者外部批评；不以本批替代宗教史、临床史或原典核证。"
+      ],
+      "reading_source_ids": [],
+      "open_questions": [
+        "未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "1-2-1-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②四种经典辩护：\n\t普罗蒂诺：世界不存在恶，只是善有缺失。\n\t奥古斯丁：由恶到善是运动的过程。\n\t爱任纽：恶是上帝的考验。\n\t莱布尼茨：预定和谐(万物已被安排好了)→充足理由律(恶是偶然，不能归罪于上帝)→最好的世界(上帝用自己的自由意志挑选了一个最不坏的世界)。",
+      "after": "②四种经典辩护：\n\t普罗蒂诺：世界不存在恶，只是善有缺失。\n\t奥古斯丁：由恶到善是运动的过程。\n\t爱任纽：恶是上帝的考验。\n\t莱布尼茨：预定和谐(万物已被安排好了)→充足理由律(恶是偶然，不直接归责于上帝，但整体仍由上帝负责)→最好的世界(上帝用自己的自由意志挑选了一个最不坏的世界)。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0028"
+      ],
+      "locator": "Page 8–11",
+      "rationale": "正文区分直接责任与因果整体总责，原句抹去此限制。"
+    },
+    {
+      "code": "1-2-1-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①圣父、圣子、圣灵的三位一体可以融合为一个第四位格。",
+      "after": "①圣父、圣子、圣灵被理解为同一位格的三个模态或面向，并非融合生成第四位格。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0030"
+      ],
+      "locator": "Page 1–3",
+      "rationale": "区分同一位格三面向与讲者对另一种三位格/同实体结构的3+1解读。"
+    },
+    {
+      "code": "1-2-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 创造者与被创造者的对立",
+      "after": "本体论2 神圣力量与凡俗力量的对立",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0031"
+      ],
+      "locator": "Page 14–17",
+      "rationale": "采用本讲明确轴定义，不仅复制上层创造者/被创造者总括。"
+    },
+    {
+      "code": "1-2-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①由血脉崇拜替代偶像崇拜，易走向父权崇拜。",
+      "after": "①血脉崇拜是偶像崇拜的一种，以祖先传承中介对造物主的直接崇拜，易走向父权崇拜。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0032"
+      ],
+      "locator": "Page 1–6",
+      "rationale": "原句把类别内部形式写成取代类别本身，明确其分类关系和被替代的对象。"
+    },
+    {
+      "code": "1-2-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③拜物教的基本机制也是主体间语言产生的基本机制，即人创造语句的过程中注入了精神性力量，使得别人也知晓其意思。",
+      "after": "③讲者提出，物神化机制支撑主体间语言：人创造语句时，将其视为承载他人也能领会的精神性意义；这一发生学解释仍需进一步考察。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0034"
+      ],
+      "locator": "Page 7–10、15–16",
+      "rationale": "保留课程明确的自我归属与待考察性质，避免将理论推演当语言起源定论。"
+    },
+    {
+      "code": "1-2-3-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③意识本身就是这种创伤性应激障碍：“我觉得我对这个东西的出现有亏欠，它明明出现了，却在我的意识里空转，我不能就这样辜负了它，我一定要让它显现出来，然后(我的意识)就会以某种方式把它结构出来”。",
+      "after": "③讲者从符号学与伦理结构解释意识，将其称作“创伤性应激障碍”（此处不是临床诊断）：“我觉得我对这个东西的出现有亏欠，它明明出现了，却在我的意识里空转，我不能就这样辜负了它，我一定要让它显现出来，然后(我的意识)就会以某种方式把它结构出来”。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0040"
+      ],
+      "locator": "Page 15–16、29–31、34–35",
+      "rationale": "保留课程原说和后续解释，明确这是讲者的意识结构论述，避免无归属的医学事实断言。"
+    },
+    {
+      "code": "1-2-4-1",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论1 承受命定的清苦状态(涤罪)",
+      "after": "目的论1 被动承受命定的因果循环",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0042"
+      ],
+      "locator": "Page 18–19",
+      "rationale": "讲者明确撤回净化一词，改为被动承受和命定的因果循环。"
+    },
+    {
+      "code": "1-2-4-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②以献祭人格的方式等待大他者出现，希望结算一切并为一切负责，尼采因之而疯。",
+      "after": "②以献祭人格的方式等待大他者出现，希望结算一切并为一切负责；讲者借此解释尼采的精神崩溃，这不是已核实的病因结论。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0043"
+      ],
+      "locator": "Page 1–4、17、21–23",
+      "rationale": "保留讲者的符号学解释，避免把尼采病因写成已经证实的事实。"
+    },
+    {
+      "code": "1-2-4-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①发源自苏非主义。",
+      "after": "①本讲以苏非主义为主要例子，并区别于布拉瓦斯基的近代神智学运动。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0044",
+        "m1-0043"
+      ],
+      "locator": "本讲Page 1–2；上一文件Page 29–30",
+      "rationale": "正文说明代表与举例范围，不足以断言整个范畴唯一发源于苏非主义。"
+    },
+    {
+      "code": "1-2-4-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③节律性地压抑身体的自然节律，获取神秘主义的快感体验：荒谬的循环→能指链的断裂→能指与所指短路→报复性地拼合能指链→防御性的快感涌现。",
+      "after": "③讲者将这种体验解释为节律性地压抑身体的自然节律，形成荒谬的最小循环、能指链断裂及能指与所指短路，继而出现防御性的快感和能指链的报复性拼合；这是课程提出的机制解释。",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0044"
+      ],
+      "locator": "Page 13–16、20–23、26",
+      "rationale": "防御性快感与拼链不是原箭头强制的先后关系；加归属避免将课程解释冒充已验证神经机制。"
+    },
+    {
+      "code": "1-2-4-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论2 梦境的隐匿状态(凡俗的世界)与梦境的显现状态(神智状态)的二分",
+      "after": "本体论2 主宰的隐匿状态(凡俗世界如其梦境)与显现状态(无我时获得神智)的二分",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0044"
+      ],
+      "locator": "Page 8–10",
+      "rationale": "原文隐匿/显现的主语是主宰，不是梦境。"
+    },
+    {
+      "code": "1-2-4-3",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4 一切都是虚幻",
+      "after": "认识论4 凡俗体验被视为虚幻，放下自我以等待神智显现",
+      "kind": "manual_summary_course_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m1-0044"
+      ],
+      "locator": "Page 5、10",
+      "rationale": "保留对凡俗体验的否定，补上该立场承认的真实神智，避免无限定全称。"
+    }
+  ]
+}

@@ -1,0 +1,1812 @@
+{
+  "batch": "02-review",
+  "checked_on": "2026-11-13",
+  "scope": "对三字头42条上游AI摘要逐项初筛；42条均记录实际审查状态。原典/学术局部核对不等于课程忠实性通过。两个旧条目只回指01-review，不重复其校勘。新找到clean-markdown/ASR语料尚未用于本批，后续另批对照。",
+  "catalogue_sha256": "154c0dc66c914ec8dbb348c021367d892c7fd5dff8f0089633b378641ca7fb3e",
+  "sources": [
+    {
+      "id": "r02-base",
+      "title": "上游 AI 摘要基线",
+      "url": "https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json",
+      "kind": "catalogue",
+      "verification_scope": "本地读取三字头42个summary_status=ai条目的轴、摘要、相关人物与视频字段；仅作被审对象及机械缺字证据。",
+      "locator": "3-3至3-4-4-4",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-course-toc",
+      "title": "《主义主义三：观念论》编纂预览目录",
+      "url": "https://te.z-library.sk/book/JR6Km6LEjN/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E4%B8%89%E8%A7%82%E5%BF%B5%E8%AE%BA%E6%9C%AA%E6%98%8E%E5%AD%9020192022.html?dsource=recommend",
+      "kind": "catalogue",
+      "verification_scope": "读取公开预览目录；正文预览只到三字头总论前部，未包含这里42讲正文。编纂页声明与视频相异部分由编者负责；页码为该编纂本目录页码。",
+      "locator": "目录3-3 p.1029至3-4-4-4 p.2198",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-bt31",
+      "title": "海德格尔《存在与时间》德文§31",
+      "url": "https://www.beyng.com/pages/de/SeinUndZeit/SeinUndZeit.142.html",
+      "kind": "primary_text",
+      "verification_scope": "核读§31标题和首段，确认领会原词Verstehen及其与情态的联系；未据此确认课程全部解读。",
+      "locator": "德文原页142，§31 Das Da-sein als Verstehen",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-heidegger-toc",
+      "title": "Contributions to Philosophy (From Enowning) 出版社目录",
+      "url": "https://iupress.org/9780253336064/contributions-to-philosophy-from-enowning/",
+      "kind": "publisher_catalogue",
+      "verification_scope": "核对目录八部分及出版说明；没有核读全书或据目录裁定六个接合的解释。",
+      "locator": "Table of Contents: I Preview—VIII Be-ing",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-sartre",
+      "title": "Jean-Paul Sartre — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/sartre/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读事实性、自由、自欺和真诚的相关段落。",
+      "locator": "§4.1、§4.2中facticity与sincerity段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-merleau-ponty",
+      "title": "Maurice Merleau-Ponty — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/merleau-ponty/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读开头著作介绍与生平中《辩证法的历险》信息；没有核查自然辩证法论证。",
+      "locator": "导言与§1，1955 Adventures of the Dialectic",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-kierkegaard",
+      "title": "Søren Kierkegaard — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/kierkegaard/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读生平、伪名写作与三种生存领域的介绍；没有完整核读相关原典。",
+      "locator": "§1与§3导言、§3.1–3.3目录",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-friedrich-jacobi",
+      "title": "Friedrich Heinrich Jacobi — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/friedrich-jacobi/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读生平、1787年休谟对话、1799年致费希特信之信仰和虚无主义说明。",
+      "locator": "§1、Glaube与nihilism段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-lacan",
+      "title": "Jacques Lacan — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/lacan/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读思想阶段综述：1930–40年代镜像、1950年代象征界、1950年代末实在界关注；未审全体拉康论断。",
+      "locator": "§1思想发展段，1953–1964",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-althusser",
+      "title": "Louis Althusser — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/althusser/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读结构因果性、超定、具体实践的不同发展及冲突段。",
+      "locator": "§3.2.3历史理论中structural causality/overdetermination段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-foucault",
+      "title": "Michel Foucault — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/foucault/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读方法概述，考古学与谱系学作为历史批判方法的区别及主要著作介绍。",
+      "locator": "§2结尾及§3开头",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-derrida",
+      "title": "Jacques Derrida — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/derrida/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读延异作为异质性关系及纯粹性/污染关系说明；不是把课程黑格尔解释判错。",
+      "locator": "différance与contamination段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-deleuze",
+      "title": "Gilles Deleuze — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/deleuze/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读《尼采与哲学》非辩证的肯定力量、反黑格尔立场及虚拟/现实化说明。",
+      "locator": "§2讨论Nietzsche and Philosophy及Bergsonism",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-ricoeur",
+      "title": "Paul Ricoeur — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/ricoeur/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读解释、占有及活隐喻作为句子而非装饰性换词的段落。",
+      "locator": "§3结尾、§4 Forms of Extended Discourse",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-gadamer",
+      "title": "Hans-Georg Gadamer — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/gadamer/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读偏见的积极作用、问题偏见仍可能扭曲理解、时间距离的作用。",
+      "locator": "§3.1–3.2",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-wittgenstein",
+      "title": "Ludwig Wittgenstein — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/wittgenstein/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读意义即用法的PI§43限语与规则/私人语言问题综述；未核拉康式解释。",
+      "locator": "§3.3、§3.5",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-camus",
+      "title": "Albert Camus — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/camus/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核对《西西弗神话》1942年出版、反抗与无慰藉生活的解释。",
+      "locator": "§3开头、§3.2结尾、§3.3",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-nietzsche",
+      "title": "Friedrich Nietzsche — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/nietzsche/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读生平与著作段：查拉图斯特拉1883–1885、1889年精神崩溃、《权力意志》遗稿编纂问题；未核读永恒轮回全部解释。",
+      "locator": "§1 Life and Works",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-jaspers",
+      "title": "Karl Jaspers — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/jaspers/",
+      "kind": "scholarly_reference",
+      "verification_scope": "核读1932年Philosophie三卷的著作说明；未核密码和大全的全部论证。",
+      "locator": "生平著作段：Weltorientierung、Existenzerhellung、Metaphysik",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-berdyaev",
+      "title": "The Destiny of Man：IARF目录",
+      "url": "https://iarf.net/library/item/the-destiny-of-man-an-essay-in-paradoxical-ethics/",
+      "kind": "catalogue",
+      "verification_scope": "核读公开目录，确认法律、救赎、创造三种伦理及personalism小节；没有全文论证核读。",
+      "locator": "Part One III.2；Part Two I–III",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-shestov",
+      "title": "舍斯托夫《雅典与耶路撒冷》法译",
+      "url": "https://classiques.uqam.ca/classiques/Chestov_Leon/Athenes_et_Jerusalem/Athenes_et_Jerusalem.pdf",
+      "kind": "primary_excerpt",
+      "verification_scope": "仅核搜索返回的原文段落：向上帝要求不可能与以圣经语言定义上帝；没有通读PDF。",
+      "locator": "检索锚点：Mais pour Dieu l’impossible n’existe pas",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-borges",
+      "title": "Borges, The Secret Miracle",
+      "url": "https://www.keyschool.org/uploaded/Community/Adult_Education/Jorge_Luis_Borges_The_Secret_Miracle.pdf",
+      "kind": "primary_text",
+      "verification_scope": "核读主人公写作The Enemies的介绍及结尾，确认作品是剧作且在意识中完成；译者在所见文件中未核定。",
+      "locator": "The Enemies介绍段与末段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-saussure",
+      "title": "Saussure, Course in General Linguistics 节选",
+      "url": "https://www.umsl.edu/~gradyf/theory/CourseinGeneralLinguistics.htm",
+      "kind": "primary_text",
+      "verification_scope": "核读Nature of the Linguistic Sign之符号两面性和任意性段落；未读取全部课程。",
+      "locator": "§1 Sign, Signified, Signifier；§2 Arbitrary Nature",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-levi",
+      "title": "Lévi-Strauss, Introduction à l’œuvre de Marcel Mauss",
+      "url": "https://classiques.uqam.ca/classiques/mauss_marcel/socio_et_anthropo/0_introduction/intro_socio_et_anthropo.pdf",
+      "kind": "primary_text",
+      "verification_scope": "核读导言末段能指相对已辨所指过剩、浮动能指mana及零符号值的段落；没有审《野性的思维》全书。",
+      "locator": "全文末部，surabondance de signifiant、signifiant flottant段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-barthes",
+      "title": "Barthes, Introduction à l’analyse structurale des récits",
+      "url": "https://www.persee.fr/doc/comm_0588-8018_1966_num_8_1_1113",
+      "kind": "journal_record",
+      "verification_scope": "核对原刊记录：Communications 8 (1966), pp.1–27；正文三层模型通过另一个译文节选定位，不能据记录验证零度写作。",
+      "locator": "原刊题名、作者与页码",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-badiou",
+      "title": "Badiou, Being and Event：Meditation One",
+      "url": "https://www.ff.uni-lj.si/sites/default/files/documents/Badiou%20Being%20and%20Event.pdf",
+      "kind": "primary_excerpt",
+      "verification_scope": "核读搜索返回Meditation One中一/多、呈现与count-as-one段；未把集合论不可数性等同于非一致的多。",
+      "locator": "Meditation One: The One and the Multiple",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-kristeva",
+      "title": "Kristeva, Women’s Time",
+      "url": "https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduates/modules/literaturetheoryandtime/ltt.kristeva.pdf",
+      "kind": "journal_record",
+      "verification_scope": "核对搜索返回刊头与开头：Signs 7.1 (1981), pp.13–35，译者Alice Jardine、Harry Blake；未核第三代女性主义全部论证。",
+      "locator": "刊头与开头",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-bataille",
+      "title": "Bataille, The Accursed Share, vol.1",
+      "url": "https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/charlesdickens/1988_bataille_theaccursedshare_v1_essayongeneraleconomy.pdf",
+      "kind": "primary_excerpt",
+      "verification_scope": "核读搜索返回的基本能量论述：多余能量可用于生长，无法吸收的剩余才必须无收益耗散；非全文审查。",
+      "locator": "The Meaning of General Economy：basic fact段",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-klossowski",
+      "title": "Les lois de l’hospitalité：M HKA藏品记录",
+      "url": "https://www.ensembles.org/items/les-lois-de-l-hospitalite-la-revocation-de-l-edit-de-nantes-roberte-ce-soir-le-souffleur",
+      "kind": "museum_catalogue",
+      "verification_scope": "核对三部曲标题与所藏版本记录；没有核读小说行为的哲学寓意。",
+      "locator": "书目及Literary synopsis开头",
+      "checked_on": "2026-11-13"
+    },
+    {
+      "id": "r02-lyotard",
+      "title": "Lyotard, The Postmodern Condition 节选",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm",
+      "kind": "primary_text",
+      "verification_scope": "核读第1节开头有关后工业社会、知识技术化的历史假说；该节选未包含paralogy关键段。",
+      "locator": "§1 The Field: Knowledge in Computerised Societies",
+      "checked_on": "2026-11-13"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-3",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "真正生存论者燃尽实存、失去言说能力",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-nietzsche",
+            "r02-kierkegaard"
+          ],
+          "locator": "Nietzsche §1；Kierkegaard §1"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "摘要把克尔凯郭尔和尼采合写为失去言说能力者，需要区分传记事实与课程的燃烧隐喻。尼采1889年后的病程有传记依据；克尔凯郭尔的伪名写作与晚年教会批判不能由这一类比直接概括。",
+          "source_ids": [
+            "r02-nietzsche",
+            "r02-kierkegaard"
+          ],
+          "locator": "Nietzsche §1；Kierkegaard §1"
+        }
+      ],
+      "open_questions": [
+        "核对原讲是否只是比喻，还是明确声称两人都丧失语言能力。"
+      ]
+    },
+    {
+      "code": "3-3-1",
+      "evidence_level": "catalogue_only",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "catalogue_only",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "Beingism与Existentialism的划分",
+          "status": "catalogue_only",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录pp.1029、1066"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "编纂目录明确把3-3称Existentialism、3-3-1称Beingism并强调being而非existence。可以确认这是课程的分类用语，不能当作哲学界已经统一纠正的译名。",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录pp.1029、1066"
+        }
+      ],
+      "open_questions": [
+        "补原讲对这套专门命名的限定，避免摘要中的“真正含义”被读成通行术语。"
+      ]
+    },
+    {
+      "code": "3-3-1-1",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "领会(Verstand/understanding)",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-bt31"
+          ],
+          "locator": "§31，原页142"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《存在与时间》§31写Verstehen，现摘要括注Verstand应作限定术语纠正；同段把领会直接定义为具有命题的反思展开仍需另核，修词不等于验证这个定义。",
+          "source_ids": [
+            "r02-bt31"
+          ],
+          "locator": "§31，原页142"
+        }
+      ],
+      "open_questions": [
+        "继续核§31–33及课程对领会、解释、命题的先后关系。"
+      ]
+    },
+    {
+      "code": "3-3-1-2",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "通过自欺真诚地成为符号系统任命的本质",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-sartre"
+          ],
+          "locator": "§4.2中sincerity段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "萨特自欺分析不能把真诚当作简单解方：若真诚意味着严格成为固定的自己，它本身也落入自为存在的张力。现句可能是在讲自欺如何运作，应保留课程解释身份，并补充它不是萨特肯定的真诚理想。",
+          "source_ids": [
+            "r02-sartre"
+          ],
+          "locator": "§4.2中sincerity段"
+        }
+      ],
+      "open_questions": [
+        "核原讲是否把自欺作为批判对象，以及“他人是地狱”是否另有文本出处。"
+      ]
+    },
+    {
+      "code": "3-3-1-3",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "梅洛庞蒂《辩证法的历险》及政治批判",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-merleau-ponty"
+          ],
+          "locator": "导言：1955 AdD"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《辩证法的历险》出版于1955年；摘要确实围绕其政治哲学问题。此次只确认著作入口，尚未核实“自然本身没有辩证法”“所有中介注定失败”的范围，不能将它们作为梅洛庞蒂全部时期的定论。",
+          "source_ids": [
+            "r02-merleau-ponty"
+          ],
+          "locator": "导言：1955 AdD"
+        }
+      ],
+      "open_questions": [
+        "对照《辩证法的历险》相关章及晚期自然课程后再限定时期。"
+      ]
+    },
+    {
+      "code": "3-3-1-4",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "《哲学论稿》被说成全书分为六个环节",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-heidegger-toc"
+          ],
+          "locator": "Table of Contents I–VIII"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "出版社目录列出预览、六个中部单元和Be-ing末部，共八部分。课程所讲六个接合可以保留，但摘要“该书分为六个环节”应补上全书目录与六个核心接合的区别。",
+          "source_ids": [
+            "r02-heidegger-toc"
+          ],
+          "locator": "Table of Contents I–VIII"
+        }
+      ],
+      "open_questions": [
+        "核原讲是否本来已区分六个接合与全书八部分。"
+      ]
+    },
+    {
+      "code": "3-3-2",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "审美—伦理—宗教被写为连续的抉择升级",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-kierkegaard"
+          ],
+          "locator": "§1、§3导言"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "学术条目区分三种生存领域，并讨论伪名作者的不同立场。三领域是有依据的，但不能仅凭这一框架证明每个人都线性升级，或日常现实完全无本体地位。应为这些更强断言寻找具体伪名著作。",
+          "source_ids": [
+            "r02-kierkegaard"
+          ],
+          "locator": "§1、§3导言"
+        }
+      ],
+      "open_questions": [
+        "原讲分别借用《非此即彼》《恐惧与战栗》还是《非科学的最后附言》？"
+      ]
+    },
+    {
+      "code": "3-3-2-1",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "克尔凯郭尔三阶段、重复与绝望",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-kierkegaard"
+          ],
+          "locator": "§1著作列表、§3目录"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "核对三领域、1843年《重复》及1849年《致死的疾病》的书目关系。它们不是同一著作中一条未经区分的概念链；Begnadung天佑及中介性的自我中介尚未找到原讲和原典位置。",
+          "source_ids": [
+            "r02-kierkegaard"
+          ],
+          "locator": "§1著作列表、§3目录"
+        }
+      ],
+      "open_questions": [
+        "为重复、绝望、天佑各补作品和伪名作者，先不改德语括注。"
+      ]
+    },
+    {
+      "code": "3-3-2-2",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "荷尔德林癫狂被归因于没有达成辩证和解",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录p.1259；现摘要feature_list[3]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "摘要把未能哲学和解与精神病程连接为因果，目前只有课程目录支持该讲主题，不足以支持医学/传记因果。人物阿达姆斯的中文译名也需依所用《许佩里翁》版本核查，不能凭英语近似擅改。",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录p.1259；现摘要feature_list[3]"
+        }
+      ],
+      "open_questions": [
+        "取得原讲及《许佩里翁》版本，分别核角色解释与传记断言。"
+      ]
+    },
+    {
+      "code": "3-3-2-3",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "法律、救赎、创造三种伦理及Personalism",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-berdyaev"
+          ],
+          "locator": "Part One III.2；Part Two I–III"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《人的命运》目录确有三种伦理，并有Personalism章节，摘要的基本书目关联可成立。“格位主义”可能是课程专用译法，暂不改成人格主义；不能据目录证明他因理论成功而幸存的因果叙事。",
+          "source_ids": [
+            "r02-berdyaev"
+          ],
+          "locator": "Part One III.2；Part Two I–III"
+        }
+      ],
+      "open_questions": [
+        "核课程personalism译名及克尔凯郭尔、荷尔德林死亡/病程的类比是否被AI加重。"
+      ]
+    },
+    {
+      "code": "3-3-2-4",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "世界探源—生存阐明—形而上学",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-jaspers"
+          ],
+          "locator": "1932年Philosophie三卷段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "雅斯贝尔斯1932年《哲学》三卷确为Weltorientierung、Existenzerhellung、Metaphysik，提供摘要认识论链的明确阅读入口。“密码完全私人且无公共性”是更强解释，未由本次书目核对证实。",
+          "source_ids": [
+            "r02-jaspers"
+          ],
+          "locator": "1932年Philosophie三卷段"
+        }
+      ],
+      "open_questions": [
+        "核密码与交往的关系，避免把非对象化等同于不可交流。"
+      ]
+    },
+    {
+      "code": "3-3-3",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "永恒轮回意味着没有时间先后",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-nietzsche"
+          ],
+          "locator": "§1；现摘要feature_list[0]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本次确认尼采著作史，但尚未核原典永恒轮回论证。摘要从轮回直接推出过去等于未来、没有先后，是应单独核查的命题，不能用能量守恒的类比代替文本依据。",
+          "source_ids": [
+            "r02-nietzsche"
+          ],
+          "locator": "§1；现摘要feature_list[0]"
+        }
+      ],
+      "open_questions": [
+        "对照《快乐的科学》§341及《查拉图斯特拉》幻景与谜章，区分重复序列与取消序列。"
+      ]
+    },
+    {
+      "code": "3-3-3-1",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "舍斯托夫的信仰不是对某个神的信仰",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-shestov"
+          ],
+          "locator": "Mais pour Dieu l’impossible n’existe pas段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《雅典与耶路撒冷》所见原文明确诉诸圣经中的上帝以及对上帝而言没有不可能。摘要“不是对某个神”的绝对说法需要限定为课程的哲学重构，不能直接当作舍斯托夫拒绝宗教信仰的自述。",
+          "source_ids": [
+            "r02-shestov"
+          ],
+          "locator": "Mais pour Dieu l’impossible n’existe pas段"
+        }
+      ],
+      "open_questions": [
+        "核原讲是否意在反对把神当对象，而不是否定信仰的神学维度。"
+      ]
+    },
+    {
+      "code": "3-3-3-2",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "雅各比是与康德同时代的尼采主义者",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-friedrich-jacobi"
+          ],
+          "locator": "§1、Glaube与1799年书信段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "雅各比生于1743年，其1787年休谟对话、1799年致费希特信早于尼采思想。“尼采主义者”只能是课程回溯性分类，不是他接受尼采影响的思想史事实。其Glaube也不能仅释为不反思地随俗。",
+          "source_ids": [
+            "r02-friedrich-jacobi"
+          ],
+          "locator": "§1、Glaube与1799年书信段"
+        }
+      ],
+      "open_questions": [
+        "给“尼采主义”加课程回溯分类说明，并核信仰作为直接确定性的含义。"
+      ]
+    },
+    {
+      "code": "3-3-3-3",
+      "evidence_level": "mechanical_check_and_fact_flag",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "mechanical_check_and_fact_flag",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "永恒轮回了尼采的主题；1884年读《世界时代》",
+          "status": "mechanical_check_and_fact_flag",
+          "source_ids": [
+            "r02-base",
+            "r02-nietzsche"
+          ],
+          "locator": "feature_list[0]；Nietzsche §1"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "首段“永恒轮回了尼采的主题”存在明确缺字，补为“永恒轮回成为了尼采的主题”。1884年读晚期谢林的具体影响、轮回只出现三次和致妹妹信仍无一手定位，本批不据相似性确证。",
+          "source_ids": [
+            "r02-base",
+            "r02-nietzsche"
+          ],
+          "locator": "feature_list[0]；Nietzsche §1"
+        }
+      ],
+      "open_questions": [
+        "补尼采书信日期、遗稿编号、所用《世界时代》版本。"
+      ]
+    },
+    {
+      "code": "3-3-3-4",
+      "evidence_level": "catalogue_only",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "catalogue_only",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "金融资本家普遍以非法交易、痛苦和支配欲运作",
+          "status": "catalogue_only",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录p.1446；feature_list[1–3]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "课程原题确为Financial Capitalism与无意识哲学、生存危机相关，但人物心理、所有金融资本家必然非法及永远无法驾驭国家等普遍命题没有经验材料支持。本批将其标为课程类型化批判待核，不能当金融史事实。",
+          "source_ids": [
+            "r02-course-toc"
+          ],
+          "locator": "目录p.1446；feature_list[1–3]"
+        }
+      ],
+      "open_questions": [
+        "确认原讲限定的对象与修辞，不把理想类型写成对全部从业者的事实判断。"
+      ]
+    },
+    {
+      "code": "3-3-4",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "《罪与罚》人物被写为以尼采主义自辩",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[2]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "该表述需要区分后见的理论类比与人物在小说中实际采用的概念。本批只读现摘要，尚未核小说及课程原句；拟优先查“非凡人”论述的章节，不将尼采主义当小说中的明示术语。",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[2]"
+        }
+      ],
+      "open_questions": [
+        "对照《罪与罚》第三部第五章及原讲，补出版年代与回溯解释说明。"
+      ]
+    },
+    {
+      "code": "3-3-4-1",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "伊万将信仰当统治工具、兄弟最终重新联合",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[0]、[3]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "摘要可能把伊万所讲的大法官立场与伊万本人认同混写；“幸存兄弟重新联合”也需区分小说实际结局与伦理模型。现有课程目录不足以判断这两点，暂不直接改人物思想。",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[0]、[3]"
+        }
+      ],
+      "open_questions": [
+        "核《卡拉马佐夫兄弟》第五卷大法官章和尾声，并检查讲者是在释寓言还是叙述情节。"
+      ]
+    },
+    {
+      "code": "3-3-4-2",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "《审判》的K被所有人指认为政府职员",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[1–3]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "摘要同条既写银行高级职员，又称所有人指向政府职员，存在具体情节核对点；不能因哲学身份辩证法而默认这是小说字面情节。“审判永远悬而未决”还需与处刑结尾区分程序与后果。",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "feature_list[1–3]"
+        }
+      ],
+      "open_questions": [
+        "先取《审判》版本并定位政府职员原句，再决定是否AI混淆人物身份。"
+      ]
+    },
+    {
+      "code": "3-3-4-3",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "《西西弗神话》被笼统纳入战后安稳秩序愿望",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-camus"
+          ],
+          "locator": "§3开头、§3.2末尾"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《西西弗神话》发表于1942年，早于战后；其反抗、清醒与不和解的主张不能只用逃避、安稳概括。战后批判可作为课程评价，但需与作品年代和加缪自己的论述分开。",
+          "source_ids": [
+            "r02-camus"
+          ],
+          "locator": "§3开头、§3.2末尾"
+        }
+      ],
+      "open_questions": [
+        "原讲是否区分1942年《西西弗神话》和1951年《反抗者》？"
+      ]
+    },
+    {
+      "code": "3-3-4-4",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "《秘密的奇迹》中小说不允许被写完",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-borges"
+          ],
+          "locator": "The Enemies介绍段及末段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "原文中主人公写的是剧作《敌人》，并在被处决前的主观时间里完成最后修饰；不是一部最终没写完的小说。若“不允许写完”指叙事闭合的哲学隐喻，应明确与情节事实区分。",
+          "source_ids": [
+            "r02-borges"
+          ],
+          "locator": "The Enemies介绍段及末段"
+        }
+      ],
+      "open_questions": [
+        "核原讲该句是否其实在谈剧中循环或书写完成后的死亡；不要把隐喻直接覆盖小说结局。"
+      ]
+    },
+    {
+      "code": "3-4",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "符号学一般原理被概括为所指缺失、主人能指缝合",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-saussure",
+            "r02-lacan"
+          ],
+          "locator": "Saussure §1；Lacan §1"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "索绪尔节选把语言符号定义为概念与声音形象的结合，没有把所指普遍定义为缺失。摘要混合索绪尔与拉康等不同传统；应分列作者，不能把主人能指和无意识命题当作皮尔斯等所有符号学家的共同前提。",
+          "source_ids": [
+            "r02-saussure",
+            "r02-lacan"
+          ],
+          "locator": "Saussure §1；Lacan §1"
+        }
+      ],
+      "open_questions": [
+        "核原讲是否有“这里主要说结构主义/拉康式符号学”的限定。"
+      ]
+    },
+    {
+      "code": "3-4-1",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "符号任意性与所指永远缺席",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-saussure",
+            "r02-base"
+          ],
+          "locator": "§1–2；axis_list[0]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "索绪尔的任意性是能指与所指之间没有自然必然联系，不是说使用者可以任意换词，也不是说所指不存在。主人能指缝合是后续理论语言，摘要应标明重构层次。另外axis_list[0]缺“和”可机械修复。",
+          "source_ids": [
+            "r02-saussure",
+            "r02-base"
+          ],
+          "locator": "§1–2；axis_list[0]"
+        }
+      ],
+      "open_questions": [
+        "补历时与共时研究关系的原典，避免把方法上的共时研究写成从不考虑历史。"
+      ]
+    },
+    {
+      "code": "3-4-1-1",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "能指有限、所指无限及mana作为能指匮乏",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-levi"
+          ],
+          "locator": "导言末部surabondance de signifiant与signifiant flottant段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "列维-斯特劳斯导言末段讲的是能指相对于已辨识所指的过剩，mana作为浮动能指及零符号值承担补充作用。它与摘要“能指匮乏”的单向叙述不等同；需核课程是否另有有限/无限的重构，暂以对照注保留差异。",
+          "source_ids": [
+            "r02-levi"
+          ],
+          "locator": "导言末部surabondance de signifiant与signifiant flottant段"
+        }
+      ],
+      "open_questions": [
+        "对照原讲mana论证，分清语言整体可用与具体知识分配不足两个层次。"
+      ]
+    },
+    {
+      "code": "3-4-1-2",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "早期拉康同时纳入欲望伦理和客体小a",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-lacan"
+          ],
+          "locator": "§1思想发展段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "学术思想史将1930–40年代镜像研究、1950年代象征界及1950年代末实在/享乐/客体小a关注加以区分。摘要是跨阶段综合，不能只用“早期”使读者以为所有概念同时成型。",
+          "source_ids": [
+            "r02-lacan"
+          ],
+          "locator": "§1思想发展段"
+        }
+      ],
+      "open_questions": [
+        "核课程自己的分期定义，并为1959–60年伦理研讨班等文本分别定位。"
+      ]
+    },
+    {
+      "code": "3-4-1-3",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "叙事三层模型与零度写作、作者已死混为一组",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-barthes"
+          ],
+          "locator": "Communications 8 (1966), pp.1–27"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "已核原刊1966年《叙事结构分析导论》的书目。摘要把三层叙事模型、零度写作和作者已死接成单一理论链，仍需分作品和时期；此次没有全文证据证明它们相互等同。",
+          "source_ids": [
+            "r02-barthes"
+          ],
+          "locator": "Communications 8 (1966), pp.1–27"
+        }
+      ],
+      "open_questions": [
+        "分别核《写作的零度》《作者之死》《S/Z》，并确认“镜像认”缺字应补认同还是误认。"
+      ]
+    },
+    {
+      "code": "3-4-1-4",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "知识考古学直接等同谱系学原理与全部权力斗争",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-foucault"
+          ],
+          "locator": "§2结尾、§3开头"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "学术来源把考古学与谱系学列为相联系而有区别的历史批判方法。摘要以早期福柯为题却混写微观权力，需分著作/阶段；“只有微观斗争、杀死宏观政治”是批评性判断，不能当作方法定义。",
+          "source_ids": [
+            "r02-foucault"
+          ],
+          "locator": "§2结尾、§3开头"
+        }
+      ],
+      "open_questions": [
+        "核《词与物》《知识考古学》与后来的惩罚/性史著作具体引用。"
+      ]
+    },
+    {
+      "code": "3-4-2",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "经济要素始终占主导及后结构主义范畴",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-althusser"
+          ],
+          "locator": "结构因果性与overdetermination段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "超定说明具体因素相互规定，并有不同步的发展和冲突；这不能单独推出经济在每个场合都直接主导。现摘要“最后决定/主导/二阶主导”需按阿尔都塞原词区分，“后结构主义”分类属课程框架。",
+          "source_ids": [
+            "r02-althusser"
+          ],
+          "locator": "结构因果性与overdetermination段"
+        }
+      ],
+      "open_questions": [
+        "取《保卫马克思》《读资本论》明确区分最终决定和支配位置。"
+      ]
+    },
+    {
+      "code": "3-4-2-1",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "中期拉康(1950年代)的主体、S1/S2与回溯",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-lacan"
+          ],
+          "locator": "§1思想发展段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "核到1950年代象征界转向及后续实在界关注的思想史。摘要把S1/S2、主体空位与回溯性统一归于1950年代，需逐一确认讲次年代；本批没有把这组跨时段整理判为原讲错误。",
+          "source_ids": [
+            "r02-lacan"
+          ],
+          "locator": "§1思想发展段"
+        }
+      ],
+      "open_questions": [
+        "补S1/S2公式具体出处、研讨班年代及课程中期的分期边界。"
+      ]
+    },
+    {
+      "code": "3-4-2-2",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "Being是uncountable many且本体论不可能",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-badiou"
+          ],
+          "locator": "Meditation One"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《存在与事件》第一沉思区分多、呈现和计数为一的操作。未计数为一的非一致之多不能直接译成集合论基数意义的不可数多；“本体论不可能”也须与作者数学本体论计划区分，暂不整体重写格位说明。",
+          "source_ids": [
+            "r02-badiou"
+          ],
+          "locator": "Meditation One"
+        }
+      ],
+      "open_questions": [
+        "取导论及第二沉思核inconsistent multiplicity和mathematics=ontology，再对照课程讽喻。"
+      ]
+    },
+    {
+      "code": "3-4-2-3",
+      "evidence_level": "flagged_for_source_check",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "flagged_for_source_check",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "Stucked、DEN及四重本体论矩阵",
+          "status": "flagged_for_source_check",
+          "source_ids": [
+            "r02-base",
+            "r02-course-toc"
+          ],
+          "locator": "axis_list[3]、feature_list[1]、[3]；目录p.1919"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "Stucked是需规范的英文形式，建议Stuck；DEN可能是齐泽克借德谟克利特的特定术语，不能当作普通英文缩略词展开。本批尚未取得《少于无》和《失败的绝对》的对应页，不认证四重矩阵为作者自定体系。",
+          "source_ids": [
+            "r02-base",
+            "r02-course-toc"
+          ],
+          "locator": "axis_list[3]、feature_list[1]、[3]；目录p.1919"
+        }
+      ],
+      "open_questions": [
+        "先核DEN词形与原典页码，再决定译名规范；政治上无害等评价必须显式归属课程。"
+      ]
+    },
+    {
+      "code": "3-4-2-4",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "女性主义三代与符号/象征的时间结构",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-kristeva"
+          ],
+          "locator": "Signs 7.1 (1981), pp.13–35"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《女性的时间》原刊书目信息已核，三代论述应回到这篇文章；摘要中的所有无产者都是女人、贱斥即主体等强结论没有由刊头核对得到证明。Semiotics作为学科名和semiotic作为理论范畴也需分开。",
+          "source_ids": [
+            "r02-kristeva"
+          ],
+          "locator": "Signs 7.1 (1981), pp.13–35"
+        }
+      ],
+      "open_questions": [
+        "核《诗性语言的革命》《恐怖的权力》与《女性的时间》各自概念，避免跨书直接等同。"
+      ]
+    },
+    {
+      "code": "3-4-3",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "延异与差异只有书写区别、意义没有区别",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-derrida"
+          ],
+          "locator": "différance及contamination段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "字母a/e在法语中不造成语音区别，并不意味着两个概念的论证内容相同。学术来源以可重复性与独一性既互相内在又保持异质解释延异；摘要“同一个人/同一意义”应标成课程的黑格尔式读法。",
+          "source_ids": [
+            "r02-derrida"
+          ],
+          "locator": "différance及contamination段"
+        }
+      ],
+      "open_questions": [
+        "对照德里达《延异》原文区分语音不可辨与概念无区别。"
+      ]
+    },
+    {
+      "code": "3-4-3-1",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "游牧辩证主义及接纳否定性为真正德勒兹",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-deleuze"
+          ],
+          "locator": "§2关于Nietzsche and Philosophy的段落"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "学术条目把《尼采与哲学》的关键力量称为非辩证的肯定力量，并明确讨论反黑格尔立场。因此摘要后半段“应当承认否定性”应读作讲者对德勒兹的批评或改造，不能混成德勒兹本人的主张。",
+          "source_ids": [
+            "r02-deleuze"
+          ],
+          "locator": "§2关于Nietzsche and Philosophy的段落"
+        }
+      ],
+      "open_questions": [
+        "给描述德勒兹与批评德勒兹的句子分别归属发言者。"
+      ]
+    },
+    {
+      "code": "3-4-3-2",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "普遍经济学即所有过剩必须立刻无意义消耗",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-bataille"
+          ],
+          "locator": "The Meaning of General Economy基本事实段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《被诅咒的部分》所见基本论述先允许剩余用于系统增长，只有无法由增长吸收的剩余必须无收益消耗。摘要应避免略去增长条件后把普遍经济学写成任何消费的无条件颂扬；有关恢复平衡的批评仍需另核。",
+          "source_ids": [
+            "r02-bataille"
+          ],
+          "locator": "The Meaning of General Economy基本事实段"
+        }
+      ],
+      "open_questions": [
+        "核原讲是否保留增长/极限条件，并补夸富宴相关章。"
+      ]
+    },
+    {
+      "code": "3-4-3-3",
+      "evidence_level": "bibliography_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "bibliography_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "好客之道等同《今夜的罗伯蒂夫人》单书",
+          "status": "bibliography_compared",
+          "source_ids": [
+            "r02-klossowski"
+          ],
+          "locator": "Les lois de l’hospitalité书目"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "藏品记录确认《好客法则》包括《撤销南特敕令》《罗伯特，今晚》《吹笛者/提示者》（中文名待定版）三部。摘要所说好客之道若指全集，应区别合集和单篇；人物行为的哲学解释尚未逐页核读。",
+          "source_ids": [
+            "r02-klossowski"
+          ],
+          "locator": "Les lois de l’hospitalité书目"
+        }
+      ],
+      "open_questions": [
+        "取可读原书，核Octave/Roberte行为而非只凭寓意判断情节。"
+      ]
+    },
+    {
+      "code": "3-4-3-4",
+      "evidence_level": "primary_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "primary_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "后现代不是时代、Paralogism及科学立场",
+          "status": "primary_excerpt_compared",
+          "source_ids": [
+            "r02-lyotard",
+            "r02-base"
+          ],
+          "locator": "§1开头；axis_list[2]"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《后现代状况》第1节提出知识随后工业社会变化的历史假说，不能把该书整体缩成完全无历史分期的命题。Paralogism与paralogy也需回到第13–14节核词，本次节选不包含该处，暂不直接替换；axis_list[2]缺“和”可机械修复。",
+          "source_ids": [
+            "r02-lyotard",
+            "r02-base"
+          ],
+          "locator": "§1开头；axis_list[2]"
+        }
+      ],
+      "open_questions": [
+        "取第13–14节原文，另核薛定谔统计学的具体指向，勿以学派标签替代物理史。"
+      ]
+    },
+    {
+      "code": "3-4-4",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "偏见不是障碍而永远是敞开力量",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-gadamer"
+          ],
+          "locator": "§3.1末尾、§3.2"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "伽达默尔重估偏见为理解条件，不等于每个偏见都正当。学术条目同时说明偏见可能扭曲理解，需在对话及时间距离中受到质问；现摘要应增加这种区分。",
+          "source_ids": [
+            "r02-gadamer"
+          ],
+          "locator": "§3.1末尾、§3.2"
+        }
+      ],
+      "open_questions": [
+        "核课程有无区分生产性的偏见与应被纠正的偏见。"
+      ]
+    },
+    {
+      "code": "3-4-4-1",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "隐喻是不合语法的操作、哲学等于修辞学",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-ricoeur"
+          ],
+          "locator": "§3末尾、§4开头"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "利科活隐喻论关注句子层面的语义创新和对现实的重述，不只是替换词的修辞装饰；语义的不协调也不能直接等同于语法错误。占有与解释还需接受其他解释的挑战，摘要的真理占有应保留批判维度。",
+          "source_ids": [
+            "r02-ricoeur"
+          ],
+          "locator": "§3末尾、§4开头"
+        }
+      ],
+      "open_questions": [
+        "对照《活的隐喻》区分语义张力、语法合法性与哲学/诗性话语。"
+      ]
+    },
+    {
+      "code": "3-4-4-2",
+      "evidence_level": "prior_batch_review",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "prior_batch_review",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "前批已核弗洛伊德学科定位",
+          "status": "prior_batch_review",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "research/batches/01-review.json中3-4-4-2"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条已有01-review的原典对照注，本批仅确认仍属42条上游AI范围，不重复校勘；原音与课程全文忠实性仍未核。",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "research/batches/01-review.json中3-4-4-2"
+        }
+      ],
+      "open_questions": [
+        "后续取得该BV转录后核课程是否确实把精神分析排除出心理学。"
+      ]
+    },
+    {
+      "code": "3-4-4-3",
+      "evidence_level": "academic_excerpt_compared",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "academic_excerpt_compared",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "意义即用法被写为无例外定义",
+          "status": "academic_excerpt_compared",
+          "source_ids": [
+            "r02-wittgenstein"
+          ],
+          "locator": "§3.3引PI43；§3.5"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "《哲学研究》§43原句有适用于许多但非所有情形的限定，摘要省略后会变成普遍定义。私人语言论证也不宜被直接等同于否定一切第一人称体验；后续拉康式游戏解释须标课程重构。",
+          "source_ids": [
+            "r02-wittgenstein"
+          ],
+          "locator": "§3.3引PI43；§3.5"
+        }
+      ],
+      "open_questions": [
+        "对照PI§43、§243以后，区分公共判准问题与否认感觉的命题。"
+      ]
+    },
+    {
+      "code": "3-4-4-4",
+      "evidence_level": "prior_batch_review",
+      "review_status": {
+        "catalogue_fields": "axis_list、feature_list、related_list逐项阅读",
+        "targeted_check": "prior_batch_review",
+        "course_fidelity": "not_verified_against_lecture",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "claim": "前批只核原视频标题",
+          "status": "prior_batch_review",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "research/batches/01-review.json中3-4-4-4"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "沿用01-review的标题核查边界，未把作者批评大学话语的标题当成该条全部AI摘要的证据。本批不重复原注，也不升级课程忠实性状态。",
+          "source_ids": [
+            "r02-base"
+          ],
+          "locator": "research/batches/01-review.json中3-4-4-4"
+        }
+      ],
+      "open_questions": [
+        "后续取该BV转录核历史、阶级斗争、主体生产三组命题。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-3-1-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①环节化的生存论存在论：《存在与时间》的核心是从三十几节开始的环节化生存论存在论，它铺设了一套此在在世方式的生存论样态链条。此在的基本展开方式有两种：现身(Befindlichkeit/locatedness，情绪性的、非反思的内向定位)和领会(Verstand/understanding，知性化的、具有言辞命题的反思性外向展开)。这两种方式本质上是符号系统的铺设，现身代表内禀性，领会代表向外性，共同构成此在的世界化过程。",
+      "after": "①环节化的生存论存在论：《存在与时间》的核心是从三十几节开始的环节化生存论存在论，它铺设了一套此在在世方式的生存论样态链条。此在的基本展开方式有两种：现身(Befindlichkeit/locatedness，情绪性的、非反思的内向定位)和领会(Verstehen/understanding，知性化的、具有言辞命题的反思性外向展开)。这两种方式本质上是符号系统的铺设，现身代表内禀性，领会代表向外性，共同构成此在的世界化过程。",
+      "kind": "term_spelling",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r02-bt31"
+      ],
+      "rationale": "只改《存在与时间》§31领会的德语词形，不认可同段关于反思/命题的解释。"
+    },
+    {
+      "code": "3-3-3-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①晚期的尼采(1884年之后，阅读了晚期谢林《世界时代》后)重新泛神论化，试图建构一个系统的思辨哲学体系。永恒轮回了尼采的主题，但它在查拉图斯特拉中仅出现了三次。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。尼采晚期写信给他妹妹说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但他疯掉了，没有机会成为一个成熟的哲学家。",
+      "after": "①晚期的尼采(1884年之后，阅读了晚期谢林《世界时代》后)重新泛神论化，试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，但它在查拉图斯特拉中仅出现了三次。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。尼采晚期写信给他妹妹说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但他疯掉了，没有机会成为一个成熟的哲学家。",
+      "kind": "missing_characters",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r02-base"
+      ],
+      "rationale": "恢复缺失谓语，使句法完整；不为同段1884年读谢林等事实背书。"
+    },
+    {
+      "code": "3-4-1",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：意指关系(signification)调历时性(形而上/因果链/根据律)与共时性(形而下/横向差异网络)的对立",
+      "after": "场域论3：意指关系(signification)调和历时性(形而上/因果链/根据律)与共时性(形而下/横向差异网络)的对立",
+      "kind": "missing_character",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r02-base"
+      ],
+      "rationale": "机械补足“调和”，保留原先全部分类解释。"
+    },
+    {
+      "code": "3-4-3-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3：悖论主义(Paralogism)调真理/知识(总体化)与神话/叙事(局域化)的对立——通过科学中的悖论(冲突话语共存)来协调",
+      "after": "认识论3：悖论主义(Paralogism)调和真理/知识(总体化)与神话/叙事(局域化)的对立——通过科学中的悖论(冲突话语共存)来协调",
+      "kind": "missing_character",
+      "status": "ready",
+      "evidence_source_ids": [
+        "r02-base"
+      ],
+      "rationale": "机械补足“调和”；Paralogism等术语另列待核，不随此补丁处理。"
+    },
+    {
+      "code": "3-3-1-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②六环节的构架与跳跃：该书分为六个环节：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。",
+      "after": "②六环节的构架与跳跃：全书除“预览”和末部“存在”外，中部包含六个接合：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。",
+      "kind": "bibliographic_scope",
+      "status": "needs_lecture",
+      "evidence_source_ids": [
+        "r02-heidegger-toc"
+      ],
+      "rationale": "目录证据足以区分八部分与中部六个接合，但需确认采用译名及课程上下文。"
+    },
+    {
+      "code": "3-3-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上遗忘/停笔是最高的拯救力量：绝对者不允许写完，主体受不了绝对者的悖论性，只能将其遗忘。在秘密的奇迹中开头和结尾一样的小说不允许被写完——本体论的发生学机制拒绝符号性的闭合，主体必须自己承担书写的重负。",
+      "after": "④目的论上遗忘/停笔是最高的拯救力量：绝对者不允许写完，主体受不了绝对者的悖论性，只能将其遗忘。在《秘密的奇迹》中，主人公的剧作具有循环情节；他在被处决前的主观时间里完成了剧作——本体论的发生学机制拒绝符号性的闭合，主体必须自己承担书写的重负。",
+      "kind": "literary_fact",
+      "status": "needs_lecture",
+      "evidence_source_ids": [
+        "r02-borges"
+      ],
+      "rationale": "原文情节直接支持该限定修正，但整段哲学论断依赖“不允许写完”，应先核课程原句再连贯重写，不能孤立替换造成新的矛盾。"
+    }
+  ]
+}

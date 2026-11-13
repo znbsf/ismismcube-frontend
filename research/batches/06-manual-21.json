@@ -1,0 +1,3218 @@
+{
+  "batch": "06-manual-21",
+  "checked_on": "2026-11-13",
+  "scope": "2根节点及2-1整支，共22个manual节点；axis_list与feature_list全部唯一字段均有局部讲稿证据对照，未支持的细节明示；非原音听校、非全部古代史实验证。",
+  "sources": [
+    {
+      "id": "m2-0096",
+      "title": "2 形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/0096_2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%B8%8D%E8%B6%B3_p2402.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "已读Page 1–10，L9–66，与四字段相关段落；只作为课程文本证据，未回听原音、未核板书。",
+      "locator": "已读Page 1–10，L9–66，与四字段相关段落",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/0096_2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观念论_不足_p2402.md",
+      "sha256": "c874e7418231817e5a19b9646ff448bf5521f58724b5038d572231b5525ded8d",
+      "git_blob_sha": "c3435c4fe967c0f7eed238ab19ecc0fc3b5c3ff5"
+    },
+    {
+      "id": "m2-0097",
+      "title": "2-1 在场形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/0097_2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F_p2415.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "已读Page 1–29，L9–106；其后的署名与下一讲未作证据；只作为课程文本证据，未回听原音、未核板书。",
+      "locator": "已读Page 1–29，L9–106；其后的署名与下一讲未作证据",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/0097_2-1_在场形而上学_宰制西方精神数千年的形而上学范式_p2415.md",
+      "sha256": "89047e887eecfe0edbbe4f461c5f14e79ef7ef87a081cd2ca39f28695c879032",
+      "git_blob_sha": "fe4e6c069a299c161bd44817ffe8a717c8402108"
+    },
+    {
+      "id": "m2-0098",
+      "title": "2-1-1 普遍主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/0098_2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90_p2444.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "已读Page 1–10 L9–51，以及Page 16–27 L69–116；首轮大段输出中间未纳入实际范围；只作为课程文本证据，未回听原音、未核板书。",
+      "locator": "已读Page 1–10 L9–51，以及Page 16–27 L69–116；首轮大段输出中间未纳入实际范围",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源/0098_2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源_p2444.md",
+      "sha256": "b7407755bbea0f9df5d08cb961d070950d75204eb89e9d6dbff3f119c9b2defe",
+      "git_blob_sha": "9a6d677203aa1f68cc1f37a7d2cbbf2909958f5a"
+    },
+    {
+      "id": "m2-0099",
+      "title": "2-1-1-1 阿派朗主义/无界限主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-1_%E9%98%BF%E6%B4%BE%E6%9C%97_%E6%97%A0%E7%95%8C%E9%99%90_%E4%B8%BB%E4%B9%89_%E5%93%B2%E5%AD%A6%E9%92%88%E5%AF%B9_%E5%9C%B0%E6%B0%B4%E7%81%AB%E9%A3%8E_%E5%85%83%E7%B4%A0%E8%AE%BA%E7%9A%84%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%98/0099_2-1-1-1_%E9%98%BF%E6%B4%BE%E6%9C%97_%E6%97%A0%E7%95%8C%E9%99%90_%E4%B8%BB%E4%B9%89_%E5%93%B2%E5%AD%A6%E9%92%88%E5%AF%B9_%E5%9C%B0%E6%B0%B4%E7%81%AB%E9%A3%8E_%E5%85%83%E7%B4%A0%E8%AE%BA%E7%9A%84%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%98_p2473.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "已读Page 1–20，L9–66完整本讲段落；L70起下一讲排除；只作为课程文本证据，未回听原音、未核板书。",
+      "locator": "已读Page 1–20，L9–66完整本讲段落；L70起下一讲排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源/2-1-1-1_阿派朗_无界限_主义_哲学针对_地水火风_元素论的正面挑战/0099_2-1-1-1_阿派朗_无界限_主义_哲学针对_地水火风_元素论的正面挑战_p2473.md",
+      "sha256": "e1a0359f33723a6461bce758e2ce4d8d7359486af8495531272e2beac3602767",
+      "git_blob_sha": "3020d29dc1c9a14d71365f6dcf9965f836696122"
+    },
+    {
+      "id": "m2-aristotle-metaphysics1",
+      "title": "亚里士多德《形而上学》第一卷（W. D. Ross英译）",
+      "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+      "kind": "primary_text",
+      "author": "Aristotle",
+      "translator": "W. D. Ross",
+      "language": "en",
+      "verification_scope": "实际读取第一卷Parts 1–3：经验与普遍知识、第一原因、哲学源于惊异、泰勒斯水本源、阿那克西美尼气本源、赫拉克利特火本源及恩培多克勒四元素的古代证言；未把亚里士多德转述当作这些作者的亲笔残篇。 本批继续实际核读卷I Part4–5（网页L79–115），只作古代证言对读，不替代课程证据。",
+      "locator": "Book I, Parts 1–3；网页L27–73"
+    },
+    {
+      "id": "m2-0100",
+      "title": "2-1-1-2 气动一元论（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-2_%E6%B0%94%E5%8A%A8%E4%B8%80%E5%85%83%E8%AE%BA_%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E7%BE%8E%E5%B0%BC%E7%9A%84%E5%93%B2%E5%AD%A6%E5%88%B6%E6%AF%A1%E6%9C%AF_%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E4%B9%8B%E4%B8%AD%E9%9A%90%E8%97%8F%E7%9A%84%E7%A7%98%E5%AF%86/0100_2-1-1-2_%E6%B0%94%E5%8A%A8%E4%B8%80%E5%85%83%E8%AE%BA_%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E7%BE%8E%E5%B0%BC%E7%9A%84%E5%93%B2%E5%AD%A6%E5%88%B6%E6%AF%A1%E6%9C%AF_%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E4%B9%8B%E4%B8%AD%E9%9A%90%E8%97%8F%E7%9A%84%E7%A7%98%E5%AF%86_p2493.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 3–29，实际读L33、L38、L44、L47、L50、L53、L56、L59–98相关段落及L101、L104、L109、L114、L117、L120；未用L127下一讲；未听原音、未核板书。",
+      "locator": "Page 3–29，实际读L33、L38、L44、L47、L50、L53、L56、L59–98相关段落及L101、L104、L109、L114、L117、L120；未用L127下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源/2-1-1-2_气动一元论_阿那克西美尼的哲学制毡术_气象万千之中隐藏的秘密/0100_2-1-1-2_气动一元论_阿那克西美尼的哲学制毡术_气象万千之中隐藏的秘密_p2493.md",
+      "sha256": "2b255a218c7b1d6aeff86bf8b713f088c37a33a50544e58c88bd5a68e9865844",
+      "git_blob_sha": "be641f97bbc77e40677c6d2128518a80a586a2e8"
+    },
+    {
+      "id": "m2-0101",
+      "title": "2-1-1-3 分形多元论/杂色多元论（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-3_%E5%88%86%E5%BD%A2%E5%A4%9A%E5%85%83%E8%AE%BA_%E5%8D%83%E5%8F%A4%E4%B9%8B%E8%B0%9C_%E4%BD%95%E4%B8%BA%E5%8A%AA%E6%96%AF_%E5%AE%A2%E8%A7%82%E7%B2%BE%E7%A5%9E%E5%A6%82%E4%BD%95%E5%AE%9E%E4%BD%93%E5%8C%96_%E9%98%BF%E9%82%A3%E5%85%8B%E8%90%A8%E6%88%88%E6%8B%89%E7%9A%84%E5%88%86%E5%BD%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E8%BF%9E%E7%BB%AD/0101_2-1-1-3_%E5%88%86%E5%BD%A2%E5%A4%9A%E5%85%83%E8%AE%BA_%E5%8D%83%E5%8F%A4%E4%B9%8B%E8%B0%9C_%E4%BD%95%E4%B8%BA%E5%8A%AA%E6%96%AF_%E5%AE%A2%E8%A7%82%E7%B2%BE%E7%A5%9E%E5%A6%82%E4%BD%95%E5%AE%9E%E4%BD%93%E5%8C%96_%E9%98%BF%E9%82%A3%E5%85%8B%E8%90%A8%E6%88%88%E6%8B%89%E7%9A%84%E5%88%86%E5%BD%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E8%BF%9E%E7%BB%AD%E7%BB%9F%E6%80%9D%E6%83%B3_p2523.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 8–13 L32–54；Page 16–29 L63–111相关段落；Page 30–37 L114–139；长段按输出实际片段核读，L142后下一讲排除；未听原音、未核板书。",
+      "locator": "Page 8–13 L32–54；Page 16–29 L63–111相关段落；Page 30–37 L114–139；长段按输出实际片段核读，L142后下一讲排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源/2-1-1-3_分形多元论_千古之谜_何为努斯_客观精神如何实体化_阿那克萨戈拉的分形几何与连续/0101_2-1-1-3_分形多元论_千古之谜_何为努斯_客观精神如何实体化_阿那克萨戈拉的分形几何与连续统思想_p2523.md",
+      "sha256": "3aa738e5b1b8441312f0d4ad79a8c1e5166ac3eb84e66a654c67e7e14761476f",
+      "git_blob_sha": "83c8211c247f02b35393a34722c469ab122a7f6f"
+    },
+    {
+      "id": "m2-0102",
+      "title": "2-1-1-4 形而上辩证主义/辩证的形而上学（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-4_%E5%BD%A2%E8%80%8C%E4%B8%8A%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E8%B5%AB%E6%8B%89%E5%85%8B%E5%88%A9%E7%89%B9%E5%9B%A0%E4%BD%95%E5%93%AD%E6%B3%A3_%E7%81%AB%E7%84%B0%E4%B8%8E%E7%81%B0%E7%83%AC%E7%9A%84%E5%93%B2%E5%AD%A6_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E5%BC%80%E7%AB%AF/0102_2-1-1-4_%E5%BD%A2%E8%80%8C%E4%B8%8A%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E8%B5%AB%E6%8B%89%E5%85%8B%E5%88%A9%E7%89%B9%E5%9B%A0%E4%BD%95%E5%93%AD%E6%B3%A3_%E7%81%AB%E7%84%B0%E4%B8%8E%E7%81%B0%E7%83%AC%E7%9A%84%E5%93%B2%E5%AD%A6_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E5%BC%80%E7%AB%AF_p2561.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page 8 L38、Page 11–14 L49、L52、L62、Page 16–20 L70、L75、L81、L84、Page 35–40 L137–152；主题定向检索，不含后接2-1-2；未听原音、未核板书。",
+      "locator": "实际核读Page 8 L38、Page 11–14 L49、L52、L62、Page 16–20 L70、L75、L81、L84、Page 35–40 L137–152；主题定向检索，不含后接2-1-2",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-1_普遍主义_泰勒斯真正的宝藏_哲学_科学_数学_逻辑学的共同本源/2-1-1-4_形而上辩证主义_赫拉克利特因何哭泣_火焰与灰烬的哲学_辩证法的开端/0102_2-1-1-4_形而上辩证主义_赫拉克利特因何哭泣_火焰与灰烬的哲学_辩证法的开端_p2561.md",
+      "sha256": "07176372e115246328835b74d64a94084673db2bb217b15211dd2bd06b3aa661",
+      "git_blob_sha": "51f00c7d1a0f9a4a44c934749bf0ddfaf6a5eb37"
+    },
+    {
+      "id": "m2-0103",
+      "title": "2-1-2 本质主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/0103_2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF_p2604.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际读Page 1–18 L9–68轴/真理之路相关段落；Page 20–39 L74–145，长段以输出片段为限；未回听原音或逐句核古希腊原典。",
+      "locator": "实际读Page 1–18 L9–68轴/真理之路相关段落；Page 20–39 L74–145，长段以输出片段为限",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路/0103_2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路_p2604.md",
+      "sha256": "a3e266777864e61a2ea6ab10c5b2b02fdf11bc9baaa320ea8a5f40a5fa14dc6b",
+      "git_blob_sha": "b790e18c4065e3b10fcbeb7a23fc03666951bb92"
+    },
+    {
+      "id": "m2-0104",
+      "title": "2-1-2-1 伦理智性主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/2-1-2-1_%E4%BC%A6%E7%90%86%E6%99%BA%E6%80%A7%E4%B8%BB%E4%B9%89_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%93%B2%E5%AD%A6_%E7%9F%A5%E8%AF%86%E5%8A%A9%E4%BA%A7%E6%9C%AF_%E7%9F%A5%E8%AF%86%E5%8D%B3%E7%BE%8E%E5%BE%B7_%E7%88%B1%E6%AC%B2%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E7%9F%A5%E8%AF%86_%E5%93%B2%E5%AD%A6%E5%B0%B1%E6%98%AF/0104_2-1-2-1_%E4%BC%A6%E7%90%86%E6%99%BA%E6%80%A7%E4%B8%BB%E4%B9%89_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%93%B2%E5%AD%A6_%E7%9F%A5%E8%AF%86%E5%8A%A9%E4%BA%A7%E6%9C%AF_%E7%9F%A5%E8%AF%86%E5%8D%B3%E7%BE%8E%E5%BE%B7_%E7%88%B1%E6%AC%B2%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E7%9F%A5%E8%AF%86_%E5%93%B2%E5%AD%A6%E5%B0%B1%E6%98%AF%E7%BB%83%E4%B9%A0%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1_p2645.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际读Page 1–11 L9–43；Page 15–20 L55–70；Page 22–28 L76–96；Page 32 L108及Page 36–41 L120–135。长段按展示片段阅读；未回听原音或逐句核古希腊原典。",
+      "locator": "实际读Page 1–11 L9–43；Page 15–20 L55–70；Page 22–28 L76–96；Page 32 L108及Page 36–41 L120–135。长段按展示片段阅读",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路/2-1-2-1_伦理智性主义_苏格拉底的哲学_知识助产术_知识即美德_爱欲是唯一的知识_哲学就是/0104_2-1-2-1_伦理智性主义_苏格拉底的哲学_知识助产术_知识即美德_爱欲是唯一的知识_哲学就是练习面对死亡_p2645.md",
+      "sha256": "f98d5296701ee58fbbaf52e9e40fbab3221fec5a84813f70e4b14534c79a8297",
+      "git_blob_sha": "cafd934e09a8be606d89b93ac58c34de9b4ce15d"
+    },
+    {
+      "id": "m2-0105",
+      "title": "2-1-2-2 理念实在论/理想现实主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/2-1-2-2_%E7%90%86%E5%BF%B5%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%90%86%E6%83%B3%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E6%9F%8F%E6%8B%89%E5%9B%BE_%E8%BF%BD%E6%B1%82%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%B3%A8%E5%AE%9A%E6%AE%8B%E9%85%B7%E7%9A%84%E6%94%BF%E6%B2%BB%E7%90%86%E6%83%B3/0105_2-1-2-2_%E7%90%86%E5%BF%B5%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%90%86%E6%83%B3%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E6%9F%8F%E6%8B%89%E5%9B%BE_%E8%BF%BD%E6%B1%82%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E6%B3%A8%E5%AE%9A%E6%AE%8B%E9%85%B7%E7%9A%84%E6%94%BF%E6%B2%BB%E7%90%86%E6%83%B3_p2686.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–2 L9–12，Page7–10 L27–40，Page16、18 L60、66，Page22–32 L78–110；未回听原音、未核板书。",
+      "locator": "实际核读Page1–2 L9–12，Page7–10 L27–40，Page16、18 L60、66，Page22–32 L78–110",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路/2-1-2-2_理念实在论_理想现实主义_柏拉图_追求完美的形而上学_注定残酷的政治理想/0105_2-1-2-2_理念实在论_理想现实主义_柏拉图_追求完美的形而上学_注定残酷的政治理想_p2686.md",
+      "sha256": "06695c19bb3ec7627bc0711a16097a6ec4fe4cf3ca14c42015438520179f6135",
+      "git_blob_sha": "8c662c180168422e1180858bb60eabda93b14c07"
+    },
+    {
+      "id": "m2-0106",
+      "title": "2-1-2-3 范畴实在论/绝对现实主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/2-1-2-3_%E8%8C%83%E7%95%B4%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%BB%9D%E5%AF%B9%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7%E7%9A%84%E6%8A%8A%E6%88%8F_%E8%80%81%E5%AD%A6%E7%A9%B6%E7%9A%84%E5%B8%9D%E5%B8%88%E5%93%B2%E5%AD%A6_%E5%A5%B4%E9%9A%B6%E4%B8%BB%E7%9A%84%E8%87%AA%E6%88%91%E9%99%B6%E9%86%89/0106_2-1-2-3_%E8%8C%83%E7%95%B4%E5%AE%9E%E5%9C%A8%E8%AE%BA_%E7%BB%9D%E5%AF%B9%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89_%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7%E7%9A%84%E6%8A%8A%E6%88%8F_%E8%80%81%E5%AD%A6%E7%A9%B6%E7%9A%84%E5%B8%9D%E5%B8%88%E5%93%B2%E5%AD%A6_%E5%A5%B4%E9%9A%B6%E4%B8%BB%E7%9A%84%E8%87%AA%E6%88%91%E9%99%B6%E9%86%89_p2730.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–16 L9–58，Page19–22 L67–76，Page27–28 L91–94，Page33 L109，Page38–50 L124–163；未回听原音、未核板书。",
+      "locator": "实际核读Page1–16 L9–58，Page19–22 L67–76，Page27–28 L91–94，Page33 L109，Page38–50 L124–163",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路/2-1-2-3_范畴实在论_绝对现实主义_亚里士多德的把戏_老学究的帝师哲学_奴隶主的自我陶醉/0106_2-1-2-3_范畴实在论_绝对现实主义_亚里士多德的把戏_老学究的帝师哲学_奴隶主的自我陶醉_p2730.md",
+      "sha256": "93a4a8ed23e638d331ed8ea969224c684586abd5e1738303bf21f77c907d4218",
+      "git_blob_sha": "e856f06ccef137fb3e9d56abd95d5debb9cfdeed"
+    },
+    {
+      "id": "m2-0107",
+      "title": "2-1-2-4 生产性不动论/富足的极端保守主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/2-1-2-4_%E5%A4%9A%E4%BA%A7%E7%9A%84%E4%B8%8D%E5%8A%A8%E8%AE%BA_%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%9B%9B%E4%B8%AA%E8%8A%9D%E8%AF%BA%E6%82%96%E8%AE%BA/0107_2-1-2-4_%E5%A4%9A%E4%BA%A7%E7%9A%84%E4%B8%8D%E5%8A%A8%E8%AE%BA_%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%9B%9B%E4%B8%AA%E8%8A%9D%E8%AF%BA%E6%82%96%E8%AE%BA_p2780.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–31 L9–156；Page32仅L163；Page33–41 L166–190；Page43–58 L200–255；未纳入L256起下一讲；未回听原音、未核板书。",
+      "locator": "实际核读Page1–31 L9–156；Page32仅L163；Page33–41 L166–190；Page43–58 L200–255；未纳入L256起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路/2-1-2-4_多产的不动论_如何理解四个芝诺悖论/0107_2-1-2-4_多产的不动论_如何理解四个芝诺悖论_p2780.md",
+      "sha256": "bb215a8f830ea0a5221b59175fa64290a85fcc8570217f113d7dd9e4fc69568b",
+      "git_blob_sha": "12400f728b0510709b5d3f1b820a728670063589"
+    },
+    {
+      "id": "m2-0108",
+      "title": "2-1-3 合理主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/0108_2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9_p2838.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–11 L9–39及Page12–40 L42–144；后续结尾未核；未回听原音、未核板书。",
+      "locator": "Page1–11 L9–39及Page12–40 L42–144；后续结尾未核",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹/0108_2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹_p2838.md",
+      "sha256": "3567ebab8a8752fd32cf535f0f2892dff215de73fd32f73a578fdc8b7b18a9f4",
+      "git_blob_sha": "2c37bca6499ca1ee53e6d3e48622433960d26e82"
+    },
+    {
+      "id": "m2-0109",
+      "title": "2-1-3-1 反应多元论（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/2-1-3-1_%E5%8F%8D%E5%BA%94%E5%A4%9A%E5%85%83%E8%AE%BA_%E8%A6%81%E6%9C%89%E5%A4%9A%E8%A0%A2_%E6%89%8D%E4%BC%9A%E6%8A%8A%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92%E7%90%86%E8%A7%A3%E4%B8%BA%E5%9B%9B%E5%85%83%E7%B4%A0%E8%AF%B4/0109_2-1-3-1_%E5%8F%8D%E5%BA%94%E5%A4%9A%E5%85%83%E8%AE%BA_%E8%A6%81%E6%9C%89%E5%A4%9A%E8%A0%A2_%E6%89%8D%E4%BC%9A%E6%8A%8A%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92%E7%90%86%E8%A7%A3%E4%B8%BA%E5%9B%9B%E5%85%83%E7%B4%A0%E8%AF%B4_p2880.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–19 L9–86；未纳入末尾下一讲；未回听原音、未核板书。",
+      "locator": "Page1–19 L9–86；未纳入末尾下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹/2-1-3-1_反应多元论_要有多蠢_才会把恩培多克勒理解为四元素说/0109_2-1-3-1_反应多元论_要有多蠢_才会把恩培多克勒理解为四元素说_p2880.md",
+      "sha256": "7bc507030797c41d0ab03d6acbebd6fc56208fff815042676a8f1573c12ae038",
+      "git_blob_sha": "fad19bf8bf7d4b914d18ebce8f5b09596969d1d0"
+    },
+    {
+      "id": "m2-0110",
+      "title": "2-1-3-2 贫乏的原子论（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/2-1-3-2_%E8%B4%AB%E4%B9%8F%E7%9A%84%E5%8E%9F%E5%AD%90%E8%AE%BA_%E5%A4%AA%E4%B8%80%E5%88%86%E5%BD%A2_%E8%99%9A%E7%A9%BA%E9%99%8D%E4%B8%96_%E5%BE%B7%E8%B0%9F%E5%85%8B%E5%88%A9%E7%89%B9%E7%9A%84%E7%AC%91%E4%B8%8E%E7%9E%8E/0110_2-1-3-2_%E8%B4%AB%E4%B9%8F%E7%9A%84%E5%8E%9F%E5%AD%90%E8%AE%BA_%E5%A4%AA%E4%B8%80%E5%88%86%E5%BD%A2_%E8%99%9A%E7%A9%BA%E9%99%8D%E4%B8%96_%E5%BE%B7%E8%B0%9F%E5%85%8B%E5%88%A9%E7%89%B9%E7%9A%84%E7%AC%91%E4%B8%8E%E7%9E%8E_p2900.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–24 L9–160；Page26–31 L173–188及Page41–44 L218–227，按段读取，未读中间物理旁论；未回听原音、未核板书。",
+      "locator": "Page1–24 L9–160；Page26–31 L173–188及Page41–44 L218–227，按段读取，未读中间物理旁论",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹/2-1-3-2_贫乏的原子论_太一分形_虚空降世_德谟克利特的笑与瞎/0110_2-1-3-2_贫乏的原子论_太一分形_虚空降世_德谟克利特的笑与瞎_p2900.md",
+      "sha256": "cf57dc5fd5f740bf1553d265bcd9aa6f290a8b9cbd9c9e045ec509725b490b29",
+      "git_blob_sha": "bab9ad022f8d2ad123fe0613c6904e5168dfb6b2"
+    },
+    {
+      "id": "m2-0111",
+      "title": "2-1-3-3 智性享乐主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/2-1-3-3_%E6%99%BA%E6%80%A7%E4%BA%AB%E4%B9%90%E4%B8%BB%E4%B9%89_%E4%BC%8A%E5%A3%81%E9%B8%A0%E9%B2%81%E7%9A%84%E5%93%B2%E5%AD%A6_%E9%99%8D%E6%9C%8D%E6%AC%B2%E6%9C%9B_%E5%9D%A6%E7%84%B6%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1/0111_2-1-3-3_%E6%99%BA%E6%80%A7%E4%BA%AB%E4%B9%90%E4%B8%BB%E4%B9%89_%E4%BC%8A%E5%A3%81%E9%B8%A0%E9%B2%81%E7%9A%84%E5%93%B2%E5%AD%A6_%E9%99%8D%E6%9C%8D%E6%AC%B2%E6%9C%9B_%E5%9D%A6%E7%84%B6%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1_p2947.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–9 L9–40（已读正文展示）；Page10–24 L43–93；排除L96起下一讲；未回听原音、未核板书。",
+      "locator": "Page1–9 L9–40（已读正文展示）；Page10–24 L43–93；排除L96起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹/2-1-3-3_智性享乐主义_伊壁鸠鲁的哲学_降服欲望_坦然面对死亡/0111_2-1-3-3_智性享乐主义_伊壁鸠鲁的哲学_降服欲望_坦然面对死亡_p2947.md",
+      "sha256": "cdc02f7d919a990fb8e0499c8787c02dbc6d9af5064cbdd76a1d7824fe64092b",
+      "git_blob_sha": "5f69c133fddc1baf0816c02a6cc233327bacb92b"
+    },
+    {
+      "id": "m2-0112",
+      "title": "2-1-3-4 犬儒主义/犬哲主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/2-1-3-4_%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E6%9E%81%E8%87%B4%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_%E5%AE%89%E6%8F%90%E6%96%AF%E6%B3%B0%E5%B0%BC%E4%B8%8E%E7%AC%AC%E6%AC%A7%E6%A0%B9%E5%B0%BC_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B8%88/0112_2-1-3-4_%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E6%9E%81%E8%87%B4%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_%E5%AE%89%E6%8F%90%E6%96%AF%E6%B3%B0%E5%B0%BC%E4%B8%8E%E7%AC%AC%E6%AC%A7%E6%A0%B9%E5%B0%BC_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%B8%88%E5%BE%92%E5%AD%99_p2972.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–25 L9–104；排除L106起下一讲；未回听原音、未核板书。",
+      "locator": "Page1–25 L9–104；排除L106起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-3_合理主义_毕达哥拉斯的伟大_不止是_万物皆数_而是人类理智史上的奇迹/2-1-3-4_犬儒主义_真正的犬儒主义_极致的理性主义_安提斯泰尼与第欧根尼_苏格拉底的另类师/0112_2-1-3-4_犬儒主义_真正的犬儒主义_极致的理性主义_安提斯泰尼与第欧根尼_苏格拉底的另类师徒孙_p2972.md",
+      "sha256": "e8ceabf6cd6f1170b22a3e4370edd3362848299f7254a8192724811f19bc4504",
+      "git_blob_sha": "1fefdf30d601b8f2166177dd3baa9d6ced5cfea7"
+    },
+    {
+      "id": "m2-0113",
+      "title": "2-1-4 绝对主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/0113_2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_p2997.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–16 L14–65；尾部未纳入；未回听原音、未核板书。",
+      "locator": "Page1–16 L14–65；尾部未纳入",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义/0113_2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义_p2997.md",
+      "sha256": "3a84b4f702ebf05ea0ecf94be298093f3e6d39b7061b7e8c719cce5cfacac9be",
+      "git_blob_sha": "e61d22bcd88015294e88eea738f7ae50339dbd80"
+    },
+    {
+      "id": "m2-0114",
+      "title": "2-1-4-1 相对主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-1_%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_%E5%AD%A6%E4%BC%9A%E9%AB%98%E5%B0%94%E5%90%89%E4%BA%9A%E7%9A%84%E4%BF%AE%E8%BE%9E%E5%AD%A6%E4%B8%8E%E8%BE%A9%E6%8A%A4%E6%9C%AF_%E6%89%80%E6%9C%89%E7%9A%84%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%8D%E8%BF%87%E6%98%AF%E6%B8%B8%E6%88%8F/0114_2-1-4-1_%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_%E5%AD%A6%E4%BC%9A%E9%AB%98%E5%B0%94%E5%90%89%E4%BA%9A%E7%9A%84%E4%BF%AE%E8%BE%9E%E5%AD%A6%E4%B8%8E%E8%BE%A9%E6%8A%A4%E6%9C%AF_%E6%89%80%E6%9C%89%E7%9A%84%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%8D%E8%BF%87%E6%98%AF%E6%B8%B8%E6%88%8F_p3015.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–23 L9–82及Page25–31 L88–117；Page24未核；排除下一讲；未回听原音、未核板书。",
+      "locator": "Page1–23 L9–82及Page25–31 L88–117；Page24未核；排除下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义/2-1-4-1_相对主义_学会高尔吉亚的修辞学与辩护术_所有的辩论赛不过是游戏/0114_2-1-4-1_相对主义_学会高尔吉亚的修辞学与辩护术_所有的辩论赛不过是游戏_p3015.md",
+      "sha256": "9473a995532bbe1f2acf72594b3745ead65f3ab68900e203eeb58575c5040f37",
+      "git_blob_sha": "6091de6c425a213a00d6f76d2dafbe3f57dbf64f"
+    },
+    {
+      "id": "m2-0115",
+      "title": "2-1-4-2 怀疑主义/皮浪主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-2_%E6%80%80%E7%96%91%E4%B8%BB%E4%B9%89_%E7%9A%AE%E6%B5%AA%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%99%BA%E5%8A%9B%E8%8B%B1%E9%9B%84%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD_%E6%8E%A2%E6%B1%82_%E4%B8%8D%E5%8A%A8%E5%BF%83_%E7%9A%84%E5%B9%B3%E8%A1%A1%E6%B8%B8%E6%88%8F_%E5%90%9B%E4%B8%BB_%E8%BE%85%E8%87%A3_%E5%B0%86/0115_2-1-4-2_%E6%80%80%E7%96%91%E4%B8%BB%E4%B9%89_%E7%9A%AE%E6%B5%AA%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%99%BA%E5%8A%9B%E8%8B%B1%E9%9B%84%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD_%E6%8E%A2%E6%B1%82_%E4%B8%8D%E5%8A%A8%E5%BF%83_%E7%9A%84%E5%B9%B3%E8%A1%A1%E6%B8%B8%E6%88%8F_%E5%90%9B%E4%B8%BB_%E8%BE%85%E8%87%A3_%E5%B0%86%E9%A2%86_%E5%B9%95%E5%83%9A%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_p3046.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–28 L13–124分段核读；L86–87仅页标题未读不影响正文；排除L125起下一讲；未回听原音、未核板书。",
+      "locator": "Page1–28 L13–124分段核读；L86–87仅页标题未读不影响正文；排除L125起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义/2-1-4-2_怀疑主义_皮浪的哲学_智力英雄必备技能_探求_不动心_的平衡游戏_君主_辅臣_将/0115_2-1-4-2_怀疑主义_皮浪的哲学_智力英雄必备技能_探求_不动心_的平衡游戏_君主_辅臣_将领_幕僚的必修课_p3046.md",
+      "sha256": "fd74ba148c9e11d28afc49ea9408728e1a608bcbb6cef199847f916c33d0cdcf",
+      "git_blob_sha": "8c09fb95c269bf1a5f61fe5ed1a2cbb26f5d918c"
+    },
+    {
+      "id": "m2-0116",
+      "title": "2-1-4-3 记忆主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-3_%E8%AE%B0%E5%BF%86%E4%B8%BB%E4%B9%89_%E8%AE%B0%E5%BF%86%E6%9C%AF_%E9%9B%84%E8%BE%A9%E6%9C%AF_%E5%B8%8C%E5%BA%87%E4%BA%9A%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%8D%95%E6%8D%89_%E4%BF%9D%E5%AD%98_%E5%88%9B%E9%80%A0%E6%97%A0%E9%99%90/0116_2-1-4-3_%E8%AE%B0%E5%BF%86%E4%B8%BB%E4%B9%89_%E8%AE%B0%E5%BF%86%E6%9C%AF_%E9%9B%84%E8%BE%A9%E6%9C%AF_%E5%B8%8C%E5%BA%87%E4%BA%9A%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%8D%95%E6%8D%89_%E4%BF%9D%E5%AD%98_%E5%88%9B%E9%80%A0%E6%97%A0%E9%99%90_p3074.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–10 L13–70、Page11–25 L84–129及Page26–37 L132–175；数学段仅浏览，不作证明正确性结论；未回听原音、未核板书。",
+      "locator": "Page1–10 L13–70、Page11–25 L84–129及Page26–37 L132–175；数学段仅浏览，不作证明正确性结论",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义/2-1-4-3_记忆主义_记忆术_雄辩术_希庇亚的哲学_捕捉_保存_创造无限/0116_2-1-4-3_记忆主义_记忆术_雄辩术_希庇亚的哲学_捕捉_保存_创造无限_p3074.md",
+      "sha256": "8f25d7c9733cce3fa04329979eee05d7f8102a6b5858bcff0ef98577d58658d0",
+      "git_blob_sha": "ab7d35da18a110f8ad88d46f9bb90e35a4a6a381"
+    },
+    {
+      "id": "m2-0117",
+      "title": "2-1-4-4 话语主义（社区编纂文本）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-4_%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E7%BB%88%E7%BB%93_%E5%AF%B9%E7%9C%9F%E7%90%86%E7%9A%84%E8%A7%A3%E6%9E%84%E6%80%A7%E6%8A%8A%E6%8F%A1_%E6%9C%80%E6%97%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E5%B8%88_%E5%AE%89%E6%8F%90%E4%B8%B0/0117_2-1-4-4_%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E7%BB%88%E7%BB%93_%E5%AF%B9%E7%9C%9F%E7%90%86%E7%9A%84%E8%A7%A3%E6%9E%84%E6%80%A7%E6%8A%8A%E6%8F%A1_%E6%9C%80%E6%97%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E5%B8%88_%E5%AE%89%E6%8F%90%E4%B8%B0_p3113.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–23 L9–151至本讲结束；L151后半2-2开头与Page24排除；未回听原音、未核板书。",
+      "locator": "Page1–23 L9–151至本讲结束；L151后半2-2开头与Page24排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-1_在场形而上学_宰制西方精神数千年的形而上学范式/2-1-4_绝对主义_普罗泰格拉_人是万物的尺度_为什么是绝对主义_而不是相对主义/2-1-4-4_话语主义_在场形而上学的终结_对真理的解构性把握_最早的精神分析师_安提丰/0117_2-1-4-4_话语主义_在场形而上学的终结_对真理的解构性把握_最早的精神分析师_安提丰_p3113.md",
+      "sha256": "4219eed64e3f7d7f3bcd5610c2905f448ef22650b649310beb104d10bfde15b3",
+      "git_blob_sha": "9d26c755c4825a36ef0369b944ba6b6ba798e799"
+    },
+    {
+      "id": "m2-plato-theaetetus",
+      "title": "泰阿泰德篇 / Theaetetus（Jowett英译，局部）",
+      "url": "https://classics.mit.edu/Plato/theatu.html",
+      "kind": "primary_text",
+      "verification_scope": "实际核读网页L186–208、L421–431：尺度说、冷风例和代拟辩护。柏拉图对话中的转述，不是普罗泰戈拉原著全文。",
+      "locator": "151e–152b，166d–168c；网页L186–208、421–431"
+    }
+  ],
+  "entries": [
+    {
+      "code": "2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "4/4",
+        "scope": "全体轴与摘要字段均有核查记录；状态限各字段所列命题，非原典或原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 场域的二重化",
+          "status": "supported_by_compiled_text",
+          "finding": "讲者直接把场域分裂释为二重化，而非两个物理宇宙。",
+          "source_ids": [
+            "m2-0096"
+          ],
+          "locator": "Page 2–3，L12、L16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①背景性场域的一部分成为可被主体用思维切中并用符号系统把握的符号秩序(如逻辑、命运)，另一部分不符号化，成为符号系统永远无法把握到的“剩余”，此二者的对立是形而上学的核心对立。",
+          "status": "supported_by_compiled_text",
+          "finding": "概念可把握的符号秩序及不能被符号化的剩余两面均见原文；命运例在L20–22。",
+          "source_ids": [
+            "m2-0096"
+          ],
+          "locator": "Page 2–4，L12、L16–28"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②认为主体只是在两者之间进行居间调和的静态、僵死、游离于二者之外的“认识者”，终极背景性秩序对场域的开辟以及场域的二重化是自动发生的，与主体无关。",
+          "status": "supported_by_compiled_text",
+          "finding": "认识者居间、律令变为场域不需主体参与、形而上学家静态僵死均直接出现；静态修饰认识者而非所有世界运动。",
+          "source_ids": [
+            "m2-0096"
+          ],
+          "locator": "Page 6，L48；Page 9–10，L62、L65–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③比实在论有余，考虑了场域的分裂，比观念论不足，没有考虑到主体性的力量。",
+          "status": "supported_by_compiled_text",
+          "finding": "比下有余是把握分裂，比观念论不足是忽略主体中介，摘要准确保持课程分类的比较维度。",
+          "source_ids": [
+            "m2-0096"
+          ],
+          "locator": "Page 5，L37–43；Page 6，L48"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲对形而上学的限定是主义主义分类，不等于全部哲学史中metaphysics的通行定义。",
+          "source_ids": [
+            "m2-0096"
+          ],
+          "locator": "已读Page 1–10，L9–66，与四字段相关段落"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Parts 1–2",
+          "reason": "对照形而上学作为第一原因之学与课程分类的差别。",
+          "verification_scope": "已读上述段落；编者关联，未声称本讲明确荐读此书。"
+        }
+      ]
+    },
+    {
+      "code": "2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "5/5",
+        "scope": "全体轴与摘要字段均有核查记录；状态限各字段所列命题，非原典或原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 历史(现实时空)与逻各斯(理性)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "场域明确写历史/现实时空对逻各斯，后者被解释为超历史维度。",
+          "source_ids": [
+            "m2-0097"
+          ],
+          "locator": "Page 13，L51；Page 23，L88"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 在场(Presence)",
+          "status": "supported_by_compiled_text",
+          "finding": "本体论1直接标在场，并联系非时间化的时间。",
+          "source_ids": [
+            "m2-0097"
+          ],
+          "locator": "Page 2，L12；Page 24，L91"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①来自于古希腊米利都学派对世界始基的思考，每一时刻万物从本源中涌现，所以可以尝试在思维中使时空暂停，用形而上学把握本源。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "米利都始基、每个瞬间重新涌现及以暂停把握本源均有课文依据；这是讲者对米利都的重构，未作古希腊残篇逐句认证。",
+          "source_ids": [
+            "m2-0097"
+          ],
+          "locator": "Page 13–16，L51、L56、L61、L64"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②相信可以白嫖所有事物、符号的共时性，对于时空运动在思维中想暂停就暂停，想拆分就拆分，而不会破坏其连续性，无法想象时空结构的断裂性。",
+          "status": "supported_by_compiled_text",
+          "finding": "暂停与白嫖符号共时性直接见课文；L91说因果性不能断裂，L100批评拆散联系。摘要的想拆分是对该批评的压缩而非逐字引用。",
+          "source_ids": [
+            "m2-0097"
+          ],
+          "locator": "Page 17–18，L67、L70；Page 24，L91；Page 27，L100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③前符号学、前结构主义的，没有思考到符号不能仅凭在场就能单独存在意义，而是要与其他符号相互影响。",
+          "status": "supported_by_compiled_text",
+          "finding": "前符号学/前结构主义为原文用语；词义依其他词差异而非单纯出现的论证完整对应。",
+          "source_ids": [
+            "m2-0097"
+          ],
+          "locator": "Page 3–5，L15、L18、L21"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Part 3",
+          "reason": "把课程的始基模型与古代哲学家本源论的证言对读。",
+          "verification_scope": "已读上述段落；编者关联，未声称本讲明确荐读此书。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "全体轴与摘要字段均有核查记录；状态限各字段所列命题，非原典或原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与可言说的、可书写的主题、场(Topos)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "cosmos与topos，后者可言说场域及论题，均为讲者直接定义。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 5–6，L36、L39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 本源",
+          "status": "supported_by_compiled_text",
+          "finding": "泰勒斯的在场具体化为万物背后的普遍本源。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 6，L39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 理性(普遍化的因果性)",
+          "status": "supported_by_compiled_text",
+          "finding": "认识论明定为普遍化理性、命题推理证明及普遍因果性。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 7，L42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①有反权威底色，贩夫走卒也可以用逻各斯把握天地一切，推崇个人的理性自由。",
+          "status": "supported_by_compiled_text",
+          "finding": "反权威、贩夫走卒无条件运用理性及个人自由均有课文措辞。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 2，L27；Page 26，L113"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②坚持普遍化，把偶然所得的命题化的规则必然化到整个宇宙，获得万物的本源(泰勒斯认为水是万物本源)。",
+          "status": "supported_by_compiled_text",
+          "finding": "由偶然规则必然化至全场域及水本源的例子均见课文；自然哲学史合理性另与古代证言比较。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 10，L51；Page 20–22，L85–97"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③没有意识到主体所把握的偶然性和必然性已经是主体性回溯性建构的了，普遍化体系中最偶然的就是主体性，是主体性使得宇宙可以被因果链条贯穿的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "主体性回溯性建构、最偶然及因果链起点的暴力是讲者自己的批评，摘要没有变成泰勒斯的自觉主张。",
+          "source_ids": [
+            "m2-0098"
+          ],
+          "locator": "Page 16–18，L69、L72、L75；Page 19–20，L79–83"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Part 3，Thales段",
+          "reason": "核对水本源说的古代见证，并区分讲者的普遍主义重构。",
+          "verification_scope": "已读上述段落；编者关联，未声称本讲明确荐读此书。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "全体轴与摘要字段均有核查记录；状态限各字段所列命题，非原典或原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 无界限者(Time/Fate)与有界限者(World)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "讲者明确偏用time vs world，说明无限历史与尘世故事；无界/有界是对此的提要。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 18–19，L60、L63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 无限者(Apeiron)",
+          "status": "supported_by_compiled_text",
+          "finding": "本体论直接是apeiron；无限在本讲特指无边界，勿误作数量无穷。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 19，L63；Page 1，L9"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 有序的理性世界",
+          "status": "supported_by_compiled_text",
+          "finding": "有序的理性世界为直接轴定义，知识和理性能理解万物。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 19–20，L63、L66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 和谐、秩序",
+          "status": "supported_by_compiled_text",
+          "finding": "维护和谐和不过剩直接出现。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 4，L18；Page 18–20，L60、L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①古希腊将土水火风并立，泰勒斯独把水认作万物本源不够有说服力，阿那克西曼德(泰勒斯的学生)敏锐发觉在土水火风中，只有土是完全有形的完全有边界的，所以把土的对立面无界者(Apeiron)设置为原质，土水火风分有不同多寡的原质。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "四元素背景、师生关系、土为有界限者、原质分化均有课堂论证。四元素神话是否早于泰勒斯属于历史论断，未凭课程自证。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 2–5，L12、L15、L18、L21；Page 9–12，L33–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②无界者是完全的形而上的概念，是符号学拟质，只能通过对立面(土)来把握，无界者对应古希腊的时间、命运概念，土水火风各派自然神也要服从命运的安排。",
+          "status": "supported_with_mechanical_error",
+          "finding": "符号学拟制、经土之反面把握、时间/命运及神也服从命运均见原文；摘要“拟质”应为“拟制”。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "Page 12–16，L42、L45、L48、L51、L54；Page 18，L60"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "讲者明确以土的否定和命运重构apeiron；它是课堂解释，不自动等于阿那克西曼德残篇的逐字内容。",
+          "source_ids": [
+            "m2-0099"
+          ],
+          "locator": "已读Page 1–20，L9–66完整本讲段落；L70起下一讲排除"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-1-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "全体轴与摘要字段均有核查记录，各字段复合句按finding限定；非原典/原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 全局性、宇宙(Global)与普遍性、理性(Universal)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "global全域与universal普遍贯穿力量的差别由原稿直接解释。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 4–6，L38、L44"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 气(Pneuma/Air)",
+          "status": "supported_by_compiled_text",
+          "finding": "本体论直接写Pneuma/Air，万物由气构成。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 7，L47"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 自然现象",
+          "status": "supported_by_compiled_text",
+          "finding": "一切是理性秩序支配的自然现象，原稿明写认识论。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 8，L50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 凝结(实体化)(Condensation)与稀疏(去实体化)(Rarefaction)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "凝结与稀疏分别实体化/去实体化；原稿强调并非简单同过程的等价两面。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 9–12，L53、L56、L62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①气是基质，气的凝结运动使之实体化为火风汽水土石，这一过程不是物质的自我凝缩，而是其被施加规定性，火是物质中最精纯的施动者，而在序列中越靠后的物质被施加的规定性就越多。",
+          "status": "partly_contradicted_by_compiled_text",
+          "finding": "规定性叠加、火的施动力及序列均有据，但火属于稀疏/去实体化一端，不能写成气凝结实体化为火；提供限定修订。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 10–16，L56、L59、L62、L65–74；Page 17、23，L77、L95"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②阿那克西美尼说气就是神，只有气是自我施加规定性使自己实体化。",
+          "status": "partially_supported",
+          "finding": "课文支持气自我施加规定性，且说pneuma是一种神/精神性力量；未找到足以确认这是阿那克西美尼本人逐字引语的证据，“只有”是本源论推论而非已核引文。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 20、23，L86、L95；Page 27–28，L109、L114"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③是哲学的制毡术，即用同一种本源的运动调和精神和物质，精神的东西可以实体化，物质的东西可以去实体化。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "哲学制毡术及同一本源运动调和精神/物质均由讲者解释；实体化与去实体化两个方向明确。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 23–24，L95、L98；Page 29，L117"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "不要将讲者的制毡、核聚变类比当作阿那克西美尼原始残篇或现代物理结论。",
+          "source_ids": [
+            "m2-0100"
+          ],
+          "locator": "Page 3–29，实际读L33、L38、L44、L47、L50、L53、L56、L59–98相关段落及L101、L104、L109、L114、L117、L120；未用L127下一讲"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Part 3，Anaximenes段",
+          "reason": "核对本源或多元原则的古代证言；与本讲现代模型区分。",
+          "verification_scope": "已读Part 3对应段；此处为编者对照，不据此认证课程全部推论。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-1-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全体轴与摘要字段均有核查记录，各字段复合句按finding限定；非原典/原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与与可讨论的、可书写的思维空间(Topos)的对立",
+          "status": "supported_with_mechanical_error",
+          "finding": "讲者先考虑nous后决定沿用topos，与cosmos对立；摘要与与重复。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 8，L32–35"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 万物实体(复数的)",
+          "status": "supported_by_compiled_text",
+          "finding": "复数实体及万物、nous同等在场见原文；轴是简写，不表示nous被否定存在。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 9–11，L38、L40、L45、L48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 合理的自然现象",
+          "status": "supported_by_compiled_text",
+          "finding": "讲稿直接写合理的自然现象。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 13，L54"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 旋转(努斯(Nous)的运动)(调和结合与分离)",
+          "status": "supported_by_compiled_text",
+          "finding": "旋转/nous运动调和结合与分离为明确轴定义。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 13，L54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①在本体论上虽然提出了万物和努斯(Nous)，但二者都是在场的实体，本体论上的万物是没有一种本源的，是种类无限、无限可分、相互掺杂的。",
+          "status": "supported_by_compiled_text",
+          "finding": "万物与nous同为实体、无唯一特殊本源、种类无数、无限可分及相掺，四层命题均见课文。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 9–11，L40、L45、L48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②努斯(Nous)是万物旋转的形式，通过此种运动，在混沌中同类物质相聚集，但其中始终有无限的异类物质彼此掺杂(Every thing includes a portion of everything)，这种努斯(Nous)作为形式在万物的运动中实体化、万物相互掺杂的关系类同于分形，也类同于用动态杂色显示的图形。",
+          "status": "partially_supported",
+          "finding": "旋转聚合与异质掺杂、形式实体化、分形嵌套均有课堂论证；动态杂色图形的视觉细节未查看原图。讲者明说分形解释是自己的思辨补足，不能当成古代作者已拥有现代分形理论。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 16–23，L63、L66、L69、L72、L75、L78、L82–89；Page 24–29，L94、L97、L102、L105、L108、L111"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③万物通过旋转运动展示形式，所以此处的努斯(Nous)可以不主体化，而仅仅作为一种客观精神存在，主体的反思性被旋转的运动取代，此时只存在一个单调的、无限重复的世界，这预示着分形多元论(2-1-1-3)的调和必然走向失败(2-1-1-4)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "无需第一人称、反思被旋转替代及向目的论4失败的推导都有原稿支持；单调是对无穷展现自身的提要。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 33–37，L127、L130、L133、L136、L139"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④学习古希腊哲学的姿态：用灵感补足遗迹，反推它的宏伟。",
+          "status": "supported_as_lecturer_method",
+          "finding": "用灵感补足残篇并由遗迹反推宏伟，是讲者明确声明的方法，不是史料考据结果。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 29–30，L111、L114"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "分形、连续统是本讲主动采用的现代重构；不能把课程分类顺序当作古代思想的直接影响年表。",
+          "source_ids": [
+            "m2-0101"
+          ],
+          "locator": "Page 8–13 L32–54；Page 16–29 L63–111相关段落；Page 30–37 L114–139；长段按输出实际片段核读，L142后下一讲排除"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Part 3，Anaxagoras段",
+          "reason": "核对本源或多元原则的古代证言；与本讲现代模型区分。",
+          "verification_scope": "已读Part 3对应段；此处为编者对照，不据此认证课程全部推论。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-1-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全体轴与摘要字段均有核查记录，各字段复合句按finding限定；非原典/原音通过",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 公共的宇宙(Public Cosmos)与私人心灵上的宇宙(Private Cosmos)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "公共/私人cosmos与心灵体验的区别明确。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 11，L49"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 永恒的活火(Ever-living Fire)/存在之流(Flux)",
+          "status": "supported_by_compiled_text",
+          "finding": "ever-living fire及存在之流为本讲实际用语。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 8、12，L38、L52"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1 自然现象的生成(Becoming)",
+          "status": "supported_by_compiled_text",
+          "finding": "自然现象作为becoming、方生方死被讲者直接赋到认识论。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 12，L52"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 斗争、战争(War)",
+          "status": "supported_by_compiled_text",
+          "finding": "永恒斗争/战争为目的论4明确定义。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 14，L62；Page 38，L146"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①在阿那克萨戈拉的分形多元论中，始终有无限的异类物质彼此掺杂，那么界限、空隙就不能存在，赫拉克利特提出“活火(Ever-living Fire)”概念，是实体性的无、使得万物分离的力量。",
+          "status": "supported_as_course_comparison_not_historical_sequence",
+          "finding": "本讲由前面格位的界限问题引出活火分离力量，且强调是积极存在而非void；这是分类的比较次序，未核为赫拉克利特针对阿那克萨戈拉的实际历史回应。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 8，L38；Page 20，L84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②活火在不断燃烧同时在熄灭，万物只是这个生成过程(Becoming)的中间过程(火熄灭成水、水熄灭成土)，万物也在如同活火不断燃烧同时在熄灭，宇宙被这种生成(Becoming)所填满。",
+          "status": "supported_by_compiled_text",
+          "finding": "火熄为水、水熄为土、燃烧同时为熄灭和宇宙被填满均见课文。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 12、17，L52、L75；Page 38–39，L146、L149"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③考虑到了无的维度，冲击了在场形而上学的本体论预设，但此处的无依然是实体性的，没有为真正的空无一物留下空间。",
+          "status": "supported_by_compiled_text",
+          "finding": "冲击在场但无仍有火这一实体载体、未获独立本体地位，摘要保持该区别。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 19–20，L81、L84；Page 39–40，L149、L152"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④赫拉克利特是哭泣的哲学家，认为宇宙在目的论上是荒谬的，万物不断燃烧熄灭，如同一堆东西糊里糊涂的堆在一起，对人类智慧感到绝望(“身体相比粪便是更应该排出去的！”)。",
+          "status": "partially_supported",
+          "finding": "糊里糊涂堆积、排斥人类智慧及身体/粪便句见正文；哭泣称号本轮仅核到文件标题，非独立古代证言。身体/尸体译词和相关轶事尚未回查残篇，不能以课堂话语认证生平。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "Page 35–38，L137、L140、L143、L146"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "活火、粪便等引述的准确古希腊原词仍待残篇版核对；本轮只审课程转述是否有正文支持。",
+          "source_ids": [
+            "m2-0102"
+          ],
+          "locator": "实际核读Page 8 L38、Page 11–14 L49、L52、L62、Page 16–20 L70、L75、L81、L84、Page 35–40 L137–152；主题定向检索，不含后接2-1-2"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "Book I, Part 3，Heraclitus段",
+          "reason": "核对本源或多元原则的古代证言；与本讲现代模型区分。",
+          "verification_scope": "已读Part 3对应段；此处为编者对照，不据此认证课程全部推论。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "全体字段有记录；逐条finding保留未核细节和解释性质，非整条认证",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 太一的存在之所(Place)与神之必然性/命运(fate)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "存在之所place与外部束缚的fate/dike为讲者明确定义。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 3，L19"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 太一(One)",
+          "status": "supported_by_compiled_text",
+          "finding": "本体论明确写One太一，只有它真实。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 4，L22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 真理(Truth)与表象(Appearance)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "truth与appearance/doxa二分直接对应。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 4、16，L22、L60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①太一是存在者，它被拟人化的把握为命运的奴隶，在本体论上存在者的界限有赖于无，即太一被命运死死捆住，这揭示了形而上学的真实结构：并不是真理与表象的二分，而是真理与无的二分。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "命运奴隶、真理/表象同属一侧及无作为外部约束是讲者的诠释，非残篇直译；原稿又明确此无尚未本体论化。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 24，L86；Page 35–38，L129、L134、L139、L142"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②真理之路与意见之路：\n\t真理之路：“存在者存在，不存在者无法存在”，不存在者无法存在的原因在于太一被命运死死捆住，意味着世界是存在论闭合的。\n\t意见之路：“存在者无法存在，不存在者存在”，巴门尼德认为这是谬误之路，但是恰恰是通过讨论这些不存在者、命运、必然性，可以进入前本体论的符号学，达到辩证法的维度，抵达晚期谢林。",
+          "status": "partially_supported_with_unsupported_quotation",
+          "finding": "真理之路与闭合解释有据，向晚期谢林的推演亦有据；“意见之路=存在者无法存在，不存在者存在”的对称引文未在已核段中找到，原稿描述意见部分为凡人宇宙论，不能确认此引号内容为准确转述。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 5–9，L25、L28、L31、L34、L37；Page 38，L142"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③赫拉克利特与巴门尼德之争：与教科书体系不同，巴门尼德才是更偏向辩证法的，赫拉克利特是更形而上学的。赫拉克利特虽然提出“活火(Ever-living Fire)”概念，但在场性始终是第一位的，虽然活火作为无占满了整个宇宙，万物在生成(Becoming)中流变，但这种无本身是实体化的，而真正的“无”并没有本体论地位；巴门尼德说真理之路是“存在者存在，不存在者无法存在”，这实际上是把不存在者“无”注册到本体论中，给予无作为存在者(太一)的限制者的本体论地位，所以巴门尼德才是更辩证的，海德格尔把这种无称为形而上学框架，这个框架会裹住、遮蔽实存世界，而“存在者存在，不存在者无法存在”就是在告诫人们，不要把实存的东西和这个框架搞混。",
+          "status": "contradicted_on_ontological_status",
+          "finding": "巴门尼德比赫拉克利特更辩证是讲者明说，框架束缚亦有据；但摘要说无已获本体论地位，与讲者明确说Fate/Logos还未进入本体论相反，需修正该分句。关于赫拉克利特的细节另参本批2-1-1-4。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "Page 36–38，L134、L139、L142；Page 21，L77"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "残篇读法是讲者自述可能多解的英译诠释；没有把无注册为已经确认的巴门尼德本体。",
+          "source_ids": [
+            "m2-0103"
+          ],
+          "locator": "实际读Page 1–18 L9–68轴/真理之路相关段落；Page 20–39 L74–145，长段以输出片段为限"
+        }
+      ],
+      "open_questions": [
+        "意见之路的对称引文仍待原音与残篇对照。"
+      ]
+    },
+    {
+      "code": "2-1-2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全体字段有记录；逐条finding保留未核细节和解释性质，非整条认证",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 世界(城邦)与理念(神圣的声音)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "城邦与神圣维度明确定为场域对立。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 7–8，L31、L34"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 理念世界(Ideas)",
+          "status": "supported_with_lecturer_reservation",
+          "finding": "讲者写理念世界，但同时承认苏格拉底未明确讨论本体论、这里借柏拉图理念语言，须保留这一课程重构层次。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 9–10，L37、L40；Page 41，L135"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 无知与知识、美德的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "知识/美德与无知的二分直接出现。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 10–11，L40、L43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 追求德性、服从城邦共同体的法令",
+          "status": "supported_as_course_grid",
+          "finding": "轴定义是追求德性与服从共同体；末段讲悲剧中不可同一，故该轴是理论诉求，不是讲者认定始终成功协调。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 11、17，L43、L61；Page 40，L132"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①美德即知识，人不会刻意做坏事，如果做了那是因为人的无知，但是没有对美德本身进行反思。",
+          "status": "contradicted_on_reflection",
+          "finding": "美德即知识与作恶源于无知有据；“没有对美德本身反思”过强，后半讲明确要求归谬既有善恶标准并自己定义勇敢正义等，提供修订。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 1、7，L9、L31；Page 36–38，L120、L123、L126"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②苏格拉底的辩证法：思维的助产术，通过不停对定义进行追问，引导对方自己进行思索，最后发觉自我的无知。",
+          "status": "supported_by_compiled_text",
+          "finding": "反问定义、举反例、修订定义并发现无知全部有正文说明。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 2–5，L12、L15、L18、L23"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③苏格拉底的本体论是巴门尼德的倒置版，巴门尼德认为只有太一存在、太一外边的“无”不存在，而苏格拉底通过对实存的、经验性的定义不断追问不断归谬，获得的一种否定性的、难以言说的知识，这种知识才是最具普遍性的美德，才有本体论地位。",
+          "status": "supported_as_lecturer_reconstruction",
+          "finding": "太一/外部神圣维度的本体地位倒置和否定性归谬路径由讲者构造；“最具普遍性”是整体论证提炼，非已核苏格拉底自称。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 26–27，L88、L90、L93；Page 32，L108；Page 36–41，L120–135"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④苏格拉底有幻听症，可以听到一个强大的内在声音(实际上就是苏格拉底自己的想法)迫使他遵守道德规范，苏格拉底认为这是神谕，所以苏格拉底认为人注定是无知的，只能通过神谕和紧密的激烈的爱(Eros)获得知识。",
+          "status": "supported_as_speculation_not_verified_diagnosis",
+          "finding": "课文确用幻听等说法并推测声音是自身思维，也讨论神谕和eros；这些是讲者的追溯解释，不是已证实医学诊断。原文神示/声音不得直接认证该诊断。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "Page 8、16、22–23，L34、L58、L76、L79；Page 28，L96"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲承认借柏拉图语言说明苏格拉底本体论；幻听、内听觉整合不佳等是讲者解释。",
+          "source_ids": [
+            "m2-0104"
+          ],
+          "locator": "实际读Page 1–11 L9–43；Page 15–20 L55–70；Page 22–28 L76–96；Page 32 L108及Page 36–41 L120–135。长段按展示片段阅读"
+        },
+        {
+          "text": "《申辩》此处把神示描述为阻止行动而不命令行动的声音，并叙述拒绝不义命令。它支持存在神示叙述，不直接支持幻听症诊断或无条件服从任何城邦命令。",
+          "source_ids": [
+            "b02-plato-apology"
+          ],
+          "locator": "31c–32e；本批追加核读网页L132–139"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "b02-plato-apology",
+          "relation": "editorial_reading",
+          "locator": "神示段31c–32e；MIT Jowett网页L132–139",
+          "reason": "对读神示的禁止性声音和苏格拉底拒绝不义命令的自述，区分古代文本与讲者追溯解释。",
+          "verification_scope": "本批追加实际核读网页L125–143，尤其L132–139；复用既有书目。神示段不能直接证明医学诊断。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "每字段均记录；复合论断拆分，未验证的史实或科学推论明确限定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 表象的宇宙与理念的宇宙的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "表象宇宙与理念宇宙明示二分。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 相/形式(Form)",
+          "status": "supported_by_compiled_text",
+          "finding": "形式作为本体，善高于存在。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page7–8 L27、32"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 真理(Truth)与意见(Opinion)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "真理/意见、回忆理念明确出现。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page18 L66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 盲目的存在(沉湎于冲动、爱欲)与善(美好，符合理念)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "盲目存在冲动与善、符合形式相对。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page23–24 L81、84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①表象是不完美的形式，凡是表象，它们的完美的形式都位于理念的宇宙，但是完美的理念世界恰恰离不开不完美的表象世界的支撑。",
+          "status": "supported_with_attribution_needed",
+          "finding": "不完美形式与完美理念有据；后半依赖不完美世界的论点属于讲者批评，Page18还明确撇开柏拉图本人立场，宜加归属。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page10 L40；Page16、18 L60、66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②洞穴隐喻：终身生活在洞穴里的人误把投影到岩壁上的影子当成事物本身，说明人不能依赖于感官，要通过理性把握真实的理念世界，而这个完美的理念世界是可以达到的。",
+          "status": "supported_by_compiled_text",
+          "finding": "洞穴影子与感官不可靠、理性通达理念世界均有对应。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page22–23 L78、81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③可以双关为理想现实主义，在政治上表现为激进的保守主义，为了接近完美的理念世界可以用一切手段，因为柏拉图对完美的理念世界的把握是基于当时雅典奴隶制社会，比如在《理想国》中鼓吹哲人王，但是从没有考虑奴隶的自由。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "双关、激进保守、手段、奴隶制与哲人王均是本讲政治批评；并非本批已以原典证明柏拉图全部政治思想。",
+          "source_ids": [
+            "m2-0105"
+          ],
+          "locator": "Page25–29 L87–99；Page31 L105"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-2-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "每字段均记录；复合论断拆分，未验证的史实或科学推论明确限定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与神圣的维度(Theos)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "Cosmos与Theos/N ous神圣维度明示。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page12 L46"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 形式与质料的结合(Hylomorphism)",
+          "status": "supported_by_compiled_text",
+          "finding": "质形结合而形式占主导，故格位本体论1。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page13–16 L49–58；Page27 L91"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 真理(Truth)与意见(Opinion)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "真理与意见的二分，后者分类不足。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page28 L94；Page33 L109"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 恰到好处的中庸(调和庸俗的与神圣的)",
+          "status": "supported_by_compiled_text",
+          "finding": "中庸作为庸俗与神圣的调和。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page38 L124"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①将民间的神秘学崇拜(风火水土四根论)进行范畴表(冷热、干湿)分类，使之本体论化，这些归纳、分类、推理都是基于古希腊的日常语言，没有对范畴体系本身进行反思。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "四元素、冷热干湿表和日常语言来源及不反思的批评均有文本；历史归因保留为讲者论述。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page7–11 L29–41"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②亚里士多德的范畴分类学来自于奴隶劳动时把握世界的规定性，并将之反映到语言上，亚里士多德把这种天真的分类学看作不言自明的，这种反思能力的缺失就是奴隶对奴隶主的报复。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "劳动经验进入语言再被主人范畴化、奴隶报复的主奴解释见正文。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page3–6 L15–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③在形式与质料的结合中，形式是主动的，质料是被动的，形式加于质料产生万物，万物就是形式即理念的实例化，而理念是实存于理念世界的，所以是一种实在论。",
+          "status": "partly_contradicted_by_compiled_text",
+          "finding": "主动形式/被动质料有据；但理念另存理念世界直接反转本讲开头对柏拉图的区分，应修正为形式内在于现实。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page2–3 L12–15；Page14–16 L52–58"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④目的论上用范畴分类学切分出中间状态，既不过分沉湎于世俗，也不过分倾向精神、哲学，比如既不能吝啬也不要挥霍而是要二者中间的审慎，既不要敌视也不要无情而是要恰到好处的愤慨，但是所谓“恰到好处”的定义在有话语权的一方，所以亚里士多德与权力结合，成为帝师，后又建立学园，批量培养知识分子，所以范畴实在论可以双关为绝对现实主义。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "中间状态、审慎例、愤慨例、话语权、帝师和学园及双关均见正文；讲者对审慎/慷慨用词有犹豫，此处不据标准译名冒充原讲纠错。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page1 L9；Page38–45 L124–145"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“奴隶报复”及范畴语言的社会发生史是讲者批判性解释；未以亚里士多德原典独立证实。",
+          "source_ids": [
+            "m2-0106"
+          ],
+          "locator": "Page3–7 L15–29"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-2-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "9/9",
+        "scope": "每字段均记录；复合论断拆分，未验证的史实或科学推论明确限定。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与神之必然性(Dike)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "宇宙与Dike束缚的二分明示。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page1–2 L9–12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 太一(One)",
+          "status": "supported_by_compiled_text",
+          "finding": "太一作为本体明示。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2 真理(Truth)与意见(Opinion)的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "真理与意见明示。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 不动(上升(神圣)、下降(凡俗)、旋转(中庸)的失败)",
+          "status": "supported_by_compiled_text",
+          "finding": "上升、下降、旋转三路失败及不动均有论述。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page3–6 L15–44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①世界是有限的、静态的、当下的、处处相同的、被神之必然性规定好了的。",
+          "status": "supported_by_compiled_text",
+          "finding": "有限、静态、当下、均匀与必然性为本讲对太一的描述。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page3 L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②(1)飞矢不动；(3)人龟赛跑",
+          "status": "supported_by_compiled_text",
+          "finding": "飞矢瞬间静止、阿基琉斯不断追及均逐段说明。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page11–13 L64–79"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②(2)无限二分的前置中点版本",
+          "status": "variant_formulation",
+          "finding": "正文采用不断走完剩余路程一半；摘要采用先经过前一中点。都是二分叙述，但不是逐句原讲；本批不因等价变体强改。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page12 L73–76"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②(4)阅兵问题及计量结论",
+          "status": "supported_as_exploratory_reconstruction",
+          "finding": "反向队伍、附加方向、最小尺度变动均在本讲；不代表其现代物理类比已被验证。末尾“不可能性的”为机械病句。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page14–23 L82–128"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③(1)→(2)→(3)与(4)作为基础",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "运动→抵达→超越及第四基础的递进为讲者明确重构。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page9–10 L57–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③空间与时间最小元及主体连续性",
+          "status": "partly_contradicted_by_compiled_text",
+          "finding": "空间/客观尺度、时间/主体连续性见正文；但两个最小元同时固定被正文明确否定，摘要关键句应改为二者张力。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page36–38 L175–181；Page43–47 L200–212"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③运动队伍作为观察者、距离相等的闭合",
+          "status": "supported_as_exploratory_reconstruction",
+          "finding": "取消预设观察者、以运动队伍为观察者及强行闭合见正文；属讲者推演，未作数学或物理正确性审定。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page24–31 L131–156"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③乌龟观察者及不可弥合",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "乌龟时空自我规范且不能被更快者消除见正文。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page39–41 L184–190"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③终点B为绝对禁止的观察点",
+          "status": "supported_with_typo",
+          "finding": "终点被当作无主体性静止点的推论见正文；“绝对禁止”应为“绝对静止”，L169同段有正确写法。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page34–35 L169–172"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③箭矢以自身为唯一观察者",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "箭矢仅有自身观察者时不能形成相对运动见正文。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page32–33 L163–166"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③逆解四悖论与符号自我指涉",
+          "status": "supported_as_exploratory_reconstruction",
+          "finding": "4321逆解、符号自指与运动差异有据；应声明为讲者探索性重构，而非芝诺留存的完整原体系。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page47–54 L212–241"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④不动论是生产性的，通过不动论恰恰可以生产出大量的悖论，这些悖论是不动的符号学框架通过不同的语用学实践生成出的二律背反，其所编织出的正是纷繁复杂的、充满了矛盾的多样性的世界。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "静态框架经语用生成悖论和多样世界是本讲结论。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page56–58 L248–255"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            4
+          ],
+          "claim": "⑤从政治上理解，物产丰富的希腊奴隶社会秩序要维持自己的不动的、千秋万代的地位，反而会产生大量的矛盾。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "富足奴隶社会与秩序不动的政治解读确见结尾；本讲也承认无芝诺政治著作传世，不能当作其政治自述。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page7 L49；Page57–58 L251–255"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲在计量推演中自承数学很差，并在结尾称探索可能错误百出；摘要中的现代物理类比和完整体系归属不宜升格为已证史实或科学定理。",
+          "source_ids": [
+            "m2-0107"
+          ],
+          "locator": "Page20 L115；Page58 L255"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "逐字段对照，复合论断逐项写明；与讲稿相符不代表其历史主张已获原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 自然世界与神圣的背景性秩序的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "自然与神圣背景秩序的两场域直接表述。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page6 L24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 数(比例的本尊)",
+          "status": "supported_by_compiled_text",
+          "finding": "数被称作比例的本尊。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page6 L24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 比例(Ratio)(调和真理与意见的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "比例在真理与意见之间居间。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page4–7 L18–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①生产性不动论(2-1-2-4)生产出的悖论是不动的符号学框架通过不同的语用学实践生成出的二律背反，合理主义通过强行把一些语用学实践中的巧合解释为神秘的、神圣的，使得意见不仅仅是二律背反，而是可以提升为某种类理念、类真理，极大的扩充了理念世界，这是合理主义的进步性(毕达哥拉斯通过把生活中偶然的比例关系神秘化，并将比例与神圣的数字关联起来做的这点)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "符号框架/语用悖论承接、偶然数字神秘化、扩充理念及进步性逐一对应；属于课程结构解释。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page1–4 L9–18；Page14 L48；Page35–39 L127–139"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②认识论闭合，不能容忍认识论上的突破，希帕索斯(毕达哥拉斯的一个学生)发现边长为1的正方形对角线不能用一个比例数表示，他因此被毕达哥拉斯学派杀死。",
+          "status": "supported_as_unverified_historical_narrative",
+          "finding": "根号二不能表示整数比、杀害学生及认识论闭合确是本讲叙述；本批不证明杀害事件的史实性，宜明确讲者归属。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page10–13 L36–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③依靠把数字神秘化，创建自己的规范体系，可以用来开宗立派，凝结出属于自己的宗派共同体，代表了古希腊城邦的边缘贵族的立场。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "数字神秘化、规范体系、宗派共同体和边缘贵族均逐项出现。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page18–21 L60–69；Page36 L130"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "希帕索斯死亡的叙述在本批仅证实讲稿如此说，未完成古代证言链核验。",
+          "source_ids": [
+            "m2-0108"
+          ],
+          "locator": "Page10–13 L36–45"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "卷I Part5，网页L98–104",
+          "reason": "对读数、音阶比例与天体秩序。",
+          "verification_scope": "本批实际核读该定位；亚里士多德的古代转述与批评，并非相关人物自存原著。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-3-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照，复合论断逐项写明；与讲稿相符不代表其历史主张已获原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 经验性的世界与神圣的背景性秩序的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "经验背景与超经验神圣秩序明示。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page2–3 L15–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 灵魂轮回(Reincarnation)",
+          "status": "supported_by_compiled_text",
+          "finding": "灵魂化身、再投胎和循环用于本体论1。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page3 L23；Page13 L62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 爱(阿弗洛狄忒)与争执(尼克亚)(调和真理与意见的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "爱与争的比例调和真理意见；爱神名称经Philotes向阿弗洛狄忒关联。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page3–4 L25–28；Page7–9 L37–46"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 循环、轮回",
+          "status": "supported_by_compiled_text",
+          "finding": "爱/争循环并回归纯净，目的论1。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page10 L51；Page14 L65"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①借用古希腊神话体系：阿弗洛狄忒代表爱、交往、结合，尼克亚代表争吵、分离、下坠。阿弗洛狄忒代表的爱包裹着万物，对应空间的范畴，尼克亚代表的下坠、重量对应实体的范畴。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "爱/交往/结合、争执/分离、空间/实体和重量均有明确段落；这是讲者解释恩培多克勒的概念结构。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page7–12 L37–59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②火气水土四根也有对应的神，火对应宙斯，气对应赫拉，水对应涅斯提斯，土对应哈迪斯，这四大神的爱恨纠葛受阿弗洛狄忒与尼克亚主宰，万物也因此不断发生结合与分离的反应。",
+          "status": "partially_supported",
+          "finding": "火宙斯、气赫拉、土哈迪斯及水为冥后均有；已读本讲未出现涅斯提斯这个专名，水神名称待原典对照。爱争统摄及结合分离有据。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page5–9 L31–48；Page12–13 L59–62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③目的论上认为整个世界是不断轮回的，万物在反应中分有四神的神性，不停循环，从物理学思维方式进入化学思维方式。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "神性化身、循环与从混合到反应的化学思维均见正文；未把化学始祖评价当作学科史定论。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page13–15 L62–68；Page19 L86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④恩培多克勒认为自己就是神，传说他跳入火山而死。",
+          "status": "supported_as_legend",
+          "finding": "自称神、投火山、青铜鞋传说均见正文；摘要已有传说限定，保留。",
+          "source_ids": [
+            "m2-0109"
+          ],
+          "locator": "Page9 L48；Page13–14 L62–65"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "卷I Part4，网页L87–92",
+          "reason": "对读爱争作为运动原因；不替代讲者空间/实体解释。",
+          "verification_scope": "本批实际核读该定位；亚里士多德的古代转述与批评，并非相关人物自存原著。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-3-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照，复合论断逐项写明；与讲稿相符不代表其历史主张已获原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 自然世界与神圣的必然性世界的二分",
+          "status": "supported_by_compiled_text",
+          "finding": "自然场域和神圣必然性两个层次见正文。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page5–6 L25–28"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 原子(Atom)和虚空(Void)",
+          "status": "supported_by_compiled_text",
+          "finding": "原子和虚空并存、本体论1为本讲格位。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page7 L31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 精微的感官(调和真理与意见的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "理性被解为精微感官、居间协调真理意见。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page26–28 L173–179"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 无聊的坠落(单调)与神圣的旋涡(必然性)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "单调坠落和神圣旋涡的对立直接说明。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page30–31 L185–188"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①巴门尼德认为太一被必然性包裹、被命运死死捆住，德谟克利特继承了巴门尼德对太一的理解，但是把单数的太一变为复数的原子，无数的原子在外部必然性的驱使下运动、碰撞，形成了万物。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "太一复数化为原子、被必然性绑缚及碰撞生成对应。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page12–14 L59–65"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②德谟克利特认为无(Void)存在：古希腊语中“无”的原文是\"Mêden\"(Nothing)由\"mê\"(not)和\"den\"(hing)构成，那么“无”就是对一种在符合系统中无意义的东西\"den\"(hing)的否定，所以无是在符号系统中有位置的，是存在的，这突破了巴门尼德“存在者存在，不存在者无法存在”的戒律，使得形而下学成为可能。",
+          "status": "supported_with_typo",
+          "finding": "meden拆成me/den、符号位置论证与突破巴门尼德都见正文；是讲者词源式推演，本批不审定希腊语构词。“符合系统”是“符号系统”误字。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page9 L46–50；Page14–20 L65–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③不存在事物，万物不过是大量原子在必然性的驱使下形成的表象，这些表象可以还原为微观的原子的形状、大小等等的机械关系，世界的因果性都是通过原子的运动机械式决定的，而原子本身只有单调的坠落运动，所以必须被必然性驱动，原子只是盲目的接受必然性的支配而不自知，所以此处的必然性本身是一种贫乏。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "事物无本体地位、形状大小、机械因果、坠落需外在必然性以及主体盲目承受均逐项对应。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page2–3 L14–19；Page21–23 L90–137；Page42–44 L221–227"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④人能感受到事物，但万物只是表象，所以需要排除对万物的经验性感受，通过极其精微的感官才能获得背后的真理(类似于佛教哲学)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "删除粗糙感官刺激、精微感官和佛教类比均见正文；类比和印度影响推测不等于传播史证据。",
+          "source_ids": [
+            "m2-0110"
+          ],
+          "locator": "Page26–28 L173–179"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-aristotle-metaphysics1",
+          "relation": "editorial_reading",
+          "locator": "卷I Part4，网页L93–95",
+          "reason": "对读满与空、形状次序位置等原子论证言。",
+          "verification_scope": "本批实际核读该定位；亚里士多德的古代转述与批评，并非相关人物自存原著。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照，复合论断逐项写明；与讲稿相符不代表其历史主张已获原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 自然世界与神圣的维度的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "自然与不干预现实的神圣维度区分。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page4 L22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 原子(Atom)和虚空(Void)",
+          "status": "supported_by_compiled_text",
+          "finding": "原子与虚空和谐相处的本体1。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page4–5 L22–25"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 类比性直觉(调和真理与意见的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "经验类比与直觉联结意见和理念。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page7–9 L31–40"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 偏转(调和单调的坠落与必然性的旋涡的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "偏斜调和下坠和神圣必然性，打开自由。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page2–6 L14–28；Page9 L40"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①与形而上的神圣秩序妥协，获得智性上的自治，放弃激烈的智性思考、哲学战斗，而神也不再会干预自然世界，因此可以通过哲学的冥思体会静态的快乐，代表知识分子通过哲学的思考活动达到一种隐逸、安宁的快乐状态。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "不干预自然、宁静哲学快乐及隐逸知识分子对应；妥协和放弃战斗为讲者的政治评价。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page13–16 L60–69；Page21–22 L84–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②在目的论上设想一种偶然的偏转，调和原子单调的坠落与必然性的旋涡的对立，为人的自由和思想留下空间。",
+          "status": "supported_by_compiled_text",
+          "finding": "原子的偶然偏转及自由伦理空间均有。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page5–6 L25–28；Page9–10 L40–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③欲望分为三种：\n\t(1)必要且自然的欲望：如食欲、住所。易满足，易控制，不害怕，不痛苦。\n\t(2)不必要但自然的欲望：如美食、肉欲。易满足，不易控制，引起痛苦。\n\t(3)不必要也不自然的欲望：如财富、权力、地位。不易满足，主体被控制，引起害怕和痛苦。\n\t这其中第二种和三种欲望是不值得追求的。",
+          "status": "supported_by_compiled_text",
+          "finding": "三种欲望名称、食欲住所/美食肉欲/财富权力例、易足易控及避免后两种全见正文；“不值得”是对尽可能避免的压缩。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page11–12 L46–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④坦然面对死亡：如果我活着，那么我就没死，如果我死了，那我便不存在(\"I was not, I was, I am not, I don't care.\")。",
+          "status": "supported_with_quote_attribution_limit",
+          "finding": "死亡不被体验的推论有据；英文格言在本讲被放在罗马人墓志铭语境，并非提供伊壁鸠鲁本人逐字原文。",
+          "source_ids": [
+            "m2-0111"
+          ],
+          "locator": "Page17–18 L72–75"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "信中强调按后果选择快乐，有时接受痛苦；因此“智性享乐”不应读成所有感官快乐一概禁止。",
+          "source_ids": [
+            "b02-epicurus-menoeceus"
+          ],
+          "locator": "§§129–132；网页L37–42"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "b02-epicurus-menoeceus",
+          "relation": "editorial_reading",
+          "locator": "§§124–132、133；MIT网页L28–45",
+          "reason": "直接对读死亡、欲望分类、快乐选择与必然/偶然/自主。",
+          "verification_scope": "本批实际核读网页L23–48；不由此证明原子偏斜全部物理学。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段对照，复合论断逐项写明；与讲稿相符不代表其历史主张已获原典验证。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 自然世界(Nature)与城邦文明(State)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "自然与城邦二分、自然更高。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page3–4 L18–25"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 具体的、现实的事物",
+          "status": "supported_by_compiled_text",
+          "finding": "具体事物第一性，拒绝背后的理念世界。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page5 L30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3 自控的理性(由此从意见走向真理，协调真理与意见的二分)",
+          "status": "supported_by_compiled_text",
+          "finding": "自控理性协调意见真理。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page6–7 L33–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 极致理性，效仿自然(原子的坠落与必然性旋涡的调和的失败)",
+          "status": "supported_as_course_grid",
+          "finding": "偏转调和失败是讲者跨格比较；效仿自然却极致理性的内在不一致支撑4，并非犬儒提出原子物理。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page11–16 L53–71；Page24–25 L97–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①自然世界是更本真、更理性的，城邦是堕落的，反对柏拉图认为自然世界背后存在理念的世界，自然与观念是合一的。",
+          "status": "supported_by_compiled_text",
+          "finding": "自然本真理性、城邦堕落、拒绝独立理念世界均有。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page3–6 L18–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②第欧根尼(安提西尼的学生)追求苦修，认为一切知识都是自然而然产生的，如果一种知识被刻意化、理论化、专题化的呈现，那就已经超出了其自然的状态没有做到自我谦抑，因而就不是知识，所以要打破一切自称为习俗、知识、文化的知识。",
+          "status": "supported_by_compiled_text",
+          "finding": "师承、苦修、知识呈现方式及反习俗均有；自然获得不等于完全不反思，L45明确过程中有反思。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page1–2 L10–15；Page7–10 L36–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③第欧根尼实际上是用自我理性将自己的任性行为辩护为自然，从这个层面上第欧根尼是将人的理性进行到了极致，是最“人”的人，但在行为表现上却是最像动物的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "用理性为任性辩护为自然，最像人而表现像狗的反差为讲者核心论证。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page19–23 L82–94"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④第欧根尼没有意识到不存在一种超出人眼的自然，他幻想的自然也只是各种习俗、成见建构的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "幻想自然仍在人眼/习俗框架内，是讲者对犬儒的反思批评。",
+          "source_ids": [
+            "m2-0112"
+          ],
+          "locator": "Page17–18 L74–77；Page21 L88"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "逐字段记录；不把讲者重构、未收录的补充讲次和原典史实混同。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与主体的理性(Logos)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "宇宙与人的logos相对，不是神圣logos。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page2–3 L17、22"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 被人所用的东西、语词",
+          "status": "supported_by_compiled_text",
+          "finding": "被人使用的chrēmata及语词并入本体均明确。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page4 L25；Page11 L50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 无认识论、只有语用学(Orthoepeia)",
+          "status": "supported_by_compiled_text",
+          "finding": "不预设僵死真理/意见体系，而强调正确用词。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page5 L28–30；Page11 L50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①把人的主体性设立为绝对，人可以自由使用语用学去加工公共话语，去证明自己所想证明的东西，使得人的主体性进入场域论。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "主体性作为场域、私人话语改造公共话语及证明自选论题均有；不是无条件随意真假。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page6–8 L35–41；Page9 L44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②主体是承受者，万物施加到主体上被主体所体验，通过万物被体验的状态决定其是否有本体论地位。",
+          "status": "supported_by_compiled_text",
+          "finding": "承受者/主动事物的标尺解释明确，经验与实践共同确认。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page9–10 L44–47；Page15 L62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "②弃守认识论维度，把人的言语主体化，即在人进行具体语用活动时，自觉的知道词语的正确用法，这种正确用法是被一个虚拟的符号学世界规定的，这个世界对于主体而言是存在的、真实的，并会重新定义主体所认为的现实(人是万物的尺度：对于那些存在的，人的理性会测量出它们是存在的，对于那些不存在的，人的理性会测量出它们是不存在的)。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "弃守、主体化语用、虚拟世界改写现实和尺度说对应；唯一正确用法依情境和承受者限定。序号②重复。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page10–15 L47–62"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "绝对主义命名是讲者明确称冒险、激进的重释，不能据此删除其他研究传统对普罗泰戈拉的相对主义解读。",
+          "source_ids": [
+            "m2-0113"
+          ],
+          "locator": "Page13 L56"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "m2-plato-theaetetus",
+          "relation": "editorial_reading",
+          "locator": "151e–152b，166d–168c",
+          "reason": "对读尺度说及感知差异，也读苏格拉底代拟的普罗泰戈拉辩护，辨认课程“绝对主义”重释。",
+          "verification_scope": "实际核读上述网页段落；不把对话角色言论直接视为作者唯一结论。"
+        }
+      ]
+    },
+    {
+      "code": "2-1-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段记录；不把讲者重构、未收录的补充讲次和原典史实混同。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 世界(Cosmos)与语言(Logos)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "生活世界与语言两个维度。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page2–3 L13–16"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 被人所用的东西、语词",
+          "status": "supported_by_compiled_text",
+          "finding": "沿用被使用的事物与语言的本体观。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page3 L16；Page7 L30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 没有客观的、跨主体的真理",
+          "status": "supported_by_compiled_text",
+          "finding": "客观、公立、跨主体真理被否认。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page3–5 L16–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1 维持话语体系(可被表述即合理)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "可说即有理与维护话语系统的目的明确。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page7 L30；Page17–18 L62–65"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①对任意命题，从正反两方面都可以论证，这是因为否命题对于正命题是虚假的否定，其否定性是由共同的前提建构的，是无法跳出这个前提的。",
+          "status": "overgeneralized",
+          "finding": "正文说大部分正反立场分享隐藏前提，分析的是修辞语境里的构成性否定，摘要“任意命题”会扩展成普遍逻辑定律。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page10–14 L41–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②目的论上可被表述即合理，把命题的可被表述的所有情况看成是平等的，但是被表述的话语不能推翻预设的话语体系，代表古代贵族温和的说服性的政治姿态。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "可表述的平等、不能掀翻体系及温和说服政治均对应。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page7–10 L30–41"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③相对主义是加强版的绝对主义，高尔吉亚的修辞学不仅可以证明陈述命题，还可以证明否定命题，相比绝对主义有明确的目的论维度，姿态上更加保守、守序。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "相对主义作为绝对主义高级版本、肯定/否定都可辩护与更明确守序目的均有。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page15–18 L56–65"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④巴门尼德与高尔吉亚之争：\n\t巴门尼德认为：\n\t\t(1)存在者存在，不存在者不存在。\n\t\t(2)存在与思维是一回事。\n\t\t(3)存在的就能被思考被言说。\n\t高尔吉亚认为：\n\t\t(1)无物存在。\n\t\t(2)即使有东西存在，也不能思维它。\n\t\t(3)即使我们可以思维它，我们也不能言说它。\n\t巴门尼德的论述是递进式的；高尔吉亚的论述是撤退结构的，哪怕(1)被论破，(2)能补上这个缺口，(2)被论破，(3)也能补上这个缺口。二者都是在场形而上学，区别只在于巴门尼德认为存在超脱语言的存在物，这种东西能被言说被思考，而高尔吉亚认为语言本身就是与存在物并列的，话语本身就有存在论地位，所以客观的存在物是不可知的也并不重要。高尔吉亚的(2)(3)只说了一半，(2)没说那一半是：既然我们不能思维存在者，那么它也就不存在；(3)没说那一半是：既然我们不能言说存在者，那么也就是我们不能思考它，那么也就是它不存。所以高尔吉亚的观点也建立在巴门尼德“存在=思维=语言”的基础上，高尔吉亚是一个隐藏的巴门尼德主义者。",
+          "status": "partially_supported_missing_supplement",
+          "finding": "双方三命题见Page2和19；但撤退结构、语言存在论地位及未说一半推演不在已读这份主讲正文，主讲明确另出视频。隐藏巴门尼德主义的简述可见下一讲Page3 L33，仍不足核全部推演。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page2 L13；Page18–19 L65–68"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "末条较长的高尔吉亚/巴门尼德推演尚需主讲预告的另一期视频，不能以三命题相似判定全段通过。",
+          "source_ids": [
+            "m2-0114"
+          ],
+          "locator": "Page18–19 L65–68"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-4-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "逐字段记录；不把讲者重构、未收录的补充讲次和原典史实混同。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 世界(Cosmos)与语言(Logos)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "Cosmos/logos对抗及重合的张力明示。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page2–3 L28–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 事物(事物本就是真实存在的)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者把事物真实性归为非判断的直觉，本批未将其升为皮浪原典定论。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page4–5 L36–43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 悬置(Epoche)",
+          "status": "supported_by_compiled_text",
+          "finding": "悬置一切判断与持续探寻明确。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page5–6 L43–50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2 可能性的相互均衡与做决断的命运的对立",
+          "status": "supported_as_lecturer_reconstruction",
+          "finding": "均衡力量与命运决断为讲者从伦理姿态辨认的隐含目的论，正文明确非皮浪明确自述。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page7 L55；Page11 L67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①将一切判断悬置，无任何认识论预设，始终把事态看成相互均衡的，正反两面随时可以发生扭转，通过探索性的怀疑精神，不断探寻使正反两面相互均衡的因果链条。",
+          "status": "supported_by_compiled_text",
+          "finding": "悬置、不预设认识论、两边加论据、持续探寻及扭转均有。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page5–6 L39–50；Page13–17 L73–85；Page22 L104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②包含神秘的维度，有神秘主义成分，虽然相互均衡的可能性都有完整的因果链，但最后是说不清道不明的命运做出决断。",
+          "status": "supported_as_lecturer_reconstruction",
+          "finding": "完整因果链与命运决断的神秘维度是讲者从姿态推演出来的，文本一致。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page7–9 L55–61"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③心理状态也是各种可能性在均衡中相互博弈的一环，可以与世界进行目的论博弈，需要冷静的进行怀疑性的探索，不断发掘各种因果环节，准备事态的扭转。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "心理状态作为因果链砝码、不动心、目的论博弈及继续发掘两边原因完整对应。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page8–12 L58–70"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "④君主、辅臣、将领、幕僚的心法，但是需要在现有的符号学规则之下进行，没有对符号学秩序进行彻底反思。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "君主参谋应用、规则前提和未彻底反思符号秩序均有；属于讲者当代应用，不等于皮浪的军事教材。",
+          "source_ids": [
+            "m2-0115"
+          ],
+          "locator": "Page14 L76；Page20–21 L96–99；Page25–28 L115–124"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-4-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段记录；不把讲者重构、未收录的补充讲次和原典史实混同。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与记忆(Memory)的对立",
+          "status": "supported_by_compiled_text",
+          "finding": "宇宙与记忆世界场域二分。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page3 L30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 现实(制作、创造)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "现实真实、自己制造衣物与创造现实的联系为讲者推断。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page6 L43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 肤浅、傲慢(没必要理解知识，只需记住)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "傲慢肤浅、记住而不分析知识内部关系明确。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page8–11 L49–84"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3 恢复原状(调和均衡与抉择)",
+          "status": "supported_as_explicit_reconstruction",
+          "finding": "恢复/显露原状调和可能性均衡与现实决断；讲者明确从政治立场反推。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page11–14 L84–93；Page18 L106"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①利用记忆术，把需要记忆的符号图像化，每次回忆时重新调用想象的图像即可，体现了图像化在符号化过程中的优先性。",
+          "status": "supported_as_conjectural_analogy",
+          "finding": "图像化、记忆宫殿与回想图像确实被演示，但Page8明确希庇亚记忆术失传、下面是揣测；不是考证出的本人技术。图像优先性属对此现代示例的概括。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page8 L49；Page15–17 L97–103"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②用记忆固定可能性相互均衡的点，在事物向一方面发展时，将事物的发展嫁接到这一点上，把事物新的状况设定为新的可能性相互均衡的点，恢复各种可能性的相互均衡。",
+          "status": "partially_supported",
+          "finding": "记忆原型作为多种可能性向独一现实的居间有据；“把事物新状况设为新的均衡点”的迭代步骤未在核读段中找到明确表述，不应当作讲者逐句公式。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page11–14 L84–93；Page18–19 L106–109"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③通过一代代集体记忆的传承，自然而然可以得到一套最好的秩序，即习惯法，代表古代贵族的调和习俗与法令的政治姿态。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "集体记忆沉淀秩序与调和习俗法令有据；讲稿用后世自然法说明，不宜把习惯法与自然法无差别等同。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page7 L46；Page19–23 L109–121"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲明确声明记忆术失传、借现代方法揣测，并由政治立场反推目的论。",
+          "source_ids": [
+            "m2-0116"
+          ],
+          "locator": "Page8 L49；Page18 L106"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "2-1-4-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "逐字段记录；不把讲者重构、未收录的补充讲次和原典史实混同。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论2 宇宙(Cosmos)与复数的逻各斯(Logoi)",
+          "status": "supported_by_compiled_text",
+          "finding": "宇宙与复数logos的格位明示，另有自然/习俗表述。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page7 L45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论1 复数的逻各斯(Logoi)",
+          "status": "supported_with_lecturer_reservation",
+          "finding": "讲者说甚至想直接以复数logos/truth作本体，属命名判断。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page7–8 L45–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4 不存在稳固的、能把握一切真理的逻各斯",
+          "status": "supported_by_compiled_text",
+          "finding": "不可预设单一稳固logos统摄真理；保留努力产生新logos可能。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page14 L89–104"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4 无目的，只有不同的分析(记忆不可靠，用记忆调和的失败)",
+          "status": "supported_by_compiled_text",
+          "finding": "记忆证言可能失真、无基本目的的敞开状态明确。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page15–18 L116–125"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "①自然是一阶的逻各斯，公共伦理习俗是二阶的逻各斯，但二者都是不可靠的，前者会带来生老病死，后者会产生法律的强迫和争吵，所以既要反对自然，也要反对伦理习俗，还要反对单一的逻各斯。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "自然一阶、伦理二阶、不可靠的苦难/强制以及反单数logos都明确；这里是本讲对安提丰的解读。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page4–6 L36–42；Page14 L100–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "②真相(Truth)高于现实(Fact)，不同逻各斯对同一现实的解读产生不同的真相，这些不同真相会相互矛盾不断失败，使得主体陷入一种伦理困境。主体对伦理困境的思考能够产生新的逻各斯，刺穿原本的符号框架和伦理框架，颠覆原本的伦理观念，把原先矛盾的真相融贯起来(如柯南、福尔摩斯中的故事)，所以逻各斯是复数的。",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "事实/真相区分、多重解释冲突、伦理冲击、新logos与跨解释融贯逐项有据；柯南例直接出现，福尔摩斯例未在这份正文找到。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page7–13 L45–84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "③安提丰是精神分析的祖师爷，古希腊人认为梦是预言，安提丰指出梦本身没有预言性，是对梦的解读还原了梦的预言性，所以要尝试用不同的逻各斯解释梦境，冒险去创造一种能够为梦境解密的逻各斯。",
+          "status": "supported_as_retrospective_analogy",
+          "finding": "解梦须分析、试用多个logos及创造解谜机制均有；精神分析祖师爷是讲者的回溯类比，不是安提丰所属的现代学科身份。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page2 L23；Page19–23 L128–151"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲把演说家与智者安提丰视为同一人是一项明确选择的学术意见，未消除身份争议；借Michael Gagarin的解释，不等于本批读过该论文。",
+          "source_ids": [
+            "m2-0117"
+          ],
+          "locator": "Page1 L15–16；Page13 L84"
+        }
+      ],
+      "open_questions": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "2-1-1-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②无界者是完全的形而上的概念，是符号学拟质，只能通过对立面(土)来把握，无界者对应古希腊的时间、命运概念，土水火风各派自然神也要服从命运的安排。",
+      "after": "②无界者是完全的形而上的概念，是符号学拟制，只能通过对立面(土)来把握，无界者对应古希腊的时间、命运概念，土水火风各派自然神也要服从命运的安排。",
+      "kind": "wrong_character",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0099"
+      ],
+      "rationale": "Page 12 L42明确为符号学拟制，Page 13–14继续以虚拟虚构说明。拟质是同音误字。"
+    },
+    {
+      "code": "2-1-1-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①气是基质，气的凝结运动使之实体化为火风汽水土石，这一过程不是物质的自我凝缩，而是其被施加规定性，火是物质中最精纯的施动者，而在序列中越靠后的物质被施加的规定性就越多。",
+      "after": "①气是基质，气可沿稀疏与凝结两个方向变化：稀疏趋于光、火这一去实体化端，凝结使之向风、水汽、水、土、石这一实体化序列变化，这一过程不是物质的自我凝缩，而是其被施加规定性，火是物质中最精纯的施动者，而在序列中越靠后的物质被施加的规定性就越多。",
+      "kind": "summary_misstatement",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0100"
+      ],
+      "rationale": "Page 10–12 L56、L59、L62将光火归于稀疏/去实体化，原摘要把两方向合成凝结而丢失关键差别。"
+    },
+    {
+      "code": "2-1-1-3",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论2 宇宙(Cosmos)与与可讨论的、可书写的思维空间(Topos)的对立",
+      "after": "场域论2 宇宙(Cosmos)与可讨论的、可书写的思维空间(Topos)的对立",
+      "kind": "duplicate_character",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0101"
+      ],
+      "rationale": "Page 8 L35两项对立，摘要重复与字。"
+    },
+    {
+      "code": "2-1-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③赫拉克利特与巴门尼德之争：与教科书体系不同，巴门尼德才是更偏向辩证法的，赫拉克利特是更形而上学的。赫拉克利特虽然提出“活火(Ever-living Fire)”概念，但在场性始终是第一位的，虽然活火作为无占满了整个宇宙，万物在生成(Becoming)中流变，但这种无本身是实体化的，而真正的“无”并没有本体论地位；巴门尼德说真理之路是“存在者存在，不存在者无法存在”，这实际上是把不存在者“无”注册到本体论中，给予无作为存在者(太一)的限制者的本体论地位，所以巴门尼德才是更辩证的，海德格尔把这种无称为形而上学框架，这个框架会裹住、遮蔽实存世界，而“存在者存在，不存在者无法存在”就是在告诫人们，不要把实存的东西和这个框架搞混。",
+      "after": "③赫拉克利特与巴门尼德之争：与教科书体系不同，巴门尼德才是更偏向辩证法的，赫拉克利特是更形而上学的。赫拉克利特虽然提出“活火(Ever-living Fire)”概念，但在场性始终是第一位的，虽然活火作为无占满了整个宇宙，万物在生成(Becoming)中流变，但这种无本身是实体化的，而真正的“无”并没有本体论地位；巴门尼德说真理之路是“存在者存在，不存在者无法存在”，本讲认为这道出了作为存在者(太一)之限制力量的“无”，但也明确指出这一维度尚未被专题化、本体论化，所以巴门尼德才是更辩证的，海德格尔把这种无称为形而上学框架，这个框架会裹住、遮蔽实存世界，而“存在者存在，不存在者无法存在”就是在告诫人们，不要把实存的东西和这个框架搞混。",
+      "kind": "qualification_or_summary_error",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0103"
+      ],
+      "rationale": "Page 37–38 L139、L142明确说此部分尚未进入本体论/未被本体论化；原摘要反向表述。"
+    },
+    {
+      "code": "2-1-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①美德即知识，人不会刻意做坏事，如果做了那是因为人的无知，但是没有对美德本身进行反思。",
+      "after": "①美德即知识，人不会刻意做坏事，如果做了那是因为人的无知，而这种知识须经由对既有善恶标准的质疑和归谬，不能只是照抄共同体的答案。",
+      "kind": "qualification_or_summary_error",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0104"
+      ],
+      "rationale": "Page 36–38 L120、L123、L126详细强调反思既有伦理标准，修正原摘要无条件否认反思的表述。"
+    },
+    {
+      "code": "2-1-2-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④苏格拉底有幻听症，可以听到一个强大的内在声音(实际上就是苏格拉底自己的想法)迫使他遵守道德规范，苏格拉底认为这是神谕，所以苏格拉底认为人注定是无知的，只能通过神谕和紧密的激烈的爱(Eros)获得知识。",
+      "after": "④本讲将苏格拉底的神示解释为类似幻听的内在声音，并推测这是他未认同为自身想法的声音迫使他遵守道德规范，苏格拉底认为这是神谕，所以苏格拉底认为人注定是无知的，只能通过神谕和紧密的激烈的爱(Eros)获得知识。",
+      "kind": "qualification_or_summary_error",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0104"
+      ],
+      "rationale": "Page 8、16、22–23 L34、L58、L76、L79为讲者推断；补说话者归属，避免把追溯解释呈现为已确诊的历史事实。"
+    },
+    {
+      "code": "2-1-2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①表象是不完美的形式，凡是表象，它们的完美的形式都位于理念的宇宙，但是完美的理念世界恰恰离不开不完美的表象世界的支撑。",
+      "after": "①表象是不完美的形式，凡是表象，它们的完美的形式都位于理念的宇宙，讲者进一步批评：完美的理念世界恰恰离不开不完美的表象世界的支撑。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0105"
+      ],
+      "rationale": "Page16、18区分讲者批评与柏拉图本人的立场。"
+    },
+    {
+      "code": "2-1-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③在形式与质料的结合中，形式是主动的，质料是被动的，形式加于质料产生万物，万物就是形式即理念的实例化，而理念是实存于理念世界的，所以是一种实在论。",
+      "after": "③在形式与质料的结合中，形式是主动的，质料是被动的，形式加于质料产生万物，万物就是形式即理念的实例化，而形式内在于现实事物，并非另存于一个独立的理念世界，所以是一种实在论。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0106"
+      ],
+      "rationale": "Page2–3 L12–15明确说明理念内在于现实，区别柏拉图。"
+    },
+    {
+      "code": "2-1-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②芝诺著名的四个悖论：\n(1)飞矢不动(运动的可能性)：飞行的箭矢在每个瞬间都是静止的，所以运动是不可能的。\n(2)无限二分(抵达的可能性)：一个人从A运动到B需要经过中点C，从A运动到C又需要经过中点D，如此不断推演下去，从X运动到Y始终有其他点需要预先经过，所以从X到达Y是不可能的。\n(3)人龟赛跑(超越的可能性)：阿基琉斯与乌龟赛跑，先让乌龟出发一段距离，当阿基琉斯跑到乌龟出发的位置时，乌龟已经向前爬了一段距离了，当阿基琉斯继续追上这段距离时，乌龟又已经向前爬了一段距离，如此不断推演，阿基琉斯永远追不上乌龟。\n(4)阅兵问题(计量的可能性)：观众前有两列队伍，一支向左一支向右。在一个时间的最小元中，如果观众只关注其中一支队伍，则长度的最小元就是这个队伍相对观众走过的距离，但是如果观众同时关注两支队伍，则长度的最小元就变成了两支队伍的距离差，即单个队伍相对观众走过的距离的两倍。如果还有第三支队伍在向其他方向运动，则长度的最小元还会变化，如此可以得出结论，空间的尺度是无定的，所以计量是不可能性的。",
+      "after": "②芝诺著名的四个悖论：\n(1)飞矢不动(运动的可能性)：飞行的箭矢在每个瞬间都是静止的，所以运动是不可能的。\n(2)无限二分(抵达的可能性)：一个人从A运动到B需要经过中点C，从A运动到C又需要经过中点D，如此不断推演下去，从X运动到Y始终有其他点需要预先经过，所以从X到达Y是不可能的。\n(3)人龟赛跑(超越的可能性)：阿基琉斯与乌龟赛跑，先让乌龟出发一段距离，当阿基琉斯跑到乌龟出发的位置时，乌龟已经向前爬了一段距离了，当阿基琉斯继续追上这段距离时，乌龟又已经向前爬了一段距离，如此不断推演，阿基琉斯永远追不上乌龟。\n(4)阅兵问题(计量的可能性)：观众前有两列队伍，一支向左一支向右。在一个时间的最小元中，如果观众只关注其中一支队伍，则长度的最小元就是这个队伍相对观众走过的距离，但是如果观众同时关注两支队伍，则长度的最小元就变成了两支队伍的距离差，即单个队伍相对观众走过的距离的两倍。如果还有第三支队伍在向其他方向运动，则长度的最小元还会变化，如此可以得出结论，空间的尺度是无定的，所以计量是不可能的。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0107"
+      ],
+      "rationale": "正文计量不可能的结论；修正明显病句。"
+    },
+    {
+      "code": "2-1-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③芝诺的四个悖论组成一套完整的体系：\n\t从悖(1)到悖(2)到悖论(3)是递进的，只有承认运动是可能的，才能讨论抵达的可能性，只有抵达是可能的，才能讨论超越的可能性。\n\t悖论(4)是悖论(1)、(2)、(3)的基础，悖论(4)的关键是空间的最小元和时间的最小元的关系，此处的空间就是人认识的外部物体的尺度，是客观侧，而时间是主体内部的连续性，如果时间没有最小元，是无限可分的，那么主体性就不能延续。所以解读悖论(4)的关键在于承认空间的最小元和时间的最小元都是存在的，关键在于不预设一个参考系，比如预设观众是观察者，是静止的，从这个角度上，如果以向左的队伍为观察者，那么向右的队伍和观众是方向相同的，因为要承认空间的最小元的存在，所以二者相对向左的队伍的距离也是相等的，这是一种本体论上的强行闭合。\n\t用这种方式解读悖论(3)：在以乌龟为观察者的时空中，它的时空规范性是自我设定的，即使阿基琉斯比乌龟快，但是阿基琉斯也不能在以乌龟为观察者的时空中把它弥合掉。\n\t用这种方式解读悖论(2)：把终点B设想为绝对禁止的观察点，它是没有主体性的，所以它没有设置这个时空的规范性，所以从A到B的路程是无量度的、可以随意伸缩的。\n\t用这种方式解读悖论(1)：当只存在一个箭矢时，它只有作为观察者的自己，那么它当然就是不动的。\n\t从悖论(4)解读回悖论(1)揭示了巴门尼德的真理：太一是那个不动的存在者，运动只是符号系统的剩余，是符号系统的自我指涉、无限循环过程中被感受到的差异。",
+      "after": "③以下是讲者对芝诺四个悖论的探索性体系重构：\n\t从悖(1)到悖(2)到悖论(3)是递进的，只有承认运动是可能的，才能讨论抵达的可能性，只有抵达是可能的，才能讨论超越的可能性。\n\t悖论(4)是悖论(1)、(2)、(3)的基础，悖论(4)的关键是空间的最小元和时间的最小元的关系，此处的空间就是人认识的外部物体的尺度，是客观侧，而时间是主体内部的连续性，如果时间没有最小元，是无限可分的，那么主体性就不能延续。所以解读悖论(4)的关键在于考察空间最小差异与时间最小间隔的张力；讲者指出二者不能同时被固定，关键在于不预设一个参考系，比如预设观众是观察者，是静止的，从这个角度上，如果以向左的队伍为观察者，那么向右的队伍和观众是方向相同的，因为要承认空间的最小元的存在，所以二者相对向左的队伍的距离也是相等的，这是一种本体论上的强行闭合。\n\t用这种方式解读悖论(3)：在以乌龟为观察者的时空中，它的时空规范性是自我设定的，即使阿基琉斯比乌龟快，但是阿基琉斯也不能在以乌龟为观察者的时空中把它弥合掉。\n\t用这种方式解读悖论(2)：把终点B设想为绝对静止的观察点，它是没有主体性的，所以它没有设置这个时空的规范性，所以从A到B的路程是无量度的、可以随意伸缩的。\n\t用这种方式解读悖论(1)：当只存在一个箭矢时，它只有作为观察者的自己，那么它当然就是不动的。\n\t从悖论(4)解读回悖论(1)揭示了巴门尼德的真理：太一是那个不动的存在者，运动只是符号系统的剩余，是符号系统的自我指涉、无限循环过程中被感受到的差异。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0107"
+      ],
+      "rationale": "Page36–38明确反对二者同时固定；Page34有静止正确写法；Page20、58说明探索性限度。"
+    },
+    {
+      "code": "2-1-3-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②德谟克利特认为无(Void)存在：古希腊语中“无”的原文是\"Mêden\"(Nothing)由\"mê\"(not)和\"den\"(hing)构成，那么“无”就是对一种在符合系统中无意义的东西\"den\"(hing)的否定，所以无是在符号系统中有位置的，是存在的，这突破了巴门尼德“存在者存在，不存在者无法存在”的戒律，使得形而下学成为可能。",
+      "after": "②德谟克利特认为无(Void)存在：古希腊语中“无”的原文是\"Mêden\"(Nothing)由\"mê\"(not)和\"den\"(hing)构成，那么“无”就是对一种在符号系统中无意义的东西\"den\"(hing)的否定，所以无是在符号系统中有位置的，是存在的，这突破了巴门尼德“存在者存在，不存在者无法存在”的戒律，使得形而下学成为可能。",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0110"
+      ],
+      "rationale": "Page16–18 L71–81持续使用符号系统，非符合系统。"
+    },
+    {
+      "code": "2-1-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "②弃守认识论维度，把人的言语主体化，即在人进行具体语用活动时，自觉的知道词语的正确用法，这种正确用法是被一个虚拟的符号学世界规定的，这个世界对于主体而言是存在的、真实的，并会重新定义主体所认为的现实(人是万物的尺度：对于那些存在的，人的理性会测量出它们是存在的，对于那些不存在的，人的理性会测量出它们是不存在的)。",
+      "after": "③弃守认识论维度，把人的言语主体化，即在人进行具体语用活动时，自觉的知道词语的正确用法，这种正确用法是被一个虚拟的符号学世界规定的，这个世界对于主体而言是存在的、真实的，并会重新定义主体所认为的现实(人是万物的尺度：对于那些存在的，人的理性会测量出它们是存在的，对于那些不存在的，人的理性会测量出它们是不存在的)。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0113"
+      ],
+      "rationale": "摘要序号①②②重复，按条目顺序改③，正文论点不变。"
+    },
+    {
+      "code": "2-1-4-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①对任意命题，从正反两方面都可以论证，这是因为否命题对于正命题是虚假的否定，其否定性是由共同的前提建构的，是无法跳出这个前提的。",
+      "after": "①讲者分析智者修辞中的正反辩护：许多看似对立的命题共享隐藏前提，否定词的意义也在这个共同前提下得到规定，因此这种“否定”未必跳出了原有的话语框架。这是对特定修辞运作的解释，不是说任意逻辑命题及其否定都同时为真。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0114"
+      ],
+      "rationale": "Page11 L44限定大部分情况，Page12–14分析具体语言语境中的否定；收回摘要任意命题的过度泛化。"
+    },
+    {
+      "code": "2-1-4-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①利用记忆术，把需要记忆的符号图像化，每次回忆时重新调用想象的图像即可，体现了图像化在符号化过程中的优先性。",
+      "after": "①讲者说明希庇亚的具体记忆术已经失传，继而借现代记忆宫殿作类比和揣测：把需要记忆的符号图像化，将图像定位在熟悉的空间中，回忆时重新调用图像。图像在这一示例中帮助组织符号，但这不是已经证实的希庇亚本人操作程序。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0116"
+      ],
+      "rationale": "Page8 L49明确失传与揣测，Page15–17是讲者示例。"
+    },
+    {
+      "code": "2-1-4-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③安提丰是精神分析的祖师爷，古希腊人认为梦是预言，安提丰指出梦本身没有预言性，是对梦的解读还原了梦的预言性，所以要尝试用不同的逻各斯解释梦境，冒险去创造一种能够为梦境解密的逻各斯。",
+      "after": "③讲者将安提丰类比为精神分析的早期先驱，古希腊人认为梦是预言，安提丰指出梦本身没有预言性，是对梦的解读还原了梦的预言性，所以要尝试用不同的逻各斯解释梦境，冒险去创造一种能够为梦境解密的逻各斯。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "m2-0117"
+      ],
+      "rationale": "正文以可以看成/甚至可以把它看成等措辞作回溯类比（Page2 L23），摘要不应写成已证学科身份。"
+    }
+  ]
+}

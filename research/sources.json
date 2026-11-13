@@ -1,0 +1,70 @@
+{
+  "checked_on": "2026-11-13",
+  "sources": [
+    {
+      "id": "kant-cpr-meiklejohn",
+      "kind": "primary_text_translation",
+      "author": "Immanuel Kant",
+      "title": "纯粹理性批判 / The Critique of Pure Reason",
+      "translator": "J. M. D. Meiklejohn",
+      "language": "en",
+      "url": "https://www.gutenberg.org/ebooks/4280",
+      "text_url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+      "locators": ["Transcendental Aesthetic", "Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena", "Transcendental Dialectic: The Ideal of Pure Reason"],
+      "verification_scope": "书目页确认作者、译者和语种，正文页核对目录及序言节选；未通读，未核对中译本页码。站点自动摘要未作为理论证据。"
+    },
+    {
+      "id": "sep-kant-ti",
+      "kind": "scholarly_reference",
+      "author": "Nicholas F. Stang",
+      "title": "Kant’s Transcendental Idealism",
+      "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/",
+      "language": "en",
+      "locators": ["Introduction", "1. Appearances and Things in Themselves", "6. Things in themselves, noumena, and the transcendental object"],
+      "verification_scope": "核对导言、第一节开头及解释分歧目录；不是原典，不代表解释争论已有定论。"
+    },
+    {
+      "id": "hegel-logic-toc",
+      "kind": "primary_text_translation",
+      "author": "G. W. F. Hegel",
+      "title": "逻辑学 / Science of Logic — Table of Contents",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm",
+      "language": "en",
+      "translator": null,
+      "locators": ["The Doctrine of Being", "The Doctrine of Essence", "Subjective Logic: The Doctrine of the Notion"],
+      "verification_scope": "核对英文篇章标题；本次未核实该网页英译本译者及底本，未核对中译本。"
+    },
+    {
+      "id": "hegel-logic-being",
+      "kind": "primary_text_translation",
+      "author": "G. W. F. Hegel",
+      "title": "逻辑学 存在论 / Science of Logic — Being",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm",
+      "language": "en",
+      "translator": null,
+      "locators": ["Web paragraph numbers 132–134: Being, Nothing, Becoming", "Web paragraph numbers 184–185: To Sublate"],
+      "verification_scope": "阅读上述节选；节号按该网页显示，不冒充所有版本通用编号。页面含列宁标注，需与黑格尔正文区分。"
+    },
+    {
+      "id": "sep-hegel-dialectics",
+      "kind": "scholarly_reference",
+      "author": "Julie E. Maybee",
+      "title": "Hegel’s Dialectics",
+      "url": "https://plato.stanford.edu/entries/hegel-dialectics/",
+      "language": "en",
+      "locators": ["Introduction"],
+      "verification_scope": "阅读导言；仅作为辩证法研究的延伸入口，不证明主义主义编码由黑格尔原文演绎得出。"
+    },
+    {
+      "id": "marx-1844-estranged-labour",
+      "kind": "primary_text_translation",
+      "author": "Karl Marx",
+      "title": "1844 年经济学哲学手稿 异化劳动 / Estranged Labour",
+      "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
+      "language": "en",
+      "translator": null,
+      "locators": ["Opening paragraphs marked XXII", "Transition to XXIII"],
+      "verification_scope": "阅读开头预设批判与劳动产品异化段落；未通读手稿，译者与底本尚待核实。与课程的具体引用关系尚未核对。"
+    }
+  ]
+}

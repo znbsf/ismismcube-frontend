@@ -1,0 +1,142 @@
+{
+  "batch": "07-dollar-f",
+  "checked_on": "2026-11-13",
+  "scope": "公开ASR文本的有定位课程摘要，未核听原音。",
+  "sources": [
+    {
+      "id": "d07-BV1Cq4y1t7YE",
+      "title": "【主义主义】构思（$-2-2）——绝对者意识到自己即将失忆，为了自我拯救而留下各种小纸条提醒自己（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Cq4y1t7YE__9cbca39efb.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–33，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–33",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "38bec5d753c240cc15671c0e6c03509df5a969d4636dcdef31fff8db3289e3de",
+      "git_blob_sha": "288227e248a82a9109105867b3e76c1c0ae28b8c",
+      "upstream_path": "corpus/bilibili-asr/BV1Cq4y1t7YE__9cbca39efb.txt"
+    },
+    {
+      "id": "d07-BV12q4y1x72c",
+      "title": "【主义主义】概念（$-2-2-1）——绝对者作为施动实体的独一性如何走向概念的可数的单一性（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV12q4y1x72c__6ba5e60e2c.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–71，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–71",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "e2e2230e19f65fc15309a0a755bfdbe057bb0825f7796749e608b5689a02d019",
+      "git_blob_sha": "8e9351e98e7fd5cfbeecb239e373cf3178bbb5d9",
+      "upstream_path": "corpus/bilibili-asr/BV12q4y1x72c__6ba5e60e2c.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1Cq4y1t7YE",
+      "series_code": "$-2-2",
+      "title": "【主义主义】构思（$-2-2）——绝对者意识到自己即将失忆，为了自我拯救而留下各种小纸条提醒自己",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "“构思”是主讲为本组选择的名称，用来讲解概念论及主观逻辑。核心比喻是创造者在展开自身时，一并留下能让自己重新认识其创造的凭据。",
+          "source_ids": [
+            "d07-BV1Cq4y1t7YE"
+          ],
+          "locator": "L1–6"
+        },
+        {
+          "text": "本组拟按概念、判断、三段论和对象性展开。概念指向单个环节的可理解性，判断涉及环节之间的联系，三段论则进一步说明过渡如何被中介。",
+          "source_ids": [
+            "d07-BV1Cq4y1t7YE"
+          ],
+          "locator": "L7–21"
+        },
+        {
+          "text": "对象性提醒读者，概念的把握不能仅把一切消解为自己的认识，所构思者还要具有对象的地位。主讲明确说本组只涉及对象性开端，不包括后续机械性、化学性和目的论的全部内容。",
+          "source_ids": [
+            "d07-BV1Cq4y1t7YE"
+          ],
+          "locator": "L22–25"
+        },
+        {
+          "text": "本体论2在此被写成被设定的逻辑框架与设定者的张力；认识论2则涉及创造过程与已经形成、能够直接被认出的概念凭据。",
+          "source_ids": [
+            "d07-BV1Cq4y1t7YE"
+          ],
+          "locator": "L26–33"
+        }
+      ],
+      "editorial_notes": [
+        "失忆者的小纸条、程序员注释和电影情节都是主讲的说明性比喻，不是黑格尔原文中的术语或证明。课程四格与原书Subjectivity/Objectivity的分界不完全一致。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-subjectivity",
+          "relation": "editorial_reading",
+          "locator": "§1318–1322",
+          "reason": "对照主观逻辑的开篇，限定课程“构思”的用法。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV12q4y1x72c",
+      "series_code": "$-2-2-1",
+      "title": "【主义主义】概念（$-2-2-1）——绝对者作为施动实体的独一性如何走向概念的可数的单一性",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲先区分《逻辑学》主观逻辑中的主体性环节与课程对后继主体性哲学的定位，再以“提醒自身的凭据”继续解释概念。",
+          "source_ids": [
+            "d07-BV12q4y1x72c"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "概念按普遍概念、特殊概念与单一性展开。普遍概念被讲解为直接要求普遍效力的规定，但这种效力还需要面对具体适用边界。",
+          "source_ids": [
+            "d07-BV12q4y1x72c"
+          ],
+          "locator": "L12–24"
+        },
+        {
+          "text": "特殊概念通过自身的规定性划出界限；单一性则让概念被把握为一个概念，与其他概念发生联系，因而准备向判断和三段论过渡。",
+          "source_ids": [
+            "d07-BV12q4y1x72c"
+          ],
+          "locator": "L25–41"
+        },
+        {
+          "text": "主讲特别比较本讲“普遍—特殊—单一”与上一组实体关系中的推进次序，认为它们承担不同任务，不能仅按三个词相同便机械套用。",
+          "source_ids": [
+            "d07-BV12q4y1x72c"
+          ],
+          "locator": "L42–58"
+        },
+        {
+          "text": "末段把两处单一性分别解释为不可数与可数的状态，并把目的论1概括为单一性的可数化；主讲也承认原文在其所讨论的问题上并不十分明确。",
+          "source_ids": [
+            "d07-BV12q4y1x72c"
+          ],
+          "locator": "L59–71"
+        }
+      ],
+      "editorial_notes": [
+        "对主体性哲学开端的历史判断、可数与不可数的区分，均按主讲解释标注；不作已核实的通行哲学史结论。生育与算术的比喻说明概念适用语境，不构成对算术等式的反例。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-subjectivity",
+          "relation": "editorial_reading",
+          "locator": "§1323–1329",
+          "reason": "核对概念的普遍性及其内在规定；课程神学化表述另作解释。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "checked_on": "2026-11-13",
+  "reviewer": "practice_completion",
+  "batch": "03-practice-44.json",
+  "batch_sha256": "76ca7130e41abdbb1337c4f97a58fb9beee65ec2eb2234464ee01738bdec1c05",
+  "source_commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+  "review_scope": "独立抽检3个节点、8个Page段落，不是21条全批审定。",
+  "checks": [
+    {
+      "code": "4-4-3-3",
+      "pages": [
+        12,
+        16,
+        17
+      ],
+      "fields": [
+        "course_summary[1]",
+        "course_summary[2]"
+      ],
+      "result": "未发现所检论点与文本冲突。穿越救赎幻想、痛苦经济学、两种死亡驱力、平等及同化异化不再必要均有明确对应。"
+    },
+    {
+      "code": "4-4-4-3",
+      "pages": [
+        20,
+        31
+      ],
+      "fields": [
+        "course_summary[1]",
+        "course_summary[2]"
+      ],
+      "result": "未发现所检论点与文本冲突。Page31确实明确标为下一讲21:50回顾补录，摘要正确揭示来源边界，未假装是本讲原段。"
+    },
+    {
+      "code": "4-4-4-4",
+      "pages": [
+        16,
+        19,
+        21
+      ],
+      "fields": [
+        "course_summary[2]",
+        "course_summary[3]"
+      ],
+      "result": "未发现所检论点与文本冲突。平等、盲目的希望及模型不能直接等同于人体／癌症有明确原文支持。"
+    }
+  ],
+  "unverified": [
+    "其余节点和其他论点未在本次独立抽检中逐项检查。",
+    "原音与实际板书未核。"
+  ]
+}

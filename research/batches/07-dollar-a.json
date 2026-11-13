@@ -1,0 +1,460 @@
+{
+  "batch": "07-dollar-a",
+  "checked_on": "2026-11-13",
+  "scope": "按BV身份整理$系列正文。依据公开仓库ASR全文阅读后的摘要；未回听原音，不将识别错字冒充准确引语，术语按可辨上下文转述。",
+  "sources": [
+    {
+      "id": "d07-BV1HL4y1x7eb",
+      "title": "【主义主义】现代性（$）——本体论和自然秩序的来源，孤独意志的线性独白（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1HL4y1x7eb__c629da1e1b.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR文件L1–68全部正文；识别文本含场域论、先验、系词等同音误写。摘要只取上下文可辨的论点，不据此证明原音逐字一致。未核听原音。",
+      "locator": "L1–68",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "ca993fce7930cde21fa69221ca5c126f517a31d1e0aa38e8e7d97fafaf79ca66",
+      "git_blob_sha": "2df8d6b7536ce845d0b9c0b50cf3a612ac9714d0",
+      "upstream_path": "corpus/bilibili-asr/BV1HL4y1x7eb__c629da1e1b.txt"
+    },
+    {
+      "id": "d07-BV1Er4y1v78m",
+      "title": "【主义主义】理念等级制（$-1）——用绝对知识，消解场域论，给出本体论（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Er4y1v78m__f2eaa125ab.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR文件L1–29全部正文；识别文本含场域论、先验、系词等同音误写。摘要只取上下文可辨的论点，不据此证明原音逐字一致。未核听原音。",
+      "locator": "L1–29",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "2b9e0a853ef492a1f6110fb0329fce6788152d9cd905c91deb4951a3df6c814a",
+      "git_blob_sha": "94322c182716462c4e5c59797fdf42da94279ab8",
+      "upstream_path": "corpus/bilibili-asr/BV1Er4y1v78m__f2eaa125ab.txt"
+    },
+    {
+      "id": "d07-BV18L4y1b7BE",
+      "title": "【主义主义】纯思（$-1-1）——“存在”本身，理念等级制派下来的先锋小弟，试着自居这一角色，你就把握了这个环节（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV18L4y1b7BE__71e8cff860.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR文件L1–29全部正文；识别文本含场域论、先验、系词等同音误写。摘要只取上下文可辨的论点，不据此证明原音逐字一致。未核听原音。",
+      "locator": "L1–29",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "e0fbf1f319fae7d8061283fdf4d7ffe7e962143ba8221efac4e6fb99bbcf6ca5",
+      "git_blob_sha": "8133594fc175b60a9128dce51c9d632cfb5f8329",
+      "upstream_path": "corpus/bilibili-asr/BV18L4y1b7BE__71e8cff860.txt"
+    },
+    {
+      "id": "d07-BV1N34y1B7ai",
+      "title": "【主义主义】虚无化了的存在（$-1-1-1）——纯粹思维运起理智直观，反身自视发现一无所有（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1N34y1B7ai__c3c6954ac0.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–49，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–49",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "1f05554a3f08f018744c01e8782638556f4c39767cf7b7170cbfa0480f9735aa",
+      "git_blob_sha": "35a59cf20e728ded9a77f93029a5ac084941834f",
+      "upstream_path": "corpus/bilibili-asr/BV1N34y1B7ai__c3c6954ac0.txt"
+    },
+    {
+      "id": "d07-BV1Ea411q7VJ",
+      "title": "【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？何为“恶的无限”？（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Ea411q7VJ__abc58d5104.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–50，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–50",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "4dbdacd7f31aae6a41a4c4a9b8025b3fbce671209d0480c98b2cc8c516a9b1f3",
+      "git_blob_sha": "d3c1bfdfe349460a6dc74a6cc4d2c61d1e879cf8",
+      "upstream_path": "corpus/bilibili-asr/BV1Ea411q7VJ__abc58d5104.txt"
+    },
+    {
+      "id": "d07-BV1Sa411z7CS",
+      "title": "【主义主义】一（$-1-1-3）——对于辩证法家而言，何为“自为存在”？何为“1”？（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Sa411z7CS__2aad7b6e94.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–39，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–39",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "20a3098b05908051835db7c1a70f1d7b24fdb1ace98789f86c229a44147a4db5",
+      "git_blob_sha": "5800c562aea9d6cce6b3c44611c6b04b786f1850",
+      "upstream_path": "corpus/bilibili-asr/BV1Sa411z7CS__2aad7b6e94.txt"
+    },
+    {
+      "id": "d07-BV1yb4y1H7Da",
+      "title": "【主义主义】连续统（$-1-1-4）——“纯量”的概念发生学机制（公开ASR转录）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1yb4y1H7Da__ae6289ed5e.txt",
+      "kind": "automatic_speech_transcript",
+      "verification_scope": "实际阅读ASR正文L1–62，据上下文整理主要论点。转录有同音错字及口语断裂；未核听原音，不将摘要冒充逐字引语。",
+      "locator": "L1–62",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "147a33fec5560822b8f3aa20c863c1836caaf3356ef1fec051df22beaf08caa9",
+      "git_blob_sha": "37821c96207df4794891094b58ab01f418f124d5",
+      "upstream_path": "corpus/bilibili-asr/BV1yb4y1H7Da__ae6289ed5e.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1HL4y1x7eb",
+      "series_code": "$",
+      "title": "【主义主义】现代性（$）——本体论和自然秩序的来源，孤独意志的线性独白",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲把$解释为暂不固定场域论，从黑格尔《逻辑学》与自然哲学组织现代性问题。讲者明确区别于4字头通过实践展开场域的方式；$也不意味着数字树之外另加一个固定世界背景。",
+          "source_ids": [
+            "d07-BV1HL4y1x7eb"
+          ],
+          "locator": "L1–4、L20–24"
+        },
+        {
+          "text": "讲者以孤独第一人称意志的连续独白连接逻辑与自然：前者铺设存在、本质、理念等环节，后者被描述为在遗忘自身的自然中展开。由逻辑通向自然、由有机生命通向人的身体性，中间是否缺少发生机制，是他提出的批评问题。",
+          "source_ids": [
+            "d07-BV1HL4y1x7eb"
+          ],
+          "locator": "L5–16、L25–29"
+        },
+        {
+          "text": "现代性在本讲不是按1到4排列的历史分期。不同场域姿态可以同处一个时代并相互转变；讲者借此将经济政治架构、科技和医药文明纳入同一现代性问题域。",
+          "source_ids": [
+            "d07-BV1HL4y1x7eb"
+          ],
+          "locator": "L15–24"
+        },
+        {
+          "text": "线性演绎与循环发生之间的张力是后半讲重点：自然与意识的生产不断重来，但人的学习仍需漫长积累，不能把体系的逻辑顺序当作个人天然拥有全部知识。",
+          "source_ids": [
+            "d07-BV1HL4y1x7eb"
+          ],
+          "locator": "L28–44"
+        },
+        {
+          "text": "收束处以反复推动循环的神作为有限主体的比喻，强调人的生命不能仅作为循环的工具，并主张在人的实践处切断机械目的链。结尾再把上述框架限定为讲者自己的黑格尔阅读。",
+          "source_ids": [
+            "d07-BV1HL4y1x7eb"
+          ],
+          "locator": "L49–60、L64–68"
+        }
+      ],
+      "editorial_notes": [
+        "本讲“神”“疯狂”“奇迹”用于本体论发生模型与修辞，不作为神学事实或精神医学诊断；对黑格尔体系的取舍属于课程解释。",
+        "ASR原文有明显同音错字；这里提供论点摘要及行号，不发布未经校正的逐字引语。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-notion",
+          "relation": "editorial_reading",
+          "locator": "§1277–1281",
+          "reason": "对读逻辑学从实体向概念的过渡；课程的现代性与孤独意志叙述另属讲者解释。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Er4y1v78m",
+      "series_code": "$-1",
+      "title": "【主义主义】理念等级制（$-1）——用绝对知识，消解场域论，给出本体论",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲以3-2-4-1所讨论的绝对知识作为进入条件，尝试把场域论暂置为空，令本体论站到前景。讲者明确说这种缺省不同于4字头的实践机制。",
+          "source_ids": [
+            "d07-BV1Er4y1v78m"
+          ],
+          "locator": "L1–4、L20–23"
+        },
+        {
+          "text": "本体论1被命名为理念等级制，课程将其与语言内部的符号秩序和表面融贯联系起来。它涵盖讲者重新切分的存有论和部分本质论，而不是照搬黑格尔的章节边界。",
+          "source_ids": [
+            "d07-BV1Er4y1v78m"
+          ],
+          "locator": "L4–11"
+        },
+        {
+          "text": "系列计划用后三格的四分结构重排辩证法环节，同时让4保留黑格尔既定三分组织难以容纳的断裂。这里所说的64种可能是组织方案，不证明每个讲次都已完成。",
+          "source_ids": [
+            "d07-BV1Er4y1v78m"
+          ],
+          "locator": "L12–18"
+        },
+        {
+          "text": "讲者一面把逻辑的展开看作主体性发生机制，一面把理念等级制批评为统治关系的精神化想象。最后说明本项目是对黑格尔行文与分段的修补，而非声称所有四分法均为黑格尔原说。",
+          "source_ids": [
+            "d07-BV1Er4y1v78m"
+          ],
+          "locator": "L23–29"
+        }
+      ],
+      "editorial_notes": [
+        "“黑格尔三分法切错”“四段辩证法”等是讲者的解释与评价，应与黑格尔文本自身的篇章组织区分。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-notion",
+          "relation": "editorial_reading",
+          "locator": "§1313–1317",
+          "reason": "对照主观性、客观性、理念的结构；“理念等级制”是课程命名。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV18L4y1b7BE",
+      "series_code": "$-1-1",
+      "title": "【主义主义】纯思（$-1-1）——“存在”本身，理念等级制派下来的先锋小弟，试着自居这一角色，你就把握了这个环节",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "纯思在本讲刻意采用thinking这种活动表达：它尚未具有具体规定，而是准备描述、开启显现的动作。讲者区分尚未反身发现自身为空的纯思，与下一讲走向无的纯有环节。",
+          "source_ids": [
+            "d07-BV18L4y1b7BE"
+          ],
+          "locator": "L1–10"
+        },
+        {
+          "text": "本体论1仍是逻辑秩序，认识论1被解释为系词意识。前者看似完满，后者只是等待内容的空位；两格同为1并不等于已经没有张力。",
+          "source_ids": [
+            "d07-BV18L4y1b7BE"
+          ],
+          "locator": "L4–5、L16–21"
+        },
+        {
+          "text": "本体向体验给出自身、体验又返回本体，构成后续运动的起点。讲者用直观只能看见自身的活动说明空乏，同时把这种空乏视作引出后续规定的条件。",
+          "source_ids": [
+            "d07-BV18L4y1b7BE"
+          ],
+          "locator": "L12–18"
+        },
+        {
+          "text": "君主与小弟、搭戏台的比喻说明：认识的空位先宣称自己没有规定，才能等待所谓更高逻辑降下规定；这将转到$-1-1-1的虚无化。该比喻服务于课程对理念等级关系的解释。",
+          "source_ids": [
+            "d07-BV18L4y1b7BE"
+          ],
+          "locator": "L21–29"
+        }
+      ],
+      "editorial_notes": [
+        "课程明说这里采用的是“黑格尔所理解的爱利亚学派”，不是未经限定地给巴门尼德本人的全部哲学归类。",
+        "ASR“细词”按上下文中的copula功能转述为“系词”；未据此声称已听校原音。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-being",
+          "relation": "editorial_reading",
+          "locator": "§130–134",
+          "reason": "从无规定的开端读起，核对课程“纯思”的起点。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1N34y1B7ai",
+      "series_code": "$-1-1-1",
+      "title": "【主义主义】虚无化了的存在（$-1-1-1）——纯粹思维运起理智直观，反身自视发现一无所有",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲将纯思走向无解释为回溯发现：它并非先有充实内容再被消灭，而是反身察觉自身一直没有具体规定。因而“虚无化了的存在”强调自我觉察，不是经验对象突然消失。",
+          "source_ids": [
+            "d07-BV1N34y1B7ai"
+          ],
+          "locator": "L1–8、L38–42"
+        },
+        {
+          "text": "认识论上的绝对抽象将一切具体规定抽离，仅留下系词活动；本体论仍以逻辑自身的独白为背景。讲者借虚位以待的比喻说明，敞开一个位置并不等于已有内容进入。",
+          "source_ids": [
+            "d07-BV1N34y1B7ai"
+          ],
+          "locator": "L8–18"
+        },
+        {
+          "text": "有与无不作为先已独立的两个东西共享某个基础。课程把它们看作同一活动向外敞开与回溯自身的两面；差异与规定性需要在运动中生成，由此引出变易和定在。",
+          "source_ids": [
+            "d07-BV1N34y1B7ai"
+          ],
+          "locator": "L19–35"
+        },
+        {
+          "text": "结尾比较黑格尔与谢林的动力解释：前者在此被读作不断回溯发现匮乏、因而继续推进，后者被读作外出与返回追求统一。讲者明确借后来的主体性和精神分析语汇帮助理解。",
+          "source_ids": [
+            "d07-BV1N34y1B7ai"
+          ],
+          "locator": "L40–49"
+        }
+      ],
+      "editorial_notes": [
+        "“回溯发现”及两位思想家的动力学对照属于课程重构；不可直接作为黑格尔或谢林原著的逐字定义。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-being",
+          "relation": "editorial_reading",
+          "locator": "§132–134",
+          "reason": "对照有、无、变易，勿把逻辑的无直接当成经验空白。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Ea411q7VJ",
+      "series_code": "$-1-1-2",
+      "title": "【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？何为“恶的无限”？",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "被规定的限定对应本讲的定在：它已具有某种规定，却尚未把规定活动认作自己的活动，因此表现为自在存在，并把限度体验为来自他者。讲者用“被规定”强调这个被动环节。",
+          "source_ids": [
+            "d07-BV1Ea411q7VJ"
+          ],
+          "locator": "L1–6、L14–20"
+        },
+        {
+          "text": "从有与无的不安运动到定在，课程以两种活动形成暂时均衡来说明；但讲者同时质疑从纯有过渡到具体规定时是否偷带规定性，并借谢林的表述补充这一转换。",
+          "source_ids": [
+            "d07-BV1Ea411q7VJ"
+          ],
+          "locator": "L7–12、L47–50"
+        },
+        {
+          "text": "恶的无限是此物与他物相互设定的重复：每个外部根据又需要另一根据，重复关系本身没有给出新的规定。自为存在被预告为返回自身、主动成为自己的界限，从而尝试克服这种摆动。",
+          "source_ids": [
+            "d07-BV1Ea411q7VJ"
+          ],
+          "locator": "L22–37"
+        },
+        {
+          "text": "目的论2在讲者板式解释中涉及定在、自他关系与恶的无限之间的不安；认识论1呈现为纯粹的质及其限度，本体论1仍归于逻辑秩序。课程还区分暂时安定与真正解决矛盾。",
+          "source_ids": [
+            "d07-BV1Ea411q7VJ"
+          ],
+          "locator": "L38–46"
+        }
+      ],
+      "editorial_notes": [
+        "原ASR多处将“恶的无限”识别为“二的无限”、将“自为”写成同音词；摘要依据连续论证转述，未经原音逐字校订。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-being",
+          "relation": "editorial_reading",
+          "locator": "§184–189、262–268",
+          "reason": "对读定在和有限者的超出；课程例子另按转录理解。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1Sa411z7CS",
+      "series_code": "$-1-1-3",
+      "title": "【主义主义】一（$-1-1-3）——对于辩证法家而言，何为“自为存在”？何为“1”？",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "自为存在在本讲被命名为一：定在不再把规定仅归给外部，而通过成为他者的他者，否定外加的规定并关联自身。这种返回试图用自我设定克服上一环节的自他摆动。",
+          "source_ids": [
+            "d07-BV1Sa411z7CS"
+          ],
+          "locator": "L1–8"
+        },
+        {
+          "text": "一排除具体颜色、形状等属性后，表现为能够附着在任一事物上的中立规定。讲者用“不论什么礼品，只要一个”的例子说明，一作为单一性如何开启量，而非直接等同某个具体质。",
+          "source_ids": [
+            "d07-BV1Sa411z7CS"
+          ],
+          "locator": "L9–23"
+        },
+        {
+          "text": "目的论3被解释为通过否定并返回自身，在直接被规定与找不到规定源头的恶的无限之间建立自身基础。课程同时说明，这种基础以抽空具体规定为代价。",
+          "source_ids": [
+            "d07-BV1Sa411z7CS"
+          ],
+          "locator": "L23–32"
+        },
+        {
+          "text": "结尾引入齐泽克式补充：号称完全中立的一，仍可能依靠某个偶然属性充当最小剩余；它的否定力量也借自具体规定本身。讲者据此批评把一先于多作无条件起点的读法。",
+          "source_ids": [
+            "d07-BV1Sa411z7CS"
+          ],
+          "locator": "L33–39"
+        }
+      ],
+      "editorial_notes": [
+        "这里的一是课程对自为存在及量之发生的解释，不是现代数学中自然数1的公理定义。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-being",
+          "relation": "editorial_reading",
+          "locator": "§318–319",
+          "reason": "对读自为存在、一与多、排斥和吸引的过渡。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    },
+    {
+      "id": "BV1yb4y1H7Da",
+      "series_code": "$-1-1-4",
+      "title": "【主义主义】连续统（$-1-1-4）——“纯量”的概念发生学机制",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR正文阅读与摘要，不是原音听校。",
+      "course_summary": [
+        {
+          "text": "本讲以纯量或连续统命名此环节，强调尚未抵达可计数的定量。前一环节抽空具体属性的一，因能附着不同的质而呈现复数化、堆叠的可能。",
+          "source_ids": [
+            "d07-BV1yb4y1H7Da"
+          ],
+          "locator": "L1–20"
+        },
+        {
+          "text": "课程区分向外堆叠与向内程度变化，用红色逐渐消退的例子解释：即使具体质消失，量的意识仍试图让一个承载框架连续在场。零在这个叙述中是质消失后留下的量的位置。",
+          "source_ids": [
+            "d07-BV1yb4y1H7Da"
+          ],
+          "locator": "L21–41"
+        },
+        {
+          "text": "连续性在此不应预先画成已经计数的小单位。讲者反复指出，此时尚无数位和数量的明确区分；堆叠与绵密连续结合，才引向下一步的定量和数学符号。",
+          "source_ids": [
+            "d07-BV1yb4y1H7Da"
+          ],
+          "locator": "L42–48、L61–62"
+        },
+        {
+          "text": "目的论4被说成维持自身却反而依附于质的盲目展开；认识论1是量词意识，本体论1仍是让量能加载于各质的逻辑秩序。课程由此区分纯量的发生描述与后来已经形成的计数规则。",
+          "source_ids": [
+            "d07-BV1yb4y1H7Da"
+          ],
+          "locator": "L49–60"
+        }
+      ],
+      "editorial_notes": [
+        "“连续统”主要处于黑格尔纯量的课程解释中；讲者零散借用区间映射的说法，不能据此当作现代集合论连续统的严格定义。",
+        "红色消退及残留框架是说明量意识的思想实验，不是已经验证的视觉生理实验。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-quantity",
+          "relation": "editorial_reading",
+          "locator": "§395–398",
+          "reason": "核对纯量同时包含连续与离散，避免把二者当互斥事物。",
+          "verification_scope": "已核读所列英文段落；版本由编者选择，不等于课程逐字引文或所用中译本。"
+        }
+      ],
+      "audio_verified": false
+    }
+  ]
+}
