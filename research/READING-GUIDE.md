@@ -14745,6 +14745,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=6/6；claim_count=11；scope=实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：哲人本人的第一人称生存(调和形而上(绝对者/先验框架、理念等级制)与形而下(表象/物/世界性)的对立)；状态：supported_by_compiled_text。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page10–13 L54–63。
+
+形而上绝对者/理念框架、形而下表象/物/世界性与第一人称生存三者均有明示。
+
+核查：本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内现实存承担)；状态：partially_supported_needs_correction。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page14 L66–68；Page16–17 L80–83。
+
+存在与存在者由主体内在实存中介，符号化力量与自我取消均有文本；“内现实存”为误字。
+
+核查：反观念论、绝对者环节、审美伦理跨越；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page3–6 L19–34。
+
+反抗普遍框架见P6，主体反复承载绝对者与审美伦理阶段见P3–5；属讲者后观念论谱系。
+
+核查：直接性、一蹴而就、越拒绝中介越使它运行；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page18–20 L86–92。
+
+P18–20明确展开厌恶中介→推动中介时间化→要求直接性的悖论。
+
+核查：学院派三人是现象学/观念论者、隔岸观火、燃烧一半；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page1 L9；Page8 L44。
+
+三人名单、隔岸旁观及燃烧一半均可定位，但为讲者价值判断，不是他们的自我分类。
+
+核查：有限性、第一人称、先验框架成为交互界面；状态：supported_with_qualification。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)、[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page10–11 L54–57；0234 Page7–10 L27–36。
+
+根讲讲到第一人称背景，完整有限性与交互界面论述在下一讲0234 P7–10；补跨讲来源，不称全部出自根讲。
+
+核查：存在两面、符号化、驱力元根据、自行给出取消；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page14 L66–68；Page16–17 L80–83。
+
+各子命题分见P14、16–17，元根据处讲者自己说术语不重要，不能当精确谢林术语表。
+
+核查：主体实存中介、前符号闭合、意识承担本体疼痛；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page14–17 L66–83；Page20 L92。
+
+实存中介见P16，闭合见P14/16，精神本体性疼痛见P20；是讲者体验隐喻。
+
+核查：克尔凯郭尔与尼采燃烧、共同体转变、精神实践；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page7–8 L39–44。
+
+二人燃烧比拟见P8，共同体符号转变与精神实践见P7；不等于二人病程一致。
+
+核查：二人道出真理后均失去言说能力；状态：partially_supported_needs_correction。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page2–3 L14–19；Page6 L34。
+
+失去言说能力的直接例证只指尼采；此前04也标出此差异，现将过度合写修正。
+
+核查：布尔乔亚、排除绝大多数、遵从逻辑语言逻各斯；状态：supported_with_qualification。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)；定位：Page9–10 L49–54；Page21 L97。
+
+布尔乔亚与门槛见P21，逻各斯见P9–10；“绝大多数”没有量化依据，改为未跨过门槛者。
+
+编者注：燃烧、精神变灵魂和本体性疼痛是课程隐喻。本讲把失去言说能力直接联系于尼采，不能由此合写成克尔凯郭尔也有同样病程；该差异现已进入正文修订。 参考：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)。
+
+定位：Page2–3 L14–19；Page6–8 L34–44。
+
 
 <a id="331"></a>
 ## 3-3-1 存在主义
@@ -14792,6 +14866,84 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；claim_count=11；scope=实际核读Page1–11 L9–41；L45起下一讲排除；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：第一人称此在的生存体验(调和形而上(存在者/先验等级制)与形而下(实存/在世存在)的对立)；状态：supported_by_compiled_text。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page6–7 L24–27。
+
+形而上存在者、形而下实存与第一人称优先性在P6–7明示。
+
+核查：本体论3：实存/生存作为存在与存在者之间的中介(存在作为符号化力量，由此在的活生生体验来揭露)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page8–9 L30–33。
+
+本体存在/存在者由主体生存调和，根讲符号化解释在此延续。
+
+核查：认识论1：主观主义现象学(有限性原则下的第一哲学，从此在的生存出发把握存在)；状态：supported_by_compiled_text。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page9–10 L33–36。
+
+主观主义现象学、有限性原则、知识同一性直接见P9–10。
+
+核查：存在主义被定义为Beingism而非Existentialism；只含少数现象学家；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page1 L9；Page4 L18；Page11 L41。
+
+是讲者重新规定译名与分类，明确排除克尔凯郭尔等；并非英语或德语哲学界的通用词义结论。
+
+核查：存在就是主词谓词中介；状态：partially_supported_needs_correction。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page4 L18。
+
+讲者先作系词类比随即澄清海德格尔原初存在不是等号或简单系词；摘要省略这个限制。
+
+核查：基本存在论、第一哲学、补充黑格尔谢林；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page5–7 L21–27。
+
+第一哲学与对黑谢补充明确；基本存在论称谓见P7。
+
+核查：教育宣传军事动员的现代性危机和来不及；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page1–3 L9–15。
+
+教育普及、宣传机器、民众动员及紧迫性均在P1–3，属讲者历史解释。
+
+核查：阻击生存论运动，试图阻止危机而失败；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page2–4 L12–18。
+
+P3明确“在我看来”并说出现前已爆发；不是二位哲学家共同宣言或已独立核实的因果史。
+
+核查：既不是本体论也不是纯观念论，而是交汇；状态：partially_supported_needs_correction。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page9 L33。
+
+原文正说既是本体论、观念论又是生存论，摘要否定用语相反，须改。
+
+核查：有限性内第一人称优先、畏等体验动力使存在世界化；状态：supported_with_qualification。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page7–10 L27–36。
+
+有限性与优先性见P7–10；讲者同时反驳畏是可体验模式，称其为无意识，不能略去这层争议。
+
+核查：科班教育、环节掌握、主人话语和大炮比喻；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)；定位：Page10 L36。
+
+科班、主人话语、动员、大炮比喻均在P10；“定向性意识形态原浆”非该段原词，只能作编者转述。
+
+编者注：Beingism/Seinism与“真正存在主义”是讲者为本课程设定的命名，不据此判通行的existentialism译名一概错误。“阻击现代性危机”“生产主人话语”是讲者政治性解释。 参考：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)。
+
+定位：Page1–4 L9–18；Page10–11 L36–41。
+
+编者注：讲者用畏说明世界化的动力，但随后批评把畏当作可以直接体验的意识模式，提出无意识解释。摘要保留课程结构时须并读这层反驳。 参考：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)。
+
+定位：Page7–8 L27–30。
 
 
 <a id="3311"></a>
@@ -14841,6 +14993,96 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=13；scope=实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：此在在世存在(调和形而下(沉沦/常人状态)与形而上(本真现身/向死而生)的对立)；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page11–13 L86–105；Page17 L169。
+
+本真现身与沉沦两侧见P11–13，具体调和者明确称烦/操心；宜比笼统此在更精确。
+
+核查：本体论3：死亡作为生存(本真)与实存(沉沦)的中介(死亡使此在可以整体性地把握自身生存)；状态：supported_by_compiled_text。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page16 L166。
+
+死亡使整体把握成为可能并协调生存/实存，正文有完整轴说明。
+
+核查：认识论1：基础存在论/此在的现象学(从此在的生存出发把握存在之为存在)；状态：supported_by_compiled_text。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page17–18 L169–172。
+
+基础存在论等同此在现象学、从其生存把握存在直接见P17–18。
+
+核查：目的论1：绝对中介性/绝对有限性(此在永远是中介性的存在)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page19–20 L175–178。
+
+绝对中介性与有限性是本讲批评结论，明确见P19–20。
+
+核查：三十几节开始、现身与领会两种展开；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page1–3 L10–16。
+
+章节起点与两种展开是讲者概述，现身内向情绪/领会外向知性均有文本；不是原典章节全面审定。
+
+核查：德英术语及符号系统铺设、内禀/向外、世界化；状态：supported_with_qualification。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page2–3 L13–16；Page9 L34–44；Page11 L75–83。
+
+locatedness、understanding、内禀/向外与符号系统在P2/9/11明确；编纂本德文括号有缺字，Befindlichkeit/Verstehen标准拼写非从空括号猜证。
+
+核查：畏之所畏、虚无颤抖、无根性；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page9 L44–51；Page14 L124–142。
+
+基本畏与不知所畏见P9；颤抖及无根解释见P14，是讲者谢林化解释。
+
+核查：寻视好奇、命题闲言、两可沉沦的必然链；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page3–4 L16–19；Page8 L31；Page12 L98–100。
+
+两路径与沉沦确有，但P12明确保留透彻领会不必沉沦；现摘要“最终导向”过度单线化。
+
+核查：类似黑格尔微观辩证法且每节有小辩证法；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page23–25 L188–194。
+
+结尾明说每节小辩证法、时间环节化；这是讲者比较判断。
+
+核查：精神现象学倒插本质论中间、无两侧准备；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page7 L28；Page9–10 L49–69。
+
+P7/9–10直接提出该图示比喻；讲者还说自己记不准逻辑学序列，不是海德格尔自述写法。
+
+核查：无根/自展开与谢林收缩、铺设瞬间无自我同一；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page13–15 L109–161。
+
+各子命题完整见P13–15；此为课程的谱系解释。
+
+核查：死亡本真、突破常人、整体把握专题化；状态：supported_by_compiled_text。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page15–16 L156–166。
+
+P15–16逐项给出死亡领会、常人击穿、整体生存和专题化。
+
+核查：绝对虚无毁灭中介本真/沉沦，操心与目的网络；状态：supported_with_qualification。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)；定位：Page16–18 L166–172。
+
+死亡中介及操心网络分别在P16–17；原文还列良心、罪、悔恨为返回本真的环节，不应理解死亡唯一途径。
+
+编者注：领会并不必然沉沦：讲者在Page12明确保留整体、透彻的领会。这一限定现补进正文。死亡之外，讲者还列良心、罪和悔恨作为从非本真返回本真的环节。 参考：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)。
+
+定位：Page12 L98–100；Page17–18 L169–172。
+
+编者注：“倒插《精神现象学》进《逻辑学》”“谢林收缩”与时间只是微观逻辑环节，均为讲者的比较重构，不是海德格尔的创作自述。编纂本德文术语有缺字，尚未核原板书。 参考：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)。
+
+定位：Page7–10 L28–69；Page14 L134–142；Page23–26 L188–197。
+
 
 <a id="3312"></a>
 ## 3-3-1-2 人道主义的存在主义
@@ -14889,6 +15131,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35；audio_check=not_performed；human_approval=False。
+
+核查：场域以自为意识出神调和；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 19–23 / L67–87。
+
+Page 21、23明确场域由虚无维持；出神是主体性描述，不能取代明确格位中介。
+
+核查：散朴性、本质与存在的中介；状态：supported_with_qualification。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 22–24 / L82–92。
+
+两端为事实性/偶然性与本质，调和者明确是存在；原摘要绕写中介而未点名。
+
+核查：现象学化辩证法；隐德莱希铺设四种结构；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 25 / L95。
+
+主体、世界、他者、自我异化的辩证展开有据，但全文未见隐德莱希；删除无据术语。
+
+核查：目的论2：拒斥中介性(自欺作为二阶自由来设立本质的规范性，对抗绝对者的中介要求)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 12–13、26–34 / L42–45、L98–122。
+
+以自欺、第二阶自由设本质并拒绝绝对者中介，是本课自己的结构化解释。
+
+核查：问题意识作为中介与绝对者的问题；无知打破等级制；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 1–6 / L9–24。
+
+从谢林/黑格尔问题引入主体、世界关系与原初意志，支持课程框架，未核作萨特原典自陈。
+
+核查：绝对者可以不存在的自由；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 7 / L27。
+
+Page 7专门说萨特此处不用自由而用可能性；摘要抹去了这个术语区分。
+
+核查：非定位自我意识与对象在本质符号网络中的定位；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 9–10 / L33–36。
+
+本讲确以胡塞尔、自我集、非定位性作解释；自我集术语未据原文校定。
+
+核查：自在的有根意向性、自为的无根意向性及抽离对象；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 11–15 / L39–51。
+
+讲者以根、问题意识及笔/私奔例解释；不能直接当成萨特原典定义。
+
+核查：自欺中介自在、自为，一二阶无知；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 10、30–31 / L36、L110–113。
+
+本版已经用讲者重构限定；Page 30–31确有两阶无知，保留先前修订。
+
+核查：自由抛弃自由、真诚认同本质，自欺是自由衍生及本质发生；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 16–17、24、26–29 / L54–57、L92、L98–107。
+
+讲者与其归给萨特的自欺批评拉开距离，明确提出自己的辩证辩护。
+
+核查：存在先于本质、复数主体与共在规范性；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 18、31–34 / L62、L113–122。
+
+存在先行及我/他人分裂、共在设规范性均在课程，但这里以讲者重构的我思和他者结构论证。
+
+核查：他人是地狱首先指内在他者深渊；状态：supported_with_qualification。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)；定位：Page 32 / L116。
+
+这是本讲的解释，原句未标归属；加明确限定避免冒充萨特公认释义。
+
+编者注：本课使用谢林、黑格尔与现象学术语重构萨特；“自我集”沿用编纂文本，尚未据原音或萨特原文确定术语。自在/自为的“有根/无根意向性”、他人地狱的内在他者解释，均按课程转述。 参考：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+定位：Page 9–15、32 / L33–51、L116。
+
 
 <a id="3313"></a>
 ## 3-3-1-3 政治的理性主义
@@ -14930,6 +15252,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：理性(政治理性/实践理性)调和形而下(庸常世界的二元对立)与形而上(崇高的短路/事件)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 8–10 / L30–36。
+
+政治/实践理性调和庸常二分与崇高短路，讲者明确用于格位。
+
+核查：本体论3：历史调和共在(人类主体间性)与自然(主客体关系)的对立(辩证法的历险即是历史本身)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 11–13 / L39–45。
+
+历史作为共在（主体间）和自然（主客）关系的调和明确。
+
+核查：认识论1：知觉现象学/身体现象学(有限性原则下的现象学，既是有限性的辩护又是绝对化的依据)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 13–14 / L45–48。
+
+有限性既是限制又为行动提供绝对化依据，是讲者把知觉现象学与政治论述联结的阐释。
+
+核查：目的论3：失败调和安然接受中介(海德格尔的环节论)与极端自由(萨特的反本质主义)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 14–15 / L48–51。
+
+讲者以“我觉得”提出由失败调和，属课程定格。
+
+核查：知觉优先，有限性绝对化并合法化行动；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 1、13–14 / L9、L45–48。
+
+Page 1谈知觉优先，Page 13–14用有限性说明实践合法性。
+
+核查：从知觉/身体现象学贯通到实践理性；状态：supported_with_qualification。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 8、13–14 / L30、L45–48。
+
+确有此连接，但 Page 8先声明不想牵强结合两书；是本课尝试，不是已据原典确证的方法同一。
+
+核查：辩证法限定于主体关系，批评自然辩证法及强制中介；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 2–3 / L12–15。
+
+课程明确归给梅洛庞蒂并批评恩格斯、布尔什维克；不扩展为其全时期无条件立场。
+
+核查：不能强令绝对者中介，历史的扬弃有剩余；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 3、11、15–16 / L15、L39、L51–54。
+
+课程关于主客与人际关系的限域论证、以及剩余代价均有对应。
+
+核查：海德格尔只有环节、萨特只有绝对自由；政治理性居中；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 4–8 / L18–30。
+
+本课为了定格作的简化对照；不是两人完整哲学的事实性总括。
+
+核查：知性微调与理性宏观调和均须保持理智；状态：supported_with_qualification。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 10 / L36。
+
+Page 10把微观/宏观区分先归给另一未具名理论家，再用于说明梅洛庞蒂兼顾；不能当作其独创术语。
+
+核查：中介只替换一端，扬弃留苦难；过早实践批评；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 9、15–16 / L33、L51–54。
+
+辩证机制、剩余、理论未成熟即实践的说法均有，属于讲者重构的政治批评。
+
+核查：承认必然失败是反中介的正确方式；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)；定位：Page 16–18 / L54–60。
+
+正文随即批评该姿态使实践退缩，主张冒险；原摘要把被批评策略无条件称正确。
+
+编者注：本讲把《知觉现象学》与《辩证法的历险》的有限性/实践问题联结，同时承认不愿牵强结合两书。“只在主体关系中有辩证法”、海德格尔/萨特两极对照、微调/宏观区分皆为此课重构，尚未逐句核对梅洛庞蒂原著。 参考：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)。
+
+定位：Page 2–14 / L12–48。
 
 
 <a id="3314"></a>
@@ -14977,6 +15379,90 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：神与诸神由本有(存在论化的原初事件)协调(前本体论的前沿阵地)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 17–19、29 / L62–72、L123–125。
+
+Page 29明确神、诸神由本有协调，并解释场域为前本体论。
+
+核查：本体论3：存在与存在者由存在论调和(晚期谢林式的存在论发生学)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 14、29 / L47、L123。
+
+存在、存在者由存在论调和为原文格位；晚期谢林是本讲解释路径。
+
+核查：认识论1：晚期谢林的存在论化/生存论化的现象学(人类理智最后的理论化努力)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 29–30、32 / L126–131、L155。
+
+Page 29–30明确晚期谢林存在论和生存论化现象学，末尾称最后调和努力。
+
+核查：目的论4：呼唤/跳跃(前符号学的、无声的召唤，要求此在在未来之神的穿身而过中成为自身)；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 28–31 / L117–145。
+
+呼唤/跳跃、无声寂静与成为未来自己均有对应。
+
+核查：本有为架构铺设原初事件，非宇宙爆炸，重置游戏规则；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 1–6 / L9–24。
+
+全文以使有、世界化及非预设物理定律世界解释。
+
+核查：事件前无场域无主体，使有可能；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 3 / L15。
+
+Page 3明确；这是本课存在论阐释，不能理解为已证物理宇宙起源。
+
+核查：全书六环节：回响、传送、跳跃、建基、未来者、最后神；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 4–5、13 / L18–21、L44。
+
+Page 4明确全书八部分、中间六环节。旧注已区分，正文仍说该书分六，现直接修限定。
+
+核查：各环节描述及跳跃的向死而生核心；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 9–14、19 / L32–47、L72。
+
+回响现代病症、传送观念论、跳跃裂缝、建基结构、将来者诗人、最后之神闭合均逐项对应。
+
+核查：最后之神撤场与此在涌现同一过程，橡皮泥指纹剩余；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 15–24 / L50–105。
+
+Page 15–24确有交错/指纹/缝合剩余说，是讲者跨谢林与拉康结构的解释。
+
+核查：主体化=绝对者闭合且互为最后之神，是海德格尔大胆结论；状态：partially_supported_needs_correction。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 23–28 / L92–117。
+
+讲者反复标为自己的大胆揣测，Page 28又否定两个意识对称反向生存的直观理解；摘要遗漏归属与限制。
+
+核查：前语言寂静，无需预期/言辞，直面未来成为自己；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 27–31 / L114–145。
+
+Page 27–31原文支持，强调呼唤不是听见的言词。
+
+核查：宗教但非经院、谢林探索终结、后现代思之神学；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)；定位：Page 20–21、31–34 / L77–82、L147–184。
+
+这些判断均由讲者明示其评价；Page 20–21、31–34支持，非学界通说。
+
+编者注：本有、最后之神与主体性在此通过晚期谢林和拉康作解释。讲者把“互为最后之神”明称大胆揣测，并在 Page 28限制为主体的非我化，不能当成海德格尔本人已论证的两个意识对称运动。 参考：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)。
+
+定位：Page 23–28 / L92–117。
+
+编者注：全书八部分与中间六接合须分清；讲者 Page 4 已作区分。正文据此限定为中间六环节，不改变先前关于原著目录的校勘。 参考：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)。
+
+定位：Page 4 / L18。
+
 
 <a id="332"></a>
 ## 3-3-2 真正的生存主义
@@ -15019,6 +15505,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；claim_count=11；scope=Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(先验观念论与辩证法构造的虚假现实世界、知性化的理性框架)与形而上(主体与绝对者的生存论关系、生命意义的定位)的二元对立，由抉择的等级制(审美-伦理-宗教三阶段的抉择进阶)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 3–7 / L15–27。
+
+先验框架被降为形而下，主体/绝对者关系作形而上，以抉择等级制调和；审美伦理宗教是克氏例。
+
+核查：本体论3：主体性的内在体验(绝望、恐惧、热忱、信仰、忧郁等最真实的情绪状态)作为最真实的实在，与绝对者(作为更真实的无限者)构成张力对立，由畏(Angst)作为原初情绪中介；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 7–12 / L27–42。
+
+内在体验与绝对者二分，畏作为原初情绪中介明确。
+
+核查：生存论指南与思辨哲学对立；状态：partially_supported_needs_correction。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 12–19 / L42–63。
+
+前段确说指南，Page 17–19主动修正：指南的理性部分仍属思辨，另一端为生存/当下抉择本身。
+
+核查：黑格尔只给框架样态而非真正存在；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 1、8 / L9、L30。
+
+讲者明说这是克氏对黑格尔的误解/庸俗理解，摘要原说有据但需保留批评归属。
+
+核查：真实内在体验及质的辩证法；概念世界虚假次级；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 2 / L12。
+
+Page 2列绝望恐惧爱恋热忱信仰，并以质的辩证法命名。
+
+核查：抉择驱动三阶段，最终间接与绝对者合一；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 2–7 / L12–27。
+
+等级制与间接合一明确，本课生存论结构解释。
+
+核查：有限理性不能直接把握绝对者，须中介；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 4、7 / L18、L27。
+
+明确有限主体、理性注定失败与间接沟通；不是对宗教经验的独立事实证明。
+
+核查：内在体验优先、日常现实无本体地位；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 7–8 / L27–30。
+
+课堂极端化对照，日常吃喝与亲友确举例；不改作学界定论。
+
+核查：畏非主体控制，由绝对者设立，暴露无根性并导向自由；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 9–12 / L33–42。
+
+Page 9–12完整因果论证支持。
+
+核查：每瞬间抉择、用生命情感调和两重裂隙；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 17–19 / L57–63。
+
+最后把认识论右侧改为生存本身，综合者不停抉择；支持。
+
+核查：用神经递质激素而非语言，代价燃烧寿命；状态：supported_with_qualification。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)；定位：Page 15–16、20–21 / L51–54、L66–69。
+
+讲者先说打个比方，对短寿亦为推测评价，摘要应明确非生理机制和因果结论。
+
+编者注：黑格尔只构造虚假世界是讲者归给克尔凯郭尔、且批评为误解的观点；本课未提供足以独立确认寿命或神经递质机制的证据。相关措辞按生存强度的比喻理解。 参考：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)。
+
+定位：Page 1、8、20–21 / L9、L30、L66–69。
+
 
 <a id="3321"></a>
 ## 3-3-2-1 安放了的实存主义
@@ -15060,6 +15620,98 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=14；scope=Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(审美阶段——无方向、不连续、无负担性的生命意识的逍遥自在)与形而上(伦理阶段——追求绝对的自我中介、将自己设立为符号化的本质)的二元对立，由宗教阶段(重复、天佑)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 2–9、28、38 / L12–33、L225、L255。
+
+审美伦理由宗教调和明确；三阶段细节见全讲。
+
+核查：本体论3：实存(Existence——总是已经存在的、无法被彻底中介的直接存在)与他者(绝对者/上帝——预先中介了一切的中介者)的二元对立，由自身性(Selfhood——前人格化的、符号学意义上的主体性场域、情绪场)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 24–25、39–40 / L211–214、L258–261。
+
+实存/他者由自身性调和，情绪场/前人格场是舒尔茨式读法，讲者并不无保留认同。
+
+核查：认识论2：绝望(作为先验观念论/思辨哲学的驱动机制)与信仰(作为绝对者设立的直接的自我中介方式)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 21–23、41 / L194–208、L264。
+
+Page 41 明示绝望/信仰对立；信仰与外部设立的直接自我中介见21–23。
+
+核查：目的论1：天佑(Begnadung)——维持审美与伦理之间的张力，顶住矛盾，在宗教阶段中以被中介的自我中介的方式承受生存的结构性张力；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 28、41–43 / L225、L264–270。
+
+天佑为维持矛盾、承担任务而非免去伦理张力。
+
+核查：审美无方向、不连续、无负担；伦理自我本质化；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 1–7 / L9–27。
+
+Page 1–7逐步解释，分析用语明确借舒尔茨/齐泽克而来。
+
+核查：伦理失败因总已存在不能完全中介，罪之张力；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 8–11 / L30–59。
+
+骰子点数与起点不能消化的论证支持，罪不指某个具体不良经历。
+
+核查：伦理到宗教用他者的实存辩证法，不同观念论；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 11–13 / L59–85。
+
+讲者分两种机制并用齐泽克视角切换解释。
+
+核查：必然存在、闭合自由、已作抉择无法撤回而畏；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 13–17 / L83–167。
+
+Page 13–17的具体案例与自由挥霍后才意识到对应。
+
+核查：讽刺自怜幽默是无力的自耗须超越；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 18–20 / L170–189。
+
+课程原说，不是针对现实心理症状的诊断。
+
+核查：重复：内容自己中介，中介性由绝对者设立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 22–23、28–34 / L205–208、L225–243。
+
+Page 22–23明确区分内容与中介形式；重复见28–34。
+
+核查：中介性本身英文 messenger；状态：partially_supported_needs_correction。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 22–23 / L205–208。
+
+正文用设定/中介等词，messenger未在本讲出现且不是中介性所用词；删除无据括注，不猜原音。
+
+核查：被中介的自我中介及允许此在/加倍自由；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 27、36–37 / L222、L249–252。
+
+Page 27、36–37明确；允许仍含必须，并非撤销已经存在。
+
+核查：罪人与义人并存、伦理生活持续、天佑新生命；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 26–32 / L219–237。
+
+Page 26–28、31–32明说维持两面矛盾，非后阶段取消伦理。
+
+核查：自身情绪场调和，绝望去自我化显露自身；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)；定位：Page 39–41 / L258–264。
+
+Page 39–41对应；讲者明指为舒尔茨拆解，非克氏原典术语已校定。
+
+编者注：讲者开头说明三阶段与中介性重构借助齐泽克、瓦尔特·舒尔茨；自身性作为前人格情绪场尤其属于舒尔茨式解释，讲者 Page 25 表示不喜欢此路数。此处是课程解释的校对，不把这些术语全归为克尔凯郭尔原著自述。 参考：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)。
+
+定位：Page 1、24–25、40 / L9、L211–214、L261。
 
 
 <a id="3322"></a>
@@ -15109,6 +15761,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(现实——前现代的农奴制德意志世界、康德体系下的野蛮王国)与形而上(理念/规则——席勒意义上的法则的神圣王国、理性的符号学秩序)的二元对立，由诗性存在(诗歌作为造世活动、与诸神讨价还价的符号化行动)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 1–4、17–19 / L9–18、L57–63。
+
+席勒野蛮/法则王国借用、德意志现实与哲学理想张力、诗的调和有据；这些王国不是康德自行命名。
+
+核查：本体论3：理念世界/逻各斯秩序(基督教精神、理性秩序)与自然(前符号化的根据、母性的非理性力量)的二元对立，由存在即诗(符号化的行动=存在本身)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 15–18 / L51–60。
+
+理念/逻各斯/基督教与自然的二分，存在即诗调和明确。
+
+核查：认识论2：哲学(思辨哲学、谢林/黑格尔式的概念体系)与诗性存在论(以诗代思、通过诗歌进行本体论探索)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 21–24 / L69–78。
+
+哲学与诗的存在论对立，谢林黑格尔为对照。
+
+核查：目的论2：循环运动——维持着内在分离的同一、现代的二元分裂在循环中被承受但无法被克服；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 11–15、27 / L39–51、L87。
+
+循环保持内在分离，讲者据未能敞开而不列4。
+
+核查：康德自身性问题及席勒三元启发；状态：supported_with_qualification。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 1–2 / L9–12。
+
+原讲是“我可以用席勒”的框架借用，未证明历史影响链。
+
+核查：诗为高张力的符号化造世而非消遣；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 17–19、26 / L57–63、L84。
+
+创世及探测本体框架是本课明确解释。
+
+核查：书信小说三人物代表建国方略；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 4–11 / L18–39。
+
+名称及建国分工均有，未另核小说原文作者意图。
+
+核查：始祖晨曦、理性正午、母性黄昏构成现代性循环；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 5–12 / L21–42。
+
+人物、时段和力量逐项对应课程，是讲者小说阐释。
+
+核查：反工程师式康德自由，内在他者与晚期谢林相通；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 16 / L54。
+
+Page 16明确比较；不是历史上继承晚期谢林的断言。
+
+核查：诗造世、诸神讨价还价、驾驭生死二分；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 17–26 / L57–84。
+
+本课区分攻本体结构和驾驭内在情感两任务。
+
+核查：太阳循环、栖居只是循环一环；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 11–14、20–21 / L39–48、L66–69。
+
+是视域/文学比喻；Page 21注明“我是这样看待”。
+
+核查：未和解而癫狂，低于晚期谢林则病理化；状态：supported_with_qualification。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)；定位：Page 14–15、27–33 / L48–51、L87–105。
+
+课程确这样警告，但无医学因果证明，须保留评价性质。
+
+编者注：三人物/三时段/建国方略是本讲对《许佩里翁》的解读，未另据小说全文核作者意图；太阳绕地是视域和循环比喻。疾病与智性门槛的联系属于讲者评价，并非医学因果已经成立。 参考：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)。
+
+定位：Page 5–15、27–33 / L21–51、L87–105。
+
 
 <a id="3323"></a>
 ## 3-3-2-3 神-人伦理学
@@ -15157,6 +15889,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(法律的伦理学——僵死的律令体系、共同体的道德规范)与形而上(救赎的伦理学——克里斯特精神的救赎、原罪的宽恕)的二元对立，由创造的伦理学(创造性生存、作为绝对者铺设道德谱系的行动)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 4–5 / L20–23。
+
+法律/救赎由创造伦理学调和，律令体系及救赎明确。
+
+核查：本体论3：命运(生存过程及其结果的一体化)与上帝/绝对者(至高存在、大他者、实体)的二元对立，由自由(即人格/个性——晚期谢林意义上的原初决断、前反思的创造性意志)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 5–7 / L23–31。
+
+命运即过程结果，对上帝/绝对者，由自由人格调和。
+
+核查：认识论2：哲学(思辨化的理论活动)与动员学(自设世界、自我建设共同体的实践智慧)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 7 / L31。
+
+哲学和动员学、自设世界/建设世界明确。
+
+核查：目的论3：创造——超越克尔凯廓尔的重复和荷尔德林的循环，走向主动的创造性精神；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 8 / L34–35。
+
+创造调和重复和循环，不只是简单线性进阶。
+
+核查：三伦理比克氏进一格、违禁快感与律令关联；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 2–4 / L14–20。
+
+123变234及审美快感依赖禁令均在原讲。
+
+核查：救赎协调罪痛，创造领受绝对者使命；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 3、5、7 / L17、L23、L31。
+
+本课三阶段与神人关系重构明确。
+
+核查：人格自由为沉入无意识的非反思决断、铺设秩序；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 6–7 / L26–31。
+
+原初决断和人格创造意志逐项有据。
+
+核查：freedom就是选项选择自由，与此相反；状态：partially_supported_needs_correction。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 6–7 / L26–31。
+
+本讲未给选项定义，且“不是为主词”存在编纂歧义，删除此无据括注。
+
+核查：动员学来自早年马克思主义共同体经验；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 7–8 / L31–35。
+
+讲者明确作此归因，未独立据传记核因果。
+
+核查：因而免于癫狂与早逝得以幸存；状态：supported_with_qualification。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 2–3、8 / L14–17、L34–36。
+
+原讲以“我认为”归因，不能据此证明哲学决定寿命/疾病。
+
+核查：重复天佑后说出天命，创造调和循环；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 3、8 / L17、L34。
+
+本课先后推导明确。
+
+核查：神人理论成功、现实查拉图斯特拉、背离马克思主义；状态：supported_with_qualification。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)；定位：Page 1、7–9 / L9、L31–40。
+
+理论成功明确被限定为现实未成功；背叛/代价属讲者政治评价。
+
+编者注：“幸存”与政治背叛属于讲者评价，未据医学/传记证明因果；理论成功在 Page 9 被明确限定为现实并未成功。Page 6 freedom/主词表述有编纂歧义，不据此臆造英文术语区分。 参考：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)。
+
+定位：Page 6–9 / L26–40。
+
 
 <a id="3324"></a>
 ## 3-3-2-4 超验-生存论
@@ -15198,6 +16010,96 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=13；scope=Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：生存之大全(生存者的主体性场域——包含经验、体验、抉择、认识、思维、想象等一切第一人称内容)与存在之大全(超越者/神、世界、其他实存)的二元对立，由理性(作为无限的哲学化活动，突破符号学秩序并沟通两个大全的媒介)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 2–6 / L12–24。
+
+两大全由理性中介，理性是持续突破符号秩序的哲学化。
+
+核查：本体论3：生存(existence——主体作为自由、作为版本更新器的中介活动)与超验(Transcendent——去主体化的绝对者、神)的二元对立，由超验密码(code of transcendent)——私人的可理解性、非对象化的智性活动的产物调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 4、8–10 / L18、L30–36。
+
+生存/超验由非对象密码沟通、私人可理解性，更新器是课堂比喻。
+
+核查：认识论2：世界探源(Weltorientierung——科学化的固步自封与哲学化的摸索先验框架)与生存的阐明(Existenzerhellung——生存论揭示绝对者外在于自身的真相)的对立；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 10–15 / L38–63。
+
+两项明确；讲者拒绝雅氏形而上学所声称的调和，故列2。
+
+核查：目的论4：无限开放的更新——绝对者通过主体的生存不断地重新本体论化、不断更新版本，目的论完全由超验者决定；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 4–5、15–17 / L18–21、L65–75。
+
+目的由超验决定、持续版本更新是原讲解释。
+
+核查：最后一个系统生存论者；状态：supported_with_qualification。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 2、19 / L12、L83。
+
+本讲称系统化，并称现实生存论运动在此结束；属课程编排判断而非历史唯一终点已证。
+
+核查：两大全内容及理性持续哲学化；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 2–6 / L12–24。
+
+经验体验抉择、世界神及理性沟通均有对应。
+
+核查：密码非对象、领受后符号化、诗/哲学、私人性；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 9 / L33。
+
+Page 9逐项对应，未核为雅氏对交往公共性的全面否定。
+
+核查：私人可理解性英文 intellectual ability；状态：supported_with_qualification。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 9 / L33。
+
+编纂有该英语，但未核为雅氏规范术语；删英文保留中文课义。
+
+核查：科学探源做题、哲学探源摸索框架尚未本真；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 11–12 / L43–48。
+
+两级区分与低阶评价明确。
+
+核查：生存为绝对者外存，阐明走向形而上学密码；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 13 / L53。
+
+Page 13是讲者的译名建议和阐释，未据德文确认词源定义。
+
+核查：假自由、更新器工具；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 4、15–20 / L18、L65–86。
+
+明确是讲者批评而非雅氏自认结论。
+
+核查：边缘濒死犯罪崩溃仍进行理性哲学化；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 5、8 / L21、L30。
+
+Page 5、8具体例支持，非鼓励制造危机。
+
+核查：未解释框架僵化、有限性未坚持；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)；定位：Page 14、22–23 / L58、L92–95。
+
+讲者的问题与主奴/意志批评可定位。
+
+编者注：“最后一个系统生存论者”按本课编排理解；假自由及有限主义批评属于讲者。私人密码、外存、版本更新本轮只核课程，未宣称已核雅斯贝尔斯全体系。 参考：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)。
+
+定位：Page 2–6、9、13–15、19–23 / L12–24、L33、L53–65、L83–95。
+
+编者注：讲者 Page 12–13 说雅斯贝尔斯本拟以形而上学调和，但自己不承认，故列认识论2；这是课程定格与被解释哲学家主张的差别。 参考：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)。
+
+定位：Page 12–13 / L48–53。
 
 
 <a id="333"></a>
@@ -15247,6 +16149,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；claim_count=11；scope=Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(物理世界——能量守恒的物理世界、符号化的公开产物)与形而上(古希腊酒神精神——前符号化的底层驱力、隐匿的潜在力量)的二元对立，由永恒轮回(同一者的绝对自我同一运动、无时间的永恒符号化)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 2–5 / L12–21。
+
+物理能量守恒/酒神前符号驱力由永恒轮回调和明确。
+
+核查：本体论3：生命(作为根基性的权力意志——无脑的、基础的创造力量)与价值(作为权力意志自我中介的剩余产物——符号学架构、道德谱系)的二元对立，由权力意志(纯粹的免于意义的主体性、本体论化的力量本身)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 6–11 / L24–39。
+
+生命基础、价值剩余由本体论化的权力意志调和明确。
+
+核查：认识论3：把握(哲学以智性方式探索绝对者的上升运动)与不想把握(生存论以内在化的方式体验绝对者的矛盾僵局)的对立，由爱命运(Amor Fati——中介中介性、作为绝对者的中介过程而生存)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 11–20 / L39–66。
+
+把握/不想把握与爱命运、中介中介性逐步说明。
+
+核查：三位一体及永恒轮回无时间、过去未来同一；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：本讲0244 Page 1–5 / L9–21；开讲0243 L101。
+
+本课开讲及 Page 1–5明确，系舒尔茨/谢林路径解读，不是无争议的尼采唯一释义。
+
+核查：权力意志为本体论发生力量、免于意义的主体性；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 10–11 / L36–39。
+
+Page 10–11有明确术语释义；未逐字核尼采原文英译。
+
+核查：能量守恒与酒神两种比喻须理解为同一；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 3–5 / L15–21。
+
+Page 3明确两路且批评单靠物理守恒理解。
+
+核查：永恒符号化及前符号驱力共同维持同一，生命即同一者；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 2、4 / L12、L18。
+
+Page 2、4明确，非物理定律验证。
+
+核查：生命根基、价值自中介剩余；不预设元价值；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 6–7 / L24–27。
+
+Page 6–7逐项阐释，是本课对重新评估价值的读法。
+
+核查：拒绝中介反而内在化并生成错误价值/虚无主义；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 8–10 / L30–36。
+
+Page 8–10有完整论证与肯定/否定转化。
+
+核查：爱命运调和智性把握与内在化受苦；自称权力意志；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 12–15 / L42–51。
+
+Page 12–15区分两种姿态并说明我的意志就是绝对意志。
+
+核查：去人格中介中介性、主动定义有限性，我就是绝对者；状态：supported_with_qualification。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：Page 16–27 / L54–87。
+
+确有该说法，但Page26随即限定不是那个人也不是绝对者、而是过程；Page27反对唯我狂妄，补此限制。
+
+编者注：本课明示借瓦尔特·舒尔茨《德国观念论的终结》从晚期谢林理解尼采。“时间幻象”、纯粹免于意义主体性和中介中介性据此作为课程读法；本轮未据尼采原文把它们判为唯一定义。 参考：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)。
+
+定位：Page 9–11 / L33–39。
+
 
 <a id="3331"></a>
 ## 3-3-3-1 斗争的生存论
@@ -15294,6 +16270,92 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=13；scope=Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(观念论/理念论——已经被符号化了的本体论秩序、僵死的理性框架)与形而上(创造——尚未符号化的、正在被符号化的原初力量)的二元对立，由永恒斗争(永不屈服的主体否定性、永不让步的抗争)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 4–5 / L18–21。
+
+已符号化观念秩序/尚未符号化创造，由永恒斗争否定性调和。
+
+核查：本体论3：必然性(由软弱的中介者屈服而产生的僵死本体论秩序——生死、时间流逝、痛苦、罪孽等硬性生存论结构)与可能性/潜能(未被必然性束缚的自由状态、无拣选的自由度)的二元对立，由苦难与善(通过受苦承受可能性并将其设立为新的必然性)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 6–11 / L24–39。
+
+必然/可能以苦难和善、承受后设新必然性调和；讲者区分本体肯定性与场域否定性。
+
+核查：认识论3：哲学/科学/观念论(定律领域、跪倒在必然性裙摆之下的智性活动)与绝望(符号系统崩溃、直面绝对的失败的第一人称体验)的对立，由信仰(对自由的绝对信任——不信任何符号系统预设，只信主体是绝对者的中介活动本身)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 12–16 / L42–54。
+
+哲学科学/绝望由信自由调和，非信任某一神名或符号预设。
+
+核查：目的论1：辩证同一化——通过永恒斗争与必然性背后的力量实现平等对话和同一化；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 26–28 / L98–104。
+
+约伯对设立力量之质疑导向辩证同一化，原讲定格明确。
+
+核查：绝对失败下的意志/智性抗争，不是博弈翻盘；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 1–3 / L9–15。
+
+Page 1–3及生死遗忘罪恶等硬秩序清单均有。
+
+核查：柏拉图以理念世界使苏格拉底永生；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 5–8 / L21–30。
+
+讲者确归给舍斯托夫此读法；不能当作柏拉图动机的独立史实。
+
+核查：已符号化/创造，由永恒斗争而非消极反弹调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 4–7 / L18–27。
+
+Page 4–7说明永不让步和反向规定本体框架。
+
+核查：约伯质疑合法性及威能而与绝对者辩证同一；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 26–28 / L98–104。
+
+Page 26–28确有，属讲者对舍斯托夫读约伯的转述；不当作经文原话。
+
+核查：信仰非神名，乃信自由/平等/中介活动自身；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 15–16 / L51–54。
+
+Page 15–16明确逐项支持。
+
+核查：中介性的中心者 mediating mediativity；状态：partially_supported_needs_correction。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 11、15–16 / L39、L51–54。
+
+原文为主动“中介着的中介性”，不是中心者；误写可能制造中心主体，须修。
+
+核查：幻想强力意志不会被其内容污染；状态：partially_supported_needs_correction。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 20–24 / L72–92。
+
+Page20首先批评的是形式不会污染其承载内容；后述互相污染。原摘要倒置首个批评方向。
+
+核查：智性欲望/死亡驱力分裂污染内容，无纯粹补丁；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 21–25 / L77–95。
+
+Page21–25完整展开，属于讲者从爱欲辩证法批评尼采主义。
+
+核查：偶然内容升格普遍必然导致纳粹灾难；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)；定位：Page 25–26 / L95–98。
+
+Page25–26有此政治批判，不是对纳粹历史因果的独立论证。
+
+编者注：苏格拉底永生与约伯质疑威能是讲者归给舍斯托夫的读法，未据柏拉图原著、约伯经文或舍斯托夫具体章节独立证实。本讲后半段对欲望、纯粹主体性与纳粹的判断则是讲者自己的理论批评。 参考：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)。
+
+定位：Page 5–8、20–28 / L21–30、L72–104。
 
 
 <a id="3332"></a>
@@ -15343,6 +16405,90 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=12；scope=Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(客观时间——因果性关联的生成时间、有限者之间的因果关系)与形而上(主观时间——根据律下的先验构造时间、绝对者为有限者提供根据)的二元对立，由时间(绝对者的自我中介——生存本身作为有限者的中介活动，同时也是绝对者成其为自身的过程)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 7–9 / L29–35。
+
+主观构造/客观生成时间分别对应根据与原因，由时间自中介调和，原讲自称借批康德架设格位。
+
+核查：本体论3：有限者(依傍于符号系统的生存、去时间化的虚无倾向)与绝对者(超越性的、自由的、自己中介自己的无限者)的二元对立，由生存(直接性的、不加反思的主体化中介活动)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 10–14 / L38–50。
+
+有限者/自由超越者以直接生存调和，去时间化导致虚无是课内阐释。
+
+核查：认识论3：先验体系(康德/费希特式的理性主义体系)与怀疑论(笛卡尔式的怀疑)的对立——两者均被雅各比视为虚无主义的不同表现，由信仰(对真实和直接性的信仰——入乡随俗、爱命运、不反思的投入)调和；状态：supported_with_qualification。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 16–18 / L56–62。
+
+初定先验体系/怀疑论，后来提出可合并为一端、另一端启示显现；原轴保留初定格须注变体。
+
+核查：目的论2：厌恶虚无——否定康德式的镜像时间观，以直接生存的充实对抗时间中的空无；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 19–23 / L67–81。
+
+目的否定虚无及康德镜像时间批评明确。
+
+核查：雅各比是与康德费希特同时代的尼采主义者；状态：supported_with_qualification。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：开讲0245 L113；Page 1–3 / L9–17。
+
+讲者是跨时代结构类比，不是历史上追随尼采的学派身份。
+
+核查：批先验综合多余，时间链带出内容和规定；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 11、15–16 / L41、L53–56。
+
+Page 11、15–16逐步对照康德，属课程对雅各比的读法。
+
+核查：康德两时间镜像无规定性；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 7–9、21–22 / L29–35、L75–78。
+
+主观自激发/客观形式时间和镜像批评可逐项定位。
+
+核查：真正时间为生存及绝对自中介，固化杀时间导致虚无；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 9、14–16 / L35、L50–56。
+
+Page 9、14–16有对应，非独立确证雅氏原文术语。
+
+核查：信仰调和体系怀疑、信真实直接、不经先验框架；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 5、14–17 / L23、L50–59。
+
+Page 14–17明确；“不反思”是讲者批判性概括。
+
+核查：入乡随俗、游戏投入，实践尼采爱命运；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 17–18 / L59–62。
+
+Page 17–18是讲者跨时代类比，不能当成雅氏自觉实践后来尼采思想。
+
+核查：跳过主体虚无/否定剩余导致功利游戏精神；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 13、23–29 / L47、L81–101。
+
+Page 23–29完整批评论证；尼采本人应有反思的旧修订与Page13一致。
+
+核查：只中介形式内容而漏掉形式自反辩证法；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)；定位：Page 27–32 / L95–110。
+
+Page 27–32明确形式的反思性也是内容，不能一味拒绝理论。
+
+编者注：讲者先将先验体系和怀疑论作为两端，Page 16–18 又提出将两者合为一端，以显现/启示为另一端；本批保留原轴初定格并记录讲内变体，未用单一版本抹去思考过程。 参考：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)。
+
+定位：Page 16–18 / L56–62。
+
+编者注：“同时代的尼采主义者”“实践爱命运”均是讲者跨时代结构类比，非雅各比历史上追随尼采。“尼采本人应当有反思”的前轮修订在 Page 13得到完整上下文支持。 参考：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)。
+
+定位：开讲0245 L113；Page 13、18 / L47、L62。
+
 
 <a id="3333"></a>
 ## 3-3-3-3 共同体的生存论
@@ -15391,6 +16537,96 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=13；scope=Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(必然性——由符号化和本体论化产生的价值谱系、秩序化的世界)与形而上(混沌——前符号化的原初规定性、作为世界本质的混沌)的二元对立，由强力意志(作为时间性的自激发生成本体论化的力量——同时也是激情的原初情绪、存在论结构)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 6–9 / L34–49。
+
+必然/混沌由强力意志时间生成力调和；激情为原初结构明确。
+
+核查：本体论3：价值谱系(本体论化的产物——道德谱系、符号系统)与时间(永恒轮回的运动本身)的二元对立，由瞬间(主体性——作为完全的完成了的完全有限性、中介着的中介性)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 9–13 / L49–63。
+
+价值谱系/永恒轮回时间以瞬间主体性调和。
+
+核查：认识论3：诗/艺术(与哲学并列、通过感性符号揭示存在之真相的方式)与哲学(概念体系的思辨活动)的对立，由神学/泛神论精神(绝对者不断世界化的宗教性领会)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 14 / L66–68。
+
+诗艺术/哲学由神学泛神论调和是本讲明列格位。
+
+核查：目的论3：复数化——通过人称的复数化(你们/我们)克服孤独，使同一者通过多个中介者实现其自身；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 17–22 / L82–101。
+
+你们我们复数化克服孤独，讲者标为自己的思辨。
+
+核查：1884后重新泛神论、推测读世界时代；状态：supported_with_qualification。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：0246 Page 34 / L118；本讲 Page 14 / L67。
+
+旧修订已加推测，开讲确有“应该”；没有信件日期/原文证明阅读事实。
+
+核查：三次主题跨三书、海德格尔复原体系；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 1–3 / L9–19。
+
+三次与三书的前轮修订得到正文和开讲支持；复原成熟体系是讲者评价。
+
+核查：给妹妹信要求作息身体环境妻子，未成成熟哲学家；状态：supported_with_qualification。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 2–3 / L14–19。
+
+课堂具体说法可定位，但无信件日期编号，传记原件尚未定位；成熟与否为讲者评价须可见说明。
+
+核查：永恒轮回两侧含物理守恒/酒神驱力；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)、[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)；定位：0244 Page 2–5 / L12–21；0247 Page 6–7 / L34–39。
+
+本讲继承333总论，已全文读0244对应段；当前讲重心改为混沌/必然。
+
+核查：强力意志时间自激发、不能去时间、走向轮回；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 7–9 / L39–49。
+
+Page9先有一次“不能要”随即说“不能不要”，上下文支持摘要。
+
+核查：侏儒只见两无限转圈，查拉见瞬间出入口；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 10–11 / L52–55。
+
+Page10–11确有课程解读，未声称原小说图景的唯一释义。
+
+核查：瞬间为完成的完全有限性、英雄沉降作为中介过程；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 3–5、9–13 / L19–29、L49–63。
+
+Page3–5和9–13反复解释，术语明确借舒尔茨及海德格尔。
+
+核查：第一手稿吞食、第四我们、第三你们；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 14–19 / L69–92。
+
+Page14–19明确编号与内容，讲者说明吞食解读与海德格尔不同；未提供手稿号日期。
+
+核查：复数中介克服孤独，跨主体跨物种，鹰蛇表征；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)；定位：Page 20–23 / L95–104。
+
+Page20–23支持，但讲者称“我的思辨”，须标课程重构。
+
+编者注：阅读《世界时代》的信件、给妹妹谈作息环境和妻子的信件，以及四份永恒轮回草稿，本课未给原件编号和日期。本轮确认讲稿确有这些说法，未独立确认书信事实或草稿编年。尼采是否“成熟”是讲者评价。 参考：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)。
+
+定位：开讲0246 L118–121；0247 Page 2–3、14–19 / L14–19、L69–92。
+
+编者注：讲者明确把吞食解释与海德格尔区分，并称从复数人称推出共同体生存论为自己的思辨；跨物种/鹰蛇线索按该课重构，不当作尼采完整理论的无争议归纳。 参考：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)。
+
+定位：Page 17–23 / L82–104。
+
 
 <a id="3334"></a>
 ## 3-3-3-4 金融资本主义
@@ -15432,6 +16668,96 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；claim_count=13；scope=Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12；audio_check=not_performed；human_approval=False。
+
+核查：场域论3：形而下(产业资本——有秩序的传统布尔乔亚经济体系、有机的分类学等级制)与形而上(金融资本——不断自我高阶化的投机游戏、纯化为赌大小的高风险博弈)的二元对立，由生存论危机(始终处在灵肉二分中的焦虑与痛苦、作为精神享乐的身体折磨)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 2–3 / L12–15。
+
+产业有机秩序/金融纯化投机，由灵肉危机调和，皆是讲者建模。
+
+核查：本体论3：钱(通用交换符号——由金融资本的投机活动促使政权进行铸币活动的符号)与罪(金融资本的原罪——掠夺社会财富、使用盘外招的必然性)的二元对立，由对权力的欲求(对布尔乔亚政权的支配欲、极端支配型人格)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 3–4 / L15–18。
+
+钱与罪由政权支配欲调和明确；铸币及原罪并非独立经济实证。
+
+核查：认识论3：享乐(从产业资本中获得的物质过剩——美女、豪宅、美食)与理性(金融投机催生的冰冷秩序理性——高速循环的疯狂理性)的对立，由痛苦(自虐性的压抑——作为享乐的痛苦本身)调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 4–6 / L18–24。
+
+享乐/冰冷循环理性由痛苦调和，痛苦本身享乐的论证明确。
+
+核查：目的论4：偏斜——原子论式的偏斜运动使本体论无法闭合，通过偏斜维持自身异质性的根据；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 7–8 / L27–30。
+
+偏斜、原子四机制、概率不闭合、异质根据均原讲。
+
+核查：金融脱产投机、尼采超人畸形实现；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 1–3 / L9–15。
+
+讲者以丁蟹/华尔街之狼等形象说明一种意识形态类型，不能概括全部金融从业者。
+
+核查：投机思辨词源一体，投入筹码试探本体；状态：supported_with_qualification。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：开讲0247 L104–107；0248 Page 1 / L9。
+
+开讲只用speculation同词作类比，未给词源研究；改为同词双义类比。
+
+核查：精神金融游戏、身体物质享乐，危机痛苦调和；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 2–6 / L12–24。
+
+Page2–6逐项可定位；焦虑/自虐为讲者理论描写，非人物临床诊断。
+
+核查：无法稳定落地，骑士寄生者漂荡；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 1、4 / L9、L18。
+
+Page1、4有相应阶层隐喻与权力不稳定论断。
+
+核查：完全符号化无剩余、钱罪盘外招、支配欲；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 3–4 / L15–18。
+
+Page3–4明确，非法交易必然性为课程断言，不是全部金融行为已证事实。
+
+核查：过度符号化不能有序等级，不能驾驭国家；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 4–5 / L18–21。
+
+Page5对Page4“不够符号化”主动纠正，摘要采用后说正确；超平为编纂词未按技术词猜改。
+
+核查：唯一无意识哲学、物质世界思考；状态：supported_with_qualification。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 3、10–11 / L15、L36–39。
+
+Page3说“甚至可以说”，Page10展开世界自中介，是讲者理论比喻；须避免绝对史实口吻。
+
+核查：伊壁鸠鲁偏斜、概率不闭合、痛苦享乐、完全中介；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 6–8 / L24–30。
+
+Page6–8支持，但原子/概率是课堂模型类比，非金融统计验证。
+
+核查：幻想压抑无产者内在对抗；状态：supported_as_lecturer_interpretation。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)；定位：Page 9–10 / L33–36。
+
+Page9–10是本课政治批评，明确真正对抗被符号系统排除。
+
+编者注：此讲以丁蟹、华尔街之狼等形象建构金融投机的意识形态类型。“必然非法交易”“极端支配型人格”“无法驾驭国家机器”等是讲者理论判断，本轮未用经济数据、个体诊断或历史材料证明为全体金融资本家的共同事实。 参考：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)。
+
+定位：Page 3–6 / L15–24。
+
+编者注：原子偏斜/概率闭合和物质世界思考是本课的模型及哲学比喻，不是经统计检验的金融模型。“唯一无意识哲学”应保留讲者的试探性措辞。 参考：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)。
+
+定位：Page 3、7–11 / L15、L27–39。
 
 
 <a id="334"></a>
@@ -15481,6 +16807,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；scope=全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。；audio_check=not_performed；human_approval=False；claim_count=11。
+
+核查：场域论3：虚构的场域调合理化/必然性的形而下维度(僵死秩序)与暴力/突破性的形而上维度(绝对者的无序)，主体性已被驱逐到虚构世界，只能在小说的多重身份中存活；状态：supported_as_course_grid。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page8–10 L30–36；Page2 L12。
+
+虚构中介合理化必然性与暴力突破性两侧、主体转入虚构都有明确叙述；形而上/下是此处两侧的概括，主体被驱逐是讲者生存论重构，不是临床事实。
+
+核查：本体论3：永生(精神性的综合机制/文本完成)调和可朽者(渴求者)与绝对者的对立，叙事文本是精神性综合机制所书写的每个人的生命史；状态：supported_as_course_grid。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page10–19 L36–63。
+
+永生中介可朽者与绝对者见L36–39；精神综合装配见L45–57；每人生命史与完篇永存见L60–63。三种表达在正文相连接，不只是从标题推出。
+
+核查：认识论4：复调小说(polyphonic fiction)的认识论，作者缺席、多声部共存、人物各自代表一套哲学体系，自我认识被完全敞开为一切可能性；状态：supported_as_course_grid。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page3、5、13 L15、L21、L45。
+
+复调、多声部、不由单个人物代表作者见L15；每人物哲学体系L21；自我认识敞开L45。作者缺席只宜理解为不直接等同某一角色，不是字面不存在作者。
+
+核查：假死刑濒死经验、符号身份复生、主体转入虚构；状态：supported_but_unqualified_reconstruction。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page1–2 L9–12；Page9 L33。
+
+死刑临时获赦与两种死亡的说法确有正文；由此解释主体性与后来创作是讲者推测性重构，原字段没有明确归属，补回。
+
+核查：虚构调和必然/僵死与暴力/混乱，美与强力、无力幻想两种体验；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page8–10 L30–36。
+
+两侧、中介和美/创造力对照均见正文；这些评价指讲者所重构的陀氏立场，不是鼓励现实暴力。
+
+核查：永生中介可朽者与绝对者；精神综合机制装配；绝对者不造残缺灵魂故永生；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page10–17 L36–57。
+
+永生论证见L39；精神机制和人格化他者见L45–57。符合本讲的转述，不等于核验陀氏笔记原话。
+
+核查：永生只能通过文本完成，完篇同作者永存至善；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page11 L39；Page18–19 L60–63。
+
+文本完篇与每人生命史连结在L60–63；“只能”在L39被限定为虚构中永生。属于本讲的叙事学解释。
+
+核查：复调作者不等于单一人物；《罪与罚》理性主义和尼采主义辩护、罪恶痛苦、女性之爱与信仰；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page3 L15；Page5–7 L21–27。
+
+L15明确作者不等于人物；L21–27给出两套辩护、痛苦和女性引向信仰。尼采主义是讲者回溯分类，不可暗示小说人物读过尼采或作品受其影响。
+
+核查：多重身份通过虚构展开，认识论敞开；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：Page2 L12；Page13 L45；Page18 L60。
+
+L12多重身份、L45认识敞开、L60小说里创造力共同支持。这里是讲者对生存的评价，不是作者传记确证。
+
+核查：伦理利他主义、主动爱与宽恕、男权共同体、地上神国；状态：supported_as_lecturer_interpretation。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)、[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：0249 Page12–13、20 L42–45、L66；0250 Page7、11 L29、L43。
+
+伦理利他与男权共同体在本讲L42–45、L66；主动爱、地上神国和宽恕的详细说明在子讲0250，补跨讲定位。
+
+核查：俄罗斯中心联合斯拉夫、欧洲、全人类；符号系统透过诗人发声；状态：supported_with_secondary_attribution。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)、[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：0249 Page2 L12；0250 Page7–9 L29–37。
+
+政治扩展顺序在0250 L29–37，且讲者说是他人从日记推测，摘要未留其二手性质；符号发声在0249 L12，属于根讲。
+
+编者注：本讲的濒死创伤、主体被驱逐及精神只能在小说中存活是讲者重构；L51明确说叙事宇宙是比喻。尼采主义也是回溯分类，不表示陀氏在创作时接受尼采影响。俄罗斯政治理想部分跨到下一讲并是转述研究者；未核其所据日记。 参考：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)、[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)。
+
+定位：0249 L18、L24、L51；0250 L29–37。
+
 
 <a id="3341"></a>
 ## 3-3-4-1 幸存的兄弟主义
@@ -15528,6 +16928,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。；audio_check=not_performed；human_approval=False；claim_count=12。
+
+核查：场域论3：兄弟之爱(主动的爱/active love)调和母性自然(形而下/无序而纯洁)与父性权威(形而上/爆裂的秩序)的对立；状态：supported_as_course_grid。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page9–11 L37–43。
+
+母性自然的无序/纯洁、父性权威的爆裂秩序、主动兄弟之爱三者分别明述；为带性别化的文学象征解释。
+
+核查：本体论3：主动的爱(active love)调和恶(evil/来自女性自然的无规定性与男性的自私嫉妒)与神圣(divine/完美永恒的神圣意志)的对立；状态：supported_as_course_grid。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page12 L46。
+
+恶的无自主规定性及男性嫉妒、神圣的完美永恒、主动爱的中介均来自L46；非关于真实女性本性的事实。
+
+核查：认识论4：反理性主义的敞开，不追问苦难”为什么”，而是通过主动的爱无条件宽恕一切、忍受一切；状态：supported_as_course_grid。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page13–15 L49–60。
+
+反理性、停止追问苦难为什么、无条件爱与宽恕见L49、L57–60；不是未名子一般要求读者放弃思考。
+
+核查：目的论1：一分为多、多合为一的循环运动——父亲分裂为多个儿子，最后再通过兄弟之爱合二为一；状态：supported_but_missing_hypothetical_scope。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page16 L67–68。
+
+一分为多再合一和循环是讲者明言的写作构思解释；L68明确未写完，不能写成既有结局。轴补条件以与feature3一致。
+
+核查：三兄弟：大哥贵族父权、伊万理性现代化与统治工具、阿廖沙隐修和主动爱；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)、[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)；定位：0250 Page2–4 L14–20、Page10–11 L40–43；0249 Page22 L72。
+
+大哥贵族见L17，父权轴见L40–43；伊万见L14；阿廖沙见L17及前章开篇L72。均为讲者人物象征解释，不当原作明言或唯一人物意义。
+
+核查：兄弟之爱调和女性自然污浊/无私与男性盲目秩序；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page9–11 L37–43。
+
+L37–43逐项对应；讲者同时说自然本来纯洁、污浊由男性欲望造成，不能把污浊当作女性先天道德缺陷。
+
+核查：恶的女性自然无规定性、男性自私嫉妒；神圣完美永恒与终极判断；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page12 L46。
+
+L46两侧直接列出，属于讲者本体论格位重构。
+
+核查：主动爱、忍苦、宽恕、越忍苦越趋永恒；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page13 L49。
+
+L49逐项展开，并有帮助他人，不是单靠自我受苦自动达到拯救。原字段在调和语境内可保留。
+
+核查：算计者伊万/拉基金不能理解信仰，阿廖沙虔信、私生子虚无刺父；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page13–15 L49–56。
+
+L49–56相应人物与姿态都有；“凡…都无法理解”是讲者对该文学结构的归纳，不是有关理性者的普遍经验定律。
+
+核查：二人在不思考为什么上相通，无条件爱与虚无行动的对照；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page15 L57–60。
+
+L57–60直接并置，摘要没有混成二人同样伦理立场，可保留。
+
+核查：私生子承担牺牲代价、幸存兄弟摆脱混乱；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page15–16 L61、L66。
+
+正文L61、L66把这视为共同体的成本；是讲者的批判性阅读，不是所有兄弟命运的完整剧情梗概。
+
+核查：父分多子，若续写则重联，男权共同体；状态：supported_as_lecturer_interpretation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)；定位：Page7 L29；Page16 L67–68。
+
+L67–68明确条件推测，现字段已经恢复若作品续写完成，04修订有效；男权性见L29。无需撤回或重复修改该字段。
+
+编者注：三兄弟与俄罗斯政治/教会的对应、女性自然与父性权威的对立都属于课程的象征性阅读，不能当作小说人物的唯一含义或真实性别的本性。作者未写出的兄弟重新联合只保留为讲者设想；本次同步修正目的论轴，原feature3的04修订保留。 参考：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)。
+
+定位：L14–17、L37–49、L67–68。
 
 
 <a id="3342"></a>
@@ -15577,6 +17057,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。；audio_check=not_performed；human_approval=False；claim_count=11。
+
+核查：场域论3：写作/悬搁调和传统(犹太教/形而下)与现代科层制(形而上/理性化体系)的对立，逃避是协调的方式；状态：supported_as_course_grid。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page22–24 L72–78。
+
+犹太传统、现代科层化及写作/悬搁逃避的调和分别有正文；形而上/下是格位位置概括，不是说宗教传统整体属于物理现实。
+
+核查：本体论3：身份辩证法调和淫猥的法(深渊性的大他者意志)与科层制结构(喋喋不休的形式主义)的对立，同一性最终被悲剧性取消；状态：supported_as_course_grid。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page24–28 L78–90。
+
+法作为晦暗大他者意志、科层形式主义、身份辩证法及悲剧取消均明述；不是司法史实描述。
+
+核查：认识论4：善就是不去认识自己(Good is not to know yourself)，无知才是善，认识即邪恶；状态：supported_as_unverified_secondary_quote。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page29–30 L93–96。
+
+该英文句和无知/邪恶扩展均为讲者明述，但他明确只经齐泽克转引并不核卡夫卡文本源头；应保留二手引文限定。
+
+核查：目的论2：悬搁/卡住了陀氏的一多循环——主体无法在符号系统里找到位置，没有最终的审判，只有永恒候审的戒严状态；状态：supported_as_course_grid。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page20–21 L66–69；Page30–31 L96–99。
+
+一多循环被卡住L96–99，符号失位及候审戒严L66–69，均对应；这是本讲目的论重构。
+
+核查：卡夫卡回应宗教大法官、高贵谎言、统治者分裂；状态：supported_but_missing_explicit_reservation。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)、[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：0250 Page17 L71；0251 Page1–9 L9–33。
+
+正文确建立对话，但上一讲末明确不是有意识回答，现句容易误作影响史，补回限定；高贵谎言与统治者分裂来自0251 L9–33。
+
+核查：精英与羔羊均去中心化，无人控制科层制、没有全知大他者；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page5 L21；Page13–18 L45–60。
+
+L21、L45–57、L60明述各子命题，是讲者现代性理论而非统计事实。
+
+核查：城堡象征现代官僚制、主人不现身、K土地测量员未进入城堡；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page10–13 L36–45。
+
+L36–45有叙述，讲者提其他读法后选择本雅明/齐泽克路线；不称唯一文学象征。
+
+核查：《审判》银行高级职员不知自己属体系、不知罪名；符号定位失落；状态：supported_but_plot_interpretation_unmarked。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page12 L42；Page15–16 L51–54；Page20–21 L66–69。
+
+银行职员及不知罪名见L42、L51；把罪解释为不知体系身份是讲者推论，非小说已宣判具体罪名。恢复归属以免当作剧情事实。
+
+核查：法/科层、身份中介；银行职员到政府职员、狗一样死、身份取消；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page24–28 L78–90。
+
+L78–90全部有讲者叙述；“所有人都指向政府职员”属于原讲的夸张归纳，未核原作人人行政身份。可保留作课程解读，但加注不可作剧情事实。
+
+核查：一多循环对照悬搁、符号失位、门不进入与永恒候审；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page20–21 L66–69；Page30–32 L96–102。
+
+L66–69、L96–102对应；《法的门前》与《审判》K的结局被讲者并置，不能理解成同一人物经历。
+
+核查：唯一出路逃避，桑丘写作命名魔鬼幸免；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)；定位：Page32–34 L102–108。
+
+L102–108有逃避及桑丘解释；唯一出路是本讲归纳，不是所有卡夫卡研究的共识。原短篇内容未重新核实。
+
+编者注：本讲主动用《城堡》《审判》和《法的门前》建立跨文本模型；宗教大法官的回应并非有意识的影响史。K不知自己属于体系、所有人都是政府职员、桑丘用写作命名魔鬼均有课程出处，但目前只认证其讲者解释身份，不认证为逐字准确的小说梗概。善不自知一句经齐泽克二手转引，讲者自己未核原出处。 参考：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)、[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)。
+
+定位：0250 L71；0251 L42–45、L87、L93、L105。
+
 
 <a id="3343"></a>
 ## 3-3-4-3 幸福的幸存主义
@@ -15625,6 +17179,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。；audio_check=not_performed；human_approval=False；claim_count=12。
+
+核查：场域论3：荒谬(作为生存的调和)调合理性的精神秩序(形而上)与世界的敌意(形而下)的对立，荒谬是一种均质的普遍生存状态；状态：supported_as_course_grid。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page1–6 L9–34。
+
+理性精神秩序与世界敌意由荒谬中介、均质普遍生存状态均有原说；L29–34同时把均质性批判为幻想，应理解为讲者对加缪的重构。
+
+核查：本体论3：否定的二重性调和封闭实体(单一性/总体性)与复数性(无限循环的时间与无数受苦的主体)的对立；状态：supported_as_course_grid。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page11–14 L59–72。
+
+单一封闭实体、时间循环和复数受苦主体、否定二重性见L59–72，所有组成项可定位。
+
+核查：认识论4：否定的二重化——既对世界的荒谬说”不”、也对自己内心的极端化说”不”，但这种否定性本质上是一种自我肯定的认识；状态：supported_as_course_grid。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page9–10 L49–54；Page18 L92；Page21 L107。
+
+对世界与内心理性极化两次说不见L49–54、L92；双重否定实为肯定是L107的讲者批评，非加缪自称。
+
+核查：目的论3：均衡——协调陀氏的”一多循环”与卡夫卡的”逃避”，以无希望的日复一日的循环来逃避极端；状态：supported_as_course_grid。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page32–33 L140–148。
+
+均衡明确协调陀氏循环与卡夫卡逃避，日复一日逃避极端和放弃希望见L140–148；不是认可普遍无希望人生。
+
+核查：战后反思知识分子、西西弗斯调和理性秩序与世界敌意；状态：supported_as_lecturer_interpretation。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)、[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：0251 Page35 L111后半；0252 Page1–3 L9–19。
+
+战后概括在0251下一讲开头L111；西西弗斯及两侧在0252 L9–19。是讲者的发生学概括，未核加缪生平因果。
+
+核查：荒谬均质普遍、非极端非理性、最低理性调和；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page5–6 L29–34；Page18 L92。
+
+均质普遍在L29–34；最低理性、非肤浅非理性主义在L92，皆有据。
+
+核查：封闭实体与时间/主体复数性由二重性中介、二重性一重化为否定姿态；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page11–14 L59–72。
+
+两侧见L59–67；二重性一重化到否定姿态见L72，非从编号猜测。
+
+核查：同时拒绝荒谬和内心极化，痛苦内在化而不绝望；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page9–10 L49–54；Page18 L92；Page21 L107。
+
+L49–54及L92、L107直接支持；拒绝荒谬并不意味着取消痛苦，原字段末尾已保持这一分辨。
+
+核查：否定自反：不绝望且限制极端理想不择手段；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page18 L92。
+
+L92明确反思、自反、两种限制，原字段正确保持不是一味否定外界。
+
+核查：双重否定本质肯定，小职员自我限制和安稳；状态：supported_as_unmarked_lecturer_critique。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page6 L34；Page19 L97；Page21 L107；Page35 L158前半。
+
+L107是讲者的批评结论，小职员和安稳见L34、L97、L158。字段若不标归属会与加缪自己的理论表述混淆。
+
+核查：协调陀氏地上神国与卡夫卡过度逃避；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page32–33 L140–147。
+
+L140–147明确两端及共同体、逃避自毁；现概括忠实。
+
+核查：无希望循环、避极端平衡、战后法国知识分子渴望安稳；状态：supported_as_lecturer_interpretation。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)；定位：Page19 L97；Page28 L128；Page32–34 L140–152。
+
+L97、L141–152对应；无希望特指拒绝超出现有本体框架的新可能，L128另区分不是明天太阳是否升起。补注防日常绝望误读。
+
+编者注：本讲将小职员幸福、均质荒谬、拒绝未来作为批判性重构，并非加缪本人这样定义自己。其未来指本体结构更新而非普通日历明天（L128）；讲者也承认此立场经激烈反思取得，不是无脑顺从（L116）。本批不采纳讲者战后创伤应激等回溯诊断为医学事实。 参考：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)。
+
+定位：L97、L107、L116、L125–128、L152–158。
+
 
 <a id="3344"></a>
 ## 3-3-4-4 诗性永恒主义
@@ -15671,6 +17305,92 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未逐句复核本条所有摘要细节，亦未核听原视频；二手转录本身的错字、清理及讲次边界仍需原音检查。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。；audio_check=not_performed；human_approval=False；claim_count=12。
+
+核查：场域论3：巴别图书馆(符号系统/象征界)调和时间的拓扑结构(小径分岔的花园/去时序化的永恒循环)与空间的凝缩结构(阿莱夫/去延展化的同时性存在)的对立；状态：supported_as_course_grid。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page2 L12；Page9–10 L33–36；Page15–16 L51–54；Page23–28 L75–100。
+
+时间拓扑/小径、空间凝缩/阿莱夫与符号系统/图书馆都有明文；去时序化采用L33更正后的说法，不采用L15混乱的首述。
+
+核查：本体论3：叙事活动(书写/停笔)调和名字(共时性/理念)与情节(历时性/物质)的对立，叙事学空间获得本体论地位；状态：supported_but_missing_self_correction。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page29–33 L105–125。
+
+名字共时理念、情节历时物质、叙事空间本体地位有据，但L110–115明确进一步改为作者停笔而非一般叙事；轴需体现这一推进。
+
+核查：认识论4：唯梦论——所有认识都是再认识、再现都是再表征，镜像把握即刻产生无本体论根据的虚构叙事；状态：supported_as_course_grid。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page35–36 L131–134。
+
+再认识、再表征、镜像即时虚构及无本体保证均明述。唯梦论不是一切都真是梦，L134明确否认该读法。
+
+核查：目的论4：遗忘/停笔——绝对者不允许写完，主体必须自己去抉择、自己去书写；状态：supported_as_course_grid。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page1 L9；Page37–39 L137–143。
+
+遗忘/停笔、不允许写完及主体自己写有明文，作为课程目的论可保留；不据此断言具体小说均未完成。
+
+核查：讲者推测镜像阶段未完成、可去掉意识时间或空间结构体验另一者；状态：supported_as_lecturer_interpretation。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page2–3 L12–15；Page34 L128。
+
+L12推测身份在当前字段已由04恢复；L15、L128讨论结构悬置。未验证作者实际心理能力，不再增加或撤销旧修订。
+
+核查：《小径》去除空间化后呈现时间拓扑，分岔汇合、不可符号化当下、能指所指短路；状态：partially_supported_needs_correction。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page4–9 L18–33，尤其L33当场更正。
+
+后四项在L18–33都有；但去除空间化沿用了讲者L33刚说就更正的措辞，应使用更正后去时序化/连续化。
+
+核查：阿莱夫无时间中介的空间、二三厘米球、空间同时并存；状态：supported_as_lecturer_interpretation。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page10 L36；Page13 L45；Page15–16 L51–54。
+
+L36、L45、L51–54直接说明；这是文本意象加讲者现象学解释，不是现实物理宇宙测量。
+
+核查：图书馆调和时空、所有排列组成文本宇宙、每个文本是主人能指与双短路；状态：partially_supported_needs_correction。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page23–28 L75–100，尤其L95–100。
+
+调和与组合、双短路见L75–100，但L95–100说每个符号都有可能/都是主人能指，不是每个文本。修改这一粒度。
+
+核查：表征再现、呈现再现、镜像生成虚构叙事与本体框架失效；状态：supported_as_lecturer_interpretation。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page36–38 L134–140。
+
+L134、L137–140均可定位；“反思即梦境”是生成虚构性说明而非睡梦生理命题。
+
+核查：对他人认识梦境化、本真体验靠主体抉择；状态：supported_as_lecturer_interpretation。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page37–38 L137–140。
+
+L137–140直接从主体间性转到抉择，未把虚构误当可免责任。
+
+核查：遗忘/停笔为拯救、主体受不了绝对者悖论、须自担书写；状态：supported_with_overstatement。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)；定位：Page1 L9；Page37–39 L137–143。
+
+L9、L137–143有课程论证；最高是AI强调，不是可比较所有救赎途径的等级证明，改为本讲所谓拯救力量。
+
+核查：《秘密的奇迹》中首尾相同的小说不被允许写完；状态：lecture_claim_conflicts_with_primary_text。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)、[Borges, The Secret Miracle](https://www.keyschool.org/uploaded/Community/Adult_Education/Jorge_Luis_Borges_The_Secret_Miracle.pdf)；定位：Page39 L143；原典PDF第2–3页剧作介绍及第4页末段。
+
+这两项出自L143，不能判为AI捏造；但原典是剧作，主人公最终在意识中完成。已复核02/04指出的冲突，应同时保留课程解释和原典事实，不能直接以解释替代情节。
+
+编者注：L15关于两篇小说时空结构的首述有混乱，L33已更正为时间去时序化，摘要按该更正处理。镜像阶段失败与特殊意识能力仅为讲者推测；本讲还明确说唯梦论不是一切都是梦。每个符号作为主人能指是符号位置解释，不是每个文本都变成一个能指。 参考：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)。
+
+定位：L12–15、L33、L95–100、L134。
+
+编者注：《秘密的奇迹》情节冲突已再次打开原PDF核读：第2页明确为诗剧，第3页说明首尾循环，第4页末主人公在意识中完成。课程“不允许写完”是讲者解释/转述，不能当作小说结局。沿用02-review及04-fidelity-33的原典结论，不撤销其历史记录。 参考：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)、[Borges, The Secret Miracle](https://www.keyschool.org/uploaded/Community/Adult_Education/Jorge_Luis_Borges_The_Secret_Miracle.pdf)。
+
+定位：课程Page39 L143；原典PDF第2–3页L65–86、第4页L135–153；2026-11-13再次核读。
+
+- 编者关联阅读：[Borges, The Secret Miracle](https://www.keyschool.org/uploaded/Community/Adult_Education/Jorge_Luis_Borges_The_Secret_Miracle.pdf)。定位：第2–3页剧作《敌人》介绍；第4页最终完成段。对读首尾循环的剧作与主人公完成创作的结尾，辨别课程不允许写完的阐释和小说事件。
+  核查范围：本批重新打开公开4页PDF，核读L65–86及L135–153。
 
 <a id="34"></a>
 ## 3-4 符号学
@@ -15727,6 +17447,74 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 索绪尔、皮尔斯等不同符号学传统的差异仍须按原著分列，不由本讲统一定义。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=6/6；scope=全部feature_list及axis_list，复合内容分项核对；仅社区讲稿忠实性；audio_check=not_performed；human_approval=False。
+
+核查：符号学与结构主义运动不同；结构主义以符号中介性批评现象学第一人称报告的直接性；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page4–6 L20–26。
+
+Page4明确区分两者；Page5也承认现象学以主体性中介，并提梅洛庞蒂内部批评，不能理解为全部现象学无差别如此。
+
+核查：思想通过语言符号，本体论即语言，语言限制世界结构的表述；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page6–9 L26–35；Page24 L82。
+
+原讲仪表盘比喻讲的是本体论探索的有限性；不是语言任意创造物理世界的实证结论。
+
+核查：意义由系统内部差异关系产生，能指优先且漂浮、无根；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page7–10 L29–38。
+
+油量警示灯说明约定与差异，继而反表征主义和漂浮能指。
+
+核查：主人能指以所指缺失缝合能指链，无意识像语言一样结构；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page10–13 L38–49。
+
+明确以拉康说明，不能追认成索绪尔或一切符号学共同教条。
+
+核查：符号中介超出生存论主体的有限中介；所有本体论操之过急；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page24–27 L82–91。
+
+Page24–25正面展开，同时Page25–27批评这种绝对中介仍由有限主体甩出。
+
+核查：只有离散符号及关系网络才是真实的；状态：needs_qualification。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page16 L58；Page25–27 L85–91。
+
+Page16有唯一real的是语言的说法；Page27离散网络用于反对均质意义介质，且同时批评绝对中介幻觉。旧摘要将两个语境合为无条件排他本体论，遗漏自我限制。
+
+核查：症候学探查符号系统不一致性、症状；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page10–11 L38–41；Page19 L67。
+
+这是讲者对符号学哲学功能的判断，不是词源等同即已验证。
+
+核查：以已结构自然语言把握结构形成悖论；失败道出真理并走向资本批判；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page20–23 L70–79。
+
+Page20–22展开自然语言先于人工模型；Page23说我个人理解，指向实践与capital。必然性是本课程路线主张。
+
+核查：结构/无意识调和意义拟制与符号位面，主体为结构效果；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page11–15 L43–55。
+
+Page11先说右侧结构，Page12立即改右侧符号、结构居间；Page14以real对应结构。现摘要采用改定后的布局。
+
+核查：本体论4为语言/能指系统开放，不预设本体论框架；语言自身有限；状态：supported。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)；定位：Page8 L32；Page15–19 L55–67。
+
+Page15–19明确4=语言/开放，不预设时间空间；Page8说明语言限制。此开放不是无约束的万能表征。
+
+编者注：本条所有“现象学失败”“唯一real”“必须走向资本批判”等表述均是本讲的比较和批判；并非已验证的一切现象学、符号学共识。讲者也反过来批评纯粹解构和绝对中介的幻想。 参考：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)。
+
+定位：Page4–6 L20–26；Page23–27 L79–91。
+
 
 <a id="341"></a>
 ## 3-4-1 结构主义
@@ -15777,6 +17565,74 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 原稿自身的术语混合与括号校订仍需回听；本轮只核编纂文本。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；scope=全部feature_list及axis_list，复合内容分项核对；仅社区讲稿忠实性；audio_check=not_performed；human_approval=False。
+
+核查：索绪尔核心共时性：系统差异而非外部对象决定意义；能指任意；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page3–8 L15–30。
+
+Page3–8给狗/dog及abcd例子，明确共时差异与任意性。
+
+核查：不考虑历时发生学；状态：needs_qualification。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page8–13 L30–45；Page20 L66。
+
+原讲多次说研究时悬置发生学，但Page10又承认索绪尔的结构由社会意识与实践约定而成；不能写成完全否认语言有历史或社会形成。
+
+核查：意指调和历时因果根据与共时横向网络；不是对象直接引发言说而是差异网络；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page13–14 L45–48。
+
+Page13–14明确格位与狗/猫例子；属于讲者的符号学解释模型。
+
+核查：差异原则向他者开放，能指经差异拟制所指效果；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page15–17 L51–57。
+
+Page15–17说明不能得原初本体分类；向他者敞开。
+
+核查：主人能指锚定所指缺失并缝合；取消意识、现象学、先验观念论根基；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page5–7 L21–27；Page9 L33；Page19 L63。
+
+Page5明说用拉康的话；Page9/19给意识分类与现象学批判。此混合解释不等同索绪尔原文。
+
+核查：共时性优先，取消想象回忆判断等意识形态优先区分；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page9–10 L33–36；Page16 L54。
+
+此处意识形态指意识的形态/状态，而非仅政治意识形态，Page9作出限定。
+
+核查：内听觉无优先性，表意系统平等；语言乌托邦拉开符号学运动；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page11–13 L39–45；Page19–20 L63–66。
+
+Page11–13明确平等、任意和乌托邦评价；所谓运动宜理解为课程发展线索，总论区分符号学与运动。
+
+核查：意指关系调和历时性与共时性；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page13–14 L45–48。
+
+直接格位定义完整匹配。
+
+核查：本体论4差异/他者敞开，所指缺失，不存在原初本体分类；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page5–7 L21–27；Page16–17 L54–57。
+
+Page16先误说本体1随即更正4，Page17解释；摘要采用改定版本。
+
+核查：认识论1共时性优先，符号平等任意、意义为差异效果；状态：supported。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)；定位：Page16–19 L54–63；Page4 L18。
+
+Page16–19明说1及平等原则；任意不等于个体随时随意改变社会既有意义。
+
+编者注：本讲把索绪尔符号学、拉康主人能指和对现象学的批判接到同一课程框架。所指永远缺席、取消观念论等是讲者的解释；本批未校索绪尔原典。文中的“意识形态”在相关段落主要是想象、回忆、判断等意识形态学。 参考：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)。
+
+定位：Page5 L21；Page9 L33；Page19 L63。
+
 
 <a id="3411"></a>
 ## 3-4-1-1 结构人本主义
@@ -15820,6 +17676,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 《少于无》此处的具体章页未核；不能把课堂提及当成已核齐泽克原文。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部4个feature与4个axis，复合细节拆项；未核原典与原音；audio_check=not_performed；human_approval=False。
+
+核查：神话素研究原始人类公共无意识结构；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page3–5 L15–21。
+
+Page3–5说明mytheme类比phoneme以及未主体化的公共无意识。
+
+核查：有限能指与无限所指由结构调和；mana缝合无具体所指又代表全部；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page6–7 L24–27；Page16–17 L54–57。
+
+Page6–7直接说明两侧及mana元结构；这里是讲者的有限性论证。
+
+核查：进入符号系统必须整体进入而非逐个符号化；mana代表全部和能指匮乏；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page13–17 L45–57。
+
+Page15–17直接展开；有限词库不能完备把握世界是本讲前提，不等于已核语言学定理。
+
+核查：mana赋魅使语言被当作世界内在机制而非外部信号；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page18–20 L60–66。
+
+Page18–20以mana is mana说明接通、缝合与魔法能指。
+
+核查：修补匠用已有材料补残缺结构，名字语调变格变位解释言语及体验发生；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page28–30 L90–96。
+
+明确称认识论；儿童语言材料例子完整支持。
+
+核查：乱伦禁忌强迫部落向他者开放，被讲作文明前提；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page21–25 L69–81。
+
+Page21–25给交换网络及符号律令，系课程人类学解释；本批不验证史前经验或遗传学推论。
+
+核查：mana在全部意义与无所指之间1/0震颤，为最小循环和意义发生机制；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page30–32 L96–106。
+
+Page30–32直接给目的论1并注明用齐泽克的话。
+
+核查：这是所有神话共有的底层动力学且永不停歇；状态：needs_qualification。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page6–7 L24–27；Page31–35 L103–121。
+
+本讲称意义发生机制、神话元结构；结尾的所有神话共有命题明确说的是乱伦禁忌，不能直接替换成mana震颤普遍经验结论。且实际强迫症循环另有能指链中介。
+
+核查：结构/mana协调有限能指和无限现实所指；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page1 L9；Page6–7 L24–27。
+
+场域两侧及中介明示。
+
+核查：本体4为有限符号把握无限对象失败以及整体进入系统；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page13–15 L45–51。
+
+Page13明确发问为什么4；Page14–15接续。不是数学证明任意有限字母表只能产生有限字符串。
+
+核查：认识1修补匠tinker与体验发生；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page28–30 L90–96。
+
+直接定位认识论与tinker。
+
+核查：目的1为mana全有全无的1/0循环；状态：supported。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)；定位：Page30–32 L96–106。
+
+“无所谓指”可理解为无所指，循环与强迫症类比是讲者借齐泽克的表述。
+
+编者注：“结构人本主义”是讲者自定分类，原文明确说不是humanism；mana的1/0、儿童修补匠和强迫症均按本讲模型阅读。本批未核列维-斯特劳斯原典，不能把全部说明归为其逐字原说或临床结论。 参考：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)。
+
+定位：Page1 L9；Page17 L57；Page28–35 L90–121。
 
 
 <a id="3412"></a>
@@ -15865,6 +17801,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 所述各概念首次提出及成熟时间仍需按研讨班原文逐项定位。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部4个feature与4个axis，复合细节拆项；未核原典与原音；audio_check=not_performed；human_approval=False。
+
+核查：婴儿认同镜中形象为moi，构成想象性的误认；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page6–10 L24–36。
+
+Page6–7说明moi和image；Page9–10强调真实镜子仅模型，不是发育必须见镜子。
+
+核查：大他者/其他不动事物担保想象界与无意识；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page2–3 L12–15；Page8–14 L30–48。
+
+Page2–3给格位，Page8–14用柜子、目光、不变符号秩序说明。它是讲者的阶段解释，原讲还区分大写他者和成熟big Other。
+
+核查：否定性差异原则使能指不能直接锚定所指，须符号中介；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page15–21 L51–69。
+
+本体4在Page15–21明说否定性、差异、无法直接通达。
+
+核查：镜像直接同一触碰乱伦禁忌，必然病理化；状态：needs_qualification。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page7 L27；Page9–15 L33–51。
+
+Page7与Page13用病理语言描述短路；Page9–10/15也说明镜像关系普遍发生、需整合。原摘要易把一切正常镜像认同均判病理，需限定固着和短路，并标课程类比。
+
+核查：欲望坚持到底、通过他者欲望寻找客体a构成例外；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page21–24 L69–79。
+
+Page21–24展开；既有摘要保留跨文本声明正确。
+
+核查：文本诊断找话语不一致性及主体位置；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page24 L79；Page28–31 L91–100。
+
+Page24、28–31说明不能把主体直接固定在任何能指上，找话语对谁说。
+
+核查：目的论2震荡与纵深化相对，象征化和阉割使自我镜像拉开距离；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page25–27 L82–88；Page33 L106。
+
+Page25–27直接给目的2；Page33涉及阉割，但属跨后期解释。
+
+核查：误认作为隐喻，自我意味着不可寻觅性，寻求符号秩序基础；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page28 L91；Page31 L100；Page34–37 L109–118。
+
+Page28与Page37直接支持，讲者同时承认早期/后期次第不确定。
+
+核查：他者欲望/大他者调和镜像与无意识；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page2–3 L12–15；Page14 L48。
+
+直接格位，同时说更进一步可说实在界协调；摘要保留本讲主要写法。
+
+核查：本体4否定性/差异性，必须符号化才能把握实在；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page15–21 L51–69。
+
+有本体性维度但没有预制本体论，不能误读为实在不存在。
+
+核查：认识1把欲望坚持到底，寻找客体a；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page21–24 L69–79。
+
+原讲明确落格；年代定位依讲者跨文本提醒。
+
+核查：目的2为1/0震荡与象征化纵深对立；状态：supported。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)；定位：Page25–28 L82–91。
+
+明确定位；隐喻将失败转作主体机制的线索。
+
+编者注：本讲在Page24明确说“我可能跨文本了”，Page31及34再次承认次第与专业性不确定。大写他者、客体a、欲望伦理和阉割等不能仅据本条断言都属于同一早期阶段；本轮未核拉康原典或临床证据。 参考：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)。
+
+定位：Page24 L79；Page31 L100；Page34 L109。
+
 
 <a id="3413"></a>
 ## 3-4-1-3 分类性的叙事学
@@ -15909,6 +17925,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 《零度写作》《作者之死》《叙事结构分析导论》的对应段落须另做原著对照。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部4个feature与4个axis，复合细节拆项；未核原典与原音；audio_check=not_performed；human_approval=False。
+
+核查：巴特是运动中最不严格的哲学家，但尝试提供纵深；状态：needs_qualification。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page1–5 L9–29；Page18–21 L74–83。
+
+本讲批评其哲学不严格和缺少主体时间机制，没有论证所有结构主义者的最不严格排名。
+
+核查：功能/行动/叙事三层：非人称符码、人称镜像、文本活世界效果；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page7–10 L39–50。
+
+三层和效果完整展开；Page8讲者对行动层称谓说可能弄错，应保留课程口径而非标准定义背书。
+
+核查：广义叙事将文学、社会、意识形态、生理体验及符号关系都纳入；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page6 L34；Page11–12 L53–56。
+
+Page6、11–12列举这些领域，不能理解为经验上物理世界消失。
+
+核查：零度写作自如生成，后承认一切文本同等、世界叙事化；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page10–11 L50–53。
+
+Page10–11明确此展开；转折是讲者对理论历程的概括，未核原书年表。
+
+核查：零度写作意味着作者死、阅读即写作；社评式结构批判；状态：needs_qualification。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page6–7 L34–39；Page12–13 L56–59。
+
+Page6–7把阅读/作者与后期巴特并置，Page12才以零度落认识1。不能压成三术语同义或同一时期的一条定义。
+
+核查：文学不受意识形态污染的绝对自由乌托邦；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page11 L53；Page18–19 L74–77。
+
+这是Page11和18–19的批评性重构，不是未加限定的巴特自述。
+
+核查：局部整体化调和文学1/0震荡与外部纵深，结构由外部差异赋根；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page14–17 L62–71。
+
+Page14–17直接论证，先从局部析结构再套其他文本；不是保证文学真正免于意识形态。
+
+核查：儿子骂爸爸比喻文学批判其所依赖整体意识形态；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page19 L77。
+
+Page19逐项说明因整体给文本分析以结构却反过来批评整体。
+
+核查：叙事层调和非人称功能层与人称行动层；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page7–10 L39–50。
+
+与本讲格位一致；行动层为讲者暂用名称。
+
+核查：本体4广义叙事化，一切可作为能指单元；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page10–13 L50–59。
+
+Page10–12明确本体4，Page13进一步谈共时平面也为拟制。
+
+核查：认识1零度写作，内在张力生成，不预设意识形态；状态：needs_qualification。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page10–12 L50–56；Page18–19 L74–77。
+
+本讲把绝对独立作为巴特占据的制高点并批评做不到；摘要应呈现为要求/姿态而非确实不受意识形态。
+
+核查：目的3局部整体化协调1/0与纵深；状态：supported。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)；定位：Page14–17 L62–71。
+
+与Page14–17明确格位一致。
+
+编者注：这里的“零度写作”、三层叙事与互文性主要按讲者的哲学重构串联；本讲自称不研究文论细节，并对行动层名称表示不确定。本轮没有把这套串联当成巴特原著逐年发展史。 参考：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)。
+
+定位：Page6–13 L34–59；Page21 L83。
+
 
 <a id="3414"></a>
 ## 3-4-1-4 陈述性的话语主义
@@ -15952,6 +18048,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 课文拼写archive/achive和历史阶段判断未作原音校订；未逐一核对福柯各书。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部4个feature与4个axis，复合细节拆项；未核原典与原音；audio_check=not_performed；human_approval=False。
+
+核查：陈述为基本单元，知识考古发掘相似、机械、有机三个知识型；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page2–5 L12–24；Page8–14 L33–55。
+
+Page2–5陈述、Page8–14三期。原讲同时批评此分期遗漏观念论，非本批已验证哲学史。
+
+核查：考古学协调微观冲突与宏观谱系；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page16–19 L65–100。
+
+Page16–19明示格位；archive与archaeology在此为讲者联系，不作已核词源。
+
+核查：微观冲突升阶造成宏观结构，宏观只是符号拟制；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page20–26 L103–121。
+
+Page20–26以阶次牵引和记忆效应说明；不是断言实际权力效果毫不存在。
+
+核查：没有预设本体框架，宇宙至高权力本体无合法性，局部网络生成；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page21–22 L106–109。
+
+Page21–22直接说明，仍承认局部生成网络勉强可叫本体论。
+
+核查：谱系学知识型决定时代所有人且无主体；状态：needs_qualification。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page10–11 L39–42；Page17–20 L75–103。
+
+原讲确这样说，但Page11立即限定“只是从知的层面”，Page17–20以考古机制说明主体残余；原摘要省略限定形成全面人类行动不存在的意思。
+
+核查：疯人从圣语、非理性并置关押到有机体剩余单独治疗；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page14–15 L53–60。
+
+Page14–15三个例子完整，但属于讲者历史概括，不表示逐段核对过《疯癫史》。
+
+核查：没有宏观class struggle，只剩微观权力斗争及阶次升迁，知识即权力；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page17–26 L90–121。
+
+Page17–26明确此重构。知识/权力直接等式也是本讲表述，非本批原典认证。
+
+核查：去中心化杀死宏观政治可能性；状态：needs_qualification。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page24 L115；Page28–30 L129–139。
+
+Page24、28–30是讲者明确从我的立场作的政治批评，不应写作中性公认的福柯后果。
+
+核查：考古/档案机制调和微观网络与宏观谱系知识型；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page16–19 L65–100。
+
+格位直接定义，宏观也称state结构。
+
+核查：本体4不预设宏观本体，由微观局部生成；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page21–22 L106–109。
+
+直接定义，解释为本课程权力模型。
+
+核查：认识1谱系原理，知识型中立无主体并决定时代；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page10–11 L39–42；Page22 L109。
+
+Page22明确1和中立；中立在本讲意指无主体的符号系统，并非无权力或价值中立研究得到证实。
+
+核查：目的4局部发生去中心化，无宏观进步阶段；状态：supported。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)；定位：Page23–26 L112–121。
+
+Page23直接落格；本讲的否定宏观战略批评见后续。
+
+编者注：福柯属于结构主义而非后结构主义、知识等于权力、无主体性及宏观政治被杀死，均是讲者的分类和批评。其阶次模型在原文标为“我对福柯的理解”；本批只验证课程归属，不把模型当作福柯原著已核结论。认识论的“中立”在此指无主体，并不意味着不涉及权力。 参考：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)。
+
+定位：Page18–23 L97–112；Page28–30 L129–139。
 
 
 <a id="342"></a>
@@ -16003,6 +18179,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 阿尔都塞原词dominance、determination in the last instance等的逐句对照未完成。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；scope=全部feature及axis；复合命题分项核对；未核原音与原典；audio_check=not_performed；human_approval=False。
+
+核查：后结构主义不同解构：前者主体发生、半脚实践，后者结构去中心化；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page1–4 L9–24；Page22 L162。
+
+讲者明确以自己的辩证唯物主义视野区分，不是通用思想史分类。
+
+核查：从前符号无头主体到意识形态俘获臣民；状态：needs_qualification。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page4 L24；Page21–22 L159–162。
+
+Page4有主体化前提为无头主体性，但未定义为时间上先于符号系统的独立主体；前符号容易误导，应删除。
+
+核查：康德/新康德范式严格二分先验逻辑科学与经验主义；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page4–5 L24–29。
+
+Page4–5明确，但同段又分别称中期拉康黑格尔主义、阿尔都塞新康德；非每个后结构者同一种范式。
+
+核查：实践唯物主义理论结构主义，借腹生子策略；前生存论后结构主义夹击；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page5–10 L29–64。
+
+Page5–10说明两身份以及两方向对社会存在/意识辩证关系的威胁。
+
+核查：抛弃黑格尔式辩证法、包装资本论，症候阅读和有罪阅读投名状；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page10–12 L58–90；Page22 L162。
+
+Page10–12为课程战略比喻；末尾又说隐秘坚持黑格尔，不能当完全抛弃辩证法的思想史事实。
+
+核查：本体4各要素平等但经济有差异网络决定的二阶主导性；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page12–15 L88–126。
+
+Page12–15说明不是严格经济决定论，各要素相对独立。
+
+核查：意识形态主体化误认对科学理论实践，意识形态加工为政治经济知识；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page15–18 L127–150。
+
+Page15–18给认识2及加工术；理论劳动/谢林点为本讲重构。
+
+核查：执拗理论家主体隐秘嵌入，哲学战斗/理论协调政治经济；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page19–22 L153–162。
+
+Page19–22直接表述，并强调经济和阶级斗争主导。
+
+核查：超定多重结构使主导性被决定，全球资本主义解释经济始终主导；状态：needs_qualification。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page13–15 L100–123；Page22 L162。
+
+Page14说不仅因为全球资本主义也因为唯物主义者坚持该主导，Page22补回溯建构。旧摘要只留客观最大结构因果，遗漏立场与回溯性。
+
+核查：理论协调经济现实与政治现实/符号权力；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page6–7 L34–39；Page19 L153。
+
+场域直接定义及回顾。
+
+核查：本体4超定，各要素平等与经济二阶主导；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page12–15 L88–126。
+
+直接定义，作为阿尔都塞哲学产品而非讲者给其本人四字头。
+
+核查：认识2意识形态与科学/知识，症候阅读理论生产；状态：supported。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：Page15–18 L127–150。
+
+直接定义和加工论证。
+
+编者注：本条“借腹生子”“投名状”“混入敌营”、康德/黑格尔谱系及经济二阶主导性，是讲者对理论实践的重构。其分类把德里达排除后结构主义，并明确自称辩证唯物主义的后结构主义观；不得据此替代通常学术分类。 参考：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)。
+
+定位：Page1–6 L9–34；Page10–12 L58–90；Page22 L162。
+
 
 <a id="3421"></a>
 ## 3-4-2-1 无意识的主体主义
@@ -16046,6 +18302,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - S1/S2、主体分裂和回溯性的研讨班出处未逐项查证。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部feature及axis；复合命题分项核对；未核原音与原典；audio_check=not_performed；human_approval=False。
+
+核查：1950年代中期拉康研究父性秩序、三重俄狄浦斯发生及阉割；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)、[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)；定位：0261 Page23–24 L169–172；0262 Page1 L9。
+
+0261下一讲开头列父性符号化/欲望辩证法/癔症化主体，0262Page1承接三者同时性和年代；是课程分期。
+
+核查：主体获得名与性化，知男女之分，失去母子原初享乐；无头发生秘密；状态：needs_qualification。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page1 L9；Page20–21 L66–69。
+
+Page1紧接知男知女说“不一定要知男知女”，要点是原初共同体享乐不再可能；Page20才展开共时结构无头发生。
+
+核查：主体恢复但为无头纯空无、真实不可能性、符号不一致性缝隙，非实体存在；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page2–4 L12–18。
+
+Page2–4直接说明；不是消灭主体作用。
+
+核查：能指成对、主人能指无所指，指称运动代表主体；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page5–9 L21–33。
+
+Page5–9详述，Page7特说不是指称“无”而是不指任何东西。
+
+核查：二元能指不能完美嵌合，主体驱动S1向S2；松链每对均为S1/S2及不可能性；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page10–19 L36–63。
+
+Page10–19详细展开，并以谢林主词/谓词模型再解释，非逐字拉康原说证明。
+
+核查：主体化不断发生并回溯抹除痕迹，结构仿佛恒在；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page30–32 L96–102。
+
+Page30–32是该段的完整依据。
+
+核查：回溯设立/抹除，S2返S1使主人能指有普遍支撑地位并拉紧链；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page31–32 L99–102。
+
+Page31–32明确，且区分分析师松链与无意识回溯拉紧。
+
+核查：无意识非深海仓库而等于主体、符号运动发生；最本真的时间运动；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page30–33 L96–105。
+
+Page30–33直接判断，带课程模型归属，不是无意识经验定律。
+
+核查：象征界调和想象与实在三界；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page24 L78。
+
+Page24直接给格；晚期三界变化讨论不能混成各时期一贯。
+
+核查：本体4无头主体性，真实为不可能；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page24–25 L78–81。
+
+Page24直接定义，强调不是没有，而是开放。
+
+核查：认识2结构共时原理与辩证发生；语言vs言语；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page25–29 L81–93。
+
+Page25–29给二分，言语运动优先不等于任意个人表达。
+
+核查：目的1回溯设立/抹迹与retro-activate；状态：supported。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)；定位：Page30–33 L96–105。
+
+Page30–33直接给轴及时间性。
+
+编者注：这一“中期拉康”讲法同时调用1972年的《再来一次》、晚期谢林和齐泽克《视差之见》；讲者多次以“我的思考/态度”说明主词谓词模型。摘要所列机制属于跨文本课程重构，不能全部断代为1950年代原说。 参考：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)。
+
+定位：Page3 L15；Page8–9 L30–33；Page15–16 L51–54；Page22–23 L72–75。
 
 
 <a id="3422"></a>
@@ -16091,6 +18427,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - uncountable many的原音与讲者是否意指数学基数未校；原著第一沉思不能替代这一听校。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部feature及axis；复合命题分项核对；未核原音与原典；audio_check=not_performed；human_approval=False。
+
+核查：守阵地数学本体论化，以空间点位对抗拉康回溯逻辑；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page1–6 L9–24。
+
+Page1–6完整说明，集合论/数论/拓扑列举为讲者的战略描述；未核具体数学著作。
+
+核查：回溯让所有变化白费，等待天才降临；状态：needs_qualification。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page1–3 L9–15；Page23 L135。
+
+等待天才是Page3/23讽喻；Page2明确纠正“当然不是白活”，说回溯吊诡改变现实。旧摘要将巴迪欧所恐惧情形当事实。
+
+核查：Being服务器在场vsEvent更新不在场，由State协调；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page7–8 L27–30。
+
+Page7直接格位，属于游戏比喻；state状态/表达/政府三义均有。
+
+核查：State剩余Space/Site/Position，空位拒规定，忠诚让底层翻转、承接整体；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page8–11 L30–39；Page19–23 L63–135；Page29–32 L194–203。
+
+Page8–11论证与Page19–23讨论。Page29–32批评位置本身已结构化，原摘要未呈现此反驳，已在第四项补回。
+
+核查：知识是闭合内部交换；忠诚主体化为外部更新中介；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page13–19 L45–71。
+
+Page13–19解释，知识不是本讲阿尔都塞式科学。
+
+核查：主体存在即主体化，去主体化展开Site；不知对错却绝对知道、局外如疯；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page15–18 L51–60。
+
+Page15–18都有，但绝对知道为参与忠诚的知，不知对错为癔症化张力；不能混为旁观可证明的全知。
+
+核查：拉康回溯无缝更新vs巴迪欧换游戏，空位可否被坚守是差别；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page19–23 L74–134。
+
+Page19–23明确；拉康只能坚持具体欲望对象也是讲者比较框架。
+
+核查：可断裂性使巴迪欧更激进，革命潜能作为结论；状态：needs_qualification。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page21 L101–111；Page29–32 L194–203。
+
+Page21比较姿态更激进，但Page29–32结论批评空位本体化及主体为事件担保。只留正面结论失衡。
+
+核查：State调和Being与Event；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page7–8 L27–30。
+
+直接格位。
+
+核查：本体4不可数多、无限可能性及四种真理程序；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page11–12 L39–42。
+
+Page11–12均明确；uncountable many为原讲词，不自行认定为严格数学的不可数基数，既有原典提醒仍有效。
+
+核查：认识2知识与忠诚主体化；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page13–19 L45–71。
+
+直接定义。
+
+核查：目的2断裂更新与稳定化状态的对立；状态：supported。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)；定位：Page19–21 L71–110。
+
+Page19说明更新后重新闭合、稳定与回溯比较；Page21换游戏。
+
+编者注：服务器、版本更新、守空位、等天才以及数学家作为AI等均是讲者的解释比喻。课程同时讲参与者的知与不确定忠诚；未以此核实巴迪欧原典的集合论定义或个人动机。本讲末尾反对将空间空位当成终极本体支柱。 参考：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)。
+
+定位：Page3–6 L15–24；Page15–21 L51–111；Page29–32 L194–203。
+
 
 <a id="3423"></a>
 ## 3-4-2-3 哲学的意识形态主义/墨守成规
@@ -16135,6 +18551,92 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 《少于无》原书页码及四重矩阵对应关系仍未核，不把讲者图式冠为作者定式。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部feature及axis；复合命题分项核对；未核原音与原典；audio_check=not_performed；human_approval=False。
+
+核查：黑格拉康主义与后观念论底色，政治无害三字头；状态：needs_qualification。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page1–2 L9–12；Page15 L51。
+
+Page1限定面向大众的哲学产品；Page15明确排除另一些现实政治评论，不能扩到其全部政治思想与活动。
+
+核查：无政治计划悲观主义协调智性与大众文化现实生活，重复书写拒绝会餐；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page2–5 L12–21。
+
+Page2–5完整支持；每年出书、会餐逸事为讲者叙述，未独立核生平。
+
+核查：DEN/失败绝对/纯否定主体/表象之为表象四矩阵；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page5–9 L21–33。
+
+Page5–9完整列四项，DEN名称连德谟克里特，不意味着齐泽克首创术语。
+
+核查：DEN是Failed Absolute的剩余；状态：not_located_in_full_lecture。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page5–9 L21–33；全文Page1–19 L9–63。
+
+全文核读并定位所有剩余相关处，仅Page7把上方两项统称有剩余，未给DEN由Failed Absolute剩余产生的明确定义；本批删除此附会，不断言其它书中不存在。
+
+核查：黑格尔下两项更主导，主体void为动力；失败性关系接触绝对；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page6–8 L24–30。
+
+Page6–8直接论述；性关系不可能的含义在本批未核原典。
+
+核查：哲学文化分类与历史缩影文化过程二分，精神分析实践站文化侧；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page9–11 L33–39。
+
+Page9–11给轴与实践/底层符号学区分，底层符号学仍归哲学。
+
+核查：哭泣小丑、悲观底色，缺现象学理解、主要后观念论及后结构论域；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page11–12 L39–42；Page17 L57。
+
+Page11–12明言，但为讲者批评；Page17又说不是真正骨子悲观，需可见注释。
+
+核查：无位可守，停留否定以卡住时间/重复造位置；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page13–15 L45–51；Page18 L60。
+
+Page13–15与18直接说明；不是经验的物理时间停顿。
+
+核查：每个当下卡住为不同mode，恢复论域合法性并启发主义主义；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page18–19 L60–63。
+
+Page18–19明确自述启发来源；不等于齐泽克自己制定编号。
+
+核查：无政治计划悲观写作协调后观念论与大众文化；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page1–5 L9–21。
+
+直接场域定义，局限上述产品范围。
+
+核查：本体4四重矩阵DEN等；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page5–9 L21–33。
+
+直接图式，讲者说我要拉矩阵而非书中原图。
+
+核查：哲学分类学vs文化过程及精分诊断；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page9–11 L33–39。
+
+直接定义，精分底层符号学与诊断实践被区别。
+
+核查：目的3回溯与整体变革由卡住协调；状态：supported。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)；定位：Page12–15 L42–51；Page18–19 L60–63。
+
+Page12–15明说3及两侧，用拖代守/停留否定解释。
+
+编者注：“无害”“不懂现象学”“哭泣的小丑”均为讲者评价，不是本批已核生平或学术能力结论。Page15限制讨论为某类哲学产品；Page17又明确其悲观不是骨子里的，并肯定复兴黑格尔、普及拉康及启发资本批判的作用。 参考：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)。
+
+定位：Page1 L9；Page11–12 L39–42；Page15–19 L51–63。
+
 
 <a id="3424"></a>
 ## 3-4-2-4 螺旋的贱斥主义
@@ -16178,6 +18680,92 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - the semiotics与the semiotic的术语区别，以及第三代主张的原文范围仍待原著对照。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全部feature及axis；复合命题分项核对；未核原音与原典；audio_check=not_performed；human_approval=False。
+
+核查：贱斥为内部异质他者和原初排斥，拒父母爱欲残留、与母体污秽区隔；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page5–6 L29–34。
+
+Page5–6完整表述，是讲者解释的主体机制，非生理学事实。
+
+核查：从符号界走象征界，abjection=唯物主体，具象母体脐带意象回应虚无实体化；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page4–6 L24–34；Page18–19 L76–81。
+
+Page4–6将之称策略及唯物主体；不代表讲者认可一切原初异质性本体化。
+
+核查：semiotic母性循环vs symbolic父性线性同一化；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page6–7 L34–39。
+
+Page6–7直接区分；同时明说象征秩序不一定父性化，只是批判语境以父性为例。
+
+核查：互文性通过意识形态素即系统共同结构残余显现，背后活力；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page2–3 L14–19；Page16–17 L66–71。
+
+Page2–3与16–17完整论证，挫/浅表为讲者评价。
+
+核查：三代女权：线性平等、循环差异否定、两极螺旋与异质权威；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page7–12 L39–54。
+
+Page7–12完整三阶段叙述；是本讲对女性时间性的方案化解释，非全部女性主义通史。
+
+核查：所有能贱斥创造秩序者都是女人，proletarian都是女人；状态：needs_qualification。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page11–14 L51–60。
+
+Page11–12有逐字依据，但为讲者将女性位置普遍化的政治解释，并非生理性别或个体身份分类；需直接可见归属。
+
+核查：螺旋实为两极震荡断裂漂移，回溯逻辑失败；线性循环螺旋三模式都失败；状态：needs_qualification。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page1 L9；Page12–13 L54–57；Page17 L71。
+
+Page17说“前面三种运行模式”未明确等于这三种时间；不可自行补定指代。关于回溯失败是讲者批评。
+
+核查：认为镜像原始异质好，进入象征意味着父子共同体丧失；状态：contradicted。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page18 L76。
+
+原文为母子共同体不能维持，不是父子；其误读早期拉康判断明确是讲者立场。
+
+核查：爱欲还原论以恶心恐怖激情为本真未符号化体验；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page18–19 L76–81。
+
+Page18直接批评；Page19也承认中期拉康类似立场及唯物主义意向，不能单向宣布普遍学术定论。
+
+核查：贱斥协调符号界母性循环与象征父性线性；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page3 L19；Page6–7 L34–39。
+
+Page3给中介，Page6–7分两时间；父性仍有语境限定。
+
+核查：本体4未符号化原初异质他者、对结构威胁；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page15 L63；Page18–19 L76–81。
+
+Page15明给4，Page18–19解释威胁与批评。
+
+核查：认识2现象文本vs生成文本，sign到symbol机制；状态：needs_qualification。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page15–17 L63–71；Page19–20 L81–86。
+
+Page15–17如此落格，但Page19–20又说不明确，倾向改为生成文本/诗性一侧与意识形态/新秩序一侧；原摘要遗漏备选。
+
+核查：目的4线性循环间螺旋不稳定动态；状态：supported。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)；定位：Page12 L54；Page17 L71。
+
+Page12/17明确否认光滑有机螺旋，喷气背包为比喻。
+
+编者注：本条三代女性主义、“普罗大众都是女人”、唯物主义主体等，是讲者将克里斯蒂娃接到政治实践的解释。非性别身份判定，也未经本批原著检证。讲者明确以拉康主义者立场批评其回溯性和情感还原，且承认象征秩序未必只能父性化。 参考：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)。
+
+定位：Page1–6 L9–34；Page11–14 L51–60；Page18–19 L76–81。
 
 
 <a id="343"></a>
@@ -16229,6 +18817,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 未把该读法与德里达《延异》全文逐段比对，亦未听原音。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；scope=本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。；audio_check=not_performed；human_approval=False。
+
+核查：同一个人、a/e无语音差别且不是概念超越；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page1 L9；Page11–14 L39–48。
+
+P1明确限定讨论同一、差异及绝对知识的层面；a/e用于讲者的黑格尔式重读，不是全哲学等同。
+
+核查：胡塞尔意义之海、原则之原则不能反思，时间和发生底层机制困境；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page2–4 L12–18。
+
+P2–4逐项说明，这是本讲对现象学的批判性概括。
+
+核查：内部批判须把现象学和黑格尔坚持到底；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page15–17 L51–63。
+
+先同意并成为体系内部的参与者，再把其逻辑推至失败，论证明确。
+
+核查：书写是符号之符号，声波亦书写；主人意图失败、诗无达诂和痕迹伤口；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page7–9 L27–33。
+
+书写的缺席、语音材料与痕迹均逐项出现。
+
+核查：前符号实体→符号化→回溯实体及延异为不可能统一；状态：needs_qualification。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page9–11 L33–39。
+
+三项模型有据，但P10明确不能说第一项前符号实体存在；摘要省略这一限制会把模型实在化。
+
+核查：只承认黑格尔本体论却必然失败，差异不能被同一性消解；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page23–25 L81–87。
+
+P23–25是讲者对解构主义的本体论4判定。
+
+核查：反辩证法却无语义差别，书写和纯历史差异使时代变化；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page24–25 L84–87；Page30–32 L112–122。
+
+这是课程刻意提出的悖论，不是德里达与黑格尔术语的通行同义释义。
+
+核查：拟像两重阅读、苏格拉底式顺从和二阶真诚伪装；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page5–6 L21–24；Page15–17 L51–63；Page26 L92。
+
+两重意义、坚持主人逻辑及真诚说谎均有论述。
+
+核查：延异不存在，是实体主体化产物及纯否定性；状态：needs_qualification。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page26–29 L92–107。
+
+原文明说这是作为拉康派/齐泽克主义者的反驳，不能当作德里达自己的定论。
+
+核查：原初差异即延异，调和先验经验、符号系统和原初绝对者；状态：contradicted。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page19–21 L69–75；Page27 L97。
+
+调和格位有据，但P21/P27明确区分纯粹原初差异与延异，不能括号等同。
+
+核查：本体论4延异，黑格尔本体论失败、差异不可消解；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page23–25 L81–87。
+
+本体论4的局部论证明确。
+
+核查：认识3拟像调和权威意义与主体否定的两重阅读；状态：supported。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)；定位：Page26 L92。
+
+P26直接给认识论3及两重阅读。
+
+编者注：本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。 参考：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)。
+
+定位：Page1–33 L9–125（L125只取本讲结尾）。
+
 
 <a id="3431"></a>
 ## 3-4-3-1 游牧的辩证主义
@@ -16279,6 +18947,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 没有逐段核德勒兹原著；本轮不裁决该批评是否成功。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。；audio_check=not_performed；human_approval=False。
+
+核查：主人肯定原初差异而非概念规定，强力意志和主人眼中无奴隶；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page3–10 L15–36。
+
+自我肯定、原初运动及平等看待他者的完整链条明确。
+
+核查：奴隶否定他人以肯定自身并视主人虚伪；肯定优越、否定等级制低劣；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page1–2 L9–12；Page5–12 L21–42。
+
+讲者据尼采与哲学阐释这组等级关系；未独立核原典。
+
+核查：时间调和等级理念和游牧；若无奴隶何须反奴化；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page13–18 L45–60；Page27 L87。
+
+场域明确在P27；反问与反奴化的矛盾见P13–18。
+
+核查：坚持到底须承认否定平等，对立亦差异；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page13–21 L45–69。
+
+这是讲者对德勒兹的内部反驳，原摘要以问题和坚持到底标识了论证转折。
+
+核查：差异经重复显现、弱看同一强看差异；重复的二阶双重性；状态：needs_qualification。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page22–26 L72–84。
+
+前半为讲解，二阶重复在P22以我要说引入讲者反驳，旧摘要未标层次。
+
+核查：超人承受痛苦新生，否定性是再来一次的力量；状态：needs_qualification。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page23–30 L75–96。
+
+有明确论证，但属课程借拉康/尼采重构，不应整体归给德勒兹本人的学说。
+
+核查：纯差异自同一化难题、同一只是暂时本体论化及失败尝试；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page33–38 L105–120。
+
+P33–38明确提出这项批评及其封闭的最低本体论问题。
+
+核查：反奴化主人反成奴隶，接受否定性，被压迫失败者真正主人；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page19–21 L63–69；Page36–38 L114–120。
+
+原讲明述政治性结论；需要按课程判断阅读，不是对现实人群的客观分类。
+
+核查：时间永恒轮回调和等级理念框架和解域结域；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page27 L87。
+
+P27直接标场域3及两侧。
+
+核查：本体论4差异、绝对者自身差异及原初现实化；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page3–4 L15–18；Page31 L99。
+
+P3–4展开，P31再次点明本体4。
+
+核查：认识3肯定与否定持续调和，以肯定者的否定自免疫；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page31–32 L99–102。
+
+P31–32明确给出认识3与这一机制，随后也提出批评。
+
+核查：目的1永恒轮回、结域解域再结域；状态：supported。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)；定位：Page35 L111。
+
+P35明确目的1及不停重复。
+
+编者注：本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。 参考：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)。
+
+定位：Page1–38 L9–123。
+
 
 <a id="3432"></a>
 ## 3-4-3-2 圆满的经济学
@@ -16323,6 +19071,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 原书关于耗散、增长、限度与均衡的论述尚未全文对照，不把讲者的调侃当作原著标题。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。；audio_check=not_performed；human_approval=False。
+
+核查：尸体恐惧产生否定性，理性秩序压抑爱欲促进生产再生产；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page1–3 L9–15。
+
+P1–3按此顺序作哲学起源叙述；未作人类学事实核验。
+
+核查：有限经济积累增殖、同质化差异侵蚀同一；二阶否定冲向普遍经济；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page4–6 L18–24。
+
+P4–6阐述有限秩序和二次否定及其两个方向。
+
+核查：太阳的无谓耗散与宇宙平衡、圆满暗示圆房的矛盾；状态：needs_qualification。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page7 L27；Page17–19 L78–86。
+
+太阳及平衡是课程解释；圆满/圆房是讲者讽刺性命名，不是巴塔耶自己如此命名。
+
+核查：夸富宴属于与无谓耗散相反的有限经济，对手必须回赠更多；状态：contradicted。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page8–9 L30–33。
+
+原讲把夸富宴作为巴塔耶推崇的耗散例子；说回赠自家大部分，未说必须比原礼更多。
+
+核查：同质理性与异质色情由崇高丧失调和；丧失无法注册；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page12–14 L53–63。
+
+P12–14说明两侧与无意义丧失，且指出有意做丧失未必崇高；Sublimation用词在讲中曾犹疑。
+
+核查：下流唯物主义保存高贵缺失，敞开符号系统并注册异质性；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page15–16 L68–73。
+
+P15–16有相应讲解，随后批评这种浪漫化；不构成行为倡导。
+
+核查：对德勒兹的对照，过度肯定耗散为无对象自我否定；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page17 L78。
+
+P17明确不以他者或自我为对立对象；不能将无对象否定理解为自杀指引。
+
+核查：败家娇妻消费者比喻与资本主义消费加强符号优势积累；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page18–20 L83–91。
+
+P18–20有讽刺比喻和资本批评，同时承认某些消费可缓解局部危机，不能扩成全时全域定律。
+
+核查：主体二阶否定性调和有限与普遍经济；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page9–10 L33–39。
+
+P9–10直接标场域3和主体性。
+
+核查：本体4献祭、脱离有用性回归普遍经济；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page11–12 L44–52。
+
+P11–12用牛和献祭作本体4说明，随即批评其解释只是幻想。
+
+核查：认识3崇高化丧失调和同质与异质；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page12–14 L53–63。
+
+P12–14有明确标位与丧失机制；并非任何浪费都能崇高化。
+
+核查：目的2过度肯定与无对立的自我否定；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)；定位：Page17 L78。
+
+P17两侧对照及无对象否定展开，轴是据此论证概括，不额外声称有独立完整数字公式。
+
+编者注：本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。 参考：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)。
+
+定位：Page1–23 L9–108；另核下一讲开头Page24–25 L113–118，仅供3433小说标题及人物名。
+
 
 <a id="3433"></a>
 ## 3-4-3-3 倒错的好客主义
@@ -16366,6 +19194,92 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 小说中文题名、版本与课程提及的具体篇章仍需核；萨德生平描述不可仅凭课堂转述确证。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。；audio_check=not_performed；human_approval=False。
+
+核查：小说标题、Octave/Roberte与现象学自我及知识的对应、平等招待导致主客换位；状态：supported。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)、[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：0268 Page24–25 L113–118；0269 Page1–3 L9–19。
+
+书名和人物名在上一文件下一讲开头；本文件P1–3继续展开角色对应。
+
+核查：客人必须拒绝殷勤才能维持忠诚回路；状态：contradicted。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page4–9 L24–49。
+
+这是前段初步说法；P8–9当场更正：客人想要她不忠，却因自己已成为主人而在命令效果上拒绝了自己。
+
+核查：自我意识接纳异质他者的发生学解释；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page10 L52。
+
+P10明确回到主体间性与现象学接纳机制。
+
+核查：尼采头痛体现永恒轮回不能由有限本体论说尽；状态：needs_qualification。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page10–14 L52–64。
+
+原讲是好客之道的哲学解释，不是疾病病因的医学证据。
+
+核查：尼采刻意使自己病理化，以相当于愚蠢注册真理；永恒轮回为明喻滑动；状态：needs_qualification。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page11–15 L55–67。
+
+有相当于愚蠢和明喻机制，但不能把解释模型写成已证实的自我致病策略。
+
+核查：萨德肉欲和思辨双重禁欲、不以高潮为目标且无大他者；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page15–18 L67–76。
+
+P15–18是讲者借克罗索斯基的解释，不能直接当作萨德全部行为的历史描述。
+
+核查：抨击者因为理解快感而暴露偷犯禁忌，偏执重复敞开本有；状态：needs_qualification。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page16–19 L70–79。
+
+原讲确有该指控模型，但不是对现实批评者均偷偷犯禁的事实证明；P19还明确承认萨德造成实际受害。
+
+核查：相当于滑动使肯否不能依同一主体完成统一，肯定超出、否定耗散；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page24–26 L100–106。
+
+P24–26展开valant pour以及差异与耗散的协调但不合并。
+
+核查：拟像为自身最小差异，无原版、全盗版及后现代顶峰；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page11–15 L55–67。
+
+P11–15给拟像残影和盗版模型；顶峰是讲者评价。
+
+核查：场域3偏执狂调和哲人秩序与文人画家超越；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page19–21 L79–85。
+
+P19–21直接标位；偏执狂在此是讲者的理论模型而非对人的临床确诊。
+
+核查：本体4拟像、自身最小差异及残影；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page11–14 L55–64；Page21 L85。
+
+P11–14解释，P21明确标本体论。
+
+核查：认识3肯定式拒绝，表面拒绝内心渴望；状态：contradicted。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page8–9 L44–49；Page22–23 L88–97。
+
+内心想要有据，但拒绝不是表面伪装；它是主客指代变化造成的命令效果反转。
+
+核查：目的3肯否通过相当于滑动协调且保持独立；状态：supported。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)；定位：Page24–26 L100–106。
+
+P24–26完整展开，协调不等于同一化。
+
+编者注：本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。 参考：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)。
+
+定位：Page1–26 L9–106。
 
 
 <a id="3434"></a>
@@ -16427,6 +19341,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 原视频板书的确切排版及原音措辞尚未核；本轴关键词已有直接编纂文本依据。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。；audio_check=not_performed；human_approval=False。
+
+核查：后现代是现代性内部而非另一个时代、危机持续；反对科学历史马克思元叙事；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page1–4 L9–18。
+
+P1–4说明时代关系和拒绝大故事；是本讲概括。
+
+核查：无法跳出叙事及符号体系，拒绝永恒轮回后进入异教与叙事竞争；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page5–10 L21–36；Page18–22 L60–72。
+
+P5–10作思想谱系判断，P18–22展开异教视角；背叛是讲者价值判断。
+
+核查：场域3叙事调和结构历史，叙事无外部合法性基础；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page14–15 L48–51。
+
+P14–15直接给场域三与内在扩展论证。
+
+核查：利奥塔的局部总体主义使小叙事竞争，未反思资本媒介公倍数、莱布尼兹主义；状态：needs_qualification。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page2–4 L12–18；Page12–13 L42–45；Page18–22 L60–72。
+
+局部总体主义是讲者刻意选择的批判性命名；资本空间和莱布尼兹比较也是其批评，不是利奥塔自称。
+
+核查：悖论主义调和真理与神话，科学预设冲突及解决推动发展；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page23–27 L75–87。
+
+P23–27支持课程模型；爱因斯坦/薛定谔/量子力学的分类是讲者举例，未作科学史核验。
+
+核查：利奥塔无能力或意愿完成认识论，因为建构就形成元叙事；状态：needs_qualification。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page26–27 L84–87。
+
+有课程批评，但不是经原典和学术史核实的个人能力事实或理论缺失定论。
+
+核查：取消永恒轮回使符号微分学不可能，主体不能切近历史方向；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page28–32 L90–102。
+
+P28–32沿最小差异比喻展开，微分是哲学比喻而非数学定理。
+
+核查：牺牲存在保留为我存在，保存理论家批判却取消主体差异中介；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page16–17 L54–57；Page33–35 L105–111。
+
+P16–17及P33明确作此批判；不等于利奥塔自陈其理论目的。
+
+核查：场域3叙事调和共时结构与历时历史；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page14 L48。
+
+P14直接列三项。
+
+核查：本体4极端视角主义、连最低永恒轮回也拒绝；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page17–22 L57–72。
+
+P17–22有本体论格位与异教视角解释。
+
+核查：认识3悖论主义调和真理知识与神话局域叙事；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page23–27 L75–87。
+
+P23–27直接给两侧和paralogism作为协调机制；只证课程用语。
+
+核查：目的4不可导不可微无方向，取消轮回后不能把握最小差异；状态：supported。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)；定位：Page28–32 L90–102。
+
+P28–32铺垫并在P32明确目的论4；现字段已忠实保留课程论证，不再改写。
+
+编者注：本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。 参考：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)。
+
+定位：Page1–35 L9–111。
+
 
 <a id="344"></a>
 ## 3-4-4 解释学
@@ -16477,6 +19471,80 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 时间距离如何筛选偏见的完整段落未核；不得从积极表述推出每个偏见都正确。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=7/7；scope=全讲逐段阅读后对每个feature/axis复合命题逐项核对。；audio_check=not_performed；human_approval=False。
+
+核查：永恒轮回预设体验者/强力意志中心化空间，解释学取消这一预设；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page1–3 L9–19。
+
+P1–3明确把尼采空间化最小预设变成作为距离的时间；不是取消所有本体论预设。
+
+核查：本体论化无限且不可计数、每个瞬间文本片段有更新；深渊恐惧转为敞开解放；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page5–8 L29–44。
+
+P5明确连计数也属本体论化；P7–8明确凝缩与解放比喻。
+
+核查：把文本看作答案，重建问题，解释者与历史问题意识融合；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page11–14 L53–66。
+
+P11–14以谢林和苏格拉底为例完整展开。
+
+核查：问答不是无脑循环，而是闭合敞开；哲学高贵在问题意识，假设最小化只余时间距离；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page11 L57；Page16 L72–74。
+
+P11和P16有直接论述。
+
+核查：时间距离不等于历史相对主义，而是问题意识敞开条件；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page3 L19。
+
+P3明确反驳不能把握真理的相对主义解释。
+
+核查：效果历史维持间隙、无限重符号化、无前符号本源及第二次本有；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page4–7 L24–39。
+
+P4–7展开每一项，区分本体论化与本体化。
+
+核查：偏见为敞开条件、主体已在历史、偏见与历史循环相生；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page8–10 L44–50；Page16 L72–74。
+
+原文同时要求不僵死于前见，不能读成任何偏见都自动正确。
+
+核查：承认并溯源偏见，把答案放回语境还原问题，解释学为终极方法；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page17–18 L77–80。
+
+P17–18明确阐述方法；终极哲学明说是在我看来，是讲者评价。
+
+核查：场域3时间距离调和局部解释与整体视域；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page19–20 L83–86。
+
+P19–20直接列生存解释与视域融合两侧。
+
+核查：本体4效果历史、视域融合及本体论发生学；状态：needs_qualification。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page20–22 L86–92。
+
+初次列位如此，但P21–22允许颠倒，并特别强调效果历史是认识维度发生机制，需保留后段重议。
+
+核查：认识4解释学循环、认识发生学且可与本体颠倒；状态：needs_qualification。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)；定位：Page21–22 L89–92。
+
+允许颠倒已保留，但最终又特别称循环为本体论发生和实存机制，现概括不应只保留初始定位。
+
+编者注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“偏见为条件”并非无条件认同任何偏见，原讲要求不僵死于前见、持续追问；“终极哲学”是讲者自己的评价。 参考：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)。
+
+定位：Page1–23 L9–95（仅本讲结尾）；另核L95–98下一讲开头，仅用于3441哲学等于修辞表述。
+
 
 <a id="3441"></a>
 ## 3-4-4-1 现象学的解释学
@@ -16520,6 +19588,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 利科各书的修辞、本体论、占有之关系未逐章对照。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全讲逐段阅读后对每个feature/axis复合命题逐项核对。；audio_check=not_performed；human_approval=False。
+
+核查：不存在绝对真理式本体论，修辞产生意义真值，哲学等于修辞辩证法；状态：supported。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)、[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：0271 Page23 L95；0272 Page1–5 L9–21。
+
+无绝对本体论在P5，但隐喻仍有对错；哲学等于修辞表述在上一文件下一讲开头。
+
+核查：本体论一阶、发生机制二阶以上；隐喻裂隙与解释注册前符号内容；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page1 L9。
+
+P1完整支持，但一阶说有构成性例外可二阶的原讲限定。
+
+核查：隐喻是答案，理解须找问题；表层与第二层由主体解释中介；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page2–4 L12–18。
+
+P2–4逐项解释隐喻的不完整性及问答。
+
+核查：隐喻表象化使现象体验认知出现，回应为何有表象；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page8–9 L30–33。
+
+P8–9明确讲者使用自己的术语解释认识维度发生。
+
+核查：僵死语义与隐喻历史之间以象征中介；状态：needs_qualification。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page13–17 L45–57。
+
+P13明确语义学不是很僵死；P17明说象征中介是讲者立场，承认研究者有不同解释。
+
+核查：象征维持裂缝、专题意向性导向反思和稳固本体；坐定与入场之间落座；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page14–18 L48–60。
+
+P14–16逐项有据；原讲结尾也批评急于建稳固架构。
+
+核查：文本面对复数主体而多异，距离陌生经解释成为属我占有；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page10–12 L36–42。
+
+P10–12完整论述多异性、单称主体、距离化和内在化。
+
+核查：个人在诸可能本体中实现天命式占有，问答循环把握真理；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page12 L42。
+
+原讲用某种意义上个人天命作比喻，并限制并非任意独断。
+
+核查：场域3语义与隐喻由象征调和；状态：needs_qualification。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page12–17 L42–57。
+
+格位正确但须注明是讲者明确表示有争议的解释，非无争议利科原说。
+
+核查：本体4修辞发生机制、隐喻使本体进入话语；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page1 L9；Page17 L57。
+
+P1与P17支持。
+
+核查：认识4隐喻通过想象表象化产生体验知觉维度；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page6–9 L24–33。
+
+P6–9明确列位并展开。
+
+核查：目的1占有，解释隐喻把陌生内在化为属我真理；状态：supported。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)；定位：Page6 L24；Page12 L42；Page18 L60。
+
+P6命名、P12机制、P18明确给1。
+
+编者注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。本讲否认绝对真理式本体论，并不否认隐喻解释有对错。修辞、现象学与本体论的重组使用了讲者自己的术语。 参考：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)。
+
+定位：Page1–18 L9–60（仅本讲结尾）。
 
 
 <a id="3442"></a>
@@ -16584,6 +19732,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 待核：
 - 原音未核，课文前后心理学用词的层次仍需细读；不能据四机制段把神经生理解释认定为已核科学机制。
 
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全讲逐段阅读后对每个feature/axis复合命题逐项核对。；audio_check=not_performed；human_approval=False。
+
+核查：非哲学非心理学的准政治实践，不预设世界观且多种哲学立场可用；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page1 L9；Page3 L15。
+
+P1及P3直接如此界定；这是课程定位，未认证为学科共识。
+
+核查：力比多非实体而是剩余符号运动、发生否定性及生存根基；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page2–3 L12–15；Page8 L30。
+
+P2–3有剩余和根基；发生否定性在P8明确标为黑格尔式重读。
+
+核查：力比多中介中和自然与文明张力，文明回溯压抑自然剩余；状态：needs_qualification。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page6–8 L24–30。
+
+两侧有据，但回溯与辩证否定性明确是按照我们黑格尔主义者的解读，须标归属。
+
+核查：失衡生新结构的力量经审查在梦症状口误中显现；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page8 L30；Page11–12 L41–46；Page16 L66。
+
+P8有性、梦及审查；P11–12和P16补齐症状、口误和分析线索。
+
+核查：以梦发生机制替代独立知识发生学、四机制清醒也运行且属结构主义原则；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page13–15 L51–61。
+
+P13明说是讲者搂一个过来充数，P14说明清醒仍运行但须现象学介入。
+
+核查：置换定义为冲动转他物，凝缩定义为多义压单像；视象化神经冲动和再修饰连贯化；状态：not_located_in_full_lecture。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page13–14 L51–56；已核全文Page1–20 L9–80。
+
+本讲全文只列置换凝缩名称，未展开前两项定义；后两项在P14具体讲过。未定位不等于原典或其他讲没有。
+
+核查：超我父性审查压无意识，升华宣泄入文明崇高目的体系；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page15–17 L61–71。
+
+P15–17逐项展开，升华也属无意识症状。
+
+核查：意识不能中介压抑升华，意识是最低病理化，分析师外部话语不可能；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page17–18 L71–74。
+
+P17–18明确是讲者对框架的评议，不是医学诊断结论。
+
+核查：场域3力比多调和中和自然与父性文明；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page6–8 L24–30。
+
+P6–8直接列位和两侧。
+
+核查：本体4无预设本体论，非哲学心理学而准政治实践；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page1 L9；Page9–11 L33–41。
+
+P1、P9–10明确；后文也允许以四种道出真相形式作候选本体论，未说唯一表述。
+
+核查：认识4无意识通过梦口误症状升华四种真相机制；状态：needs_qualification。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page10–13 L36–51。
+
+四形式在P10–11置于候选本体论；P12明确认识论无意识不是上面具体四种形式，不能合并。
+
+核查：目的2压抑与升华分裂，意识不能调和；状态：supported。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)；定位：Page15–18 L61–74。
+
+P15–18明确给2及为何不能写意识为中介。
+
+编者注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。 参考：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)。
+
+定位：Page1–20 L9–80（仅本讲结尾）。
+
 
 <a id="3443"></a>
 ## 3-4-4-3 语言游戏
@@ -16633,6 +19861,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 私人语言论证是否否定第一人称体验及沉默读法的原著根据未逐段确认。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全讲逐段阅读后对每个feature/axis复合命题逐项核对。；audio_check=not_performed；human_approval=False。
+
+核查：语言意义在用法而非固定指称，已符号世界可重设规则再符号化；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page1–4 L9–18。
+
+P1–4展开三位哲学家的课程对照及符号重组例子。
+
+核查：规则符号被压抑至驱力而产生原乐和意义之乐；状态：needs_qualification。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page4–5 L18–21。
+
+P4–5明说因为我们是辩证法家，继而给精神分析解释，不是维特根斯坦直接提出jouissance。
+
+核查：无私人语言、差异和用法，无直接第一人称意义根据，现象学无根；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page7–8 L27–30。
+
+P7–8支持课程的强解释，不宜当作私人语言论证在学界唯一含义。
+
+核查：与马克思交换价值相似，诸聪明人同洞见却用途异；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page1 L9；Page8 L30。
+
+P8明确类比；人物并置由P1及P8组成，属于讲者思想谱系，不证实际同一理论。
+
+核查：晚期沉默是语言游戏而非闭嘴，不在僵死语法意义图式中说话；状态：needs_qualification。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page12–16 L42–54。
+
+P14先提早期逻辑哲学论，再由晚期语言观推导沉默；这是讲者的跨阶段重读，不宜写成晚期原文定义。
+
+核查：放弃既定目的网络、平等万物显隐而探索新本体与世界同玩；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page16–18 L54–60。
+
+P16–18完整支持这一解释学推论。
+
+核查：去癔症去主体、不信大他者，分析话语调和占有主人与压抑癔症；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page6 L24；Page11–12 L39–42。
+
+P6明确主体姿态；P11–12明确目的3及两侧类比。
+
+核查：无目的女性化游戏调和却目的闭合，数理逻辑游戏效力限自身语境；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page10–11 L36–39；Page18–20 L60–68。
+
+P10–11提出限度，P19又承认能对受数理逻辑主人话语支配的科学家数学家有效；并非绝对只作用作者本人。
+
+核查：场域3去癔症女性化主体调和符号系统与历史活动；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page5–6 L21–24。
+
+P5–6直接列位及无目的自为目的。
+
+核查：本体4意义在用法，世界结构以语言构成；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page6–7 L24–27。
+
+P6–7明确本体4与用法。
+
+核查：认识4无私人语言，第一人称直接意义无根据；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page7–8 L27–30。
+
+P7–8明确此格位；其去主体化延伸是讲者的强解释。
+
+核查：目的3分析性话语以游戏调和主人与癔症话语；状态：supported。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)；定位：Page11–12 L39–42。
+
+P11–12明确目的3，具体两侧还有升华/压抑比照。
+
+编者注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。本讲把晚期维特根斯坦、晚期海德格尔与拉康并置；原乐、去癔症化和主体幻觉等是课程的精神分析式重读，不能当作《哲学研究》直接术语。分析哲学的效力限制在后段扩及共享数理逻辑问题的群体，并非只对某篇论文作者本人有效。 参考：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)。
+
+定位：Page1–21 L9–73（仅本讲结尾）。
 
 
 <a id="3444"></a>
@@ -16698,6 +20006,86 @@ Page21讲者自己撤回癔症化作为本格根据：癔症化应该是2；Page
 
 待核：
 - 摘要第3项幻想/剩余价值细节及认识论轴的所有抽象活动等全称判断，未在本批逐句核完；原音未听校。
+
+证据层级：`community_transcript_field_by_field_comparison`。
+
+复核状态：field_coverage=8/8；scope=全讲逐段阅读后对每个feature/axis复合命题逐项核对。；audio_check=not_performed；human_approval=False。
+
+核查：无意识生产否定主体与一致客观世界，非力比多仓库而劳动生产机制；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page1–4 L9–73。
+
+P1–4逐项解释两个产品及与弗洛伊德的课程对比。
+
+核查：普罗大众不是经验阶级而无意识政治主体、纯否定性；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page3 L42–56；Page5 L83–87；Page21–22 L196–199。
+
+P3和P5直接限定，P21–22再次排除以收入职业身份定义。
+
+核查：社会存在关系不存在为讲者所称斯洛文尼亚共识，社会空能指博弈场；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page9–12 L144–159。
+
+P9–12有直接论述，原字段已标本讲声称而非学术界共识。
+
+核查：各力隐藏片面关系，雇佣商品化与按劳分配例子，最低空场共识；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page12–15 L159–174。
+
+P12–15逐项给两个视角及无意识最低共识。
+
+核查：无否定纯生命自我增殖甩出受剥削创伤主体，又以幻象闭合；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page2 L37–39；Page5–6 L91–107。
+
+P2和P5–6完整给生命、剩余价值及主体裂缝的逻辑。
+
+核查：剩余快感与剩余价值同构，幻想遮蔽剥削创伤使表象光滑；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page6 L98–107。
+
+P6直接如此类比；这是课程重读，不把二概念数值或范畴直接等同。
+
+核查：大学话语而非分析话语为个人观点，无力失败且舵手无上帝视角；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page5 L76–80；Page18–19 L187–190。
+
+P5明说个人观点；P18–19直接给格位与航行比喻。
+
+核查：符号系统自我描述生发主客体，理论者包含自身，真诚自信又知可能错；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page19–23 L190–202。
+
+P19–23支持完整理论姿态；失败不是要求停止理论劳动。
+
+核查：场域3无意识普罗主体调和无否定生命资本与抽象理论；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page5–7 L83–127。
+
+P5–7直接列位并阐述理论与现实张力。
+
+核查：本体4无融贯历史，社会有而关系不能统一，阶级斗争历史；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page9–15 L144–174。
+
+P9–15限定不存在的是上帝视角融贯结构，不是经验中完全没有社会互动或时间。
+
+核查：认识4无意识，所有抽象不可信且异化症状；状态：needs_qualification。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page16–17 L179–184。
+
+P16先说所有抽象后具体限定布尔乔亚理论/学术意识形态；不宜扩成任何抽象思维皆毫无可信性的无条件定理。
+
+核查：目的4调和失败、无力绝望理论化；状态：supported。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)；定位：Page18–23 L187–202。
+
+P18直接明确讲者立场，P19–23坚持不放弃的冒险，非拉康本人对全部理论的定论。
+
+编者注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。 参考：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)。
+
+定位：Page1–24 L9–205（仅本讲结尾）。
 
 
 <a id="4"></a>
@@ -20612,7 +24000,7 @@ AI试图通过成为人类的理想伴侣、共同养育后代，获得与人平
 
 ### 3-3-3-3
 
-字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：①晚期的尼采(1884年之后，阅读了晚期谢林《世界时代》后)重新泛神论化，试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，但它在查拉图斯特拉中仅出现了三次。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。尼采晚期写信给他妹妹说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但他疯掉了，没有机会成为一个成熟的哲学家。
 
@@ -20636,7 +24024,7 @@ AI试图通过成为人类的理想伴侣、共同养育后代，获得与人平
 
 ### 3-3-4-4
 
-字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：①博尔赫斯的意识未成功通过镜像阶段，他能暂时去除一种意识结构(时间或空间)而体验另一种。小径分岔的花园呈现去除空间化后的时间拓扑结构：过去与未来无限分岔汇合于一个无法符号化的当下，能指与所指短路。
 
@@ -20672,7 +24060,7 @@ Page 24 L79明确承认可能跨文本，补回避免把跨时期解释全部当
 
 ### 3-4-1-3
 
-字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：①罗兰·巴特是结构主义运动中最不严格的哲学家，但他使结构主义获得了纵深尝试。叙事学的三层模型(功能层/行动层/叙事层)调和非人称化的底层符码与人称化的镜像认——叙事层产生”文本是活的世界”的效果。
 
@@ -22886,7 +26274,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
 
-修改前：③贝克莱的哲学有一定的辩证性，他认为精神有别于理念，是不能被感知的，而精神具有因果性上的自由，是能动的主体，能够给予理念以本体论支撑，所以精神即是实体(Substance)。 
+修改前：③贝克莱的哲学有一定的辩证性，他认为精神有别于理念，是不能被感知的，而精神具有因果性上的自由，是能动的主体，能够给予理念以本体论支撑，所以精神即是实体(Substance)。
 
 修改后：③讲者认为，贝克莱把精神与被动理念区分开，保留了某种辩证性：精神不能作为一幅理念被感知，却可经其活动效果得到把握，是主动的实体。有限精神能激发行动，但仍须依循上帝保障的规律，并不具有任意设定现实感觉的能力。
 
@@ -25242,6 +28630,990 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 进度更新（2026-11-13）：前轮漏查Page12 L62，误以为目的论没有独立表述。该段明确给出目的论4及托付下一代、肉体与完全放手的理由，原视频21:05附近板书亦显示目的论与子代、自己的前程。撤销收束段编者归纳，替换为直接转述；思想实验限定仍保留。
 
 依据：[4-4-4-4 目的论明确表述段（社区编纂正文）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-4_%E5%86%8D%E7%94%9F/0363_4-4-4-4_%E5%86%8D%E7%94%9F_p8959.md)、[4-4-4-4 原视频目的论板书（21:05附近）](https://www.bilibili.com/video/BV11Y41187nu/?t=1265)。
+
+### 3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内现实存承担)
+
+修改后：本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内在实存承担)
+
+正文Page16明确说内在的实存。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)。
+
+### 3-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④生存论者的智性牺牲与布尔乔亚限度：真正的生存论者(克尔凯郭尔、尼采)将自己的实存本身烧掉——他们的理性活动承载了人类共同体文化符号学形态的巨大转变，道出真理后精神堕落为灵魂，失去言说能力。这种牺牲奉献的姿态使得他们成为精神上的实践者。但归根结底其位置仍未超出布尔乔亚的智性门槛：他们设立的智性门槛将绝大多数人排除在外，其哲学仍是在遵从逻辑、语言和逻各斯的前提下进行的后观念论探讨。
+
+修改后：④生存论者的智性牺牲与布尔乔亚限度：讲者用“燃烧实存”比拟克尔凯郭尔和尼采的思想投入，认为其理性活动承载了共同体文化符号形态的转变；其中“道出真理后精神变成灵魂、失去言说能力”的直接例子指尼采。这种牺牲姿态被讲者称为精神上的实践，但仍被批评设有布尔乔亚式智性门槛，排除未跨过门槛者。其哲学仍在逻辑、语言与逻各斯的框架内作后观念论探讨。
+
+恢复失语隐喻的直接指涉，并去掉无依据的人口比例；保留讲者的政治评价。
+
+依据：[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)。
+
+### 3-3-1
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①存在主义的真正含义：存在主义(Beingism/Seinism)研究的是「是」(Being/Sein)本身，即主词和谓词的中介环节，而非被误译为Existentialism的生存论。海德格尔将之称为基本存在论(fundamental ontology)，它研究存在这个中介化过程。真正的存在主义不包括克尔凯郭尔、尼采等生存论者，而是特指海德格尔、萨特等以现象学方法研究存在之为存在的哲学家，他们本质上是在做第一哲学，为黑格尔和谢林的体系提供补充和调节。
+
+修改后：①存在主义的真正含义：讲者把本格的存在主义称为Beingism/Seinism，研究的是「是」(Being/Sein)本身，讲者将其联系于中介作用，同时提醒海德格尔的原初存在并不等同于主词与谓词之间的系词，而非被误译为Existentialism的生存论。海德格尔将之称为基本存在论(fundamental ontology)，它研究存在这个中介化过程。真正的存在主义不包括克尔凯郭尔、尼采等生存论者，而是特指海德格尔、萨特等以现象学方法研究存在之为存在的哲学家，他们本质上是在做第一哲学，为黑格尔和谢林的体系提供补充和调节。
+
+恢复自定命名归属及原文对系词类比的限制。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)。
+
+### 3-3-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③主观主义现象学的有限性原则：存在主义在认识论上通通由主观主义现象学贯穿。它既不是本体论也不是纯观念论，而是三者的交汇。其原则是有限性原则——在一个有限性的视域框架之内，此在的第一人称体验具有揭露和把握存在论架构的优先性。畏、害怕、茫然、无知等情绪体验成为符号系统展开的动力学机制，使得存在世界化。
+
+修改后：③主观主义现象学的有限性原则：存在主义在认识论上通通由主观主义现象学贯穿。讲者把它视为本体论、观念论与生存论的交汇。其原则是有限性原则——在一个有限性的视域框架之内，此在的第一人称体验具有揭露和把握存在论架构的优先性。畏、害怕、茫然、无知等情绪体验成为符号系统展开的动力学机制，使得存在世界化。
+
+原文明确既是本体论又是观念论又是生存论，不能写成两个否定。
+
+依据：[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)。
+
+### 3-3-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论3：此在在世存在(调和形而下(沉沦/常人状态)与形而上(本真现身/向死而生)的对立)
+
+修改后：场域论3：此在的操心（在世存在的基本结构，调和形而下的沉沦、常人状态与形而上的本真现身）
+
+Page13明确“用烦来调和”，Page17以操心命名此在之存在。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)。
+
+### 3-3-1-1
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②从现身到沉沦的辩证环节：现身的基本模式是畏(Angst)——此在面对其在世存在本身所产生的无根性畏惧，畏不知所畏，因而是站在虚无中的颤抖。领会则通过看(寻视→好奇)和言词(命题→闲言)两个路径导向两可，最终导向沉沦——此在沦入常人状态，遗忘存在，迷失于存在者之中。这一系列环节构成了一套类似黑格尔逻辑学的微观辩证法，每一环节内部都有小辩证法运作。
+
+修改后：②从现身到沉沦的辩证环节：现身的基本模式是畏(Angst)——此在面对其在世存在本身所产生的无根性畏惧，畏不知所畏，因而是站在虚无中的颤抖。领会在日常沉沦的样态中通过看(寻视→好奇)和言词(命题→闲言)两个路径导向两可，最终导向沉沦——此在沦入常人状态，遗忘存在，迷失于存在者之中。讲者同时保留整体、透彻的领会不必导向沉沦的限定。这一系列环节构成了一套类似黑格尔逻辑学的微观辩证法，每一环节内部都有小辩证法运作。
+
+Page12明说不是整个领会一定导向遗忘沉沦，恢复被省略限定。
+
+依据：[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)。
+
+### 3-3-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论3：自为意识的出神状态(调和形而下(实在论/超越论的维度)与形而上(本质论/符号学网络)的对立)
+
+修改后：场域论3：虚无（主体性的非定位维度）调和形而下的实在论/超越论维度与形而上的本质论/符号网络
+
+Page 21、23明确区分上面的场域由虚无维持、下面本体由存在维持。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+### 3-3-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3：散朴性(facticity/偶然性)与本质(必然性)的中介(存在同时是自为的偶然与自在的本质化)
+
+修改后：本体论3：存在调和散朴性（facticity，事实性/偶然性）与本质（必然性）；存在兼具自为的偶然性与自在的本质化
+
+补出 Page 23明确的调和者存在，保留本课译名散朴性。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+### 3-3-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1：现象学化的辩证法(依靠现象学化的隐德莱希铺设主体性、世界性、他者性和自我异化)
+
+修改后：认识论1：现象学化的辩证法（通过现象学化的辩证展开铺设主体性、世界性、他者性和自我异化）
+
+本讲 Page 25支持这些结构的辩证展开；全文未定位隐德莱希。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+### 3-3-1-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①虚无的发生学机制与无知的主体：萨特将存在与虚无的辩证张力奠基于虚无的发生学机制——主体(人)本质上是一种问题意识，是中介与它所中介的绝对者之间的原初问题。主体的无知(不知道世界化样态、不知道人与世界的关系如何铺设)代表着绝对者的自由可能性，即绝对者可以不存在的自由。这种无知是一种本体性的力量，它使得主体可以免于符号学等级制的束缚，成为打破僵化理念等级制的原初意志。
+
+修改后：①虚无的发生学机制与无知的主体：本课将存在与虚无的辩证张力奠基于虚无的发生学机制——主体(人)本质上是一种问题意识，是中介与它所中介的绝对者之间的原初问题。主体的无知(不知道世界化样态、不知道人与世界的关系如何铺设)代表着绝对者的自由可能性，即绝对者可以不存在的可能性（讲者特别提醒，此处萨特使用的是“可能性”，再由讲者联系于自由）。这种无知是一种本体性的力量，它使得主体可以免于符号学等级制的束缚，成为打破僵化理念等级制的原初意志。
+
+尊重 Page 7的自由/可能性区分，将跨体系推导限定为本课解释。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+### 3-3-1-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④存在先于本质与人道主义：萨特明确主张人的存在没有先验理念或形而上学本质的束缚，人先存在、后定义自己的本质。但这种极端的自由并非唯我论——主体性天然具有复数性，我思故我在中的「我在」原初分裂为我和他人，共在是原初的生存结构。他人是地狱首先意味着我内在的那个他者是深渊。共在使得主体在通过存在设立新的本质时具有规范性维度，由此「存在主义是一种人道主义」。
+
+修改后：④存在先于本质与人道主义：萨特明确主张人的存在没有先验理念或形而上学本质的束缚，人先存在、后定义自己的本质。但这种极端的自由并非唯我论——主体性天然具有复数性，我思故我在中的「我在」原初分裂为我和他人，共在是原初的生存结构。按讲者的解释，“他人是地狱”首先意味着我内在的那个他者是深渊。共在使得主体在通过存在设立新的本质时具有规范性维度，由此「存在主义是一种人道主义」。
+
+Page 32是讲者对内在他者的解释，非已核原典释义。
+
+依据：[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)。
+
+### 3-3-1-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④辩证法历险的必然失败：一切中介化注定失败——辩证法只能消解二元对立中的一项，另一项会接替上来构成新的对立。不能消解的剩余是代价、是苦难。梅洛庞蒂批判将辩证法绝对化的倾向(无论是萨特的纯粹行动主义还是布尔什维克的纯粹意志主义)，认为过早投入实践而辩证法体系尚未成熟，必然导致灾难性的剩余。承认所有辩证化活动注定失败，正是反抗中介性的正确方式，但这种清醒也使得他最终退回到教授席位而丧失了政治生命。
+
+修改后：④辩证法历险的必然失败：一切中介化注定失败——辩证法只能消解二元对立中的一项，另一项会接替上来构成新的对立。不能消解的剩余是代价、是苦难。梅洛庞蒂批判将辩证法绝对化的倾向(无论是萨特的纯粹行动主义还是布尔什维克的纯粹意志主义)，认为过早投入实践而辩证法体系尚未成熟，必然导致灾难性的剩余。承认所有辩证化活动注定失败，是讲者归给梅洛庞蒂的一种反中介姿态，讲者同时批评它可能使实践退回保守，但这种清醒也使得他最终退回到教授席位而丧失了政治生命。
+
+Page 17明确反对因怕失败而退缩；不把讲者所批评立场写成无条件正确。
+
+依据：[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)。
+
+### 3-3-1-4
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②六环节的构架与跳跃：该书分为六个环节：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。
+
+修改后：②六环节的构架与跳跃：本课说明全书有八部分，其中间部分分为六个环节：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。
+
+Page 4明确全书八、中间六；使正文与已存目录注一致。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)。
+
+### 3-3-1-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③最后之神与主体性的交错运动：海德格尔最深刻的洞见在于最后之神与将来的此在之间的交错运动——本体论打包完毕、最后之神撤场的同时，此在的意识涌现，两者是同一个过程。此在如同手离开橡皮泥时留下的指纹，是本体论缝合的剩余。由此得出一个极其大胆的结论：此在的主体化就是绝对者的本体论闭合，反之亦然；两者互为最后之神。这一洞见揭示了主体间性的发生学机制。
+
+修改后：③最后之神与主体性的交错运动：讲者以晚期谢林和拉康的结构解释最后之神与此在的交错：最后之神撤场的同时，此在意识涌现，二者是同一个过程。此在如同手离开橡皮泥时留下的指纹，是本体论缝合的剩余。讲者进一步大胆推测：我的主体化是另一方的本体论闭合，反之亦然，双方可说互为最后之神；但随后明确限制，这不能理解为两个意识对称地朝相反方向生存，而应理解为主体在生成中的非我化，以及未来的自我不断降临。
+
+Page 23–24明确“大胆揣测”，Page 28否认两个意识对称反向生存；补回归属与后续限制。
+
+依据：[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)。
+
+### 3-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2：思辨哲学(理性主义的绝望努力、黑格尔式逻辑体系)与生存论指南(非此即彼的抉择、以命代思的生存方式)的对立
+
+修改后：认识论2：思辨哲学（包括生存指南中的理性论述）与生存本身（每个当下的抉择、以命代思）的对立
+
+采用讲者 Page 17–19对前面生存指南表述的明确修正。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)。
+
+### 3-3-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④认识论上思辨哲学被降格，真正的认识方式是”以命代思”——每一瞬间都是最重大的哲学难题，主体用最本真的情感、精神决断和生命状态来思考和生存。这不是用语言符号在思考，而是用神经递质、用激素、用生命本身在哲学地活着(live philosophically)。主体在每一刻都在综合、都在做抉择、都在调和本体论和场域论上的张力。这种状态极难维持，代价是燃烧寿命。
+
+修改后：④认识论上思辨哲学被降格，真正的认识方式是”以命代思”——每一瞬间都是最重大的哲学难题，主体用最本真的情感、精神决断和生命状态来思考和生存。讲者以“神经递质、激素”作比方，强调用整个情感和生命状态在哲学地活着(live philosophically)，并非在给出神经生理学机制。主体在每一刻都在综合、都在做抉择、都在调和本体论和场域论上的张力。讲者认为这种状态极难维持，并以“燃烧寿命”形容其代价；本课未证立短寿的医学因果。
+
+Page 20明说打个比方；不把课程隐喻转为生理学与寿命断言。
+
+依据：[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)。
+
+### 3-3-2-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③宗教阶段的核心概念是重复(repetition)。主体意识到自己的中介性本身(messenger)是由一个他者(绝对者)设定的——自我设定的中介内容(主体体验到什么、如何体验)由主体负责，但中介性本身(主体作为一个自我中介而实存)由绝对者预先设立。这就是被中介的自我中介(mediated self-mediation)。主体发现自己的存在是被允许的(允许此在)而非仅仅是被迫的(必须此在)，由此获得一种加倍的自由。
+
+修改后：③宗教阶段的核心概念是重复(repetition)。主体意识到自己的中介性本身是由一个他者(绝对者)设定的——自我设定的中介内容(主体体验到什么、如何体验)由主体负责，但中介性本身(主体作为一个自我中介而实存)由绝对者预先设立。这就是被中介的自我中介(mediated self-mediation)。主体发现自己的存在是被允许的(允许此在)而非仅仅是被迫的(必须此在)，由此获得一种加倍的自由。
+
+本讲未见 messenger 括注，不能用信使一词代替中介性。
+
+依据：[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)。
+
+### 3-3-2-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①荷尔德林是康德之后的诗人-哲学家，意识到了康德哲学中自身性的问题。在场域论上受到席勒的三元论启发：力的野蛮王国(经验现实)与法则的神圣王国(理性秩序)的对立，需要由审美的快乐王国来调和。但荷尔德林更进一步，将调和的力量归结为诗性存在——诗歌不是感性的消遣，而是比哲学更具张力的符号化活动，是创世(World-creation)本身。
+
+修改后：①荷尔德林是康德之后的诗人-哲学家，意识到了康德哲学中自身性的问题。讲者在说明其场域论时借用席勒的三元论：力的野蛮王国(经验现实)与法则的神圣王国(理性秩序)的对立，需要由审美的快乐王国来调和。但荷尔德林更进一步，将调和的力量归结为诗性存在——诗歌不是感性的消遣，而是比哲学更具张力的符号化活动，是创世(World-creation)本身。
+
+Page 1指讲者采用席勒框架，未在此证明影响关系。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)。
+
+### 3-3-2-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上是绝望的循环运动：现代人永远沉浸在二元分裂之中，如同太阳绕着地球循环不息。诗意的栖居并非解决之道，而只是循环运动中的一个环节。荷尔德林最终未能像克尔凯廓尔那样通过自身的辩证法实现和解，而是陷入了癫狂。诗性存在论作为生存论的一个变体，以极高的智性门槛为前提——它要求晚期谢林以上的水准，否则会陷入病理化的循环。
+
+修改后：④目的论上的循环：讲者把现代人的二元分裂解释为太阳在地平线视域中的循环，并把“诗意的栖居”看作循环的一环。他对照克尔凯郭尔的和解，将荷尔德林未能和解与其精神失常联系起来；这是课程的批评性解释，不能据此确立疾病原因。讲者要求此类诗性探索具有晚期谢林以上的智性准备，并警告它可能扰乱既有符号系统，这也属于他的实践判断。
+
+保留Page11–33立场，明确循环比喻、疾病因果与智性门槛的边界。
+
+依据：[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)。
+
+### 3-3-2-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②别尔嘉耶夫本质上是一个格位主义(Personalism)者，他认为自由即人格、即个性——这是晚期谢林意义上的原初决断，是一种前反思的、非对象化的创造性意志。这个自由不是freedom(选项之间的选择自由)，而是那个沉入无意识的、塑造整个人格的原始决断。主体在世间的抉择和行动，就是绝对者本人在铺设其道德谱系和本体论秩序。
+
+修改后：②别尔嘉耶夫本质上是一个格位主义(Personalism)者，他认为自由即人格、即个性——这是晚期谢林意义上的原初决断，是一种前反思的、非对象化的创造性意志。讲者将这种自由解释为沉入无意识、塑造整个人格的原初决断，强调其非反思性的人格创造意志。主体在世间的抉择和行动，就是绝对者本人在铺设其道德谱系和本体论秩序。
+
+保留明确非反思性，去除无据选项定义及有编纂歧义的英文对立。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)。
+
+### 3-3-2-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上，哲学与动员学之间的对立是关键。动员学(即自设世界的学问、建设共同体的实践智慧)是别尔嘉耶夫早年作为马克思主义者所习得的遗产。正是这种动员学的维度使他超越了克尔凯廓尔和荷尔德林——后两者都缺乏这种建设性的、创造性的维度。别尔嘉耶夫因此可以幸存下来(不像荷尔德林那样癫狂，也不像克尔凯廓尔那样英年早逝)。
+
+修改后：③认识论上，哲学与动员学之间的对立是关键。动员学(即自设世界的学问、建设共同体的实践智慧)是别尔嘉耶夫早年作为马克思主义者所习得的遗产。正是这种动员学的维度使他超越了克尔凯廓尔和荷尔德林——后两者都缺乏这种建设性的、创造性的维度。讲者把别尔嘉耶夫的“幸存”归因于这种共同体创造精神，并以荷尔德林和克尔凯廓尔作对照；这是课程评价，尚不能证明哲学立场决定疾病或寿命。
+
+补回原讲“我认为”的推论性质。
+
+依据：[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)。
+
+### 3-3-2-4
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②本体论上，生存与超验之间存在第三个环节——超验的密码(code of transcendent)。密码是非对象化的、不能被对象意识所把握的，但一旦被聆受就会被符号化，变成新的本体性秩序。密码的把握只能通过诗歌或高级哲学，而且是私人的(intellectual ability)——每个人都要自己面临，不具有公共性。这种私人的可理解性是生存(主体自由地设立符号学秩序)与超验(绝对者的降旨)之间的中介。
+
+修改后：②本体论上，生存与超验之间存在第三个环节——超验的密码(code of transcendent)。密码是非对象化的、不能被对象意识所把握的，但一旦被聆受就会被符号化，变成新的本体性秩序。密码的把握只能通过诗歌或高级哲学，而且是私人的——每个人都要自己面临，不具有公共性。这种私人的可理解性是生存(主体自由地设立符号学秩序)与超验(绝对者的降旨)之间的中介。
+
+该英语直译为智性能力，未核为雅氏规范术语，保留实际中文课义。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)。
+
+### 3-3-2-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上，世界探源分为两个层次：科学化的世界探源是在既定的先验框架内做题，哲学化的世界探源则是通过智性活动摸索新的先验框架，但两者都属于尚未抵达本真生存的层次。真正的认识方式是生存的阐明——主体意识到自己的生存就是绝对者的外存(Existence = absolute's being-outside-itself)，自己的第一人称体验就是绝对者以一种有限的样态出来。生存的阐明最终走向形而上学(聆听超验密码)。
+
+修改后：③认识论上，世界探源分为两个层次：科学化的世界探源是在既定的先验框架内做题，哲学化的世界探源则是通过智性活动摸索新的先验框架，但两者都属于尚未抵达本真生存的层次。讲者将更高层次的认识解释为生存的阐明——把生存解读为绝对者的外存(Existence = absolute's being-outside-itself)，自己的第一人称体验就是绝对者以一种有限的样态出来。生存的阐明最终走向形而上学(聆听超验密码)。
+
+Page 13是讲者译名建议与阐释，不作已校原典定义。
+
+依据：[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)。
+
+### 3-3-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④认识论上爱命运意味着主体超越把握(用智性探索绝对者的上升运动)和不想把握(内在化地沉浸在绝对者的矛盾中)的对立。主体宣称”我便是强力意志”——我的意志就是绝对者的意志。爱命运不是被动地接受命运，而是主动地去中介那种中介性(mediate mediativity)：主体不是作为一个人格化的”我”在体验，而是作为整个世界世界化的中介过程本身在生存。我是被中介的自我中介，但我主动地去定义和中介这种中介性、这种有限性——我就是绝对者。
+
+修改后：④认识论上爱命运意味着主体超越把握(用智性探索绝对者的上升运动)和不想把握(内在化地沉浸在绝对者的矛盾中)的对立。主体宣称”我便是强力意志”——我的意志就是绝对者的意志。爱命运不是被动地接受命运，而是主动地去中介那种中介性(mediate mediativity)：主体不是作为一个人格化的”我”在体验，而是作为整个世界世界化的中介过程本身在生存。我是被中介的自我中介，但我主动地去定义和中介这种中介性、这种有限性——我就是绝对者。 讲者随后限定，这里的“我就是绝对者”不是人格化自我的全能宣言：人既不是那个角色，也不是一个独立绝对者，而是局部、偶然的中介过程；因此不支持唯我论的狂妄。
+
+Page 24–27明确局部/偶然/过程，并在Page26说“也不是绝对者”，补回结尾限制。
+
+依据：[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)。
+
+### 3-3-3-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上，舍斯托夫以信仰为调和机制——但这种信仰不是对某个神或某个符号系统的信仰，而是对自由的绝对信任：信任主体是绝对者的中介活动本身、信任自由和必然性是平等的。主体通过绝望(符号系统崩溃)冲破了必然性的束缚，在绝境中意识到自己就是绝对者的中介性的中心者(mediating mediativity)——不是被中介的，而是主动的中介活动本身，因此可以和必然性背后的力量讨价还价、平起平坐。
+
+修改后：③认识论上，舍斯托夫以信仰为调和机制——但这种信仰不是对某个神或某个符号系统的信仰，而是对自由的绝对信任：信任主体是绝对者的中介活动本身、信任自由和必然性是平等的。主体通过绝望(符号系统崩溃)冲破了必然性的束缚，在绝境中意识到自己就是绝对者的主动中介着的中介性(mediating mediativity)——不是被中介的，而是主动的中介活动本身，因此可以和必然性背后的力量讨价还价、平起平坐。
+
+Page15–16原语是中介着的中介性，非中心者。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)。
+
+### 3-3-3-1
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④尼采主义在舍斯托夫这里暴露了根本问题：它幻想有一个纯粹的、免于意义的强力意志，幻想主体性不会被它所承载的内容所污染。但实际上，由于爱欲辩证法在底层运行，强力意志本身会分裂为智性欲望(使系统成功被架设)和死亡驱力(清空一切既有的符号秩序)，两者相互污染。这意味着不可能有纯粹的中介中介性——不能幻想强力意志所意欲的内容是一个纯粹的本体论补丁。这个幻想如果意识形态化，会导致灾难性的后果(如纳粹将偶然的内容提高到绝对普遍的高度)。
+
+修改后：④尼采主义在舍斯托夫这里暴露了根本问题：它幻想有一个纯粹的、免于意义的强力意志，幻想强力意志的形式不会污染它所承载的内容。但实际上，由于爱欲辩证法在底层运行，强力意志本身会分裂为智性欲望(使系统成功被架设)和死亡驱力(清空一切既有的符号秩序)，两者相互污染。这意味着不可能有纯粹的中介中介性——不能幻想强力意志所意欲的内容是一个纯粹的本体论补丁。这个幻想如果意识形态化，会导致灾难性的后果(如纳粹将偶然的内容提高到绝对普遍的高度)。
+
+Page20批评形式污染内容，后述互相污染；修正原摘要倒置。
+
+依据：[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)。
+
+### 3-3-3-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①雅各比是尼采主义的前驱——一个与康德、费希特同时代的尼采主义者。他厌恶观念论运动、厌恶理性化的中介、反对康德式的先验框架和黑格尔式的总体体系。他认为康德通过先验想象力和先验统觉来构造对象的努力是一种多此一举——事物的存在不需要先验框架的中介，时间链条的展开本身就足以把现实的表象和规定性带出来。时间是富有内容的，不是空洞的形式。
+
+修改后：①讲者把与康德、费希特同时代的雅各比类比为尼采式的生存论者。他厌恶观念论运动、厌恶理性化的中介、反对康德式的先验框架和黑格尔式的总体体系。他认为康德通过先验想象力和先验统觉来构造对象的努力是一种多此一举——事物的存在不需要先验框架的中介，时间链条的展开本身就足以把现实的表象和规定性带出来。时间是富有内容的，不是空洞的形式。
+
+避免把跨时代课程类比误读为历史学派身份或已经证明的影响链。
+
+依据：[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)。
+
+### 3-3-3-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①讲者将1884年之后的尼采理解为重新泛神论化，并推测他当时读过晚期谢林《世界时代》；课程同时讨论他试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，课程在说这一主题出现“三次”后，分别提及《快乐的科学》《查拉图斯特拉如是说》和《善恶的彼岸》，没有把“三次”限定在《查拉图斯特拉如是说》一本之内。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。尼采晚期写信给他妹妹说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但他疯掉了，没有机会成为一个成熟的哲学家。
+
+修改后：①讲者将1884年之后的尼采理解为重新泛神论化，并推测他当时读过晚期谢林《世界时代》；课程同时讨论他试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，课程在说这一主题出现“三次”后，分别提及《快乐的科学》《查拉图斯特拉如是说》和《善恶的彼岸》，没有把“三次”限定在《查拉图斯特拉如是说》一本之内。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。讲者还转述尼采晚期给妹妹的信，说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但讲者认为他的精神失常阻断了体系化工作。该信的日期和原文尚未核实，“成熟的哲学家”属于讲者评价。
+
+信件细节本轮只能核实课堂确有转述，不能冒充传记原件已校；明确评价归属。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)。
+
+### 3-3-3-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上的复数化是尼采对孤独的扬弃。从永恒轮回第1份手稿(绝对者吞食有限的中介环节)到第4份手稿(宣称“我们”)，尼采走向了人称的复数化——从“我”走向“你们”和“我们”。这意味着同一生存论最终必须在目的论上变成多——绝对者不可能只通过一个中介者来完成自我同一运动，它必须通过多个中介者、跨物种甚至跨主体的共同体来实现自身。查拉图斯特拉的动物(鹰和蛇)作为这种共同体的表征，暗示了超越个体孤独的生存论共同体。
+
+修改后：④讲者将目的论上的复数化解释为尼采对孤独的扬弃。从永恒轮回第1份手稿(绝对者吞食有限的中介环节)到第4份手稿(宣称“我们”)，尼采走向了人称的复数化——从“我”走向“你们”和“我们”。在讲者明确称为“我的思辨”的重构中，同一生存论最终须在目的论上变成多——绝对者不可能只通过一个中介者来完成自我同一运动，它必须通过多个中介者、跨物种甚至跨主体的共同体来实现自身。查拉图斯特拉的动物(鹰和蛇)作为这种共同体的表征，暗示了超越个体孤独的生存论共同体。
+
+Page21明确“我的思辨”；保留课程论证并补来源层次。
+
+依据：[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)。
+
+### 3-3-3-4
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①金融资本主义作为同一生存论的最堕落形态，是尼采主义超人幻想在现实中的畸形实现。金融资本家脱离了产业生产和一切服务性劳动，专司金融投机——投机(Speculation)和思辨在词源上本是一体。投机的精神本质上是思辨哲学的精神：投入筹码(生命张力)去试探本体论的结构，赌一赌、猜一猜绝对者的运动方式。金融资本家以为自己就是尼采笔下的超人——不受任何符号系统制约的自由立法者。
+
+修改后：①金融资本主义作为同一生存论的最堕落形态，是尼采主义超人幻想在现实中的畸形实现。金融资本家脱离了产业生产和一切服务性劳动，专司金融投机——讲者借英语 speculation 兼有投机与思辨的用法作类比。投机的精神本质上是思辨哲学的精神：投入筹码(生命张力)去试探本体论的结构，赌一赌、猜一猜绝对者的运动方式。金融资本家以为自己就是尼采笔下的超人——不受任何符号系统制约的自由立法者。
+
+原讲使用同词类比，未作词源学论证。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)。
+
+### 3-3-3-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上的偏斜(四)使金融资本主义成为唯一一种无意识的哲学——不是人在思考，而是物质世界在思考。偏斜运动(类似于伊壁鸠鲁的原子偏斜)使得资本的自循环体系无法形成概率论上的闭合，不断通过任意性偏离来维持自身的异质性根据。金融资本家需要痛苦(自虐)作为享乐——通过偏斜从大众价值观中挣脱，体验到”完成的完全中介性”。但这种超人的自我幻想最终是空心的：它掩盖了真正的内在对抗性——被压抑在符号系统之外的无产者才是真正的否定性力量。
+
+修改后：④讲者把目的论上的偏斜(四)解读为一种“无意识的哲学”，甚至称其为唯一一种，并用“物质世界在思考”比喻货币体系的自中介性。偏斜运动(类似于伊壁鸠鲁的原子偏斜)使得资本的自循环体系无法形成概率论上的闭合，不断通过任意性偏离来维持自身的异质性根据。金融资本家需要痛苦(自虐)作为享乐——通过偏斜从大众价值观中挣脱，体验到”完成的完全中介性”。但这种超人的自我幻想最终是空心的：它掩盖了真正的内在对抗性——被压抑在符号系统之外的无产者才是真正的否定性力量。
+
+补回Page3试探措辞及Page10自中介解释，避免理论隐喻被读成已证事实。
+
+依据：[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)。
+
+### 3-3-4
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①陀思妥耶夫斯基经历假死刑的濒死经验后，符号学身份死而复生，主体性被驱逐到虚构位面。场域论上，虚构调合理化的必然性(形而下/僵死)与暴力的突破性(形而上/混乱)：后者被体验为美与强力，前者被体验为无力的幻想。
+
+修改后：①讲者以生存论方式重构：陀思妥耶夫斯基经历假死刑的濒死经验后，符号学身份死而复生，主体性被驱逐到虚构位面。场域论上，虚构调合理化的必然性(形而下/僵死)与暴力的突破性(形而上/混乱)：后者被体验为美与强力，前者被体验为无力的幻想。
+
+正文将濒死后的精神转位作为解释，并在L51说明叙事宇宙是比喻；应恢复解释身份。
+
+依据：[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)。
+
+### 3-3-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上朝向伦理利他主义的男权共同体，通过主动的爱与宽恕实现地上神国。陀氏的俄罗斯弥赛亚主义以俄罗斯为中心统合斯拉夫、欧洲直至全人类，是符号系统(东正教/民族精神)透过诗人发声的生存姿态。
+
+修改后：④目的论上朝向伦理利他主义的男权共同体，通过主动的爱与宽恕实现地上神国。讲者转述研究者据陀氏日记作出的俄罗斯弥赛亚主义解释，以俄罗斯为中心统合斯拉夫、欧洲直至全人类，是符号系统(东正教/民族精神)透过诗人发声的生存姿态。
+
+0250 L34明确是人家从日记推测出来，不应改为已直接核验的政治纲领。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)。
+
+### 3-3-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1：一分为多、多合为一的循环运动——父亲分裂为多个儿子，最后再通过兄弟之爱合二为一
+
+修改后：目的论1：讲者设想的一分为多、多合为一的循环——父亲分裂为多个儿子；若续写完成，兄弟最终将以兄弟之爱重新联合
+
+L67–68明确我认为与写完的话；既有feature3已按04修过，轴应同步限定。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)。
+
+### 3-3-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4：善就是不去认识自己(Good is not to know yourself)，无知才是善，认识即邪恶
+
+修改后：认识论4：讲者经齐泽克转引“善就是不去认识自己”(Good is not to know yourself)，将其解释为无知与善、自我认识与邪恶的对立；本讲未核卡夫卡原句出处
+
+L93明言来源哪里不管，不能把间接转引视为已核原句，也不把认识全部等于邪恶无条件推广。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)。
+
+### 3-3-4-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①卡夫卡回应了陀思妥耶夫斯基的宗教大法官问题：宗教大法官自诩以高贵的谎言统治民众，但他自身也陷于无头的分裂。卡夫卡指出统治精英和羔羊一样都是去中心化的，没有人能掌控整个现代科层制体系，没有一个全知的大他者。
+
+修改后：①讲者认为卡夫卡的立场构成了对陀思妥耶夫斯基的宗教大法官问题的回应，并明确说这不是卡夫卡有意作答：宗教大法官自诩以高贵的谎言统治民众，但他自身也陷于无头的分裂。卡夫卡指出统治精英和羔羊一样都是去中心化的，没有人能掌控整个现代科层制体系，没有一个全知的大他者。
+
+0250 L71明确否定有意识回应，恢复这一实质保留。
+
+依据：[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)、[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)。
+
+### 3-3-4-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②城堡象征现代官僚制，主人不现身、是去中心化的。土地测量员K无法进入城堡，就在村子里悬而未决。审判中的K是银行高级职员，却不知道自己也是科层制体系的一员，被判处有罪却不知罪名——这是现代性中主体丧失符号定位的生存论困境。
+
+修改后：②城堡象征现代官僚制，主人不现身、是去中心化的。土地测量员K无法进入城堡，就在村子里悬而未决。《审判》中的K是银行高级职员，却遭到不明罪名的追诉；讲者把这一遭遇解释为他未能认识自己也是科层制体系的一员——这是现代性中主体丧失符号定位的生存论困境。
+
+区分小说遭遇与L42讲者对其罪的解释，不把解释当成法院已明示的罪名。
+
+依据：[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)。
+
+### 3-3-4-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上否定的二重化是自反性的：既对世界的荒谬说”不”以保持不绝望，又对内心的极端化理想说”不”以防止不择手段。但这种双重否定本质上是肯定——它肯定小职员式的自我限制与安稳生存。
+
+修改后：③认识论上否定的二重化是自反性的：既对世界的荒谬说”不”以保持不绝望，又对内心的极端化理想说”不”以防止不择手段。讲者进一步批评，这种双重否定本质上是肯定——它肯定小职员式的自我限制与安稳生存。
+
+明确小职员式安稳和肯定性判断是课程批评，不假称加缪自述。
+
+依据：[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)。
+
+### 3-3-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3：叙事活动(书写/停笔)调和名字(共时性/理念)与情节(历时性/物质)的对立，叙事学空间获得本体论地位
+
+修改后：本体论3：作者的停笔（写出一种叙事，也是不写其他可能）调和名字（共时性/理念）与情节（历时性/物质），叙事学空间获得本体论地位
+
+L105先说叙事中介，L110–115更正为作者停笔；不可把两者只并列无区别。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)。
+
+### 3-3-4-4
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①讲者推测博尔赫斯的意识未成功通过镜像阶段，他能暂时去除一种意识结构(时间或空间)而体验另一种。小径分岔的花园呈现去除空间化后的时间拓扑结构：过去与未来无限分岔汇合于一个无法符号化的当下，能指与所指短路。
+
+修改后：①讲者推测博尔赫斯的意识未成功通过镜像阶段，他能暂时去除一种意识结构(时间或空间)而体验另一种。小径分岔的花园呈现时间去时序化、去连续化后的拓扑结构：过去与未来无限分岔汇合于一个无法符号化的当下，能指与所指短路。
+
+L33明确由去空间化更正为去时态化、去时序化/连续化/动态化；保留04已有讲者推测前缀。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)。
+
+### 3-3-4-4
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②阿莱夫呈现去除时间中介后的空间本身：宇宙集中在两到三厘米的圆球中，一切空间同时并存。巴别图书馆(符号系统)调和二者，所有文字排列组合构成无限文本宇宙，每个文本都是主人能指，能指所指短路、一多短路。
+
+修改后：②阿莱夫呈现去除时间中介后的空间本身：宇宙集中在两到三厘米的圆球中，一切空间同时并存。巴别图书馆(符号系统)调和二者，所有文字排列组合构成无限文本宇宙，讲者据此说每个符号都可能占据主人能指的位置，能指所指短路、一多短路。
+
+原文讨论的是符号在各可能语言中的位置，不是把完整文本逐一等同主人能指。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)。
+
+### 3-3-4-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上遗忘/停笔是最高的拯救力量：绝对者不允许写完，主体受不了绝对者的悖论性，只能将其遗忘。在秘密的奇迹中开头和结尾一样的小说不允许被写完——本体论的发生学机制拒绝符号性的闭合，主体必须自己承担书写的重负。
+
+修改后：④讲者把遗忘/停笔视为拯救力量：主体难以承受绝对者的悖论性，转而自己承担抉择与书写。讲者又借《秘密的奇迹》提出“本体论不允许符号性闭合”的解释；但其“不允许写完”的情节转述与原典不同：主人公写的是首尾循环的剧作，并在主观时间中完成了它。
+
+0253 L9、L137–143支持课程阐释；原典PDF第2页L65–86及第4页L135–153确认剧作和完成。保留二者差异，不把课程错误归为AI新造。
+
+依据：[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)、[Borges, The Secret Miracle](https://www.keyschool.org/uploaded/Community/Adult_Education/Jorge_Luis_Borges_The_Secret_Miracle.pdf)。
+
+### 3-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③符号学超越生存论之处在于：中介性不再是主体生存的有限中介，而是符号系统本身的绝对中介性。符号系统横亘在一切思考之前，所有本体论在符号学面前都”操之过急”——只有符号系统内部的离散符号及其关系网络才是真实的。
+
+修改后：③本讲以符号系统的中介性超越生存论主体的有限中介：思想不能绕过语言，因而既定本体论可能“操之过急”。符号网络不再由均质、连续的意义介质维持，而靠离散符号之间的差异与连接运作。但讲者也批评符号学家能够看穿全部结构的幻想，指出所谓绝对中介仍与有限主体性纠缠。
+
+补回原讲对绝对中介和纯粹解构的反身批评，避免把离散网络写成无条件排他本体论。
+
+依据：[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)。
+
+### 3-4-1
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①结构主义的语言学核心是索绪尔的共时性原则：语言是一个由符号之间差异关系构成的共时性系统，不考虑历时性发生学。能指是任意的，符号的意义由它在系统中的差异位置决定而非由外部对象决定。
+
+修改后：①本讲以索绪尔式共时性原则说明结构主义语言学：符号的意义由系统中的差异位置决定，能指具有任意性，不能直接靠外部对象赋义。研究重点是共时结构，悬置其历时发生学；讲者同时承认这些语言结构由社会意识和实践约定而成，因此不是否认语言具有社会历史来源。
+
+区分研究上悬置发生学与否认社会发生，保留本讲自有补充。
+
+依据：[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)。
+
+### 3-4-1-1
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上mana的1/0震颤是最小单元的循环运动：时而是一切意义的渊薮，时而是无意义的空洞。这种强迫症式的震荡是意义发生学的基本机制，也是所有神话结构共有的底层动力学——要么全有要么全无，两极之间永不停歇的震颤。
+
+修改后：④目的论上，讲者借齐泽克的说法把mana描述为1/0震颤：它既代表全部意义，又可作为无具体所指的空位，由此构成最小单元的循环。他将其用于解释意义的发生，并类比强迫性的循环；结尾同时承认实际病理循环还有能指链中介。这里是课程的结构模型，不能直接当作所有神话和强迫症的已验证共同机制。
+
+去除把乱伦禁忌的全称比较转写为mana普遍经验事实，保留论证归属和实际循环限定。
+
+依据：[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)。
+
+### 3-4-1-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②本体论上否定性原则主导：能指只能通过差异指向其他能指，无法直接锚定所指。镜像认同中的直接同一(能指=所指)触碰了乱伦禁忌，必然导致病理化。一切事物必须通过符号化机制才能被把握，没有直接的本体论通达。
+
+修改后：②本讲以否定性和差异原则解释本体论4：能指不能直接锚定所指，对事物的把握要经过符号机制。讲者把自我与镜像的直接短路类比为触碰符号学的“乱伦禁忌”，并用病理化描述固着于此的危险；这并非说正常镜像认同本身就是疾病，也不是本批已核实的临床机制。
+
+限定病理判断的条件，避免将所有镜像认同直接等同病理。
+
+依据：[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)。
+
+### 3-4-1-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①罗兰·巴特是结构主义运动中最不严格的哲学家，但他使结构主义获得了纵深尝试。叙事学的三层模型(功能层/行动层/叙事层)调和非人称化的底层符码与人称化的镜像误认——叙事层产生”文本是活的世界”的效果。
+
+修改后：①讲者批评巴特的哲学论证不够严格，同时肯定他尝试使结构主义获得叙事的纵深。本讲以功能层、行动层、叙事层构成模型：非人称的底层符码与人称化的镜像认同由叙事层协调，使读者产生文本是一个活的世界的效果；讲者对“行动层”的称谓也保留了不确定。
+
+删无依据最不严格排名，保留层次名称不确定性。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)。
+
+### 3-4-1-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上的零度写作意味着作者已死、阅读即写作。巴特以社评家的身份用结构分析套用一切社会现象，嬉笑怒骂地拆解意识形态。这种姿态预设了文学不受意识形态污染的绝对自由立场——一种智性的自由主义乌托邦。
+
+修改后：③认识论1被讲者概括为坚持“零度写作”，并连到巴特以结构分析评论社会现象和意识形态的实践。他还并置了后期“阅读也是写作”“作者已死”的说法，但这些不是零度写作的简单同义词。讲者批评这种姿态仿佛占据不受意识形态污染的自由立场，认为这种绝对独立做不到。
+
+分开不同时期/问题中的概念并标明绝对自由是批评对象。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)。
+
+### 3-4-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1：零度写作(writing degree zero)——保持文本内在符号学张力的自由生成，不预设任何意识形态
+
+修改后：认识论1：坚持零度写作——要求文本依内在符号张力自由生成；其不受意识形态影响的绝对独立，是讲者质疑的理想姿态
+
+避免把课程明确批评做不到的要求当成已实现事实。
+
+依据：[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)。
+
+### 3-4-1-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上的谱系学原理意味着知识型决定一个时代所有人的思想心灵，不存在主体性。疯癫在不同知识型中被不同对待：文艺复兴时疯人可说圣语，理性主义时期被归入非理性，19世纪后成为有机体的构成性例外被单独“治疗”。
+
+修改后：③在本讲的谱系学解释中，知识型组织一个时代的思想与知识，讲者称这一决定性首先限于“知”的层面；主体不再是原初根据，而至多体现为考古、记载与话语关系中的机制。他以疯癫为例，将文艺复兴的圣语、理性主义时期的非理性、19世纪有机体的构成性例外连成三种历史处理方式。
+
+补回原讲知识层面限定及考古主体残余。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)。
+
+### 3-4-1-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上局部发生——没有class struggle层面的宏观政治，只有点对点的微观权力struggle。知识即权力，权力通过微观网络中的阶次升迁形成。福柯最终走向去中心化，所有话语都被消解为power struggle的局部态势，从而杀死了宏观政治的可能性。
+
+修改后：④目的论4被讲者解释为微观权力的局部发生与去中心化。他以知识、记载及结构升阶说明权力如何牵引其他关系，并批评这种模型取消了宏观阶级斗争和分阶段政治战略。所谓“杀死宏观政治”是讲者从自己的政治立场作出的判断，并非本批已核实的福柯自述或政治史定论。
+
+明确政治结论归属，避免中性事实化。
+
+依据：[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)。
+
+### 3-4-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①后结构主义并非解构主义，后者(3-4-3)只是将结构主义的逻辑运行到底、完成去中心化，而后结构主义则半只脚踏入真正的实践领域。后结构主义的显著特征是开始考虑主体的发生学机制(Subjectivation)——主体化过程必然被符号系统束缚，从前符号的无头主体性到被意识形态俘获的臣民主体。这一主体化哲学的范式往往是康德式或新康德式的，在认识论上严格区分先验逻辑(导向科学)与经验主义(被视为缺乏框架的垃圾)。
+
+修改后：①本课程把后结构主义与解构主义区分：后者被看作将结构主义去中心化逻辑推到底，前者则开始探究主体化机制，并接近实践。讲者以无头主体性与被意识形态俘获的臣民主体之间的转变说明这一问题；这不预设一个时间上先于符号系统的实体主体。他把阿尔都塞的科学与经验主义之分联系到新康德主义，同时把中期拉康联系到黑格尔。
+
+去除未支持的前符号实体化时间顺序，分清不同代表的范式。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)。
+
+### 3-4-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④后结构主义在目的论上隐含一条隐秘布线：理论家作为一个执拗的主体性被嵌入理论体系中。理论家固执地坚信经济要素最终是主导性的，阶级斗争(CS)是支配性的。哲学就是战斗，理论实践调和政治与经济、微观权力与宏观架构之间的对立。阿尔都塞用"超定论"(多元决定论)来解释：多种符号学结构态势共同决定世界，主导性要素的主导性本身由其他要素共同决定。经济之所以始终占主导，是因为全球资本主义是最大的符号结构。
+
+修改后：④讲者认为阿尔都塞在理论中隐秘嵌入了执拗的理论实践者：坚持经济与阶级斗争的主导地位，把哲学作为战斗。超定意味着主导要素的主导性也由整个差异网络共同决定，而不是单向因果决定一切。讲者以全球资本主义结构及唯物主义者的实践立场解释这一坚持，并在结尾强调主导性还被回溯地建构。
+
+补全最大符号结构之外的立场性理由及回溯建构，避免改造成机械经济决定论。
+
+依据：[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)。
+
+### 3-4-2-1
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①中期拉康(1950年代)以俄狄浦斯情结为核心，研究符号界/象征界的发生学机制。俄狄浦斯情结的三重发生学(父性律令与符号化、欲望辩证法、癔症化主体化)同时发生，统称为符号学阉割(Castration)。主体通过被整合到大他者的符号系统而获得名字、被阉割了与原初享乐(Incestuous enjoyment)的直接联系，从而成为一个性化的主体(知男女之分)。这一发生学机制揭示了结构主义共时性结构的发生学秘密——它是无头的(主体非存在)。
+
+修改后：①本讲以1950年代拉康对父性律令和俄狄浦斯情结的研究为起点，把符号化、欲望辩证法与癔症化主体的发生并置为符号学阉割：主体进入大他者的符号系统、获得名字，原初母子共同体的直接享乐不再可能。讲者特意说性化“不一定要知男知女”。后文再以无头主体性说明共时结构的发生机制，并跨用后期文本。
+
+恢复原讲对知男知女的明确限定，区分开场历史与后续跨文本论证。
+
+依据：[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)、[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)。
+
+### 3-4-2-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①巴迪欧的静止的事件主义是一种"守阵地"的哲学化策略。其真正的对手是拉康的回溯性逻辑——回溯性使得一切变化白费，因为符号系统的调整会回溯性地让事情仿佛本来如此。巴迪欧拒绝这种"边玩边更新"的时间性，转而追求空间性：他试图在数学话语(集合论、数论、拓扑学)中寻找可以本体论化的点位，占领这些高级学术话语作为阵地，等待不世出的天才让事件降临。这是一种将现代数学的前沿成果本体论化的策略。
+
+修改后：①讲者把巴迪欧的事件哲学解释为“守阵地”的策略：在集合论、数论、拓扑等数学话语中寻找可被本体论化的点位，借忠诚等待事件。他以此对照拉康的回溯机制：巴迪欧担忧改变会被回溯成“本来如此”；但讲者随即强调，这并不意味着回溯使一切白费，它仍可吊诡地改变现实。
+
+恢复“当然不是白活”的关键限定，不把被比较者的恐惧当作课程结论。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)。
+
+### 3-4-2-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上的2体现了巴迪欧与拉康的根本差异：拉康的回溯性逻辑是连续的无缝更新(修修补补、边玩边更新)，而巴迪欧追求彻底的断裂式版本更新(换游戏)。关键在于是否存在空位置——在拉康那里空位置只能是主体本身，主体只能坚持具体的欲望对象而非空位本身；而在巴迪欧这里可以朝向空位置本身，通过主体的坚持使之成为承接整体降临的点位。这种可断裂性使得巴迪欧的体系具有比拉康更激进的革命性潜能。
+
+修改后：④目的论2被解释为稳定运行与断裂更新的张力：讲者用拉康“边玩边更新”和巴迪欧“换游戏”对照，关键在于能否守住空位来承接整体变化。他虽称巴迪欧姿态更激进，却在收束处批评：空间和点位自身也有符号发生机制，不能当作无须解释的支柱；若由主体的忠诚保证事件本真性，仍可能退回先验主体的担保。
+
+补回整讲后段反驳，避免摘要只留下革命潜能的单向赞许。
+
+依据：[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)。
+
+### 3-4-2-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①齐泽克的哲学体系以"黑格拉康主义"(Hegelian-Lacanian)为底色，是后观念论运动的重要支脉。他的哲学产品在政治上是无害的三字头的——其调和性力量是一种悲观主义：无政治计划性的过剩哲学写作。左边是后观念论的严肃哲学思考(智性生命)，右边是大众文化中的爱欲分析式评论(现实生活)，两者由"没有计划"的无计划性来调和。这种无计划性表现为无限重复的书写——每年出新书，到各地参加会议却以写书为由拒绝社交活动。
+
+修改后：①本讲讨论齐泽克面向大众的黑格拉康主义哲学产品，并把其后观念论思考与大众文化评论放在场域两侧，以无政治计划性的悲观姿态协调。讲者用不断写书、参加会议仍急于写作的逸事说明“过剩的书写”；他在后文限定，这种三字头判断不涵盖齐泽克所有现实政治评论或未来设想。
+
+保留课程对象范围，避免把大众哲学产品判断扩大到人物全部活动。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)。
+
+### 3-4-2-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②本体论上齐泽克提出了DEN(比无更少/Less than Nothing)的概念。本体论矩阵有四重：比无更少(Failed Absolute的剩余)、注定失败的绝对(存在论差异，通过注定失败的性关系抵达)、纯粹否定性/主体性(符号学的发生学机制与动力学机制)、表象之为表象(将符号系统本身本体论化)。齐泽克更坚持的是下面黑格尔主义的立场——主体性本身作为void，是所有符号系统的动力学机制。绝对者是注定失败的，它的接触只能通过sexuality(性关系的不可能性)。
+
+修改后：②讲者用四项矩阵整理齐泽克的本体论4：DEN（比无更少）、失败的绝对、纯粹否定性/主体性、表象之为表象。他将前两项联系到仍有剩余的立场，将后两项联系到黑格尔主义，并说齐泽克更坚持后者：作为void的主体性是符号系统的发生与动力机制。讲者还以性关系的不可能性说明失败的绝对；本讲未明确把DEN定义成Failed Absolute的剩余。
+
+删除全文未定位的DEN派生关系，保留四项矩阵及其归属。
+
+依据：[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)。
+
+### 3-4-2-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③克里斯蒂娃的女权主义分三代：第一代在父性线性时间中追求表面平等(普遍的女性/universal women)；第二代以永恒循环时间否定线性时间，追求绝对的差异，但陷入虚无主义和为了否定而否定的困境；第三代则是螺旋上升——在两极之间震荡，女性扮演超验权威、超符号系统的原初异质性。能够体验到超出象征秩序的原初异质性就是女性，因此女性主义被普遍化：一切能够从僵死的符号系统中"贱斥"出来、重新创造新象征秩序的人都是女人。在这个意义上，proletarian都是女人。
+
+修改后：③本讲把女性主义方案分为三代：在父性线性时间中追求平等；以循环时间和绝对差异反对既定秩序；在两极间维持异质性并创造新秩序。讲者据此将“女性”位置普遍化，把能从僵死符号系统中贱斥出来者比作女人，并说“proletarian都是女人”。这是他的政治解释，不是关于所有人的生理性别或身份的判断。
+
+明确普遍女性位置与政治类比归属，防止字面身份化。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)。
+
+### 3-4-2-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④目的论上的4表现为螺旋运动——但实际上不是有机的螺旋，而是在线性时间与循环时间之间的不停震荡、断裂、漂移。这种运动拒绝了回溯性逻辑的成功运作，三种时间模式(线性、循环、螺旋)都注定失败。镜像阶段被克里斯蒂娃误读为好的——"异质性原始的东西是好的"，而进入象征界则意味着父子共同体的丧失。她对拉康的误解在于她是一个还原论者(爱欲还原论)，将一切还原为情感性、爱欲性体验(恶心、恐怖、激情)，认为不能被符号化的东西才是本真的。
+
+修改后：④目的论4被讲作线性与循环时间间的震荡、断裂和漂移，而不是平稳的有机螺旋。讲者批评克里斯蒂娃没有充分把握回溯性，又认为她把镜像阶段的原初异质性看得过于积极，把进入象征秩序联系到母子共同体难以维持。他将这种倾向称为爱欲还原论：诉诸恶心、恐怖、激情等未被符号化的体验作为本真根据。这些是课程的批评判断。
+
+纠正父子为母子；不擅定“前面三种”指代为三时间模式，并标讲者评价。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)。
+
+### 3-4-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2：现象文本(Phenotext/表象/离散的sign)与生成文本(Genotext/深层张力/sign到symbol的转化机制)的二分
+
+修改后：认识论2：本讲先列现象文本与生成文本（sign到symbol的机制），结尾又倾向改写为诗性/生成一侧与意识形态及新秩序一侧，未给唯一稳定写法
+
+记录原讲后段重议轴定义，不能把初次格位当唯一终稿。
+
+依据：[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)。
+
+### 3-4-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②书写的优先性是德里达哲学的关键突破：书写是符号的符号，语音本身也是书写(声波的粗糙材料)。书写代表着主人话语第一人称沉浸意义的失败——诗无达诂，言说总被背叛。痕迹(trace)是符号系统的能指效果，它撕开能指链的伤口。本体论上，原初实体(太初)是前符号化的，符号化运动回溯性地建构了被描述的原初实体。原初实体→原初符号化运动→被回溯建构的实体(第三项)——这三项之间的张力就是延异。延异不是差异，而是差异与同一性的不可能的统一。
+
+修改后：②本讲从书写的缺席结构解释主人意图的失败：书写是符号之符号，语音也依赖材料和痕迹，不能保证意义被唯一接收。讲者用“原初实体—符号化运动—回溯建构的实体”三项说明延异，但明确强调，不能据此断言一个前符号化的原初实体实际存在。三项之间的张力使差异与同一性无法完成统一。
+
+补回不可断言前符号实体存在的关键限制。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)。
+
+### 3-4-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④认识论上的3通过拟像(Simulacrum)来调和：所有文本都有两重意义，一重是权威话语的肯定性，一重是言语主体的否定性反抗。解构主义者采取苏格拉底式的姿态——"我同意你说的一切，让我顺着说下去"，在真诚的伪装中把主人的逻辑坚持到僵局。这是一种二阶伪装：哲学家要真诚地说谎，以主人话语的规则去玩主人的游戏，最终使主人话语自己分裂、暴露其内在的必然失败。延异就是这种失败的名称——它不存在，它是实体的主体化的产物，是纯粹否定性。
+
+修改后：④认识论3借拟像说明两重阅读：权威话语的肯定意义与言语主体的否定性反抗。解构以苏格拉底式顺从和“真诚说谎”把主人逻辑推至僵局。讲者随后从拉康/齐泽克立场反驳：所谓延异可被重读为实体主体化的纯否定性，不能另立一个存在的根源；这一反驳也指向德里达自己的表达困境，不能直接当作德里达的自我定义。
+
+标清立场转换，避免将批评者的否定存在结论归给被批评者。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)。
+
+### 3-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论3：先验与经验的符号学分裂——原初差异(延异/différance)调和符号系统与原初绝对者的二分
+
+修改后：场域论3：原初差异调和先验与经验、符号系统与原初绝对者的分裂；本讲又明确区分纯粹原初差异与已进入书写问题的延异，二者不能直接等同
+
+原讲明确说纯粹原初差异不叫延异。
+
+依据：[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)。
+
+### 3-4-3-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③重复与差异的辩证法：差异本身要通过重复(repetition)才能显现，重复是差异的产物。弱者的否定性意志在重复中看到同一性，强者的肯定性意志在重复中看到差异。但重复本身有二重性——重复之重复，既是肯定性的也是否定性的。真正的超人(彻底的主人)会把重复本身的二重性接受下来，将永恒轮回中无限的痛苦和新生的运动都承载下来。否定性是差异开始的地方——它是永恒轮回中"再来一次"(Encore)的力量，使轮回能够一再重复。
+
+修改后：③本讲先说明差异通过重复显现，肯定性意志看到差异，否定性意志看到同一。讲者继而提出自己的二阶反驳：重复本身也有两重性，彻底的超人应同时承受痛苦与新生，把否定性纳入肯定。借“再来一次”（Encore），他把否定性解释为轮回得以重复的力量。这是课程对德勒兹的内部改写，不应全归作德勒兹的原话或既定立场。
+
+区分被阐释的理论与讲者我要说引入的二阶反驳。
+
+依据：[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)。
+
+### 3-4-3-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②普遍经济学是宇宙本身的经济学——其核心是无意义的耗散。太阳是典型范例：无限地燃烧自己，把能量往外面散掉。与此相对的是有限经济学内部的夸富宴(Potlatch)——族长慷慨地将财富赠与对手，对手不得不接受并回赠更多，否则就是认怂。巴塔耶认为这种无意义的奢侈性消费能使宇宙恢复平衡。但他的体系存在内在矛盾：他自称强调色情(非生殖性的性活动)作为典范，却构造了一个以恢复平衡为目的的宇宙论——"圆满"(consummate)一词同时暗示圆房、阴阳和谐，这与他鼓吹的过剩耗散相冲突。
+
+修改后：②本讲以太阳向外耗散和夸富宴说明巴塔耶所推崇的无谓消耗：族长赠出财富，对手被迫接受并回赠自家大量财物，形成荣誉竞争。夸富宴在这里是耗散的例子，不能简单列为其反面。讲者批评这种理论一面强调过剩与非生殖性色情，一面又诉诸恢复宇宙平衡，因此讽刺地命名为“圆满经济学”，借圆房、阴阳和谐的双关揭示他所认为的矛盾。这些是课程的模型与命名。
+
+纠正夸富宴在论证中的位置，去掉无依据的必须回赠更多，并标命名归属。
+
+依据：[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)。
+
+### 3-4-3-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①克罗索斯基的好客之道(Law of Hospitality)通过小说《今夜的罗伯蒂夫人》中的戏剧性情节展开。男主人Octave(现象学家/自我意识)要求女主人Roberte(思想/知识)平等招待客人和自己——"别客气，就当这里是自己的家"。这一命令将男主人自身降格为客人，将客人提升为临时主人。女主人忠诚的方式是变得不忠——她以平等方式招待两个客人，仿佛自己不是女主人而是一个女客人。而真正的客人/临时主人必须拒绝她的殷勤，才能保持男主人所希望的最终忠诚回路。这个精妙的辩证法揭示了自我意识接受异质性他者的底层发生学机制。
+
+修改后：①本讲借《今夜的罗伯蒂夫人》的好客情节解释主客换位：Octave要求Roberte把客人当主人，也使自己成为客人。Roberte的忠诚经由不忠显现。讲者先说客人应拒绝她，随后当场更正：客人主观上恰恰想要她背叛主人，却未意识到自己已被置于主人位置；这一命令因指代变换而在效果上拒绝了自己，使她回到原主人一侧。课程借此说明自我意识接纳异质他者的结构。
+
+必须保留本讲P8–9对前段拒绝说法的自我更正。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)。
+
+### 3-4-3-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②克罗索斯基用好客之道解读尼采：尼采的头疼不是简单的病理学症状，而是承载超本体论真相的好客之道。尼采体验到永恒轮回的真理(一切都在重复，但每一次本体论化都不一样)，但在有限的本体论框架内无法道出这一真理。他的策略是"相当于愚蠢"——通过迫使自己进入一种病理化状态(疯癫与痛苦)，重复这种"相当于愚蠢"但不是愚蠢的状态，从而将真理注册到符号系统中。永恒轮回在克罗索斯基这里变成了一种明喻机制：符号系统的本体论更新不是通过隐喻的同一化，而是通过"相当于"的滑动的相似性。
+
+修改后：②讲者沿克罗索斯基的解释，把尼采的头痛、痛苦与“相当于愚蠢”当作永恒轮回难以被有限本体论表达的模型：真理只能在重复而不等同的状态中留下痕迹。这里的“相当于”是一种明喻式滑动，不以隐喻保证同一性。这是课程的哲学阐释，不能据此认定尼采疾病的实际病因，或声称他有意使自己发病以注册真理。
+
+避免将哲学解释写成未经证实的疾病事实与自我致病策略。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)。
+
+### 3-4-3-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③对萨德的解读同样运用了好客之道：萨德的施虐不是亢奋的色情，而是斯多亚式的冷漠禁欲——他不仅在肉欲上禁欲(不追求性高潮)，更在思辨上禁欲(时刻相信不存在大他者/终极秩序)。萨德的色情活动会引来抨击者，这些抨击者因为相信道德理性秩序而能"理解"萨德的快感——这暴露了他们自身的虚伪(他们也在偷偷违背那些禁忌)。通过这种方式，萨德以偏执狂式的仪式重复(无意义的虐待活动)引导出对本有(Ereignis)的敞开，使现行道德理性秩序自我悖谬。
+
+修改后：③课程借克罗索斯基把萨德解释为双重禁欲：肉欲上不以高潮为终点，思辨上坚持不存在大他者或终极秩序。讲者据此构造一种批评模型：道德抨击者对快感的理解可能暴露其对秩序和禁忌的依赖，重复的越界仪式又让秩序显出悖谬。但这不能证明所有批评者都私下犯禁；讲者也明确承认萨德造成了实际受害，理论分析不是对伤害的开脱。
+
+区分讲者的批评模型与对现实人物行为的事实指控，并补原讲实际受害的限制。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)。
+
+### 3-4-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3：肯定式的拒绝(主人/客人的辩证法)调和主人的倒错与生存论危机的对立——表面拒绝实则渴望的自我背叛
+
+修改后：认识论3：肯定式的拒绝调和主人的倒错与生存论危机——客人主观上想要，却因主客位置和“主人”指代变化，使命令在效果上反过来拒绝自身
+
+拒绝是言说效果的反转，不是表面拒绝内心渴望的伪装。
+
+依据：[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)。
+
+### 3-4-3-4
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②场域论上，结构(共时性系统)与历史(历时性事件)之间由叙事来调和。但叙事的核心困境在于：任何叙事都无法跳出符号系统去外部寻求合法性支撑——你试图论证叙事的根据时，只是在把叙事扩大，仍然在叙事内部。利奥塔的局部总体主义(Local Totalitarianism)试图通过裂解总体主义来实现局域化：允许不同的局部叙事(小的话语)在叙事场中平等竞争。但这一预设本身就是一个未被反思的元叙事场——它是资本主义传播媒介(出版业、学术资本、媒体资本)所建构的公倍数空间，实质上是一种换汤不换药的莱布尼兹主义(诸单子的和谐共存)。
+
+修改后：②场域论3以叙事调和共时结构与历时历史。讲者认为，为叙事寻找外部合法性只会继续扩大叙事，并用“局部总体主义”这一批判性名称描述利奥塔的小叙事方案。他批评，看似平等竞争的局部话语仍依赖出版、学术与媒体资本构成的公共空间，因此又把它类比为诸单子和谐共存的莱布尼兹主义。这是课程的命名和批评，不是利奥塔自称的学说名称。
+
+标明局部总体主义及资本空间比较的讲者归属。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)。
+
+### 3-4-3-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③认识论上利奥塔提出悖论主义(Paralogism)来调和真理(总体化知识)与神话(局域叙事)之间的张力。他以现代科学为例说明不同的本体论预设(爱因斯坦的决定论 vs 薛定谔的统计学 vs 量子力学的非决定论)可以在冲突中并存，彼此产生悖论，而这些悖论的解决推动科学发展。但他语焉不详：建构任何认识论机制本身就意味着一个新的元话语/元叙事，这扇了自己的嘴巴。因此悖论主义始终未被完整建构——利奥塔没有认识论能力或意愿去完成它，因为完成它等于背叛自己的后现代立场。
+
+修改后：③本讲将悖论主义（Paralogism）置于认识论3，以真理/知识与神话/局域叙事为两侧，并借现代科学中不同预设的冲突说明悖论及其解决。随后讲者提出反驳：若把这一协调机制完整建构出来，是否又形成新的元话语，抵触拒绝元叙事的立场？原讲对利奥塔的能力和意愿也有尖锐评价，但这些是课程的批评判断；其物理学举例亦未在此独立认证。
+
+保留有证据的认识论批评，不把个人能力判断或粗略科学分类当作已证事实。
+
+依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)。
+
+### 3-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4：效果历史(历史作为起作用的效力而非客体，本体论的发生学机制——视域融合)
+
+修改后：本体论4：本讲先写效果历史/视域融合，随后允许与认识论的解释学循环互换；后段特别强调解释学循环是本体论的发生与实存机制
+
+补回格位可互换及后段机制说明。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)。
+
+### 3-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4：解释学循环(认识论上的发生学机制，在诠释学中与本体论效果历史可颠倒)
+
+修改后：认识论4：本讲先写解释学循环，随后允许与本体论的效果历史互换；后段特别强调效果历史是认识、阐释维度的发生机制
+
+不把最初排位及机制理解冻结为唯一写法。
+
+依据：[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)。
+
+### 3-4-4-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③象征的中介作用——在利科的三元结构中，语义学(僵死的符号秩序/语法)与隐喻(超越性的敞开/历史)之间由象征起中介作用。象征能够维持隐喻所敞开的裂缝，具有专题化的意向性，可以将裂缝维持住并导向反思，最终构造出稳固的本体论架构。象征的意义发生学机制连接着语法层面的坐定状态与隐喻层面的入场活动，是意义得以生发的关键环节。
+
+修改后：③讲者把语义学理解为相对坐定的符号系统，把隐喻理解为敞开的入场活动，再以象征作中介：象征用专题化的意向性维持隐喻裂缝，使意义可以被指称、反思，乃至构造稳固本体论。他特别说明，语义学并非全然僵死；“象征作中介”也是自己的解释，承认研究者对此有不同看法，结尾还批评过早追求稳固架构。
+
+保留原讲对语义僵死化的否定，以及象征中介解释的争议和作者归属。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)。
+
+### 3-4-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论3：语义学(符号学空间)与隐喻(超越性意义)的张力(由象征作为中介调和)
+
+修改后：场域论3：按讲者的解释，象征调和语义学（相对坐定的符号系统）与隐喻（敞开的历史性入场）；原讲明确承认研究者对此中介位置有不同理解
+
+明确课程的自觉解释选择。
+
+依据：[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)。
+
+### 3-4-4-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②力比多经济学——力比多作为自然与文明之间的中介：自然科学实证主义视角下的自然是被人化了的、被祛魅的中和自然，而文明则充满禁忌、欲望与张力。力比多即人类内在的自然被文明回溯性压抑后剩余的力量，是一种使结构失衡、不断涌现新结构的辩证性否定性。它被文明的审查机制(censorship)压抑，只能在梦、症状、口误等受到意识审查的体验中被把握。
+
+修改后：②本讲以力比多中介被科学实证主义中和的自然与充满禁忌、欲望和父性律令的文明。讲者进一步明确从黑格尔主义立场重读：力比多可理解为自然被文明回溯压抑后留下的否定性，使结构失衡并生发新结构。梦、症状和口误则提供受审查之无意识运动的分析线索。这一回溯性解释不能直接当作弗洛伊德的原句。
+
+标清黑格尔主义者解读这一显式立场。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)。
+
+### 3-4-4-2
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③梦的四重发生机制——弗洛伊德没有系统的知识发生学理论，故以梦的发生机制替代认识论。梦主要有四种机制：置换(displacement)将精神冲动转移到他物上表达；凝缩(condensation)将多重含义压缩到单一意象中；视象化(visualization)将神经冲动转化为视觉形象；再修饰(secondary revision)将凌乱的梦的内容编整为平滑连贯的叙事。这四者在清醒时同样运行，其基本原则是结构主义的。
+
+修改后：③讲者认为弗洛伊德没有独立建成这里所要求的知识发生学，因而借梦的发生机制说明认识维度：列出置换、凝缩、视象化和再修饰四项。本讲只点名前两项，对后两项则解释为冲向视觉的表象化，以及把内容整理得平滑、连贯；这些是课程的机制描述，未作神经科学认证。讲者还说清醒时这些机制也运行，但要描述清醒与梦的差别，仍需现象学介入。
+
+移除未在本讲展开的置换凝缩定义，记录实际核读边界并保留清醒的限制。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)。
+
+### 3-4-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4：无意识(通过梦、口误、症状、升华四种真相道出机制显现)
+
+修改后：认识论4：无意识及其需要破译的符号机制；本讲特意与此前候选本体论中的梦、口误、症状、升华四形式区分，并借梦的发生机制进一步说明
+
+修复四种真相形式与认识论无意识的层次混并。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)。
+
+### 3-4-4-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①语言的意义在于用法——晚期维特根斯坦的核心洞见：语言的意义不在于指称关系，而在于其被使用的方式。世界本身已经是符号化了的，主体可以对已符号化的体验(现象、意向活动、无意识等)进行再符号化，重置符号规则进行游戏。再符号化过程中，规则本身作为一个符号被压抑到驱力层面，从而在原乐(jouissance)层面产生意义之乐(enjoy-meant)——通过言说活动本身获得的快感。
+
+修改后：①本讲从晚期维特根斯坦“意义在于用法”出发，把语言理解为对已符号化体验的再次组织：改变规则，就能重玩符号游戏。讲者随后借辩证法和拉康作进一步解释：作为规则的符号被置于不直接显现的层面，并在驱力中产生言说的原乐与“意义之乐”。后半属于课程的跨理论重读，不能当作维特根斯坦直接提出的精神分析机制。
+
+区分用法命题与讲者借拉康给出的驱力原乐机制。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)。
+
+### 3-4-4-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③沉默作为语言游戏——晚期维特根斯坦的沉默不是简单地闭嘴。沉默本身是一种语言游戏，意味着不把自己的言说当作在一个僵死的语法体系或意义图示中发言。沉默即放弃人类既定的目的论网络，不认为自己的符号学活动高于其他万物，把符号学活动与万事万物的显现消隐平等对待。在这种精神下，哲学才能探索正在发生的新的本体论结构，才能与世界玩到一起去。
+
+修改后：③讲者把早期《逻辑哲学论》的沉默命题放到晚期语言观下重读：沉默不必等于停止发声，而可意味着不再把言说当作固定语法、意义根据或目的网络中的权威发言。由此，语言游戏被解释为放弃人类符号活动高于万物的预设，与事物的显现、消隐一同探索新的本体论结构。这是本讲的解释学推论，尚未核成晚期维特根斯坦的直接原话。
+
+标明早晚期跨阶段解释及推论性质。
+
+依据：[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)。
+
+### 3-4-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4：无意识(所有抽象活动都是不可信的意识形态，都会带来异化与症状)
+
+修改后：认识论4：无意识及意识形态的抽象化；本讲针对布尔乔亚的社会理论、学术与意识形态体系，强调其缝合会留下异化和症状，不把任何抽象活动都当作已获中立真理
+
+保留原讲具体批评对象，避免将所有抽象毫无可信性泛化为无条件命题。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)。
 
 
 ## 来源与实际阅读范围
@@ -29971,3 +34343,915 @@ Page1–23 L9–151至本讲结束；L151后半2-2开头与Page24排除；未回
 定位：1923年1月4日与6日两部分全文。
 
 实际核读1923年1月4日与6日两部分全文；不代表通读整部著作或确认课程引用。
+
+### cat11-BV1XL411x72W
+
+[视频元数据：【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别](https://api.bilibili.com/x/web-interface/view?bvid=BV1XL411x72W)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Hf4y1t7E8
+
+[视频元数据：【主义主义】伦理智性主义（2-1-2-1）——苏格拉底的哲学，“知识助产术”、“知识即美德”、“爱欲是唯一的知识”、“哲学就是练习面对死亡”](https://api.bilibili.com/x/web-interface/view?bvid=BV1Hf4y1t7E8)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1cf4y1H7Ci
+
+[视频元数据：【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号](https://api.bilibili.com/x/web-interface/view?bvid=BV1cf4y1H7Ci)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Nb4y1h7mw
+
+[视频元数据：【主义主义】政治-经济-意识形态批判（4-1）——理论家的实践与两种谢林点](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nb4y1h7mw)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1aq4y1R7Lk
+
+[视频元数据：【主义主义】现实的正统化（4-2）——坚定地迈出历史的步伐](https://api.bilibili.com/x/web-interface/view?bvid=BV1aq4y1R7Lk)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV16L4y1J7BT
+
+[视频元数据：【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践](https://api.bilibili.com/x/web-interface/view?bvid=BV16L4y1J7BT)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV18L4y1b7BE
+
+[视频元数据：【主义主义】纯思（$-1-1）——“存在”本身，理念等级制派下来的先锋小弟，试着自居这一角色，你就把握了这个环节](https://api.bilibili.com/x/web-interface/view?bvid=BV18L4y1b7BE)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Ea411q7VJ
+
+[视频元数据：【主义主义】被规定的限定（$-1-1-2）——何为“自在存在”？何为“定在”？何为“恶的无限”？](https://api.bilibili.com/x/web-interface/view?bvid=BV1Ea411q7VJ)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV17q4y1A7LK
+
+[视频元数据：【主义主义】一阶线性符号体系（$-1-2）——毕达哥拉斯的真正伟大之处，未能被黑格尔道出](https://api.bilibili.com/x/web-interface/view?bvid=BV17q4y1A7LK)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1jT4y127wL
+
+[视频元数据：【主义主义】现实的物（$-1-2-3）——黑格尔的物质发生学，比早期谢林的物质发生学要精致得多](https://api.bilibili.com/x/web-interface/view?bvid=BV1jT4y127wL)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV15u41117hx
+
+[视频元数据：【主义主义】从无到无（$-1-3-2）——无中生有的辩证法通路，让本质得以发生的纯粹反思机制](https://api.bilibili.com/x/web-interface/view?bvid=BV15u41117hx)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1EL411F7D9
+
+[视频元数据：【主义主义】根据（$-1-3-4）——什么是“充足理由律”：普发本质权的因果网络编织者](https://api.bilibili.com/x/web-interface/view?bvid=BV1EL411F7D9)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV18F411n7ww
+
+[视频元数据：【主义主义】表象界（$-1-4）——本质并不拥有表象，而只是成为表象，黑格尔如何证明神的实存](https://api.bilibili.com/x/web-interface/view?bvid=BV18F411n7ww)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1nu411d7s1
+
+[视频元数据：【主义主义】表象本身（$-1-4-2）——事物的“一性”出于对非本质具体实存的报复，令争执次第延宕](https://api.bilibili.com/x/web-interface/view?bvid=BV1nu411d7s1)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1KR4y1M7y6
+
+[视频元数据：【主义主义】绝对者的绝路（$-2） ——绝对者从单纯的属性走向成熟的自我认知 并最终湮灭为世界](https://api.bilibili.com/x/web-interface/view?bvid=BV1KR4y1M7y6)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Zm4y1o7qs
+
+[视频元数据：【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性，可能=自在+应在=同一+他异](https://api.bilibili.com/x/web-interface/view?bvid=BV1Zm4y1o7qs)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Z3411E7sg
+
+[视频元数据：【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性：为什么一切都是可能的又都是不可能的](https://api.bilibili.com/x/web-interface/view?bvid=BV1Z3411E7sg)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1BS4y1k7WY
+
+[视频元数据：【主义主义】模态（$-2-1-1）——黑格尔对斯宾诺莎体系的全面超越，先有模态后实体](https://api.bilibili.com/x/web-interface/view?bvid=BV1BS4y1k7WY)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1bS4y1G72C
+
+[视频元数据：【主义主义】绝对再生产性（$-2-1-2）——绝对者是怎么跨出现实化的第一步的？实体和偶性为什么是一回事？](https://api.bilibili.com/x/web-interface/view?bvid=BV1bS4y1G72C)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Nu411R7Ye
+
+[视频元数据：【主义主义】因果性（$-2-1-3）——为什么无限回溯第一因的思维是恶的无限，形式和内容的认识论区分从何而来？](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nu411R7Ye)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Z44y1H75A
+
+[视频元数据：【主义主义】相互性（$-2-1-4）——扬弃链式因果性的循环因果性，进而扬弃普遍性和个别性的对立，走向特殊的使命](https://api.bilibili.com/x/web-interface/view?bvid=BV1Z44y1H75A)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Gr4y1a7J9
+
+[视频元数据：【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）](https://api.bilibili.com/x/web-interface/view?bvid=BV1Gr4y1a7J9)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1cq4y1t7TN
+
+[视频元数据：【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？对原因和实体的关系进行探索（从$-2-1-3到$-2-1-4）](https://api.bilibili.com/x/web-interface/view?bvid=BV1cq4y1t7TN)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1Pq4y1b7FX
+
+[视频元数据：【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）:人为什么能够理解这个世界，为什么能够不通过学习而如同回忆一样掌握各种概念](https://api.bilibili.com/x/web-interface/view?bvid=BV1Pq4y1b7FX)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### cat11-BV1TX4y157ry
+
+[视频元数据：【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）](https://api.bilibili.com/x/web-interface/view?bvid=BV1TX4y157ry)
+
+定位：data.title、data.bvid、data.cid；缓存public/courses.json的video_check。
+
+复用2026-11-13已核view接口快照中的标题、BV、CID与时长；本次核对目录字段差异，未播放。
+
+### a12-33-0232
+
+[3-3 生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)
+
+定位：实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除。
+
+实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除；未回听原音、未核板书。
+
+### a12-33-0234
+
+[3-3-1 存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md)
+
+定位：实际核读Page1–11 L9–41；L45起下一讲排除。
+
+实际核读Page1–11 L9–41；L45起下一讲排除；未回听原音、未核板书。
+
+### a12-33-0235
+
+[3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md)
+
+定位：实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除。
+
+实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除；未回听原音、未核板书。
+
+### a12-33-0236
+
+[3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md)
+
+定位：Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35。
+
+Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35；未回听原音、未核板书。
+
+### a12-33-0237
+
+[3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md)
+
+定位：Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20。
+
+Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20；未回听原音、未核板书。
+
+### a12-33-0238
+
+[3-3-1-4 前本体论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md)
+
+定位：Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35。
+
+Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35；未回听原音、未核板书。
+
+### a12-33-0239
+
+[3-3-2 真正的生存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md)
+
+定位：Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23。
+
+Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23；未回听原音、未核板书。
+
+### a12-33-0240
+
+[3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md)
+
+定位：Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50。
+
+Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50；未回听原音、未核板书。
+
+### a12-33-0241
+
+[3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md)
+
+定位：Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲。
+
+Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲；未回听原音、未核板书。
+
+### a12-33-0242
+
+[3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md)
+
+定位：Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲。
+
+Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲；未回听原音、未核板书。
+
+### a12-33-0243
+
+[3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md)
+
+定位：Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲。
+
+Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲；未回听原音、未核板书。
+
+### a12-33-0244
+
+[3-3-3 同一生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md)
+
+定位：Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29。
+
+Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29；未回听原音、未核板书。
+
+### a12-33-0245
+
+[3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md)
+
+定位：Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32。
+
+Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32；未回听原音、未核板书。
+
+### a12-33-0246
+
+[3-3-3-2 直接生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md)
+
+定位：Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35。
+
+Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35；未回听原音、未核板书。
+
+### a12-33-0247
+
+[3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md)
+
+定位：Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24。
+
+Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24；未回听原音、未核板书。
+
+### a12-33-0248
+
+[3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md)
+
+定位：Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12。
+
+Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12；未回听原音、未核板书。
+
+### a12-334-0249
+
+[0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md)
+
+定位：实际核读Page1–21 L9–69及Page22 L72本讲末句；另读L72后半–75下一讲开篇用于3-3-4-1身份与人物解释。。
+
+实际核读Page1–21 L9–69及Page22 L72本讲末句；另读L72后半–75下一讲开篇用于3-3-4-1身份与人物解释。未核原音或板书。
+
+### a12-334-0250
+
+[0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md)
+
+定位：实际核读Page1–16 L9–68及Page17 L71首句本讲结尾；另读L71后半–74下一讲开篇，用于3-3-4-2非有意回应限定。。
+
+实际核读Page1–16 L9–68及Page17 L71首句本讲结尾；另读L71后半–74下一讲开篇，用于3-3-4-2非有意回应限定。未核原音或板书。
+
+### a12-334-0251
+
+[0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md)
+
+定位：实际核读Page1–34 L9–108及Page35 L111下一讲标题前；另读L111后半–114加缪开篇，用于其战后语境。。
+
+实际核读Page1–34 L9–108及Page35 L111下一讲标题前；另读L111后半–114加缪开篇，用于其战后语境。未核原音或板书。
+
+### a12-334-0252
+
+[0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md)
+
+定位：实际核读Page1–34 L9–154及Page35 L157–158本讲结束；另读L158后半–163博尔赫斯引言，用于遗忘之解释。。
+
+实际核读Page1–34 L9–154及Page35 L157–158本讲结束；另读L158后半–163博尔赫斯引言，用于遗忘之解释。未核原音或板书。
+
+### a12-334-0253
+
+[0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md)
+
+定位：实际核读Page1–41 L9–149本讲全部正文；L152起下一讲元数据与内容不作为本讲证据。。
+
+实际核读Page1–41 L9–149本讲全部正文；L152起下一讲元数据与内容不作为本讲证据。未核原音或板书。
+
+### a12-34-0254
+
+[0254_3-4_符号学_p6567](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md)
+
+定位：Page1–28 L9–94。
+
+实际逐段核读本讲Page1–28 L9–94，核验SHA256；后续下一讲溢出不作证据。未回听原音或复核哲学家原典；历史归因、术语拼写与讲者批评均保留证据边界。
+
+### a12-34-0256
+
+[0256_3-4-1_结构主义_p6644](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md)
+
+定位：Page1–22 L9–72。
+
+实际逐段核读本讲Page1–22 L9–72，核验SHA256；后续下一讲溢出不作证据。未回听原音或复核哲学家原典；历史归因、术语拼写与讲者批评均保留证据边界。
+
+### a12-34-0257
+
+[0257_3-4-1-1_结构人本主义_p6667](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md)
+
+定位：Page1–35 L9–123。
+
+实际逐段核读本讲Page1–35 L9–123（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。
+
+### a12-34-0258
+
+[0258_3-4-1-2_隐喻的象征主义_p6702](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md)
+
+定位：Page1–37 L9–118。
+
+实际逐段核读本讲Page1–37 L9–118（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。
+
+### a12-34-0259
+
+[0259_3-4-1-3_分类性的叙事学_p6740](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md)
+
+定位：Page1–22 L9–86。
+
+实际逐段核读本讲Page1–22 L9–86（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。
+
+### a12-34-0260
+
+[0260_3-4-1-4_陈述性的话语主义_p6762](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md)
+
+定位：Page1–30 L9–139。
+
+实际逐段核读本讲Page1–30 L9–139（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。
+
+### a12-34-0261
+
+[0261_3-4-2_后结构主义_p6792](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md)
+
+定位：Page1–23 L9–165；另读下一讲开头Page23–24 L169–172，仅用于3-4-2-1。
+
+实际逐段核读Page1–23 L9–165本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。另已读L169–172的3-4-2-1开头，明确只作下一节点证据，不混作本讲。
+
+### a12-34-0262
+
+[0262_3-4-2-1_无意识的主体主义_p6815](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md)
+
+定位：Page1–33 L9–105。
+
+实际逐段核读Page1–33 L9–105本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。
+
+### a12-34-0263
+
+[0263_3-4-2-2_静止的事件主义_p6848](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md)
+
+定位：Page1–32 L9–203。
+
+实际逐段核读Page1–32 L9–203本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。
+
+### a12-34-0264
+
+[0264_3-4-2-3_哲学的墨守成规_p6880](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md)
+
+定位：Page1–19 L9–63。
+
+实际逐段核读Page1–19 L9–63本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。
+
+### a12-34-0265
+
+[0265_3-4-2-4_螺旋的贱斥主义_p6900](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md)
+
+定位：Page1–21 L9–91。
+
+实际逐段核读Page1–21 L9–91本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。
+
+### a12-34-0266
+
+[0266_3-4-3_差异的辩证法_p6921](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md)
+
+定位：Page1–33 L9–125（L125只取本讲结尾）。
+
+逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。
+
+### a12-34-0267
+
+[0267_3-4-3-1_游牧的辩证主义_p6954](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md)
+
+定位：Page1–38 L9–123。
+
+逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。
+
+### a12-34-0268
+
+[0268_3-4-3-2_圆满的经济学_p6993](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md)
+
+定位：Page1–23 L9–108；另核下一讲开头Page24–25 L113–118，仅供3433小说标题及人物名。
+
+逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。
+
+### a12-34-0269
+
+[0269_3-4-3-3_倒错的好客主义_p7017](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md)
+
+定位：Page1–26 L9–106。
+
+逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。
+
+### a12-34-0270
+
+[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)
+
+定位：Page1–35 L9–111。
+
+逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。
+
+### a12-34-0271
+
+[0271_3-4-4_解释学_p7078](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md)
+
+定位：Page1–23 L9–95（仅本讲结尾）；另核L95–98下一讲开头，仅用于3441哲学等于修辞表述。
+
+已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。
+
+### a12-34-0272
+
+[0272_3-4-4-1_现象学的解释学_p7101](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md)
+
+定位：Page1–18 L9–60（仅本讲结尾）。
+
+已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。
+
+### a12-34-0273
+
+[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)
+
+定位：Page1–20 L9–80（仅本讲结尾）。
+
+已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。
+
+### a12-34-0274
+
+[0274_3-4-4-3_语言游戏_p7139](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md)
+
+定位：Page1–21 L9–73（仅本讲结尾）。
+
+已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。
+
+### a12-34-0275
+
+[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)
+
+定位：Page1–24 L9–205（仅本讲结尾）。
+
+已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。
+
+### x13-local-BV1XL411x72W
+
+[形而下学总论：本地自动转录](https://www.bilibili.com/video/BV1XL411x72W)
+
+定位：620个时间段全文，00:00.46–29:35.11。
+
+完整阅读生成的620段文本；没有核听音频。模型存在同音误识，不据疑难句补造精确术语或引文。
+
+### x13-board-BV1hf4y1k7sX
+
+[神创论无声版：公开视频预览板书](https://www.bilibili.com/video/BV1hf4y1k7sX)
+
+定位：预览索引0、95、195、295、395、490、546、596、698、773、849、914秒抽样画面。
+
+实际查看12张抽样板书；视频简介明确无声版。仅转述可辨文字，不声称还原完整口述、全部板书或论证。
+
+### x13-clean-0002
+
+[0002_1-1_科学实在论_p27](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA/0002_1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA_p27.md)
+
+定位：仅复习课开讲 L83–99。
+
+仅复习课开讲 L83–99；仅文本核读，无原音核听。
+
+### x13-clean-0003
+
+[0003_1-1_复习课_p37](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0003_1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p37.md)
+
+定位：Page 1–6 / L9–39；排除 Page 7–8 物理主义下一讲。
+
+Page 1–6 / L9–39；排除 Page 7–8 物理主义下一讲；仅文本核读，无原音核听。
+
+### x13-clean-0342
+
+[0342_4-4_不可能的乌托邦_p8560](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md)
+
+定位：仅复习课开讲 L161–167。
+
+仅复习课开讲 L161–167；仅文本核读，无原音核听。
+
+### x13-clean-0343
+
+[0343_4-4_复习课_p8598](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0343_4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p8598.md)
+
+定位：Page 1–15 / L9–51 goodbye止；排除其后4-4-1与Page16。
+
+Page 1–15 / L9–51 goodbye止；排除其后4-4-1与Page16；仅文本核读，无原音核听。
+
+### x13-clean-0075
+
+[0075_1-4_复习_p1690](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/0075_1-4_%E5%A4%8D%E4%B9%A0_p1690.md)
+
+定位：Page1–37 / L9–135 本讲全文；排除L136起下一讲、Page38；0074同一页重复元数据也已只读核对。
+
+Page1–37 / L9–135 本讲全文；排除L136起下一讲、Page38；0074同一页重复元数据也已只读核对；仅文本核读，无原音核听。
+
+### x13-clean-0144
+
+[0144_2-3_我思形而上学_笛卡尔的梦魇_斯宾诺莎的宁静_科学的摇篮_形而上学的坟墓_p3909](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E6%88%91%E6%80%9D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E6%A2%A6%E9%AD%87_%E6%96%AF%E5%AE%BE%E8%AF%BA%E8%8E%8E%E7%9A%84%E5%AE%81%E9%9D%99_%E7%A7%91%E5%AD%A6%E7%9A%84%E6%91%87%E7%AF%AE_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%9D%9F%E5%A2%93/0144_2-3_%E6%88%91%E6%80%9D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E6%A2%A6%E9%AD%87_%E6%96%AF%E5%AE%BE%E8%AF%BA%E8%8E%8E%E7%9A%84%E5%AE%81%E9%9D%99_%E7%A7%91%E5%AD%A6%E7%9A%84%E6%91%87%E7%AF%AE_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%9D%9F%E5%A2%93_p3909.md)
+
+定位：复习引入边界仅 L27末句–30（此前总论尾段也只读检查标题序列）。
+
+复习引入边界仅 L27末句–30（此前总论尾段也只读检查标题序列）；仅文本核读，无原音核听。
+
+### x13-clean-0145
+
+[0145_2-3_复习课_p3916](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0145_2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p3916.md)
+
+定位：Page1–16 / L9–86本讲全文；排除L87起实体一元论及Page17。
+
+Page1–16 / L9–86本讲全文；排除L87起实体一元论及Page17；仅文本核读，无原音核听。
+
+### x13-clean-0232
+
+[0232_3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论_p5984](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md)
+
+定位：仅复习课开讲 L112标题后–117。
+
+仅复习课开讲 L112标题后–117；仅文本核读，无原音核听。
+
+### x13-clean-0233
+
+[0233_3-3_复习课_p6008](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0233_3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p6008.md)
+
+定位：Page1–13 / L9–143“好讲到这边”止；排除331标题起及Page14。
+
+Page1–13 / L9–143“好讲到这边”止；排除331标题起及Page14；仅文本核读，无原音核听。
+
+### x13-clean-0299
+
+[0299_4-2_现实的正统化_p7647](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md)
+
+定位：仅复习课开讲 L39同BV标题后–44。
+
+仅复习课开讲 L39同BV标题后–44；仅文本核读，无原音核听。
+
+### x13-clean-0300
+
+[0300_4-2_复习_p7654](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/0300_4-2_%E5%A4%8D%E4%B9%A0_p7654.md)
+
+定位：Page1–20 / L9–102本讲全文；排除L103起421及Page21。
+
+Page1–20 / L9–102本讲全文；排除L103起421及Page21；仅文本核读，无原音核听。
+
+### x13-identity-BV1Sp4y147je
+
+[2-3复习BV开头与结尾的本地ASR身份比对](https://www.bilibili.com/video/BV1Sp4y147je)
+
+定位：视频00:00–03:00及27:57.19–30:57.19；对照0144 L27–30、0145 L9–21及L78–86。
+
+实际逐段读103段抽样ASR并比对编纂稿首尾：开头我思调和、后台程序报错、反向列234/233，结尾宗教三元组及康德写Java比喻次序吻合。证据支持同讲归属；中间音轨未逐段比对，没有人工听校。
+
+### x13-root-BV1Eb4y1Q7tG-1
+
+[BV1Eb4y1Q7tG_p1__e188f1695e.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Eb4y1Q7tG_p1__e188f1695e.txt)
+
+定位：第一部分L1–13全文。
+
+实际核读第一部分L1–13全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1Eb4y1Q7tG-2
+
+[BV1Eb4y1Q7tG_p2__13d10043d0.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Eb4y1Q7tG_p2__13d10043d0.txt)
+
+定位：第二部分L1–8全文。
+
+实际核读第二部分L1–8全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1TX4y157ry-1
+
+[BV1TX4y157ry__d64c1d3d95.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1TX4y157ry__d64c1d3d95.txt)
+
+定位：L1–23全文。
+
+实际核读L1–23全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1RZ4y1d7cH-1
+
+[BV1RZ4y1d7cH__86faa473c9.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1RZ4y1d7cH__86faa473c9.txt)
+
+定位：L1–22全文；L1大量重复损坏，不据其补起始论证。
+
+实际核读L1–22全文；L1大量重复损坏，不据其补起始论证；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV19Y411W7dj-1
+
+[BV19Y411W7dj__022c6c0113.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV19Y411W7dj__022c6c0113.txt)
+
+定位：ASR全文L1–27。
+
+实际核读ASR全文L1–27；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1W64y1x7mY-1
+
+[BV1W64y1x7mY__bd55044975.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1W64y1x7mY__bd55044975.txt)
+
+定位：ASR全文L1–36。
+
+实际核读ASR全文L1–36；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1Rq4y1z7KD-1
+
+[BV1Rq4y1z7KD__b7fcd1455f.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Rq4y1z7KD__b7fcd1455f.txt)
+
+定位：ASR全文L1–47。
+
+实际核读ASR全文L1–47；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1J14y157Er-1
+
+[BV1J14y157Er__25a0803467.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1J14y157Er__25a0803467.txt)
+
+定位：ASR全文L1–53。
+
+实际核读ASR全文L1–53；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1H64y1i72N-1
+
+[BV1H64y1i72N__1f46b44e24.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1H64y1i72N__1f46b44e24.txt)
+
+定位：ASR全文L1–77。
+
+实际核读ASR全文L1–77；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1CL4y1W7hR-1
+
+[BV1CL4y1W7hR__89ffae0d27.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1CL4y1W7hR__89ffae0d27.txt)
+
+定位：ASR全文L1–79。
+
+实际核读ASR全文L1–79；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV15v411A7nX-1
+
+[BV15v411A7nX__cbe6e11a73.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV15v411A7nX__cbe6e11a73.txt)
+
+定位：ASR全文L1–128。
+
+实际核读ASR全文L1–128；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。
+
+### x13-root-BV1cy4y1E77f-1
+
+[BV1cy4y1E77f__8009dfe417.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1cy4y1E77f__8009dfe417.txt)
+
+定位：ASR L1–54，全篇。
+
+实际核读ASR L1–54，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1gi4y1T7yg-1
+
+[BV1gi4y1T7yg__24aae268a5.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1gi4y1T7yg__24aae268a5.txt)
+
+定位：ASR L1–73，全篇。
+
+实际核读ASR L1–73，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1jb4y1n7jt-1
+
+[BV1jb4y1n7jt__a3ee106577.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1jb4y1n7jt__a3ee106577.txt)
+
+定位：ASR L1–145，全篇。
+
+实际核读ASR L1–145，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1oh411u7Ak-1
+
+[BV1oh411u7Ak__f2378db229.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1oh411u7Ak__f2378db229.txt)
+
+定位：ASR L1–43，全篇。
+
+实际核读ASR L1–43，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1pv411K7oX-1
+
+[BV1pv411K7oX__19e27ab0ab.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1pv411K7oX__19e27ab0ab.txt)
+
+定位：ASR L1–90，全篇。
+
+实际核读ASR L1–90，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1r14y1s75s-1
+
+[BV1r14y1s75s__7238cf5a2b.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1r14y1s75s__7238cf5a2b.txt)
+
+定位：ASR L1–33，全篇。
+
+实际核读ASR L1–33，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-root-BV1zB4y1K7m9-1
+
+[BV1zB4y1K7m9__2e56fb014c.txt](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1zB4y1K7m9__2e56fb014c.txt)
+
+定位：ASR L1–47，全篇。
+
+实际核读ASR L1–47，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。
+
+### x13-special-BV1YZ4y1F7z1
+
+[【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1YZ4y1F7z1__ab9fa0d69e.txt)
+
+定位：L1–32。
+
+实际核读完整ASR L1–32；按文件名BV与固定树精确匹配，未核原音或板书。
+
+### x13-special-BV15M4y1L7ek
+
+[【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV15M4y1L7ek__eb69b79279.txt)
+
+定位：L1–36。
+
+实际核读完整ASR L1–36；按文件名BV与固定树精确匹配，未核原音或板书。
+
+### x13-special-BV1Ei4y1N712
+
+[【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Ei4y1N712__d5969ee9fb.txt)
+
+定位：L1–75。
+
+实际核读完整ASR L1–75；按BV固定树精确匹配，未核原音或板书。
+
+### x13-special-BV1JT4y1K7dp
+
+[【主义主义】哲学意识形态大全-总纲（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1JT4y1K7dp__e40f4c6aef.txt)
+
+定位：L1–109。
+
+实际核读完整ASR L1–109；按BV固定树精确匹配，未核原音或板书。
+
+### x13-special-BV1Kt4y1z7WU
+
+[【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Kt4y1z7WU__8a1d38f87e.txt)
+
+定位：L1–173。
+
+实际核读完整ASR L1–173；L59、75明显重复识别，不推复原；未核原音和板书。
+
+### x13-special-BV1Pq4y1b7FX
+
+[【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Pq4y1b7FX__b30516fc7e.txt)
+
+定位：L1–60。
+
+实际核读完整ASR L1–60；按BV固定树精确匹配；未核原音或板书。
+
+### x13-special-BV1Z3411E7sg
+
+[【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Z3411E7sg__a99d522d1f.txt)
+
+定位：L1–74。
+
+实际核读完整ASR L1–74；按BV固定树精确匹配；未核原音或板书。
+
+### x13-special-BV1Zm4y1o7qs
+
+[【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Zm4y1o7qs__282f9fef48.txt)
+
+定位：L1–87。
+
+实际核读完整ASR L1–87；按BV固定树精确匹配；未核原音或板书。
+
+### x13-special-BV1Gr4y1a7J9
+
+[【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Gr4y1a7J9__f92ece3d11.txt)
+
+定位：L1–97。
+
+实际核读全部ASR L1–97；与BV固定文件精确匹配；未核原音或板书。
+
+### x13-special-BV1ri4y1y7bJ
+
+[【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1ri4y1y7bJ__202ae03b1d.txt)
+
+定位：L1–102。
+
+实际核读全部ASR L1–102；与BV固定文件精确匹配；未核原音或板书。
+
+### x13-special-BV1zF411J7Yc
+
+[【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1zF411J7Yc__e1a4868ac0.txt)
+
+定位：L1–121。
+
+实际核读全部ASR L1–121；与BV固定文件精确匹配；未核原音或板书。
+
+### x13-special-BV1k5411o7QR
+
+[【主义主义练习课】实体和偶性的关系总结（$-2-1-2）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1k5411o7QR__4f1fbd427d.txt)
+
+定位：L1–121。
+
+实际核读全部ASR L1–121；与BV固定文件精确匹配；未核原音或板书。
+
+### x13-special-BV1cq4y1t7TN
+
+[【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？（从$-2-1-3到$-2-1-4）（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1cq4y1t7TN__d6e62a4a31.txt)
+
+定位：L1–122。
+
+实际核读全部ASR L1–122；与BV固定文件精确匹配；未核原音或板书。
+
+### x13-special-0103
+
+[0103_2-1-2_本质主义_存在_虚无_无限_万物_太一与命运赐予它的锁链_巴门尼德的真理之路_p2604](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/0103_2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF_p2604.md)
+
+定位：L152–162。
+
+核读2-1-2-1元数据和开篇；L156明确同一BV，L159–162连续引入伦理智性主义；未核原音。
+
+### x13-special-0104
+
+[0104_2-1-2-1_伦理智性主义_苏格拉底的哲学_知识助产术_知识即美德_爱欲是唯一的知识_哲学就是练习面对死亡_p2645](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/2-1-2-1_%E4%BC%A6%E7%90%86%E6%99%BA%E6%80%A7%E4%B8%BB%E4%B9%89_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%93%B2%E5%AD%A6_%E7%9F%A5%E8%AF%86%E5%8A%A9%E4%BA%A7%E6%9C%AF_%E7%9F%A5%E8%AF%86%E5%8D%B3%E7%BE%8E%E5%BE%B7_%E7%88%B1%E6%AC%B2%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E7%9F%A5%E8%AF%86_%E5%93%B2%E5%AD%A6%E5%B0%B1%E6%98%AF/0104_2-1-2-1_%E4%BC%A6%E7%90%86%E6%99%BA%E6%80%A7%E4%B8%BB%E4%B9%89_%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E7%9A%84%E5%93%B2%E5%AD%A6_%E7%9F%A5%E8%AF%86%E5%8A%A9%E4%BA%A7%E6%9C%AF_%E7%9F%A5%E8%AF%86%E5%8D%B3%E7%BE%8E%E5%BE%B7_%E7%88%B1%E6%AC%B2%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E7%9F%A5%E8%AF%86_%E5%93%B2%E5%AD%A6%E5%B0%B1%E6%98%AF%E7%BB%83%E4%B9%A0%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1_p2645.md)
+
+定位：L9–135。
+
+实际核读本讲续篇全部正文L9–135；L136起是下一讲2-1-2-2，排除；未核原音。

@@ -1,0 +1,539 @@
+{
+  "batch": "13-extra-root-c",
+  "checked_on": "2026-11-13",
+  "scope": "补充课程正文实际阅读；按BV和原文位置保存身份，不把标题当正文。",
+  "sources": [
+    {
+      "id": "x13-root-BV1cy4y1E77f-1",
+      "title": "BV1cy4y1E77f__8009dfe417.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1cy4y1E77f__8009dfe417.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–54，全篇",
+      "verification_scope": "实际核读ASR L1–54，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "9fc849ff0d46299d5ecb45e8c4b51b2045315d561ede3acc881a3d33ed950635",
+      "git_blob_sha": "55dcaaf684c951501387116f6c052d1832e00182",
+      "upstream_path": "corpus/bilibili-asr/BV1cy4y1E77f__8009dfe417.txt"
+    },
+    {
+      "id": "x13-root-BV1gi4y1T7yg-1",
+      "title": "BV1gi4y1T7yg__24aae268a5.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1gi4y1T7yg__24aae268a5.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–73，全篇",
+      "verification_scope": "实际核读ASR L1–73，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "1d9c0f77940a2bae92c399c1de470b8effdc8b5cdb2624e9967f96b6d4957f99",
+      "git_blob_sha": "26fa4b28d9594bea6beb0fa40c7f013458109c1a",
+      "upstream_path": "corpus/bilibili-asr/BV1gi4y1T7yg__24aae268a5.txt"
+    },
+    {
+      "id": "x13-root-BV1jb4y1n7jt-1",
+      "title": "BV1jb4y1n7jt__a3ee106577.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1jb4y1n7jt__a3ee106577.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–145，全篇",
+      "verification_scope": "实际核读ASR L1–145，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "8e37bfe5b0e6ff28e83a57d197d34d1ba5a4fc8b5de79573c79163bf9472d6ec",
+      "git_blob_sha": "7431d7df94b3a246ad8cd21aded8de3722469f5a",
+      "upstream_path": "corpus/bilibili-asr/BV1jb4y1n7jt__a3ee106577.txt"
+    },
+    {
+      "id": "x13-root-BV1oh411u7Ak-1",
+      "title": "BV1oh411u7Ak__f2378db229.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1oh411u7Ak__f2378db229.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–43，全篇",
+      "verification_scope": "实际核读ASR L1–43，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "c54de7a2a95a55d10bbd4c0f2b9378fa16349873c171af1d5536c2ee6b84b905",
+      "git_blob_sha": "547073811a5702520de8154ec22eab51b862542b",
+      "upstream_path": "corpus/bilibili-asr/BV1oh411u7Ak__f2378db229.txt"
+    },
+    {
+      "id": "x13-root-BV1pv411K7oX-1",
+      "title": "BV1pv411K7oX__19e27ab0ab.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1pv411K7oX__19e27ab0ab.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–90，全篇",
+      "verification_scope": "实际核读ASR L1–90，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "769fab5a3235141e02b25274ab5086c5aeb06114ef7b4421568d41859cd28602",
+      "git_blob_sha": "9d17be5cec7e2f1a47e5f4707960e3b010a6a83d",
+      "upstream_path": "corpus/bilibili-asr/BV1pv411K7oX__19e27ab0ab.txt"
+    },
+    {
+      "id": "x13-root-BV1r14y1s75s-1",
+      "title": "BV1r14y1s75s__7238cf5a2b.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1r14y1s75s__7238cf5a2b.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–33，全篇",
+      "verification_scope": "实际核读ASR L1–33，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "2c0a9623f97c940b1d2801131a5cdcd6ea6e13ed98a800a1965c07e87bc52dd2",
+      "git_blob_sha": "237e212c66b4769063db4cc2d9d9fa009a013fe8",
+      "upstream_path": "corpus/bilibili-asr/BV1r14y1s75s__7238cf5a2b.txt"
+    },
+    {
+      "id": "x13-root-BV1zB4y1K7m9-1",
+      "title": "BV1zB4y1K7m9__2e56fb014c.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1zB4y1K7m9__2e56fb014c.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR L1–47，全篇",
+      "verification_scope": "实际核读ASR L1–47，全篇；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "fb59e30a1192cd06a1d374ce9b565e40023828987182d0378c1066f85ba06e8b",
+      "git_blob_sha": "0a31cd38ea2bb2b04d9beabaae4e63524d7d6305",
+      "upstream_path": "corpus/bilibili-asr/BV1zB4y1K7m9__2e56fb014c.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1cy4y1E77f",
+      "series_code": "准备课：哲学的二阶论域",
+      "title": "【主义主义】哲学的二阶论域：进入形而上学的准备工作（四种形而上学的由来）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者先调整阶次的参照：意识形态相对前反思意识本已是二阶，这一课又把意识形态当作待反思的一阶对象，通过论域加倍进入哲学。这里的一阶、二阶是相对的分析层次，不是始终固定的等级名称。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L1–8"
+        },
+        {
+          "text": "场域论与本体论的交叠被称为空间性：背景秩序要通过空间成为可呈现的存在，本体也要借助场域才能在场。讲者同时解释把宇宙论改叫场域论，是为了避免与物理宇宙学及宗教宇宙论混淆。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L5–11"
+        },
+        {
+          "text": "场域论与认识论的交叠形成主体性，表现为内在视域及经验的敞开。背景秩序要进入可认识的经验、经验又要被把握为一个场域，都需要主体居间；讲者特意说此处不是拉康意义上的主体。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L11–17"
+        },
+        {
+          "text": "场域论与目的论的交叠被解释为时间性：背景秩序要实际展开自身运动，须经过本体与认识的阻隔、付出延缓和差异的代价。空间规则和主体经验的介入共同说明这一展开并非立即完成。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L18–34"
+        },
+        {
+          "text": "本课将2-1在场形而上学、2-2辩证形而上学、2-3我思形而上学分别关联空间性、时间性和主体性，并以几何思辨、言说中的转化及内心探索说明其方法差异。2-4反形而上学与客体性的对应则仍以大概率、不确定的口吻提出。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L35–49"
+        },
+        {
+          "text": "末尾把经验主义、实证研究及某些科学家的哲学反思列为2-4的候选，强调科学与科学主义不能直接等同。六种二阶概念的后续专题在本课只是预告，并未全部完成论证。",
+          "source_ids": [
+            "x13-root-BV1cy4y1E77f-1"
+          ],
+          "locator": "L29–31；L44–54"
+        }
+      ],
+      "editorial_notes": [
+        "ASR把场域论、二阶论域等多次识别为常狱论、二阶论语；按连续上下文整理，不据这些错字增添概念。",
+        "物理学例子只记录其解释作用，未核其科学准确性。2-4对应及人物放置是本课当时的规划，不作为后来最终格位的唯一依据。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1gi4y1T7yg",
+      "series_code": "复习：1-3十六种庸俗唯我论",
+      "title": "【主义主义】复习课：十六种庸俗的唯我论",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把四格暂时分成较体现实体的场域/本体两侧和较体现主体的认识/目的两侧，又用背景与前景关系对应场域—认识、本体—目的。他明确这只是矩阵读法，不能据此认定实体与主体彼此隔绝。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L1–14"
+        },
+        {
+          "text": "在1-3的十六种具体姿态中，本课优先提取四个目的论为3的格位：现实唯心主义、现代新柏拉图主义、排他集体主义、唯美主义；用暴力、爱情、厌恶、审美享乐概括其不同的中心化方式。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L15–20"
+        },
+        {
+          "text": "这些姿态共同面对主体性的剩余：主体用自身调和语言与体验，却仍感到某种在自己之中、又不完全是自己的欲望。讲者据此归纳否认/压抑、对抗/投射、排斥/宣泄、向既有性化审美秩序妥协四种策略。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L21–40"
+        },
+        {
+          "text": "爱情被解释为一种可能撕开唯我论的关系：必须分辨爱的是他人的主体性，还是自己心中的幻象。这个口子难以持续，讲者把爱情受挫后的犬儒和不敢进入关系的智者姿态视作两种退却。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L41–48"
+        },
+        {
+          "text": "排他集体主义通过共同排斥一个被妖魔化的对象形成我们，与直接预设所有人同一意志的否认策略不同。随后的人称分析把大他者、第二人称的你、排斥形成的我们，以及性化秩序中的第三人称角色联系到这些机制。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L49–65"
+        },
+        {
+          "text": "结尾鼓励从他心问题检验唯我论，并说明政治、爱、厌恶和审美并非各只占一个格子：它们可以在不同格位交叉出现。讲者把选择代表理论的标准说成能否显示更强的反思张力，而非一套自动套用的公式。",
+          "source_ids": [
+            "x13-root-BV1gi4y1T7yg-1"
+          ],
+          "locator": "L66–73"
+        }
+      ],
+      "editorial_notes": [
+        "ASR中的唯我、唯心、唯意志等词与编号有多次误识或口误；本摘要使用邻近完整语句确认四个重点格位，不据零散数字另立新分类。",
+        "L31把小他者与客体小a说得很含糊，并主动表示暂不区分；这不是已核拉康术语规范。人称/性化说明是讲者的理论类比，未据此推断现实人的人格或性别本性。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1jb4y1n7jt",
+      "series_code": "复习：从虚假的体系走向真正的体系",
+      "title": "【主义主义】复习课：从虚假的体系走向真正的体系",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本课把四字头实践之后的下一步界定为不预设场域的本体论探索。讲者要求返回成熟哲学文本，而不是继续把所有思考塞回原来的数字格位；主义主义在这里被他主动降格为准备性的、尚不具真正体系性的工具。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L1–4；L30–32；L42–45；L130–131"
+        },
+        {
+          "text": "讲者把《大逻辑》放在这一路径的中心，认为它提供概念环节与运动的范本，能帮助定位现代哲学的问题。其关于后世哲学大多已被黑格尔预先包含的判断，是本讲明确的评价立场，并非已经完成的哲学史证明。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L4–19；L104–109；L137–140"
+        },
+        {
+          "text": "阅读路径由《逻辑学》走向《资本论》，《精神现象学》《法哲学原理》及《存在与时间》等被考虑为中介。他希望把逻辑环节与现代资本、金融和生产关系中的对应机制相联系，以继续政治经济学研究，而非只复述已有结论。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L13–29；L85–92"
+        },
+        {
+          "text": "具体方法是逐句梳理语法、术语和环节转化，以英文阅读并在疑点处对照德文，再将哲学理解转成现实例子。理论讨论应能指出哪个环节卡住、如何运动和转化；他也承认自己对现代经济金融及内部数据的掌握有限，需要继续学习。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L17–25；L56–64；L69–70；L80–81；L128–129"
+        },
+        {
+          "text": "本课把这项工作描绘为持续多年的理论实践，并反复要求学习者先保障学业、生计、家庭和对身边人的责任。年龄、阅读数量、工时与年限是讲者的个人估计和劝退尺度，不构成经验证的能力测量或统一入门资格。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L33–39；L50–58；L76–97；L109–115；L125–127"
+        },
+        {
+          "text": "最终目标是使理论成为实际生命活动和共同体研究的一部分，尝试形成能分析生产与主体生成的通用符号学。讲者将自己的视频定位为公开记录、逐句导读和提供方向，并以学习演奏的比喻说明：先严密掌握已有体系，再开展独立研究。",
+          "source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "locator": "L20–27；L43–47；L82–84；L118–124；L132–145"
+        }
+      ],
+      "editorial_notes": [
+        "ASR把《逻辑学》《资本论》《存在与时间》及本体论、场域论等反复错识；摘要只用上下文可确认的书名和概念，不把未辨清的外文短句作引文。",
+        "本课包含对哲学家、研究者与听众的强烈评价和能力排序；这里只保存论证路径及其限定，不认可其人格贬斥或把天分、年龄、书量视为客观准入标准。",
+        "彻底消除实践盲目性、后世哲学已被黑格尔覆盖等属于讲者研究理想或理论判断，尚非已完成成果。关于思想家的生平、家庭及经济史例子本批未独立核实。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-reflection",
+          "relation": "editorial_reading",
+          "locator": "《逻辑学》本质论反思节，§833–859：设定的反思、外在反思与规定的反思",
+          "reason": "本课L24明确把这三种反思之间的衔接和断裂列为需要研究的例子；此处提供可对照的实际段落，不把本课的纲领性评价当作原典结论。",
+          "evidence_source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "evidence_locator": "ASR L24–25",
+          "verification_scope": "复用09-dollar-readings已核§833–859，本批重读的是课程全文；未新增宣称原典全书审定。"
+        },
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "relation": "editorial_reading",
+          "locator": "第一卷第一章第1节使用价值与价值的开头区分；第4节商品拜物教开头",
+          "reason": "本课L21–29、L85–92要求把逻辑研究推进到资本范畴与现实社会关系；以已核商品章局部作为对读入口。具体章节由编辑选择，不能说讲者在本课逐节引用了它。",
+          "evidence_source_ids": [
+            "x13-root-BV1jb4y1n7jt-1"
+          ],
+          "evidence_locator": "ASR L21–29；L85–92",
+          "verification_scope": "复用01-readings已核局部，不代表本批通读《资本论》或验证现代金融对应。"
+        }
+      ]
+    },
+    {
+      "id": "BV1oh411u7Ak",
+      "series_code": "项目介绍：工益网站功能与内测",
+      "title": "【工益项目】主义主义工益网站的新功能以及内测情况介绍",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "视频介绍的是当时仍在内测的信息公示网站：用于展示小组、成员和活动，尚不开放外部注册，且讲者明确说没有论坛。它主要被定位为带博客性质的公示服务。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L1–3；L10"
+        },
+        {
+          "text": "小组通过联络员推荐录入志愿者，可以填写简介、联系方式及活动记录；记录再由联络员认可。讲者同时展示或说明财务明细、票据及历史活动，以使参与和支出较可追溯。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L4–8；L12–13"
+        },
+        {
+          "text": "推荐票撤回、反对和投诉被描述为基本监督机制，成员与联络员都可能受到质疑。讲者把平台的角色限定为信息公示、协调与问题反馈，说明各小组独立自治，出现在平台上不等于获得唯一正统地位。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L11–21"
+        },
+        {
+          "text": "内测接入包含现实见面了解、身份核验和小组构成等条件；后续扩大测试仍被说成有待协商和完善的计划。视频中的人数上限、推荐票额度与参与门槛是当时规则，不能直接当作现行平台政策。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L7–11；L22–24；L39–40"
+        },
+        {
+          "text": "关于支持小组起步，讲者提出倾向提供推车、服装、厨具或食品等物资，而不直接给现金，并要求不得转卖谋取经济利益。利用销售利润支持这些物资只是当时考虑中的安排，比例尚未确定。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L24–29；L35–36；L41"
+        },
+        {
+          "text": "创意工坊、文创生产协助、简介悬浮展示、可能的交友功能及集中回信模块都被作为未来设想提出。课程强调小组逐步成长和继续监督，未证明这些功能后来上线或持续运行。",
+          "source_ids": [
+            "x13-root-BV1oh411u7Ak-1"
+          ],
+          "locator": "L29–43"
+        }
+      ],
+      "editorial_notes": [
+        "这是项目演示/说明，不是哲学分类正文；仅记录视频当时的说法，未访问网站验证当前功能、人员、财务或运营状态。",
+        "未核原音与屏幕。ASR中的“公事/公式”按语境读作公示，“自制”读作自治；域名、人名、财务数字及具体名册不据机器转录扩散或认证。",
+        "对联络员、参与年龄、学生比例和公开姓名的表述有口头调整，不能据本摘要形成正式章程。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1pv411K7oX",
+      "series_code": "复习：3-2德国观念论运动",
+      "title": "【主义主义复习课】回顾整个德国观念论运动（3-2）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把德国观念论的主线概括为从有限推向无限：以第一人称观念的内在性、明证性和可理解性反推世界的根本结构，辩证法处理其中断裂。康德的批判工作则先被定位为审查知识生产合法条件的方法论。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L1–15"
+        },
+        {
+          "text": "康德之后的批判哲学支线在本课依次涉及怀特海、柯亨和卡西尔。讲者把它们分别解释为仍停留在观念论内部的过程取向、以无穷小连接存在与认识的先验逻辑主义，以及以人的符号实践形成符号空间但仍有先验分类局限的符号形式主义。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L15–26"
+        },
+        {
+          "text": "费希特知识学被概括为从自我生成推出非我与世界；晚期费希特则使主体成为绝对者自我认识的中介。早期谢林的先验观念论被放在这一演绎的扩展位置，詹姆斯和早期维特根斯坦也被讲者作结构上的比较归类。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L27–32；L45–53"
+        },
+        {
+          "text": "本课把晚期费希特与成熟/晚期谢林的重要差异放在绝对者能否自己中介自己：后者的收缩尝试被解释为失败，并转向有限主体的中介。由此论域从理念与表象的构造，转向前符号化存在及世界如何进入符号化的问题。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L33–44；L54–64"
+        },
+        {
+          "text": "谢林之后的比较重点是如何处理内在张力：作为观念论者的齐泽克被说成保持对抗，晚期海德格尔用天命调和，耶拿黑格尔给出开放回答。随后讲者从黑格尔转向阿多诺的否定辩证法、马尔库塞以艺术和爱欲重新闭合的处理，并当场纠正了把马尔库塞说成阿尔都塞的口误。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L65–74"
+        },
+        {
+          "text": "阿尔都塞所传授的意识形态学被用来标示本课的终点：有限主体可能已由话语塑造，因此自以为中介无限的认识，也可能在中介另一个有限者制造的框架。讲者借此解释观念论为何需要转向后续生存论、符号学和实践，而不是把这些后续运动看成毫无关联。",
+          "source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "locator": "L75–90"
+        }
+      ],
+      "editorial_notes": [
+        "本课结尾L87明确这是讲者一派对观念论的把握；怀特海、詹姆斯、维特根斯坦等人的放置属于比较性重构，不是已核实的直接师承史。",
+        "L2从绝对认识论标准改为方法论功能；L69把有限者/绝对者改为两种原初力量；L74纠正阿尔都塞为马尔库塞，摘要采用修正后表述。",
+        "ASR中书名及Eidos/Nous等外文、若干编号不稳定；未核原音和板书，不据不清编号补新格位。梅洛-庞蒂书名等临时提及未据转录新增书目。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "b01-kant-cpr-meiklejohn-en",
+          "relation": "editorial_reading",
+          "locator": "1787年第二版序中现象、物自身及经验界限段；Introduction VII定义transcendental段",
+          "reason": "对照本课L2–15关于批判方法、知识合法条件和认识有限性的概括，区分康德自述与讲者从有限推无限的整段重构。",
+          "evidence_source_ids": [
+            "x13-root-BV1pv411K7oX-1"
+          ],
+          "evidence_locator": "ASR L2–15",
+          "verification_scope": "复用01-readings已核两处正文；本批未把复习课的整个德国观念论谱系当作原典已证实。"
+        }
+      ]
+    },
+    {
+      "id": "BV1r14y1s75s",
+      "series_code": "项目追踪：临时站点与首批项目公示",
+      "title": "【项目追踪】主义主义网站（临时站点）目前的功能：首批项目内容的简单公示",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "视频把当时的临时站点定位为测试网站，首要用途是公开首批公益项目。讲者说家园改造已完成，伙食改善尚待启动；这两者属于不同子项目，不能把准备中的安排写成已经执行。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L1–4；L13–20"
+        },
+        {
+          "text": "现有页面被描述为列出参与者及劳动时间、活动日志和部分支出。讲者同时承认工时登记粗略、项目尚未细分为更小任务，材料、报销和自费支出也没有全部列齐，因此这些展示不是完结审计。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L4–13"
+        },
+        {
+          "text": "伙食改善拟按当时的中秋节点启动并定期继续，服务对象是孩子，讲者明确不向家长另收费。后续经费设想包括从食品销售收益中取出一部分，但本课未呈现其后实际持续情况。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L14–20"
+        },
+        {
+          "text": "用户注册后把支持者显示为具体用户名、增加项目标签及纪念勋章，是尚待开发的设想；勋章能否转让及社群意义也仍未确定。讲者说已公开参与者大多经过本人同意，但本批没有独立核实授权记录。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L21–24"
+        },
+        {
+          "text": "网站开发被看作持续项目，讲者还设想视频搬运、字幕、主义主义百科，以及《逻辑学》《资本论》的体系化资料。社区交流、活动公示、协调和分配不同权限等也属于扩展方向，并非本视频已经演示完成的功能清单。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L25–29"
+        },
+        {
+          "text": "结尾说明票据截图、支出填报和后续更新仍在逐步补齐，并要求不要把测试站当作高频更新的平台。所述域名调整及未来主站安排应作为历史计划保存，不能据口头域名推定今天可访问的正式站点。",
+          "source_ids": [
+            "x13-root-BV1r14y1s75s-1"
+          ],
+          "locator": "L30–33"
+        }
+      ],
+      "editorial_notes": [
+        "项目名和域名在机器转录中有不稳定识别；本文不据ASR建立可访问网址或校正人员姓名。",
+        "本批未核听原音、查看网页画面或复核财务凭证，仅摘要视频当时的说明；金额、工时和完成度不得视作审计结果。",
+        "注册邀请、社群权限、纪念勋章及百科功能均有未来时态，未当作已上线事实。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1zB4y1K7m9",
+      "series_code": "复习：1-2四种自以为超越的形而下学",
+      "title": "【主义主义复习课】四种自以为“超越”的形而下学（1-2）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本课用宗教实在论概括1-2的共同结构：创造者与被造者虽然地位不同，仍被放在一个被预设为整全的场中。高低位面、灵性路径和等级上升因此未必构成对背景秩序本身的反思。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "创造论首先把万物看作依照创造者秩序存在；当善恶、灵魂、身体和伦理地位是否也被创造等问题逐渐显露，原先理所当然的秩序受到压力。讲者用这种内部问题说明向认识论分裂推进的路线。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L12–16；L23–25"
+        },
+        {
+          "text": "偶像崇拜在本课中意味着从经验中追寻神圣力量留下的现象线索；时间崇拜又被连接到长生追求。唯灵论则使人试图主宰生命体验，却仍把自己安置在既定灵性等级中，未必改变其所预设的本体地位。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L15–19；L26–28"
+        },
+        {
+          "text": "讲者把唯灵论的弃绝姿态接到反偶像崇拜：放弃对经验的期待后，可以变成宿命式听任，也可以等待弥赛亚式救赎。救世期待被说明为处理创造者是否正义的一个办法，属于本课构造的概念关联。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L28–34"
+        },
+        {
+          "text": "1-1与1-2的区别被简化为眼见为实与对超经验力量的信服，但二者仍可共享未反思的背景。与之相比，二字头会把凡俗与超越的秩序都作为背景性秩序来比较、让它们发生竞争，并主动构造解释框架。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L35–43"
+        },
+        {
+          "text": "结尾把这些类型理解成现代仍会同时出现的历史结构：历史没有只留下单一终点，不同环节会重新嵌套于当下。复习的用途因此是识别结构，而非仅按时代先后排列思想。",
+          "source_ids": [
+            "x13-root-BV1zB4y1K7m9-1"
+          ],
+          "locator": "L44–47"
+        }
+      ],
+      "editorial_notes": [
+        "本课对宗教实践、超越和形而上学的评价属于讲者分类框架，不是对所有信仰者反思能力的经验调查。",
+        "ASR把宗教实在论、唯灵论、弃绝、救世等反复错识，且L32–34编号与记忆有犹疑；摘要保留可确定的概念联系，不据模糊编号推出新的子格映射。",
+        "创造论到其他分支的连接是课程构造的逻辑路线，并未独立验证为具体宗教史的普遍发生顺序。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

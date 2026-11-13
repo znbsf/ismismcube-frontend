@@ -1,0 +1,206 @@
+{
+  "batch": "13-extra-root-a",
+  "checked_on": "2026-11-13",
+  "scope": "补充课程正文实际阅读；按BV和原文位置保存身份，不把标题当正文。",
+  "sources": [
+    {
+      "id": "x13-root-BV1Eb4y1Q7tG-1",
+      "title": "BV1Eb4y1Q7tG_p1__e188f1695e.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Eb4y1Q7tG_p1__e188f1695e.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "第一部分L1–13全文",
+      "verification_scope": "实际核读第一部分L1–13全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "fa894fbad91d5257511e079a24cc54e75d5f3014ff1065a1d996d32c40939da0",
+      "git_blob_sha": "333d0ad40f3d8c4f7acbd23e5009306cfba1ef7c",
+      "upstream_path": "corpus/bilibili-asr/BV1Eb4y1Q7tG_p1__e188f1695e.txt"
+    },
+    {
+      "id": "x13-root-BV1Eb4y1Q7tG-2",
+      "title": "BV1Eb4y1Q7tG_p2__13d10043d0.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Eb4y1Q7tG_p2__13d10043d0.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "第二部分L1–8全文",
+      "verification_scope": "实际核读第二部分L1–8全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "047cb8ca4969437cdbae92059cb1047e067aef32ef8df8eca87651c1aa11365a",
+      "git_blob_sha": "020bc86c8ad1fe40f3a9e220f040b1ad64055518",
+      "upstream_path": "corpus/bilibili-asr/BV1Eb4y1Q7tG_p2__13d10043d0.txt"
+    },
+    {
+      "id": "x13-root-BV1TX4y157ry-1",
+      "title": "BV1TX4y157ry__d64c1d3d95.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1TX4y157ry__d64c1d3d95.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "L1–23全文",
+      "verification_scope": "实际核读L1–23全文；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "161170f038244e3cb0dc948cc0b6113ada7678b479cca96a10d52fb7bd180909",
+      "git_blob_sha": "49c1c50733c8d8a785e096f0a05ec0286137f331",
+      "upstream_path": "corpus/bilibili-asr/BV1TX4y157ry__d64c1d3d95.txt"
+    },
+    {
+      "id": "x13-root-BV1RZ4y1d7cH-1",
+      "title": "BV1RZ4y1d7cH__86faa473c9.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1RZ4y1d7cH__86faa473c9.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "L1–22全文；L1大量重复损坏，不据其补起始论证",
+      "verification_scope": "实际核读L1–22全文；L1大量重复损坏，不据其补起始论证；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "bef120be77e0ba9482a746aac8a2aba0bd23873facd57338385ac668a60ba5af",
+      "git_blob_sha": "d34719232e008d182e3fc08f554f5c614c84b019",
+      "upstream_path": "corpus/bilibili-asr/BV1RZ4y1d7cH__86faa473c9.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1Eb4y1Q7tG",
+      "series_code": "补充：芝诺悖论与时间观",
+      "title": "【十分钟哲学】芝诺悖论所对应的四种（或五种）时间观（结合【主义主义】2-1-2-4理解）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把四个悖论重读为几种时间体验：时间流过世界、朝向最终终点、通过与他物比较体验流逝，以及从当下区分过去和未来。这是哲学诠释，不是芝诺原论证的历史复原。",
+          "source_ids": [
+            "x13-root-BV1Eb4y1Q7tG-1"
+          ],
+          "locator": "第一部分L1–7"
+        },
+        {
+          "text": "阅兵台的比喻把“观察着流逝的当下”也放回流逝中：如果观察者同样变老，比较新旧状态就没有一个简单静止的外部支点。讲者用时间差异的加倍来描述这种困难。",
+          "source_ids": [
+            "x13-root-BV1Eb4y1Q7tG-1"
+          ],
+          "locator": "第一部分L7–12"
+        },
+        {
+          "text": "第二部分明确修改了第一部分对阿喀琉斯与乌龟的解释：花开花落可以被人跨越，真正用来说明不断延后的目标的是欲望，而不是一切易朽之物。",
+          "source_ids": [
+            "x13-root-BV1Eb4y1Q7tG-1",
+            "x13-root-BV1Eb4y1Q7tG-2"
+          ],
+          "locator": "第一部分L4–6；第二部分L1–5"
+        },
+        {
+          "text": "在欲望模型中，主体每次追到此前的目标，又重新设立未满足的目标；讲者把一直瞄准乌龟身后的位置理解为维持追逐的结构，而不是一个现实跑步事实。",
+          "source_ids": [
+            "x13-root-BV1Eb4y1Q7tG-2"
+          ],
+          "locator": "第二部分L5–8"
+        }
+      ],
+      "editorial_notes": [
+        "两部分均已读；第二部分是自我修正，不能只抽取第一部分的“易朽之物”解释。ASR中的飞食、圣域、实践性等同音误转不直接照抄成专有名词；原板书及数学推演未核。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1TX4y157ry",
+      "series_code": "摘录：四种表象",
+      "title": "【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "第一种把表象理解为偏离本体的假象，即感性留下的失真或剩余。讲者把它放在通常的前康德问题框架中，并非说整个康德哲学只有这一含义。",
+          "source_ids": [
+            "x13-root-BV1TX4y157ry-1"
+          ],
+          "locator": "L1–3、5–6"
+        },
+        {
+          "text": "第二种是符号身份产生的效力：普通人穿上法袍并处于法官位置，就呈现权威。讲者暂借representation说明，但随即承认该词和所忆原文未必准确。",
+          "source_ids": [
+            "x13-root-BV1TX4y157ry-1"
+          ],
+          "locator": "L4–9"
+        },
+        {
+          "text": "第三种把表象理解为本体可通过扰动、裂缝而显露的场所，用仁慈者面容中的神圣性作比喻。重点是表象的扭曲如何成为回溯解释的根据，而非证明发生了超自然奇迹。",
+          "source_ids": [
+            "x13-root-BV1TX4y157ry-1"
+          ],
+          "locator": "L10–16"
+        },
+        {
+          "text": "第四种讨论现象学的悬置：表象仿佛暗示背后还有某物，这种二重化本身需要被检视。讲者随后把所谓“本体性力量”收窄为否定性的运动模式，反对把它想成一个隐藏的实体力量。",
+          "source_ids": [
+            "x13-root-BV1TX4y157ry-1"
+          ],
+          "locator": "L17–23"
+        }
+      ],
+      "editorial_notes": [
+        "本课为摘录，依本条ASR核读。讲者将分类归于齐泽克，但其英文术语有明确迟疑；未核《The Ticklish Subject》所标页码或版本，不能将课程转述冒充该书逐字译文。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1RZ4y1d7cH",
+      "series_code": "$-1复习",
+      "title": "【主义主义复习课】理念等级制（$-1）——从存有论临近本质论的终点的章法",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲回顾从定在、自为存在到量、定量、比例和尺度的推进；尺度的标准又显示任意性，因而进入无尺度、无差别等过渡问题。它是在回顾概念的内部运动，不是给存在物贴固定编号。",
+          "source_ids": [
+            "x13-root-BV1RZ4y1d7cH-1"
+          ],
+          "locator": "L2–5"
+        },
+        {
+          "text": "从无差别到本质时，反思看似退回内在，却又表现为外在于规定性；讲者借闪光、本质和根据说明反思的关系，并明确承认回顾次序中有记忆不清处。",
+          "source_ids": [
+            "x13-root-BV1RZ4y1d7cH-1"
+          ],
+          "locator": "L6–10"
+        },
+        {
+          "text": "根据并非无限因果回溯中终于找到的一个外部终点。讲者把无法穷尽的回溯与具体实存、自我根据的转变连在一起，并说明物自体、表象和世界的进一步展开。",
+          "source_ids": [
+            "x13-root-BV1RZ4y1d7cH-1"
+          ],
+          "locator": "L11–14"
+        },
+        {
+          "text": "本质联系中的内外两侧逐步显露为绝对者的矛盾，现实性此时仍带有本质论及绝对形式的限定；下一讲才继续现实、可能、必然和偶然的模态问题。",
+          "source_ids": [
+            "x13-root-BV1RZ4y1d7cH-1"
+          ],
+          "locator": "L15–22"
+        }
+      ],
+      "editorial_notes": [
+        "首行ASR长串重复“杠一”无法据以复原开篇。讲者L10承认次序记忆不清；此摘要只整理可读段落，不用标题补出缺失论证。此课与$-1正课保留不同BV身份。"
+      ],
+      "reading_links": [
+        {
+          "source_id": "d09-hegel-indifference",
+          "locator": "§785–793；课程ASR L8–10",
+          "reason": "本次重新核读这些段落。用质、量、尺度经否定而达到自我中介的论述，对照复习中从存在论转向本质的梳理；原文的indifference不是日常心理上的冷漠。",
+          "relation": "editorial_reading"
+        },
+        {
+          "source_id": "d09-hegel-reflection",
+          "locator": "§833–845；课程ASR L10–12",
+          "reason": "本次重新核读反思段落，尤其§836列出的设定、外在、规定反思；用来辨别课程中的回顾与讲者自承记忆不清处，不能把口头犹疑当成新的原典术语。",
+          "relation": "editorial_reading"
+        },
+        {
+          "source_id": "d09-hegel-absolute",
+          "locator": "§1162–1170；课程ASR L20–22",
+          "reason": "本次重新核读内外统一、绝对形式和绝对者自我展示，对照复习收束。这个对读限定在上述英文段号，未宣称核对中文译本页码。",
+          "relation": "editorial_reading"
+        }
+      ]
+    }
+  ]
+}

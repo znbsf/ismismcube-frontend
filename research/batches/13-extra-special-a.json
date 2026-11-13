@@ -1,0 +1,338 @@
+{
+  "batch": "13-extra-special-a",
+  "scope": "按BV精确匹配固定版本ASR；逐文件读完后写原创导读，不是原音听校或原典学说裁决。",
+  "sources": [
+    {
+      "id": "x13-special-BV1YZ4y1F7z1",
+      "title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1YZ4y1F7z1__ab9fa0d69e.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1YZ4y1F7z1__ab9fa0d69e.txt",
+      "sha256": "701c54c2268a293cf6ef17817879c1e81e3dbf8112a1cd686b6bb62df4f0ab5e",
+      "git_blob_sha": "5dc477a79acf89a0c5b481ddbfe0c16a9bbe92e0",
+      "verification_scope": "实际核读完整ASR L1–32；按文件名BV与固定树精确匹配，未核原音或板书。",
+      "locator": "L1–32"
+    },
+    {
+      "id": "x13-special-BV15M4y1L7ek",
+      "title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV15M4y1L7ek__eb69b79279.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV15M4y1L7ek__eb69b79279.txt",
+      "sha256": "48803e46e2693cbf2dbe7db86498dedc05d1977e6a16f0c77ce9a83b7fcc164e",
+      "git_blob_sha": "e26e0f386c13d1a9a3b581ed95a9612c937ebc12",
+      "verification_scope": "实际核读完整ASR L1–36；按文件名BV与固定树精确匹配，未核原音或板书。",
+      "locator": "L1–36"
+    },
+    {
+      "id": "x13-special-BV1Ei4y1N712",
+      "title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Ei4y1N712__d5969ee9fb.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Ei4y1N712__d5969ee9fb.txt",
+      "sha256": "1dde7c2f55bc2c407d2149906c69169bd54c95f1f9349baf89b59cef7387e501",
+      "git_blob_sha": "98ba25e4eb0e2dad6ad6e22575eaeecb6908bf06",
+      "verification_scope": "实际核读完整ASR L1–75；按BV固定树精确匹配，未核原音或板书。",
+      "locator": "L1–75"
+    },
+    {
+      "id": "x13-special-BV1JT4y1K7dp",
+      "title": "【主义主义】哲学意识形态大全-总纲（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1JT4y1K7dp__e40f4c6aef.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1JT4y1K7dp__e40f4c6aef.txt",
+      "sha256": "00f833494348e0bc035cb0973d1b0a3379efb721ca7db1b06b01d577809ddad2",
+      "git_blob_sha": "972ee36b740498c5ab6ee7d0dac0c34475aa86ce",
+      "verification_scope": "实际核读完整ASR L1–109；按BV固定树精确匹配，未核原音或板书。",
+      "locator": "L1–109"
+    },
+    {
+      "id": "x13-special-BV1Kt4y1z7WU",
+      "title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Kt4y1z7WU__8a1d38f87e.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Kt4y1z7WU__8a1d38f87e.txt",
+      "sha256": "f36fe0f17ffdaff20c39014e6d1f5b566c69162eb3c9b80be649e21039886136",
+      "git_blob_sha": "ba9516b92ea2193fc73069eaaa7e40af426c0778",
+      "verification_scope": "实际核读完整ASR L1–173；L59、75明显重复识别，不推复原；未核原音和板书。",
+      "locator": "L1–173"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1YZ4y1F7z1",
+      "series_code": "番外：从形而上学到观念论",
+      "title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–32已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把笛卡尔的我思放回经院神学内部的张力中理解，认为现代哲学的出现包含继承和改造，而非突然清除全部旧问题；他建议读《第一哲学沉思集》时先理解其论证环境。",
+          "source_ids": [
+            "x13-special-BV1YZ4y1F7z1"
+          ],
+          "locator": "L1–5"
+        },
+        {
+          "text": "从两种背景秩序的冲突转向主体性中介，是本讲说明2到3的主线。认识论取得独立地位，意味着判断与认识活动不再只是既定神学秩序的附属环节。",
+          "source_ids": [
+            "x13-special-BV1YZ4y1F7z1"
+          ],
+          "locator": "L6–9、L18–24"
+        },
+        {
+          "text": "本讲反对把观念论简单看成争夺某一最高实体位置的唯心主义；在讲者的框架中，观念论关注使经验与超越问题得以出现的先验条件与操作方式。",
+          "source_ids": [
+            "x13-special-BV1YZ4y1F7z1"
+          ],
+          "locator": "L14–21"
+        },
+        {
+          "text": "康德的作用被描述为让纯粹理性同时审查两种背景秩序的有效性要求：经验领域的普遍必然性与超越对象不可直接认识的限度被区分，实践理性另行承担其要求。",
+          "source_ids": [
+            "x13-special-BV1YZ4y1F7z1"
+          ],
+          "locator": "L22–28"
+        },
+        {
+          "text": "讲者短暂展望从3到4：辨认主体投射出的理想自我及其构成代价，才可能穿越幻想。这是课程的精神分析式过渡提示，结尾明确将详细讨论留待后续。",
+          "source_ids": [
+            "x13-special-BV1YZ4y1F7z1"
+          ],
+          "locator": "L10–13、L29–32"
+        }
+      ],
+      "editorial_notes": [
+        "ASR中的我思、康德、先验、符号学等多处同音错字按明确上下文转述；没有复原缺失板书箭头。",
+        "社会阶层与哲学史谱系为讲者解释，不等于原典已经证明该模型。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV15M4y1L7ek",
+      "series_code": "番外：生存论之后继续思考",
+      "title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–36已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲反对仅凭生存焦虑或个人姿态直接建构政治意识形态，建议拓展所读的生存论思想，而不把现代性的危机固定成唯一身份。",
+          "source_ids": [
+            "x13-special-BV15M4y1L7ek"
+          ],
+          "locator": "L1–3、L12–13"
+        },
+        {
+          "text": "讲者主张生存论可以重新走向体系建构和智性劳动，并借自己对晚期尼采及海德格尔读法的理解作说明。该例证的传记、年代与病因并未在本讲独立证实。",
+          "source_ids": [
+            "x13-special-BV15M4y1L7ek"
+          ],
+          "locator": "L4–10、L23–25"
+        },
+        {
+          "text": "有限性与可理解性被紧密联系：生成的力量必须自我限制，思想和符号化努力则看护现实创伤及不能完全消除的剩余；因此不应轻易放弃思考。",
+          "source_ids": [
+            "x13-special-BV15M4y1L7ek"
+          ],
+          "locator": "L14–20、L28–30"
+        },
+        {
+          "text": "学习历史体系的失败，是为了建立和检验自己的体系，而不是依附讲者或某个理论权威。本系列被定位为启发性的入门与方法训练。",
+          "source_ids": [
+            "x13-special-BV15M4y1L7ek"
+          ],
+          "locator": "L20–23、L33–35"
+        },
+        {
+          "text": "结尾把思想建构重新联系到现实的异化、团结和实践，反对无底线的失序与过早停留在单纯否定上，并把这种劝说与后续3-3-4分支的学习相连接。",
+          "source_ids": [
+            "x13-special-BV15M4y1L7ek"
+          ],
+          "locator": "L30–36"
+        }
+      ],
+      "editorial_notes": [
+        "不根据含糊代称推测或点名批评对象。",
+        "原ASR涉及尼采病因等未经验证的医学/传记推测，以及以精神疾病词汇作贬义比喻；导读不将这些说法当作诊断或事实。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Ei4y1N712",
+      "series_code": "番外：佛教与道家哲学的时间性",
+      "title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–75已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲用时间性的处理方式比较课程中的2-2-1与2-2-2：前者被讲者描述为以刹那切开连续实存，后者则把否定性理解为能够产生变化的力量。比较对象是课程选取的思想结构，不能据此涵盖所有佛教或道家传统。",
+          "source_ids": [
+            "x13-special-BV1Ei4y1N712"
+          ],
+          "locator": "L1–8、L34–35、L51–59"
+        },
+        {
+          "text": "讲者把共时的关系网络与跨时态存在区分开：若事物只靠当下相互差异获得规定，其过去、现在、未来的统一就难以获得说明。他据此批评把在场从本体论撤下后仍保留为唯一认识论视域。",
+          "source_ids": [
+            "x13-special-BV1Ei4y1N712"
+          ],
+          "locator": "L9–25"
+        },
+        {
+          "text": "对唯识的批评集中在种子、阿赖耶识及自证结构：讲者承认自我设定包含否定性，却认为以容器或共时结构维系它，会再次引入原先想排除的实体化前提。",
+          "source_ids": [
+            "x13-special-BV1Ei4y1N712"
+          ],
+          "locator": "L26–31、L35–43"
+        },
+        {
+          "text": "时间模态又关联到伦理：可能、必然、选择和责任需要变化的余地。讲者认为若以纯粹共时差异消除时态，原本靠智慧破除无明的伦理计划会受到困难；这是他的批判推论。",
+          "source_ids": [
+            "x13-special-BV1Ei4y1N712"
+          ],
+          "locator": "L43–50"
+        },
+        {
+          "text": "后半以《太一生水》为例，将水、阴阳和四时解释为时间生成及分化的隐喻，并以“名”的空间化把握对照自然流动。这样的前本体论读法属于讲者的现代重读，不是古籍字面的唯一训释。",
+          "source_ids": [
+            "x13-special-BV1Ei4y1N712"
+          ],
+          "locator": "L51–71"
+        }
+      ],
+      "editorial_notes": [
+        "阿赖耶识、唯识、共时、时态等ASR误识已按上下文谨慎转述；L61明显重复识别不作为论据。",
+        "对宗教传统的成败评价及传入史猜测属于讲者立场；摘要不认证其部派学说、译词词源或族群历史判断。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1JT4y1K7dp",
+      "series_code": "总纲",
+      "title": "【主义主义】哲学意识形态大全-总纲",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–109已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本系列首先被定位为具有明确左翼取向的入门训练。四个格位分别询问背景框架、其中何者真实、主体如何感知以及整体运动或伦理方向；场域不是简单的物理空间。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "四个数字表示四种结构运动：1是同一和循环，2是二元对抗，3是通过中心或中介调和，4是内在不一致、虚无及敞开。讲者当场修正了2的说法，并提醒后续比喻不如这四种运动定义重要。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L12–28"
+        },
+        {
+          "text": "第一格进一步划出四类：以稳固背景为前提的实在论、承认背景分裂的形而上学、把主体性提升为中介的观念论，以及通过实践开放并重构场域的第四类。课程把这些结构与社会位置作类比，而非单纯按年代划分。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L29–44、L59–78"
+        },
+        {
+          "text": "两类背景秩序的斗争，以及主体为何不只是其中的棋子，是讲者说明2到3的核心问题。其关于观念论的说明强调意识的中介地位，不等同于宣称个人心灵任意创造世界。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L45–69"
+        },
+        {
+          "text": "按四层、每层四种选择，目录可有4、16、64、256个节点，共340个；是否把分类体系自身算入而成341，是讲者提出的自我指涉问题。后续分支名称在此仍有未定和试探。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L79–89"
+        },
+        {
+          "text": "结尾明确说矩阵只是粗浅且可受质疑的工具，不要求所有人接受同一分类；它可用于辨认文化产品和哲学段落的立场，但不能替代大部头阅读与具体分析。网站和哲学游戏是讲者设想的应用。",
+          "source_ids": [
+            "x13-special-BV1JT4y1K7dp"
+          ],
+          "locator": "L96–109"
+        }
+      ],
+      "editorial_notes": [
+        "数字四步及天地神人类比是讲者的体系说明，不应写成公认的黑格尔/海德格尔标准分类。",
+        "原文以智商和群体标签作大量贬义修辞；摘要只提取分类方法，不把这些词当作测量结果或人物诊断。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Kt4y1z7WU",
+      "series_code": "娱乐番外：爱情大全",
+      "title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–173已读；不重建无图板书全部配对，不核原音。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把爱情分类当作四格方法的思想实验。它先约定场域统领后三格，场域与本体通常较隐蔽，认识与目的较易通过言谈行动看见；场域与目的还可能短路而忽略中间层。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L1–6、L23–31"
+        },
+        {
+          "text": "所谓一般爱情，被设定为两人的前两格相同、后两格互换：一方的认知期待在另一方的行动中获得回应。讲者用这一规则演示相互吸引与错认，而非报告实际心理学统计。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L32–44"
+        },
+        {
+          "text": "更深的神秘感，被解释为涉及对方本体层面的缺失与不可理解；当场域立场本身冲突，吸引又可能伴随深重误解和要求对方改变的冲动。讲者据此区分一般、神秘及不可能的爱情。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L45–64、L67–84"
+        },
+        {
+          "text": "前两格交叉互换的六组组合，被进一步与“我—爱—你”的三种位置相连：不可实现的中心、相互争执的领域与最终的爱欲表现可能分别落在不同位置。具体排列在讲述中有修正，不能当作固定配对表。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L65–66、L85–100、L112–147"
+        },
+        {
+          "text": "讲者特别偏爱1-4与4-1之间的互换，并想象同一个人在这两种姿态间也会切换；认识与目的的转换被用来说明私人生活与实践行动的张力。这是他个人的规范性想象，不是爱情优劣的客观排名。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L149–161"
+        },
+        {
+          "text": "收尾主动限制整个模型：它是事后回溯、可以被技巧圆回来的智力练习，无法穷尽爱情或对方的社会关系。真正面对具体关系仍需具体理解，不能用编号替代体验和相处。",
+          "source_ids": [
+            "x13-special-BV1Kt4y1z7WU"
+          ],
+          "locator": "L162–173"
+        }
+      ],
+      "editorial_notes": [
+        "原文L101–107把2-4说成无神论，L106–109明确收回并改为反形而上学；未把已撤回说法写进模型。",
+        "性别、家庭背景及人格推断均属讲者即兴设想，不作为诊断、择偶预测或对现实人物的可靠画像。",
+        "这里的编号是本讲当时的模型用法，不反向覆盖主目录中后来展开的正式条目。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

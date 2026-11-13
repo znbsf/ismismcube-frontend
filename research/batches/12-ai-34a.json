@@ -1,0 +1,396 @@
+{
+  "batch": "12-ai-34a",
+  "checked_on": "2026-11-13",
+  "scope": "3-4总论、3-4-1全部旧AI摘要字段逐项核对；延续04-fidelity-34但扩大为全部复合命题。仅课程文本忠实性，不以讲者论断代替哲学史通说。",
+  "sources": [
+    {
+      "id": "a12-34-0254",
+      "title": "0254_3-4_符号学_p6567",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_符号学/0254_3-4_符号学_p6567.md",
+      "sha256": "0f39499271d9f9f8d3506e64faa155cd5205e346dfd856840679f832e6525ed4",
+      "git_blob_sha": "97c92a561e144bf0af9a7ee145bf5aba4f7112fa",
+      "locator": "Page1–28 L9–94",
+      "verification_scope": "实际逐段核读本讲Page1–28 L9–94，核验SHA256；后续下一讲溢出不作证据。未回听原音或复核哲学家原典；历史归因、术语拼写与讲者批评均保留证据边界。"
+    },
+    {
+      "id": "a12-34-0256",
+      "title": "0256_3-4-1_结构主义_p6644",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0256_3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6644.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/0256_3-4-1_结构主义_p6644.md",
+      "sha256": "b188da86fd06f06762312ba9dee2ff76017a6ed83cd3f946cf024ba0c51a8feb",
+      "git_blob_sha": "c23fdd27656b6a91c8a8364accc41980b03efefc",
+      "locator": "Page1–22 L9–72",
+      "verification_scope": "实际逐段核读本讲Page1–22 L9–72，核验SHA256；后续下一讲溢出不作证据。未回听原音或复核哲学家原典；历史归因、术语拼写与讲者批评均保留证据边界。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "scope": "全部feature_list及axis_list，复合内容分项核对；仅社区讲稿忠实性",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "符号学与结构主义运动不同；结构主义以符号中介性批评现象学第一人称报告的直接性",
+          "status": "supported",
+          "finding": "Page4明确区分两者；Page5也承认现象学以主体性中介，并提梅洛庞蒂内部批评，不能理解为全部现象学无差别如此。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page4–6 L20–26"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "思想通过语言符号，本体论即语言，语言限制世界结构的表述",
+          "status": "supported",
+          "finding": "原讲仪表盘比喻讲的是本体论探索的有限性；不是语言任意创造物理世界的实证结论。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page6–9 L26–35；Page24 L82"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "意义由系统内部差异关系产生，能指优先且漂浮、无根",
+          "status": "supported",
+          "finding": "油量警示灯说明约定与差异，继而反表征主义和漂浮能指。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page7–10 L29–38"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主人能指以所指缺失缝合能指链，无意识像语言一样结构",
+          "status": "supported",
+          "finding": "明确以拉康说明，不能追认成索绪尔或一切符号学共同教条。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page10–13 L38–49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "符号中介超出生存论主体的有限中介；所有本体论操之过急",
+          "status": "supported",
+          "finding": "Page24–25正面展开，同时Page25–27批评这种绝对中介仍由有限主体甩出。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page24–27 L82–91"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "只有离散符号及关系网络才是真实的",
+          "status": "needs_qualification",
+          "finding": "Page16有唯一real的是语言的说法；Page27离散网络用于反对均质意义介质，且同时批评绝对中介幻觉。旧摘要将两个语境合为无条件排他本体论，遗漏自我限制。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page16 L58；Page25–27 L85–91"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "症候学探查符号系统不一致性、症状",
+          "status": "supported",
+          "finding": "这是讲者对符号学哲学功能的判断，不是词源等同即已验证。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page10–11 L38–41；Page19 L67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "以已结构自然语言把握结构形成悖论；失败道出真理并走向资本批判",
+          "status": "supported",
+          "finding": "Page20–22展开自然语言先于人工模型；Page23说我个人理解，指向实践与capital。必然性是本课程路线主张。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page20–23 L70–79"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "结构/无意识调和意义拟制与符号位面，主体为结构效果",
+          "status": "supported",
+          "finding": "Page11先说右侧结构，Page12立即改右侧符号、结构居间；Page14以real对应结构。现摘要采用改定后的布局。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page11–15 L43–55"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4为语言/能指系统开放，不预设本体论框架；语言自身有限",
+          "status": "supported",
+          "finding": "Page15–19明确4=语言/开放，不预设时间空间；Page8说明语言限制。此开放不是无约束的万能表征。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page8 L32；Page15–19 L55–67"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条所有“现象学失败”“唯一real”“必须走向资本批判”等表述均是本讲的比较和批判；并非已验证的一切现象学、符号学共识。讲者也反过来批评纯粹解构和绝对中介的幻想。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page4–6 L20–26；Page23–27 L79–91"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "全部feature_list及axis_list，复合内容分项核对；仅社区讲稿忠实性",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "索绪尔核心共时性：系统差异而非外部对象决定意义；能指任意",
+          "status": "supported",
+          "finding": "Page3–8给狗/dog及abcd例子，明确共时差异与任意性。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page3–8 L15–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "不考虑历时发生学",
+          "status": "needs_qualification",
+          "finding": "原讲多次说研究时悬置发生学，但Page10又承认索绪尔的结构由社会意识与实践约定而成；不能写成完全否认语言有历史或社会形成。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page8–13 L30–45；Page20 L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "意指调和历时因果根据与共时横向网络；不是对象直接引发言说而是差异网络",
+          "status": "supported",
+          "finding": "Page13–14明确格位与狗/猫例子；属于讲者的符号学解释模型。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page13–14 L45–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "差异原则向他者开放，能指经差异拟制所指效果",
+          "status": "supported",
+          "finding": "Page15–17说明不能得原初本体分类；向他者敞开。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page15–17 L51–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主人能指锚定所指缺失并缝合；取消意识、现象学、先验观念论根基",
+          "status": "supported",
+          "finding": "Page5明说用拉康的话；Page9/19给意识分类与现象学批判。此混合解释不等同索绪尔原文。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page5–7 L21–27；Page9 L33；Page19 L63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "共时性优先，取消想象回忆判断等意识形态优先区分",
+          "status": "supported",
+          "finding": "此处意识形态指意识的形态/状态，而非仅政治意识形态，Page9作出限定。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page9–10 L33–36；Page16 L54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "内听觉无优先性，表意系统平等；语言乌托邦拉开符号学运动",
+          "status": "supported",
+          "finding": "Page11–13明确平等、任意和乌托邦评价；所谓运动宜理解为课程发展线索，总论区分符号学与运动。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page11–13 L39–45；Page19–20 L63–66"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "意指关系调和历时性与共时性",
+          "status": "supported",
+          "finding": "直接格位定义完整匹配。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page13–14 L45–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4差异/他者敞开，所指缺失，不存在原初本体分类",
+          "status": "supported",
+          "finding": "Page16先误说本体1随即更正4，Page17解释；摘要采用改定版本。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page5–7 L21–27；Page16–17 L54–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1共时性优先，符号平等任意、意义为差异效果",
+          "status": "supported",
+          "finding": "Page16–19明说1及平等原则；任意不等于个体随时随意改变社会既有意义。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page16–19 L54–63；Page4 L18"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲把索绪尔符号学、拉康主人能指和对现象学的批判接到同一课程框架。所指永远缺席、取消观念论等是讲者的解释；本批未校索绪尔原典。文中的“意识形态”在相关段落主要是想象、回忆、判断等意识形态学。",
+          "source_ids": [
+            "a12-34-0256"
+          ],
+          "locator": "Page5 L21；Page9 L33；Page19 L63"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③符号学超越生存论之处在于：中介性不再是主体生存的有限中介，而是符号系统本身的绝对中介性。符号系统横亘在一切思考之前，所有本体论在符号学面前都”操之过急”——只有符号系统内部的离散符号及其关系网络才是真实的。",
+      "after": "③本讲以符号系统的中介性超越生存论主体的有限中介：思想不能绕过语言，因而既定本体论可能“操之过急”。符号网络不再由均质、连续的意义介质维持，而靠离散符号之间的差异与连接运作。但讲者也批评符号学家能够看穿全部结构的幻想，指出所谓绝对中介仍与有限主体性纠缠。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0254"
+      ],
+      "locator": "Page24–27 L82–91",
+      "rationale": "补回原讲对绝对中介和纯粹解构的反身批评，避免把离散网络写成无条件排他本体论。"
+    },
+    {
+      "code": "3-4-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①结构主义的语言学核心是索绪尔的共时性原则：语言是一个由符号之间差异关系构成的共时性系统，不考虑历时性发生学。能指是任意的，符号的意义由它在系统中的差异位置决定而非由外部对象决定。",
+      "after": "①本讲以索绪尔式共时性原则说明结构主义语言学：符号的意义由系统中的差异位置决定，能指具有任意性，不能直接靠外部对象赋义。研究重点是共时结构，悬置其历时发生学；讲者同时承认这些语言结构由社会意识和实践约定而成，因此不是否认语言具有社会历史来源。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0256"
+      ],
+      "locator": "Page3–10 L15–36；Page13 L45",
+      "rationale": "区分研究上悬置发生学与否认社会发生，保留本讲自有补充。"
+    }
+  ]
+}

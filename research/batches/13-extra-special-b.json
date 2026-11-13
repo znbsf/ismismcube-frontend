@@ -1,0 +1,196 @@
+{
+  "batch": "13-extra-special-b",
+  "scope": "黑格尔相关练习/预习，按BV独立核读ASR；不与同编号正课合并，不替代原典或原音。",
+  "sources": [
+    {
+      "id": "x13-special-BV1Pq4y1b7FX",
+      "title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Pq4y1b7FX__b30516fc7e.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Pq4y1b7FX__b30516fc7e.txt",
+      "sha256": "82b15124aafe79b6d8db32f2f8891a317ce2d696c9b3040f0c68a324c424e927",
+      "git_blob_sha": "1e71dac5c000245d148d768f90d4b599fa8f48e6",
+      "verification_scope": "实际核读完整ASR L1–60；按BV固定树精确匹配；未核原音或板书。",
+      "locator": "L1–60"
+    },
+    {
+      "id": "x13-special-BV1Z3411E7sg",
+      "title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Z3411E7sg__a99d522d1f.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Z3411E7sg__a99d522d1f.txt",
+      "sha256": "f5d1dbda69afce31fca599ea69b0f0b13f4a5bb5c272c0f3c21886271290d805",
+      "git_blob_sha": "d0a7d25b64abe05ec2d2a40b10947e90d1aba4a4",
+      "verification_scope": "实际核读完整ASR L1–74；按BV固定树精确匹配；未核原音或板书。",
+      "locator": "L1–74"
+    },
+    {
+      "id": "x13-special-BV1Zm4y1o7qs",
+      "title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Zm4y1o7qs__282f9fef48.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Zm4y1o7qs__282f9fef48.txt",
+      "sha256": "68ff93fe6766961c8b5cf42d74ef497c23a4133e7887f4a50c2dff4fec2b3ee2",
+      "git_blob_sha": "5a90114f68e8934d9a2c4dffa5e531c0ceb6f7e2",
+      "verification_scope": "实际核读完整ASR L1–87；按BV固定树精确匹配；未核原音或板书。",
+      "locator": "L1–87"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1Pq4y1b7FX",
+      "series_code": "预习：$-2-1-4到$-2-2",
+      "title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–60已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把概念暂译作构思，以绝对者认出自己所铺设的环节来说明主观逻辑的开端：同一环节既外化为独立的存在，又被认作自身活动的内容。",
+          "source_ids": [
+            "x13-special-BV1Pq4y1b7FX"
+          ],
+          "locator": "L1–10"
+        },
+        {
+          "text": "实体向外展开的必然性，被重新理解为自身的设定活动；主体性与自由并非突然加在实体之外，而在它认出这一同一性的过程中出现。人的概念把握被纳入这一解释。",
+          "source_ids": [
+            "x13-special-BV1Pq4y1b7FX"
+          ],
+          "locator": "L11–18"
+        },
+        {
+          "text": "主动与被动实体在因果关系中彼此依赖，谁是最初发动者的含混，随着它们被理解为设定的环节而消解。讲者因此强调自我引发的运动，而不先假定一个稳固实体再赋予它发动能力。",
+          "source_ids": [
+            "x13-special-BV1Pq4y1b7FX"
+          ],
+          "locator": "L19–36"
+        },
+        {
+          "text": "实体成为概念意味着去实体化：概念既伴随事物，又不只是一个孤立的硬性基底。讲者借此预告普遍性、特殊性、个别性所构成的概念结构。",
+          "source_ids": [
+            "x13-special-BV1Pq4y1b7FX"
+          ],
+          "locator": "L37–40"
+        },
+        {
+          "text": "后半以失忆者同步记录自己言说的比喻，说明概念的简单自指、确定性和直接同一性。比喻意在解释熟悉与陌生同时存在的概念把握，不是关于人的记忆或学习能力的经验定律。",
+          "source_ids": [
+            "x13-special-BV1Pq4y1b7FX"
+          ],
+          "locator": "L41–60"
+        }
+      ],
+      "editorial_notes": [
+        "神、计划、失忆用于讲者的解释模型，不把这些拟人化比喻当作独立神学或认知科学事实。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Z3411E7sg",
+      "series_code": "练习：$-2-1-1形式可能性",
+      "title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–74已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲从形式现实性进入可能性：现实性被解释为内外统一，但在起初阶段这种统一还只是一个形式规定，尚未展开为全部形式的总体。",
+          "source_ids": [
+            "x13-special-BV1Z3411E7sg"
+          ],
+          "locator": "L1–15"
+        },
+        {
+          "text": "从具体事物的现实性中抽出它可以实现的一面，得到形式可能性。它表现为自在、自我同一和暂未实现的候选状态，而不是在经验中已经存在的另一个实体。",
+          "source_ids": [
+            "x13-special-BV1Z3411E7sg"
+          ],
+          "locator": "L15–29"
+        },
+        {
+          "text": "可能性不能永久停留在自足的幕后；它作为现实性的否定侧，既具有反思进入自身的肯定环节，也因尚未实现而指向现实性。这两面共同规定其地位。",
+          "source_ids": [
+            "x13-special-BV1Z3411E7sg"
+          ],
+          "locator": "L30–47"
+        },
+        {
+          "text": "只要求自我同一、不发生矛盾时，可能性成为能够容纳任意内容的无规定背景，因此可以说一切皆可能；这一说法依赖抽去内容差异的形式条件。",
+          "source_ids": [
+            "x13-special-BV1Z3411E7sg"
+          ],
+          "locator": "L48–56"
+        },
+        {
+          "text": "但具体可能者一旦获得规定，就关联到他者、对立和矛盾。讲者提出几种解释这些关联的路径，说明同样的形式分析又会得出一切皆不可能，借此暴露单凭抽象可能性判断的局限。",
+          "source_ids": [
+            "x13-special-BV1Z3411E7sg"
+          ],
+          "locator": "L57–74"
+        }
+      ],
+      "editorial_notes": [
+        "L10出现长串重复识别，未用来补造论点。",
+        "一切可能/不可能属于此处形式规定的辩证论证，不作为日常事实判断或现代模态逻辑的一般定理。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Zm4y1o7qs",
+      "series_code": "练习：$-2-1-1可能性的两面",
+      "title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "完整ASR L1–87已读；不是原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者先把形式上说A可能，拆成A不矛盾或A与自身同一；若不展开A的具体规定，这种确证并没有告诉我们它是什么。进入内容的规定后，差异才显露。",
+          "source_ids": [
+            "x13-special-BV1Zm4y1o7qs"
+          ],
+          "locator": "L1–13"
+        },
+        {
+          "text": "可能性又不等于单纯同一律：可能者是现实性总体中的一个反思环节，被预先认可为可部署的候选项。讲者用经过审视的清单比喻这种被反思的状态。",
+          "source_ids": [
+            "x13-special-BV1Zm4y1o7qs"
+          ],
+          "locator": "L14–29"
+        },
+        {
+          "text": "作为总体的环节，可能者一方面自在，另一方面又被要求走向存在；没有这种应在，它就只是背后空转的本质性。形式总体的内外统一使这种单独自在的地位不能保持。",
+          "source_ids": [
+            "x13-special-BV1Zm4y1o7qs"
+          ],
+          "locator": "L30–48"
+        },
+        {
+          "text": "可能性与可能者需要分开：前者是形式规定，后者是承载该规定的内容。当自在者同时被设定为自在，其自主与被设定之间的差异显示出他异性。",
+          "source_ids": [
+            "x13-special-BV1Zm4y1o7qs"
+          ],
+          "locator": "L49–64"
+        },
+        {
+          "text": "后半以可以发生也可以不发生来说明本讲的可能性：相反的内容被共同纳入总体反思，而不只是两个互不相干的同一命题。讲者据此向偶然性过渡。",
+          "source_ids": [
+            "x13-special-BV1Zm4y1o7qs"
+          ],
+          "locator": "L65–87"
+        }
+      ],
+      "editorial_notes": [
+        "“可能A也意味着可能非A”是本讲把可能性向偶然性推进的解释，不直接当作所有模态体系普遍有效的推理规则。",
+        "自在、应在、他异性及设定者比喻按ASR可辨上下文整理，未恢复完整板书。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     "axis_slots": 1252,
     "transcript_indexed_nodes": 340,
     "new_located_summaries": 85,
-    "nodes_with_reading_links": 98,
-    "reading_links": 116,
+    "nodes_with_reading_links": 99,
+    "reading_links": 117,
     "nodes_with_review_records": 278,
     "qualified_axis_records": 0,
     "audio_verified_nodes": 0
@@ -5908,7 +5908,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -5936,7 +5937,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -5964,7 +5966,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -5992,7 +5995,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6020,7 +6024,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6048,7 +6053,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-1.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6076,7 +6082,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-2.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6104,7 +6111,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-2.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6132,7 +6140,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-2.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6160,7 +6169,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-2.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6188,7 +6198,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-2.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6216,7 +6227,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-3.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6244,7 +6256,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-3.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6272,7 +6285,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-3.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6300,7 +6314,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-3.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6328,7 +6343,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-3.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6356,7 +6372,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-4.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6384,7 +6401,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-4.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6412,7 +6430,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-4.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6440,7 +6459,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-4.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6465,10 +6485,11 @@
         }
       ],
       "new_located_summary": false,
-      "reading_links": 0,
+      "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-33.json"
+        "04-fidelity-33.json",
+        "12-ai-33-4.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6506,7 +6527,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34a.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6534,7 +6556,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34a.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6562,7 +6585,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34b.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6590,7 +6614,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34b.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6618,7 +6643,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34b.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6646,7 +6672,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34b.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6674,7 +6701,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34c.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6702,7 +6730,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34c.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6730,7 +6759,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34c.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6758,7 +6788,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34c.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6786,7 +6817,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34c.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6814,7 +6846,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34d.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6842,7 +6875,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34d.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6870,7 +6904,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34d.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6898,7 +6933,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34d.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6927,7 +6963,8 @@
       "review_batches": [
         "02-review.json",
         "04-fidelity-34.json",
-        "05-axis-3434.json"
+        "05-axis-3434.json",
+        "12-ai-34d.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6955,7 +6992,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34e.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -6983,7 +7021,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34e.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -7011,7 +7050,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34e.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -7039,7 +7079,8 @@
       "reading_links": 1,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34e.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false
@@ -7067,7 +7108,8 @@
       "reading_links": 0,
       "review_batches": [
         "02-review.json",
-        "04-fidelity-34.json"
+        "04-fidelity-34.json",
+        "12-ai-34e.json"
       ],
       "axis_qualifications": [],
       "audio_verified": false

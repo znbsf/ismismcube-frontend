@@ -1,0 +1,166 @@
+{
+  "batch": "13-extra-reused",
+  "checked_on": "2026-11-13",
+  "scope": "四个误标复习课的BV还原为正课；复用已有定位摘要与本轮逐字段复核，不虚报新听校。",
+  "sources": [],
+  "course_entries": [
+    {
+      "id": "BV1Nb4y1h7mw",
+      "series_code": "4-1：正课目录纠正",
+      "title": "【主义主义】政治-经济-意识形态批判（4-1）——理论家的实践与两种谢林点",
+      "evidence_level": "reused_located_course_summary",
+      "body_status": "reused_reviewed_node_summary_not_audio_verified",
+      "review_scope": "视频元数据还原正课身份；复用编号4-1已有逐项定位摘要（02-practice.json），没有新增整讲听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "政治、经济、意识形态不是三个互不相干的领域。讲者反复改写它们与阶级位置的对应，要求把理论批判放回实际社会关系之中。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 1–4，本讲正文"
+        },
+        {
+          "text": "此讲把人民放在历史与理论家之间的中介位置，但否认个人的心理体验直接就是历史真相；阶级意识不能等同于个人意见的总和。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 5–6、19–21，本讲正文"
+        },
+        {
+          "text": "理论家共同体既要有体系性和批判性，也要能够维持生活与理论生产。课程把这些物质条件列为实践要求，强调理论并非悬空的学术体系。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 11–13，本讲正文"
+        },
+        {
+          "text": "理论家的认识不是对整个历史的无误把握。其活动是否构成实践，要看历史中的实际效果、失败与教训，不能只由内心确信或体系自洽判定。",
+          "source_ids": [
+            "p02-0277"
+          ],
+          "locator": "Page 22、28–29，本讲正文"
+        }
+      ],
+      "editorial_notes": [
+        "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1aq4y1R7Lk",
+      "series_code": "4-2：正课目录纠正",
+      "title": "【主义主义】现实的正统化（4-2）——坚定地迈出历史的步伐",
+      "evidence_level": "reused_located_course_summary",
+      "body_status": "reused_reviewed_node_summary_not_audio_verified",
+      "review_scope": "视频元数据还原正课身份；复用编号4-2已有逐项定位摘要（03-practice-42.json），没有新增整讲听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "课程把现实的正统化理解为行动者介入人民创造历史的过程；行动者承担中介，而非只在理论上说明历史。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L24–29"
+        },
+        {
+          "text": "与4-1-4-4的直接创造历史相比较，这一格强调组织、教育和引导的中介作用，实践单元被指认为现代政党。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L29"
+        },
+        {
+          "text": "本体论上的冲突是造成苦难的客观物质与社会现实，同失去位置的普罗大众之间的对立；后者构成推动现实改变的力量。",
+          "source_ids": [
+            "p42-0299"
+          ],
+          "locator": "L29–34"
+        }
+      ],
+      "editorial_notes": [
+        "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV16L4y1J7BT",
+      "series_code": "4-4：正课目录纠正",
+      "title": "【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践",
+      "evidence_level": "reused_located_course_summary",
+      "body_status": "reused_reviewed_node_summary_not_audio_verified",
+      "review_scope": "视频元数据还原正课身份；复用编号4-4已有逐项定位摘要（03-practice-44.json），没有新增整讲听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把后续四组方案设为不可能的乌托邦思想实验，追问物质匮乏和资本异化被克服后，人与人的关系是否还会产生新的异化。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 1–2；P1:L9、P2:L12"
+        },
+        {
+          "text": "VR与不同意识生成机制是实验模型；借由全知系统、偶然性及AI主体性的变化，讨论主体间关系和本体论框架的形成。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 3、5、14、21、28–29；P3:L15、P5:L21、P14:L48、P21:L81–82、P28:L109、P29:L114"
+        },
+        {
+          "text": "实践单位被描述为后资本主义共同体或不同VR服务器；规则需要成员交往与争论形成，幸福和爱欲模式不能预先确定。",
+          "source_ids": [
+            "p44-4-4"
+          ],
+          "locator": "Page 30–34；P30:L119、P31:L124、P32:L129、P33:L134、P34:L137"
+        }
+      ],
+      "editorial_notes": [
+        "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1cf4y1H7Ci",
+      "series_code": "3-4：正课目录纠正",
+      "title": "【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号",
+      "evidence_level": "reused_field_reviewed_course_text",
+      "body_status": "reused_reviewed_node_summary_not_audio_verified",
+      "review_scope": "复用12-ai-34a对0254整讲的逐字段文本复核；本BV为3-4正课，非复习课。未核原音。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲先区分符号学与结构主义运动，再讨论符号中介对第一人称直接报告的限制；它也承认现象学内部对直接性的批评，不能把全部现象学一概归为未经中介。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page4–6 L20–26"
+        },
+        {
+          "text": "借警示灯的比喻，讲者把意义放在符号之间的差异和约定中；随后以拉康的主人能指、能指链与无意识解释符号作用，不能将后者归为索绪尔及全部符号学的共同命题。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page7–13 L29–49"
+        },
+        {
+          "text": "本体论的开放在这里意味着不先安置一套时空框架，也不意味着语言可以无限表征一切。讲者还反过来批评能够看穿全部结构的绝对中介幻想。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page8 L32；Page15–19 L55–67；Page25–27 L85–91"
+        },
+        {
+          "text": "症候学的任务被说明为发现符号系统内部的不一致；研究结构仍须借助已经结构化的自然语言，这一困难被讲者进一步引向资本批判。这是本课程的理论路线。",
+          "source_ids": [
+            "a12-34-0254"
+          ],
+          "locator": "Page19–23 L67–79"
+        }
+      ],
+      "editorial_notes": [
+        "保留课程解释与符号学、现象学各家原典之间的区别；不能把讲者的批评写作学界共识。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

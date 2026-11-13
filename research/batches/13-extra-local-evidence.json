@@ -1,0 +1,177 @@
+{
+  "batch": "13-extra-local-evidence",
+  "checked_on": "2026-11-13",
+  "scope": "一讲本地自动转录的逐段文本阅读与一讲无声视频的抽样板书说明；二者均不冒充已核听逐字稿。",
+  "sources": [
+    {
+      "id": "x13-local-BV1XL411x72W",
+      "title": "形而下学总论：本地自动转录",
+      "url": "https://www.bilibili.com/video/BV1XL411x72W",
+      "kind": "local_automatic_speech_transcript",
+      "locator": "620个时间段全文，00:00.46–29:35.11",
+      "verification_scope": "完整阅读生成的620段文本；没有核听音频。模型存在同音误识，不据疑难句补造精确术语或引文。",
+      "generation": {
+        "bvid": "BV1XL411x72W",
+        "url": "https://www.bilibili.com/video/BV1XL411x72W",
+        "cid": 411233151,
+        "duration_seconds": 1776.778,
+        "audio_sha256": "f022c07f9d47004bad3b337b7eee5d5961ce58fdffde9a274adf8bfb538e90ac",
+        "model": "Systran/faster-whisper-small",
+        "device": "cpu",
+        "compute_type": "int8",
+        "cpu_threads": 4,
+        "audio_verified": false,
+        "status": "complete",
+        "packages": {
+          "faster-whisper": "1.2.1",
+          "ctranslate2": "4.9.0",
+          "huggingface-hub": "2.4.0",
+          "av": "19.0.2",
+          "numpy": "2.5.4",
+          "onnxruntime": "1.32.0",
+          "tokenizers": "0.23.3"
+        },
+        "model_revision": "536b0662742c02347bc0e980a01041f333bce120",
+        "decode": "PyAV 19 explicit mono s16 resample to 16kHz; ndarray input avoids removed metadata_errors argument",
+        "decoded_duration_seconds": 1776.5333125,
+        "segments": 620,
+        "elapsed_seconds": 147.7970000000205,
+        "transcript_sha256": "e046921a69e3032fa25d0ff7b7d58cba66ad5f464239e88e0776a2a5bb918d00",
+        "transcribe_options": {
+          "language": "zh",
+          "beam_size": 5,
+          "vad_filter": true,
+          "condition_on_previous_text": false
+        }
+      }
+    },
+    {
+      "id": "x13-board-BV1hf4y1k7sX",
+      "title": "神创论无声版：公开视频预览板书",
+      "url": "https://www.bilibili.com/video/BV1hf4y1k7sX",
+      "kind": "video_board_frames",
+      "locator": "预览索引0、95、195、295、395、490、546、596、698、773、849、914秒抽样画面",
+      "verification_scope": "实际查看12张抽样板书；视频简介明确无声版。仅转述可辨文字，不声称还原完整口述、全部板书或论证。",
+      "evidence_files": [
+        {
+          "name": "BV1hf4y1k7sX-shots-extra.json",
+          "sha256": "6fc5ea53dd6ca6004f3e2c53b33daf98832029c45ab7acc60fe58cfbdd3610b2"
+        },
+        {
+          "name": "BV1hf4y1k7sX-sheet-0.jpg",
+          "sha256": "9eb264b88f37d90424a964a8fb0b51fb71088cc2747c3af9f546927c8837b1d6"
+        },
+        {
+          "name": "BV1hf4y1k7sX-sheet-1.jpg",
+          "sha256": "06936387d09faee59948b4357b7611cefd25ed102853b717c0b3327fe1b27680"
+        }
+      ],
+      "preview_endpoint": "https://api.bilibili.com/x/player/videoshot?bvid=BV1hf4y1k7sX&index=1"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1XL411x72W",
+      "series_code": "1：形而下学新总论",
+      "title": "【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别",
+      "evidence_level": "local_asr_text_read",
+      "body_status": "local_asr_text_reviewed_not_audio_verified",
+      "review_scope": "全文逐段阅读本地ASR；原音未人工核听，故正文为可回查的课程摘要，不是逐字定稿。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者重新把一字头称为形而下学：其问题不只是接受某个对象真实存在，而是默认所有对象都能被同一套分类和定位秩序容纳。此处是本课程对实在论的用法。",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段8–25、115–132，00:39–02:25、06:14–07:20"
+        },
+        {
+          "text": "围绕苏格拉底式“什么是……”的提问，讲者追问它是否预设每个符号都对应同一世界中的对象，并把这与存在者整体的分类联系起来；这不构成对历史苏格拉底的独立考证。",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段57–114，03:42–06:14"
+        },
+        {
+          "text": "一字头到二字头的转折，被说明为从局部对象转向存在者整体，再追问整体与其所在之场的关系：场是整体的一部分，还是容纳整体的条件？场在这里也只是需要反思的空间隐喻。",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段208–250、379–386，11:05–13:21、18:38–19:09"
+        },
+        {
+          "text": "三字头的主体性不是另一块可以被物体填满的空白。讲者以不能被占据或直接表象的缺失来说明它，并把问题推进为：使一个看似平滑的场得以成立的动力机制是什么？",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段295–375，15:09–18:23"
+        },
+        {
+          "text": "讲者区分无动力中心的整体与需要不断生成的总体化过程，并讨论总体与总体化之间的关系；结尾用面对其历史性闭合机制的方式区分三、四字头。摘要保留这是本讲的判断，不将其升格为解释全部政治灾难的历史定律。",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段425–478、527–537、589–618，21:04–23:09、24:53–25:18、27:53–29:30"
+        },
+        {
+          "text": "复仇与总体化被用作看见秩序内部矛盾的叙述例子：主体可能把局部事件当成一切，再把内部矛盾转写为场与存在者整体的对立。这是课程中的发生学解释，不是行动建议。",
+          "source_ids": [
+            "x13-local-BV1XL411x72W"
+          ],
+          "locator": "段403–424、560–588、605–616，19:43–21:02、26:24–27:53、28:43–29:21"
+        }
+      ],
+      "editorial_notes": [
+        "公开字幕接口返回空列表，固定社区语料未找到同BV正文，故独立生成转录。",
+        "转录将“无”“场”“符号”等多次误识；仅在上下文清楚时以概念概述，未保留疑难英词或人物名。",
+        "原音及完整生成文本保留在本地source-cache/local-asr；仓库仅保存摘要、模型版本、原音与转录SHA256和时间定位。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1hf4y1k7sX",
+      "series_code": "1-2-1：无声板书版",
+      "title": "【主义主义】无声版：神创论（1-2-1）",
+      "evidence_level": "video_board_observed",
+      "body_status": "partial_board_summary_no_audio",
+      "review_scope": "12张公开预览帧抽样；仅补板书可辨正文，完整口述不可恢复，部分字迹未确认。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "开头板书标出1-2-1，并将本讲主题写为神创论（Creationism）。此处正文来自无声视频的板书说明，不能等同于完整口述讲稿。",
+          "source_ids": [
+            "x13-board-BV1hf4y1k7sX"
+          ],
+          "locator": "预览索引0秒、95秒"
+        },
+        {
+          "text": "格位板书将场域的一写为宇宙（Universe），将本体论的二列为造物者与造物的对立，并配以Creator／Creation及the Being／beings。",
+          "source_ids": [
+            "x13-board-BV1hf4y1k7sX"
+          ],
+          "locator": "预览索引195秒"
+        },
+        {
+          "text": "同一格位板书把认识论的一写为灵魂（soul）；画面还出现随后展开的箭头，抽样画面不足以还原其完整推导。",
+          "source_ids": [
+            "x13-board-BV1hf4y1k7sX"
+          ],
+          "locator": "预览索引195秒"
+        },
+        {
+          "text": "中段板书将奥古斯丁列为代表人物，另处出现耶罗姆（Jerome）及基督（Christ）。这里只登记可辨人物与词语，不据无声画面断言二人学说的完整关系。",
+          "source_ids": [
+            "x13-board-BV1hf4y1k7sX"
+          ],
+          "locator": "预览索引490秒、698秒、773秒"
+        }
+      ],
+      "editorial_notes": [
+        "原视频标为无声版，匿名字幕接口无字幕。此项保留部分正文状态，不计为完整转录。",
+        "没有把另一版本神创论讲稿替换为本BV正文；模糊板书不强行补字。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

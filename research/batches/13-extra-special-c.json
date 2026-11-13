@@ -1,0 +1,352 @@
+{
+  "batch": "13-extra-special-c",
+  "scope": "五节练习/预习课；按各自BV读取全部固定版本ASR，逐点定位，未听校原音。",
+  "sources": [
+    {
+      "id": "x13-special-BV1Gr4y1a7J9",
+      "title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Gr4y1a7J9__f92ece3d11.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1Gr4y1a7J9__f92ece3d11.txt",
+      "sha256": "7ae740fca2dec8439ba709631586ed38969bba94c21022f535fdba90c7db52fc",
+      "git_blob_sha": "6e2951d2bdd89c2bb50a8cd37e3851ee885058bf",
+      "verification_scope": "实际核读全部ASR L1–97；与BV固定文件精确匹配；未核原音或板书。",
+      "locator": "L1–97"
+    },
+    {
+      "id": "x13-special-BV1ri4y1y7bJ",
+      "title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1ri4y1y7bJ__202ae03b1d.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1ri4y1y7bJ__202ae03b1d.txt",
+      "sha256": "d7377051be37c65145a411f316b71ee177598344912173c19ca8a0b96836ffba",
+      "git_blob_sha": "1b1a28ee2f4da6a3a4e0aba48509f71e0b74ff83",
+      "verification_scope": "实际核读全部ASR L1–102；与BV固定文件精确匹配；未核原音或板书。",
+      "locator": "L1–102"
+    },
+    {
+      "id": "x13-special-BV1zF411J7Yc",
+      "title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1zF411J7Yc__e1a4868ac0.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1zF411J7Yc__e1a4868ac0.txt",
+      "sha256": "ce54ffee04064be493ced5585656f9c9e5f71d32c6fca5bafeb2f8c797a02196",
+      "git_blob_sha": "ac7540c91f6bd95b27f3aef0e11c1456e25a32e1",
+      "verification_scope": "实际核读全部ASR L1–121；与BV固定文件精确匹配；未核原音或板书。",
+      "locator": "L1–121"
+    },
+    {
+      "id": "x13-special-BV1k5411o7QR",
+      "title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1k5411o7QR__4f1fbd427d.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1k5411o7QR__4f1fbd427d.txt",
+      "sha256": "d8cda8b96a6d2651f2f4a483ed0677704650e97b42e939108d1f0effb284e73e",
+      "git_blob_sha": "d3bfe142c5690e23c4615bb08366ae4ec81c31b3",
+      "verification_scope": "实际核读全部ASR L1–121；与BV固定文件精确匹配；未核原音或板书。",
+      "locator": "L1–121"
+    },
+    {
+      "id": "x13-special-BV1cq4y1t7TN",
+      "title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？（从$-2-1-3到$-2-1-4）（公开ASR）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1cq4y1t7TN__d6e62a4a31.txt",
+      "kind": "automatic_speech_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/bilibili-asr/BV1cq4y1t7TN__d6e62a4a31.txt",
+      "sha256": "8e6e59e0d33400ef65041e742e28d2d6a3c502cca34de03bc9519ee5d1151225",
+      "git_blob_sha": "a44668a29774bfbb9d149d12afbd3706dc16bff8",
+      "verification_scope": "实际核读全部ASR L1–122；与BV固定文件精确匹配；未核原音或板书。",
+      "locator": "L1–122"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1Gr4y1a7J9",
+      "series_code": "预习：$-2-1-2到$-2-1-3",
+      "title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "全部ASR L1–97已读；非原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者从实体在偶性中反思自身切入原因：实体的力量主动显现时称为原因，被它设定出来的一面称为效果。起点是同一实体的两个方面，尚不能把它们直接当作两个各自现成的东西。",
+          "source_ids": [
+            "x13-special-BV1Gr4y1a7J9"
+          ],
+          "locator": "L1–14"
+        },
+        {
+          "text": "形式因果性接续实体性与偶性性的关系。每个偶性都显出实体的力量；所谓背后的支配者也要通过这种显现来把握，不能脱离过程另设一个秘密主宰。",
+          "source_ids": [
+            "x13-special-BV1Gr4y1a7J9"
+          ],
+          "locator": "L15–32"
+        },
+        {
+          "text": "由偶性回看实体，会产生一个实体早已在那里的效果。讲者以国家与公民意识作比喻，说明原因在设定效果的同时，也把自己的先在地位设定出来，并遮蔽这一设定活动。",
+          "source_ids": [
+            "x13-special-BV1Gr4y1a7J9"
+          ],
+          "locator": "L33–57"
+        },
+        {
+          "text": "原因与效果的区分给先前的关系引入方向：实体不再只是偶性背后模糊的力量，而要明确显示自己的活动。讲者由此解释为何需要从实体关系进入因果关系。",
+          "source_ids": [
+            "x13-special-BV1Gr4y1a7J9"
+          ],
+          "locator": "L58–80"
+        },
+        {
+          "text": "这里的效果首先是被设定的、会消逝的显现，它让原因作为实体的力量得到展示。讲者把这种存在论层面的效果同一般经验中某物造成另一事件的结果区别开来。",
+          "source_ids": [
+            "x13-special-BV1Gr4y1a7J9"
+          ],
+          "locator": "L81–97"
+        }
+      ],
+      "editorial_notes": [
+        "国家与公民、后台大哥等均为讲者解释逻辑结构的类比，不能据此断言国家的经验起源。",
+        "L65–69含词义查阅和试译；摘要不把试译确定为唯一规范术语。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1ri4y1y7bJ",
+      "series_code": "预习：$-2-2-1到$-2-2-3",
+      "title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "全部ASR L1–102已读；非原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "判断被讲者解释为概念把自身的规定设定出来。它不是外在观察者随意贴标签，而是概念自身的区分与组织；讲者还修正了开头把判断限制得过窄的例子。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L1–20"
+        },
+        {
+          "text": "判断是概念的第一次实现：概念不再只有未展开的统一，而以明确规定的方式出现。纸面记录变成可操作显示等比喻服务于这一由概念到现实化的说明。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L21–27"
+        },
+        {
+          "text": "概念的各环节既作为自身完整的总体独立，又彼此关联。讲者强调自立性与共同概念的联系同时存在，不能把概念仅理解为几个互不相关的成分拼在一起。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L28–47"
+        },
+        {
+          "text": "继承者与前任的比喻说明，差异、自身同一和联系相互依赖：继承者须与前任有区别，又须通过承接关系获得自身身份。讲者借此说明判断如何把环节的独立和联系一起明示。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L48–55；L69–71"
+        },
+        {
+          "text": "主词和谓词的地位在判断关系中形成，不能先在判断之外固定它们的全部意义。课程在当前初步形式中把较确定的个别主词与较普遍的谓词相联系，并辨析个别、特殊、普遍这些环节。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L72–90"
+        },
+        {
+          "text": "以苏格拉底是人为例，判断把一个个体放入概念关系之中；它还需要进一步展开为后续判断及推论的关系，本节只是概念向判断过渡的预习。",
+          "source_ids": [
+            "x13-special-BV1ri4y1y7bJ"
+          ],
+          "locator": "L91–102"
+        }
+      ],
+      "editorial_notes": [
+        "L52–53性别类比、L65–68物理学类比未作经验科学核验，摘要不采作生物或物理事实。",
+        "讲者用神的构思等拟人表达解释概念运动；这里只记录其解释，不当作宗教事实。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1zF411J7Yc",
+      "series_code": "练习：$-2-1现实性",
+      "title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "全部ASR L1–121已读；非原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本节从绝对者作为内在与外在的统一开始。起初外部反思把一个直接的实存单元认作绝对者；随着阐述展开，该单元被理解为绝对者显现自身的属性与方式。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L1–16"
+        },
+        {
+          "text": "外部反思在规定绝对者时也卷入自身：它所认定的绝对性并非一个旁观者从外面附加的评语，而被讲者解释成绝对者在自身显现中反思自己。课程明确此处尚未进入概念论的主体性环节。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L17–38"
+        },
+        {
+          "text": "现实性在这里先表现为被反思的绝对性、内外统一的形式。响指例子说明，某个显现让人无法否认，并不已经解释了它为何发生；讲者据此区分形式上的现实性与单纯存在。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L39–63"
+        },
+        {
+          "text": "讲者回溯具体实存、表象与本质关系的推进：具体实存还没有被设定为反思和直接性的统一，随着表象及其根据的对立展开，内在与外在被把握为一个统一体的环节，才进入现实性。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L64–94"
+        },
+        {
+          "text": "初步现实性仍是形式统一，现实者与可能者表现为直接性和内在反思的两侧。必然性被预告为把这两侧联系起来的规定；若仅从二者都被设定这一形式共同点看，则呈现偶然性。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L95–116"
+        },
+        {
+          "text": "结尾概览后续路线：从实在的现实性和可能性到相对必然性，再反思条件与结果的必然联系自身，进到绝对必然性。浇水、施肥等例子用于说明条件性，不是本节已完整证明的自然规律。",
+          "source_ids": [
+            "x13-special-BV1zF411J7Yc"
+          ],
+          "locator": "L117–121"
+        }
+      ],
+      "editorial_notes": [
+        "原ASR包含英文代词辨析与多次译法修正；摘要按论证层次概括，不替讲者补齐未稳定的逐句译文。",
+        "神、计划、封装等是解释用语；本质论层次的自我反思不应直接改写成个人意识创造外界。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1k5411o7QR",
+      "series_code": "练习：$-2-1-2实体与偶性",
+      "title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "全部ASR L1–121已读；非原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本节细读实体与偶性一节的末段。实体首先直接在诸偶性中出现；若所有偶性只是同一实体的局部或模态，就尚未呈现真正的差别，实体也尚未依其完整概念显现。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L1–9"
+        },
+        {
+          "text": "当实体与偶性总体这一自身形态区分开来时，它又被把握为支配偶性生灭的力量。这种力量被称为必然性：偶性一面显现、消逝，一面以自身否定性让实体作为维持它们的力量显现。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L10–25"
+        },
+        {
+          "text": "实体性与偶性性被视为同一关系的两侧，中介的统一使两极不再各自独立。所谓立即消逝，讲者以遭遇偶性时实体似乎已退居其后来解释，同时强调两者的力量仍直接统一。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L26–60"
+        },
+        {
+          "text": "从实体性看，差别消失而同一性留下；从偶性性看，指向背后实体的差别突出，同一性却尚未被明确设定。两侧各有缺陷，因此实体仍只能以偶性性的形式被把握，尚不是作为实体的实体。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L61–92"
+        },
+        {
+          "text": "实体与偶性互为内在，诸偶性的生成也被把握为总体的生成。讲者在此提醒总体性不等于简单相加或仅仅统一，并当场回改自己对总体性与统一性的措辞。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L93–107"
+        },
+        {
+          "text": "显现同时又是反思，偶性性本身也被理解为被设定的、自我指涉的否定性与同一性。这样，偶性不再只是惰性的持存单元，关系便转入具有力量和不对称作用的因果性。",
+          "source_ids": [
+            "x13-special-BV1k5411o7QR"
+          ],
+          "locator": "L108–121"
+        }
+      ],
+      "editorial_notes": [
+        "摘要保留L23对subsistence误读的回改及L106对totality的重新解释，不采用讲者已经撤回的读法。",
+        "L74借谢林谈本体论证明作类比，未核对应原典，不据此给谢林添加独立文献结论。",
+        "偶性、偶性性、偶体性在讲中有多次译名试验；采用偶性性时指accidentality，避免与单个accident混同。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1cq4y1t7TN",
+      "series_code": "预习：$-2-1-3到$-2-1-4",
+      "title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？（从$-2-1-3到$-2-1-4）",
+      "evidence_level": "public_asr_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "全部ASR L1–122已读；非原音听校。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本节预读作用与反作用。因果性被解释为一种预设活动：效果回指原因，使原因显得早已存在；原因因而不是无需条件的现成起点，而带有由效果中介的自身关系。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L1–22"
+        },
+        {
+          "text": "讲者区分被动实体与起作用的实体。前者停留在直接的、自在的自我同一，后者体现否定性的自我指涉和活动；一个看似独立的原因载体，仍须通过这种活动才具有作用。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L23–47"
+        },
+        {
+          "text": "推进中，因果性不再只是附着在固定基底上的形式规定，而自身被把握为实体性的力量。它把被动部分设为自己的前提，又作用于这一前提，因而仿佛作用于他者，其实是在作用于自身。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L48–61"
+        },
+        {
+          "text": "第一步，活动克服被动实体的他异性，似乎回到自身；第二步，又把这种克服规定为自己造成的效果。讲者特别区分单纯活动起来，与把他者受自己激活的状态明确设定出来。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L62–86"
+        },
+        {
+          "text": "被动实体既被看作自立的他者，又本来就是活动所预设的东西。作用一方面扬弃其被动的规定，另一方面抹去自己先行设定这一前提的活动，结果反而保存了一个似乎独立的被动载体。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L87–107"
+        },
+        {
+          "text": "当起作用的一侧不承认被动实体也是自身时，效果就显得由外部施加。讲者在这一具体逻辑结构中解释暴力为外在力量的显现：它误把自身的活动理解成对一个外在对象的激活与支配。",
+          "source_ids": [
+            "x13-special-BV1cq4y1t7TN"
+          ],
+          "locator": "L108–122"
+        }
+      ],
+      "editorial_notes": [
+        "毁灭罪证、圆谎、脚手架等是讲者说明设定与预设关系的比喻，不转写为伦理许可或现实暴力的辩护。",
+        "暴力的说明限于所读作用与反作用段落及讲者阐释，不据标题扩大为一切社会暴力的完备理论。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

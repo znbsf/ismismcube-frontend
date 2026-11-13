@@ -1,0 +1,1146 @@
+{
+  "batch": "12-ai-33-4",
+  "checked_on": "2026-11-13",
+  "scope": "3-3-4整支5节点旧AI摘要全部axis_list/feature_list逐字段对照固定编纂正文；复用04-fidelity-33并补足其余细节。对照的是讲者原说，非作者思想、医学事实或文学情节全面审定；未听校原音、未核板书。",
+  "sources": [
+    {
+      "id": "a12-334-0249",
+      "title": "0249_3-3-4_虚构的生存论_p6416（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0249_3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6416.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–21 L9–69及Page22 L72本讲末句；另读L72后半–75下一讲开篇用于3-3-4-1身份与人物解释。未核原音或板书。",
+      "locator": "实际核读Page1–21 L9–69及Page22 L72本讲末句；另读L72后半–75下一讲开篇用于3-3-4-1身份与人物解释。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-4_虚构的生存论/0249_3-3-4_虚构的生存论_p6416.md",
+      "sha256": "d2e9a7d1ab4ba152faa5791ec97762c7522682105971cdacbf91df91a6a525dd",
+      "git_blob_sha": "dee3a13e73b38c63a799f4b558cd8be109e13e70"
+    },
+    {
+      "id": "a12-334-0250",
+      "title": "0250_3-3-4-1_幸存的兄弟主义_p6438（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89/0250_3-3-4-1_%E5%B9%B8%E5%AD%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%B8%BB%E4%B9%89_p6438.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–16 L9–68及Page17 L71首句本讲结尾；另读L71后半–74下一讲开篇，用于3-3-4-2非有意回应限定。未核原音或板书。",
+      "locator": "实际核读Page1–16 L9–68及Page17 L71首句本讲结尾；另读L71后半–74下一讲开篇，用于3-3-4-2非有意回应限定。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-4_虚构的生存论/3-3-4-1_幸存的兄弟主义/0250_3-3-4-1_幸存的兄弟主义_p6438.md",
+      "sha256": "f7694698024945b9553e5eb60fe9b3902ffbcf1decde098c458f3dbeb46a3056",
+      "git_blob_sha": "1fd073443036e66f3daf8952196e7867a690a27b"
+    },
+    {
+      "id": "a12-334-0251",
+      "title": "0251_3-3-4-2_去中心化的科层主义_p6455（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89/0251_3-3-4-2_%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84%E7%A7%91%E5%B1%82%E4%B8%BB%E4%B9%89_p6455.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–34 L9–108及Page35 L111下一讲标题前；另读L111后半–114加缪开篇，用于其战后语境。未核原音或板书。",
+      "locator": "实际核读Page1–34 L9–108及Page35 L111下一讲标题前；另读L111后半–114加缪开篇，用于其战后语境。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-4_虚构的生存论/3-3-4-2_去中心化的科层主义/0251_3-3-4-2_去中心化的科层主义_p6455.md",
+      "sha256": "b52d997002a0ca30debfecb5b4c9dd40d831db41eb41762644f58fe83dc4fecb",
+      "git_blob_sha": "78d3ebff4a949563af06ed4230756bac06f04cb0"
+    },
+    {
+      "id": "a12-334-0252",
+      "title": "0252_3-3-4-3_幸福的幸存主义_p6490（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89/0252_3-3-4-3_%E5%B9%B8%E7%A6%8F%E7%9A%84%E5%B9%B8%E5%AD%98%E4%B8%BB%E4%B9%89_p6490.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–34 L9–154及Page35 L157–158本讲结束；另读L158后半–163博尔赫斯引言，用于遗忘之解释。未核原音或板书。",
+      "locator": "实际核读Page1–34 L9–154及Page35 L157–158本讲结束；另读L158后半–163博尔赫斯引言，用于遗忘之解释。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-4_虚构的生存论/3-3-4-3_幸福的幸存主义/0252_3-3-4-3_幸福的幸存主义_p6490.md",
+      "sha256": "5af48c1cdcd874b8cfd545f07de60aab2f829f25af8adb0ac04939dd5e56a412",
+      "git_blob_sha": "e08131f2293ddcba25d0e013a66329c8940c16e3"
+    },
+    {
+      "id": "a12-334-0253",
+      "title": "0253_3-3-4-4_诗性永恒主义_p6525（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-4_%E8%99%9A%E6%9E%84%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89/0253_3-3-4-4_%E8%AF%97%E6%80%A7%E6%B0%B8%E6%81%92%E4%B8%BB%E4%B9%89_p6525.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–41 L9–149本讲全部正文；L152起下一讲元数据与内容不作为本讲证据。未核原音或板书。",
+      "locator": "实际核读Page1–41 L9–149本讲全部正文；L152起下一讲元数据与内容不作为本讲证据。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-4_虚构的生存论/3-3-4-4_诗性永恒主义/0253_3-3-4-4_诗性永恒主义_p6525.md",
+      "sha256": "5111abb3515cc86720ee2fcce605b0f997b2778bc0cc62d3cde504cbd3147204",
+      "git_blob_sha": "29adaf9fffa92430a4fd3393a6a76c6cb26064e5"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。",
+        "audio_check": "not_performed",
+        "human_approval": false,
+        "claim_count": 11
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：虚构的场域调合理化/必然性的形而下维度(僵死秩序)与暴力/突破性的形而上维度(绝对者的无序)，主体性已被驱逐到虚构世界，只能在小说的多重身份中存活",
+          "status": "supported_as_course_grid",
+          "finding": "虚构中介合理化必然性与暴力突破性两侧、主体转入虚构都有明确叙述；形而上/下是此处两侧的概括，主体被驱逐是讲者生存论重构，不是临床事实。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page8–10 L30–36；Page2 L12"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：永生(精神性的综合机制/文本完成)调和可朽者(渴求者)与绝对者的对立，叙事文本是精神性综合机制所书写的每个人的生命史",
+          "status": "supported_as_course_grid",
+          "finding": "永生中介可朽者与绝对者见L36–39；精神综合装配见L45–57；每人生命史与完篇永存见L60–63。三种表达在正文相连接，不只是从标题推出。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page10–19 L36–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4：复调小说(polyphonic fiction)的认识论，作者缺席、多声部共存、人物各自代表一套哲学体系，自我认识被完全敞开为一切可能性",
+          "status": "supported_as_course_grid",
+          "finding": "复调、多声部、不由单个人物代表作者见L15；每人物哲学体系L21；自我认识敞开L45。作者缺席只宜理解为不直接等同某一角色，不是字面不存在作者。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page3、5、13 L15、L21、L45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "假死刑濒死经验、符号身份复生、主体转入虚构",
+          "status": "supported_but_unqualified_reconstruction",
+          "finding": "死刑临时获赦与两种死亡的说法确有正文；由此解释主体性与后来创作是讲者推测性重构，原字段没有明确归属，补回。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page1–2 L9–12；Page9 L33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "虚构调和必然/僵死与暴力/混乱，美与强力、无力幻想两种体验",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "两侧、中介和美/创造力对照均见正文；这些评价指讲者所重构的陀氏立场，不是鼓励现实暴力。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page8–10 L30–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "永生中介可朽者与绝对者；精神综合机制装配；绝对者不造残缺灵魂故永生",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "永生论证见L39；精神机制和人格化他者见L45–57。符合本讲的转述，不等于核验陀氏笔记原话。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page10–17 L36–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "永生只能通过文本完成，完篇同作者永存至善",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "文本完篇与每人生命史连结在L60–63；“只能”在L39被限定为虚构中永生。属于本讲的叙事学解释。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page11 L39；Page18–19 L60–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "复调作者不等于单一人物；《罪与罚》理性主义和尼采主义辩护、罪恶痛苦、女性之爱与信仰",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L15明确作者不等于人物；L21–27给出两套辩护、痛苦和女性引向信仰。尼采主义是讲者回溯分类，不可暗示小说人物读过尼采或作品受其影响。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page3 L15；Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "多重身份通过虚构展开，认识论敞开",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L12多重身份、L45认识敞开、L60小说里创造力共同支持。这里是讲者对生存的评价，不是作者传记确证。",
+          "source_ids": [
+            "a12-334-0249"
+          ],
+          "locator": "Page2 L12；Page13 L45；Page18 L60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "伦理利他主义、主动爱与宽恕、男权共同体、地上神国",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "伦理利他与男权共同体在本讲L42–45、L66；主动爱、地上神国和宽恕的详细说明在子讲0250，补跨讲定位。",
+          "source_ids": [
+            "a12-334-0249",
+            "a12-334-0250"
+          ],
+          "locator": "0249 Page12–13、20 L42–45、L66；0250 Page7、11 L29、L43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "俄罗斯中心联合斯拉夫、欧洲、全人类；符号系统透过诗人发声",
+          "status": "supported_with_secondary_attribution",
+          "finding": "政治扩展顺序在0250 L29–37，且讲者说是他人从日记推测，摘要未留其二手性质；符号发声在0249 L12，属于根讲。",
+          "source_ids": [
+            "a12-334-0249",
+            "a12-334-0250"
+          ],
+          "locator": "0249 Page2 L12；0250 Page7–9 L29–37"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲的濒死创伤、主体被驱逐及精神只能在小说中存活是讲者重构；L51明确说叙事宇宙是比喻。尼采主义也是回溯分类，不表示陀氏在创作时接受尼采影响。俄罗斯政治理想部分跨到下一讲并是转述研究者；未核其所据日记。",
+          "source_ids": [
+            "a12-334-0249",
+            "a12-334-0250"
+          ],
+          "locator": "0249 L18、L24、L51；0250 L29–37"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-3-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。",
+        "audio_check": "not_performed",
+        "human_approval": false,
+        "claim_count": 12
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：兄弟之爱(主动的爱/active love)调和母性自然(形而下/无序而纯洁)与父性权威(形而上/爆裂的秩序)的对立",
+          "status": "supported_as_course_grid",
+          "finding": "母性自然的无序/纯洁、父性权威的爆裂秩序、主动兄弟之爱三者分别明述；为带性别化的文学象征解释。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page9–11 L37–43"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：主动的爱(active love)调和恶(evil/来自女性自然的无规定性与男性的自私嫉妒)与神圣(divine/完美永恒的神圣意志)的对立",
+          "status": "supported_as_course_grid",
+          "finding": "恶的无自主规定性及男性嫉妒、神圣的完美永恒、主动爱的中介均来自L46；非关于真实女性本性的事实。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page12 L46"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4：反理性主义的敞开，不追问苦难”为什么”，而是通过主动的爱无条件宽恕一切、忍受一切",
+          "status": "supported_as_course_grid",
+          "finding": "反理性、停止追问苦难为什么、无条件爱与宽恕见L49、L57–60；不是未名子一般要求读者放弃思考。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page13–15 L49–60"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1：一分为多、多合为一的循环运动——父亲分裂为多个儿子，最后再通过兄弟之爱合二为一",
+          "status": "supported_but_missing_hypothetical_scope",
+          "finding": "一分为多再合一和循环是讲者明言的写作构思解释；L68明确未写完，不能写成既有结局。轴补条件以与feature3一致。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page16 L67–68"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "三兄弟：大哥贵族父权、伊万理性现代化与统治工具、阿廖沙隐修和主动爱",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "大哥贵族见L17，父权轴见L40–43；伊万见L14；阿廖沙见L17及前章开篇L72。均为讲者人物象征解释，不当原作明言或唯一人物意义。",
+          "source_ids": [
+            "a12-334-0250",
+            "a12-334-0249"
+          ],
+          "locator": "0250 Page2–4 L14–20、Page10–11 L40–43；0249 Page22 L72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "兄弟之爱调和女性自然污浊/无私与男性盲目秩序",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L37–43逐项对应；讲者同时说自然本来纯洁、污浊由男性欲望造成，不能把污浊当作女性先天道德缺陷。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page9–11 L37–43"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "恶的女性自然无规定性、男性自私嫉妒；神圣完美永恒与终极判断",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L46两侧直接列出，属于讲者本体论格位重构。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page12 L46"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主动爱、忍苦、宽恕、越忍苦越趋永恒",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L49逐项展开，并有帮助他人，不是单靠自我受苦自动达到拯救。原字段在调和语境内可保留。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page13 L49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "算计者伊万/拉基金不能理解信仰，阿廖沙虔信、私生子虚无刺父",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L49–56相应人物与姿态都有；“凡…都无法理解”是讲者对该文学结构的归纳，不是有关理性者的普遍经验定律。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page13–15 L49–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "二人在不思考为什么上相通，无条件爱与虚无行动的对照",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L57–60直接并置，摘要没有混成二人同样伦理立场，可保留。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page15 L57–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "私生子承担牺牲代价、幸存兄弟摆脱混乱",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "正文L61、L66把这视为共同体的成本；是讲者的批判性阅读，不是所有兄弟命运的完整剧情梗概。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page15–16 L61、L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "父分多子，若续写则重联，男权共同体",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L67–68明确条件推测，现字段已经恢复若作品续写完成，04修订有效；男权性见L29。无需撤回或重复修改该字段。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "Page7 L29；Page16 L67–68"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "三兄弟与俄罗斯政治/教会的对应、女性自然与父性权威的对立都属于课程的象征性阅读，不能当作小说人物的唯一含义或真实性别的本性。作者未写出的兄弟重新联合只保留为讲者设想；本次同步修正目的论轴，原feature3的04修订保留。",
+          "source_ids": [
+            "a12-334-0250"
+          ],
+          "locator": "L14–17、L37–49、L67–68"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-3-4-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。",
+        "audio_check": "not_performed",
+        "human_approval": false,
+        "claim_count": 11
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：写作/悬搁调和传统(犹太教/形而下)与现代科层制(形而上/理性化体系)的对立，逃避是协调的方式",
+          "status": "supported_as_course_grid",
+          "finding": "犹太传统、现代科层化及写作/悬搁逃避的调和分别有正文；形而上/下是格位位置概括，不是说宗教传统整体属于物理现实。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page22–24 L72–78"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：身份辩证法调和淫猥的法(深渊性的大他者意志)与科层制结构(喋喋不休的形式主义)的对立，同一性最终被悲剧性取消",
+          "status": "supported_as_course_grid",
+          "finding": "法作为晦暗大他者意志、科层形式主义、身份辩证法及悲剧取消均明述；不是司法史实描述。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page24–28 L78–90"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4：善就是不去认识自己(Good is not to know yourself)，无知才是善，认识即邪恶",
+          "status": "supported_as_unverified_secondary_quote",
+          "finding": "该英文句和无知/邪恶扩展均为讲者明述，但他明确只经齐泽克转引并不核卡夫卡文本源头；应保留二手引文限定。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page29–30 L93–96"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2：悬搁/卡住了陀氏的一多循环——主体无法在符号系统里找到位置，没有最终的审判，只有永恒候审的戒严状态",
+          "status": "supported_as_course_grid",
+          "finding": "一多循环被卡住L96–99，符号失位及候审戒严L66–69，均对应；这是本讲目的论重构。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page20–21 L66–69；Page30–31 L96–99"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "卡夫卡回应宗教大法官、高贵谎言、统治者分裂",
+          "status": "supported_but_missing_explicit_reservation",
+          "finding": "正文确建立对话，但上一讲末明确不是有意识回答，现句容易误作影响史，补回限定；高贵谎言与统治者分裂来自0251 L9–33。",
+          "source_ids": [
+            "a12-334-0250",
+            "a12-334-0251"
+          ],
+          "locator": "0250 Page17 L71；0251 Page1–9 L9–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "精英与羔羊均去中心化，无人控制科层制、没有全知大他者",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L21、L45–57、L60明述各子命题，是讲者现代性理论而非统计事实。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page5 L21；Page13–18 L45–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "城堡象征现代官僚制、主人不现身、K土地测量员未进入城堡",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L36–45有叙述，讲者提其他读法后选择本雅明/齐泽克路线；不称唯一文学象征。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page10–13 L36–45"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "《审判》银行高级职员不知自己属体系、不知罪名；符号定位失落",
+          "status": "supported_but_plot_interpretation_unmarked",
+          "finding": "银行职员及不知罪名见L42、L51；把罪解释为不知体系身份是讲者推论，非小说已宣判具体罪名。恢复归属以免当作剧情事实。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page12 L42；Page15–16 L51–54；Page20–21 L66–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "法/科层、身份中介；银行职员到政府职员、狗一样死、身份取消",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L78–90全部有讲者叙述；“所有人都指向政府职员”属于原讲的夸张归纳，未核原作人人行政身份。可保留作课程解读，但加注不可作剧情事实。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page24–28 L78–90"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "一多循环对照悬搁、符号失位、门不进入与永恒候审",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L66–69、L96–102对应；《法的门前》与《审判》K的结局被讲者并置，不能理解成同一人物经历。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page20–21 L66–69；Page30–32 L96–102"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "唯一出路逃避，桑丘写作命名魔鬼幸免",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L102–108有逃避及桑丘解释；唯一出路是本讲归纳，不是所有卡夫卡研究的共识。原短篇内容未重新核实。",
+          "source_ids": [
+            "a12-334-0251"
+          ],
+          "locator": "Page32–34 L102–108"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲主动用《城堡》《审判》和《法的门前》建立跨文本模型；宗教大法官的回应并非有意识的影响史。K不知自己属于体系、所有人都是政府职员、桑丘用写作命名魔鬼均有课程出处，但目前只认证其讲者解释身份，不认证为逐字准确的小说梗概。善不自知一句经齐泽克二手转引，讲者自己未核原出处。",
+          "source_ids": [
+            "a12-334-0250",
+            "a12-334-0251"
+          ],
+          "locator": "0250 L71；0251 L42–45、L87、L93、L105"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-3-4-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。",
+        "audio_check": "not_performed",
+        "human_approval": false,
+        "claim_count": 12
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：荒谬(作为生存的调和)调合理性的精神秩序(形而上)与世界的敌意(形而下)的对立，荒谬是一种均质的普遍生存状态",
+          "status": "supported_as_course_grid",
+          "finding": "理性精神秩序与世界敌意由荒谬中介、均质普遍生存状态均有原说；L29–34同时把均质性批判为幻想，应理解为讲者对加缪的重构。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page1–6 L9–34"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：否定的二重性调和封闭实体(单一性/总体性)与复数性(无限循环的时间与无数受苦的主体)的对立",
+          "status": "supported_as_course_grid",
+          "finding": "单一封闭实体、时间循环和复数受苦主体、否定二重性见L59–72，所有组成项可定位。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page11–14 L59–72"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4：否定的二重化——既对世界的荒谬说”不”、也对自己内心的极端化说”不”，但这种否定性本质上是一种自我肯定的认识",
+          "status": "supported_as_course_grid",
+          "finding": "对世界与内心理性极化两次说不见L49–54、L92；双重否定实为肯定是L107的讲者批评，非加缪自称。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page9–10 L49–54；Page18 L92；Page21 L107"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3：均衡——协调陀氏的”一多循环”与卡夫卡的”逃避”，以无希望的日复一日的循环来逃避极端",
+          "status": "supported_as_course_grid",
+          "finding": "均衡明确协调陀氏循环与卡夫卡逃避，日复一日逃避极端和放弃希望见L140–148；不是认可普遍无希望人生。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page32–33 L140–148"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "战后反思知识分子、西西弗斯调和理性秩序与世界敌意",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "战后概括在0251下一讲开头L111；西西弗斯及两侧在0252 L9–19。是讲者的发生学概括，未核加缪生平因果。",
+          "source_ids": [
+            "a12-334-0251",
+            "a12-334-0252"
+          ],
+          "locator": "0251 Page35 L111后半；0252 Page1–3 L9–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "荒谬均质普遍、非极端非理性、最低理性调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "均质普遍在L29–34；最低理性、非肤浅非理性主义在L92，皆有据。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page5–6 L29–34；Page18 L92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "封闭实体与时间/主体复数性由二重性中介、二重性一重化为否定姿态",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "两侧见L59–67；二重性一重化到否定姿态见L72，非从编号猜测。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page11–14 L59–72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "同时拒绝荒谬和内心极化，痛苦内在化而不绝望",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L49–54及L92、L107直接支持；拒绝荒谬并不意味着取消痛苦，原字段末尾已保持这一分辨。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page9–10 L49–54；Page18 L92；Page21 L107"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "否定自反：不绝望且限制极端理想不择手段",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L92明确反思、自反、两种限制，原字段正确保持不是一味否定外界。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page18 L92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "双重否定本质肯定，小职员自我限制和安稳",
+          "status": "supported_as_unmarked_lecturer_critique",
+          "finding": "L107是讲者的批评结论，小职员和安稳见L34、L97、L158。字段若不标归属会与加缪自己的理论表述混淆。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page6 L34；Page19 L97；Page21 L107；Page35 L158前半"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "协调陀氏地上神国与卡夫卡过度逃避",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L140–147明确两端及共同体、逃避自毁；现概括忠实。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page32–33 L140–147"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "无希望循环、避极端平衡、战后法国知识分子渴望安稳",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L97、L141–152对应；无希望特指拒绝超出现有本体框架的新可能，L128另区分不是明天太阳是否升起。补注防日常绝望误读。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "Page19 L97；Page28 L128；Page32–34 L140–152"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲将小职员幸福、均质荒谬、拒绝未来作为批判性重构，并非加缪本人这样定义自己。其未来指本体结构更新而非普通日历明天（L128）；讲者也承认此立场经激烈反思取得，不是无脑顺从（L116）。本批不采纳讲者战后创伤应激等回溯诊断为医学事实。",
+          "source_ids": [
+            "a12-334-0252"
+          ],
+          "locator": "L97、L107、L116、L125–128、L152–158"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-3-4-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部原字段拆分命题核对；具体细节见checked_claims；本讲可用编纂正文已读，不等于原音、板书或作者原典全文审定。",
+        "audio_check": "not_performed",
+        "human_approval": false,
+        "claim_count": 12
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：巴别图书馆(符号系统/象征界)调和时间的拓扑结构(小径分岔的花园/去时序化的永恒循环)与空间的凝缩结构(阿莱夫/去延展化的同时性存在)的对立",
+          "status": "supported_as_course_grid",
+          "finding": "时间拓扑/小径、空间凝缩/阿莱夫与符号系统/图书馆都有明文；去时序化采用L33更正后的说法，不采用L15混乱的首述。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page2 L12；Page9–10 L33–36；Page15–16 L51–54；Page23–28 L75–100"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：叙事活动(书写/停笔)调和名字(共时性/理念)与情节(历时性/物质)的对立，叙事学空间获得本体论地位",
+          "status": "supported_but_missing_self_correction",
+          "finding": "名字共时理念、情节历时物质、叙事空间本体地位有据，但L110–115明确进一步改为作者停笔而非一般叙事；轴需体现这一推进。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page29–33 L105–125"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论4：唯梦论——所有认识都是再认识、再现都是再表征，镜像把握即刻产生无本体论根据的虚构叙事",
+          "status": "supported_as_course_grid",
+          "finding": "再认识、再表征、镜像即时虚构及无本体保证均明述。唯梦论不是一切都真是梦，L134明确否认该读法。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page35–36 L131–134"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4：遗忘/停笔——绝对者不允许写完，主体必须自己去抉择、自己去书写",
+          "status": "supported_as_course_grid",
+          "finding": "遗忘/停笔、不允许写完及主体自己写有明文，作为课程目的论可保留；不据此断言具体小说均未完成。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page1 L9；Page37–39 L137–143"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "讲者推测镜像阶段未完成、可去掉意识时间或空间结构体验另一者",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L12推测身份在当前字段已由04恢复；L15、L128讨论结构悬置。未验证作者实际心理能力，不再增加或撤销旧修订。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page2–3 L12–15；Page34 L128"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "《小径》去除空间化后呈现时间拓扑，分岔汇合、不可符号化当下、能指所指短路",
+          "status": "partially_supported_needs_correction",
+          "finding": "后四项在L18–33都有；但去除空间化沿用了讲者L33刚说就更正的措辞，应使用更正后去时序化/连续化。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page4–9 L18–33，尤其L33当场更正"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "阿莱夫无时间中介的空间、二三厘米球、空间同时并存",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L36、L45、L51–54直接说明；这是文本意象加讲者现象学解释，不是现实物理宇宙测量。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page10 L36；Page13 L45；Page15–16 L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "图书馆调和时空、所有排列组成文本宇宙、每个文本是主人能指与双短路",
+          "status": "partially_supported_needs_correction",
+          "finding": "调和与组合、双短路见L75–100，但L95–100说每个符号都有可能/都是主人能指，不是每个文本。修改这一粒度。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page23–28 L75–100，尤其L95–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "表征再现、呈现再现、镜像生成虚构叙事与本体框架失效",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L134、L137–140均可定位；“反思即梦境”是生成虚构性说明而非睡梦生理命题。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page36–38 L134–140"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "对他人认识梦境化、本真体验靠主体抉择",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "L137–140直接从主体间性转到抉择，未把虚构误当可免责任。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page37–38 L137–140"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "遗忘/停笔为拯救、主体受不了绝对者悖论、须自担书写",
+          "status": "supported_with_overstatement",
+          "finding": "L9、L137–143有课程论证；最高是AI强调，不是可比较所有救赎途径的等级证明，改为本讲所谓拯救力量。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "Page1 L9；Page37–39 L137–143"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "《秘密的奇迹》中首尾相同的小说不被允许写完",
+          "status": "lecture_claim_conflicts_with_primary_text",
+          "finding": "这两项出自L143，不能判为AI捏造；但原典是剧作，主人公最终在意识中完成。已复核02/04指出的冲突，应同时保留课程解释和原典事实，不能直接以解释替代情节。",
+          "source_ids": [
+            "a12-334-0253",
+            "r02-borges"
+          ],
+          "locator": "Page39 L143；原典PDF第2–3页剧作介绍及第4页末段"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "L15关于两篇小说时空结构的首述有混乱，L33已更正为时间去时序化，摘要按该更正处理。镜像阶段失败与特殊意识能力仅为讲者推测；本讲还明确说唯梦论不是一切都是梦。每个符号作为主人能指是符号位置解释，不是每个文本都变成一个能指。",
+          "source_ids": [
+            "a12-334-0253"
+          ],
+          "locator": "L12–15、L33、L95–100、L134"
+        },
+        {
+          "text": "《秘密的奇迹》情节冲突已再次打开原PDF核读：第2页明确为诗剧，第3页说明首尾循环，第4页末主人公在意识中完成。课程“不允许写完”是讲者解释/转述，不能当作小说结局。沿用02-review及04-fidelity-33的原典结论，不撤销其历史记录。",
+          "source_ids": [
+            "a12-334-0253",
+            "r02-borges"
+          ],
+          "locator": "课程Page39 L143；原典PDF第2–3页L65–86、第4页L135–153；2026-11-13再次核读"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": [
+        {
+          "source_id": "r02-borges",
+          "relation": "editorial_reading",
+          "locator": "第2–3页剧作《敌人》介绍；第4页最终完成段",
+          "reason": "对读首尾循环的剧作与主人公完成创作的结尾，辨别课程不允许写完的阐释和小说事件。",
+          "verification_scope": "本批重新打开公开4页PDF，核读L65–86及L135–153。"
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①陀思妥耶夫斯基经历假死刑的濒死经验后，符号学身份死而复生，主体性被驱逐到虚构位面。场域论上，虚构调合理化的必然性(形而下/僵死)与暴力的突破性(形而上/混乱)：后者被体验为美与强力，前者被体验为无力的幻想。",
+      "after": "①讲者以生存论方式重构：陀思妥耶夫斯基经历假死刑的濒死经验后，符号学身份死而复生，主体性被驱逐到虚构位面。场域论上，虚构调合理化的必然性(形而下/僵死)与暴力的突破性(形而上/混乱)：后者被体验为美与强力，前者被体验为无力的幻想。",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0249"
+      ],
+      "rationale": "正文将濒死后的精神转位作为解释，并在L51说明叙事宇宙是比喻；应恢复解释身份。"
+    },
+    {
+      "code": "3-3-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上朝向伦理利他主义的男权共同体，通过主动的爱与宽恕实现地上神国。陀氏的俄罗斯弥赛亚主义以俄罗斯为中心统合斯拉夫、欧洲直至全人类，是符号系统(东正教/民族精神)透过诗人发声的生存姿态。",
+      "after": "④目的论上朝向伦理利他主义的男权共同体，通过主动的爱与宽恕实现地上神国。讲者转述研究者据陀氏日记作出的俄罗斯弥赛亚主义解释，以俄罗斯为中心统合斯拉夫、欧洲直至全人类，是符号系统(东正教/民族精神)透过诗人发声的生存姿态。",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0250"
+      ],
+      "rationale": "0250 L34明确是人家从日记推测出来，不应改为已直接核验的政治纲领。"
+    },
+    {
+      "code": "3-3-4-1",
+      "field_path": [
+        "axis_list",
+        3
+      ],
+      "before": "目的论1：一分为多、多合为一的循环运动——父亲分裂为多个儿子，最后再通过兄弟之爱合二为一",
+      "after": "目的论1：讲者设想的一分为多、多合为一的循环——父亲分裂为多个儿子；若续写完成，兄弟最终将以兄弟之爱重新联合",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0250"
+      ],
+      "rationale": "L67–68明确我认为与写完的话；既有feature3已按04修过，轴应同步限定。"
+    },
+    {
+      "code": "3-3-4-2",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4：善就是不去认识自己(Good is not to know yourself)，无知才是善，认识即邪恶",
+      "after": "认识论4：讲者经齐泽克转引“善就是不去认识自己”(Good is not to know yourself)，将其解释为无知与善、自我认识与邪恶的对立；本讲未核卡夫卡原句出处",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0251"
+      ],
+      "rationale": "L93明言来源哪里不管，不能把间接转引视为已核原句，也不把认识全部等于邪恶无条件推广。"
+    },
+    {
+      "code": "3-3-4-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①卡夫卡回应了陀思妥耶夫斯基的宗教大法官问题：宗教大法官自诩以高贵的谎言统治民众，但他自身也陷于无头的分裂。卡夫卡指出统治精英和羔羊一样都是去中心化的，没有人能掌控整个现代科层制体系，没有一个全知的大他者。",
+      "after": "①讲者认为卡夫卡的立场构成了对陀思妥耶夫斯基的宗教大法官问题的回应，并明确说这不是卡夫卡有意作答：宗教大法官自诩以高贵的谎言统治民众，但他自身也陷于无头的分裂。卡夫卡指出统治精英和羔羊一样都是去中心化的，没有人能掌控整个现代科层制体系，没有一个全知的大他者。",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0250",
+        "a12-334-0251"
+      ],
+      "rationale": "0250 L71明确否定有意识回应，恢复这一实质保留。"
+    },
+    {
+      "code": "3-3-4-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②城堡象征现代官僚制，主人不现身、是去中心化的。土地测量员K无法进入城堡，就在村子里悬而未决。审判中的K是银行高级职员，却不知道自己也是科层制体系的一员，被判处有罪却不知罪名——这是现代性中主体丧失符号定位的生存论困境。",
+      "after": "②城堡象征现代官僚制，主人不现身、是去中心化的。土地测量员K无法进入城堡，就在村子里悬而未决。《审判》中的K是银行高级职员，却遭到不明罪名的追诉；讲者把这一遭遇解释为他未能认识自己也是科层制体系的一员——这是现代性中主体丧失符号定位的生存论困境。",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0251"
+      ],
+      "rationale": "区分小说遭遇与L42讲者对其罪的解释，不把解释当成法院已明示的罪名。"
+    },
+    {
+      "code": "3-3-4-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上否定的二重化是自反性的：既对世界的荒谬说”不”以保持不绝望，又对内心的极端化理想说”不”以防止不择手段。但这种双重否定本质上是肯定——它肯定小职员式的自我限制与安稳生存。",
+      "after": "③认识论上否定的二重化是自反性的：既对世界的荒谬说”不”以保持不绝望，又对内心的极端化理想说”不”以防止不择手段。讲者进一步批评，这种双重否定本质上是肯定——它肯定小职员式的自我限制与安稳生存。",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0252"
+      ],
+      "rationale": "明确小职员式安稳和肯定性判断是课程批评，不假称加缪自述。"
+    },
+    {
+      "code": "3-3-4-4",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论3：叙事活动(书写/停笔)调和名字(共时性/理念)与情节(历时性/物质)的对立，叙事学空间获得本体论地位",
+      "after": "本体论3：作者的停笔（写出一种叙事，也是不写其他可能）调和名字（共时性/理念）与情节（历时性/物质），叙事学空间获得本体论地位",
+      "kind": "restore_qualification",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0253"
+      ],
+      "rationale": "L105先说叙事中介，L110–115更正为作者停笔；不可把两者只并列无区别。"
+    },
+    {
+      "code": "3-3-4-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①讲者推测博尔赫斯的意识未成功通过镜像阶段，他能暂时去除一种意识结构(时间或空间)而体验另一种。小径分岔的花园呈现去除空间化后的时间拓扑结构：过去与未来无限分岔汇合于一个无法符号化的当下，能指与所指短路。",
+      "after": "①讲者推测博尔赫斯的意识未成功通过镜像阶段，他能暂时去除一种意识结构(时间或空间)而体验另一种。小径分岔的花园呈现时间去时序化、去连续化后的拓扑结构：过去与未来无限分岔汇合于一个无法符号化的当下，能指与所指短路。",
+      "kind": "restore_spoken_self_correction",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0253"
+      ],
+      "rationale": "L33明确由去空间化更正为去时态化、去时序化/连续化/动态化；保留04已有讲者推测前缀。"
+    },
+    {
+      "code": "3-3-4-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②阿莱夫呈现去除时间中介后的空间本身：宇宙集中在两到三厘米的圆球中，一切空间同时并存。巴别图书馆(符号系统)调和二者，所有文字排列组合构成无限文本宇宙，每个文本都是主人能指，能指所指短路、一多短路。",
+      "after": "②阿莱夫呈现去除时间中介后的空间本身：宇宙集中在两到三厘米的圆球中，一切空间同时并存。巴别图书馆(符号系统)调和二者，所有文字排列组合构成无限文本宇宙，讲者据此说每个符号都可能占据主人能指的位置，能指所指短路、一多短路。",
+      "kind": "claim_granularity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0253"
+      ],
+      "rationale": "原文讨论的是符号在各可能语言中的位置，不是把完整文本逐一等同主人能指。"
+    },
+    {
+      "code": "3-3-4-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上遗忘/停笔是最高的拯救力量：绝对者不允许写完，主体受不了绝对者的悖论性，只能将其遗忘。在秘密的奇迹中开头和结尾一样的小说不允许被写完——本体论的发生学机制拒绝符号性的闭合，主体必须自己承担书写的重负。",
+      "after": "④讲者把遗忘/停笔视为拯救力量：主体难以承受绝对者的悖论性，转而自己承担抉择与书写。讲者又借《秘密的奇迹》提出“本体论不允许符号性闭合”的解释；但其“不允许写完”的情节转述与原典不同：主人公写的是首尾循环的剧作，并在主观时间中完成了它。",
+      "kind": "separate_lecture_interpretation_and_plot",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-334-0253",
+        "r02-borges"
+      ],
+      "rationale": "0253 L9、L137–143支持课程阐释；原典PDF第2页L65–86及第4页L135–153确认剧作和完成。保留二者差异，不把课程错误归为AI新造。"
+    }
+  ],
+  "prior_review_relationship": {
+    "extends": "04-fidelity-33.json",
+    "scope": "补全该批3-3-4全支未核细节；保留3-3-4-1 feature3和3-3-4-4 feature0已有修订。新corrections的before均基于当前公共数据。",
+    "original_text_conflict": "02-review及04中的《秘密的奇迹》原典冲突再次核读确认；本批将并列限定落实到摘要，不否定先前讲者确实如此说的忠实性记录。"
+  }
+}

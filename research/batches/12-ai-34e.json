@@ -1,0 +1,1178 @@
+{
+  "batch": "12-ai-34e",
+  "checked_on": "2026-11-13",
+  "scope": "3-4-4全5节点39字段逐项完整核读；0271–0275全部本讲论述，非核心抽样。",
+  "sources": [
+    {
+      "id": "a12-34-0271",
+      "title": "0271_3-4-4_解释学_p7078",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/0271_3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6_p7078.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/0271_3-4-4_解释学_p7078.md",
+      "sha256": "3dca1b6940bee3d4d7b438bb42f5148ccd761ddc38a149179c2344285a10518e",
+      "git_blob_sha": "049ecec5b2651cdd629b856f8e1e6ab7ed75fb0c",
+      "locator": "Page1–23 L9–95（仅本讲结尾）；另核L95–98下一讲开头，仅用于3441哲学等于修辞表述",
+      "verification_scope": "已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。"
+    },
+    {
+      "id": "a12-34-0272",
+      "title": "0272_3-4-4-1_现象学的解释学_p7101",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6/0272_3-4-4-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A%E5%AD%A6_p7101.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-1_现象学的解释学/0272_3-4-4-1_现象学的解释学_p7101.md",
+      "sha256": "6962145cd1dafa911d976b8b56c5e4ae5526064a73d41e8a124a0cbf24131417",
+      "git_blob_sha": "ded703f0a820292300a418b91ad61d513fb286b0",
+      "locator": "Page1–18 L9–60（仅本讲结尾）",
+      "verification_scope": "已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。"
+    },
+    {
+      "id": "a12-34-0273",
+      "title": "0273_3-4-4-2_经典的精神分析_p7119",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-2_经典的精神分析/0273_3-4-4-2_经典的精神分析_p7119.md",
+      "sha256": "e0a355c4af5572cac2377bce52b71445dbe060e9f123d204b4d5a0b94a0afba3",
+      "git_blob_sha": "7ed3bfabe7f03c035b7c42e29e217c2194613765",
+      "locator": "Page1–20 L9–80（仅本讲结尾）",
+      "verification_scope": "已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。"
+    },
+    {
+      "id": "a12-34-0274",
+      "title": "0274_3-4-4-3_语言游戏_p7139",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F/0274_3-4-4-3_%E8%AF%AD%E8%A8%80%E6%B8%B8%E6%88%8F_p7139.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-3_语言游戏/0274_3-4-4-3_语言游戏_p7139.md",
+      "sha256": "66a2dd2d9f74208fd9a9128defb97e7c332157b95ff331500d310d617e0d179e",
+      "git_blob_sha": "01e4d9ff8ac059b457e103dec94dbf8c98a2a32c",
+      "locator": "Page1–21 L9–73（仅本讲结尾）",
+      "verification_scope": "已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。"
+    },
+    {
+      "id": "a12-34-0275",
+      "title": "0275_3-4-4-4_针对资本主义的精神分析_p7160",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-4_解释学/3-4-4-4_针对资本主义的精神分析/0275_3-4-4-4_针对资本主义的精神分析_p7160.md",
+      "sha256": "544bc0531ccf4fd2dee5d4ee7a2182a0ad4875a3547aa7d9399eaab320e9a742",
+      "git_blob_sha": "abf7ffb94c0b47b3f1fc1ee92e329f056b0f14a2",
+      "locator": "Page1–24 L9–205（仅本讲结尾）",
+      "verification_scope": "已逐段读完整本讲论述，末行合并下一讲处按章节标题截断。0271末尾下一讲开头另明确登记，仅用于3441。SHA256已验；未核原音、原典和科学临床史料，哲学对比及社会政治评价只确认课程如此论述。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "全讲逐段阅读后对每个feature/axis复合命题逐项核对。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "永恒轮回预设体验者/强力意志中心化空间，解释学取消这一预设",
+          "status": "supported",
+          "finding": "P1–3明确把尼采空间化最小预设变成作为距离的时间；不是取消所有本体论预设。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page1–3 L9–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "本体论化无限且不可计数、每个瞬间文本片段有更新；深渊恐惧转为敞开解放",
+          "status": "supported",
+          "finding": "P5明确连计数也属本体论化；P7–8明确凝缩与解放比喻。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page5–8 L29–44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "把文本看作答案，重建问题，解释者与历史问题意识融合",
+          "status": "supported",
+          "finding": "P11–14以谢林和苏格拉底为例完整展开。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page11–14 L53–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "问答不是无脑循环，而是闭合敞开；哲学高贵在问题意识，假设最小化只余时间距离",
+          "status": "supported",
+          "finding": "P11和P16有直接论述。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page11 L57；Page16 L72–74"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "时间距离不等于历史相对主义，而是问题意识敞开条件",
+          "status": "supported",
+          "finding": "P3明确反驳不能把握真理的相对主义解释。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page3 L19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "效果历史维持间隙、无限重符号化、无前符号本源及第二次本有",
+          "status": "supported",
+          "finding": "P4–7展开每一项，区分本体论化与本体化。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page4–7 L24–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "偏见为敞开条件、主体已在历史、偏见与历史循环相生",
+          "status": "supported",
+          "finding": "原文同时要求不僵死于前见，不能读成任何偏见都自动正确。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page8–10 L44–50；Page16 L72–74"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "承认并溯源偏见，把答案放回语境还原问题，解释学为终极方法",
+          "status": "supported",
+          "finding": "P17–18明确阐述方法；终极哲学明说是在我看来，是讲者评价。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page17–18 L77–80"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3时间距离调和局部解释与整体视域",
+          "status": "supported",
+          "finding": "P19–20直接列生存解释与视域融合两侧。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page19–20 L83–86"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4效果历史、视域融合及本体论发生学",
+          "status": "needs_qualification",
+          "finding": "初次列位如此，但P21–22允许颠倒，并特别强调效果历史是认识维度发生机制，需保留后段重议。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page20–22 L86–92"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4解释学循环、认识发生学且可与本体颠倒",
+          "status": "needs_qualification",
+          "finding": "允许颠倒已保留，但最终又特别称循环为本体论发生和实存机制，现概括不应只保留初始定位。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page21–22 L89–92"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“偏见为条件”并非无条件认同任何偏见，原讲要求不僵死于前见、持续追问；“终极哲学”是讲者自己的评价。",
+          "source_ids": [
+            "a12-34-0271"
+          ],
+          "locator": "Page1–23 L9–95（仅本讲结尾）；另核L95–98下一讲开头，仅用于3441哲学等于修辞表述"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-4-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全讲逐段阅读后对每个feature/axis复合命题逐项核对。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "不存在绝对真理式本体论，修辞产生意义真值，哲学等于修辞辩证法",
+          "status": "supported",
+          "finding": "无绝对本体论在P5，但隐喻仍有对错；哲学等于修辞表述在上一文件下一讲开头。",
+          "source_ids": [
+            "a12-34-0271",
+            "a12-34-0272"
+          ],
+          "locator": "0271 Page23 L95；0272 Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "本体论一阶、发生机制二阶以上；隐喻裂隙与解释注册前符号内容",
+          "status": "supported",
+          "finding": "P1完整支持，但一阶说有构成性例外可二阶的原讲限定。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "隐喻是答案，理解须找问题；表层与第二层由主体解释中介",
+          "status": "supported",
+          "finding": "P2–4逐项解释隐喻的不完整性及问答。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "隐喻表象化使现象体验认知出现，回应为何有表象",
+          "status": "supported",
+          "finding": "P8–9明确讲者使用自己的术语解释认识维度发生。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page8–9 L30–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "僵死语义与隐喻历史之间以象征中介",
+          "status": "needs_qualification",
+          "finding": "P13明确语义学不是很僵死；P17明说象征中介是讲者立场，承认研究者有不同解释。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page13–17 L45–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "象征维持裂缝、专题意向性导向反思和稳固本体；坐定与入场之间落座",
+          "status": "supported",
+          "finding": "P14–16逐项有据；原讲结尾也批评急于建稳固架构。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page14–18 L48–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "文本面对复数主体而多异，距离陌生经解释成为属我占有",
+          "status": "supported",
+          "finding": "P10–12完整论述多异性、单称主体、距离化和内在化。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page10–12 L36–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "个人在诸可能本体中实现天命式占有，问答循环把握真理",
+          "status": "supported",
+          "finding": "原讲用某种意义上个人天命作比喻，并限制并非任意独断。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page12 L42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3语义与隐喻由象征调和",
+          "status": "needs_qualification",
+          "finding": "格位正确但须注明是讲者明确表示有争议的解释，非无争议利科原说。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page12–17 L42–57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4修辞发生机制、隐喻使本体进入话语",
+          "status": "supported",
+          "finding": "P1与P17支持。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page1 L9；Page17 L57"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4隐喻通过想象表象化产生体验知觉维度",
+          "status": "supported",
+          "finding": "P6–9明确列位并展开。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page6–9 L24–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的1占有，解释隐喻把陌生内在化为属我真理",
+          "status": "supported",
+          "finding": "P6命名、P12机制、P18明确给1。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page6 L24；Page12 L42；Page18 L60"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。本讲否认绝对真理式本体论，并不否认隐喻解释有对错。修辞、现象学与本体论的重组使用了讲者自己的术语。",
+          "source_ids": [
+            "a12-34-0272"
+          ],
+          "locator": "Page1–18 L9–60（仅本讲结尾）"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-4-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全讲逐段阅读后对每个feature/axis复合命题逐项核对。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "非哲学非心理学的准政治实践，不预设世界观且多种哲学立场可用",
+          "status": "supported",
+          "finding": "P1及P3直接如此界定；这是课程定位，未认证为学科共识。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page1 L9；Page3 L15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "力比多非实体而是剩余符号运动、发生否定性及生存根基",
+          "status": "supported",
+          "finding": "P2–3有剩余和根基；发生否定性在P8明确标为黑格尔式重读。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page2–3 L12–15；Page8 L30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "力比多中介中和自然与文明张力，文明回溯压抑自然剩余",
+          "status": "needs_qualification",
+          "finding": "两侧有据，但回溯与辩证否定性明确是按照我们黑格尔主义者的解读，须标归属。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "失衡生新结构的力量经审查在梦症状口误中显现",
+          "status": "supported",
+          "finding": "P8有性、梦及审查；P11–12和P16补齐症状、口误和分析线索。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page8 L30；Page11–12 L41–46；Page16 L66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "以梦发生机制替代独立知识发生学、四机制清醒也运行且属结构主义原则",
+          "status": "supported",
+          "finding": "P13明说是讲者搂一个过来充数，P14说明清醒仍运行但须现象学介入。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page13–15 L51–61"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "置换定义为冲动转他物，凝缩定义为多义压单像；视象化神经冲动和再修饰连贯化",
+          "status": "not_located_in_full_lecture",
+          "finding": "本讲全文只列置换凝缩名称，未展开前两项定义；后两项在P14具体讲过。未定位不等于原典或其他讲没有。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page13–14 L51–56；已核全文Page1–20 L9–80"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "超我父性审查压无意识，升华宣泄入文明崇高目的体系",
+          "status": "supported",
+          "finding": "P15–17逐项展开，升华也属无意识症状。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page15–17 L61–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "意识不能中介压抑升华，意识是最低病理化，分析师外部话语不可能",
+          "status": "supported",
+          "finding": "P17–18明确是讲者对框架的评议，不是医学诊断结论。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page17–18 L71–74"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3力比多调和中和自然与父性文明",
+          "status": "supported",
+          "finding": "P6–8直接列位和两侧。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4无预设本体论，非哲学心理学而准政治实践",
+          "status": "supported",
+          "finding": "P1、P9–10明确；后文也允许以四种道出真相形式作候选本体论，未说唯一表述。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page1 L9；Page9–11 L33–41"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4无意识通过梦口误症状升华四种真相机制",
+          "status": "needs_qualification",
+          "finding": "四形式在P10–11置于候选本体论；P12明确认识论无意识不是上面具体四种形式，不能合并。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page10–13 L36–51"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的2压抑与升华分裂，意识不能调和",
+          "status": "supported",
+          "finding": "P15–18明确给2及为何不能写意识为中介。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page15–18 L61–74"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。",
+          "source_ids": [
+            "a12-34-0273"
+          ],
+          "locator": "Page1–20 L9–80（仅本讲结尾）"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-4-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全讲逐段阅读后对每个feature/axis复合命题逐项核对。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "语言意义在用法而非固定指称，已符号世界可重设规则再符号化",
+          "status": "supported",
+          "finding": "P1–4展开三位哲学家的课程对照及符号重组例子。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page1–4 L9–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "规则符号被压抑至驱力而产生原乐和意义之乐",
+          "status": "needs_qualification",
+          "finding": "P4–5明说因为我们是辩证法家，继而给精神分析解释，不是维特根斯坦直接提出jouissance。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page4–5 L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "无私人语言、差异和用法，无直接第一人称意义根据，现象学无根",
+          "status": "supported",
+          "finding": "P7–8支持课程的强解释，不宜当作私人语言论证在学界唯一含义。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "与马克思交换价值相似，诸聪明人同洞见却用途异",
+          "status": "supported",
+          "finding": "P8明确类比；人物并置由P1及P8组成，属于讲者思想谱系，不证实际同一理论。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page1 L9；Page8 L30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "晚期沉默是语言游戏而非闭嘴，不在僵死语法意义图式中说话",
+          "status": "needs_qualification",
+          "finding": "P14先提早期逻辑哲学论，再由晚期语言观推导沉默；这是讲者的跨阶段重读，不宜写成晚期原文定义。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page12–16 L42–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "放弃既定目的网络、平等万物显隐而探索新本体与世界同玩",
+          "status": "supported",
+          "finding": "P16–18完整支持这一解释学推论。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page16–18 L54–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "去癔症去主体、不信大他者，分析话语调和占有主人与压抑癔症",
+          "status": "supported",
+          "finding": "P6明确主体姿态；P11–12明确目的3及两侧类比。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page6 L24；Page11–12 L39–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "无目的女性化游戏调和却目的闭合，数理逻辑游戏效力限自身语境",
+          "status": "supported",
+          "finding": "P10–11提出限度，P19又承认能对受数理逻辑主人话语支配的科学家数学家有效；并非绝对只作用作者本人。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page10–11 L36–39；Page18–20 L60–68"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3去癔症女性化主体调和符号系统与历史活动",
+          "status": "supported",
+          "finding": "P5–6直接列位及无目的自为目的。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page5–6 L21–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4意义在用法，世界结构以语言构成",
+          "status": "supported",
+          "finding": "P6–7明确本体4与用法。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4无私人语言，第一人称直接意义无根据",
+          "status": "supported",
+          "finding": "P7–8明确此格位；其去主体化延伸是讲者的强解释。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的3分析性话语以游戏调和主人与癔症话语",
+          "status": "supported",
+          "finding": "P11–12明确目的3，具体两侧还有升华/压抑比照。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page11–12 L39–42"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。本讲把晚期维特根斯坦、晚期海德格尔与拉康并置；原乐、去癔症化和主体幻觉等是课程的精神分析式重读，不能当作《哲学研究》直接术语。分析哲学的效力限制在后段扩及共享数理逻辑问题的群体，并非只对某篇论文作者本人有效。",
+          "source_ids": [
+            "a12-34-0274"
+          ],
+          "locator": "Page1–21 L9–73（仅本讲结尾）"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-4-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全讲逐段阅读后对每个feature/axis复合命题逐项核对。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "无意识生产否定主体与一致客观世界，非力比多仓库而劳动生产机制",
+          "status": "supported",
+          "finding": "P1–4逐项解释两个产品及与弗洛伊德的课程对比。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page1–4 L9–73"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "普罗大众不是经验阶级而无意识政治主体、纯否定性",
+          "status": "supported",
+          "finding": "P3和P5直接限定，P21–22再次排除以收入职业身份定义。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page3 L42–56；Page5 L83–87；Page21–22 L196–199"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "社会存在关系不存在为讲者所称斯洛文尼亚共识，社会空能指博弈场",
+          "status": "supported",
+          "finding": "P9–12有直接论述，原字段已标本讲声称而非学术界共识。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page9–12 L144–159"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "各力隐藏片面关系，雇佣商品化与按劳分配例子，最低空场共识",
+          "status": "supported",
+          "finding": "P12–15逐项给两个视角及无意识最低共识。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page12–15 L159–174"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "无否定纯生命自我增殖甩出受剥削创伤主体，又以幻象闭合",
+          "status": "supported",
+          "finding": "P2和P5–6完整给生命、剩余价值及主体裂缝的逻辑。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page2 L37–39；Page5–6 L91–107"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "剩余快感与剩余价值同构，幻想遮蔽剥削创伤使表象光滑",
+          "status": "supported",
+          "finding": "P6直接如此类比；这是课程重读，不把二概念数值或范畴直接等同。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page6 L98–107"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "大学话语而非分析话语为个人观点，无力失败且舵手无上帝视角",
+          "status": "supported",
+          "finding": "P5明说个人观点；P18–19直接给格位与航行比喻。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page5 L76–80；Page18–19 L187–190"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "符号系统自我描述生发主客体，理论者包含自身，真诚自信又知可能错",
+          "status": "supported",
+          "finding": "P19–23支持完整理论姿态；失败不是要求停止理论劳动。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page19–23 L190–202"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3无意识普罗主体调和无否定生命资本与抽象理论",
+          "status": "supported",
+          "finding": "P5–7直接列位并阐述理论与现实张力。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page5–7 L83–127"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4无融贯历史，社会有而关系不能统一，阶级斗争历史",
+          "status": "supported",
+          "finding": "P9–15限定不存在的是上帝视角融贯结构，不是经验中完全没有社会互动或时间。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page9–15 L144–174"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识4无意识，所有抽象不可信且异化症状",
+          "status": "needs_qualification",
+          "finding": "P16先说所有抽象后具体限定布尔乔亚理论/学术意识形态；不宜扩成任何抽象思维皆毫无可信性的无条件定理。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page16–17 L179–184"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的4调和失败、无力绝望理论化",
+          "status": "supported",
+          "finding": "P18直接明确讲者立场，P19–23坚持不放弃的冒险，非拉康本人对全部理论的定论。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page18–23 L187–202"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。",
+          "source_ids": [
+            "a12-34-0275"
+          ],
+          "locator": "Page1–24 L9–205（仅本讲结尾）"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-4",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论4：效果历史(历史作为起作用的效力而非客体，本体论的发生学机制——视域融合)",
+      "after": "本体论4：本讲先写效果历史/视域融合，随后允许与认识论的解释学循环互换；后段特别强调解释学循环是本体论的发生与实存机制",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0271"
+      ],
+      "locator": "Page20–22 L86–92",
+      "rationale": "补回格位可互换及后段机制说明。"
+    },
+    {
+      "code": "3-4-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4：解释学循环(认识论上的发生学机制，在诠释学中与本体论效果历史可颠倒)",
+      "after": "认识论4：本讲先写解释学循环，随后允许与本体论的效果历史互换；后段特别强调效果历史是认识、阐释维度的发生机制",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0271"
+      ],
+      "locator": "Page21–22 L89–92",
+      "rationale": "不把最初排位及机制理解冻结为唯一写法。"
+    },
+    {
+      "code": "3-4-4-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③象征的中介作用——在利科的三元结构中，语义学(僵死的符号秩序/语法)与隐喻(超越性的敞开/历史)之间由象征起中介作用。象征能够维持隐喻所敞开的裂缝，具有专题化的意向性，可以将裂缝维持住并导向反思，最终构造出稳固的本体论架构。象征的意义发生学机制连接着语法层面的坐定状态与隐喻层面的入场活动，是意义得以生发的关键环节。",
+      "after": "③讲者把语义学理解为相对坐定的符号系统，把隐喻理解为敞开的入场活动，再以象征作中介：象征用专题化的意向性维持隐喻裂缝，使意义可以被指称、反思，乃至构造稳固本体论。他特别说明，语义学并非全然僵死；“象征作中介”也是自己的解释，承认研究者对此有不同看法，结尾还批评过早追求稳固架构。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0272"
+      ],
+      "locator": "Page13–18 L45–60",
+      "rationale": "保留原讲对语义僵死化的否定，以及象征中介解释的争议和作者归属。"
+    },
+    {
+      "code": "3-4-4-1",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：语义学(符号学空间)与隐喻(超越性意义)的张力(由象征作为中介调和)",
+      "after": "场域论3：按讲者的解释，象征调和语义学（相对坐定的符号系统）与隐喻（敞开的历史性入场）；原讲明确承认研究者对此中介位置有不同理解",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0272"
+      ],
+      "locator": "Page13–17 L45–57",
+      "rationale": "明确课程的自觉解释选择。"
+    },
+    {
+      "code": "3-4-4-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②力比多经济学——力比多作为自然与文明之间的中介：自然科学实证主义视角下的自然是被人化了的、被祛魅的中和自然，而文明则充满禁忌、欲望与张力。力比多即人类内在的自然被文明回溯性压抑后剩余的力量，是一种使结构失衡、不断涌现新结构的辩证性否定性。它被文明的审查机制(censorship)压抑，只能在梦、症状、口误等受到意识审查的体验中被把握。",
+      "after": "②本讲以力比多中介被科学实证主义中和的自然与充满禁忌、欲望和父性律令的文明。讲者进一步明确从黑格尔主义立场重读：力比多可理解为自然被文明回溯压抑后留下的否定性，使结构失衡并生发新结构。梦、症状和口误则提供受审查之无意识运动的分析线索。这一回溯性解释不能直接当作弗洛伊德的原句。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0273"
+      ],
+      "locator": "Page6–8 L24–30；Page11–12 L41–46；Page16 L66",
+      "rationale": "标清黑格尔主义者解读这一显式立场。"
+    },
+    {
+      "code": "3-4-4-2",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③梦的四重发生机制——弗洛伊德没有系统的知识发生学理论，故以梦的发生机制替代认识论。梦主要有四种机制：置换(displacement)将精神冲动转移到他物上表达；凝缩(condensation)将多重含义压缩到单一意象中；视象化(visualization)将神经冲动转化为视觉形象；再修饰(secondary revision)将凌乱的梦的内容编整为平滑连贯的叙事。这四者在清醒时同样运行，其基本原则是结构主义的。",
+      "after": "③讲者认为弗洛伊德没有独立建成这里所要求的知识发生学，因而借梦的发生机制说明认识维度：列出置换、凝缩、视象化和再修饰四项。本讲只点名前两项，对后两项则解释为冲向视觉的表象化，以及把内容整理得平滑、连贯；这些是课程的机制描述，未作神经科学认证。讲者还说清醒时这些机制也运行，但要描述清醒与梦的差别，仍需现象学介入。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0273"
+      ],
+      "locator": "Page13–15 L51–61",
+      "rationale": "移除未在本讲展开的置换凝缩定义，记录实际核读边界并保留清醒的限制。"
+    },
+    {
+      "code": "3-4-4-2",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4：无意识(通过梦、口误、症状、升华四种真相道出机制显现)",
+      "after": "认识论4：无意识及其需要破译的符号机制；本讲特意与此前候选本体论中的梦、口误、症状、升华四形式区分，并借梦的发生机制进一步说明",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0273"
+      ],
+      "locator": "Page10–13 L36–51",
+      "rationale": "修复四种真相形式与认识论无意识的层次混并。"
+    },
+    {
+      "code": "3-4-4-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①语言的意义在于用法——晚期维特根斯坦的核心洞见：语言的意义不在于指称关系，而在于其被使用的方式。世界本身已经是符号化了的，主体可以对已符号化的体验(现象、意向活动、无意识等)进行再符号化，重置符号规则进行游戏。再符号化过程中，规则本身作为一个符号被压抑到驱力层面，从而在原乐(jouissance)层面产生意义之乐(enjoy-meant)——通过言说活动本身获得的快感。",
+      "after": "①本讲从晚期维特根斯坦“意义在于用法”出发，把语言理解为对已符号化体验的再次组织：改变规则，就能重玩符号游戏。讲者随后借辩证法和拉康作进一步解释：作为规则的符号被置于不直接显现的层面，并在驱力中产生言说的原乐与“意义之乐”。后半属于课程的跨理论重读，不能当作维特根斯坦直接提出的精神分析机制。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0274"
+      ],
+      "locator": "Page1–7 L9–27",
+      "rationale": "区分用法命题与讲者借拉康给出的驱力原乐机制。"
+    },
+    {
+      "code": "3-4-4-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③沉默作为语言游戏——晚期维特根斯坦的沉默不是简单地闭嘴。沉默本身是一种语言游戏，意味着不把自己的言说当作在一个僵死的语法体系或意义图示中发言。沉默即放弃人类既定的目的论网络，不认为自己的符号学活动高于其他万物，把符号学活动与万事万物的显现消隐平等对待。在这种精神下，哲学才能探索正在发生的新的本体论结构，才能与世界玩到一起去。",
+      "after": "③讲者把早期《逻辑哲学论》的沉默命题放到晚期语言观下重读：沉默不必等于停止发声，而可意味着不再把言说当作固定语法、意义根据或目的网络中的权威发言。由此，语言游戏被解释为放弃人类符号活动高于万物的预设，与事物的显现、消隐一同探索新的本体论结构。这是本讲的解释学推论，尚未核成晚期维特根斯坦的直接原话。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0274"
+      ],
+      "locator": "Page12–18 L42–60",
+      "rationale": "标明早晚期跨阶段解释及推论性质。"
+    },
+    {
+      "code": "3-4-4-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论4：无意识(所有抽象活动都是不可信的意识形态，都会带来异化与症状)",
+      "after": "认识论4：无意识及意识形态的抽象化；本讲针对布尔乔亚的社会理论、学术与意识形态体系，强调其缝合会留下异化和症状，不把任何抽象活动都当作已获中立真理",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0275"
+      ],
+      "locator": "Page16–17 L179–184",
+      "rationale": "保留原讲具体批评对象，避免将所有抽象毫无可信性泛化为无条件命题。"
+    }
+  ]
+}

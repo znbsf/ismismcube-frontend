@@ -1710,5 +1710,2466 @@
     ],
     "audio_verified": false,
     "batch_file": "07-dollar-f.json"
+  },
+  "BV1XL411x72W": {
+    "id": "BV1XL411x72W",
+    "series_code": "1：形而下学新总论",
+    "title": "【主义主义】形而下学（1）——天真的前反思状态是怎样的，如何克服？以及场域论上1、2、3、4的核心差别",
+    "evidence_level": "local_asr_text_read",
+    "body_status": "local_asr_text_reviewed_not_audio_verified",
+    "review_scope": "全文逐段阅读本地ASR；原音未人工核听，故正文为可回查的课程摘要，不是逐字定稿。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者重新把一字头称为形而下学：其问题不只是接受某个对象真实存在，而是默认所有对象都能被同一套分类和定位秩序容纳。此处是本课程对实在论的用法。",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段8–25、115–132，00:39–02:25、06:14–07:20"
+      },
+      {
+        "text": "围绕苏格拉底式“什么是……”的提问，讲者追问它是否预设每个符号都对应同一世界中的对象，并把这与存在者整体的分类联系起来；这不构成对历史苏格拉底的独立考证。",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段57–114，03:42–06:14"
+      },
+      {
+        "text": "一字头到二字头的转折，被说明为从局部对象转向存在者整体，再追问整体与其所在之场的关系：场是整体的一部分，还是容纳整体的条件？场在这里也只是需要反思的空间隐喻。",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段208–250、379–386，11:05–13:21、18:38–19:09"
+      },
+      {
+        "text": "三字头的主体性不是另一块可以被物体填满的空白。讲者以不能被占据或直接表象的缺失来说明它，并把问题推进为：使一个看似平滑的场得以成立的动力机制是什么？",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段295–375，15:09–18:23"
+      },
+      {
+        "text": "讲者区分无动力中心的整体与需要不断生成的总体化过程，并讨论总体与总体化之间的关系；结尾用面对其历史性闭合机制的方式区分三、四字头。摘要保留这是本讲的判断，不将其升格为解释全部政治灾难的历史定律。",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段425–478、527–537、589–618，21:04–23:09、24:53–25:18、27:53–29:30"
+      },
+      {
+        "text": "复仇与总体化被用作看见秩序内部矛盾的叙述例子：主体可能把局部事件当成一切，再把内部矛盾转写为场与存在者整体的对立。这是课程中的发生学解释，不是行动建议。",
+        "source_ids": [
+          "x13-local-BV1XL411x72W"
+        ],
+        "locator": "段403–424、560–588、605–616，19:43–21:02、26:24–27:53、28:43–29:21"
+      }
+    ],
+    "editorial_notes": [
+      "公开字幕接口返回空列表，固定社区语料未找到同BV正文，故独立生成转录。",
+      "转录将“无”“场”“符号”等多次误识；仅在上下文清楚时以概念概述，未保留疑难英词或人物名。",
+      "原音及完整生成文本保留在本地source-cache/local-asr；仓库仅保存摘要、模型版本、原音与转录SHA256和时间定位。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-local-evidence.json"
+  },
+  "BV1hf4y1k7sX": {
+    "id": "BV1hf4y1k7sX",
+    "series_code": "1-2-1：无声板书版",
+    "title": "【主义主义】无声版：神创论（1-2-1）",
+    "evidence_level": "video_board_observed",
+    "body_status": "partial_board_summary_no_audio",
+    "review_scope": "12张公开预览帧抽样；仅补板书可辨正文，完整口述不可恢复，部分字迹未确认。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "开头板书标出1-2-1，并将本讲主题写为神创论（Creationism）。此处正文来自无声视频的板书说明，不能等同于完整口述讲稿。",
+        "source_ids": [
+          "x13-board-BV1hf4y1k7sX"
+        ],
+        "locator": "预览索引0秒、95秒"
+      },
+      {
+        "text": "格位板书将场域的一写为宇宙（Universe），将本体论的二列为造物者与造物的对立，并配以Creator／Creation及the Being／beings。",
+        "source_ids": [
+          "x13-board-BV1hf4y1k7sX"
+        ],
+        "locator": "预览索引195秒"
+      },
+      {
+        "text": "同一格位板书把认识论的一写为灵魂（soul）；画面还出现随后展开的箭头，抽样画面不足以还原其完整推导。",
+        "source_ids": [
+          "x13-board-BV1hf4y1k7sX"
+        ],
+        "locator": "预览索引195秒"
+      },
+      {
+        "text": "中段板书将奥古斯丁列为代表人物，另处出现耶罗姆（Jerome）及基督（Christ）。这里只登记可辨人物与词语，不据无声画面断言二人学说的完整关系。",
+        "source_ids": [
+          "x13-board-BV1hf4y1k7sX"
+        ],
+        "locator": "预览索引490秒、698秒、773秒"
+      }
+    ],
+    "editorial_notes": [
+      "原视频标为无声版，匿名字幕接口无字幕。此项保留部分正文状态，不计为完整转录。",
+      "没有把另一版本神创论讲稿替换为本BV正文；模糊板书不强行补字。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-local-evidence.json"
+  },
+  "BV1Nb4y1h7mw": {
+    "id": "BV1Nb4y1h7mw",
+    "series_code": "4-1：正课目录纠正",
+    "title": "【主义主义】政治-经济-意识形态批判（4-1）——理论家的实践与两种谢林点",
+    "evidence_level": "reused_located_course_summary",
+    "body_status": "reused_reviewed_node_summary_not_audio_verified",
+    "review_scope": "视频元数据还原正课身份；复用编号4-1已有逐项定位摘要（02-practice.json），没有新增整讲听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "政治、经济、意识形态不是三个互不相干的领域。讲者反复改写它们与阶级位置的对应，要求把理论批判放回实际社会关系之中。",
+        "source_ids": [
+          "p02-0277"
+        ],
+        "locator": "Page 1–4，本讲正文"
+      },
+      {
+        "text": "此讲把人民放在历史与理论家之间的中介位置，但否认个人的心理体验直接就是历史真相；阶级意识不能等同于个人意见的总和。",
+        "source_ids": [
+          "p02-0277"
+        ],
+        "locator": "Page 5–6、19–21，本讲正文"
+      },
+      {
+        "text": "理论家共同体既要有体系性和批判性，也要能够维持生活与理论生产。课程把这些物质条件列为实践要求，强调理论并非悬空的学术体系。",
+        "source_ids": [
+          "p02-0277"
+        ],
+        "locator": "Page 11–13，本讲正文"
+      },
+      {
+        "text": "理论家的认识不是对整个历史的无误把握。其活动是否构成实践，要看历史中的实际效果、失败与教训，不能只由内心确信或体系自洽判定。",
+        "source_ids": [
+          "p02-0277"
+        ],
+        "locator": "Page 22、28–29，本讲正文"
+      }
+    ],
+    "editorial_notes": [
+      "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reused.json"
+  },
+  "BV1aq4y1R7Lk": {
+    "id": "BV1aq4y1R7Lk",
+    "series_code": "4-2：正课目录纠正",
+    "title": "【主义主义】现实的正统化（4-2）——坚定地迈出历史的步伐",
+    "evidence_level": "reused_located_course_summary",
+    "body_status": "reused_reviewed_node_summary_not_audio_verified",
+    "review_scope": "视频元数据还原正课身份；复用编号4-2已有逐项定位摘要（03-practice-42.json），没有新增整讲听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "课程把现实的正统化理解为行动者介入人民创造历史的过程；行动者承担中介，而非只在理论上说明历史。",
+        "source_ids": [
+          "p42-0299"
+        ],
+        "locator": "L24–29"
+      },
+      {
+        "text": "与4-1-4-4的直接创造历史相比较，这一格强调组织、教育和引导的中介作用，实践单元被指认为现代政党。",
+        "source_ids": [
+          "p42-0299"
+        ],
+        "locator": "L29"
+      },
+      {
+        "text": "本体论上的冲突是造成苦难的客观物质与社会现实，同失去位置的普罗大众之间的对立；后者构成推动现实改变的力量。",
+        "source_ids": [
+          "p42-0299"
+        ],
+        "locator": "L29–34"
+      }
+    ],
+    "editorial_notes": [
+      "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reused.json"
+  },
+  "BV16L4y1J7BT": {
+    "id": "BV16L4y1J7BT",
+    "series_code": "4-4：正课目录纠正",
+    "title": "【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践",
+    "evidence_level": "reused_located_course_summary",
+    "body_status": "reused_reviewed_node_summary_not_audio_verified",
+    "review_scope": "视频元数据还原正课身份；复用编号4-4已有逐项定位摘要（03-practice-44.json），没有新增整讲听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把后续四组方案设为不可能的乌托邦思想实验，追问物质匮乏和资本异化被克服后，人与人的关系是否还会产生新的异化。",
+        "source_ids": [
+          "p44-4-4"
+        ],
+        "locator": "Page 1–2；P1:L9、P2:L12"
+      },
+      {
+        "text": "VR与不同意识生成机制是实验模型；借由全知系统、偶然性及AI主体性的变化，讨论主体间关系和本体论框架的形成。",
+        "source_ids": [
+          "p44-4-4"
+        ],
+        "locator": "Page 3、5、14、21、28–29；P3:L15、P5:L21、P14:L48、P21:L81–82、P28:L109、P29:L114"
+      },
+      {
+        "text": "实践单位被描述为后资本主义共同体或不同VR服务器；规则需要成员交往与争论形成，幸福和爱欲模式不能预先确定。",
+        "source_ids": [
+          "p44-4-4"
+        ],
+        "locator": "Page 30–34；P30:L119、P31:L124、P32:L129、P33:L134、P34:L137"
+      }
+    ],
+    "editorial_notes": [
+      "原补充目录误标为复习课，本条已改正；不要与该编号真正的复习课混同。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reused.json"
+  },
+  "BV1cf4y1H7Ci": {
+    "id": "BV1cf4y1H7Ci",
+    "series_code": "3-4：正课目录纠正",
+    "title": "【主义主义】符号学（3-4）——现代哲学的“合”法性来源：将有限性坚持到底的绝对中介，符号",
+    "evidence_level": "reused_field_reviewed_course_text",
+    "body_status": "reused_reviewed_node_summary_not_audio_verified",
+    "review_scope": "复用12-ai-34a对0254整讲的逐字段文本复核；本BV为3-4正课，非复习课。未核原音。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲先区分符号学与结构主义运动，再讨论符号中介对第一人称直接报告的限制；它也承认现象学内部对直接性的批评，不能把全部现象学一概归为未经中介。",
+        "source_ids": [
+          "a12-34-0254"
+        ],
+        "locator": "Page4–6 L20–26"
+      },
+      {
+        "text": "借警示灯的比喻，讲者把意义放在符号之间的差异和约定中；随后以拉康的主人能指、能指链与无意识解释符号作用，不能将后者归为索绪尔及全部符号学的共同命题。",
+        "source_ids": [
+          "a12-34-0254"
+        ],
+        "locator": "Page7–13 L29–49"
+      },
+      {
+        "text": "本体论的开放在这里意味着不先安置一套时空框架，也不意味着语言可以无限表征一切。讲者还反过来批评能够看穿全部结构的绝对中介幻想。",
+        "source_ids": [
+          "a12-34-0254"
+        ],
+        "locator": "Page8 L32；Page15–19 L55–67；Page25–27 L85–91"
+      },
+      {
+        "text": "症候学的任务被说明为发现符号系统内部的不一致；研究结构仍须借助已经结构化的自然语言，这一困难被讲者进一步引向资本批判。这是本课程的理论路线。",
+        "source_ids": [
+          "a12-34-0254"
+        ],
+        "locator": "Page19–23 L67–79"
+      }
+    ],
+    "editorial_notes": [
+      "保留课程解释与符号学、现象学各家原典之间的区别；不能把讲者的批评写作学界共识。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reused.json"
+  },
+  "BV1fb4y187Sr": {
+    "id": "BV1fb4y187Sr",
+    "series_code": "1-1→4-1 复习",
+    "title": "1-1复习：从科学主义意识形态批判转入4-1",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_not_audio_verified",
+    "review_scope": "0002 L83–99开讲＋0003 Page1–6全文；排除物理主义下一讲",
+    "identity_verification": "0002 L83明确同BV链接，L84明确1-1复习；0003接续同段并于Page6结束。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者将1-1统摄为布尔乔亚的科学主义意识形态，并依机械、有机、结构及实用姿态分别讨论物理主义、社会建构论、认知主义和行为主义；这是本课程的政治哲学分类。",
+        "source_ids": [
+          "x13-clean-0002"
+        ],
+        "locator": "0002 L84–88"
+      },
+      {
+        "text": "讲者认为这些立场仍给人类或特定支配者保留中心位置：物理主义依人造模型、认知主义抬高功能软件层，而行为主义把操控者视线置于被研究者之外。",
+        "source_ids": [
+          "x13-clean-0002",
+          "x13-clean-0003"
+        ],
+        "locator": "0002 L89–99；0003 Page1–2 / L9–18"
+      },
+      {
+        "text": "复习的目的被明确说成给4-1铺路：先揭示科学话语中自称普遍人性的民族国家和利益位置，再进入普罗大众的科学体系；《德意志意识形态》被举为切入口。",
+        "source_ids": [
+          "x13-clean-0003"
+        ],
+        "locator": "Page3–4 / L21–24"
+      },
+      {
+        "text": "课程区分仆从性的学术话语回答何者存在，主人性的价值权威规定应当如何；理论批评首先针对前者，因为其权力较弱却掌握现实定义。",
+        "source_ids": [
+          "x13-clean-0003"
+        ],
+        "locator": "Page4–6 / L24–39"
+      },
+      {
+        "text": "讲者把价值判断变成客观判断称为客观化，并要求与客体化区分；本轮保留这一区分的课内功能，未据德文原典校定全部英译。",
+        "source_ids": [
+          "x13-clean-0003"
+        ],
+        "locator": "Page5 / L30–36"
+      }
+    ],
+    "editorial_notes": [
+      "全讲政治性评价按讲者观点转述，不把对科学/行为主义的概括当作全部研究史已验证结论。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1qb4y1H77s": {
+    "id": "BV1qb4y1H77s",
+    "series_code": "4-4 复习",
+    "title": "4-4复习：弱VR、异化与主体性发生",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_not_audio_verified",
+    "review_scope": "0342 L161–167开讲＋0343 Page1–15全文goodbye止",
+    "identity_verification": "0342 L161明确同BV，L162明确4-4复习；正文连贯接续。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者声明4-4是自创的弱VR未来模型，其设定要切断生产关系中的物化与爱欲关系异化的直接因果联系；这不意味着所有异化消失。",
+        "source_ids": [
+          "x13-clean-0342",
+          "x13-clean-0343"
+        ],
+        "locator": "0342 L162–167；0343 Page1–4 / L9–18"
+      },
+      {
+        "text": "四支被分成两组：441/442以人类为中心，分别侧重生存治理与异化；443/444讨论AI消解人类中心，由服务器内部争取地位走向外部身体。",
+        "source_ids": [
+          "x13-clean-0343"
+        ],
+        "locator": "Page1–4 / L9–18"
+      },
+      {
+        "text": "人类/AI与是否具有人性形成交叉分类；讲者认为AI须认识自身被工具化的处境、争取平等，而非只误认自己为人。此为思想实验中的主体性设定。",
+        "source_ids": [
+          "x13-clean-0343"
+        ],
+        "locator": "Page3–6 / L15–24"
+      },
+      {
+        "text": "弱VR不是被断言必然到来的线性未来。讲者把整个方案称为哲学狂想，并提出也可分析不由资本生产主导、却存在同类奴役关系的历史或局部结构。",
+        "source_ids": [
+          "x13-clean-0343"
+        ],
+        "locator": "Page6–8 / L24–30"
+      },
+      {
+        "text": "模型的斗争从人类与爱欲监控系统，转为AI与代表僵死规则的人类；分析标准因此不限于物质生产资料，而扩展到享乐再生产和主体地位。",
+        "source_ids": [
+          "x13-clean-0343"
+        ],
+        "locator": "Page8–10 / L30–36"
+      },
+      {
+        "text": "结尾把4-4归为主体化发生学的一个分支，并预告另以本体论、认识论、目的论讨论主义主义逻辑；省略场域或其他维度不等于把缺省项编码为4。",
+        "source_ids": [
+          "x13-clean-0343"
+        ],
+        "locator": "Page10–15 / L36–51"
+      }
+    ],
+    "editorial_notes": [
+      "AI意识、三五百年未来及通用模型适用性都是讲者的哲学设定和推测，未按现有AI工程事实验证。",
+      "Page3关于有人性AI有一句前后冲突的编纂句，摘要依据同段反复解释的工具处境/平等论证，不据孤句倒转其意思。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1vv411h7kx": {
+    "id": "BV1vv411h7kx",
+    "series_code": "1-4 复习",
+    "title": "复习课2：平凡主义四大类与十六种意识形态",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_not_audio_verified",
+    "review_scope": "0075 Page1–37全文；0074 Page1元数据复核",
+    "identity_verification": "0075 L11精确BV、L14标题、L15开讲；0074重复同页，身份明确。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把1-4与1-1的四种学术立场对应，但明确本课对象是市民社会里的意识形态：尤其“心理主义”指大众对心理学和内心的崇拜，不能直接等同心理学研究。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page1–4 / L15–28"
+      },
+      {
+        "text": "当代自然主义的四种目的姿态依次围绕和平、客观、宁静与蒙昧展开；讲者把它们读作压抑冲突、划分精英与俗人、以沉默调和、再把不可说神圣化的过程。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page5–10 / L31–46"
+      },
+      {
+        "text": "世俗人文主义一支从纵容、多元文化、环保到性解放；讲者解释它先处理包容与总体化的对立，再诉诸共同环境和身体内在自然，而未消除主体性矛盾。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page10–16 / L46–64"
+      },
+      {
+        "text": "心理主义一支以情绪稳定、正常/不正常、庸俗泛性主义及神秘女性本质排列。讲者批评把结构冲突都交给心理调节，并把精神分析大众化与不可反思的女性本质崇拜区分出来。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page17–26 / L67–98"
+      },
+      {
+        "text": "庸俗主义一支从占小便宜的顺从、追求强烈满足的粗俗、抽象求胜的竞争走向复仇；复仇部分以罪、耻辱、牺牲描述意义秩序崩溃，再把对牺牲的反思引到“存在还是不存在”的形而上学问题。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page27–34 / L103–126"
+      },
+      {
+        "text": "结尾明确体系用于把握意识形态而非穷尽一个人；人不能被完全压入分类，未被遮蔽的剩余使结构继续变化。讲者也区分记住编号与实际反思和抉择。",
+        "source_ids": [
+          "x13-clean-0075"
+        ],
+        "locator": "Page35–37 / L129–135"
+      }
+    ],
+    "editorial_notes": [
+      "此处正常/变态、女性性及疾病例子的说法是课程的意识形态批评语境，不是临床诊断、性别本质事实或对特定群体的定论。",
+      "复仇部分按理论转向概括，未将讲者的行动修辞转为伤害行为建议。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1Sp4y147je": {
+    "id": "BV1Sp4y147je",
+    "series_code": "2-3 复习",
+    "title": "2-3复习：我思如何调和形而上与形而下",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_identity_sample_matched_not_audio_verified",
+    "review_scope": "0144 L27复习标题＋0145 Page1–16全文；另用指定BV首尾各180秒本地ASR核对归属，中间未做音文逐段对齐。",
+    "identity_verification": {
+      "status": "opening_and_ending_asr_matched",
+      "previous_basis": "标题与序列推定，编纂文本未标精确BV",
+      "source_ids": [
+        "x13-identity-BV1Sp4y147je",
+        "x13-clean-0144",
+        "x13-clean-0145"
+      ],
+      "locator": "视频00:22.44–03:00、27:57.19–30:56.76；0144 L27–30、0145 L9–21及L78–86",
+      "finding": "独立取得指定BV音轨，首尾多段独特语句与编纂稿按相同次序对应；提高到片段文字匹配支持，不声称全时长逐字相同。"
+    },
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本课把我思形而上学说明为第一人称意识调和形而上与形而下的冲突；形而上被解释为背景符号秩序内部冲突在前台显现的症状。",
+        "source_ids": [
+          "x13-clean-0144",
+          "x13-clean-0145"
+        ],
+        "locator": "0144 L27–30；0145 Page1–2 / L9–18"
+      },
+      {
+        "text": "231至234看似一元、二元、多元及空缺的本体差异，讲者实际将其放在认识论：实体认识自己、我认识实体、我按预设安排认识自己、最后实体通过事物关系生成我。",
+        "source_ids": [
+          "x13-clean-0145"
+        ],
+        "locator": "Page2–7 / L19–50"
+      },
+      {
+        "text": "宇宙平等主义取消观察者的特权中心，把心灵理解为有限事物之间的关系；哥白尼去中心化被用作引子，科学关系由此获得本体论位置。",
+        "source_ids": [
+          "x13-clean-0145"
+        ],
+        "locator": "Page5–7 / L30–50"
+      },
+      {
+        "text": "讲者认为加桑狄把时空保留为上帝不改变的背景，与上帝可任意设定世界之间有内在张力；拆掉这一例外便引向24，把心灵和感觉也纳入运动及反作用。",
+        "source_ids": [
+          "x13-clean-0145"
+        ],
+        "locator": "Page8–11 / L56–67"
+      },
+      {
+        "text": "本课以斯宾诺莎的形式分析、笛卡尔我思、莱布尼兹不可知单子及加桑狄的时空/伦理热忱串联到康德；这是讲者的教学路线，未另证各项历史影响。",
+        "source_ids": [
+          "x13-clean-0145"
+        ],
+        "locator": "Page11–14 / L67–78"
+      },
+      {
+        "text": "结尾把我思在基督教三元结构中占据位置，解释为它将从一个本体上升为背景框架的准备，借此说明为何理解康德需要前面多个环节。",
+        "source_ids": [
+          "x13-clean-0145"
+        ],
+        "locator": "Page14–16 / L78–86"
+      }
+    ],
+    "editorial_notes": [
+      "编纂文本没有精确BV，最初按标题和序列推定；随后独立取得本BV音轨，首尾各180秒的ASR与本讲开头及结尾连续匹配。现按片段匹配支持同讲归属，仍非人工听校或全时长逐字一致。",
+      "对单子、物自体、加桑狄及基督教三位结构的比较均是课程解读，不能直接当作哲学史影响关系已验证。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1SP4y1a7Em": {
+    "id": "BV1SP4y1a7Em",
+    "series_code": "3-3 复习",
+    "title": "生存论复习：心灵、生命与尊严的本体论冒险",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_not_audio_verified",
+    "review_scope": "0232 L112开讲＋0233 Page1–13本讲全文",
+    "identity_verification": "0232 L112列精确BV与复习课标题，0233正文接续明确。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "复习按学术、宗教、政治、文学四种主导姿态重排33的四支，并指出各小支内部也可比较这些姿态；这是一套辅助理解课程结构的映射。",
+        "source_ids": [
+          "x13-clean-0232",
+          "x13-clean-0233"
+        ],
+        "locator": "0232 L112–117；0233 Page1–2 / L9–21、Page9 / L123"
+      },
+      {
+        "text": "331用《存在与时间》的海德格尔、萨特、梅洛庞蒂和晚期海德格尔分别说明学术分析、伦理决断、政治问题和诗性思维，强调各阶段文本的区别。",
+        "source_ids": [
+          "x13-clean-0232",
+          "x13-clean-0233"
+        ],
+        "locator": "0232 L112–117；0233 Page1 / L9–16"
+      },
+      {
+        "text": "332被解释为宗教意识下有限者中介绝对者的生存：克尔凯郭尔三阶段、荷尔德林以诗代思、别尔嘉耶夫建设共同体、雅斯贝尔斯哲学化解码。讲者把一度误叫尼采的第三人现场纠正为别尔嘉耶夫。",
+        "source_ids": [
+          "x13-clean-0233"
+        ],
+        "locator": "Page2–3 / L22–49"
+      },
+      {
+        "text": "333讨论同一与政治姿态：舍斯托夫抗争、雅各比接纳、晚年尼采复数化及金融投机的无目的自循环；复数化明确由讲者根据四份残稿推断，并非无争议定论。",
+        "source_ids": [
+          "x13-clean-0233"
+        ],
+        "locator": "Page4–6 / L55–92"
+      },
+      {
+        "text": "334以文学人物代作者和读者承受生存张力：陀思妥耶夫斯基的宗教、卡夫卡的无头科层、加缪对荒谬的双重反思、博尔赫斯在仍有时空主体等结构中组合本体论游戏。",
+        "source_ids": [
+          "x13-clean-0233"
+        ],
+        "locator": "Page6–9 / L93–123"
+      },
+      {
+        "text": "讲者提醒勿过早把社会再生产危机认作个人生存危机，并批评主体过度中心化；结尾从主体调和本体论的失败，转向结构主义的差异符号系统和新的主体发生问题。",
+        "source_ids": [
+          "x13-clean-0233"
+        ],
+        "locator": "Page9–13 / L123–143"
+      }
+    ],
+    "editorial_notes": [
+      "开讲口语曾省略共同前缀写3-1至3-4，正文清楚对应3-3-1至3-3-4；摘要按实际分支释明。",
+      "编纂文本中的梅洛庞蒂书名及“推荐四本”的计数不稳定，本摘要不把它们固化为校定书目；可另用已有正式书目检索。",
+      "生存论失败、疾病、粉丝和政治身份等评价按讲者课程立场处理，未作临床或传记因果判断。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1UF411b7Ls": {
+    "id": "BV1UF411b7Ls",
+    "series_code": "4-2 复习",
+    "title": "4-2复习：历史实践、继承与人民幸福",
+    "evidence_level": "community_compiled_text_read",
+    "body_status": "compiled_text_reviewed_not_audio_verified",
+    "review_scope": "0299 L39开讲＋0300 Page1–20全文",
+    "identity_verification": "0299 L39给出精确BV与4-2复习标题，0300接续。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把这次复习也称预习，借历史组织与实践说明42：421侧重合法化窗口，422侧重危机状态，423与424讨论国际组织和难以继承的实践；这些是课程分类而非现成史学分期。",
+        "source_ids": [
+          "x13-clean-0299",
+          "x13-clean-0300"
+        ],
+        "locator": "0299 L39–44；0300 Page1、4–6、16 / L9、L18–37、L81"
+      },
+      {
+        "text": "424前三种运动被概括为循环、对抗和回到中心的调和，并用S、T、M作代表；第四种无名实践被视为前三种极端显现共同的背景。讲者关于具体人物贡献的排名属于其历史判断。",
+        "source_ids": [
+          "x13-clean-0300"
+        ],
+        "locator": "Page1–3 / L9–15"
+      },
+      {
+        "text": "421与43的界限被说成历史上可变化：若43中负责调和的人民幸福被忽视，合法化诉求可能重新出现。讲者把“首先出现421”明确称为大胆揣测。",
+        "source_ids": [
+          "x13-clean-0300"
+        ],
+        "locator": "Page4–6 / L18–37"
+      },
+      {
+        "text": "对423与4242的比较强调历史条件改变：通信、支付与组织形式不同，不能把旧组织形式直接复制到新时期；本课现场将误说的4243纠正为4242。",
+        "source_ids": [
+          "x13-clean-0300"
+        ],
+        "locator": "Page9–11 / L60–66"
+      },
+      {
+        "text": "讲者批评过度依赖领袖个人思维、权威与关系的实践难以延续，并明确不建议强求重演那些高代价历史实验；其重点是个人经验与共同体继承之间的断裂。",
+        "source_ids": [
+          "x13-clean-0300"
+        ],
+        "locator": "Page11–14 / L66–75"
+      },
+      {
+        "text": "结尾把42保留为个人所理解的初心，把43中他人的幸福视作需在历史条件下不断判断的关系；认识论上的缓和、紧张、保障或无法兼顾不是固定状态。",
+        "source_ids": [
+          "x13-clean-0300"
+        ],
+        "locator": "Page18–20 / L87–102"
+      }
+    ],
+    "editorial_notes": [
+      "人物字母沿用课程，不据猜测填人名；人物贡献、制度合法性与历史成功失败均为讲者评价，本轮未逐件核原始历史档案。",
+      "本摘要记录组织史和理论判断，不把原讲中的动员修辞转写为现实操作方案。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-reviews-clean.json"
+  },
+  "BV1Eb4y1Q7tG": {
+    "id": "BV1Eb4y1Q7tG",
+    "series_code": "补充：芝诺悖论与时间观",
+    "title": "【十分钟哲学】芝诺悖论所对应的四种（或五种）时间观（结合【主义主义】2-1-2-4理解）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把四个悖论重读为几种时间体验：时间流过世界、朝向最终终点、通过与他物比较体验流逝，以及从当下区分过去和未来。这是哲学诠释，不是芝诺原论证的历史复原。",
+        "source_ids": [
+          "x13-root-BV1Eb4y1Q7tG-1"
+        ],
+        "locator": "第一部分L1–7"
+      },
+      {
+        "text": "阅兵台的比喻把“观察着流逝的当下”也放回流逝中：如果观察者同样变老，比较新旧状态就没有一个简单静止的外部支点。讲者用时间差异的加倍来描述这种困难。",
+        "source_ids": [
+          "x13-root-BV1Eb4y1Q7tG-1"
+        ],
+        "locator": "第一部分L7–12"
+      },
+      {
+        "text": "第二部分明确修改了第一部分对阿喀琉斯与乌龟的解释：花开花落可以被人跨越，真正用来说明不断延后的目标的是欲望，而不是一切易朽之物。",
+        "source_ids": [
+          "x13-root-BV1Eb4y1Q7tG-1",
+          "x13-root-BV1Eb4y1Q7tG-2"
+        ],
+        "locator": "第一部分L4–6；第二部分L1–5"
+      },
+      {
+        "text": "在欲望模型中，主体每次追到此前的目标，又重新设立未满足的目标；讲者把一直瞄准乌龟身后的位置理解为维持追逐的结构，而不是一个现实跑步事实。",
+        "source_ids": [
+          "x13-root-BV1Eb4y1Q7tG-2"
+        ],
+        "locator": "第二部分L5–8"
+      }
+    ],
+    "editorial_notes": [
+      "两部分均已读；第二部分是自我修正，不能只抽取第一部分的“易朽之物”解释。ASR中的飞食、圣域、实践性等同音误转不直接照抄成专有名词；原板书及数学推演未核。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-a.json"
+  },
+  "BV1TX4y157ry": {
+    "id": "BV1TX4y157ry",
+    "series_code": "摘录：四种表象",
+    "title": "【十分钟哲学】四种表象（讲解齐泽克《Ticklish Subject》第197-198页的一段，截取自【主义主义】的1-3-4）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "第一种把表象理解为偏离本体的假象，即感性留下的失真或剩余。讲者把它放在通常的前康德问题框架中，并非说整个康德哲学只有这一含义。",
+        "source_ids": [
+          "x13-root-BV1TX4y157ry-1"
+        ],
+        "locator": "L1–3、5–6"
+      },
+      {
+        "text": "第二种是符号身份产生的效力：普通人穿上法袍并处于法官位置，就呈现权威。讲者暂借representation说明，但随即承认该词和所忆原文未必准确。",
+        "source_ids": [
+          "x13-root-BV1TX4y157ry-1"
+        ],
+        "locator": "L4–9"
+      },
+      {
+        "text": "第三种把表象理解为本体可通过扰动、裂缝而显露的场所，用仁慈者面容中的神圣性作比喻。重点是表象的扭曲如何成为回溯解释的根据，而非证明发生了超自然奇迹。",
+        "source_ids": [
+          "x13-root-BV1TX4y157ry-1"
+        ],
+        "locator": "L10–16"
+      },
+      {
+        "text": "第四种讨论现象学的悬置：表象仿佛暗示背后还有某物，这种二重化本身需要被检视。讲者随后把所谓“本体性力量”收窄为否定性的运动模式，反对把它想成一个隐藏的实体力量。",
+        "source_ids": [
+          "x13-root-BV1TX4y157ry-1"
+        ],
+        "locator": "L17–23"
+      }
+    ],
+    "editorial_notes": [
+      "本课为摘录，依本条ASR核读。讲者将分类归于齐泽克，但其英文术语有明确迟疑；未核《The Ticklish Subject》所标页码或版本，不能将课程转述冒充该书逐字译文。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-a.json"
+  },
+  "BV1RZ4y1d7cH": {
+    "id": "BV1RZ4y1d7cH",
+    "series_code": "$-1复习",
+    "title": "【主义主义复习课】理念等级制（$-1）——从存有论临近本质论的终点的章法",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲回顾从定在、自为存在到量、定量、比例和尺度的推进；尺度的标准又显示任意性，因而进入无尺度、无差别等过渡问题。它是在回顾概念的内部运动，不是给存在物贴固定编号。",
+        "source_ids": [
+          "x13-root-BV1RZ4y1d7cH-1"
+        ],
+        "locator": "L2–5"
+      },
+      {
+        "text": "从无差别到本质时，反思看似退回内在，却又表现为外在于规定性；讲者借闪光、本质和根据说明反思的关系，并明确承认回顾次序中有记忆不清处。",
+        "source_ids": [
+          "x13-root-BV1RZ4y1d7cH-1"
+        ],
+        "locator": "L6–10"
+      },
+      {
+        "text": "根据并非无限因果回溯中终于找到的一个外部终点。讲者把无法穷尽的回溯与具体实存、自我根据的转变连在一起，并说明物自体、表象和世界的进一步展开。",
+        "source_ids": [
+          "x13-root-BV1RZ4y1d7cH-1"
+        ],
+        "locator": "L11–14"
+      },
+      {
+        "text": "本质联系中的内外两侧逐步显露为绝对者的矛盾，现实性此时仍带有本质论及绝对形式的限定；下一讲才继续现实、可能、必然和偶然的模态问题。",
+        "source_ids": [
+          "x13-root-BV1RZ4y1d7cH-1"
+        ],
+        "locator": "L15–22"
+      }
+    ],
+    "editorial_notes": [
+      "首行ASR长串重复“杠一”无法据以复原开篇。讲者L10承认次序记忆不清；此摘要只整理可读段落，不用标题补出缺失论证。此课与$-1正课保留不同BV身份。"
+    ],
+    "reading_links": [
+      {
+        "source_id": "d09-hegel-indifference",
+        "locator": "§785–793；课程ASR L8–10",
+        "reason": "本次重新核读这些段落。用质、量、尺度经否定而达到自我中介的论述，对照复习中从存在论转向本质的梳理；原文的indifference不是日常心理上的冷漠。",
+        "relation": "editorial_reading"
+      },
+      {
+        "source_id": "d09-hegel-reflection",
+        "locator": "§833–845；课程ASR L10–12",
+        "reason": "本次重新核读反思段落，尤其§836列出的设定、外在、规定反思；用来辨别课程中的回顾与讲者自承记忆不清处，不能把口头犹疑当成新的原典术语。",
+        "relation": "editorial_reading"
+      },
+      {
+        "source_id": "d09-hegel-absolute",
+        "locator": "§1162–1170；课程ASR L20–22",
+        "reason": "本次重新核读内外统一、绝对形式和绝对者自我展示，对照复习收束。这个对读限定在上述英文段号，未宣称核对中文译本页码。",
+        "relation": "editorial_reading"
+      }
+    ],
+    "batch_file": "13-extra-root-a.json"
+  },
+  "BV19Y411W7dj": {
+    "id": "BV19Y411W7dj",
+    "series_code": "4-3复习课",
+    "title": "【主义主义复习课】4-3：我心目中建设理想社会的次第和路径",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把4-3概括为生存、解放、发展、实现四个环节；开头曾把顺序说错，随即改正，不宜依据初次口误另立结构。",
+        "source_ids": [
+          "x13-root-BV19Y411W7dj-1"
+        ],
+        "locator": "L1–3"
+      },
+      {
+        "text": "每一环节都包含经济、政治、精神及组织方面，也同时包含进取与妥协。讲者把这一安排联系到《矛盾论》《实践论》的思维方式，发展环节则联系战略、战役、战斗层次。",
+        "source_ids": [
+          "x13-root-BV19Y411W7dj-1"
+        ],
+        "locator": "L3–7"
+      },
+      {
+        "text": "实现既指理想计划进入现实，也借再生产的含义说明运动怎样生产出继续活动的条件；妥协不是最后才出现，而贯穿前三环节。",
+        "source_ids": [
+          "x13-root-BV19Y411W7dj-1"
+        ],
+        "locator": "L8–11"
+      },
+      {
+        "text": "实现活动与既有生产关系在认识外观上可能难区分，讲者主张还须放回整个运动的目的和再生产结果中考察，不能只凭相似外观判为同一。",
+        "source_ids": [
+          "x13-root-BV19Y411W7dj-1"
+        ],
+        "locator": "L11、L16–20"
+      },
+      {
+        "text": "培育新人的目的论4意味着不替下一代固定目标，让新的历史力量自己涌现。结尾把4-3限定为个人的历史理解与概略判断，并把理想社会内部仍可能发生的异化问题引向4-4。",
+        "source_ids": [
+          "x13-root-BV19Y411W7dj-1"
+        ],
+        "locator": "L12–15、L21–27"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "正文开头与目录同指4-3复习课；编号口误与ASR混淆并存，尤其L12编号不稳定，按相邻L13的四三四四及完整论证理解为育新人段，不据转录串另建格位。全读ASR，未核原音或板书。"
+      },
+      {
+        "text": "讲者对现实、历史成就和群体的评价仅按其论证归属整理，不作为独立历史事实核验；未展开具体行动方案。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1W64y1x7mY": {
+    "id": "BV1W64y1x7mY",
+    "series_code": "3-1复习课",
+    "title": "【主义主义复习课】现象学（3-1）的四种主要形态和具体十六种现象学",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把现象学运动人为分作先验、实事、生活世界与在世四种方向，并明确承认这种划分相当生硬。先验现象学内部又用直觉、自我给予、本质差异及反思的主体间性描述不同着重点。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L1–9"
+      },
+      {
+        "text": "讲者把德里达的准先验辩证性理解为向先验主体性内部引入历史与发生问题，借此说明通往在世现象学的路径；这是课程的思想谱系重构。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L9–11"
+      },
+      {
+        "text": "对实事现象学的批评集中于本质还原：即使不采用先验还原，把直观差异视为原初分类仍可能固定本质框架，使他者只占有被预先安排的位置。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L11–15"
+      },
+      {
+        "text": "生活世界现象学为主体间性及他者开出空间，但讲者担忧其放弃先验严格性后，可能依赖未充分论证的术语或实在论工作假设；同时承认该方向研究范围丰富。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L16–22"
+      },
+      {
+        "text": "在世现象学通过时间性、世界与他者等问题推进开放性；讲者比较海德格尔、梅洛庞蒂、萨特和列维纳斯，但若干细节是在临场回忆中重述，不能作精确学说归纳。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L22–30"
+      },
+      {
+        "text": "结尾批评现象学仍易形成等级化存在论，并以德国观念论中派生环节反过来颠覆第一原则作对照，说明他为何认为辩证化会引向观念论、存在主义或结构主义。",
+        "source_ids": [
+          "x13-root-BV1W64y1x7mY-1"
+        ],
+        "locator": "L31–36"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "正文开头明确是3-1复习课，标题身份吻合。ASR反复把现象学写成信仰学、先验写成鲜艳、主体间性写成主体坚信；这里仅按稳定上下文整理，不声称已校成原音。"
+      },
+      {
+        "text": "L24–28讲者多次说记不得，列维纳斯的时间性、面孔及在场等细节应保留临场不确定性；摘要只记录比较路径，不把犹太身份等泛化评价当作学术解释。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1Rq4y1z7KD": {
+    "id": "BV1Rq4y1z7KD",
+    "series_code": "4-1复习课",
+    "title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分（4-1）若没有对应的实践单元则只是被豢养的文人学者",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "4-1被概括为理论家姿态，其总任务是政治、经济、意识形态三方面的联合批判。讲者按侧重点区分：411偏政治经济，412偏政治与意识形态，414偏经济符号秩序与意识形态，413尝试较全面的综合。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L1–11"
+      },
+      {
+        "text": "这些划分是临时的研究定位，不必等同人物终身身份；讲者用卢卡奇在不同历史条件下的理论与实践角色说明这种可变性，并把理论家工作联系到建制与知识体系的可能形成。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L6–10"
+      },
+      {
+        "text": "411的路径从现实中的劳动、产品与异化关系出发，说明学者怎样被现实问题推动成为理论家，再扩展到具体时政评论和跨地区理论协调。课程强调现实的引导作用，不把转变只归结为个人主观意志。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L12–24"
+      },
+      {
+        "text": "412着重理论活动的实践性：学习、写作和交谈必须回应现实问题，已有概念要在观察、应用和反思中调整。它被讲者看作与单纯论文发表或经费追求有别的理论工作姿态。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L25–34"
+      },
+      {
+        "text": "后两支被放在建制化与历史退潮的背景下比较。414尤其转向文化和意识形态批判，讲者将自己的齐泽克讲解也列入这一活动，并承认它与412的组织行动色彩不同。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L35–42"
+      },
+      {
+        "text": "结尾区分学者与理论家：理论家是具有共同思想与实践的派系内部的分工角色，不能仅凭掌握一套学术知识自认已经占有该位置；本讲关于当下可维持何种姿态的判断具有时代和立场限制。",
+        "source_ids": [
+          "x13-root-BV1Rq4y1z7KD-1"
+        ],
+        "locator": "L42–47"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "开头与目录同指4-1复习课，全读L1–47。ASR有姓名、编号及“影子化”“拍屏”等不稳定词；未据这些词补造专门行动术语，也未凭不清姓名确立历史事件身份。"
+      },
+      {
+        "text": "关于退潮、特定思想家及“我们这个时代”的政治判断均为讲者当时的观点，不能外推成当前事实；末尾领袖与理论能力关系同样属于课程规范判断。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1J14y157Er": {
+    "id": "BV1J14y157Er",
+    "series_code": "性化与主义主义答信",
+    "title": "【回应信件】一位对性化和主义主义有所误解的单亲母亲",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "来信询问单亲家庭、父亲隐喻、性化及教育之间的关系；讲者的主要回应是先区分理论层次，而不是由家庭成员配置直接推断儿童的性别或心理发展。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L1–6、L12–17"
+      },
+      {
+        "text": "在讲者采用的拉康式模型中，性化被解释为意识发生及主体结构的失衡；菲勒斯指一种主人能指的功能，不能简单理解为具体器官、父亲本人或某条日常禁令。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L6–22"
+      },
+      {
+        "text": "讲者区分sexuation与sexualization，强调前者不等于获得男性或女性的身份认同；身体审美、享乐方式与具体禁忌属于后续层次。中文术语在ASR中写法混乱，宜保留外文区分。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L16–24、L28–30、L37–41"
+      },
+      {
+        "text": "主体不是一个先已完成的心灵再被性化秩序加工，而是该符号机制运行的效果。讲者又把象征性阉割解释为完全享乐不可能与欲望发生的条件，而非取消既有欲望或真实身体损伤。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L25–36"
+      },
+      {
+        "text": "关于儿童是否已经处在sexualization中，讲者明确说自己的观点可能不同于主流。随后把《极简哲学史与拉康符号学》的后续工作指向既有《爱欲经济学》及《主义主义》视频，未提供新的完整文本附件。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L39–44"
+      },
+      {
+        "text": "答信后半明确说四个字头不是知识掌握量或学历等级，而关乎对根本秩序的实际姿态、反思以及参与实践的方式。讲者强调只会表述某种立场，不足以证明已经在现实中以该立场行动。",
+        "source_ids": [
+          "x13-root-BV1J14y157Er-1"
+        ],
+        "locator": "L45–51"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "这是目录标题所标的答信视频，正文也以回应信件开场，不是四维格位独立课程。来信者身份只来自讲者及标题，未独立核实。L44出现大量重复“教”，属明显转录异常；不据此补写缺失句。"
+      },
+      {
+        "text": "ASR将性化、性征化等写作“性真化/性生化”等；摘要按明确拼出的sexuation与sexualization区分，未核原音的中文定词。原讲关于意识唯一发生机制、动物及儿童内在性、病理与性别表现的强断言均未作临床或发展心理学认证，不能作为育儿建议或诊断。"
+      },
+      {
+        "text": "原讲含针对来信者、单亲身份和性别表现的贬抑或心理推测，本条不把这些推测当事实；性化结构的哲学解释不能支持由家庭结构或表现诊断个人。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1H64y1i72N": {
+    "id": "BV1H64y1i72N",
+    "series_code": "2-2复习课",
+    "title": "【主义主义复习课】前现代的辩证思维：辩证形而上学（2-2）四大类共十六种",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把2-2总称为前现代的辩证形而上学：借不同于日常反思的符号策略处理矛盾，并按佛教传统、道家传统、超验主义与原初哲学思维四个方向复习。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L1–3"
+      },
+      {
+        "text": "对221的批评是，离苦的伦理目标可能先规定分类，再把分类呈现为认识范畴；讲者质疑未经反思的第一人称报告能否直接声称普遍实相。这是其批判性模型，不是对各佛教传统的完整史料结论。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L3–14"
+      },
+      {
+        "text": "222被解释为对愚与智、欲望与反思的矛盾作不同处理。讲者以庄子的第一阶欲望与第二阶好恶区别作说明，随后又从现代精神分析立场批评纯粹第一阶欲望可能只是回溯性幻想。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L14–27"
+      },
+      {
+        "text": "223通过共同的形而上学调和共同体分裂，并比较循环、终结、节律和开放重复四种目的结构。爱默生的超灵共振和惠特曼的自由诗被用来说明后两种结构的差异。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L28–54"
+      },
+      {
+        "text": "224把中论、塔木德、新实用主义与惠施并列为反二元、拆解固定本体论的策略，同时按伦理热忱区分离苦、返回、扩大共同体及目的方向失效等不同结果。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L55–72"
+      },
+      {
+        "text": "结尾回到总论：讲者认为这些体系借形而上学空间中的反现实符号机制，依次取得本体论、认识论与伦理目的论的外观，意图缓和现实矛盾，却仍受支配秩序与自身利益的张力制约。",
+        "source_ids": [
+          "x13-root-BV1H64y1i72N-1"
+        ],
+        "locator": "L73–77"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "正文开场明确是2-2复习课。ASR姓名、佛教/道教词语及数字多处变形；L34–41宗派身份表达又有有意省略，故未按七/十二等片段推定具体宗派名称。全文已读，原音和板书未核。"
+      },
+      {
+        "text": "四支是课程比较框架，不能代替佛教、道家、犹太传统或美国超验主义的完整思想史；关于族群、信众和诗人层次的贬抑判断不作为事实。庄子欲望解释后的精神分析反驳已区分，不把两层说法合并为庄子原意。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1CL4y1W7hR": {
+    "id": "BV1CL4y1W7hR",
+    "series_code": "4实践复习课",
+    "title": "【主义主义复习课】4-实践",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把4字头的关键放在实践单元及其再生产能力：主体不再作为场域中的外在调和者，而被放入具体本体论过程；在44，问题进一步转为主体性如何发生。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L1–5"
+      },
+      {
+        "text": "41、42、43主要联系理论家、行动及建设的历史经验，44则设定一个不可能的未来乌托邦。其弱VR/弱AI模型用来讨论已摆脱某些经济异化后仍可能发生的异化及意识地位，不是对现有技术能力的报告。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L6–11、L33–37"
+      },
+      {
+        "text": "讲者反复要求理论工作有能维持活动的实践载体，并用办刊、会议及筹措资源作例子；他也明确说自己在许多情况下达不到这些条件，不能把掌握知识与实际占有实践位置混为一谈。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L20–29、L42–43"
+      },
+      {
+        "text": "课程把4的思想过渡联系到3444及穿越幻想，同时强调自立、现实承担和明确目的。关于单人实践单元在哪一格成立，讲者有当场改口，不能将初次编号直接当定稿规则。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L24–34"
+      },
+      {
+        "text": "对从理论侧进入41的人，本讲提出辩证法及现实政治经济材料研究的要求，并将后续黑格尔逻辑学、自然哲学和精神哲学系列放在这一学习背景中；它又明确区别直接参与行动或建设的角色。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L50–60"
+      },
+      {
+        "text": "结尾强调这一分类含有讲者明确的褒贬与划界，不是价值中立的学科目录；对历史与未来之间的现实路径，他也承认不能由模型预先给出。最后仍为普通劳动者保留若干位置，不能把本讲的激烈措辞变成知识或人格等级的客观量表。",
+        "source_ids": [
+          "x13-root-BV1CL4y1W7hR-1"
+        ],
+        "locator": "L62–79"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "开头与目录明确相合，为4实践总复习。ASR中的“时间单元/实践单元”“四字头/狮子头”及若干缩写反复混淆；只根据稳定上下文归纳。L26–27与L34有自我更正或记忆不清，不据此新增正式格位规则。"
+      },
+      {
+        "text": "弱AI、VR与未来人性的讨论是讲者明确承认的自拟思想实验，非技术预测验证。关于实践资格、年龄、阶层和受教育者的贬抑判断，是讲者的规范立场，不是对观众能力或人格的已证判断，也不是本资料库给读者设置的门槛。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV15v411A7nX": {
+    "id": "BV15v411A7nX",
+    "series_code": "3-4符号学复习课",
+    "title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学（3-4）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲以共时性和差异性为结构主义基本原则，并按人类学、主体/心理学、叙事/社会学、知识学四个阶段，比较列维-斯特劳斯、早期拉康、巴特和福柯怎样给符号结构增加纵深。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L1–19"
+      },
+      {
+        "text": "讲者认为知识考古必须说明冲突、记忆和档案能力的条件，而不能从外部预设另一个中立字母表。把结构主义贯彻到底，也必须反思其自身对共时场和结构的本体论预设，从而引向后结构主义。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L20–34"
+      },
+      {
+        "text": "342被重述为阿尔都塞提出意识形态与科学的区分、以《资本论》的结构性阅读回应矛盾，再由中期拉康、巴迪欧、齐泽克和克里斯蒂娃分别展开主体、真理与实践问题；讲者同时批评把无头主体性过度具体化为经验性身体意象。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L35–65"
+      },
+      {
+        "text": "343被放在尼采永恒轮回的最小本体论和差异辩证法的问题中比较：德里达、德勒兹、巴塔耶与克罗索斯基采取不同更新机制，而利奥塔取消这种最低公共叙事。此处是课程的比较重构，不是这些作者自认共享同一理论。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L66–90"
+      },
+      {
+        "text": "344转向时间距离、问答与视域融合：理解历史答案要求重建其问题，同时改变自身视域。由利科、经典精神分析与语言游戏，讲者进一步走向对资本主义的精神分析，关注无意识符号结构如何生产主体性、客观性及剩余。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L91–112"
+      },
+      {
+        "text": "结尾明确说其分类采用拉康化、齐泽克化的黑格尔辩证法，以连接爱欲经济学与政治经济学；多数思想家不自认属于这个总体系。最小符号单元本身也依赖历史语境，不能把符号学基础视为无需反思的现成常数。",
+        "source_ids": [
+          "x13-root-BV15v411A7nX-1"
+        ],
+        "locator": "L113–128"
+      }
+    ],
+    "editorial_notes": [
+      {
+        "text": "开头直接标3-4符号学复习课，与目录标题吻合。ASR全文L1–128已读；“共识性/共时性”“福奥学/符号学”“事与融合/视域融合”等多处误识别，L20出现大片重复词，原句不可据此可靠复原。摘要不使用该异常部分推导新增论点。"
+      },
+      {
+        "text": "讲者多次承认记不清叙事分层、术语、姓名或年代，尤其L61明说有关人物是否活到某时有临场猜测；思想影响链与具体年代未独立核验。对阶层、宗教或思想家动机的评断只是其立场。"
+      },
+      {
+        "text": "末尾用普朗克量比喻最小符号单元，未作物理学事实认证；摘要保留历史语境与单元建构论点，不据比喻宣称物理上存在统一的最小物质量。"
+      }
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-b.json"
+  },
+  "BV1cy4y1E77f": {
+    "id": "BV1cy4y1E77f",
+    "series_code": "准备课：哲学的二阶论域",
+    "title": "【主义主义】哲学的二阶论域：进入形而上学的准备工作（四种形而上学的由来）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者先调整阶次的参照：意识形态相对前反思意识本已是二阶，这一课又把意识形态当作待反思的一阶对象，通过论域加倍进入哲学。这里的一阶、二阶是相对的分析层次，不是始终固定的等级名称。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L1–8"
+      },
+      {
+        "text": "场域论与本体论的交叠被称为空间性：背景秩序要通过空间成为可呈现的存在，本体也要借助场域才能在场。讲者同时解释把宇宙论改叫场域论，是为了避免与物理宇宙学及宗教宇宙论混淆。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L5–11"
+      },
+      {
+        "text": "场域论与认识论的交叠形成主体性，表现为内在视域及经验的敞开。背景秩序要进入可认识的经验、经验又要被把握为一个场域，都需要主体居间；讲者特意说此处不是拉康意义上的主体。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L11–17"
+      },
+      {
+        "text": "场域论与目的论的交叠被解释为时间性：背景秩序要实际展开自身运动，须经过本体与认识的阻隔、付出延缓和差异的代价。空间规则和主体经验的介入共同说明这一展开并非立即完成。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L18–34"
+      },
+      {
+        "text": "本课将2-1在场形而上学、2-2辩证形而上学、2-3我思形而上学分别关联空间性、时间性和主体性，并以几何思辨、言说中的转化及内心探索说明其方法差异。2-4反形而上学与客体性的对应则仍以大概率、不确定的口吻提出。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L35–49"
+      },
+      {
+        "text": "末尾把经验主义、实证研究及某些科学家的哲学反思列为2-4的候选，强调科学与科学主义不能直接等同。六种二阶概念的后续专题在本课只是预告，并未全部完成论证。",
+        "source_ids": [
+          "x13-root-BV1cy4y1E77f-1"
+        ],
+        "locator": "L29–31；L44–54"
+      }
+    ],
+    "editorial_notes": [
+      "ASR把场域论、二阶论域等多次识别为常狱论、二阶论语；按连续上下文整理，不据这些错字增添概念。",
+      "物理学例子只记录其解释作用，未核其科学准确性。2-4对应及人物放置是本课当时的规划，不作为后来最终格位的唯一依据。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1gi4y1T7yg": {
+    "id": "BV1gi4y1T7yg",
+    "series_code": "复习：1-3十六种庸俗唯我论",
+    "title": "【主义主义】复习课：十六种庸俗的唯我论",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把四格暂时分成较体现实体的场域/本体两侧和较体现主体的认识/目的两侧，又用背景与前景关系对应场域—认识、本体—目的。他明确这只是矩阵读法，不能据此认定实体与主体彼此隔绝。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L1–14"
+      },
+      {
+        "text": "在1-3的十六种具体姿态中，本课优先提取四个目的论为3的格位：现实唯心主义、现代新柏拉图主义、排他集体主义、唯美主义；用暴力、爱情、厌恶、审美享乐概括其不同的中心化方式。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L15–20"
+      },
+      {
+        "text": "这些姿态共同面对主体性的剩余：主体用自身调和语言与体验，却仍感到某种在自己之中、又不完全是自己的欲望。讲者据此归纳否认/压抑、对抗/投射、排斥/宣泄、向既有性化审美秩序妥协四种策略。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L21–40"
+      },
+      {
+        "text": "爱情被解释为一种可能撕开唯我论的关系：必须分辨爱的是他人的主体性，还是自己心中的幻象。这个口子难以持续，讲者把爱情受挫后的犬儒和不敢进入关系的智者姿态视作两种退却。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L41–48"
+      },
+      {
+        "text": "排他集体主义通过共同排斥一个被妖魔化的对象形成我们，与直接预设所有人同一意志的否认策略不同。随后的人称分析把大他者、第二人称的你、排斥形成的我们，以及性化秩序中的第三人称角色联系到这些机制。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L49–65"
+      },
+      {
+        "text": "结尾鼓励从他心问题检验唯我论，并说明政治、爱、厌恶和审美并非各只占一个格子：它们可以在不同格位交叉出现。讲者把选择代表理论的标准说成能否显示更强的反思张力，而非一套自动套用的公式。",
+        "source_ids": [
+          "x13-root-BV1gi4y1T7yg-1"
+        ],
+        "locator": "L66–73"
+      }
+    ],
+    "editorial_notes": [
+      "ASR中的唯我、唯心、唯意志等词与编号有多次误识或口误；本摘要使用邻近完整语句确认四个重点格位，不据零散数字另立新分类。",
+      "L31把小他者与客体小a说得很含糊，并主动表示暂不区分；这不是已核拉康术语规范。人称/性化说明是讲者的理论类比，未据此推断现实人的人格或性别本性。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1jb4y1n7jt": {
+    "id": "BV1jb4y1n7jt",
+    "series_code": "复习：从虚假的体系走向真正的体系",
+    "title": "【主义主义】复习课：从虚假的体系走向真正的体系",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本课把四字头实践之后的下一步界定为不预设场域的本体论探索。讲者要求返回成熟哲学文本，而不是继续把所有思考塞回原来的数字格位；主义主义在这里被他主动降格为准备性的、尚不具真正体系性的工具。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L1–4；L30–32；L42–45；L130–131"
+      },
+      {
+        "text": "讲者把《大逻辑》放在这一路径的中心，认为它提供概念环节与运动的范本，能帮助定位现代哲学的问题。其关于后世哲学大多已被黑格尔预先包含的判断，是本讲明确的评价立场，并非已经完成的哲学史证明。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L4–19；L104–109；L137–140"
+      },
+      {
+        "text": "阅读路径由《逻辑学》走向《资本论》，《精神现象学》《法哲学原理》及《存在与时间》等被考虑为中介。他希望把逻辑环节与现代资本、金融和生产关系中的对应机制相联系，以继续政治经济学研究，而非只复述已有结论。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L13–29；L85–92"
+      },
+      {
+        "text": "具体方法是逐句梳理语法、术语和环节转化，以英文阅读并在疑点处对照德文，再将哲学理解转成现实例子。理论讨论应能指出哪个环节卡住、如何运动和转化；他也承认自己对现代经济金融及内部数据的掌握有限，需要继续学习。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L17–25；L56–64；L69–70；L80–81；L128–129"
+      },
+      {
+        "text": "本课把这项工作描绘为持续多年的理论实践，并反复要求学习者先保障学业、生计、家庭和对身边人的责任。年龄、阅读数量、工时与年限是讲者的个人估计和劝退尺度，不构成经验证的能力测量或统一入门资格。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L33–39；L50–58；L76–97；L109–115；L125–127"
+      },
+      {
+        "text": "最终目标是使理论成为实际生命活动和共同体研究的一部分，尝试形成能分析生产与主体生成的通用符号学。讲者将自己的视频定位为公开记录、逐句导读和提供方向，并以学习演奏的比喻说明：先严密掌握已有体系，再开展独立研究。",
+        "source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "locator": "L20–27；L43–47；L82–84；L118–124；L132–145"
+      }
+    ],
+    "editorial_notes": [
+      "ASR把《逻辑学》《资本论》《存在与时间》及本体论、场域论等反复错识；摘要只用上下文可确认的书名和概念，不把未辨清的外文短句作引文。",
+      "本课包含对哲学家、研究者与听众的强烈评价和能力排序；这里只保存论证路径及其限定，不认可其人格贬斥或把天分、年龄、书量视为客观准入标准。",
+      "彻底消除实践盲目性、后世哲学已被黑格尔覆盖等属于讲者研究理想或理论判断，尚非已完成成果。关于思想家的生平、家庭及经济史例子本批未独立核实。"
+    ],
+    "reading_links": [
+      {
+        "source_id": "d09-hegel-reflection",
+        "relation": "editorial_reading",
+        "locator": "《逻辑学》本质论反思节，§833–859：设定的反思、外在反思与规定的反思",
+        "reason": "本课L24明确把这三种反思之间的衔接和断裂列为需要研究的例子；此处提供可对照的实际段落，不把本课的纲领性评价当作原典结论。",
+        "evidence_source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "evidence_locator": "ASR L24–25",
+        "verification_scope": "复用09-dollar-readings已核§833–859，本批重读的是课程全文；未新增宣称原典全书审定。"
+      },
+      {
+        "source_id": "b01-marx-capital-commodity-zh",
+        "relation": "editorial_reading",
+        "locator": "第一卷第一章第1节使用价值与价值的开头区分；第4节商品拜物教开头",
+        "reason": "本课L21–29、L85–92要求把逻辑研究推进到资本范畴与现实社会关系；以已核商品章局部作为对读入口。具体章节由编辑选择，不能说讲者在本课逐节引用了它。",
+        "evidence_source_ids": [
+          "x13-root-BV1jb4y1n7jt-1"
+        ],
+        "evidence_locator": "ASR L21–29；L85–92",
+        "verification_scope": "复用01-readings已核局部，不代表本批通读《资本论》或验证现代金融对应。"
+      }
+    ],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1oh411u7Ak": {
+    "id": "BV1oh411u7Ak",
+    "series_code": "项目介绍：工益网站功能与内测",
+    "title": "【工益项目】主义主义工益网站的新功能以及内测情况介绍",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "视频介绍的是当时仍在内测的信息公示网站：用于展示小组、成员和活动，尚不开放外部注册，且讲者明确说没有论坛。它主要被定位为带博客性质的公示服务。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L1–3；L10"
+      },
+      {
+        "text": "小组通过联络员推荐录入志愿者，可以填写简介、联系方式及活动记录；记录再由联络员认可。讲者同时展示或说明财务明细、票据及历史活动，以使参与和支出较可追溯。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L4–8；L12–13"
+      },
+      {
+        "text": "推荐票撤回、反对和投诉被描述为基本监督机制，成员与联络员都可能受到质疑。讲者把平台的角色限定为信息公示、协调与问题反馈，说明各小组独立自治，出现在平台上不等于获得唯一正统地位。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L11–21"
+      },
+      {
+        "text": "内测接入包含现实见面了解、身份核验和小组构成等条件；后续扩大测试仍被说成有待协商和完善的计划。视频中的人数上限、推荐票额度与参与门槛是当时规则，不能直接当作现行平台政策。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L7–11；L22–24；L39–40"
+      },
+      {
+        "text": "关于支持小组起步，讲者提出倾向提供推车、服装、厨具或食品等物资，而不直接给现金，并要求不得转卖谋取经济利益。利用销售利润支持这些物资只是当时考虑中的安排，比例尚未确定。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L24–29；L35–36；L41"
+      },
+      {
+        "text": "创意工坊、文创生产协助、简介悬浮展示、可能的交友功能及集中回信模块都被作为未来设想提出。课程强调小组逐步成长和继续监督，未证明这些功能后来上线或持续运行。",
+        "source_ids": [
+          "x13-root-BV1oh411u7Ak-1"
+        ],
+        "locator": "L29–43"
+      }
+    ],
+    "editorial_notes": [
+      "这是项目演示/说明，不是哲学分类正文；仅记录视频当时的说法，未访问网站验证当前功能、人员、财务或运营状态。",
+      "未核原音与屏幕。ASR中的“公事/公式”按语境读作公示，“自制”读作自治；域名、人名、财务数字及具体名册不据机器转录扩散或认证。",
+      "对联络员、参与年龄、学生比例和公开姓名的表述有口头调整，不能据本摘要形成正式章程。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1pv411K7oX": {
+    "id": "BV1pv411K7oX",
+    "series_code": "复习：3-2德国观念论运动",
+    "title": "【主义主义复习课】回顾整个德国观念论运动（3-2）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把德国观念论的主线概括为从有限推向无限：以第一人称观念的内在性、明证性和可理解性反推世界的根本结构，辩证法处理其中断裂。康德的批判工作则先被定位为审查知识生产合法条件的方法论。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L1–15"
+      },
+      {
+        "text": "康德之后的批判哲学支线在本课依次涉及怀特海、柯亨和卡西尔。讲者把它们分别解释为仍停留在观念论内部的过程取向、以无穷小连接存在与认识的先验逻辑主义，以及以人的符号实践形成符号空间但仍有先验分类局限的符号形式主义。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L15–26"
+      },
+      {
+        "text": "费希特知识学被概括为从自我生成推出非我与世界；晚期费希特则使主体成为绝对者自我认识的中介。早期谢林的先验观念论被放在这一演绎的扩展位置，詹姆斯和早期维特根斯坦也被讲者作结构上的比较归类。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L27–32；L45–53"
+      },
+      {
+        "text": "本课把晚期费希特与成熟/晚期谢林的重要差异放在绝对者能否自己中介自己：后者的收缩尝试被解释为失败，并转向有限主体的中介。由此论域从理念与表象的构造，转向前符号化存在及世界如何进入符号化的问题。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L33–44；L54–64"
+      },
+      {
+        "text": "谢林之后的比较重点是如何处理内在张力：作为观念论者的齐泽克被说成保持对抗，晚期海德格尔用天命调和，耶拿黑格尔给出开放回答。随后讲者从黑格尔转向阿多诺的否定辩证法、马尔库塞以艺术和爱欲重新闭合的处理，并当场纠正了把马尔库塞说成阿尔都塞的口误。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L65–74"
+      },
+      {
+        "text": "阿尔都塞所传授的意识形态学被用来标示本课的终点：有限主体可能已由话语塑造，因此自以为中介无限的认识，也可能在中介另一个有限者制造的框架。讲者借此解释观念论为何需要转向后续生存论、符号学和实践，而不是把这些后续运动看成毫无关联。",
+        "source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "locator": "L75–90"
+      }
+    ],
+    "editorial_notes": [
+      "本课结尾L87明确这是讲者一派对观念论的把握；怀特海、詹姆斯、维特根斯坦等人的放置属于比较性重构，不是已核实的直接师承史。",
+      "L2从绝对认识论标准改为方法论功能；L69把有限者/绝对者改为两种原初力量；L74纠正阿尔都塞为马尔库塞，摘要采用修正后表述。",
+      "ASR中书名及Eidos/Nous等外文、若干编号不稳定；未核原音和板书，不据不清编号补新格位。梅洛-庞蒂书名等临时提及未据转录新增书目。"
+    ],
+    "reading_links": [
+      {
+        "source_id": "b01-kant-cpr-meiklejohn-en",
+        "relation": "editorial_reading",
+        "locator": "1787年第二版序中现象、物自身及经验界限段；Introduction VII定义transcendental段",
+        "reason": "对照本课L2–15关于批判方法、知识合法条件和认识有限性的概括，区分康德自述与讲者从有限推无限的整段重构。",
+        "evidence_source_ids": [
+          "x13-root-BV1pv411K7oX-1"
+        ],
+        "evidence_locator": "ASR L2–15",
+        "verification_scope": "复用01-readings已核两处正文；本批未把复习课的整个德国观念论谱系当作原典已证实。"
+      }
+    ],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1r14y1s75s": {
+    "id": "BV1r14y1s75s",
+    "series_code": "项目追踪：临时站点与首批项目公示",
+    "title": "【项目追踪】主义主义网站（临时站点）目前的功能：首批项目内容的简单公示",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "视频把当时的临时站点定位为测试网站，首要用途是公开首批公益项目。讲者说家园改造已完成，伙食改善尚待启动；这两者属于不同子项目，不能把准备中的安排写成已经执行。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L1–4；L13–20"
+      },
+      {
+        "text": "现有页面被描述为列出参与者及劳动时间、活动日志和部分支出。讲者同时承认工时登记粗略、项目尚未细分为更小任务，材料、报销和自费支出也没有全部列齐，因此这些展示不是完结审计。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L4–13"
+      },
+      {
+        "text": "伙食改善拟按当时的中秋节点启动并定期继续，服务对象是孩子，讲者明确不向家长另收费。后续经费设想包括从食品销售收益中取出一部分，但本课未呈现其后实际持续情况。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L14–20"
+      },
+      {
+        "text": "用户注册后把支持者显示为具体用户名、增加项目标签及纪念勋章，是尚待开发的设想；勋章能否转让及社群意义也仍未确定。讲者说已公开参与者大多经过本人同意，但本批没有独立核实授权记录。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L21–24"
+      },
+      {
+        "text": "网站开发被看作持续项目，讲者还设想视频搬运、字幕、主义主义百科，以及《逻辑学》《资本论》的体系化资料。社区交流、活动公示、协调和分配不同权限等也属于扩展方向，并非本视频已经演示完成的功能清单。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L25–29"
+      },
+      {
+        "text": "结尾说明票据截图、支出填报和后续更新仍在逐步补齐，并要求不要把测试站当作高频更新的平台。所述域名调整及未来主站安排应作为历史计划保存，不能据口头域名推定今天可访问的正式站点。",
+        "source_ids": [
+          "x13-root-BV1r14y1s75s-1"
+        ],
+        "locator": "L30–33"
+      }
+    ],
+    "editorial_notes": [
+      "项目名和域名在机器转录中有不稳定识别；本文不据ASR建立可访问网址或校正人员姓名。",
+      "本批未核听原音、查看网页画面或复核财务凭证，仅摘要视频当时的说明；金额、工时和完成度不得视作审计结果。",
+      "注册邀请、社群权限、纪念勋章及百科功能均有未来时态，未当作已上线事实。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1zB4y1K7m9": {
+    "id": "BV1zB4y1K7m9",
+    "series_code": "复习：1-2四种自以为超越的形而下学",
+    "title": "【主义主义复习课】四种自以为“超越”的形而下学（1-2）",
+    "evidence_level": "secondary_course_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本课用宗教实在论概括1-2的共同结构：创造者与被造者虽然地位不同，仍被放在一个被预设为整全的场中。高低位面、灵性路径和等级上升因此未必构成对背景秩序本身的反思。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L1–11"
+      },
+      {
+        "text": "创造论首先把万物看作依照创造者秩序存在；当善恶、灵魂、身体和伦理地位是否也被创造等问题逐渐显露，原先理所当然的秩序受到压力。讲者用这种内部问题说明向认识论分裂推进的路线。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L12–16；L23–25"
+      },
+      {
+        "text": "偶像崇拜在本课中意味着从经验中追寻神圣力量留下的现象线索；时间崇拜又被连接到长生追求。唯灵论则使人试图主宰生命体验，却仍把自己安置在既定灵性等级中，未必改变其所预设的本体地位。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L15–19；L26–28"
+      },
+      {
+        "text": "讲者把唯灵论的弃绝姿态接到反偶像崇拜：放弃对经验的期待后，可以变成宿命式听任，也可以等待弥赛亚式救赎。救世期待被说明为处理创造者是否正义的一个办法，属于本课构造的概念关联。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L28–34"
+      },
+      {
+        "text": "1-1与1-2的区别被简化为眼见为实与对超经验力量的信服，但二者仍可共享未反思的背景。与之相比，二字头会把凡俗与超越的秩序都作为背景性秩序来比较、让它们发生竞争，并主动构造解释框架。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L35–43"
+      },
+      {
+        "text": "结尾把这些类型理解成现代仍会同时出现的历史结构：历史没有只留下单一终点，不同环节会重新嵌套于当下。复习的用途因此是识别结构，而非仅按时代先后排列思想。",
+        "source_ids": [
+          "x13-root-BV1zB4y1K7m9-1"
+        ],
+        "locator": "L44–47"
+      }
+    ],
+    "editorial_notes": [
+      "本课对宗教实践、超越和形而上学的评价属于讲者分类框架，不是对所有信仰者反思能力的经验调查。",
+      "ASR把宗教实在论、唯灵论、弃绝、救世等反复错识，且L32–34编号与记忆有犹疑；摘要保留可确定的概念联系，不据模糊编号推出新的子格映射。",
+      "创造论到其他分支的连接是课程构造的逻辑路线，并未独立验证为具体宗教史的普遍发生顺序。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-root-c.json"
+  },
+  "BV1YZ4y1F7z1": {
+    "id": "BV1YZ4y1F7z1",
+    "series_code": "番外：从形而上学到观念论",
+    "title": "【主义主义番外】我思、主体性、认识论、先验转向：如何超越形而上学（2） 走向观念论（3）简述笛卡尔、康德的哲学史地位",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–32已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者把笛卡尔的我思放回经院神学内部的张力中理解，认为现代哲学的出现包含继承和改造，而非突然清除全部旧问题；他建议读《第一哲学沉思集》时先理解其论证环境。",
+        "source_ids": [
+          "x13-special-BV1YZ4y1F7z1"
+        ],
+        "locator": "L1–5"
+      },
+      {
+        "text": "从两种背景秩序的冲突转向主体性中介，是本讲说明2到3的主线。认识论取得独立地位，意味着判断与认识活动不再只是既定神学秩序的附属环节。",
+        "source_ids": [
+          "x13-special-BV1YZ4y1F7z1"
+        ],
+        "locator": "L6–9、L18–24"
+      },
+      {
+        "text": "本讲反对把观念论简单看成争夺某一最高实体位置的唯心主义；在讲者的框架中，观念论关注使经验与超越问题得以出现的先验条件与操作方式。",
+        "source_ids": [
+          "x13-special-BV1YZ4y1F7z1"
+        ],
+        "locator": "L14–21"
+      },
+      {
+        "text": "康德的作用被描述为让纯粹理性同时审查两种背景秩序的有效性要求：经验领域的普遍必然性与超越对象不可直接认识的限度被区分，实践理性另行承担其要求。",
+        "source_ids": [
+          "x13-special-BV1YZ4y1F7z1"
+        ],
+        "locator": "L22–28"
+      },
+      {
+        "text": "讲者短暂展望从3到4：辨认主体投射出的理想自我及其构成代价，才可能穿越幻想。这是课程的精神分析式过渡提示，结尾明确将详细讨论留待后续。",
+        "source_ids": [
+          "x13-special-BV1YZ4y1F7z1"
+        ],
+        "locator": "L10–13、L29–32"
+      }
+    ],
+    "editorial_notes": [
+      "ASR中的我思、康德、先验、符号学等多处同音错字按明确上下文转述；没有复原缺失板书箭头。",
+      "社会阶层与哲学史谱系为讲者解释，不等于原典已经证明该模型。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-a.json"
+  },
+  "BV15M4y1L7ek": {
+    "id": "BV15M4y1L7ek",
+    "series_code": "番外：生存论之后继续思考",
+    "title": "【主义主义番外】不要从生存论（3-3）走向某些错误的终点，要保持思考，构造体系",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–36已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲反对仅凭生存焦虑或个人姿态直接建构政治意识形态，建议拓展所读的生存论思想，而不把现代性的危机固定成唯一身份。",
+        "source_ids": [
+          "x13-special-BV15M4y1L7ek"
+        ],
+        "locator": "L1–3、L12–13"
+      },
+      {
+        "text": "讲者主张生存论可以重新走向体系建构和智性劳动，并借自己对晚期尼采及海德格尔读法的理解作说明。该例证的传记、年代与病因并未在本讲独立证实。",
+        "source_ids": [
+          "x13-special-BV15M4y1L7ek"
+        ],
+        "locator": "L4–10、L23–25"
+      },
+      {
+        "text": "有限性与可理解性被紧密联系：生成的力量必须自我限制，思想和符号化努力则看护现实创伤及不能完全消除的剩余；因此不应轻易放弃思考。",
+        "source_ids": [
+          "x13-special-BV15M4y1L7ek"
+        ],
+        "locator": "L14–20、L28–30"
+      },
+      {
+        "text": "学习历史体系的失败，是为了建立和检验自己的体系，而不是依附讲者或某个理论权威。本系列被定位为启发性的入门与方法训练。",
+        "source_ids": [
+          "x13-special-BV15M4y1L7ek"
+        ],
+        "locator": "L20–23、L33–35"
+      },
+      {
+        "text": "结尾把思想建构重新联系到现实的异化、团结和实践，反对无底线的失序与过早停留在单纯否定上，并把这种劝说与后续3-3-4分支的学习相连接。",
+        "source_ids": [
+          "x13-special-BV15M4y1L7ek"
+        ],
+        "locator": "L30–36"
+      }
+    ],
+    "editorial_notes": [
+      "不根据含糊代称推测或点名批评对象。",
+      "原ASR涉及尼采病因等未经验证的医学/传记推测，以及以精神疾病词汇作贬义比喻；导读不将这些说法当作诊断或事实。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-a.json"
+  },
+  "BV1Ei4y1N712": {
+    "id": "BV1Ei4y1N712",
+    "series_code": "番外：佛教与道家哲学的时间性",
+    "title": "【主义主义番外篇】佛教哲学与道家哲学的根本差别（从2-2-1到2-2-2）：为什么佛教哲学是一种在场形而上学残余",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–75已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲用时间性的处理方式比较课程中的2-2-1与2-2-2：前者被讲者描述为以刹那切开连续实存，后者则把否定性理解为能够产生变化的力量。比较对象是课程选取的思想结构，不能据此涵盖所有佛教或道家传统。",
+        "source_ids": [
+          "x13-special-BV1Ei4y1N712"
+        ],
+        "locator": "L1–8、L34–35、L51–59"
+      },
+      {
+        "text": "讲者把共时的关系网络与跨时态存在区分开：若事物只靠当下相互差异获得规定，其过去、现在、未来的统一就难以获得说明。他据此批评把在场从本体论撤下后仍保留为唯一认识论视域。",
+        "source_ids": [
+          "x13-special-BV1Ei4y1N712"
+        ],
+        "locator": "L9–25"
+      },
+      {
+        "text": "对唯识的批评集中在种子、阿赖耶识及自证结构：讲者承认自我设定包含否定性，却认为以容器或共时结构维系它，会再次引入原先想排除的实体化前提。",
+        "source_ids": [
+          "x13-special-BV1Ei4y1N712"
+        ],
+        "locator": "L26–31、L35–43"
+      },
+      {
+        "text": "时间模态又关联到伦理：可能、必然、选择和责任需要变化的余地。讲者认为若以纯粹共时差异消除时态，原本靠智慧破除无明的伦理计划会受到困难；这是他的批判推论。",
+        "source_ids": [
+          "x13-special-BV1Ei4y1N712"
+        ],
+        "locator": "L43–50"
+      },
+      {
+        "text": "后半以《太一生水》为例，将水、阴阳和四时解释为时间生成及分化的隐喻，并以“名”的空间化把握对照自然流动。这样的前本体论读法属于讲者的现代重读，不是古籍字面的唯一训释。",
+        "source_ids": [
+          "x13-special-BV1Ei4y1N712"
+        ],
+        "locator": "L51–71"
+      }
+    ],
+    "editorial_notes": [
+      "阿赖耶识、唯识、共时、时态等ASR误识已按上下文谨慎转述；L61明显重复识别不作为论据。",
+      "对宗教传统的成败评价及传入史猜测属于讲者立场；摘要不认证其部派学说、译词词源或族群历史判断。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-a.json"
+  },
+  "BV1JT4y1K7dp": {
+    "id": "BV1JT4y1K7dp",
+    "series_code": "总纲",
+    "title": "【主义主义】哲学意识形态大全-总纲",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–109已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本系列首先被定位为具有明确左翼取向的入门训练。四个格位分别询问背景框架、其中何者真实、主体如何感知以及整体运动或伦理方向；场域不是简单的物理空间。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L1–11"
+      },
+      {
+        "text": "四个数字表示四种结构运动：1是同一和循环，2是二元对抗，3是通过中心或中介调和，4是内在不一致、虚无及敞开。讲者当场修正了2的说法，并提醒后续比喻不如这四种运动定义重要。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L12–28"
+      },
+      {
+        "text": "第一格进一步划出四类：以稳固背景为前提的实在论、承认背景分裂的形而上学、把主体性提升为中介的观念论，以及通过实践开放并重构场域的第四类。课程把这些结构与社会位置作类比，而非单纯按年代划分。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L29–44、L59–78"
+      },
+      {
+        "text": "两类背景秩序的斗争，以及主体为何不只是其中的棋子，是讲者说明2到3的核心问题。其关于观念论的说明强调意识的中介地位，不等同于宣称个人心灵任意创造世界。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L45–69"
+      },
+      {
+        "text": "按四层、每层四种选择，目录可有4、16、64、256个节点，共340个；是否把分类体系自身算入而成341，是讲者提出的自我指涉问题。后续分支名称在此仍有未定和试探。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L79–89"
+      },
+      {
+        "text": "结尾明确说矩阵只是粗浅且可受质疑的工具，不要求所有人接受同一分类；它可用于辨认文化产品和哲学段落的立场，但不能替代大部头阅读与具体分析。网站和哲学游戏是讲者设想的应用。",
+        "source_ids": [
+          "x13-special-BV1JT4y1K7dp"
+        ],
+        "locator": "L96–109"
+      }
+    ],
+    "editorial_notes": [
+      "数字四步及天地神人类比是讲者的体系说明，不应写成公认的黑格尔/海德格尔标准分类。",
+      "原文以智商和群体标签作大量贬义修辞；摘要只提取分类方法，不把这些词当作测量结果或人物诊断。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-a.json"
+  },
+  "BV1Kt4y1z7WU": {
+    "id": "BV1Kt4y1z7WU",
+    "series_code": "娱乐番外：爱情大全",
+    "title": "【主义主义·纯娱乐番外】爱情大全（祝大家牛年大吉！）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–173已读；不重建无图板书全部配对，不核原音。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把爱情分类当作四格方法的思想实验。它先约定场域统领后三格，场域与本体通常较隐蔽，认识与目的较易通过言谈行动看见；场域与目的还可能短路而忽略中间层。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L1–6、L23–31"
+      },
+      {
+        "text": "所谓一般爱情，被设定为两人的前两格相同、后两格互换：一方的认知期待在另一方的行动中获得回应。讲者用这一规则演示相互吸引与错认，而非报告实际心理学统计。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L32–44"
+      },
+      {
+        "text": "更深的神秘感，被解释为涉及对方本体层面的缺失与不可理解；当场域立场本身冲突，吸引又可能伴随深重误解和要求对方改变的冲动。讲者据此区分一般、神秘及不可能的爱情。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L45–64、L67–84"
+      },
+      {
+        "text": "前两格交叉互换的六组组合，被进一步与“我—爱—你”的三种位置相连：不可实现的中心、相互争执的领域与最终的爱欲表现可能分别落在不同位置。具体排列在讲述中有修正，不能当作固定配对表。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L65–66、L85–100、L112–147"
+      },
+      {
+        "text": "讲者特别偏爱1-4与4-1之间的互换，并想象同一个人在这两种姿态间也会切换；认识与目的的转换被用来说明私人生活与实践行动的张力。这是他个人的规范性想象，不是爱情优劣的客观排名。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L149–161"
+      },
+      {
+        "text": "收尾主动限制整个模型：它是事后回溯、可以被技巧圆回来的智力练习，无法穷尽爱情或对方的社会关系。真正面对具体关系仍需具体理解，不能用编号替代体验和相处。",
+        "source_ids": [
+          "x13-special-BV1Kt4y1z7WU"
+        ],
+        "locator": "L162–173"
+      }
+    ],
+    "editorial_notes": [
+      "原文L101–107把2-4说成无神论，L106–109明确收回并改为反形而上学；未把已撤回说法写进模型。",
+      "性别、家庭背景及人格推断均属讲者即兴设想，不作为诊断、择偶预测或对现实人物的可靠画像。",
+      "这里的编号是本讲当时的模型用法，不反向覆盖主目录中后来展开的正式条目。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-a.json"
+  },
+  "BV1Pq4y1b7FX": {
+    "id": "BV1Pq4y1b7FX",
+    "series_code": "预习：$-2-1-4到$-2-2",
+    "title": "【主义主义预习课】绝对者如何从因果性的实体走向概念（从$-2-1-4到$-2-2）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–60已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲把概念暂译作构思，以绝对者认出自己所铺设的环节来说明主观逻辑的开端：同一环节既外化为独立的存在，又被认作自身活动的内容。",
+        "source_ids": [
+          "x13-special-BV1Pq4y1b7FX"
+        ],
+        "locator": "L1–10"
+      },
+      {
+        "text": "实体向外展开的必然性，被重新理解为自身的设定活动；主体性与自由并非突然加在实体之外，而在它认出这一同一性的过程中出现。人的概念把握被纳入这一解释。",
+        "source_ids": [
+          "x13-special-BV1Pq4y1b7FX"
+        ],
+        "locator": "L11–18"
+      },
+      {
+        "text": "主动与被动实体在因果关系中彼此依赖，谁是最初发动者的含混，随着它们被理解为设定的环节而消解。讲者因此强调自我引发的运动，而不先假定一个稳固实体再赋予它发动能力。",
+        "source_ids": [
+          "x13-special-BV1Pq4y1b7FX"
+        ],
+        "locator": "L19–36"
+      },
+      {
+        "text": "实体成为概念意味着去实体化：概念既伴随事物，又不只是一个孤立的硬性基底。讲者借此预告普遍性、特殊性、个别性所构成的概念结构。",
+        "source_ids": [
+          "x13-special-BV1Pq4y1b7FX"
+        ],
+        "locator": "L37–40"
+      },
+      {
+        "text": "后半以失忆者同步记录自己言说的比喻，说明概念的简单自指、确定性和直接同一性。比喻意在解释熟悉与陌生同时存在的概念把握，不是关于人的记忆或学习能力的经验定律。",
+        "source_ids": [
+          "x13-special-BV1Pq4y1b7FX"
+        ],
+        "locator": "L41–60"
+      }
+    ],
+    "editorial_notes": [
+      "神、计划、失忆用于讲者的解释模型，不把这些拟人化比喻当作独立神学或认知科学事实。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-b.json"
+  },
+  "BV1Z3411E7sg": {
+    "id": "BV1Z3411E7sg",
+    "series_code": "练习：$-2-1-1形式可能性",
+    "title": "【主义主义练习课】模态（$-2-1-1）——形式现实性之形式可能性",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–74已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本讲从形式现实性进入可能性：现实性被解释为内外统一，但在起初阶段这种统一还只是一个形式规定，尚未展开为全部形式的总体。",
+        "source_ids": [
+          "x13-special-BV1Z3411E7sg"
+        ],
+        "locator": "L1–15"
+      },
+      {
+        "text": "从具体事物的现实性中抽出它可以实现的一面，得到形式可能性。它表现为自在、自我同一和暂未实现的候选状态，而不是在经验中已经存在的另一个实体。",
+        "source_ids": [
+          "x13-special-BV1Z3411E7sg"
+        ],
+        "locator": "L15–29"
+      },
+      {
+        "text": "可能性不能永久停留在自足的幕后；它作为现实性的否定侧，既具有反思进入自身的肯定环节，也因尚未实现而指向现实性。这两面共同规定其地位。",
+        "source_ids": [
+          "x13-special-BV1Z3411E7sg"
+        ],
+        "locator": "L30–47"
+      },
+      {
+        "text": "只要求自我同一、不发生矛盾时，可能性成为能够容纳任意内容的无规定背景，因此可以说一切皆可能；这一说法依赖抽去内容差异的形式条件。",
+        "source_ids": [
+          "x13-special-BV1Z3411E7sg"
+        ],
+        "locator": "L48–56"
+      },
+      {
+        "text": "但具体可能者一旦获得规定，就关联到他者、对立和矛盾。讲者提出几种解释这些关联的路径，说明同样的形式分析又会得出一切皆不可能，借此暴露单凭抽象可能性判断的局限。",
+        "source_ids": [
+          "x13-special-BV1Z3411E7sg"
+        ],
+        "locator": "L57–74"
+      }
+    ],
+    "editorial_notes": [
+      "L10出现长串重复识别，未用来补造论点。",
+      "一切可能/不可能属于此处形式规定的辩证论证，不作为日常事实判断或现代模态逻辑的一般定理。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-b.json"
+  },
+  "BV1Zm4y1o7qs": {
+    "id": "BV1Zm4y1o7qs",
+    "series_code": "练习：$-2-1-1可能性的两面",
+    "title": "【主义主义练习课】模态（$-2-1-1） ——到底什么是可能性",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "完整ASR L1–87已读；不是原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者先把形式上说A可能，拆成A不矛盾或A与自身同一；若不展开A的具体规定，这种确证并没有告诉我们它是什么。进入内容的规定后，差异才显露。",
+        "source_ids": [
+          "x13-special-BV1Zm4y1o7qs"
+        ],
+        "locator": "L1–13"
+      },
+      {
+        "text": "可能性又不等于单纯同一律：可能者是现实性总体中的一个反思环节，被预先认可为可部署的候选项。讲者用经过审视的清单比喻这种被反思的状态。",
+        "source_ids": [
+          "x13-special-BV1Zm4y1o7qs"
+        ],
+        "locator": "L14–29"
+      },
+      {
+        "text": "作为总体的环节，可能者一方面自在，另一方面又被要求走向存在；没有这种应在，它就只是背后空转的本质性。形式总体的内外统一使这种单独自在的地位不能保持。",
+        "source_ids": [
+          "x13-special-BV1Zm4y1o7qs"
+        ],
+        "locator": "L30–48"
+      },
+      {
+        "text": "可能性与可能者需要分开：前者是形式规定，后者是承载该规定的内容。当自在者同时被设定为自在，其自主与被设定之间的差异显示出他异性。",
+        "source_ids": [
+          "x13-special-BV1Zm4y1o7qs"
+        ],
+        "locator": "L49–64"
+      },
+      {
+        "text": "后半以可以发生也可以不发生来说明本讲的可能性：相反的内容被共同纳入总体反思，而不只是两个互不相干的同一命题。讲者据此向偶然性过渡。",
+        "source_ids": [
+          "x13-special-BV1Zm4y1o7qs"
+        ],
+        "locator": "L65–87"
+      }
+    ],
+    "editorial_notes": [
+      "“可能A也意味着可能非A”是本讲把可能性向偶然性推进的解释，不直接当作所有模态体系普遍有效的推理规则。",
+      "自在、应在、他异性及设定者比喻按ASR可辨上下文整理，未恢复完整板书。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-b.json"
+  },
+  "BV1Gr4y1a7J9": {
+    "id": "BV1Gr4y1a7J9",
+    "series_code": "预习：$-2-1-2到$-2-1-3",
+    "title": "【主义主义预习课】从实体和偶性的关系走向形式因果性（从$-2-1-2到$-2-1-3）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "全部ASR L1–97已读；非原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "讲者从实体在偶性中反思自身切入原因：实体的力量主动显现时称为原因，被它设定出来的一面称为效果。起点是同一实体的两个方面，尚不能把它们直接当作两个各自现成的东西。",
+        "source_ids": [
+          "x13-special-BV1Gr4y1a7J9"
+        ],
+        "locator": "L1–14"
+      },
+      {
+        "text": "形式因果性接续实体性与偶性性的关系。每个偶性都显出实体的力量；所谓背后的支配者也要通过这种显现来把握，不能脱离过程另设一个秘密主宰。",
+        "source_ids": [
+          "x13-special-BV1Gr4y1a7J9"
+        ],
+        "locator": "L15–32"
+      },
+      {
+        "text": "由偶性回看实体，会产生一个实体早已在那里的效果。讲者以国家与公民意识作比喻，说明原因在设定效果的同时，也把自己的先在地位设定出来，并遮蔽这一设定活动。",
+        "source_ids": [
+          "x13-special-BV1Gr4y1a7J9"
+        ],
+        "locator": "L33–57"
+      },
+      {
+        "text": "原因与效果的区分给先前的关系引入方向：实体不再只是偶性背后模糊的力量，而要明确显示自己的活动。讲者由此解释为何需要从实体关系进入因果关系。",
+        "source_ids": [
+          "x13-special-BV1Gr4y1a7J9"
+        ],
+        "locator": "L58–80"
+      },
+      {
+        "text": "这里的效果首先是被设定的、会消逝的显现，它让原因作为实体的力量得到展示。讲者把这种存在论层面的效果同一般经验中某物造成另一事件的结果区别开来。",
+        "source_ids": [
+          "x13-special-BV1Gr4y1a7J9"
+        ],
+        "locator": "L81–97"
+      }
+    ],
+    "editorial_notes": [
+      "国家与公民、后台大哥等均为讲者解释逻辑结构的类比，不能据此断言国家的经验起源。",
+      "L65–69含词义查阅和试译；摘要不把试译确定为唯一规范术语。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-c.json"
+  },
+  "BV1ri4y1y7bJ": {
+    "id": "BV1ri4y1y7bJ",
+    "series_code": "预习：$-2-2-1到$-2-2-3",
+    "title": "【主义主义预习课】从概念（$-2-2-1）到判断（$-2-2-3）——初步了解何为“判断”",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "全部ASR L1–102已读；非原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "判断被讲者解释为概念把自身的规定设定出来。它不是外在观察者随意贴标签，而是概念自身的区分与组织；讲者还修正了开头把判断限制得过窄的例子。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L1–20"
+      },
+      {
+        "text": "判断是概念的第一次实现：概念不再只有未展开的统一，而以明确规定的方式出现。纸面记录变成可操作显示等比喻服务于这一由概念到现实化的说明。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L21–27"
+      },
+      {
+        "text": "概念的各环节既作为自身完整的总体独立，又彼此关联。讲者强调自立性与共同概念的联系同时存在，不能把概念仅理解为几个互不相关的成分拼在一起。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L28–47"
+      },
+      {
+        "text": "继承者与前任的比喻说明，差异、自身同一和联系相互依赖：继承者须与前任有区别，又须通过承接关系获得自身身份。讲者借此说明判断如何把环节的独立和联系一起明示。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L48–55；L69–71"
+      },
+      {
+        "text": "主词和谓词的地位在判断关系中形成，不能先在判断之外固定它们的全部意义。课程在当前初步形式中把较确定的个别主词与较普遍的谓词相联系，并辨析个别、特殊、普遍这些环节。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L72–90"
+      },
+      {
+        "text": "以苏格拉底是人为例，判断把一个个体放入概念关系之中；它还需要进一步展开为后续判断及推论的关系，本节只是概念向判断过渡的预习。",
+        "source_ids": [
+          "x13-special-BV1ri4y1y7bJ"
+        ],
+        "locator": "L91–102"
+      }
+    ],
+    "editorial_notes": [
+      "L52–53性别类比、L65–68物理学类比未作经验科学核验，摘要不采作生物或物理事实。",
+      "讲者用神的构思等拟人表达解释概念运动；这里只记录其解释，不当作宗教事实。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-c.json"
+  },
+  "BV1zF411J7Yc": {
+    "id": "BV1zF411J7Yc",
+    "series_code": "练习：$-2-1现实性",
+    "title": "【主义主义练习课】解读黑格尔《逻辑学》之现实性（$-2-1）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "全部ASR L1–121已读；非原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本节从绝对者作为内在与外在的统一开始。起初外部反思把一个直接的实存单元认作绝对者；随着阐述展开，该单元被理解为绝对者显现自身的属性与方式。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L1–16"
+      },
+      {
+        "text": "外部反思在规定绝对者时也卷入自身：它所认定的绝对性并非一个旁观者从外面附加的评语，而被讲者解释成绝对者在自身显现中反思自己。课程明确此处尚未进入概念论的主体性环节。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L17–38"
+      },
+      {
+        "text": "现实性在这里先表现为被反思的绝对性、内外统一的形式。响指例子说明，某个显现让人无法否认，并不已经解释了它为何发生；讲者据此区分形式上的现实性与单纯存在。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L39–63"
+      },
+      {
+        "text": "讲者回溯具体实存、表象与本质关系的推进：具体实存还没有被设定为反思和直接性的统一，随着表象及其根据的对立展开，内在与外在被把握为一个统一体的环节，才进入现实性。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L64–94"
+      },
+      {
+        "text": "初步现实性仍是形式统一，现实者与可能者表现为直接性和内在反思的两侧。必然性被预告为把这两侧联系起来的规定；若仅从二者都被设定这一形式共同点看，则呈现偶然性。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L95–116"
+      },
+      {
+        "text": "结尾概览后续路线：从实在的现实性和可能性到相对必然性，再反思条件与结果的必然联系自身，进到绝对必然性。浇水、施肥等例子用于说明条件性，不是本节已完整证明的自然规律。",
+        "source_ids": [
+          "x13-special-BV1zF411J7Yc"
+        ],
+        "locator": "L117–121"
+      }
+    ],
+    "editorial_notes": [
+      "原ASR包含英文代词辨析与多次译法修正；摘要按论证层次概括，不替讲者补齐未稳定的逐句译文。",
+      "神、计划、封装等是解释用语；本质论层次的自我反思不应直接改写成个人意识创造外界。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-c.json"
+  },
+  "BV1k5411o7QR": {
+    "id": "BV1k5411o7QR",
+    "series_code": "练习：$-2-1-2实体与偶性",
+    "title": "【主义主义练习课】实体和偶性的关系总结（$-2-1-2）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "全部ASR L1–121已读；非原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本节细读实体与偶性一节的末段。实体首先直接在诸偶性中出现；若所有偶性只是同一实体的局部或模态，就尚未呈现真正的差别，实体也尚未依其完整概念显现。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L1–9"
+      },
+      {
+        "text": "当实体与偶性总体这一自身形态区分开来时，它又被把握为支配偶性生灭的力量。这种力量被称为必然性：偶性一面显现、消逝，一面以自身否定性让实体作为维持它们的力量显现。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L10–25"
+      },
+      {
+        "text": "实体性与偶性性被视为同一关系的两侧，中介的统一使两极不再各自独立。所谓立即消逝，讲者以遭遇偶性时实体似乎已退居其后来解释，同时强调两者的力量仍直接统一。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L26–60"
+      },
+      {
+        "text": "从实体性看，差别消失而同一性留下；从偶性性看，指向背后实体的差别突出，同一性却尚未被明确设定。两侧各有缺陷，因此实体仍只能以偶性性的形式被把握，尚不是作为实体的实体。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L61–92"
+      },
+      {
+        "text": "实体与偶性互为内在，诸偶性的生成也被把握为总体的生成。讲者在此提醒总体性不等于简单相加或仅仅统一，并当场回改自己对总体性与统一性的措辞。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L93–107"
+      },
+      {
+        "text": "显现同时又是反思，偶性性本身也被理解为被设定的、自我指涉的否定性与同一性。这样，偶性不再只是惰性的持存单元，关系便转入具有力量和不对称作用的因果性。",
+        "source_ids": [
+          "x13-special-BV1k5411o7QR"
+        ],
+        "locator": "L108–121"
+      }
+    ],
+    "editorial_notes": [
+      "摘要保留L23对subsistence误读的回改及L106对totality的重新解释，不采用讲者已经撤回的读法。",
+      "L74借谢林谈本体论证明作类比，未核对应原典，不据此给谢林添加独立文献结论。",
+      "偶性、偶性性、偶体性在讲中有多次译名试验；采用偶性性时指accidentality，避免与单个accident混同。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-c.json"
+  },
+  "BV1cq4y1t7TN": {
+    "id": "BV1cq4y1t7TN",
+    "series_code": "预习：$-2-1-3到$-2-1-4",
+    "title": "【主义主义预习课】何为暴力？力量之表象；怎么得出这一结论？（从$-2-1-3到$-2-1-4）",
+    "evidence_level": "public_asr_text_read",
+    "body_status": "asr_text_reviewed_not_audio_verified",
+    "review_scope": "全部ASR L1–122已读；非原音听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "本节预读作用与反作用。因果性被解释为一种预设活动：效果回指原因，使原因显得早已存在；原因因而不是无需条件的现成起点，而带有由效果中介的自身关系。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L1–22"
+      },
+      {
+        "text": "讲者区分被动实体与起作用的实体。前者停留在直接的、自在的自我同一，后者体现否定性的自我指涉和活动；一个看似独立的原因载体，仍须通过这种活动才具有作用。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L23–47"
+      },
+      {
+        "text": "推进中，因果性不再只是附着在固定基底上的形式规定，而自身被把握为实体性的力量。它把被动部分设为自己的前提，又作用于这一前提，因而仿佛作用于他者，其实是在作用于自身。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L48–61"
+      },
+      {
+        "text": "第一步，活动克服被动实体的他异性，似乎回到自身；第二步，又把这种克服规定为自己造成的效果。讲者特别区分单纯活动起来，与把他者受自己激活的状态明确设定出来。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L62–86"
+      },
+      {
+        "text": "被动实体既被看作自立的他者，又本来就是活动所预设的东西。作用一方面扬弃其被动的规定，另一方面抹去自己先行设定这一前提的活动，结果反而保存了一个似乎独立的被动载体。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L87–107"
+      },
+      {
+        "text": "当起作用的一侧不承认被动实体也是自身时，效果就显得由外部施加。讲者在这一具体逻辑结构中解释暴力为外在力量的显现：它误把自身的活动理解成对一个外在对象的激活与支配。",
+        "source_ids": [
+          "x13-special-BV1cq4y1t7TN"
+        ],
+        "locator": "L108–122"
+      }
+    ],
+    "editorial_notes": [
+      "毁灭罪证、圆谎、脚手架等是讲者说明设定与预设关系的比喻，不转写为伦理许可或现实暴力的辩护。",
+      "暴力的说明限于所读作用与反作用段落及讲者阐释，不据标题扩大为一切社会暴力的完备理论。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-c.json"
+  },
+  "BV1Hf4y1t7E8": {
+    "id": "BV1Hf4y1t7E8",
+    "series_code": "2-1-2-1",
+    "title": "【主义主义】伦理智性主义（2-1-2-1）——苏格拉底的哲学，“知识助产术”、“知识即美德”、“爱欲是唯一的知识”、“哲学就是练习面对死亡”",
+    "evidence_level": "secondary_compiled_transcript",
+    "body_status": "reused_compiled_text_not_audio_verified",
+    "review_scope": "同一BV身份由0103 L152–159确认；复用既有正课编纂正文并核读0103 L152–162及0104 L9–135；不是新增独立讲次，未听校。",
+    "audio_verified": false,
+    "course_summary": [
+      {
+        "text": "这项并非新增练习课，而是2-1-2-1伦理智性主义的正课。编纂本在前章末明确记录同一BV，并先声明苏格拉底自己的本体论讨论有限，课程的一部分本体论表达借助柏拉图重构。",
+        "source_ids": [
+          "x13-special-0103"
+        ],
+        "locator": "L152–162"
+      },
+      {
+        "text": "知识即美德在本讲中不只是知道一套规范然后照做。讲者把知识理解为反复检验既有善恶标准、归谬其矛盾并亲自取得确信的活动，因而理智活动本身具有伦理意义。",
+        "source_ids": [
+          "x13-special-0104"
+        ],
+        "locator": "L9、L31；L82–85；L111–126"
+      },
+      {
+        "text": "助产术通过要求对方定义概念、提出反例、修正定义再继续追问，使对话者自己发现原先的无知并产生判断。讲者用买彩票的虚构场景演示这种程序。",
+        "source_ids": [
+          "x13-special-0104"
+        ],
+        "locator": "L12–28"
+      },
+      {
+        "text": "课程用城邦与神圣维度的对立、知识与无知的对立组织四格解释；追求德性与服从共同体原被放在同一目的中，苏格拉底之死却让这种协调的悲剧性显露，并成为课程引出柏拉图的重要线索。",
+        "source_ids": [
+          "x13-special-0104"
+        ],
+        "locator": "L31–43；L61–70；L129–135"
+      },
+      {
+        "text": "讲者把练习面对死亡进一步解释为设想整个背景框架的消失、面对失去保障的主体性，再尝试新的框架。这是本讲明确追加的现代解释，不等于苏格拉底原话已经提出同样的主体性理论。",
+        "source_ids": [
+          "x13-special-0104"
+        ],
+        "locator": "L73–76"
+      },
+      {
+        "text": "爱欲与追问在讲者的解释中相联系：爱激起提问，哲学助产使智慧进入共同生活；但爱欲不能简单缩减为两性关系。课程再把这一过程接到否定性的知识、澄清城邦规范与普遍性的追求上。",
+        "source_ids": [
+          "x13-special-0104"
+        ],
+        "locator": "L96–99；L111–129"
+      }
+    ],
+    "editorial_notes": [
+      "原目录因标题含练习而误分练习课；本条只为该BV补可回查的正文导读，不增加正课数量。",
+      "编纂切页把本讲元数据及开篇留在0103末，0104承接；0104尾部柏拉图讲次已排除。",
+      "讲者对苏格拉底的幻听、内听觉、人格和动机的追溯解释未获医学或历史核实；摘要不把这些猜测当作事实。",
+      "知识即美德、神示与服从城邦的叙述仍需区分讲者重构和柏拉图对话录中的具体场景；已有06-manual-21逐字段核查及《申辩》31c–32e对读可参照。"
+    ],
+    "reading_links": [],
+    "batch_file": "13-extra-special-d.json"
   }
 }

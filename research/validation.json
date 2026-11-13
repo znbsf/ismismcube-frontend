@@ -1,9 +1,9 @@
 {
   "checked_on": "2026-11-13",
   "scope": "Local structure, provenance references, patch replay and deterministic rendering. Not audio or philosophical certification.",
-  "input_sha256": "7a9a351da149f096e016b40ec5e22d8caa7d11340ef81b914f09e8b3911d696b",
+  "input_sha256": "374e07853ca0beb6b417787a2dd74f8df067a8e0832bb543897d0a88a10c176c",
   "base_commit": "f3f61223cbdbb185f81b43555ad7f4a8805a762b",
-  "field_transitions_replayed": 1236,
+  "field_transitions_replayed": 1360,
   "replayed_data_matches": true,
   "generated_files_match": [
     "public/research.json",
@@ -14,6 +14,8 @@
     "research/COVERAGE.md",
     "public/manual-review.json",
     "research/MANUAL-REVIEW.md",
+    "public/ai-review.json",
+    "research/AI-REVIEW.md",
     "public/course-bodies.json",
     "research/COURSE-READINGS.md",
     "public/courses.json"
@@ -33,7 +35,16 @@
     "course_body_uncatalogued",
     "course_body_title_only",
     "course_body_audio_conflict",
-    "course_body_missing_locator"
+    "course_body_missing_locator",
+    "course_metadata_cannot_support_body",
+    "course_metadata_correction_valid",
+    "course_metadata_correction_drift",
+    "course_metadata_correction_unknown_id",
+    "course_metadata_correction_invalid_field",
+    "course_metadata_correction_missing_source",
+    "course_metadata_correction_idempotent",
+    "course_metadata_continuous_chain_idempotent",
+    "course_metadata_discontinuous_chain"
   ],
   "coverage_counts": {
     "catalogue_nodes": 340,
@@ -42,8 +53,8 @@
     "axis_slots": 1252,
     "transcript_indexed_nodes": 340,
     "new_located_summaries": 85,
-    "nodes_with_reading_links": 98,
-    "reading_links": 116,
+    "nodes_with_reading_links": 99,
+    "reading_links": 117,
     "nodes_with_review_records": 278,
     "qualified_axis_records": 0,
     "audio_verified_nodes": 0
@@ -51,11 +62,11 @@
   "research_counts": {
     "entries_with_contributions": 340,
     "entries_with_course_summaries": 85,
-    "source_records": 502,
-    "unique_source_urls": 490,
-    "correction_records": 374,
+    "source_records": 616,
+    "unique_source_urls": 555,
+    "correction_records": 456,
     "extra_courses": 73,
-    "extra_course_bodies": 30
+    "extra_course_bodies": 73
   },
   "manual_review_counts": {
     "manual_nodes": 213,
@@ -244,16 +255,83 @@
       "variant_formulation": 1
     }
   },
-  "reading_source_count": 78,
+  "ai_review_counts": {
+    "ai_nodes": 42,
+    "all_fields_recorded_nodes": 42,
+    "expected_fields": 324,
+    "recorded_fields": 324,
+    "claim_checks": 503,
+    "claim_statuses": {
+      "contradicted": 5,
+      "lecture_claim_conflicts_with_primary_text": 1,
+      "needs_qualification": 37,
+      "not_located_in_full_lecture": 2,
+      "partially_supported_needs_correction": 19,
+      "supported": 206,
+      "supported_as_course_grid": 16,
+      "supported_as_lecturer_interpretation": 179,
+      "supported_as_unmarked_lecturer_critique": 1,
+      "supported_as_unverified_secondary_quote": 1,
+      "supported_but_missing_explicit_reservation": 1,
+      "supported_but_missing_hypothetical_scope": 1,
+      "supported_but_missing_self_correction": 1,
+      "supported_but_plot_interpretation_unmarked": 1,
+      "supported_but_unqualified_reconstruction": 1,
+      "supported_by_compiled_text": 6,
+      "supported_with_overstatement": 1,
+      "supported_with_qualification": 23,
+      "supported_with_secondary_attribution": 1
+    }
+  },
+  "reading_source_count": 79,
   "source_cache_check": {
     "status": "sha256_and_git_blob_verified",
     "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
-    "cached_files": 398,
-    "hashed_research_sources": 378,
+    "cached_files": 430,
+    "hashed_research_sources": 464,
     "scope": "File identity only; not a claim of full-text reading."
   },
+  "local_evidence_check": {
+    "status": "hashes_and_transcript_structure_verified",
+    "records": [
+      {
+        "source_id": "x13-local-BV1XL411x72W",
+        "segments": 620,
+        "last_end": 1775.11
+      },
+      {
+        "source_id": "x13-board-BV1hf4y1k7sX",
+        "files": 3
+      },
+      {
+        "source_id": "x13-identity-BV1Sp4y147je",
+        "segments": 103,
+        "sample_ranges": [
+          [
+            0,
+            180
+          ],
+          [
+            1677.1946875,
+            1857.1946875
+          ]
+        ]
+      }
+    ],
+    "scope": "Evidence identity and ASR time coverage only; no audio or full-board certification."
+  },
+  "course_body_status_counts": {
+    "asr_text_reviewed_not_audio_verified": 60,
+    "local_asr_text_reviewed_not_audio_verified": 1,
+    "partial_board_summary_no_audio": 1,
+    "reused_reviewed_node_summary_not_audio_verified": 4,
+    "compiled_text_reviewed_not_audio_verified": 5,
+    "compiled_text_reviewed_identity_sample_matched_not_audio_verified": 1,
+    "reused_compiled_text_not_audio_verified": 1
+  },
+  "course_metadata_corrections": 25,
   "reading_relations": {
-    "editorial_reading": 142,
+    "editorial_reading": 149,
     "lecture_explicit_reference": 4
   },
   "video_metadata_records": 402,

@@ -1,0 +1,1382 @@
+{
+  "batch": "12-ai-33-1",
+  "checked_on": "2026-11-13",
+  "scope": "旧AI摘要逐字段对照固定版本社区编纂文本；未回听原音、未核板书、未经人工审定。",
+  "sources": [
+    {
+      "id": "a12-33-0232",
+      "title": "3-3 生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论/0232_3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论_p5984.md",
+      "sha256": "d66efe80bc9561c975b075cf75d3ab74b465a8242d57e6b7fe5cbc07a1436a52",
+      "git_blob_sha": "4456eb175807aa0ffbd3e47314f071d4d1cbe50f"
+    },
+    {
+      "id": "a12-33-0234",
+      "title": "3-3-1 存在主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/0234_3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6%E5%AE%B6%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84_%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E8%80%85_p6021.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–11 L9–41；L45起下一讲排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–11 L9–41；L45起下一讲排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学/0234_3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学家根本不是所谓的_存在主义者_p6021.md",
+      "sha256": "62f57f2df2fcf7955ce55a8a794dfc5817645ffdeeba7d4f55d03e0ce5014e9e",
+      "git_blob_sha": "91a2b0cd6ef4b986f89eb3f030860ce96566e41b"
+    },
+    {
+      "id": "a12-33-0235",
+      "title": "3-3-1-1 分环节的生存论的存在论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Mome/0235_3-3-1-1_%E5%88%86%E7%8E%AF%E8%8A%82%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA_Existential_Ontology_of_Moments_%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AD%98%E5%9C%A8%E4%B8%8E%E6%97%B6%E9%97%B4_%E4%B8%AD%E7%9A%84%E9%A2%86%E4%BC%9A%E4%B8%8E%E7%AD%B9%E5%88%92_p6032.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除；未回听原音、未核板书。",
+      "locator": "实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学/3-3-1-1_分环节的生存论的存在论_Existential_Ontology_of_Mome/0235_3-3-1-1_分环节的生存论的存在论_Existential_Ontology_of_Moments_海德格尔_存在与时间_中的领会与筹划_p6032.md",
+      "sha256": "ca8eecb5e32afb47dfff20fb2019078601d8cecd69aed08ef831cbc776b80f87",
+      "git_blob_sha": "d16ff606fafa40cdc7c10fe2b99c0faf546f26af"
+    },
+    {
+      "id": "a12-33-0236",
+      "title": "3-3-1-2 人道主义的存在主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8/0236_3-3-1-2_%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89_Humanistic_Existentialism_%E8%90%A8%E7%89%B9%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p6058.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35；未回听原音、未核板书。",
+      "locator": "Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学/3-3-1-2_人道主义的存在主义_Humanistic_Existentialism_萨特存在/0236_3-3-1-2_人道主义的存在主义_Humanistic_Existentialism_萨特存在主义的基本结构_p6058.md",
+      "sha256": "ebcbbc154002372559ca9ea8e6bd4e7c0194170c7c47782236bf046f1c13f097",
+      "git_blob_sha": "962e12dc053b776edd2f0e55792a8d31e0f410e9"
+    },
+    {
+      "id": "a12-33-0237",
+      "title": "3-3-1-3 政治的理性主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89/0237_3-3-1-3_%E6%94%BF%E6%B2%BB%E7%9A%84%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89_p6092.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20；未回听原音、未核板书。",
+      "locator": "Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学/3-3-1-3_政治的理性主义/0237_3-3-1-3_政治的理性主义_p6092.md",
+      "sha256": "2ce23b572237db874d4bef20aa282d8dcdb715f8e89db42afa239f7c7f394638",
+      "git_blob_sha": "c7cb846e0230f0f5530a9cf81a507efaf268946c"
+    },
+    {
+      "id": "a12-33-0238",
+      "title": "3-3-1-4 前本体论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-1_%E5%AD%98%E5%9C%A8_being_%E8%80%8C%E9%9D%9E_existence_%E4%B8%BB%E4%B9%89_Beingism_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%98%E5%9C%A8%E8%AE%BA%E5%93%B2%E5%AD%A6/3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93/0238_3-3-1-4_%E5%89%8D%E6%9C%AC%E4%BD%93%E8%AE%BA_%E4%BB%8E%E6%9C%AC%E6%9C%89%E8%80%8C%E6%9D%A5_%E7%9A%84%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94_%E5%AF%B9%E4%BA%8E%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B4%A1%E7%8C%AE_%E4%B8%8D%E6%98%AF%E6%96%B0%E6%8E%A2%E7%B4%A2_%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E5%8F%B2%E5%89%8D%E5%8F%B2_p6111.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35；未回听原音、未核板书。",
+      "locator": "Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-1_存在_being_而非_existence_主义_Beingism_真正的存在论哲学/3-3-1-4_前本体论_从本有而来_的海德格尔_对于哲学的贡献_不是新探索_而是成为新的世界体/0238_3-3-1-4_前本体论_从本有而来_的海德格尔_对于哲学的贡献_不是新探索_而是成为新的世界体系构建之前的史前史_p6111.md",
+      "sha256": "4fa55902da0523b7fd03882c73dcc0d496f4eb7f7c8f5d29543e8f7cd70d2fb6",
+      "git_blob_sha": "7de9a339dbdd4cb42b3496a85f53f2851b3ee1e1"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "6/6",
+        "claim_count": 11,
+        "scope": "实际核读Page1–23 L9–107及Page24 L112本讲结束前；L112复习课开始后排除",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：哲人本人的第一人称生存(调和形而上(绝对者/先验框架、理念等级制)与形而下(表象/物/世界性)的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "形而上绝对者/理念框架、形而下表象/物/世界性与第一人称生存三者均有明示。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page10–13 L54–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内现实存承担)",
+          "status": "partially_supported_needs_correction",
+          "finding": "存在与存在者由主体内在实存中介，符号化力量与自我取消均有文本；“内现实存”为误字。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page14 L66–68；Page16–17 L80–83"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "反观念论、绝对者环节、审美伦理跨越",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "反抗普遍框架见P6，主体反复承载绝对者与审美伦理阶段见P3–5；属讲者后观念论谱系。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page3–6 L19–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "直接性、一蹴而就、越拒绝中介越使它运行",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "P18–20明确展开厌恶中介→推动中介时间化→要求直接性的悖论。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page18–20 L86–92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "学院派三人是现象学/观念论者、隔岸观火、燃烧一半",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "三人名单、隔岸旁观及燃烧一半均可定位，但为讲者价值判断，不是他们的自我分类。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page1 L9；Page8 L44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "有限性、第一人称、先验框架成为交互界面",
+          "status": "supported_with_qualification",
+          "finding": "根讲讲到第一人称背景，完整有限性与交互界面论述在下一讲0234 P7–10；补跨讲来源，不称全部出自根讲。",
+          "source_ids": [
+            "a12-33-0232",
+            "a12-33-0234"
+          ],
+          "locator": "Page10–11 L54–57；0234 Page7–10 L27–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "存在两面、符号化、驱力元根据、自行给出取消",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "各子命题分见P14、16–17，元根据处讲者自己说术语不重要，不能当精确谢林术语表。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page14 L66–68；Page16–17 L80–83"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体实存中介、前符号闭合、意识承担本体疼痛",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "实存中介见P16，闭合见P14/16，精神本体性疼痛见P20；是讲者体验隐喻。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page14–17 L66–83；Page20 L92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "克尔凯郭尔与尼采燃烧、共同体转变、精神实践",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "二人燃烧比拟见P8，共同体符号转变与精神实践见P7；不等于二人病程一致。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page7–8 L39–44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "二人道出真理后均失去言说能力",
+          "status": "partially_supported_needs_correction",
+          "finding": "失去言说能力的直接例证只指尼采；此前04也标出此差异，现将过度合写修正。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page2–3 L14–19；Page6 L34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "布尔乔亚、排除绝大多数、遵从逻辑语言逻各斯",
+          "status": "supported_with_qualification",
+          "finding": "布尔乔亚与门槛见P21，逻各斯见P9–10；“绝大多数”没有量化依据，改为未跨过门槛者。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page9–10 L49–54；Page21 L97"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "燃烧、精神变灵魂和本体性疼痛是课程隐喻。本讲把失去言说能力直接联系于尼采，不能由此合写成克尔凯郭尔也有同样病程；该差异现已进入正文修订。",
+          "source_ids": [
+            "a12-33-0232"
+          ],
+          "locator": "Page2–3 L14–19；Page6–8 L34–44"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "claim_count": 11,
+        "scope": "实际核读Page1–11 L9–41；L45起下一讲排除",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：第一人称此在的生存体验(调和形而上(存在者/先验等级制)与形而下(实存/在世存在)的对立)",
+          "status": "supported_by_compiled_text",
+          "finding": "形而上存在者、形而下实存与第一人称优先性在P6–7明示。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：实存/生存作为存在与存在者之间的中介(存在作为符号化力量，由此在的活生生体验来揭露)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本体存在/存在者由主体生存调和，根讲符号化解释在此延续。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page8–9 L30–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1：主观主义现象学(有限性原则下的第一哲学，从此在的生存出发把握存在)",
+          "status": "supported_by_compiled_text",
+          "finding": "主观主义现象学、有限性原则、知识同一性直接见P9–10。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page9–10 L33–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "存在主义被定义为Beingism而非Existentialism；只含少数现象学家",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "是讲者重新规定译名与分类，明确排除克尔凯郭尔等；并非英语或德语哲学界的通用词义结论。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page1 L9；Page4 L18；Page11 L41"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "存在就是主词谓词中介",
+          "status": "partially_supported_needs_correction",
+          "finding": "讲者先作系词类比随即澄清海德格尔原初存在不是等号或简单系词；摘要省略这个限制。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page4 L18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "基本存在论、第一哲学、补充黑格尔谢林",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "第一哲学与对黑谢补充明确；基本存在论称谓见P7。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page5–7 L21–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "教育宣传军事动员的现代性危机和来不及",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "教育普及、宣传机器、民众动员及紧迫性均在P1–3，属讲者历史解释。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page1–3 L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "阻击生存论运动，试图阻止危机而失败",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "P3明确“在我看来”并说出现前已爆发；不是二位哲学家共同宣言或已独立核实的因果史。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "既不是本体论也不是纯观念论，而是交汇",
+          "status": "partially_supported_needs_correction",
+          "finding": "原文正说既是本体论、观念论又是生存论，摘要否定用语相反，须改。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page9 L33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "有限性内第一人称优先、畏等体验动力使存在世界化",
+          "status": "supported_with_qualification",
+          "finding": "有限性与优先性见P7–10；讲者同时反驳畏是可体验模式，称其为无意识，不能略去这层争议。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page7–10 L27–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "科班教育、环节掌握、主人话语和大炮比喻",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "科班、主人话语、动员、大炮比喻均在P10；“定向性意识形态原浆”非该段原词，只能作编者转述。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page10 L36"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "Beingism/Seinism与“真正存在主义”是讲者为本课程设定的命名，不据此判通行的existentialism译名一概错误。“阻击现代性危机”“生产主人话语”是讲者政治性解释。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page1–4 L9–18；Page10–11 L36–41"
+        },
+        {
+          "text": "讲者用畏说明世界化的动力，但随后批评把畏当作可以直接体验的意识模式，提出无意识解释。摘要保留课程结构时须并读这层反驳。",
+          "source_ids": [
+            "a12-33-0234"
+          ],
+          "locator": "Page7–8 L27–30"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 13,
+        "scope": "实际核读Page1–25 L9–194及Page26 L197下一讲标题前；下一讲起首排除",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：此在在世存在(调和形而下(沉沦/常人状态)与形而上(本真现身/向死而生)的对立)",
+          "status": "partially_supported_needs_correction",
+          "finding": "本真现身与沉沦两侧见P11–13，具体调和者明确称烦/操心；宜比笼统此在更精确。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page11–13 L86–105；Page17 L169"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：死亡作为生存(本真)与实存(沉沦)的中介(死亡使此在可以整体性地把握自身生存)",
+          "status": "supported_by_compiled_text",
+          "finding": "死亡使整体把握成为可能并协调生存/实存，正文有完整轴说明。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page16 L166"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1：基础存在论/此在的现象学(从此在的生存出发把握存在之为存在)",
+          "status": "supported_by_compiled_text",
+          "finding": "基础存在论等同此在现象学、从其生存把握存在直接见P17–18。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page17–18 L169–172"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1：绝对中介性/绝对有限性(此在永远是中介性的存在)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "绝对中介性与有限性是本讲批评结论，明确见P19–20。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page19–20 L175–178"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "三十几节开始、现身与领会两种展开",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "章节起点与两种展开是讲者概述，现身内向情绪/领会外向知性均有文本；不是原典章节全面审定。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page1–3 L10–16"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "德英术语及符号系统铺设、内禀/向外、世界化",
+          "status": "supported_with_qualification",
+          "finding": "locatedness、understanding、内禀/向外与符号系统在P2/9/11明确；编纂本德文括号有缺字，Befindlichkeit/Verstehen标准拼写非从空括号猜证。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page2–3 L13–16；Page9 L34–44；Page11 L75–83"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "畏之所畏、虚无颤抖、无根性",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "基本畏与不知所畏见P9；颤抖及无根解释见P14，是讲者谢林化解释。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page9 L44–51；Page14 L124–142"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "寻视好奇、命题闲言、两可沉沦的必然链",
+          "status": "partially_supported_needs_correction",
+          "finding": "两路径与沉沦确有，但P12明确保留透彻领会不必沉沦；现摘要“最终导向”过度单线化。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page3–4 L16–19；Page8 L31；Page12 L98–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "类似黑格尔微观辩证法且每节有小辩证法",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "结尾明说每节小辩证法、时间环节化；这是讲者比较判断。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page23–25 L188–194"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "精神现象学倒插本质论中间、无两侧准备",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "P7/9–10直接提出该图示比喻；讲者还说自己记不准逻辑学序列，不是海德格尔自述写法。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page7 L28；Page9–10 L49–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "无根/自展开与谢林收缩、铺设瞬间无自我同一",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "各子命题完整见P13–15；此为课程的谱系解释。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page13–15 L109–161"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "死亡本真、突破常人、整体把握专题化",
+          "status": "supported_by_compiled_text",
+          "finding": "P15–16逐项给出死亡领会、常人击穿、整体生存和专题化。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page15–16 L156–166"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "绝对虚无毁灭中介本真/沉沦，操心与目的网络",
+          "status": "supported_with_qualification",
+          "finding": "死亡中介及操心网络分别在P16–17；原文还列良心、罪、悔恨为返回本真的环节，不应理解死亡唯一途径。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page16–18 L166–172"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "领会并不必然沉沦：讲者在Page12明确保留整体、透彻的领会。这一限定现补进正文。死亡之外，讲者还列良心、罪和悔恨作为从非本真返回本真的环节。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page12 L98–100；Page17–18 L169–172"
+        },
+        {
+          "text": "“倒插《精神现象学》进《逻辑学》”“谢林收缩”与时间只是微观逻辑环节，均为讲者的比较重构，不是海德格尔的创作自述。编纂本德文术语有缺字，尚未核原板书。",
+          "source_ids": [
+            "a12-33-0235"
+          ],
+          "locator": "Page7–10 L28–69；Page14 L134–142；Page23–26 L188–197"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-1-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–34，本讲全文 L9–122；排除 L122 下一讲标题后内容及 Page 35",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域以自为意识出神调和",
+          "status": "partially_supported_needs_correction",
+          "finding": "Page 21、23明确场域由虚无维持；出神是主体性描述，不能取代明确格位中介。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 19–23 / L67–87"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "散朴性、本质与存在的中介",
+          "status": "supported_with_qualification",
+          "finding": "两端为事实性/偶然性与本质，调和者明确是存在；原摘要绕写中介而未点名。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 22–24 / L82–92"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "现象学化辩证法；隐德莱希铺设四种结构",
+          "status": "partially_supported_needs_correction",
+          "finding": "主体、世界、他者、自我异化的辩证展开有据，但全文未见隐德莱希；删除无据术语。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 25 / L95"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2：拒斥中介性(自欺作为二阶自由来设立本质的规范性，对抗绝对者的中介要求)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "以自欺、第二阶自由设本质并拒绝绝对者中介，是本课自己的结构化解释。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 12–13、26–34 / L42–45、L98–122"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "问题意识作为中介与绝对者的问题；无知打破等级制",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "从谢林/黑格尔问题引入主体、世界关系与原初意志，支持课程框架，未核作萨特原典自陈。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 1–6 / L9–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "绝对者可以不存在的自由",
+          "status": "partially_supported_needs_correction",
+          "finding": "Page 7专门说萨特此处不用自由而用可能性；摘要抹去了这个术语区分。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 7 / L27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "非定位自我意识与对象在本质符号网络中的定位",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本讲确以胡塞尔、自我集、非定位性作解释；自我集术语未据原文校定。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 9–10 / L33–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "自在的有根意向性、自为的无根意向性及抽离对象",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者以根、问题意识及笔/私奔例解释；不能直接当成萨特原典定义。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 11–15 / L39–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "自欺中介自在、自为，一二阶无知",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本版已经用讲者重构限定；Page 30–31确有两阶无知，保留先前修订。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 10、30–31 / L36、L110–113"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "自由抛弃自由、真诚认同本质，自欺是自由衍生及本质发生",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者与其归给萨特的自欺批评拉开距离，明确提出自己的辩证辩护。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 16–17、24、26–29 / L54–57、L92、L98–107"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "存在先于本质、复数主体与共在规范性",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "存在先行及我/他人分裂、共在设规范性均在课程，但这里以讲者重构的我思和他者结构论证。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 18、31–34 / L62、L113–122"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "他人是地狱首先指内在他者深渊",
+          "status": "supported_with_qualification",
+          "finding": "这是本讲的解释，原句未标归属；加明确限定避免冒充萨特公认释义。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 32 / L116"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本课使用谢林、黑格尔与现象学术语重构萨特；“自我集”沿用编纂文本，尚未据原音或萨特原文确定术语。自在/自为的“有根/无根意向性”、他人地狱的内在他者解释，均按课程转述。",
+          "source_ids": [
+            "a12-33-0236"
+          ],
+          "locator": "Page 9–15、32 / L33–51、L116"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-1-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–19，本讲全文 L9–63 下一讲标题前；排除 Page 20",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：理性(政治理性/实践理性)调和形而下(庸常世界的二元对立)与形而上(崇高的短路/事件)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "政治/实践理性调和庸常二分与崇高短路，讲者明确用于格位。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 8–10 / L30–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：历史调和共在(人类主体间性)与自然(主客体关系)的对立(辩证法的历险即是历史本身)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "历史作为共在（主体间）和自然（主客）关系的调和明确。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 11–13 / L39–45"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1：知觉现象学/身体现象学(有限性原则下的现象学，既是有限性的辩护又是绝对化的依据)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "有限性既是限制又为行动提供绝对化依据，是讲者把知觉现象学与政治论述联结的阐释。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 13–14 / L45–48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3：失败调和安然接受中介(海德格尔的环节论)与极端自由(萨特的反本质主义)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者以“我觉得”提出由失败调和，属课程定格。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 14–15 / L48–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "知觉优先，有限性绝对化并合法化行动",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 1谈知觉优先，Page 13–14用有限性说明实践合法性。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 1、13–14 / L9、L45–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "从知觉/身体现象学贯通到实践理性",
+          "status": "supported_with_qualification",
+          "finding": "确有此连接，但 Page 8先声明不想牵强结合两书；是本课尝试，不是已据原典确证的方法同一。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 8、13–14 / L30、L45–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "辩证法限定于主体关系，批评自然辩证法及强制中介",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "课程明确归给梅洛庞蒂并批评恩格斯、布尔什维克；不扩展为其全时期无条件立场。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 2–3 / L12–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "不能强令绝对者中介，历史的扬弃有剩余",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "课程关于主客与人际关系的限域论证、以及剩余代价均有对应。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 3、11、15–16 / L15、L39、L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "海德格尔只有环节、萨特只有绝对自由；政治理性居中",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本课为了定格作的简化对照；不是两人完整哲学的事实性总括。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 4–8 / L18–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "知性微调与理性宏观调和均须保持理智",
+          "status": "supported_with_qualification",
+          "finding": "Page 10把微观/宏观区分先归给另一未具名理论家，再用于说明梅洛庞蒂兼顾；不能当作其独创术语。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 10 / L36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "中介只替换一端，扬弃留苦难；过早实践批评",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "辩证机制、剩余、理论未成熟即实践的说法均有，属于讲者重构的政治批评。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 9、15–16 / L33、L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "承认必然失败是反中介的正确方式",
+          "status": "partially_supported_needs_correction",
+          "finding": "正文随即批评该姿态使实践退缩，主张冒险；原摘要把被批评策略无条件称正确。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 16–18 / L54–60"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲把《知觉现象学》与《辩证法的历险》的有限性/实践问题联结，同时承认不愿牵强结合两书。“只在主体关系中有辩证法”、海德格尔/萨特两极对照、微调/宏观区分皆为此课重构，尚未逐句核对梅洛庞蒂原著。",
+          "source_ids": [
+            "a12-33-0237"
+          ],
+          "locator": "Page 2–14 / L12–48"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-1-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–34，本讲全文 L9–184；Page 7为空白；排除 L185 起下一讲及 Page 35",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：神与诸神由本有(存在论化的原初事件)协调(前本体论的前沿阵地)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 29明确神、诸神由本有协调，并解释场域为前本体论。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 17–19、29 / L62–72、L123–125"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：存在与存在者由存在论调和(晚期谢林式的存在论发生学)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "存在、存在者由存在论调和为原文格位；晚期谢林是本讲解释路径。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 14、29 / L47、L123"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论1：晚期谢林的存在论化/生存论化的现象学(人类理智最后的理论化努力)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 29–30明确晚期谢林存在论和生存论化现象学，末尾称最后调和努力。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 29–30、32 / L126–131、L155"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4：呼唤/跳跃(前符号学的、无声的召唤，要求此在在未来之神的穿身而过中成为自身)",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "呼唤/跳跃、无声寂静与成为未来自己均有对应。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 28–31 / L117–145"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "本有为架构铺设原初事件，非宇宙爆炸，重置游戏规则",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "全文以使有、世界化及非预设物理定律世界解释。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 1–6 / L9–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "事件前无场域无主体，使有可能",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 3明确；这是本课存在论阐释，不能理解为已证物理宇宙起源。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 3 / L15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "全书六环节：回响、传送、跳跃、建基、未来者、最后神",
+          "status": "partially_supported_needs_correction",
+          "finding": "Page 4明确全书八部分、中间六环节。旧注已区分，正文仍说该书分六，现直接修限定。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 4–5、13 / L18–21、L44"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "各环节描述及跳跃的向死而生核心",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "回响现代病症、传送观念论、跳跃裂缝、建基结构、将来者诗人、最后之神闭合均逐项对应。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 9–14、19 / L32–47、L72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "最后之神撤场与此在涌现同一过程，橡皮泥指纹剩余",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 15–24确有交错/指纹/缝合剩余说，是讲者跨谢林与拉康结构的解释。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 15–24 / L50–105"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体化=绝对者闭合且互为最后之神，是海德格尔大胆结论",
+          "status": "partially_supported_needs_correction",
+          "finding": "讲者反复标为自己的大胆揣测，Page 28又否定两个意识对称反向生存的直观理解；摘要遗漏归属与限制。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 23–28 / L92–117"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "前语言寂静，无需预期/言辞，直面未来成为自己",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 27–31原文支持，强调呼唤不是听见的言词。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 27–31 / L114–145"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "宗教但非经院、谢林探索终结、后现代思之神学",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "这些判断均由讲者明示其评价；Page 20–21、31–34支持，非学界通说。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 20–21、31–34 / L77–82、L147–184"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本有、最后之神与主体性在此通过晚期谢林和拉康作解释。讲者把“互为最后之神”明称大胆揣测，并在 Page 28限制为主体的非我化，不能当成海德格尔本人已论证的两个意识对称运动。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 23–28 / L92–117"
+        },
+        {
+          "text": "全书八部分与中间六接合须分清；讲者 Page 4 已作区分。正文据此限定为中间六环节，不改变先前关于原著目录的校勘。",
+          "source_ids": [
+            "a12-33-0238"
+          ],
+          "locator": "Page 4 / L18"
+        }
+      ],
+      "open_questions": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-3",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内现实存承担)",
+      "after": "本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内在实存承担)",
+      "kind": "typo",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0232"
+      ],
+      "rationale": "正文Page16明确说内在的实存。"
+    },
+    {
+      "code": "3-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④生存论者的智性牺牲与布尔乔亚限度：真正的生存论者(克尔凯郭尔、尼采)将自己的实存本身烧掉——他们的理性活动承载了人类共同体文化符号学形态的巨大转变，道出真理后精神堕落为灵魂，失去言说能力。这种牺牲奉献的姿态使得他们成为精神上的实践者。但归根结底其位置仍未超出布尔乔亚的智性门槛：他们设立的智性门槛将绝大多数人排除在外，其哲学仍是在遵从逻辑、语言和逻各斯的前提下进行的后观念论探讨。",
+      "after": "④生存论者的智性牺牲与布尔乔亚限度：讲者用“燃烧实存”比拟克尔凯郭尔和尼采的思想投入，认为其理性活动承载了共同体文化符号形态的转变；其中“道出真理后精神变成灵魂、失去言说能力”的直接例子指尼采。这种牺牲姿态被讲者称为精神上的实践，但仍被批评设有布尔乔亚式智性门槛，排除未跨过门槛者。其哲学仍在逻辑、语言与逻各斯的框架内作后观念论探讨。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0232"
+      ],
+      "rationale": "恢复失语隐喻的直接指涉，并去掉无依据的人口比例；保留讲者的政治评价。"
+    },
+    {
+      "code": "3-3-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①存在主义的真正含义：存在主义(Beingism/Seinism)研究的是「是」(Being/Sein)本身，即主词和谓词的中介环节，而非被误译为Existentialism的生存论。海德格尔将之称为基本存在论(fundamental ontology)，它研究存在这个中介化过程。真正的存在主义不包括克尔凯郭尔、尼采等生存论者，而是特指海德格尔、萨特等以现象学方法研究存在之为存在的哲学家，他们本质上是在做第一哲学，为黑格尔和谢林的体系提供补充和调节。",
+      "after": "①存在主义的真正含义：讲者把本格的存在主义称为Beingism/Seinism，研究的是「是」(Being/Sein)本身，讲者将其联系于中介作用，同时提醒海德格尔的原初存在并不等同于主词与谓词之间的系词，而非被误译为Existentialism的生存论。海德格尔将之称为基本存在论(fundamental ontology)，它研究存在这个中介化过程。真正的存在主义不包括克尔凯郭尔、尼采等生存论者，而是特指海德格尔、萨特等以现象学方法研究存在之为存在的哲学家，他们本质上是在做第一哲学，为黑格尔和谢林的体系提供补充和调节。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0234"
+      ],
+      "rationale": "恢复自定命名归属及原文对系词类比的限制。"
+    },
+    {
+      "code": "3-3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③主观主义现象学的有限性原则：存在主义在认识论上通通由主观主义现象学贯穿。它既不是本体论也不是纯观念论，而是三者的交汇。其原则是有限性原则——在一个有限性的视域框架之内，此在的第一人称体验具有揭露和把握存在论架构的优先性。畏、害怕、茫然、无知等情绪体验成为符号系统展开的动力学机制，使得存在世界化。",
+      "after": "③主观主义现象学的有限性原则：存在主义在认识论上通通由主观主义现象学贯穿。讲者把它视为本体论、观念论与生存论的交汇。其原则是有限性原则——在一个有限性的视域框架之内，此在的第一人称体验具有揭露和把握存在论架构的优先性。畏、害怕、茫然、无知等情绪体验成为符号系统展开的动力学机制，使得存在世界化。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0234"
+      ],
+      "rationale": "原文明确既是本体论又是观念论又是生存论，不能写成两个否定。"
+    },
+    {
+      "code": "3-3-1-1",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：此在在世存在(调和形而下(沉沦/常人状态)与形而上(本真现身/向死而生)的对立)",
+      "after": "场域论3：此在的操心（在世存在的基本结构，调和形而下的沉沦、常人状态与形而上的本真现身）",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0235"
+      ],
+      "rationale": "Page13明确“用烦来调和”，Page17以操心命名此在之存在。"
+    },
+    {
+      "code": "3-3-1-1",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②从现身到沉沦的辩证环节：现身的基本模式是畏(Angst)——此在面对其在世存在本身所产生的无根性畏惧，畏不知所畏，因而是站在虚无中的颤抖。领会则通过看(寻视→好奇)和言词(命题→闲言)两个路径导向两可，最终导向沉沦——此在沦入常人状态，遗忘存在，迷失于存在者之中。这一系列环节构成了一套类似黑格尔逻辑学的微观辩证法，每一环节内部都有小辩证法运作。",
+      "after": "②从现身到沉沦的辩证环节：现身的基本模式是畏(Angst)——此在面对其在世存在本身所产生的无根性畏惧，畏不知所畏，因而是站在虚无中的颤抖。领会在日常沉沦的样态中通过看(寻视→好奇)和言词(命题→闲言)两个路径导向两可，最终导向沉沦——此在沦入常人状态，遗忘存在，迷失于存在者之中。讲者同时保留整体、透彻的领会不必导向沉沦的限定。这一系列环节构成了一套类似黑格尔逻辑学的微观辩证法，每一环节内部都有小辩证法运作。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0235"
+      ],
+      "rationale": "Page12明说不是整个领会一定导向遗忘沉沦，恢复被省略限定。"
+    },
+    {
+      "code": "3-3-1-2",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：自为意识的出神状态(调和形而下(实在论/超越论的维度)与形而上(本质论/符号学网络)的对立)",
+      "after": "场域论3：虚无（主体性的非定位维度）调和形而下的实在论/超越论维度与形而上的本质论/符号网络",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0236"
+      ],
+      "rationale": "Page 21、23明确区分上面的场域由虚无维持、下面本体由存在维持。"
+    },
+    {
+      "code": "3-3-1-2",
+      "field_path": [
+        "axis_list",
+        1
+      ],
+      "before": "本体论3：散朴性(facticity/偶然性)与本质(必然性)的中介(存在同时是自为的偶然与自在的本质化)",
+      "after": "本体论3：存在调和散朴性（facticity，事实性/偶然性）与本质（必然性）；存在兼具自为的偶然性与自在的本质化",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0236"
+      ],
+      "rationale": "补出 Page 23明确的调和者存在，保留本课译名散朴性。"
+    },
+    {
+      "code": "3-3-1-2",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论1：现象学化的辩证法(依靠现象学化的隐德莱希铺设主体性、世界性、他者性和自我异化)",
+      "after": "认识论1：现象学化的辩证法（通过现象学化的辩证展开铺设主体性、世界性、他者性和自我异化）",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0236"
+      ],
+      "rationale": "本讲 Page 25支持这些结构的辩证展开；全文未定位隐德莱希。"
+    },
+    {
+      "code": "3-3-1-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①虚无的发生学机制与无知的主体：萨特将存在与虚无的辩证张力奠基于虚无的发生学机制——主体(人)本质上是一种问题意识，是中介与它所中介的绝对者之间的原初问题。主体的无知(不知道世界化样态、不知道人与世界的关系如何铺设)代表着绝对者的自由可能性，即绝对者可以不存在的自由。这种无知是一种本体性的力量，它使得主体可以免于符号学等级制的束缚，成为打破僵化理念等级制的原初意志。",
+      "after": "①虚无的发生学机制与无知的主体：本课将存在与虚无的辩证张力奠基于虚无的发生学机制——主体(人)本质上是一种问题意识，是中介与它所中介的绝对者之间的原初问题。主体的无知(不知道世界化样态、不知道人与世界的关系如何铺设)代表着绝对者的自由可能性，即绝对者可以不存在的可能性（讲者特别提醒，此处萨特使用的是“可能性”，再由讲者联系于自由）。这种无知是一种本体性的力量，它使得主体可以免于符号学等级制的束缚，成为打破僵化理念等级制的原初意志。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0236"
+      ],
+      "rationale": "尊重 Page 7的自由/可能性区分，将跨体系推导限定为本课解释。"
+    },
+    {
+      "code": "3-3-1-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④存在先于本质与人道主义：萨特明确主张人的存在没有先验理念或形而上学本质的束缚，人先存在、后定义自己的本质。但这种极端的自由并非唯我论——主体性天然具有复数性，我思故我在中的「我在」原初分裂为我和他人，共在是原初的生存结构。他人是地狱首先意味着我内在的那个他者是深渊。共在使得主体在通过存在设立新的本质时具有规范性维度，由此「存在主义是一种人道主义」。",
+      "after": "④存在先于本质与人道主义：萨特明确主张人的存在没有先验理念或形而上学本质的束缚，人先存在、后定义自己的本质。但这种极端的自由并非唯我论——主体性天然具有复数性，我思故我在中的「我在」原初分裂为我和他人，共在是原初的生存结构。按讲者的解释，“他人是地狱”首先意味着我内在的那个他者是深渊。共在使得主体在通过存在设立新的本质时具有规范性维度，由此「存在主义是一种人道主义」。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0236"
+      ],
+      "rationale": "Page 32是讲者对内在他者的解释，非已核原典释义。"
+    },
+    {
+      "code": "3-3-1-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④辩证法历险的必然失败：一切中介化注定失败——辩证法只能消解二元对立中的一项，另一项会接替上来构成新的对立。不能消解的剩余是代价、是苦难。梅洛庞蒂批判将辩证法绝对化的倾向(无论是萨特的纯粹行动主义还是布尔什维克的纯粹意志主义)，认为过早投入实践而辩证法体系尚未成熟，必然导致灾难性的剩余。承认所有辩证化活动注定失败，正是反抗中介性的正确方式，但这种清醒也使得他最终退回到教授席位而丧失了政治生命。",
+      "after": "④辩证法历险的必然失败：一切中介化注定失败——辩证法只能消解二元对立中的一项，另一项会接替上来构成新的对立。不能消解的剩余是代价、是苦难。梅洛庞蒂批判将辩证法绝对化的倾向(无论是萨特的纯粹行动主义还是布尔什维克的纯粹意志主义)，认为过早投入实践而辩证法体系尚未成熟，必然导致灾难性的剩余。承认所有辩证化活动注定失败，是讲者归给梅洛庞蒂的一种反中介姿态，讲者同时批评它可能使实践退回保守，但这种清醒也使得他最终退回到教授席位而丧失了政治生命。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0237"
+      ],
+      "rationale": "Page 17明确反对因怕失败而退缩；不把讲者所批评立场写成无条件正确。"
+    },
+    {
+      "code": "3-3-1-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②六环节的构架与跳跃：该书分为六个环节：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。",
+      "after": "②六环节的构架与跳跃：本课说明全书有八部分，其中间部分分为六个环节：回响(第一次本有的余响——现代文明的实证主义和虚无主义病症)、传送(从古希腊到德国观念论的传承)、跳跃(通过生存论，尤其是向死而生，突破庸俗存在论，拉开与本有的裂隙)、建基(本体论结构的现象学构造)、将来者(以赫尔德林为典范的未来之人，能预感下一次本有)、最后之神(本有事件的闭合者与打包者)。其中跳跃是方法论核心。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0238"
+      ],
+      "rationale": "Page 4明确全书八、中间六；使正文与已存目录注一致。"
+    },
+    {
+      "code": "3-3-1-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③最后之神与主体性的交错运动：海德格尔最深刻的洞见在于最后之神与将来的此在之间的交错运动——本体论打包完毕、最后之神撤场的同时，此在的意识涌现，两者是同一个过程。此在如同手离开橡皮泥时留下的指纹，是本体论缝合的剩余。由此得出一个极其大胆的结论：此在的主体化就是绝对者的本体论闭合，反之亦然；两者互为最后之神。这一洞见揭示了主体间性的发生学机制。",
+      "after": "③最后之神与主体性的交错运动：讲者以晚期谢林和拉康的结构解释最后之神与此在的交错：最后之神撤场的同时，此在意识涌现，二者是同一个过程。此在如同手离开橡皮泥时留下的指纹，是本体论缝合的剩余。讲者进一步大胆推测：我的主体化是另一方的本体论闭合，反之亦然，双方可说互为最后之神；但随后明确限制，这不能理解为两个意识对称地朝相反方向生存，而应理解为主体在生成中的非我化，以及未来的自我不断降临。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0238"
+      ],
+      "rationale": "Page 23–24明确“大胆揣测”，Page 28否认两个意识对称反向生存；补回归属与后续限制。"
+    }
+  ]
+}

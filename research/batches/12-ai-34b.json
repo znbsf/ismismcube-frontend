@@ -1,0 +1,939 @@
+{
+  "batch": "12-ai-34b",
+  "checked_on": "2026-11-13",
+  "scope": "3-4-1-1至3-4-1-4共4条旧AI摘要全部32字段逐项复核；本讲全文核读，复用04局部结论但不以其代替全字段核验。",
+  "sources": [
+    {
+      "id": "a12-34-0257",
+      "title": "0257_3-4-1-1_结构人本主义_p6667",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89/0257_3-4-1-1_%E7%BB%93%E6%9E%84%E4%BA%BA%E6%9C%AC%E4%B8%BB%E4%B9%89_p6667.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-1_结构人本主义/0257_3-4-1-1_结构人本主义_p6667.md",
+      "sha256": "0a7ecba198b0f718777bfdbc41d96eb4fa075a0d58de42494ba2bd9347f8e9b5",
+      "git_blob_sha": "1cd570a46a8a1d3c5eeadb986b2b72d2272f5b53",
+      "locator": "Page1–35 L9–123",
+      "verification_scope": "实际逐段核读本讲Page1–35 L9–123（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。"
+    },
+    {
+      "id": "a12-34-0258",
+      "title": "0258_3-4-1-2_隐喻的象征主义_p6702",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89/0258_3-4-1-2_%E9%9A%90%E5%96%BB%E7%9A%84%E8%B1%A1%E5%BE%81%E4%B8%BB%E4%B9%89_p6702.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-2_隐喻的象征主义/0258_3-4-1-2_隐喻的象征主义_p6702.md",
+      "sha256": "1890c96a9515def2002f5b93fcceaecc6773e7b073cf4bc94e6246efba299a92",
+      "git_blob_sha": "4aeac7141fbb0f79f1474f6fe117afea4e3334f5",
+      "locator": "Page1–37 L9–118",
+      "verification_scope": "实际逐段核读本讲Page1–37 L9–118（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。"
+    },
+    {
+      "id": "a12-34-0259",
+      "title": "0259_3-4-1-3_分类性的叙事学_p6740",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6/0259_3-4-1-3_%E5%88%86%E7%B1%BB%E6%80%A7%E7%9A%84%E5%8F%99%E4%BA%8B%E5%AD%A6_p6740.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-3_分类性的叙事学/0259_3-4-1-3_分类性的叙事学_p6740.md",
+      "sha256": "7ceb1c1adb62d2fecfce52e8cc531c8a92824666ad8890a3091c7bfbdf5f4828",
+      "git_blob_sha": "40ac9b52ed59997716ad12e7314b88aa81f4f505",
+      "locator": "Page1–22 L9–86",
+      "verification_scope": "实际逐段核读本讲Page1–22 L9–86（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。"
+    },
+    {
+      "id": "a12-34-0260",
+      "title": "0260_3-4-1-4_陈述性的话语主义_p6762",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-1_%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89/0260_3-4-1-4_%E9%99%88%E8%BF%B0%E6%80%A7%E7%9A%84%E8%AF%9D%E8%AF%AD%E4%B8%BB%E4%B9%89_p6762.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-1_结构主义/3-4-1-4_陈述性的话语主义/0260_3-4-1-4_陈述性的话语主义_p6762.md",
+      "sha256": "bcfd6fb75bde6d013e021b1399e67c28a1561f5f5d84f02d4262f08756d82a8d",
+      "git_blob_sha": "574fb6baf64c6888055923260d5e85e7ec88c28b",
+      "locator": "Page1–30 L9–139",
+      "verification_scope": "实际逐段核读本讲Page1–30 L9–139（终止于本讲收束，末行若合并下一讲则排除下一讲）；SHA256核验。未核原音或哲学家原典，课程的精神分析/历史解释不作独立学术或临床事实认证。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4-1-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部4个feature与4个axis，复合细节拆项；未核原典与原音",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "神话素研究原始人类公共无意识结构",
+          "status": "supported",
+          "finding": "Page3–5说明mytheme类比phoneme以及未主体化的公共无意识。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page3–5 L15–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "有限能指与无限所指由结构调和；mana缝合无具体所指又代表全部",
+          "status": "supported",
+          "finding": "Page6–7直接说明两侧及mana元结构；这里是讲者的有限性论证。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page6–7 L24–27；Page16–17 L54–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "进入符号系统必须整体进入而非逐个符号化；mana代表全部和能指匮乏",
+          "status": "supported",
+          "finding": "Page15–17直接展开；有限词库不能完备把握世界是本讲前提，不等于已核语言学定理。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page13–17 L45–57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "mana赋魅使语言被当作世界内在机制而非外部信号",
+          "status": "supported",
+          "finding": "Page18–20以mana is mana说明接通、缝合与魔法能指。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page18–20 L60–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "修补匠用已有材料补残缺结构，名字语调变格变位解释言语及体验发生",
+          "status": "supported",
+          "finding": "明确称认识论；儿童语言材料例子完整支持。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page28–30 L90–96"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "乱伦禁忌强迫部落向他者开放，被讲作文明前提",
+          "status": "supported",
+          "finding": "Page21–25给交换网络及符号律令，系课程人类学解释；本批不验证史前经验或遗传学推论。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page21–25 L69–81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "mana在全部意义与无所指之间1/0震颤，为最小循环和意义发生机制",
+          "status": "supported",
+          "finding": "Page30–32直接给目的论1并注明用齐泽克的话。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page30–32 L96–106"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "这是所有神话共有的底层动力学且永不停歇",
+          "status": "needs_qualification",
+          "finding": "本讲称意义发生机制、神话元结构；结尾的所有神话共有命题明确说的是乱伦禁忌，不能直接替换成mana震颤普遍经验结论。且实际强迫症循环另有能指链中介。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page6–7 L24–27；Page31–35 L103–121"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "结构/mana协调有限能指和无限现实所指",
+          "status": "supported",
+          "finding": "场域两侧及中介明示。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page1 L9；Page6–7 L24–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4为有限符号把握无限对象失败以及整体进入系统",
+          "status": "supported",
+          "finding": "Page13明确发问为什么4；Page14–15接续。不是数学证明任意有限字母表只能产生有限字符串。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page13–15 L45–51"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识1修补匠tinker与体验发生",
+          "status": "supported",
+          "finding": "直接定位认识论与tinker。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page28–30 L90–96"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的1为mana全有全无的1/0循环",
+          "status": "supported",
+          "finding": "“无所谓指”可理解为无所指，循环与强迫症类比是讲者借齐泽克的表述。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page30–32 L96–106"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“结构人本主义”是讲者自定分类，原文明确说不是humanism；mana的1/0、儿童修补匠和强迫症均按本讲模型阅读。本批未核列维-斯特劳斯原典，不能把全部说明归为其逐字原说或临床结论。",
+          "source_ids": [
+            "a12-34-0257"
+          ],
+          "locator": "Page1 L9；Page17 L57；Page28–35 L90–121"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-1-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部4个feature与4个axis，复合细节拆项；未核原典与原音",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "婴儿认同镜中形象为moi，构成想象性的误认",
+          "status": "supported",
+          "finding": "Page6–7说明moi和image；Page9–10强调真实镜子仅模型，不是发育必须见镜子。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page6–10 L24–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "大他者/其他不动事物担保想象界与无意识",
+          "status": "supported",
+          "finding": "Page2–3给格位，Page8–14用柜子、目光、不变符号秩序说明。它是讲者的阶段解释，原讲还区分大写他者和成熟big Other。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page2–3 L12–15；Page8–14 L30–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "否定性差异原则使能指不能直接锚定所指，须符号中介",
+          "status": "supported",
+          "finding": "本体4在Page15–21明说否定性、差异、无法直接通达。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page15–21 L51–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "镜像直接同一触碰乱伦禁忌，必然病理化",
+          "status": "needs_qualification",
+          "finding": "Page7与Page13用病理语言描述短路；Page9–10/15也说明镜像关系普遍发生、需整合。原摘要易把一切正常镜像认同均判病理，需限定固着和短路，并标课程类比。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page7 L27；Page9–15 L33–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "欲望坚持到底、通过他者欲望寻找客体a构成例外",
+          "status": "supported",
+          "finding": "Page21–24展开；既有摘要保留跨文本声明正确。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page21–24 L69–79"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "文本诊断找话语不一致性及主体位置",
+          "status": "supported",
+          "finding": "Page24、28–31说明不能把主体直接固定在任何能指上，找话语对谁说。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page24 L79；Page28–31 L91–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "目的论2震荡与纵深化相对，象征化和阉割使自我镜像拉开距离",
+          "status": "supported",
+          "finding": "Page25–27直接给目的2；Page33涉及阉割，但属跨后期解释。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page25–27 L82–88；Page33 L106"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "误认作为隐喻，自我意味着不可寻觅性，寻求符号秩序基础",
+          "status": "supported",
+          "finding": "Page28与Page37直接支持，讲者同时承认早期/后期次第不确定。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page28 L91；Page31 L100；Page34–37 L109–118"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "他者欲望/大他者调和镜像与无意识",
+          "status": "supported",
+          "finding": "直接格位，同时说更进一步可说实在界协调；摘要保留本讲主要写法。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page2–3 L12–15；Page14 L48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4否定性/差异性，必须符号化才能把握实在",
+          "status": "supported",
+          "finding": "有本体性维度但没有预制本体论，不能误读为实在不存在。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page15–21 L51–69"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识1把欲望坚持到底，寻找客体a",
+          "status": "supported",
+          "finding": "原讲明确落格；年代定位依讲者跨文本提醒。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page21–24 L69–79"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的2为1/0震荡与象征化纵深对立",
+          "status": "supported",
+          "finding": "明确定位；隐喻将失败转作主体机制的线索。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page25–28 L82–91"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本讲在Page24明确说“我可能跨文本了”，Page31及34再次承认次第与专业性不确定。大写他者、客体a、欲望伦理和阉割等不能仅据本条断言都属于同一早期阶段；本轮未核拉康原典或临床证据。",
+          "source_ids": [
+            "a12-34-0258"
+          ],
+          "locator": "Page24 L79；Page31 L100；Page34 L109"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-1-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部4个feature与4个axis，复合细节拆项；未核原典与原音",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "巴特是运动中最不严格的哲学家，但尝试提供纵深",
+          "status": "needs_qualification",
+          "finding": "本讲批评其哲学不严格和缺少主体时间机制，没有论证所有结构主义者的最不严格排名。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page1–5 L9–29；Page18–21 L74–83"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "功能/行动/叙事三层：非人称符码、人称镜像、文本活世界效果",
+          "status": "supported",
+          "finding": "三层和效果完整展开；Page8讲者对行动层称谓说可能弄错，应保留课程口径而非标准定义背书。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page7–10 L39–50"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "广义叙事将文学、社会、意识形态、生理体验及符号关系都纳入",
+          "status": "supported",
+          "finding": "Page6、11–12列举这些领域，不能理解为经验上物理世界消失。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page6 L34；Page11–12 L53–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "零度写作自如生成，后承认一切文本同等、世界叙事化",
+          "status": "supported",
+          "finding": "Page10–11明确此展开；转折是讲者对理论历程的概括，未核原书年表。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page10–11 L50–53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "零度写作意味着作者死、阅读即写作；社评式结构批判",
+          "status": "needs_qualification",
+          "finding": "Page6–7把阅读/作者与后期巴特并置，Page12才以零度落认识1。不能压成三术语同义或同一时期的一条定义。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page6–7 L34–39；Page12–13 L56–59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "文学不受意识形态污染的绝对自由乌托邦",
+          "status": "supported",
+          "finding": "这是Page11和18–19的批评性重构，不是未加限定的巴特自述。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page11 L53；Page18–19 L74–77"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "局部整体化调和文学1/0震荡与外部纵深，结构由外部差异赋根",
+          "status": "supported",
+          "finding": "Page14–17直接论证，先从局部析结构再套其他文本；不是保证文学真正免于意识形态。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page14–17 L62–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "儿子骂爸爸比喻文学批判其所依赖整体意识形态",
+          "status": "supported",
+          "finding": "Page19逐项说明因整体给文本分析以结构却反过来批评整体。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page19 L77"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "叙事层调和非人称功能层与人称行动层",
+          "status": "supported",
+          "finding": "与本讲格位一致；行动层为讲者暂用名称。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page7–10 L39–50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4广义叙事化，一切可作为能指单元",
+          "status": "supported",
+          "finding": "Page10–12明确本体4，Page13进一步谈共时平面也为拟制。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page10–13 L50–59"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识1零度写作，内在张力生成，不预设意识形态",
+          "status": "needs_qualification",
+          "finding": "本讲把绝对独立作为巴特占据的制高点并批评做不到；摘要应呈现为要求/姿态而非确实不受意识形态。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page10–12 L50–56；Page18–19 L74–77"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的3局部整体化协调1/0与纵深",
+          "status": "supported",
+          "finding": "与Page14–17明确格位一致。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page14–17 L62–71"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "这里的“零度写作”、三层叙事与互文性主要按讲者的哲学重构串联；本讲自称不研究文论细节，并对行动层名称表示不确定。本轮没有把这套串联当成巴特原著逐年发展史。",
+          "source_ids": [
+            "a12-34-0259"
+          ],
+          "locator": "Page6–13 L34–59；Page21 L83"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-1-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部4个feature与4个axis，复合细节拆项；未核原典与原音",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "陈述为基本单元，知识考古发掘相似、机械、有机三个知识型",
+          "status": "supported",
+          "finding": "Page2–5陈述、Page8–14三期。原讲同时批评此分期遗漏观念论，非本批已验证哲学史。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page2–5 L12–24；Page8–14 L33–55"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "考古学协调微观冲突与宏观谱系",
+          "status": "supported",
+          "finding": "Page16–19明示格位；archive与archaeology在此为讲者联系，不作已核词源。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page16–19 L65–100"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "微观冲突升阶造成宏观结构，宏观只是符号拟制",
+          "status": "supported",
+          "finding": "Page20–26以阶次牵引和记忆效应说明；不是断言实际权力效果毫不存在。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page20–26 L103–121"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "没有预设本体框架，宇宙至高权力本体无合法性，局部网络生成",
+          "status": "supported",
+          "finding": "Page21–22直接说明，仍承认局部生成网络勉强可叫本体论。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page21–22 L106–109"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "谱系学知识型决定时代所有人且无主体",
+          "status": "needs_qualification",
+          "finding": "原讲确这样说，但Page11立即限定“只是从知的层面”，Page17–20以考古机制说明主体残余；原摘要省略限定形成全面人类行动不存在的意思。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page10–11 L39–42；Page17–20 L75–103"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "疯人从圣语、非理性并置关押到有机体剩余单独治疗",
+          "status": "supported",
+          "finding": "Page14–15三个例子完整，但属于讲者历史概括，不表示逐段核对过《疯癫史》。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page14–15 L53–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "没有宏观class struggle，只剩微观权力斗争及阶次升迁，知识即权力",
+          "status": "supported",
+          "finding": "Page17–26明确此重构。知识/权力直接等式也是本讲表述，非本批原典认证。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page17–26 L90–121"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "去中心化杀死宏观政治可能性",
+          "status": "needs_qualification",
+          "finding": "Page24、28–30是讲者明确从我的立场作的政治批评，不应写作中性公认的福柯后果。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page24 L115；Page28–30 L129–139"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "考古/档案机制调和微观网络与宏观谱系知识型",
+          "status": "supported",
+          "finding": "格位直接定义，宏观也称state结构。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page16–19 L65–100"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4不预设宏观本体，由微观局部生成",
+          "status": "supported",
+          "finding": "直接定义，解释为本课程权力模型。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page21–22 L106–109"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识1谱系原理，知识型中立无主体并决定时代",
+          "status": "supported",
+          "finding": "Page22明确1和中立；中立在本讲意指无主体的符号系统，并非无权力或价值中立研究得到证实。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page10–11 L39–42；Page22 L109"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的4局部发生去中心化，无宏观进步阶段",
+          "status": "supported",
+          "finding": "Page23直接落格；本讲的否定宏观战略批评见后续。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page23–26 L112–121"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "福柯属于结构主义而非后结构主义、知识等于权力、无主体性及宏观政治被杀死，均是讲者的分类和批评。其阶次模型在原文标为“我对福柯的理解”；本批只验证课程归属，不把模型当作福柯原著已核结论。认识论的“中立”在此指无主体，并不意味着不涉及权力。",
+          "source_ids": [
+            "a12-34-0260"
+          ],
+          "locator": "Page18–23 L97–112；Page28–30 L129–139"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-1-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上mana的1/0震颤是最小单元的循环运动：时而是一切意义的渊薮，时而是无意义的空洞。这种强迫症式的震荡是意义发生学的基本机制，也是所有神话结构共有的底层动力学——要么全有要么全无，两极之间永不停歇的震颤。",
+      "after": "④目的论上，讲者借齐泽克的说法把mana描述为1/0震颤：它既代表全部意义，又可作为无具体所指的空位，由此构成最小单元的循环。他将其用于解释意义的发生，并类比强迫性的循环；结尾同时承认实际病理循环还有能指链中介。这里是课程的结构模型，不能直接当作所有神话和强迫症的已验证共同机制。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0257"
+      ],
+      "locator": "Page30–35 L96–121",
+      "rationale": "去除把乱伦禁忌的全称比较转写为mana普遍经验事实，保留论证归属和实际循环限定。"
+    },
+    {
+      "code": "3-4-1-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②本体论上否定性原则主导：能指只能通过差异指向其他能指，无法直接锚定所指。镜像认同中的直接同一(能指=所指)触碰了乱伦禁忌，必然导致病理化。一切事物必须通过符号化机制才能被把握，没有直接的本体论通达。",
+      "after": "②本讲以否定性和差异原则解释本体论4：能指不能直接锚定所指，对事物的把握要经过符号机制。讲者把自我与镜像的直接短路类比为触碰符号学的“乱伦禁忌”，并用病理化描述固着于此的危险；这并非说正常镜像认同本身就是疾病，也不是本批已核实的临床机制。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0258"
+      ],
+      "locator": "Page7 L27；Page12–16 L42–54；Page19–21 L63–69",
+      "rationale": "限定病理判断的条件，避免将所有镜像认同直接等同病理。"
+    },
+    {
+      "code": "3-4-1-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①罗兰·巴特是结构主义运动中最不严格的哲学家，但他使结构主义获得了纵深尝试。叙事学的三层模型(功能层/行动层/叙事层)调和非人称化的底层符码与人称化的镜像误认——叙事层产生”文本是活的世界”的效果。",
+      "after": "①讲者批评巴特的哲学论证不够严格，同时肯定他尝试使结构主义获得叙事的纵深。本讲以功能层、行动层、叙事层构成模型：非人称的底层符码与人称化的镜像认同由叙事层协调，使读者产生文本是一个活的世界的效果；讲者对“行动层”的称谓也保留了不确定。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0259"
+      ],
+      "locator": "Page2–5 L14–29；Page7–10 L39–50",
+      "rationale": "删无依据最不严格排名，保留层次名称不确定性。"
+    },
+    {
+      "code": "3-4-1-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上的零度写作意味着作者已死、阅读即写作。巴特以社评家的身份用结构分析套用一切社会现象，嬉笑怒骂地拆解意识形态。这种姿态预设了文学不受意识形态污染的绝对自由立场——一种智性的自由主义乌托邦。",
+      "after": "③认识论1被讲者概括为坚持“零度写作”，并连到巴特以结构分析评论社会现象和意识形态的实践。他还并置了后期“阅读也是写作”“作者已死”的说法，但这些不是零度写作的简单同义词。讲者批评这种姿态仿佛占据不受意识形态污染的自由立场，认为这种绝对独立做不到。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0259"
+      ],
+      "locator": "Page6–7 L34–39；Page10–13 L50–59；Page18–19 L74–77",
+      "rationale": "分开不同时期/问题中的概念并标明绝对自由是批评对象。"
+    },
+    {
+      "code": "3-4-1-3",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论1：零度写作(writing degree zero)——保持文本内在符号学张力的自由生成，不预设任何意识形态",
+      "after": "认识论1：坚持零度写作——要求文本依内在符号张力自由生成；其不受意识形态影响的绝对独立，是讲者质疑的理想姿态",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0259"
+      ],
+      "locator": "Page10–12 L50–56；Page18–19 L74–77",
+      "rationale": "避免把课程明确批评做不到的要求当成已实现事实。"
+    },
+    {
+      "code": "3-4-1-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上的谱系学原理意味着知识型决定一个时代所有人的思想心灵，不存在主体性。疯癫在不同知识型中被不同对待：文艺复兴时疯人可说圣语，理性主义时期被归入非理性，19世纪后成为有机体的构成性例外被单独“治疗”。",
+      "after": "③在本讲的谱系学解释中，知识型组织一个时代的思想与知识，讲者称这一决定性首先限于“知”的层面；主体不再是原初根据，而至多体现为考古、记载与话语关系中的机制。他以疯癫为例，将文艺复兴的圣语、理性主义时期的非理性、19世纪有机体的构成性例外连成三种历史处理方式。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0260"
+      ],
+      "locator": "Page10–15 L39–60；Page17–20 L75–103",
+      "rationale": "补回原讲知识层面限定及考古主体残余。"
+    },
+    {
+      "code": "3-4-1-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上局部发生——没有class struggle层面的宏观政治，只有点对点的微观权力struggle。知识即权力，权力通过微观网络中的阶次升迁形成。福柯最终走向去中心化，所有话语都被消解为power struggle的局部态势，从而杀死了宏观政治的可能性。",
+      "after": "④目的论4被讲者解释为微观权力的局部发生与去中心化。他以知识、记载及结构升阶说明权力如何牵引其他关系，并批评这种模型取消了宏观阶级斗争和分阶段政治战略。所谓“杀死宏观政治”是讲者从自己的政治立场作出的判断，并非本批已核实的福柯自述或政治史定论。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0260"
+      ],
+      "locator": "Page17–26 L90–121；Page28–30 L129–139",
+      "rationale": "明确政治结论归属，避免中性事实化。"
+    }
+  ]
+}

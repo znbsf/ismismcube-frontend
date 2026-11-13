@@ -1,0 +1,543 @@
+{
+  "batch": "13-extra-reviews-clean",
+  "checked_on": "2026-11-13",
+  "scope": "六份复习课社区编纂正文全读，前讲尾部开讲与后讲标题按实际边界处理；无原音核听。",
+  "sources": [
+    {
+      "id": "x13-clean-0002",
+      "title": "0002_1-1_科学实在论_p27",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA/0002_1-1_%E7%A7%91%E5%AD%A6%E5%AE%9E%E5%9C%A8%E8%AE%BA_p27.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "仅复习课开讲 L83–99；仅文本核读，无原音核听。",
+      "locator": "仅复习课开讲 L83–99",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/1_实在论/1-1_科学实在论/0002_1-1_科学实在论_p27.md",
+      "sha256": "3d64d6fbf8b2f5a09a6ff64aeaead4ef69c3ab8c7993511c0b4d3b8ee192c7fd",
+      "git_blob_sha": "dd117c0e30559f7745318d009490e386c4f88dae"
+    },
+    {
+      "id": "x13-clean-0003",
+      "title": "0003_1-1_复习课_p37",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0003_1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p37.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–6 / L9–39；排除 Page 7–8 物理主义下一讲；仅文本核读，无原音核听。",
+      "locator": "Page 1–6 / L9–39；排除 Page 7–8 物理主义下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/1_实在论/1-1_复习课/0003_1-1_复习课_p37.md",
+      "sha256": "0da4bcf2b93a6570db2e74b69fde771b72d850355191543c47e9b7c63a9abec8",
+      "git_blob_sha": "511fc39cdf7518ed302eb4e352d823bec8f9beb8"
+    },
+    {
+      "id": "x13-clean-0342",
+      "title": "0342_4-4_不可能的乌托邦_p8560",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "仅复习课开讲 L161–167；仅文本核读，无原音核听。",
+      "locator": "仅复习课开讲 L161–167",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-4_不可能的乌托邦/0342_4-4_不可能的乌托邦_p8560.md",
+      "sha256": "ca2b9a7689b204f822925f99397e9ffb6e9f6223480b36b3f99955c46ca00d50",
+      "git_blob_sha": "1624a93e292d57b68bb579a172775daf3b16dc46"
+    },
+    {
+      "id": "x13-clean-0343",
+      "title": "0343_4-4_复习课_p8598",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0343_4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p8598.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–15 / L9–51 goodbye止；排除其后4-4-1与Page16；仅文本核读，无原音核听。",
+      "locator": "Page 1–15 / L9–51 goodbye止；排除其后4-4-1与Page16",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-4_复习课/0343_4-4_复习课_p8598.md",
+      "sha256": "2fd819d07468f6c2def9944ce02a1896cd636a602744cb112f00d3ad55d0d4f7",
+      "git_blob_sha": "621c4e403d6fd290457d88e84b36548fa6aea6da"
+    },
+    {
+      "id": "x13-clean-0075",
+      "title": "0075_1-4_复习_p1690",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/0075_1-4_%E5%A4%8D%E4%B9%A0_p1690.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–37 / L9–135 本讲全文；排除L136起下一讲、Page38；0074同一页重复元数据也已只读核对；仅文本核读，无原音核听。",
+      "locator": "Page1–37 / L9–135 本讲全文；排除L136起下一讲、Page38；0074同一页重复元数据也已只读核对",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/1_实在论/1-4_复习/0075_1-4_复习_p1690.md",
+      "sha256": "3baa1090c30914b9b084eabe7e71ed5cd15d8ed60214fa3adcae5613a1c971fe",
+      "git_blob_sha": "a9ee8fc02a6c3b3a555402ba7959679ad8cfef99"
+    },
+    {
+      "id": "x13-clean-0144",
+      "title": "0144_2-3_我思形而上学_笛卡尔的梦魇_斯宾诺莎的宁静_科学的摇篮_形而上学的坟墓_p3909",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E6%88%91%E6%80%9D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E6%A2%A6%E9%AD%87_%E6%96%AF%E5%AE%BE%E8%AF%BA%E8%8E%8E%E7%9A%84%E5%AE%81%E9%9D%99_%E7%A7%91%E5%AD%A6%E7%9A%84%E6%91%87%E7%AF%AE_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%9D%9F%E5%A2%93/0144_2-3_%E6%88%91%E6%80%9D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E6%A2%A6%E9%AD%87_%E6%96%AF%E5%AE%BE%E8%AF%BA%E8%8E%8E%E7%9A%84%E5%AE%81%E9%9D%99_%E7%A7%91%E5%AD%A6%E7%9A%84%E6%91%87%E7%AF%AE_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%9D%9F%E5%A2%93_p3909.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "复习引入边界仅 L27末句–30（此前总论尾段也只读检查标题序列）；仅文本核读，无原音核听。",
+      "locator": "复习引入边界仅 L27末句–30（此前总论尾段也只读检查标题序列）",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-3_我思形而上学_笛卡尔的梦魇_斯宾诺莎的宁静_科学的摇篮_形而上学的坟墓/0144_2-3_我思形而上学_笛卡尔的梦魇_斯宾诺莎的宁静_科学的摇篮_形而上学的坟墓_p3909.md",
+      "sha256": "f9ce52af94fc16878784fb4a1f8a5cf4ea0cda1a560e136267ba8ba061f9c179",
+      "git_blob_sha": "efee488a4c390cc1c439ed8fca98e869f6ca698f"
+    },
+    {
+      "id": "x13-clean-0145",
+      "title": "0145_2-3_复习课_p3916",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0145_2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p3916.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–16 / L9–86本讲全文；排除L87起实体一元论及Page17；仅文本核读，无原音核听。",
+      "locator": "Page1–16 / L9–86本讲全文；排除L87起实体一元论及Page17",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/2_形而上学_古代贵族的精神冒险_背景性的符号秩序与它自己的对立_比下_形而下学_有余_比上_观/2-3_复习课/0145_2-3_复习课_p3916.md",
+      "sha256": "76000ad06b88432224d9cc4f40570d23637b0a3f2db61dc037a47147130fe658",
+      "git_blob_sha": "7ce33bf7c8ec356e6e5dbec99c04e2ded39e40d1"
+    },
+    {
+      "id": "x13-clean-0232",
+      "title": "0232_3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论_p5984",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "仅复习课开讲 L112标题后–117；仅文本核读，无原音核听。",
+      "locator": "仅复习课开讲 L112标题后–117",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论/0232_3-3_生存论_Existentialism_温和布尔乔亚的激进反观念论_p5984.md",
+      "sha256": "d66efe80bc9561c975b075cf75d3ab74b465a8242d57e6b7fe5cbc07a1436a52",
+      "git_blob_sha": "4456eb175807aa0ffbd3e47314f071d4d1cbe50f"
+    },
+    {
+      "id": "x13-clean-0233",
+      "title": "0233_3-3_复习课_p6008",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/0233_3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE_p6008.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–13 / L9–143“好讲到这边”止；排除331标题起及Page14；仅文本核读，无原音核听。",
+      "locator": "Page1–13 / L9–143“好讲到这边”止；排除331标题起及Page14",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/0233_3-3_复习课_p6008.md",
+      "sha256": "9b6304fb72f369b5944f739fbcfc9f9e018fefd5d673be892db78f43f1119e31",
+      "git_blob_sha": "a8372aca9cce5e75b2c76ecc36b9b8cc10abc867"
+    },
+    {
+      "id": "x13-clean-0299",
+      "title": "0299_4-2_现实的正统化_p7647",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "仅复习课开讲 L39同BV标题后–44；仅文本核读，无原音核听。",
+      "locator": "仅复习课开讲 L39同BV标题后–44",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_现实的正统化/0299_4-2_现实的正统化_p7647.md",
+      "sha256": "b7eac7c1129cea19984abdb5b4561a6f44e71bf2fd71a9e5bc09ebcd6e912b89",
+      "git_blob_sha": "f0bf0e8d7dbb398f69c360c18574055bd2d3eaa7"
+    },
+    {
+      "id": "x13-clean-0300",
+      "title": "0300_4-2_复习_p7654",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/0300_4-2_%E5%A4%8D%E4%B9%A0_p7654.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page1–20 / L9–102本讲全文；排除L103起421及Page21；仅文本核读，无原音核听。",
+      "locator": "Page1–20 / L9–102本讲全文；排除L103起421及Page21",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/4_实践/4-2_复习/0300_4-2_复习_p7654.md",
+      "sha256": "a061fbfe0ddfccc007603d50a7b1fbd757ab74cedd99aaac8c2ebc02865e0afc",
+      "git_blob_sha": "5a4a0f8dab9af0bd7a05fee8274b37beaf6a281f"
+    },
+    {
+      "id": "x13-identity-BV1Sp4y147je",
+      "title": "2-3复习BV开头与结尾的本地ASR身份比对",
+      "url": "https://www.bilibili.com/video/BV1Sp4y147je",
+      "kind": "local_asr_identity_comparison",
+      "locator": "视频00:00–03:00及27:57.19–30:57.19；对照0144 L27–30、0145 L9–21及L78–86",
+      "verification_scope": "实际逐段读103段抽样ASR并比对编纂稿首尾：开头我思调和、后台程序报错、反向列234/233，结尾宗教三元组及康德写Java比喻次序吻合。证据支持同讲归属；中间音轨未逐段比对，没有人工听校。",
+      "generation": {
+        "bvid": "BV1Sp4y147je",
+        "cid": 338577568,
+        "duration_seconds": 1857.1946875,
+        "sample_ranges": [
+          [
+            0,
+            180
+          ],
+          [
+            1677.1946875,
+            1857.1946875
+          ]
+        ],
+        "model": "Systran/faster-whisper-small",
+        "model_revision": "536b0662742c02347bc0e980a01041f333bce120",
+        "audio_sha256": "4ab374c446b11ad5eabb5282664d26511a4a8dd172d87de9b3351dcca2f53e1c",
+        "samples_sha256": "f1f21ae74cb9f6f25ce24fcc0e49495d0c51ff889390dadd28d71a0c6b8c165e",
+        "scope": "Opening and ending ASR identity comparison only; not full audio review",
+        "audio_verified": false,
+        "segments": 103,
+        "transcribe_options": {
+          "language": "zh",
+          "beam_size": 5,
+          "vad_filter": true,
+          "condition_on_previous_text": false,
+          "device": "cpu",
+          "compute_type": "int8",
+          "cpu_threads": 4
+        }
+      }
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV1fb4y187Sr",
+      "series_code": "1-1→4-1 复习",
+      "title": "1-1复习：从科学主义意识形态批判转入4-1",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_not_audio_verified",
+      "review_scope": "0002 L83–99开讲＋0003 Page1–6全文；排除物理主义下一讲",
+      "identity_verification": "0002 L83明确同BV链接，L84明确1-1复习；0003接续同段并于Page6结束。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者将1-1统摄为布尔乔亚的科学主义意识形态，并依机械、有机、结构及实用姿态分别讨论物理主义、社会建构论、认知主义和行为主义；这是本课程的政治哲学分类。",
+          "source_ids": [
+            "x13-clean-0002"
+          ],
+          "locator": "0002 L84–88"
+        },
+        {
+          "text": "讲者认为这些立场仍给人类或特定支配者保留中心位置：物理主义依人造模型、认知主义抬高功能软件层，而行为主义把操控者视线置于被研究者之外。",
+          "source_ids": [
+            "x13-clean-0002",
+            "x13-clean-0003"
+          ],
+          "locator": "0002 L89–99；0003 Page1–2 / L9–18"
+        },
+        {
+          "text": "复习的目的被明确说成给4-1铺路：先揭示科学话语中自称普遍人性的民族国家和利益位置，再进入普罗大众的科学体系；《德意志意识形态》被举为切入口。",
+          "source_ids": [
+            "x13-clean-0003"
+          ],
+          "locator": "Page3–4 / L21–24"
+        },
+        {
+          "text": "课程区分仆从性的学术话语回答何者存在，主人性的价值权威规定应当如何；理论批评首先针对前者，因为其权力较弱却掌握现实定义。",
+          "source_ids": [
+            "x13-clean-0003"
+          ],
+          "locator": "Page4–6 / L24–39"
+        },
+        {
+          "text": "讲者把价值判断变成客观判断称为客观化，并要求与客体化区分；本轮保留这一区分的课内功能，未据德文原典校定全部英译。",
+          "source_ids": [
+            "x13-clean-0003"
+          ],
+          "locator": "Page5 / L30–36"
+        }
+      ],
+      "editorial_notes": [
+        "全讲政治性评价按讲者观点转述，不把对科学/行为主义的概括当作全部研究史已验证结论。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1qb4y1H77s",
+      "series_code": "4-4 复习",
+      "title": "4-4复习：弱VR、异化与主体性发生",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_not_audio_verified",
+      "review_scope": "0342 L161–167开讲＋0343 Page1–15全文goodbye止",
+      "identity_verification": "0342 L161明确同BV，L162明确4-4复习；正文连贯接续。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者声明4-4是自创的弱VR未来模型，其设定要切断生产关系中的物化与爱欲关系异化的直接因果联系；这不意味着所有异化消失。",
+          "source_ids": [
+            "x13-clean-0342",
+            "x13-clean-0343"
+          ],
+          "locator": "0342 L162–167；0343 Page1–4 / L9–18"
+        },
+        {
+          "text": "四支被分成两组：441/442以人类为中心，分别侧重生存治理与异化；443/444讨论AI消解人类中心，由服务器内部争取地位走向外部身体。",
+          "source_ids": [
+            "x13-clean-0343"
+          ],
+          "locator": "Page1–4 / L9–18"
+        },
+        {
+          "text": "人类/AI与是否具有人性形成交叉分类；讲者认为AI须认识自身被工具化的处境、争取平等，而非只误认自己为人。此为思想实验中的主体性设定。",
+          "source_ids": [
+            "x13-clean-0343"
+          ],
+          "locator": "Page3–6 / L15–24"
+        },
+        {
+          "text": "弱VR不是被断言必然到来的线性未来。讲者把整个方案称为哲学狂想，并提出也可分析不由资本生产主导、却存在同类奴役关系的历史或局部结构。",
+          "source_ids": [
+            "x13-clean-0343"
+          ],
+          "locator": "Page6–8 / L24–30"
+        },
+        {
+          "text": "模型的斗争从人类与爱欲监控系统，转为AI与代表僵死规则的人类；分析标准因此不限于物质生产资料，而扩展到享乐再生产和主体地位。",
+          "source_ids": [
+            "x13-clean-0343"
+          ],
+          "locator": "Page8–10 / L30–36"
+        },
+        {
+          "text": "结尾把4-4归为主体化发生学的一个分支，并预告另以本体论、认识论、目的论讨论主义主义逻辑；省略场域或其他维度不等于把缺省项编码为4。",
+          "source_ids": [
+            "x13-clean-0343"
+          ],
+          "locator": "Page10–15 / L36–51"
+        }
+      ],
+      "editorial_notes": [
+        "AI意识、三五百年未来及通用模型适用性都是讲者的哲学设定和推测，未按现有AI工程事实验证。",
+        "Page3关于有人性AI有一句前后冲突的编纂句，摘要依据同段反复解释的工具处境/平等论证，不据孤句倒转其意思。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1vv411h7kx",
+      "series_code": "1-4 复习",
+      "title": "复习课2：平凡主义四大类与十六种意识形态",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_not_audio_verified",
+      "review_scope": "0075 Page1–37全文；0074 Page1元数据复核",
+      "identity_verification": "0075 L11精确BV、L14标题、L15开讲；0074重复同页，身份明确。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把1-4与1-1的四种学术立场对应，但明确本课对象是市民社会里的意识形态：尤其“心理主义”指大众对心理学和内心的崇拜，不能直接等同心理学研究。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page1–4 / L15–28"
+        },
+        {
+          "text": "当代自然主义的四种目的姿态依次围绕和平、客观、宁静与蒙昧展开；讲者把它们读作压抑冲突、划分精英与俗人、以沉默调和、再把不可说神圣化的过程。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page5–10 / L31–46"
+        },
+        {
+          "text": "世俗人文主义一支从纵容、多元文化、环保到性解放；讲者解释它先处理包容与总体化的对立，再诉诸共同环境和身体内在自然，而未消除主体性矛盾。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page10–16 / L46–64"
+        },
+        {
+          "text": "心理主义一支以情绪稳定、正常/不正常、庸俗泛性主义及神秘女性本质排列。讲者批评把结构冲突都交给心理调节，并把精神分析大众化与不可反思的女性本质崇拜区分出来。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page17–26 / L67–98"
+        },
+        {
+          "text": "庸俗主义一支从占小便宜的顺从、追求强烈满足的粗俗、抽象求胜的竞争走向复仇；复仇部分以罪、耻辱、牺牲描述意义秩序崩溃，再把对牺牲的反思引到“存在还是不存在”的形而上学问题。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page27–34 / L103–126"
+        },
+        {
+          "text": "结尾明确体系用于把握意识形态而非穷尽一个人；人不能被完全压入分类，未被遮蔽的剩余使结构继续变化。讲者也区分记住编号与实际反思和抉择。",
+          "source_ids": [
+            "x13-clean-0075"
+          ],
+          "locator": "Page35–37 / L129–135"
+        }
+      ],
+      "editorial_notes": [
+        "此处正常/变态、女性性及疾病例子的说法是课程的意识形态批评语境，不是临床诊断、性别本质事实或对特定群体的定论。",
+        "复仇部分按理论转向概括，未将讲者的行动修辞转为伤害行为建议。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Sp4y147je",
+      "series_code": "2-3 复习",
+      "title": "2-3复习：我思如何调和形而上与形而下",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_identity_sample_matched_not_audio_verified",
+      "review_scope": "0144 L27复习标题＋0145 Page1–16全文；另用指定BV首尾各180秒本地ASR核对归属，中间未做音文逐段对齐。",
+      "identity_verification": {
+        "status": "opening_and_ending_asr_matched",
+        "previous_basis": "标题与序列推定，编纂文本未标精确BV",
+        "source_ids": [
+          "x13-identity-BV1Sp4y147je",
+          "x13-clean-0144",
+          "x13-clean-0145"
+        ],
+        "locator": "视频00:22.44–03:00、27:57.19–30:56.76；0144 L27–30、0145 L9–21及L78–86",
+        "finding": "独立取得指定BV音轨，首尾多段独特语句与编纂稿按相同次序对应；提高到片段文字匹配支持，不声称全时长逐字相同。"
+      },
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本课把我思形而上学说明为第一人称意识调和形而上与形而下的冲突；形而上被解释为背景符号秩序内部冲突在前台显现的症状。",
+          "source_ids": [
+            "x13-clean-0144",
+            "x13-clean-0145"
+          ],
+          "locator": "0144 L27–30；0145 Page1–2 / L9–18"
+        },
+        {
+          "text": "231至234看似一元、二元、多元及空缺的本体差异，讲者实际将其放在认识论：实体认识自己、我认识实体、我按预设安排认识自己、最后实体通过事物关系生成我。",
+          "source_ids": [
+            "x13-clean-0145"
+          ],
+          "locator": "Page2–7 / L19–50"
+        },
+        {
+          "text": "宇宙平等主义取消观察者的特权中心，把心灵理解为有限事物之间的关系；哥白尼去中心化被用作引子，科学关系由此获得本体论位置。",
+          "source_ids": [
+            "x13-clean-0145"
+          ],
+          "locator": "Page5–7 / L30–50"
+        },
+        {
+          "text": "讲者认为加桑狄把时空保留为上帝不改变的背景，与上帝可任意设定世界之间有内在张力；拆掉这一例外便引向24，把心灵和感觉也纳入运动及反作用。",
+          "source_ids": [
+            "x13-clean-0145"
+          ],
+          "locator": "Page8–11 / L56–67"
+        },
+        {
+          "text": "本课以斯宾诺莎的形式分析、笛卡尔我思、莱布尼兹不可知单子及加桑狄的时空/伦理热忱串联到康德；这是讲者的教学路线，未另证各项历史影响。",
+          "source_ids": [
+            "x13-clean-0145"
+          ],
+          "locator": "Page11–14 / L67–78"
+        },
+        {
+          "text": "结尾把我思在基督教三元结构中占据位置，解释为它将从一个本体上升为背景框架的准备，借此说明为何理解康德需要前面多个环节。",
+          "source_ids": [
+            "x13-clean-0145"
+          ],
+          "locator": "Page14–16 / L78–86"
+        }
+      ],
+      "editorial_notes": [
+        "编纂文本没有精确BV，最初按标题和序列推定；随后独立取得本BV音轨，首尾各180秒的ASR与本讲开头及结尾连续匹配。现按片段匹配支持同讲归属，仍非人工听校或全时长逐字一致。",
+        "对单子、物自体、加桑狄及基督教三位结构的比较均是课程解读，不能直接当作哲学史影响关系已验证。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1SP4y1a7Em",
+      "series_code": "3-3 复习",
+      "title": "生存论复习：心灵、生命与尊严的本体论冒险",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_not_audio_verified",
+      "review_scope": "0232 L112开讲＋0233 Page1–13本讲全文",
+      "identity_verification": "0232 L112列精确BV与复习课标题，0233正文接续明确。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "复习按学术、宗教、政治、文学四种主导姿态重排33的四支，并指出各小支内部也可比较这些姿态；这是一套辅助理解课程结构的映射。",
+          "source_ids": [
+            "x13-clean-0232",
+            "x13-clean-0233"
+          ],
+          "locator": "0232 L112–117；0233 Page1–2 / L9–21、Page9 / L123"
+        },
+        {
+          "text": "331用《存在与时间》的海德格尔、萨特、梅洛庞蒂和晚期海德格尔分别说明学术分析、伦理决断、政治问题和诗性思维，强调各阶段文本的区别。",
+          "source_ids": [
+            "x13-clean-0232",
+            "x13-clean-0233"
+          ],
+          "locator": "0232 L112–117；0233 Page1 / L9–16"
+        },
+        {
+          "text": "332被解释为宗教意识下有限者中介绝对者的生存：克尔凯郭尔三阶段、荷尔德林以诗代思、别尔嘉耶夫建设共同体、雅斯贝尔斯哲学化解码。讲者把一度误叫尼采的第三人现场纠正为别尔嘉耶夫。",
+          "source_ids": [
+            "x13-clean-0233"
+          ],
+          "locator": "Page2–3 / L22–49"
+        },
+        {
+          "text": "333讨论同一与政治姿态：舍斯托夫抗争、雅各比接纳、晚年尼采复数化及金融投机的无目的自循环；复数化明确由讲者根据四份残稿推断，并非无争议定论。",
+          "source_ids": [
+            "x13-clean-0233"
+          ],
+          "locator": "Page4–6 / L55–92"
+        },
+        {
+          "text": "334以文学人物代作者和读者承受生存张力：陀思妥耶夫斯基的宗教、卡夫卡的无头科层、加缪对荒谬的双重反思、博尔赫斯在仍有时空主体等结构中组合本体论游戏。",
+          "source_ids": [
+            "x13-clean-0233"
+          ],
+          "locator": "Page6–9 / L93–123"
+        },
+        {
+          "text": "讲者提醒勿过早把社会再生产危机认作个人生存危机，并批评主体过度中心化；结尾从主体调和本体论的失败，转向结构主义的差异符号系统和新的主体发生问题。",
+          "source_ids": [
+            "x13-clean-0233"
+          ],
+          "locator": "Page9–13 / L123–143"
+        }
+      ],
+      "editorial_notes": [
+        "开讲口语曾省略共同前缀写3-1至3-4，正文清楚对应3-3-1至3-3-4；摘要按实际分支释明。",
+        "编纂文本中的梅洛庞蒂书名及“推荐四本”的计数不稳定，本摘要不把它们固化为校定书目；可另用已有正式书目检索。",
+        "生存论失败、疾病、粉丝和政治身份等评价按讲者课程立场处理，未作临床或传记因果判断。"
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1UF411b7Ls",
+      "series_code": "4-2 复习",
+      "title": "4-2复习：历史实践、继承与人民幸福",
+      "evidence_level": "community_compiled_text_read",
+      "body_status": "compiled_text_reviewed_not_audio_verified",
+      "review_scope": "0299 L39开讲＋0300 Page1–20全文",
+      "identity_verification": "0299 L39给出精确BV与4-2复习标题，0300接续。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把这次复习也称预习，借历史组织与实践说明42：421侧重合法化窗口，422侧重危机状态，423与424讨论国际组织和难以继承的实践；这些是课程分类而非现成史学分期。",
+          "source_ids": [
+            "x13-clean-0299",
+            "x13-clean-0300"
+          ],
+          "locator": "0299 L39–44；0300 Page1、4–6、16 / L9、L18–37、L81"
+        },
+        {
+          "text": "424前三种运动被概括为循环、对抗和回到中心的调和，并用S、T、M作代表；第四种无名实践被视为前三种极端显现共同的背景。讲者关于具体人物贡献的排名属于其历史判断。",
+          "source_ids": [
+            "x13-clean-0300"
+          ],
+          "locator": "Page1–3 / L9–15"
+        },
+        {
+          "text": "421与43的界限被说成历史上可变化：若43中负责调和的人民幸福被忽视，合法化诉求可能重新出现。讲者把“首先出现421”明确称为大胆揣测。",
+          "source_ids": [
+            "x13-clean-0300"
+          ],
+          "locator": "Page4–6 / L18–37"
+        },
+        {
+          "text": "对423与4242的比较强调历史条件改变：通信、支付与组织形式不同，不能把旧组织形式直接复制到新时期；本课现场将误说的4243纠正为4242。",
+          "source_ids": [
+            "x13-clean-0300"
+          ],
+          "locator": "Page9–11 / L60–66"
+        },
+        {
+          "text": "讲者批评过度依赖领袖个人思维、权威与关系的实践难以延续，并明确不建议强求重演那些高代价历史实验；其重点是个人经验与共同体继承之间的断裂。",
+          "source_ids": [
+            "x13-clean-0300"
+          ],
+          "locator": "Page11–14 / L66–75"
+        },
+        {
+          "text": "结尾把42保留为个人所理解的初心，把43中他人的幸福视作需在历史条件下不断判断的关系；认识论上的缓和、紧张、保障或无法兼顾不是固定状态。",
+          "source_ids": [
+            "x13-clean-0300"
+          ],
+          "locator": "Page18–20 / L87–102"
+        }
+      ],
+      "editorial_notes": [
+        "人物字母沿用课程，不据猜测填人名；人物贡献、制度合法性与历史成功失败均为讲者评价，本轮未逐件核原始历史档案。",
+        "本摘要记录组织史和理论判断，不把原讲中的动员修辞转写为现实操作方案。"
+      ],
+      "reading_links": []
+    }
+  ]
+}

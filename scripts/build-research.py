@@ -3,6 +3,7 @@
 Does not rewrite the upstream catalogue. Run again after reviewing a batch.
 """
 import json
+import copy
 import re
 import sys
 from collections import Counter
@@ -52,6 +53,34 @@ def referenced_sources(value):
     return found
 
 
+def correct_courses(courses, corrections):
+    result = copy.deepcopy(courses)
+    by_id = {course['id']: course for course in result}
+    chains, histories = {}, {}
+    for correction in corrections:
+        bv = correction['id']
+        if bv not in by_id or not correction.get('evidence_source_ids') or not correction.get('rationale'):
+            raise ValueError(f'Invalid course correction: {bv}')
+        before, after = correction['before'], correction['after']
+        if set(before) != set(after) or not set(after) <= {'title', 'kind', 'related_codes'}:
+            raise ValueError(f'Invalid course correction fields: {bv}')
+        histories.setdefault(bv, []).append(correction)
+        for key in before:
+            chain = chains.setdefault((bv, key), [])
+            if chain and chain[-1][1] != before[key]:
+                raise ValueError(f'Discontinuous course correction: {bv}.{key}')
+            chain.append((before[key], after[key]))
+    for (bv, key), chain in chains.items():
+        if by_id[bv].get(key) not in [chain[0][0], *(after for _, after in chain)]:
+            raise ValueError(f'Course metadata drift: {bv}.{key}')
+        by_id[bv][key] = copy.deepcopy(chain[-1][1])
+    for bv, history in histories.items():
+        by_id[bv]['metadata_correction'] = copy.deepcopy(history[-1])
+        if len(history) > 1:
+            by_id[bv]['metadata_correction_history'] = copy.deepcopy(history)
+    return result
+
+
 def assemble(root):
     catalogue = read_json(root / "public/ism.json")
     inputs = [("sources.json", read_json(root / "research/sources.json"))]
@@ -60,6 +89,7 @@ def assemble(root):
         inputs.append((course_file.name, read_json(course_file)))
     inputs += [(p.name, read_json(p)) for p in sorted((root / "research/batches").glob("*.json"))]
     sources, entries, corrections, reconciliations, course_entries = {}, {}, [], [], {}
+    course_corrections = []
     for filename, payload in inputs:
         for source in payload.get("sources", []):
             source_id = source["id"]
@@ -73,6 +103,7 @@ def assemble(root):
             sources[source_id] = {**source, "batch_file": filename}
     for filename, payload in inputs:
         validate_refs(payload, sources, filename)
+        course_corrections.extend({**c, 'batch_file': filename} for c in payload.get('course_corrections', []))
         for contribution in payload.get('course_entries', []):
             bv = contribution['id']
             if not re.fullmatch(r'BV[0-9A-Za-z]{10}', bv) or bv in course_entries:
@@ -88,7 +119,7 @@ def assemble(root):
             for claim in contribution['course_summary']:
                 if not claim.get('text') or not claim.get('source_ids') or not claim.get('locator'):
                     raise ValueError(f'Course body claim needs text, sources and locator: {bv}')
-                if all(sources[s].get('kind') in ('catalogue', 'course_video_page', 'search_snippet') for s in claim['source_ids']):
+                if all(sources[s].get('kind') in ('catalogue', 'course_video_page', 'course_video_metadata', 'search_snippet') for s in claim['source_ids']):
                     raise ValueError(f'Titles cannot support course body: {bv}')
             for reading in contribution.get('reading_links', []):
                 if not reading.get('locator') or not reading.get('reason'):
@@ -107,7 +138,7 @@ def assemble(root):
                     raise ValueError(f"{code}: course claim must declare evidence level")
                 if any(word in contribution["evidence_level"] for word in ("title_only", "catalogue_only", "parent_lecture_reference_only")):
                     raise ValueError(f"{code}: insufficient evidence level for a course summary")
-                if all(sources[s].get("kind") in ("course_video_page", "catalogue", "search_snippet") for s in claim["source_ids"]):
+                if all(sources[s].get("kind") in ("course_video_page", "course_video_metadata", "catalogue", "search_snippet") for s in claim["source_ids"]):
                     raise ValueError(f"{code}: titles/catalogues alone cannot support a course summary")
             for axis in contribution.get("axis_explanations", []):
                 index = axis.get("axis_index")
@@ -142,6 +173,7 @@ def assemble(root):
                 if replacing:
                     axis['superseded_by'] = replacing
     courses = read_json(course_file).get("courses", []) if course_file.exists() else []
+    courses = correct_courses(courses, course_corrections)
     known_bv = {c['id'] for c in courses}
     if set(course_entries) - known_bv:
         raise ValueError('Course body has no catalogued identity')
@@ -194,6 +226,7 @@ def assemble(root):
         "entries": dict(sorted(entries.items())),
         "corrections": corrections,
         "courses": courses,
+        "course_corrections": course_corrections,
         "course_entries": course_entries,
         "counts": {
             "entries_with_contributions": len(entries),
@@ -271,7 +304,7 @@ def render(knowledge):
     lines += ["", "## 校勘记录", ""]
     for correction in knowledge["corrections"]:
         links = "、".join(f"[{sources[s]['title']}]({sources[s]['url']})" for s in correction.get("evidence_source_ids", []))
-        lines += [f"### {correction['code']}", "", f"字段：`{correction.get('field_path')}`；审查状态：`{correction['status']}`；应用状态：`{correction.get('application_status', 'not_applicable')}`。", "", f"修改前：{correction.get('before', '')}", "", f"修改后：{correction.get('after', '')}", "", correction.get("rationale", ""), "", f"依据：{links}。", ""]
+        lines += [f"### {correction['code']}", "", f"字段：`{correction.get('field_path')}`；审查状态：`{correction['status']}`；应用状态：`{correction.get('application_status', 'not_applicable')}`。", "", f"修改前：{correction.get('before', '')}".rstrip(), "", f"修改后：{correction.get('after', '')}", "", correction.get("rationale", ""), "", f"依据：{links}。", ""]
         if correction.get('resolution'):
             resolution = correction['resolution']
             refs = '、'.join(f"[{sources[s]['title']}]({sources[s]['url']})" for s in resolution['source_ids'])
@@ -331,7 +364,10 @@ def render_courses(knowledge):
 
 
 def render_course_bodies(knowledge):
-    lines = ['# 补充课程正文导读', '', '按BV号和原有系列编号保留身份。ASR转录摘要不是原音听校；课程对黑格尔等人的解释与原著原意需要分别核对。', '']
+    statuses = Counter(e['body_status'] for e in knowledge.get('course_entries', {}).values())
+    lines = ['# 补充课程正文导读', '', '按BV号和原有系列编号保留身份。正文包括编纂讲稿、社区ASR、本地ASR、已校正课摘要复用及部分板书说明；均非原音听校。逐项范围见各讲状态，课程解释与原著原意需要分别核对。', '', '| 正文证据状态 | 项数 |', '| --- | ---: |']
+    lines += [f'| `{status}` | {count} |' for status, count in sorted(statuses.items())]
+    lines += ['', '“部分板书”仅说明已观察的画面；“复用”不增加独立课程数。下列摘要均不能当作逐字稿。', '']
     for bv, entry in knowledge.get('course_entries', {}).items():
         lines += [f"- [{entry['series_code']} {entry['title']}](#{bv})"]
     for bv, entry in knowledge.get('course_entries', {}).items():
@@ -349,17 +385,24 @@ def render_course_bodies(knowledge):
     return '\n'.join(lines).rstrip() + '\n'
 
 
-def manual_review(root, knowledge):
+def field_review(root, knowledge, selection="manual"):
     """Count real field records; coverage never implies all claims are confirmed."""
+    prefix = "06-manual-" if selection == "manual" else "12-ai-"
+    node_key = "manual_nodes" if selection == "manual" else "ai_nodes"
+    label = "原人工摘要" if selection == "manual" else "原AI摘要（3-3、3-4）"
+    json_name = "manual-review.json" if selection == "manual" else "ai-review.json"
     catalogue = read_json(root / 'public/ism.json')
     rows, statuses = [], Counter()
     for code, item in catalogue.items():
-        if code == 'introduction' or item.get('summary_status') != 'manual':
+        if code == 'introduction':
+            continue
+        selected = item.get('summary_status') == 'manual' if selection == 'manual' else bool(re.fullmatch(r'3-[34](?:-[1-4]){0,2}', code))
+        if not selected:
             continue
         expected = {(name, i) for name in ('feature_list', 'axis_list') for i in range(len(item[name]))}
         checks = []
         for contribution in knowledge['entries'].get(code, {}).get('contributions', []):
-            if not contribution['batch_file'].startswith('06-manual-') or contribution.get('superseded_by'):
+            if not contribution['batch_file'].startswith(prefix) or contribution.get('superseded_by'):
                 continue
             for check in contribution.get('checked_claims', []):
                 path = tuple(check.get('field_path', []))
@@ -377,28 +420,37 @@ def manual_review(root, knowledge):
                      'recorded_fields': len(recorded), 'missing_fields': [list(p) for p in sorted(expected - recorded)],
                      'checks': checks,
                      'applied_corrections': [c for c in knowledge['corrections'] if c['code'] == code
-                                             and c['batch_file'].startswith('06-manual-')
+                                             and c['batch_file'].startswith(prefix)
                                              and c.get('application_status') in ('applied', 'applied_then_superseded')]})
-    counts = {'manual_nodes': len(rows), 'all_fields_recorded_nodes': sum(not r['missing_fields'] for r in rows),
+    counts = {node_key: len(rows), 'all_fields_recorded_nodes': sum(not r['missing_fields'] for r in rows),
               'expected_fields': sum(r['expected_fields'] for r in rows),
               'recorded_fields': sum(r['recorded_fields'] for r in rows),
               'claim_checks': sum(len(r['checks']) for r in rows), 'claim_statuses': dict(sorted(statuses.items()))}
     report = {'scope': '逐字段文本比对覆盖；支持、限定、未定位与修订分别保留。覆盖完整不等于全部命题通过，更不等于原音或原典审定。',
               'counts': counts, 'entries': rows}
-    lines = ['# 原人工摘要逐字段校对', '', report['scope'], '',
-             f"共 {counts['manual_nodes']} 节点；{counts['all_fields_recorded_nodes']} 节点已记录全部字段；{counts['recorded_fields']}/{counts['expected_fields']} 字段，拆分为 {counts['claim_checks']} 条命题记录。", '',
+    lines = [f'# {label}逐字段校对', '', report['scope'], '',
+             f"共 {counts[node_key]} 节点；{counts['all_fields_recorded_nodes']} 节点已记录全部字段；{counts['recorded_fields']}/{counts['expected_fields']} 字段，拆分为 {counts['claim_checks']} 条命题记录。", '',
              '| 编号 | 字段覆盖 | 已应用修订 | 缺少核查字段 |', '| --- | ---: | ---: | --- |']
     for row in rows:
         missing = ', '.join(f'{p[0]}[{p[1]}]' for p in row['missing_fields']) or '无；具体支持程度见逐条记录'
         lines.append(f"| [{row['code']} {row['title']}](READING-GUIDE.md#{row['code'].replace('-', '')}) | {row['recorded_fields']}/{row['expected_fields']} | {len(row['applied_corrections'])} | {missing} |")
     lines += ['', '## 命题状态原样统计', '', '| 状态 | 数量 |', '| --- | ---: |']
     lines += [f'| {status} | {count} |' for status, count in sorted(statuses.items())]
-    lines += ['', '全部字段、定位、发现和应用记录见 [结构化记录](../public/manual-review.json)。未定位细节不会因所在字段有其他句子得到支持而被标成通过。']
+    lines += ['', f'全部字段、定位、发现和应用记录见 [结构化记录](../public/{json_name})。未定位细节不会因所在字段有其他句子得到支持而被标成通过。']
     return report, '\n'.join(lines).rstrip() + '\n'
+
+
+def manual_review(root, knowledge):
+    return field_review(root, knowledge, "manual")
+
+
+def ai_review(root, knowledge):
+    return field_review(root, knowledge, "ai")
 
 
 def full_course_catalogue(root, knowledge):
     catalogue = read_json(root / 'public/courses.json')
+    catalogue['courses'] = correct_courses(catalogue['courses'], knowledge.get('course_corrections', []))
     for course in catalogue['courses']:
         if course['id'] in knowledge['course_entries']:
             body = knowledge['course_entries'][course['id']]
@@ -465,6 +517,9 @@ if __name__ == "__main__":
     manual, manual_text = manual_review(ROOT, knowledge)
     (ROOT / 'public/manual-review.json').write_text(json.dumps(manual, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     (ROOT / 'research/MANUAL-REVIEW.md').write_text(manual_text, encoding='utf-8')
+    ai, ai_text = ai_review(ROOT, knowledge)
+    (ROOT / 'public/ai-review.json').write_text(json.dumps(ai, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    (ROOT / 'research/AI-REVIEW.md').write_text(ai_text, encoding='utf-8')
     if (ROOT / 'public/transcripts.json').exists():
         report, coverage_text = coverage(ROOT, knowledge)
         (ROOT / 'public/coverage.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

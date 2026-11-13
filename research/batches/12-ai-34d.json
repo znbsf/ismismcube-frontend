@@ -1,0 +1,1220 @@
+{
+  "batch": "12-ai-34d",
+  "checked_on": "2026-11-13",
+  "scope": "3-4-3全5节点39字段逐字段完整核读；复合命题拆分，复用既有结论但不限于核心抽样。",
+  "sources": [
+    {
+      "id": "a12-34-0266",
+      "title": "0266_3-4-3_差异的辩证法_p6921",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/0266_3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95_p6921.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/0266_3-4-3_差异的辩证法_p6921.md",
+      "sha256": "7233df194db41e7b262c6986981e434ff62c759e11b56bc573910bd6a2112bae",
+      "git_blob_sha": "22d2fd9d52be9078168d44a23aa2a4fa9d8510aa",
+      "locator": "Page1–33 L9–125（L125只取本讲结尾）",
+      "verification_scope": "逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。"
+    },
+    {
+      "id": "a12-34-0267",
+      "title": "0267_3-4-3-1_游牧的辩证主义_p6954",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89/0267_3-4-3-1_%E6%B8%B8%E7%89%A7%E7%9A%84%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_p6954.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-1_游牧的辩证主义/0267_3-4-3-1_游牧的辩证主义_p6954.md",
+      "sha256": "ef6855044ab77161e79a2c1d6e388ba98aa46642dd077ed667c353212a64f088",
+      "git_blob_sha": "1a330a90f2124630a9aaabc45be6499e591dfe6b",
+      "locator": "Page1–38 L9–123",
+      "verification_scope": "逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。"
+    },
+    {
+      "id": "a12-34-0268",
+      "title": "0268_3-4-3-2_圆满的经济学_p6993",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/0268_3-4-3-2_%E5%9C%86%E6%BB%A1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6_p6993.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-2_圆满的经济学/0268_3-4-3-2_圆满的经济学_p6993.md",
+      "sha256": "bf247b09ba53ce4249dfdd7ff23387aadd5e60a2c52c51ddd30ac9e7a1293ac5",
+      "git_blob_sha": "016193a5736912ff8840d8875d8a4ce62cceaf82",
+      "locator": "Page1–23 L9–108；另核下一讲开头Page24–25 L113–118，仅供3433小说标题及人物名",
+      "verification_scope": "逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。"
+    },
+    {
+      "id": "a12-34-0269",
+      "title": "0269_3-4-3-3_倒错的好客主义_p7017",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89/0269_3-4-3-3_%E5%80%92%E9%94%99%E7%9A%84%E5%A5%BD%E5%AE%A2%E4%B8%BB%E4%B9%89_p7017.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-3_倒错的好客主义/0269_3-4-3-3_倒错的好客主义_p7017.md",
+      "sha256": "09e7267b4318c6314a7192293279df5ad8a7dd02115354997b5a236629984d7a",
+      "git_blob_sha": "03a5b4e177b6633dcae335cb965bef4f80d8cfaf",
+      "locator": "Page1–26 L9–106",
+      "verification_scope": "逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。"
+    },
+    {
+      "id": "a12-34-0270",
+      "title": "0270_3-4-3-4_局部的总体主义_p7043",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-3_差异的辩证法/3-4-3-4_局部的总体主义/0270_3-4-3-4_局部的总体主义_p7043.md",
+      "sha256": "8951576b8b1c5ae77e4542779507065bc43595fdcb67c85ad842fd9e822e15d0",
+      "git_blob_sha": "1fe36aec4ec477d741e8fc077805035afe5a24ab",
+      "locator": "Page1–35 L9–111",
+      "verification_scope": "逐段核读本讲完整论述及标明的下一讲开头，后者只用于对应下一节点；下一讲其余内容不混入本讲。SHA256已验。未核原音、原典；讲者的政治、科学和临床解释不作为独立事实认证。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "同一个人、a/e无语音差别且不是概念超越",
+          "status": "supported",
+          "finding": "P1明确限定讨论同一、差异及绝对知识的层面；a/e用于讲者的黑格尔式重读，不是全哲学等同。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page1 L9；Page11–14 L39–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "胡塞尔意义之海、原则之原则不能反思，时间和发生底层机制困境",
+          "status": "supported",
+          "finding": "P2–4逐项说明，这是本讲对现象学的批判性概括。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "内部批判须把现象学和黑格尔坚持到底",
+          "status": "supported",
+          "finding": "先同意并成为体系内部的参与者，再把其逻辑推至失败，论证明确。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page15–17 L51–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "书写是符号之符号，声波亦书写；主人意图失败、诗无达诂和痕迹伤口",
+          "status": "supported",
+          "finding": "书写的缺席、语音材料与痕迹均逐项出现。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page7–9 L27–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "前符号实体→符号化→回溯实体及延异为不可能统一",
+          "status": "needs_qualification",
+          "finding": "三项模型有据，但P10明确不能说第一项前符号实体存在；摘要省略这一限制会把模型实在化。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "只承认黑格尔本体论却必然失败，差异不能被同一性消解",
+          "status": "supported",
+          "finding": "P23–25是讲者对解构主义的本体论4判定。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page23–25 L81–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "反辩证法却无语义差别，书写和纯历史差异使时代变化",
+          "status": "supported",
+          "finding": "这是课程刻意提出的悖论，不是德里达与黑格尔术语的通行同义释义。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page24–25 L84–87；Page30–32 L112–122"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "拟像两重阅读、苏格拉底式顺从和二阶真诚伪装",
+          "status": "supported",
+          "finding": "两重意义、坚持主人逻辑及真诚说谎均有论述。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page5–6 L21–24；Page15–17 L51–63；Page26 L92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "延异不存在，是实体主体化产物及纯否定性",
+          "status": "needs_qualification",
+          "finding": "原文明说这是作为拉康派/齐泽克主义者的反驳，不能当作德里达自己的定论。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page26–29 L92–107"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "原初差异即延异，调和先验经验、符号系统和原初绝对者",
+          "status": "contradicted",
+          "finding": "调和格位有据，但P21/P27明确区分纯粹原初差异与延异，不能括号等同。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page19–21 L69–75；Page27 L97"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4延异，黑格尔本体论失败、差异不可消解",
+          "status": "supported",
+          "finding": "本体论4的局部论证明确。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page23–25 L81–87"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识3拟像调和权威意义与主体否定的两重阅读",
+          "status": "supported",
+          "finding": "P26直接给认识论3及两重阅读。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page26 L92"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。",
+          "source_ids": [
+            "a12-34-0266"
+          ],
+          "locator": "Page1–33 L9–125（L125只取本讲结尾）"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-3-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主人肯定原初差异而非概念规定，强力意志和主人眼中无奴隶",
+          "status": "supported",
+          "finding": "自我肯定、原初运动及平等看待他者的完整链条明确。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page3–10 L15–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "奴隶否定他人以肯定自身并视主人虚伪；肯定优越、否定等级制低劣",
+          "status": "supported",
+          "finding": "讲者据尼采与哲学阐释这组等级关系；未独立核原典。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page1–2 L9–12；Page5–12 L21–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "时间调和等级理念和游牧；若无奴隶何须反奴化",
+          "status": "supported",
+          "finding": "场域明确在P27；反问与反奴化的矛盾见P13–18。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page13–18 L45–60；Page27 L87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "坚持到底须承认否定平等，对立亦差异",
+          "status": "supported",
+          "finding": "这是讲者对德勒兹的内部反驳，原摘要以问题和坚持到底标识了论证转折。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page13–21 L45–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "差异经重复显现、弱看同一强看差异；重复的二阶双重性",
+          "status": "needs_qualification",
+          "finding": "前半为讲解，二阶重复在P22以我要说引入讲者反驳，旧摘要未标层次。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page22–26 L72–84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "超人承受痛苦新生，否定性是再来一次的力量",
+          "status": "needs_qualification",
+          "finding": "有明确论证，但属课程借拉康/尼采重构，不应整体归给德勒兹本人的学说。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page23–30 L75–96"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "纯差异自同一化难题、同一只是暂时本体论化及失败尝试",
+          "status": "supported",
+          "finding": "P33–38明确提出这项批评及其封闭的最低本体论问题。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page33–38 L105–120"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "反奴化主人反成奴隶，接受否定性，被压迫失败者真正主人",
+          "status": "supported",
+          "finding": "原讲明述政治性结论；需要按课程判断阅读，不是对现实人群的客观分类。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page19–21 L63–69；Page36–38 L114–120"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "时间永恒轮回调和等级理念框架和解域结域",
+          "status": "supported",
+          "finding": "P27直接标场域3及两侧。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page27 L87"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论4差异、绝对者自身差异及原初现实化",
+          "status": "supported",
+          "finding": "P3–4展开，P31再次点明本体4。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page3–4 L15–18；Page31 L99"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识3肯定与否定持续调和，以肯定者的否定自免疫",
+          "status": "supported",
+          "finding": "P31–32明确给出认识3与这一机制，随后也提出批评。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page31–32 L99–102"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的1永恒轮回、结域解域再结域",
+          "status": "supported",
+          "finding": "P35明确目的1及不停重复。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page35 L111"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。",
+          "source_ids": [
+            "a12-34-0267"
+          ],
+          "locator": "Page1–38 L9–123"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-3-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "尸体恐惧产生否定性，理性秩序压抑爱欲促进生产再生产",
+          "status": "supported",
+          "finding": "P1–3按此顺序作哲学起源叙述；未作人类学事实核验。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page1–3 L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "有限经济积累增殖、同质化差异侵蚀同一；二阶否定冲向普遍经济",
+          "status": "supported",
+          "finding": "P4–6阐述有限秩序和二次否定及其两个方向。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page4–6 L18–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "太阳的无谓耗散与宇宙平衡、圆满暗示圆房的矛盾",
+          "status": "needs_qualification",
+          "finding": "太阳及平衡是课程解释；圆满/圆房是讲者讽刺性命名，不是巴塔耶自己如此命名。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page7 L27；Page17–19 L78–86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "夸富宴属于与无谓耗散相反的有限经济，对手必须回赠更多",
+          "status": "contradicted",
+          "finding": "原讲把夸富宴作为巴塔耶推崇的耗散例子；说回赠自家大部分，未说必须比原礼更多。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page8–9 L30–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "同质理性与异质色情由崇高丧失调和；丧失无法注册",
+          "status": "supported",
+          "finding": "P12–14说明两侧与无意义丧失，且指出有意做丧失未必崇高；Sublimation用词在讲中曾犹疑。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page12–14 L53–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "下流唯物主义保存高贵缺失，敞开符号系统并注册异质性",
+          "status": "supported",
+          "finding": "P15–16有相应讲解，随后批评这种浪漫化；不构成行为倡导。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page15–16 L68–73"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "对德勒兹的对照，过度肯定耗散为无对象自我否定",
+          "status": "supported",
+          "finding": "P17明确不以他者或自我为对立对象；不能将无对象否定理解为自杀指引。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page17 L78"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "败家娇妻消费者比喻与资本主义消费加强符号优势积累",
+          "status": "supported",
+          "finding": "P18–20有讽刺比喻和资本批评，同时承认某些消费可缓解局部危机，不能扩成全时全域定律。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page18–20 L83–91"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "主体二阶否定性调和有限与普遍经济",
+          "status": "supported",
+          "finding": "P9–10直接标场域3和主体性。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page9–10 L33–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4献祭、脱离有用性回归普遍经济",
+          "status": "supported",
+          "finding": "P11–12用牛和献祭作本体4说明，随即批评其解释只是幻想。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page11–12 L44–52"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识3崇高化丧失调和同质与异质",
+          "status": "supported",
+          "finding": "P12–14有明确标位与丧失机制；并非任何浪费都能崇高化。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page12–14 L53–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的2过度肯定与无对立的自我否定",
+          "status": "supported",
+          "finding": "P17两侧对照及无对象否定展开，轴是据此论证概括，不额外声称有独立完整数字公式。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page17 L78"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。",
+          "source_ids": [
+            "a12-34-0268"
+          ],
+          "locator": "Page1–23 L9–108；另核下一讲开头Page24–25 L113–118，仅供3433小说标题及人物名"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "小说标题、Octave/Roberte与现象学自我及知识的对应、平等招待导致主客换位",
+          "status": "supported",
+          "finding": "书名和人物名在上一文件下一讲开头；本文件P1–3继续展开角色对应。",
+          "source_ids": [
+            "a12-34-0268",
+            "a12-34-0269"
+          ],
+          "locator": "0268 Page24–25 L113–118；0269 Page1–3 L9–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "客人必须拒绝殷勤才能维持忠诚回路",
+          "status": "contradicted",
+          "finding": "这是前段初步说法；P8–9当场更正：客人想要她不忠，却因自己已成为主人而在命令效果上拒绝了自己。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page4–9 L24–49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "自我意识接纳异质他者的发生学解释",
+          "status": "supported",
+          "finding": "P10明确回到主体间性与现象学接纳机制。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page10 L52"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "尼采头痛体现永恒轮回不能由有限本体论说尽",
+          "status": "needs_qualification",
+          "finding": "原讲是好客之道的哲学解释，不是疾病病因的医学证据。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page10–14 L52–64"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "尼采刻意使自己病理化，以相当于愚蠢注册真理；永恒轮回为明喻滑动",
+          "status": "needs_qualification",
+          "finding": "有相当于愚蠢和明喻机制，但不能把解释模型写成已证实的自我致病策略。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page11–15 L55–67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "萨德肉欲和思辨双重禁欲、不以高潮为目标且无大他者",
+          "status": "supported",
+          "finding": "P15–18是讲者借克罗索斯基的解释，不能直接当作萨德全部行为的历史描述。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page15–18 L67–76"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "抨击者因为理解快感而暴露偷犯禁忌，偏执重复敞开本有",
+          "status": "needs_qualification",
+          "finding": "原讲确有该指控模型，但不是对现实批评者均偷偷犯禁的事实证明；P19还明确承认萨德造成实际受害。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page16–19 L70–79"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "相当于滑动使肯否不能依同一主体完成统一，肯定超出、否定耗散",
+          "status": "supported",
+          "finding": "P24–26展开valant pour以及差异与耗散的协调但不合并。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page24–26 L100–106"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "拟像为自身最小差异，无原版、全盗版及后现代顶峰",
+          "status": "supported",
+          "finding": "P11–15给拟像残影和盗版模型；顶峰是讲者评价。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page11–15 L55–67"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3偏执狂调和哲人秩序与文人画家超越",
+          "status": "supported",
+          "finding": "P19–21直接标位；偏执狂在此是讲者的理论模型而非对人的临床确诊。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page19–21 L79–85"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4拟像、自身最小差异及残影",
+          "status": "supported",
+          "finding": "P11–14解释，P21明确标本体论。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page11–14 L55–64；Page21 L85"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识3肯定式拒绝，表面拒绝内心渴望",
+          "status": "contradicted",
+          "finding": "内心想要有据，但拒绝不是表面伪装；它是主客指代变化造成的命令效果反转。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page8–9 L44–49；Page22–23 L88–97"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的3肯否通过相当于滑动协调且保持独立",
+          "status": "supported",
+          "finding": "P24–26完整展开，协调不等于同一化。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page24–26 L100–106"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。",
+          "source_ids": [
+            "a12-34-0269"
+          ],
+          "locator": "Page1–26 L9–106"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "本讲完整论述逐字段核读；全部复合细节由以下分项覆盖。",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "后现代是现代性内部而非另一个时代、危机持续；反对科学历史马克思元叙事",
+          "status": "supported",
+          "finding": "P1–4说明时代关系和拒绝大故事；是本讲概括。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page1–4 L9–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "无法跳出叙事及符号体系，拒绝永恒轮回后进入异教与叙事竞争",
+          "status": "supported",
+          "finding": "P5–10作思想谱系判断，P18–22展开异教视角；背叛是讲者价值判断。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page5–10 L21–36；Page18–22 L60–72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "场域3叙事调和结构历史，叙事无外部合法性基础",
+          "status": "supported",
+          "finding": "P14–15直接给场域三与内在扩展论证。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page14–15 L48–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "利奥塔的局部总体主义使小叙事竞争，未反思资本媒介公倍数、莱布尼兹主义",
+          "status": "needs_qualification",
+          "finding": "局部总体主义是讲者刻意选择的批判性命名；资本空间和莱布尼兹比较也是其批评，不是利奥塔自称。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page2–4 L12–18；Page12–13 L42–45；Page18–22 L60–72"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "悖论主义调和真理与神话，科学预设冲突及解决推动发展",
+          "status": "supported",
+          "finding": "P23–27支持课程模型；爱因斯坦/薛定谔/量子力学的分类是讲者举例，未作科学史核验。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page23–27 L75–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "利奥塔无能力或意愿完成认识论，因为建构就形成元叙事",
+          "status": "needs_qualification",
+          "finding": "有课程批评，但不是经原典和学术史核实的个人能力事实或理论缺失定论。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page26–27 L84–87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "取消永恒轮回使符号微分学不可能，主体不能切近历史方向",
+          "status": "supported",
+          "finding": "P28–32沿最小差异比喻展开，微分是哲学比喻而非数学定理。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page28–32 L90–102"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "牺牲存在保留为我存在，保存理论家批判却取消主体差异中介",
+          "status": "supported",
+          "finding": "P16–17及P33明确作此批判；不等于利奥塔自陈其理论目的。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page16–17 L54–57；Page33–35 L105–111"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域3叙事调和共时结构与历时历史",
+          "status": "supported",
+          "finding": "P14直接列三项。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page14 L48"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4极端视角主义、连最低永恒轮回也拒绝",
+          "status": "supported",
+          "finding": "P17–22有本体论格位与异教视角解释。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page17–22 L57–72"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识3悖论主义调和真理知识与神话局域叙事",
+          "status": "supported",
+          "finding": "P23–27直接给两侧和paralogism作为协调机制；只证课程用语。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page23–27 L75–87"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的4不可导不可微无方向，取消轮回后不能把握最小差异",
+          "status": "supported",
+          "finding": "P28–32铺垫并在P32明确目的论4；现字段已忠实保留课程论证，不再改写。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page28–32 L90–102"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条记录课程的分类和论证；对哲学家的归纳、政治评价及生理心理解释尚未逐一对原典或独立史料认证，不能当作学界定论。",
+          "source_ids": [
+            "a12-34-0270"
+          ],
+          "locator": "Page1–35 L9–111"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②书写的优先性是德里达哲学的关键突破：书写是符号的符号，语音本身也是书写(声波的粗糙材料)。书写代表着主人话语第一人称沉浸意义的失败——诗无达诂，言说总被背叛。痕迹(trace)是符号系统的能指效果，它撕开能指链的伤口。本体论上，原初实体(太初)是前符号化的，符号化运动回溯性地建构了被描述的原初实体。原初实体→原初符号化运动→被回溯建构的实体(第三项)——这三项之间的张力就是延异。延异不是差异，而是差异与同一性的不可能的统一。",
+      "after": "②本讲从书写的缺席结构解释主人意图的失败：书写是符号之符号，语音也依赖材料和痕迹，不能保证意义被唯一接收。讲者用“原初实体—符号化运动—回溯建构的实体”三项说明延异，但明确强调，不能据此断言一个前符号化的原初实体实际存在。三项之间的张力使差异与同一性无法完成统一。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0266"
+      ],
+      "locator": "Page7–11 L27–39",
+      "rationale": "补回不可断言前符号实体存在的关键限制。"
+    },
+    {
+      "code": "3-4-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④认识论上的3通过拟像(Simulacrum)来调和：所有文本都有两重意义，一重是权威话语的肯定性，一重是言语主体的否定性反抗。解构主义者采取苏格拉底式的姿态——\"我同意你说的一切，让我顺着说下去\"，在真诚的伪装中把主人的逻辑坚持到僵局。这是一种二阶伪装：哲学家要真诚地说谎，以主人话语的规则去玩主人的游戏，最终使主人话语自己分裂、暴露其内在的必然失败。延异就是这种失败的名称——它不存在，它是实体的主体化的产物，是纯粹否定性。",
+      "after": "④认识论3借拟像说明两重阅读：权威话语的肯定意义与言语主体的否定性反抗。解构以苏格拉底式顺从和“真诚说谎”把主人逻辑推至僵局。讲者随后从拉康/齐泽克立场反驳：所谓延异可被重读为实体主体化的纯否定性，不能另立一个存在的根源；这一反驳也指向德里达自己的表达困境，不能直接当作德里达的自我定义。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0266"
+      ],
+      "locator": "Page15–17 L51–63；Page26–29 L92–107",
+      "rationale": "标清立场转换，避免将批评者的否定存在结论归给被批评者。"
+    },
+    {
+      "code": "3-4-3",
+      "field_path": [
+        "axis_list",
+        0
+      ],
+      "before": "场域论3：先验与经验的符号学分裂——原初差异(延异/différance)调和符号系统与原初绝对者的二分",
+      "after": "场域论3：原初差异调和先验与经验、符号系统与原初绝对者的分裂；本讲又明确区分纯粹原初差异与已进入书写问题的延异，二者不能直接等同",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0266"
+      ],
+      "locator": "Page19–21 L69–75；Page27 L97",
+      "rationale": "原讲明确说纯粹原初差异不叫延异。"
+    },
+    {
+      "code": "3-4-3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③重复与差异的辩证法：差异本身要通过重复(repetition)才能显现，重复是差异的产物。弱者的否定性意志在重复中看到同一性，强者的肯定性意志在重复中看到差异。但重复本身有二重性——重复之重复，既是肯定性的也是否定性的。真正的超人(彻底的主人)会把重复本身的二重性接受下来，将永恒轮回中无限的痛苦和新生的运动都承载下来。否定性是差异开始的地方——它是永恒轮回中\"再来一次\"(Encore)的力量，使轮回能够一再重复。",
+      "after": "③本讲先说明差异通过重复显现，肯定性意志看到差异，否定性意志看到同一。讲者继而提出自己的二阶反驳：重复本身也有两重性，彻底的超人应同时承受痛苦与新生，把否定性纳入肯定。借“再来一次”（Encore），他把否定性解释为轮回得以重复的力量。这是课程对德勒兹的内部改写，不应全归作德勒兹的原话或既定立场。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0267"
+      ],
+      "locator": "Page22–30 L72–96",
+      "rationale": "区分被阐释的理论与讲者我要说引入的二阶反驳。"
+    },
+    {
+      "code": "3-4-3-2",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②普遍经济学是宇宙本身的经济学——其核心是无意义的耗散。太阳是典型范例：无限地燃烧自己，把能量往外面散掉。与此相对的是有限经济学内部的夸富宴(Potlatch)——族长慷慨地将财富赠与对手，对手不得不接受并回赠更多，否则就是认怂。巴塔耶认为这种无意义的奢侈性消费能使宇宙恢复平衡。但他的体系存在内在矛盾：他自称强调色情(非生殖性的性活动)作为典范，却构造了一个以恢复平衡为目的的宇宙论——\"圆满\"(consummate)一词同时暗示圆房、阴阳和谐，这与他鼓吹的过剩耗散相冲突。",
+      "after": "②本讲以太阳向外耗散和夸富宴说明巴塔耶所推崇的无谓消耗：族长赠出财富，对手被迫接受并回赠自家大量财物，形成荣誉竞争。夸富宴在这里是耗散的例子，不能简单列为其反面。讲者批评这种理论一面强调过剩与非生殖性色情，一面又诉诸恢复宇宙平衡，因此讽刺地命名为“圆满经济学”，借圆房、阴阳和谐的双关揭示他所认为的矛盾。这些是课程的模型与命名。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0268"
+      ],
+      "locator": "Page7–10 L27–39；Page18–19 L83–86",
+      "rationale": "纠正夸富宴在论证中的位置，去掉无依据的必须回赠更多，并标命名归属。"
+    },
+    {
+      "code": "3-4-3-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①克罗索斯基的好客之道(Law of Hospitality)通过小说《今夜的罗伯蒂夫人》中的戏剧性情节展开。男主人Octave(现象学家/自我意识)要求女主人Roberte(思想/知识)平等招待客人和自己——\"别客气，就当这里是自己的家\"。这一命令将男主人自身降格为客人，将客人提升为临时主人。女主人忠诚的方式是变得不忠——她以平等方式招待两个客人，仿佛自己不是女主人而是一个女客人。而真正的客人/临时主人必须拒绝她的殷勤，才能保持男主人所希望的最终忠诚回路。这个精妙的辩证法揭示了自我意识接受异质性他者的底层发生学机制。",
+      "after": "①本讲借《今夜的罗伯蒂夫人》的好客情节解释主客换位：Octave要求Roberte把客人当主人，也使自己成为客人。Roberte的忠诚经由不忠显现。讲者先说客人应拒绝她，随后当场更正：客人主观上恰恰想要她背叛主人，却未意识到自己已被置于主人位置；这一命令因指代变换而在效果上拒绝了自己，使她回到原主人一侧。课程借此说明自我意识接纳异质他者的结构。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0269"
+      ],
+      "locator": "Page1–10 L9–52",
+      "rationale": "必须保留本讲P8–9对前段拒绝说法的自我更正。"
+    },
+    {
+      "code": "3-4-3-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②克罗索斯基用好客之道解读尼采：尼采的头疼不是简单的病理学症状，而是承载超本体论真相的好客之道。尼采体验到永恒轮回的真理(一切都在重复，但每一次本体论化都不一样)，但在有限的本体论框架内无法道出这一真理。他的策略是\"相当于愚蠢\"——通过迫使自己进入一种病理化状态(疯癫与痛苦)，重复这种\"相当于愚蠢\"但不是愚蠢的状态，从而将真理注册到符号系统中。永恒轮回在克罗索斯基这里变成了一种明喻机制：符号系统的本体论更新不是通过隐喻的同一化，而是通过\"相当于\"的滑动的相似性。",
+      "after": "②讲者沿克罗索斯基的解释，把尼采的头痛、痛苦与“相当于愚蠢”当作永恒轮回难以被有限本体论表达的模型：真理只能在重复而不等同的状态中留下痕迹。这里的“相当于”是一种明喻式滑动，不以隐喻保证同一性。这是课程的哲学阐释，不能据此认定尼采疾病的实际病因，或声称他有意使自己发病以注册真理。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0269"
+      ],
+      "locator": "Page10–15 L52–67",
+      "rationale": "避免将哲学解释写成未经证实的疾病事实与自我致病策略。"
+    },
+    {
+      "code": "3-4-3-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③对萨德的解读同样运用了好客之道：萨德的施虐不是亢奋的色情，而是斯多亚式的冷漠禁欲——他不仅在肉欲上禁欲(不追求性高潮)，更在思辨上禁欲(时刻相信不存在大他者/终极秩序)。萨德的色情活动会引来抨击者，这些抨击者因为相信道德理性秩序而能\"理解\"萨德的快感——这暴露了他们自身的虚伪(他们也在偷偷违背那些禁忌)。通过这种方式，萨德以偏执狂式的仪式重复(无意义的虐待活动)引导出对本有(Ereignis)的敞开，使现行道德理性秩序自我悖谬。",
+      "after": "③课程借克罗索斯基把萨德解释为双重禁欲：肉欲上不以高潮为终点，思辨上坚持不存在大他者或终极秩序。讲者据此构造一种批评模型：道德抨击者对快感的理解可能暴露其对秩序和禁忌的依赖，重复的越界仪式又让秩序显出悖谬。但这不能证明所有批评者都私下犯禁；讲者也明确承认萨德造成了实际受害，理论分析不是对伤害的开脱。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0269"
+      ],
+      "locator": "Page15–21 L67–85",
+      "rationale": "区分讲者的批评模型与对现实人物行为的事实指控，并补原讲实际受害的限制。"
+    },
+    {
+      "code": "3-4-3-3",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论3：肯定式的拒绝(主人/客人的辩证法)调和主人的倒错与生存论危机的对立——表面拒绝实则渴望的自我背叛",
+      "after": "认识论3：肯定式的拒绝调和主人的倒错与生存论危机——客人主观上想要，却因主客位置和“主人”指代变化，使命令在效果上反过来拒绝自身",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0269"
+      ],
+      "locator": "Page8–9 L44–49；Page22–23 L88–97",
+      "rationale": "拒绝是言说效果的反转，不是表面拒绝内心渴望的伪装。"
+    },
+    {
+      "code": "3-4-3-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②场域论上，结构(共时性系统)与历史(历时性事件)之间由叙事来调和。但叙事的核心困境在于：任何叙事都无法跳出符号系统去外部寻求合法性支撑——你试图论证叙事的根据时，只是在把叙事扩大，仍然在叙事内部。利奥塔的局部总体主义(Local Totalitarianism)试图通过裂解总体主义来实现局域化：允许不同的局部叙事(小的话语)在叙事场中平等竞争。但这一预设本身就是一个未被反思的元叙事场——它是资本主义传播媒介(出版业、学术资本、媒体资本)所建构的公倍数空间，实质上是一种换汤不换药的莱布尼兹主义(诸单子的和谐共存)。",
+      "after": "②场域论3以叙事调和共时结构与历时历史。讲者认为，为叙事寻找外部合法性只会继续扩大叙事，并用“局部总体主义”这一批判性名称描述利奥塔的小叙事方案。他批评，看似平等竞争的局部话语仍依赖出版、学术与媒体资本构成的公共空间，因此又把它类比为诸单子和谐共存的莱布尼兹主义。这是课程的命名和批评，不是利奥塔自称的学说名称。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0270"
+      ],
+      "locator": "Page2–4 L12–18；Page12–15 L42–51；Page18–22 L60–72",
+      "rationale": "标明局部总体主义及资本空间比较的讲者归属。"
+    },
+    {
+      "code": "3-4-3-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上利奥塔提出悖论主义(Paralogism)来调和真理(总体化知识)与神话(局域叙事)之间的张力。他以现代科学为例说明不同的本体论预设(爱因斯坦的决定论 vs 薛定谔的统计学 vs 量子力学的非决定论)可以在冲突中并存，彼此产生悖论，而这些悖论的解决推动科学发展。但他语焉不详：建构任何认识论机制本身就意味着一个新的元话语/元叙事，这扇了自己的嘴巴。因此悖论主义始终未被完整建构——利奥塔没有认识论能力或意愿去完成它，因为完成它等于背叛自己的后现代立场。",
+      "after": "③本讲将悖论主义（Paralogism）置于认识论3，以真理/知识与神话/局域叙事为两侧，并借现代科学中不同预设的冲突说明悖论及其解决。随后讲者提出反驳：若把这一协调机制完整建构出来，是否又形成新的元话语，抵触拒绝元叙事的立场？原讲对利奥塔的能力和意愿也有尖锐评价，但这些是课程的批评判断；其物理学举例亦未在此独立认证。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0270"
+      ],
+      "locator": "Page23–27 L75–87",
+      "rationale": "保留有证据的认识论批评，不把个人能力判断或粗略科学分类当作已证事实。"
+    }
+  ]
+}

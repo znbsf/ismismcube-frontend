@@ -1,0 +1,1139 @@
+{
+  "batch": "12-ai-33-2",
+  "checked_on": "2026-11-13",
+  "scope": "旧AI摘要逐字段对照固定版本社区编纂文本；未回听原音、未核板书、未经人工审定。",
+  "sources": [
+    {
+      "id": "a12-33-0239",
+      "title": "3-3-2 真正的生存主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/0239_3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85_p6145.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23；未回听原音、未核板书。",
+      "locator": "Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者/0239_3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者_p6145.md",
+      "sha256": "649481a185cafaaf7cb523c0fb3793a61cb1effee88ef06c95e243f86df481b5",
+      "git_blob_sha": "5ec2fdfd0161e1a47e407e4fc1bea69959f62866"
+    },
+    {
+      "id": "a12-33-0240",
+      "title": "3-3-2-1 安放了的实存主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94/0240_3-3-2-1_%E5%AE%89%E6%94%BE%E4%BA%86%E7%9A%84%E5%AE%9E%E5%AD%98%E4%B8%BB%E4%B9%89_Positioned_Existentialism_%E5%85%8B%E5%B0%94%E5%87%AF%E5%BB%93%E5%B0%94%E7%9A%84%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5%E4%B8%8E%E4%B8%A4%E7%A7%8D%E8%BE%A9%E8%AF%81%E6%B3%95_p6167.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50；未回听原音、未核板书。",
+      "locator": "Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者/3-3-2-1_安放了的实存主义_Positioned_Existentialism_克尔凯廓尔/0240_3-3-2-1_安放了的实存主义_Positioned_Existentialism_克尔凯廓尔的三个阶段与两种辩证法_p6167.md",
+      "sha256": "e285e56587bc0ff19478b489f726391492fe5cf5c262fcfdba3a5120f1a9257e",
+      "git_blob_sha": "778d610cbc62653d8aa4368df26883de14478d83"
+    },
+    {
+      "id": "a12-33-0241",
+      "title": "3-3-2-2 诗性存在论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF/0241_3-3-2-2_%E8%AF%97%E6%80%A7%E5%AD%98%E5%9C%A8%E8%AE%BA_%E4%BB%A5%E8%AF%97%E4%BB%A3%E6%80%9D_%E8%8D%B7%E5%B0%94%E5%BE%B7%E6%9E%97%E7%9A%84%E7%99%AB%E7%96%AF%E5%BE%AA%E7%8E%AF_p6216.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲；未回听原音、未核板书。",
+      "locator": "Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者/3-3-2-2_诗性存在论_以诗代思_荷尔德林的癫疯循环/0241_3-3-2-2_诗性存在论_以诗代思_荷尔德林的癫疯循环_p6216.md",
+      "sha256": "5bcfbed761b575da5e179b5bb95b12cc8707885aee3511510c0f9dcffe9ac243",
+      "git_blob_sha": "a57c6c56c0b829fdb1743f0cadddd7d4e515b872"
+    },
+    {
+      "id": "a12-33-0242",
+      "title": "3-3-2-3 神-人伦理学（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84/0242_3-3-2-3_%E7%A5%9E-%E4%BA%BA%E4%BC%A6%E7%90%86%E5%AD%A6_%E5%B0%BC%E9%87%87%E7%AC%94%E4%B8%8B%E7%9A%84_%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89_%E8%B5%B0%E5%85%A5%E7%8E%B0%E5%AE%9E_%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E7%94%9F%E5%AD%98%E8%AE%BA%E7%9A%84%E6%B7%B1%E6%B8%8A%E9%87%8C%E5%B9%B8%E5%AD%98%E7%9A%84_p6255.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲；未回听原音、未核板书。",
+      "locator": "Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者/3-3-2-3_神-人伦理学_尼采笔下的_查拉图斯特拉_走入现实_是如何从生存论的深渊里幸存的/0242_3-3-2-3_神-人伦理学_尼采笔下的_查拉图斯特拉_走入现实_是如何从生存论的深渊里幸存的_p6255.md",
+      "sha256": "df546d806321d4b855f77aa756f1cf7d214c43f6e3034c5cce67917bad2eeb8e",
+      "git_blob_sha": "a74db34b3e273fc9c91222cfbd295a316b5208de"
+    },
+    {
+      "id": "a12-33-0243",
+      "title": "3-3-2-4 超验-生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-2_%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%9F%E5%AD%98%E4%B8%BB%E4%B9%89_%E4%BB%A5%E5%91%BD%E4%BB%A3%E6%80%9D_%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC%E7%9A%84%E7%84%9A%E5%BF%83%E4%BB%A5%E7%81%AB%E8%80%85/3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA/0243_3-3-2-4_%E8%B6%85%E9%AA%8C-%E7%94%9F%E5%AD%98%E8%AE%BA_p6264.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲；未回听原音、未核板书。",
+      "locator": "Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-2_真正的生存主义_以命代思_非此即彼的焚心以火者/3-3-2-4_超验-生存论/0243_3-3-2-4_超验-生存论_p6264.md",
+      "sha256": "78f94c0322643379dc609eafb6b11d994139b6c337f124bda72893437c7e2b63",
+      "git_blob_sha": "b3007b7e611b65647f7c96bea25f06f47366ccb7"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-3-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "claim_count": 11,
+        "scope": "Page 1–22，本讲全文 L9–72 下一讲标题前；开讲补读前讲0238 L185–206；排除 Page 23",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(先验观念论与辩证法构造的虚假现实世界、知性化的理性框架)与形而上(主体与绝对者的生存论关系、生命意义的定位)的二元对立，由抉择的等级制(审美-伦理-宗教三阶段的抉择进阶)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "先验框架被降为形而下，主体/绝对者关系作形而上，以抉择等级制调和；审美伦理宗教是克氏例。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 3–7 / L15–27"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：主体性的内在体验(绝望、恐惧、热忱、信仰、忧郁等最真实的情绪状态)作为最真实的实在，与绝对者(作为更真实的无限者)构成张力对立，由畏(Angst)作为原初情绪中介",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "内在体验与绝对者二分，畏作为原初情绪中介明确。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 7–12 / L27–42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "生存论指南与思辨哲学对立",
+          "status": "partially_supported_needs_correction",
+          "finding": "前段确说指南，Page 17–19主动修正：指南的理性部分仍属思辨，另一端为生存/当下抉择本身。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 12–19 / L42–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "黑格尔只给框架样态而非真正存在",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者明说这是克氏对黑格尔的误解/庸俗理解，摘要原说有据但需保留批评归属。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 1、8 / L9、L30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "真实内在体验及质的辩证法；概念世界虚假次级",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 2列绝望恐惧爱恋热忱信仰，并以质的辩证法命名。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 2 / L12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "抉择驱动三阶段，最终间接与绝对者合一",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "等级制与间接合一明确，本课生存论结构解释。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 2–7 / L12–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "有限理性不能直接把握绝对者，须中介",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "明确有限主体、理性注定失败与间接沟通；不是对宗教经验的独立事实证明。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 4、7 / L18、L27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "内在体验优先、日常现实无本体地位",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "课堂极端化对照，日常吃喝与亲友确举例；不改作学界定论。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 7–8 / L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "畏非主体控制，由绝对者设立，暴露无根性并导向自由",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 9–12完整因果论证支持。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 9–12 / L33–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "每瞬间抉择、用生命情感调和两重裂隙",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "最后把认识论右侧改为生存本身，综合者不停抉择；支持。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 17–19 / L57–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "用神经递质激素而非语言，代价燃烧寿命",
+          "status": "supported_with_qualification",
+          "finding": "讲者先说打个比方，对短寿亦为推测评价，摘要应明确非生理机制和因果结论。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 15–16、20–21 / L51–54、L66–69"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "黑格尔只构造虚假世界是讲者归给克尔凯郭尔、且批评为误解的观点；本课未提供足以独立确认寿命或神经递质机制的证据。相关措辞按生存强度的比喻理解。",
+          "source_ids": [
+            "a12-33-0239"
+          ],
+          "locator": "Page 1、8、20–21 / L9、L30、L66–69"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 14,
+        "scope": "Page 1–49，本讲全文 L9–320 下一讲标题前；开讲补读0239 L72–75；排除 Page 50",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(审美阶段——无方向、不连续、无负担性的生命意识的逍遥自在)与形而上(伦理阶段——追求绝对的自我中介、将自己设立为符号化的本质)的二元对立，由宗教阶段(重复、天佑)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "审美伦理由宗教调和明确；三阶段细节见全讲。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 2–9、28、38 / L12–33、L225、L255"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：实存(Existence——总是已经存在的、无法被彻底中介的直接存在)与他者(绝对者/上帝——预先中介了一切的中介者)的二元对立，由自身性(Selfhood——前人格化的、符号学意义上的主体性场域、情绪场)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "实存/他者由自身性调和，情绪场/前人格场是舒尔茨式读法，讲者并不无保留认同。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 24–25、39–40 / L211–214、L258–261"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2：绝望(作为先验观念论/思辨哲学的驱动机制)与信仰(作为绝对者设立的直接的自我中介方式)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 41 明示绝望/信仰对立；信仰与外部设立的直接自我中介见21–23。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 21–23、41 / L194–208、L264"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1：天佑(Begnadung)——维持审美与伦理之间的张力，顶住矛盾，在宗教阶段中以被中介的自我中介的方式承受生存的结构性张力",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "天佑为维持矛盾、承担任务而非免去伦理张力。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 28、41–43 / L225、L264–270"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "审美无方向、不连续、无负担；伦理自我本质化",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 1–7逐步解释，分析用语明确借舒尔茨/齐泽克而来。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 1–7 / L9–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "伦理失败因总已存在不能完全中介，罪之张力",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "骰子点数与起点不能消化的论证支持，罪不指某个具体不良经历。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 8–11 / L30–59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "伦理到宗教用他者的实存辩证法，不同观念论",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者分两种机制并用齐泽克视角切换解释。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 11–13 / L59–85"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "必然存在、闭合自由、已作抉择无法撤回而畏",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 13–17的具体案例与自由挥霍后才意识到对应。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 13–17 / L83–167"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "讽刺自怜幽默是无力的自耗须超越",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "课程原说，不是针对现实心理症状的诊断。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 18–20 / L170–189"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "重复：内容自己中介，中介性由绝对者设立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 22–23明确区分内容与中介形式；重复见28–34。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 22–23、28–34 / L205–208、L225–243"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "中介性本身英文 messenger",
+          "status": "partially_supported_needs_correction",
+          "finding": "正文用设定/中介等词，messenger未在本讲出现且不是中介性所用词；删除无据括注，不猜原音。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 22–23 / L205–208"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "被中介的自我中介及允许此在/加倍自由",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 27、36–37明确；允许仍含必须，并非撤销已经存在。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 27、36–37 / L222、L249–252"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "罪人与义人并存、伦理生活持续、天佑新生命",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 26–28、31–32明说维持两面矛盾，非后阶段取消伦理。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 26–32 / L219–237"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "自身情绪场调和，绝望去自我化显露自身",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 39–41对应；讲者明指为舒尔茨拆解，非克氏原典术语已校定。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 39–41 / L258–264"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "讲者开头说明三阶段与中介性重构借助齐泽克、瓦尔特·舒尔茨；自身性作为前人格情绪场尤其属于舒尔茨式解释，讲者 Page 25 表示不喜欢此路数。此处是课程解释的校对，不把这些术语全归为克尔凯郭尔原著自述。",
+          "source_ids": [
+            "a12-33-0240"
+          ],
+          "locator": "Page 1、24–25、40 / L9、L211–214、L261"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–38，本讲全文 L9–120；开讲补读0240 L320–325；排除 Page 39–40 下一讲",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(现实——前现代的农奴制德意志世界、康德体系下的野蛮王国)与形而上(理念/规则——席勒意义上的法则的神圣王国、理性的符号学秩序)的二元对立，由诗性存在(诗歌作为造世活动、与诸神讨价还价的符号化行动)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "席勒野蛮/法则王国借用、德意志现实与哲学理想张力、诗的调和有据；这些王国不是康德自行命名。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 1–4、17–19 / L9–18、L57–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：理念世界/逻各斯秩序(基督教精神、理性秩序)与自然(前符号化的根据、母性的非理性力量)的二元对立，由存在即诗(符号化的行动=存在本身)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "理念/逻各斯/基督教与自然的二分，存在即诗调和明确。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 15–18 / L51–60"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2：哲学(思辨哲学、谢林/黑格尔式的概念体系)与诗性存在论(以诗代思、通过诗歌进行本体论探索)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "哲学与诗的存在论对立，谢林黑格尔为对照。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 21–24 / L69–78"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2：循环运动——维持着内在分离的同一、现代的二元分裂在循环中被承受但无法被克服",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "循环保持内在分离，讲者据未能敞开而不列4。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 11–15、27 / L39–51、L87"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "康德自身性问题及席勒三元启发",
+          "status": "supported_with_qualification",
+          "finding": "原讲是“我可以用席勒”的框架借用，未证明历史影响链。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 1–2 / L9–12"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "诗为高张力的符号化造世而非消遣",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "创世及探测本体框架是本课明确解释。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 17–19、26 / L57–63、L84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "书信小说三人物代表建国方略",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "名称及建国分工均有，未另核小说原文作者意图。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 4–11 / L18–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "始祖晨曦、理性正午、母性黄昏构成现代性循环",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "人物、时段和力量逐项对应课程，是讲者小说阐释。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 5–12 / L21–42"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "反工程师式康德自由，内在他者与晚期谢林相通",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 16明确比较；不是历史上继承晚期谢林的断言。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 16 / L54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "诗造世、诸神讨价还价、驾驭生死二分",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本课区分攻本体结构和驾驭内在情感两任务。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 17–26 / L57–84"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "太阳循环、栖居只是循环一环",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "是视域/文学比喻；Page 21注明“我是这样看待”。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 11–14、20–21 / L39–48、L66–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "未和解而癫狂，低于晚期谢林则病理化",
+          "status": "supported_with_qualification",
+          "finding": "课程确这样警告，但无医学因果证明，须保留评价性质。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 14–15、27–33 / L48–51、L87–105"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "三人物/三时段/建国方略是本讲对《许佩里翁》的解读，未另据小说全文核作者意图；太阳绕地是视域和循环比喻。疾病与智性门槛的联系属于讲者评价，并非医学因果已经成立。",
+          "source_ids": [
+            "a12-33-0241"
+          ],
+          "locator": "Page 5–15、27–33 / L21–51、L87–105"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-2-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–9，本讲全文 L9–40；开讲补读0241 Page 39–40 L125–132；排除 L41起下一讲",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(法律的伦理学——僵死的律令体系、共同体的道德规范)与形而上(救赎的伦理学——克里斯特精神的救赎、原罪的宽恕)的二元对立，由创造的伦理学(创造性生存、作为绝对者铺设道德谱系的行动)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "法律/救赎由创造伦理学调和，律令体系及救赎明确。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 4–5 / L20–23"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：命运(生存过程及其结果的一体化)与上帝/绝对者(至高存在、大他者、实体)的二元对立，由自由(即人格/个性——晚期谢林意义上的原初决断、前反思的创造性意志)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "命运即过程结果，对上帝/绝对者，由自由人格调和。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 5–7 / L23–31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2：哲学(思辨化的理论活动)与动员学(自设世界、自我建设共同体的实践智慧)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "哲学和动员学、自设世界/建设世界明确。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 7 / L31"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3：创造——超越克尔凯廓尔的重复和荷尔德林的循环，走向主动的创造性精神",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "创造调和重复和循环，不只是简单线性进阶。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 8 / L34–35"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "三伦理比克氏进一格、违禁快感与律令关联",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "123变234及审美快感依赖禁令均在原讲。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 2–4 / L14–20"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "救赎协调罪痛，创造领受绝对者使命",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本课三阶段与神人关系重构明确。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 3、5、7 / L17、L23、L31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "人格自由为沉入无意识的非反思决断、铺设秩序",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "原初决断和人格创造意志逐项有据。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 6–7 / L26–31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "freedom就是选项选择自由，与此相反",
+          "status": "partially_supported_needs_correction",
+          "finding": "本讲未给选项定义，且“不是为主词”存在编纂歧义，删除此无据括注。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 6–7 / L26–31"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "动员学来自早年马克思主义共同体经验",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者明确作此归因，未独立据传记核因果。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 7–8 / L31–35"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "因而免于癫狂与早逝得以幸存",
+          "status": "supported_with_qualification",
+          "finding": "原讲以“我认为”归因，不能据此证明哲学决定寿命/疾病。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 2–3、8 / L14–17、L34–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "重复天佑后说出天命，创造调和循环",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本课先后推导明确。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 3、8 / L17、L34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "神人理论成功、现实查拉图斯特拉、背离马克思主义",
+          "status": "supported_with_qualification",
+          "finding": "理论成功明确被限定为现实未成功；背叛/代价属讲者政治评价。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 1、7–9 / L9、L31–40"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“幸存”与政治背叛属于讲者评价，未据医学/传记证明因果；理论成功在 Page 9 被明确限定为现实并未成功。Page 6 freedom/主词表述有编纂歧义，不据此臆造英文术语区分。",
+          "source_ids": [
+            "a12-33-0242"
+          ],
+          "locator": "Page 6–9 / L26–40"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-2-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 13,
+        "scope": "Page 1–24，本讲全文 L9–98；开讲补读0242 L41–45；排除 Page 25–26 下一讲",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：生存之大全(生存者的主体性场域——包含经验、体验、抉择、认识、思维、想象等一切第一人称内容)与存在之大全(超越者/神、世界、其他实存)的二元对立，由理性(作为无限的哲学化活动，突破符号学秩序并沟通两个大全的媒介)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "两大全由理性中介，理性是持续突破符号秩序的哲学化。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 2–6 / L12–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：生存(existence——主体作为自由、作为版本更新器的中介活动)与超验(Transcendent——去主体化的绝对者、神)的二元对立，由超验密码(code of transcendent)——私人的可理解性、非对象化的智性活动的产物调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "生存/超验由非对象密码沟通、私人可理解性，更新器是课堂比喻。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 4、8–10 / L18、L30–36"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论2：世界探源(Weltorientierung——科学化的固步自封与哲学化的摸索先验框架)与生存的阐明(Existenzerhellung——生存论揭示绝对者外在于自身的真相)的对立",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "两项明确；讲者拒绝雅氏形而上学所声称的调和，故列2。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 10–15 / L38–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4：无限开放的更新——绝对者通过主体的生存不断地重新本体论化、不断更新版本，目的论完全由超验者决定",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "目的由超验决定、持续版本更新是原讲解释。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 4–5、15–17 / L18–21、L65–75"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "最后一个系统生存论者",
+          "status": "supported_with_qualification",
+          "finding": "本讲称系统化，并称现实生存论运动在此结束；属课程编排判断而非历史唯一终点已证。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 2、19 / L12、L83"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "两大全内容及理性持续哲学化",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "经验体验抉择、世界神及理性沟通均有对应。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 2–6 / L12–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "密码非对象、领受后符号化、诗/哲学、私人性",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 9逐项对应，未核为雅氏对交往公共性的全面否定。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 9 / L33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "私人可理解性英文 intellectual ability",
+          "status": "supported_with_qualification",
+          "finding": "编纂有该英语，但未核为雅氏规范术语；删英文保留中文课义。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 9 / L33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "科学探源做题、哲学探源摸索框架尚未本真",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "两级区分与低阶评价明确。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 11–12 / L43–48"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "生存为绝对者外存，阐明走向形而上学密码",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 13是讲者的译名建议和阐释，未据德文确认词源定义。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 13 / L53"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "假自由、更新器工具",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "明确是讲者批评而非雅氏自认结论。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 4、15–20 / L18、L65–86"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "边缘濒死犯罪崩溃仍进行理性哲学化",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 5、8具体例支持，非鼓励制造危机。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 5、8 / L21、L30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "未解释框架僵化、有限性未坚持",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者的问题与主奴/意志批评可定位。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 14、22–23 / L58、L92–95"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“最后一个系统生存论者”按本课编排理解；假自由及有限主义批评属于讲者。私人密码、外存、版本更新本轮只核课程，未宣称已核雅斯贝尔斯全体系。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 2–6、9、13–15、19–23 / L12–24、L33、L53–65、L83–95"
+        },
+        {
+          "text": "讲者 Page 12–13 说雅斯贝尔斯本拟以形而上学调和，但自己不承认，故列认识论2；这是课程定格与被解释哲学家主张的差别。",
+          "source_ids": [
+            "a12-33-0243"
+          ],
+          "locator": "Page 12–13 / L48–53"
+        }
+      ],
+      "open_questions": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-3-2",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论2：思辨哲学(理性主义的绝望努力、黑格尔式逻辑体系)与生存论指南(非此即彼的抉择、以命代思的生存方式)的对立",
+      "after": "认识论2：思辨哲学（包括生存指南中的理性论述）与生存本身（每个当下的抉择、以命代思）的对立",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0239"
+      ],
+      "rationale": "采用讲者 Page 17–19对前面生存指南表述的明确修正。"
+    },
+    {
+      "code": "3-3-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④认识论上思辨哲学被降格，真正的认识方式是”以命代思”——每一瞬间都是最重大的哲学难题，主体用最本真的情感、精神决断和生命状态来思考和生存。这不是用语言符号在思考，而是用神经递质、用激素、用生命本身在哲学地活着(live philosophically)。主体在每一刻都在综合、都在做抉择、都在调和本体论和场域论上的张力。这种状态极难维持，代价是燃烧寿命。",
+      "after": "④认识论上思辨哲学被降格，真正的认识方式是”以命代思”——每一瞬间都是最重大的哲学难题，主体用最本真的情感、精神决断和生命状态来思考和生存。讲者以“神经递质、激素”作比方，强调用整个情感和生命状态在哲学地活着(live philosophically)，并非在给出神经生理学机制。主体在每一刻都在综合、都在做抉择、都在调和本体论和场域论上的张力。讲者认为这种状态极难维持，并以“燃烧寿命”形容其代价；本课未证立短寿的医学因果。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0239"
+      ],
+      "rationale": "Page 20明说打个比方；不把课程隐喻转为生理学与寿命断言。"
+    },
+    {
+      "code": "3-3-2-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③宗教阶段的核心概念是重复(repetition)。主体意识到自己的中介性本身(messenger)是由一个他者(绝对者)设定的——自我设定的中介内容(主体体验到什么、如何体验)由主体负责，但中介性本身(主体作为一个自我中介而实存)由绝对者预先设立。这就是被中介的自我中介(mediated self-mediation)。主体发现自己的存在是被允许的(允许此在)而非仅仅是被迫的(必须此在)，由此获得一种加倍的自由。",
+      "after": "③宗教阶段的核心概念是重复(repetition)。主体意识到自己的中介性本身是由一个他者(绝对者)设定的——自我设定的中介内容(主体体验到什么、如何体验)由主体负责，但中介性本身(主体作为一个自我中介而实存)由绝对者预先设立。这就是被中介的自我中介(mediated self-mediation)。主体发现自己的存在是被允许的(允许此在)而非仅仅是被迫的(必须此在)，由此获得一种加倍的自由。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0240"
+      ],
+      "rationale": "本讲未见 messenger 括注，不能用信使一词代替中介性。"
+    },
+    {
+      "code": "3-3-2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①荷尔德林是康德之后的诗人-哲学家，意识到了康德哲学中自身性的问题。在场域论上受到席勒的三元论启发：力的野蛮王国(经验现实)与法则的神圣王国(理性秩序)的对立，需要由审美的快乐王国来调和。但荷尔德林更进一步，将调和的力量归结为诗性存在——诗歌不是感性的消遣，而是比哲学更具张力的符号化活动，是创世(World-creation)本身。",
+      "after": "①荷尔德林是康德之后的诗人-哲学家，意识到了康德哲学中自身性的问题。讲者在说明其场域论时借用席勒的三元论：力的野蛮王国(经验现实)与法则的神圣王国(理性秩序)的对立，需要由审美的快乐王国来调和。但荷尔德林更进一步，将调和的力量归结为诗性存在——诗歌不是感性的消遣，而是比哲学更具张力的符号化活动，是创世(World-creation)本身。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0241"
+      ],
+      "rationale": "Page 1指讲者采用席勒框架，未在此证明影响关系。"
+    },
+    {
+      "code": "3-3-2-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上是绝望的循环运动：现代人永远沉浸在二元分裂之中，如同太阳绕着地球循环不息。诗意的栖居并非解决之道，而只是循环运动中的一个环节。荷尔德林最终未能像克尔凯廓尔那样通过自身的辩证法实现和解，而是陷入了癫狂。诗性存在论作为生存论的一个变体，以极高的智性门槛为前提——它要求晚期谢林以上的水准，否则会陷入病理化的循环。",
+      "after": "④目的论上的循环：讲者把现代人的二元分裂解释为太阳在地平线视域中的循环，并把“诗意的栖居”看作循环的一环。他对照克尔凯郭尔的和解，将荷尔德林未能和解与其精神失常联系起来；这是课程的批评性解释，不能据此确立疾病原因。讲者要求此类诗性探索具有晚期谢林以上的智性准备，并警告它可能扰乱既有符号系统，这也属于他的实践判断。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0241"
+      ],
+      "rationale": "保留Page11–33立场，明确循环比喻、疾病因果与智性门槛的边界。"
+    },
+    {
+      "code": "3-3-2-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②别尔嘉耶夫本质上是一个格位主义(Personalism)者，他认为自由即人格、即个性——这是晚期谢林意义上的原初决断，是一种前反思的、非对象化的创造性意志。这个自由不是freedom(选项之间的选择自由)，而是那个沉入无意识的、塑造整个人格的原始决断。主体在世间的抉择和行动，就是绝对者本人在铺设其道德谱系和本体论秩序。",
+      "after": "②别尔嘉耶夫本质上是一个格位主义(Personalism)者，他认为自由即人格、即个性——这是晚期谢林意义上的原初决断，是一种前反思的、非对象化的创造性意志。讲者将这种自由解释为沉入无意识、塑造整个人格的原初决断，强调其非反思性的人格创造意志。主体在世间的抉择和行动，就是绝对者本人在铺设其道德谱系和本体论秩序。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0242"
+      ],
+      "rationale": "保留明确非反思性，去除无据选项定义及有编纂歧义的英文对立。"
+    },
+    {
+      "code": "3-3-2-3",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上，哲学与动员学之间的对立是关键。动员学(即自设世界的学问、建设共同体的实践智慧)是别尔嘉耶夫早年作为马克思主义者所习得的遗产。正是这种动员学的维度使他超越了克尔凯廓尔和荷尔德林——后两者都缺乏这种建设性的、创造性的维度。别尔嘉耶夫因此可以幸存下来(不像荷尔德林那样癫狂，也不像克尔凯廓尔那样英年早逝)。",
+      "after": "③认识论上，哲学与动员学之间的对立是关键。动员学(即自设世界的学问、建设共同体的实践智慧)是别尔嘉耶夫早年作为马克思主义者所习得的遗产。正是这种动员学的维度使他超越了克尔凯廓尔和荷尔德林——后两者都缺乏这种建设性的、创造性的维度。讲者把别尔嘉耶夫的“幸存”归因于这种共同体创造精神，并以荷尔德林和克尔凯廓尔作对照；这是课程评价，尚不能证明哲学立场决定疾病或寿命。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0242"
+      ],
+      "rationale": "补回原讲“我认为”的推论性质。"
+    },
+    {
+      "code": "3-3-2-4",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②本体论上，生存与超验之间存在第三个环节——超验的密码(code of transcendent)。密码是非对象化的、不能被对象意识所把握的，但一旦被聆受就会被符号化，变成新的本体性秩序。密码的把握只能通过诗歌或高级哲学，而且是私人的(intellectual ability)——每个人都要自己面临，不具有公共性。这种私人的可理解性是生存(主体自由地设立符号学秩序)与超验(绝对者的降旨)之间的中介。",
+      "after": "②本体论上，生存与超验之间存在第三个环节——超验的密码(code of transcendent)。密码是非对象化的、不能被对象意识所把握的，但一旦被聆受就会被符号化，变成新的本体性秩序。密码的把握只能通过诗歌或高级哲学，而且是私人的——每个人都要自己面临，不具有公共性。这种私人的可理解性是生存(主体自由地设立符号学秩序)与超验(绝对者的降旨)之间的中介。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0243"
+      ],
+      "rationale": "该英语直译为智性能力，未核为雅氏规范术语，保留实际中文课义。"
+    },
+    {
+      "code": "3-3-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上，世界探源分为两个层次：科学化的世界探源是在既定的先验框架内做题，哲学化的世界探源则是通过智性活动摸索新的先验框架，但两者都属于尚未抵达本真生存的层次。真正的认识方式是生存的阐明——主体意识到自己的生存就是绝对者的外存(Existence = absolute's being-outside-itself)，自己的第一人称体验就是绝对者以一种有限的样态出来。生存的阐明最终走向形而上学(聆听超验密码)。",
+      "after": "③认识论上，世界探源分为两个层次：科学化的世界探源是在既定的先验框架内做题，哲学化的世界探源则是通过智性活动摸索新的先验框架，但两者都属于尚未抵达本真生存的层次。讲者将更高层次的认识解释为生存的阐明——把生存解读为绝对者的外存(Existence = absolute's being-outside-itself)，自己的第一人称体验就是绝对者以一种有限的样态出来。生存的阐明最终走向形而上学(聆听超验密码)。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0243"
+      ],
+      "rationale": "Page 13是讲者译名建议与阐释，不作已校原典定义。"
+    }
+  ]
+}

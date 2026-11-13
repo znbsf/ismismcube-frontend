@@ -1,0 +1,1218 @@
+{
+  "batch": "12-ai-34c",
+  "checked_on": "2026-11-13",
+  "scope": "3-4-2全5节点旧AI摘要39字段逐项核读，全部复合细节分项覆盖；0261–0265全讲，不仅前轮核心抽样。",
+  "sources": [
+    {
+      "id": "a12-34-0261",
+      "title": "0261_3-4-2_后结构主义_p6792",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/0261_3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89_p6792.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/0261_3-4-2_后结构主义_p6792.md",
+      "sha256": "cb7893bd7950b33f8827675afad78ab05390ff0e0652c0be09b94e433911f132",
+      "git_blob_sha": "85a8510bc5d3bcd87e18aa07e8d0df1fc664c086",
+      "locator": "Page1–23 L9–165；另读下一讲开头Page23–24 L169–172，仅用于3-4-2-1",
+      "verification_scope": "实际逐段核读Page1–23 L9–165本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。另已读L169–172的3-4-2-1开头，明确只作下一节点证据，不混作本讲。"
+    },
+    {
+      "id": "a12-34-0262",
+      "title": "0262_3-4-2-1_无意识的主体主义_p6815",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0262_3-4-2-1_%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E4%B8%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p6815.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-1_无意识的主体主义/0262_3-4-2-1_无意识的主体主义_p6815.md",
+      "sha256": "10835bb93a75a1953f2fb1b3435267763b0fdc4b0e76472d7f19cc2c3e50a62f",
+      "git_blob_sha": "7a3eb8418d89b3264a65880cc9a49662aba4829a",
+      "locator": "Page1–33 L9–105",
+      "verification_scope": "实际逐段核读Page1–33 L9–105本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。"
+    },
+    {
+      "id": "a12-34-0263",
+      "title": "0263_3-4-2-2_静止的事件主义_p6848",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89/0263_3-4-2-2_%E9%9D%99%E6%AD%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E4%B8%BB%E4%B9%89_p6848.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-2_静止的事件主义/0263_3-4-2-2_静止的事件主义_p6848.md",
+      "sha256": "a4b849ff9b9d6de030ab9abd4dbd6b3a6ecd65491e2a004f2b0a224fb46d7124",
+      "git_blob_sha": "7c0519418d0405c7cd763a7af1e5cd6246ba61b2",
+      "locator": "Page1–32 L9–203",
+      "verification_scope": "实际逐段核读Page1–32 L9–203本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。"
+    },
+    {
+      "id": "a12-34-0264",
+      "title": "0264_3-4-2-3_哲学的墨守成规_p6880",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84/0264_3-4-2-3_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%A2%A8%E5%AE%88%E6%88%90%E8%A7%84_p6880.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-3_哲学的墨守成规/0264_3-4-2-3_哲学的墨守成规_p6880.md",
+      "sha256": "533abde010fc4a0a41db225bffb3a3d7ef30204fd1b666d036f228339ccae0e6",
+      "git_blob_sha": "dc90be0b88756b6e2a9afae2d1dff71628d7af81",
+      "locator": "Page1–19 L9–63",
+      "verification_scope": "实际逐段核读Page1–19 L9–63本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。"
+    },
+    {
+      "id": "a12-34-0265",
+      "title": "0265_3-4-2-4_螺旋的贱斥主义_p6900",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-2_%E5%90%8E%E7%BB%93%E6%9E%84%E4%B8%BB%E4%B9%89/3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89/0265_3-4-2-4_%E8%9E%BA%E6%97%8B%E7%9A%84%E8%B4%B1%E6%96%A5%E4%B8%BB%E4%B9%89_p6900.md",
+      "kind": "community_compiled_transcript",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-4_复习课/3-4-2_后结构主义/3-4-2-4_螺旋的贱斥主义/0265_3-4-2-4_螺旋的贱斥主义_p6900.md",
+      "sha256": "9831be1b987a734f25f9b5c9e2643df0735d037d76e4a4414700f4d7441e4d54",
+      "git_blob_sha": "f12812e095ec5a67b4268c6f1acbf7f971169a06",
+      "locator": "Page1–21 L9–91",
+      "verification_scope": "实际逐段核读Page1–21 L9–91本讲完整论述；末行若合并下一讲则排除其内容。SHA256已验。未核原音、板书或原典，讲者的政治/心理/数学比喻不作独立事实认证。"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-4-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "scope": "全部feature及axis；复合命题分项核对；未核原音与原典",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "后结构主义不同解构：前者主体发生、半脚实践，后者结构去中心化",
+          "status": "supported",
+          "finding": "讲者明确以自己的辩证唯物主义视野区分，不是通用思想史分类。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page1–4 L9–24；Page22 L162"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "从前符号无头主体到意识形态俘获臣民",
+          "status": "needs_qualification",
+          "finding": "Page4有主体化前提为无头主体性，但未定义为时间上先于符号系统的独立主体；前符号容易误导，应删除。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page4 L24；Page21–22 L159–162"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "康德/新康德范式严格二分先验逻辑科学与经验主义",
+          "status": "supported",
+          "finding": "Page4–5明确，但同段又分别称中期拉康黑格尔主义、阿尔都塞新康德；非每个后结构者同一种范式。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page4–5 L24–29"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "实践唯物主义理论结构主义，借腹生子策略；前生存论后结构主义夹击",
+          "status": "supported",
+          "finding": "Page5–10说明两身份以及两方向对社会存在/意识辩证关系的威胁。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page5–10 L29–64"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "抛弃黑格尔式辩证法、包装资本论，症候阅读和有罪阅读投名状",
+          "status": "supported",
+          "finding": "Page10–12为课程战略比喻；末尾又说隐秘坚持黑格尔，不能当完全抛弃辩证法的思想史事实。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page10–12 L58–90；Page22 L162"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "本体4各要素平等但经济有差异网络决定的二阶主导性",
+          "status": "supported",
+          "finding": "Page12–15说明不是严格经济决定论，各要素相对独立。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page12–15 L88–126"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "意识形态主体化误认对科学理论实践，意识形态加工为政治经济知识",
+          "status": "supported",
+          "finding": "Page15–18给认识2及加工术；理论劳动/谢林点为本讲重构。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page15–18 L127–150"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "执拗理论家主体隐秘嵌入，哲学战斗/理论协调政治经济",
+          "status": "supported",
+          "finding": "Page19–22直接表述，并强调经济和阶级斗争主导。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page19–22 L153–162"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "超定多重结构使主导性被决定，全球资本主义解释经济始终主导",
+          "status": "needs_qualification",
+          "finding": "Page14说不仅因为全球资本主义也因为唯物主义者坚持该主导，Page22补回溯建构。旧摘要只留客观最大结构因果，遗漏立场与回溯性。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page13–15 L100–123；Page22 L162"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "理论协调经济现实与政治现实/符号权力",
+          "status": "supported",
+          "finding": "场域直接定义及回顾。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page6–7 L34–39；Page19 L153"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4超定，各要素平等与经济二阶主导",
+          "status": "supported",
+          "finding": "直接定义，作为阿尔都塞哲学产品而非讲者给其本人四字头。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page12–15 L88–126"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识2意识形态与科学/知识，症候阅读理论生产",
+          "status": "supported",
+          "finding": "直接定义和加工论证。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page15–18 L127–150"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条“借腹生子”“投名状”“混入敌营”、康德/黑格尔谱系及经济二阶主导性，是讲者对理论实践的重构。其分类把德里达排除后结构主义，并明确自称辩证唯物主义的后结构主义观；不得据此替代通常学术分类。",
+          "source_ids": [
+            "a12-34-0261"
+          ],
+          "locator": "Page1–6 L9–34；Page10–12 L58–90；Page22 L162"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-2-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部feature及axis；复合命题分项核对；未核原音与原典",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "1950年代中期拉康研究父性秩序、三重俄狄浦斯发生及阉割",
+          "status": "supported",
+          "finding": "0261下一讲开头列父性符号化/欲望辩证法/癔症化主体，0262Page1承接三者同时性和年代；是课程分期。",
+          "source_ids": [
+            "a12-34-0262",
+            "a12-34-0261"
+          ],
+          "locator": "0261 Page23–24 L169–172；0262 Page1 L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "主体获得名与性化，知男女之分，失去母子原初享乐；无头发生秘密",
+          "status": "needs_qualification",
+          "finding": "Page1紧接知男知女说“不一定要知男知女”，要点是原初共同体享乐不再可能；Page20才展开共时结构无头发生。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page1 L9；Page20–21 L66–69"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "主体恢复但为无头纯空无、真实不可能性、符号不一致性缝隙，非实体存在",
+          "status": "supported",
+          "finding": "Page2–4直接说明；不是消灭主体作用。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page2–4 L12–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "能指成对、主人能指无所指，指称运动代表主体",
+          "status": "supported",
+          "finding": "Page5–9详述，Page7特说不是指称“无”而是不指任何东西。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page5–9 L21–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "二元能指不能完美嵌合，主体驱动S1向S2；松链每对均为S1/S2及不可能性",
+          "status": "supported",
+          "finding": "Page10–19详细展开，并以谢林主词/谓词模型再解释，非逐字拉康原说证明。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page10–19 L36–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体化不断发生并回溯抹除痕迹，结构仿佛恒在",
+          "status": "supported",
+          "finding": "Page30–32是该段的完整依据。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page30–32 L96–102"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "回溯设立/抹除，S2返S1使主人能指有普遍支撑地位并拉紧链",
+          "status": "supported",
+          "finding": "Page31–32明确，且区分分析师松链与无意识回溯拉紧。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page31–32 L99–102"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "无意识非深海仓库而等于主体、符号运动发生；最本真的时间运动",
+          "status": "supported",
+          "finding": "Page30–33直接判断，带课程模型归属，不是无意识经验定律。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page30–33 L96–105"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "象征界调和想象与实在三界",
+          "status": "supported",
+          "finding": "Page24直接给格；晚期三界变化讨论不能混成各时期一贯。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page24 L78"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4无头主体性，真实为不可能",
+          "status": "supported",
+          "finding": "Page24直接定义，强调不是没有，而是开放。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page24–25 L78–81"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识2结构共时原理与辩证发生；语言vs言语",
+          "status": "supported",
+          "finding": "Page25–29给二分，言语运动优先不等于任意个人表达。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page25–29 L81–93"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的1回溯设立/抹迹与retro-activate",
+          "status": "supported",
+          "finding": "Page30–33直接给轴及时间性。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page30–33 L96–105"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "这一“中期拉康”讲法同时调用1972年的《再来一次》、晚期谢林和齐泽克《视差之见》；讲者多次以“我的思考/态度”说明主词谓词模型。摘要所列机制属于跨文本课程重构，不能全部断代为1950年代原说。",
+          "source_ids": [
+            "a12-34-0262"
+          ],
+          "locator": "Page3 L15；Page8–9 L30–33；Page15–16 L51–54；Page22–23 L72–75"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-2-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部feature及axis；复合命题分项核对；未核原音与原典",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "守阵地数学本体论化，以空间点位对抗拉康回溯逻辑",
+          "status": "supported",
+          "finding": "Page1–6完整说明，集合论/数论/拓扑列举为讲者的战略描述；未核具体数学著作。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page1–6 L9–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "回溯让所有变化白费，等待天才降临",
+          "status": "needs_qualification",
+          "finding": "等待天才是Page3/23讽喻；Page2明确纠正“当然不是白活”，说回溯吊诡改变现实。旧摘要将巴迪欧所恐惧情形当事实。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page1–3 L9–15；Page23 L135"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "Being服务器在场vsEvent更新不在场，由State协调",
+          "status": "supported",
+          "finding": "Page7直接格位，属于游戏比喻；state状态/表达/政府三义均有。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "State剩余Space/Site/Position，空位拒规定，忠诚让底层翻转、承接整体",
+          "status": "supported",
+          "finding": "Page8–11论证与Page19–23讨论。Page29–32批评位置本身已结构化，原摘要未呈现此反驳，已在第四项补回。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page8–11 L30–39；Page19–23 L63–135；Page29–32 L194–203"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "知识是闭合内部交换；忠诚主体化为外部更新中介",
+          "status": "supported",
+          "finding": "Page13–19解释，知识不是本讲阿尔都塞式科学。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page13–19 L45–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "主体存在即主体化，去主体化展开Site；不知对错却绝对知道、局外如疯",
+          "status": "supported",
+          "finding": "Page15–18都有，但绝对知道为参与忠诚的知，不知对错为癔症化张力；不能混为旁观可证明的全知。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page15–18 L51–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "拉康回溯无缝更新vs巴迪欧换游戏，空位可否被坚守是差别",
+          "status": "supported",
+          "finding": "Page19–23明确；拉康只能坚持具体欲望对象也是讲者比较框架。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page19–23 L74–134"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "可断裂性使巴迪欧更激进，革命潜能作为结论",
+          "status": "needs_qualification",
+          "finding": "Page21比较姿态更激进，但Page29–32结论批评空位本体化及主体为事件担保。只留正面结论失衡。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page21 L101–111；Page29–32 L194–203"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "State调和Being与Event",
+          "status": "supported",
+          "finding": "直接格位。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page7–8 L27–30"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4不可数多、无限可能性及四种真理程序",
+          "status": "supported",
+          "finding": "Page11–12均明确；uncountable many为原讲词，不自行认定为严格数学的不可数基数，既有原典提醒仍有效。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page11–12 L39–42"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识2知识与忠诚主体化",
+          "status": "supported",
+          "finding": "直接定义。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page13–19 L45–71"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的2断裂更新与稳定化状态的对立",
+          "status": "supported",
+          "finding": "Page19说明更新后重新闭合、稳定与回溯比较；Page21换游戏。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page19–21 L71–110"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "服务器、版本更新、守空位、等天才以及数学家作为AI等均是讲者的解释比喻。课程同时讲参与者的知与不确定忠诚；未以此核实巴迪欧原典的集合论定义或个人动机。本讲末尾反对将空间空位当成终极本体支柱。",
+          "source_ids": [
+            "a12-34-0263"
+          ],
+          "locator": "Page3–6 L15–24；Page15–21 L51–111；Page29–32 L194–203"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-2-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部feature及axis；复合命题分项核对；未核原音与原典",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "黑格拉康主义与后观念论底色，政治无害三字头",
+          "status": "needs_qualification",
+          "finding": "Page1限定面向大众的哲学产品；Page15明确排除另一些现实政治评论，不能扩到其全部政治思想与活动。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page1–2 L9–12；Page15 L51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "无政治计划悲观主义协调智性与大众文化现实生活，重复书写拒绝会餐",
+          "status": "supported",
+          "finding": "Page2–5完整支持；每年出书、会餐逸事为讲者叙述，未独立核生平。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page2–5 L12–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "DEN/失败绝对/纯否定主体/表象之为表象四矩阵",
+          "status": "supported",
+          "finding": "Page5–9完整列四项，DEN名称连德谟克里特，不意味着齐泽克首创术语。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page5–9 L21–33"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "DEN是Failed Absolute的剩余",
+          "status": "not_located_in_full_lecture",
+          "finding": "全文核读并定位所有剩余相关处，仅Page7把上方两项统称有剩余，未给DEN由Failed Absolute剩余产生的明确定义；本批删除此附会，不断言其它书中不存在。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page5–9 L21–33；全文Page1–19 L9–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "黑格尔下两项更主导，主体void为动力；失败性关系接触绝对",
+          "status": "supported",
+          "finding": "Page6–8直接论述；性关系不可能的含义在本批未核原典。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page6–8 L24–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "哲学文化分类与历史缩影文化过程二分，精神分析实践站文化侧",
+          "status": "supported",
+          "finding": "Page9–11给轴与实践/底层符号学区分，底层符号学仍归哲学。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "哭泣小丑、悲观底色，缺现象学理解、主要后观念论及后结构论域",
+          "status": "supported",
+          "finding": "Page11–12明言，但为讲者批评；Page17又说不是真正骨子悲观，需可见注释。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page11–12 L39–42；Page17 L57"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "无位可守，停留否定以卡住时间/重复造位置",
+          "status": "supported",
+          "finding": "Page13–15与18直接说明；不是经验的物理时间停顿。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page13–15 L45–51；Page18 L60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "每个当下卡住为不同mode，恢复论域合法性并启发主义主义",
+          "status": "supported",
+          "finding": "Page18–19明确自述启发来源；不等于齐泽克自己制定编号。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page18–19 L60–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "无政治计划悲观写作协调后观念论与大众文化",
+          "status": "supported",
+          "finding": "直接场域定义，局限上述产品范围。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page1–5 L9–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4四重矩阵DEN等",
+          "status": "supported",
+          "finding": "直接图式，讲者说我要拉矩阵而非书中原图。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page5–9 L21–33"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "哲学分类学vs文化过程及精分诊断",
+          "status": "supported",
+          "finding": "直接定义，精分底层符号学与诊断实践被区别。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page9–11 L33–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的3回溯与整体变革由卡住协调",
+          "status": "supported",
+          "finding": "Page12–15明说3及两侧，用拖代守/停留否定解释。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page12–15 L42–51；Page18–19 L60–63"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "“无害”“不懂现象学”“哭泣的小丑”均为讲者评价，不是本批已核生平或学术能力结论。Page15限制讨论为某类哲学产品；Page17又明确其悲观不是骨子里的，并肯定复兴黑格尔、普及拉康及启发资本批判的作用。",
+          "source_ids": [
+            "a12-34-0264"
+          ],
+          "locator": "Page1 L9；Page11–12 L39–42；Page15–19 L51–63"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    },
+    {
+      "code": "3-4-2-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "scope": "全部feature及axis；复合命题分项核对；未核原音与原典",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "compared_feature_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compared_axis_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "checked_claims": [
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "贱斥为内部异质他者和原初排斥，拒父母爱欲残留、与母体污秽区隔",
+          "status": "supported",
+          "finding": "Page5–6完整表述，是讲者解释的主体机制，非生理学事实。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page5–6 L29–34"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "从符号界走象征界，abjection=唯物主体，具象母体脐带意象回应虚无实体化",
+          "status": "supported",
+          "finding": "Page4–6将之称策略及唯物主体；不代表讲者认可一切原初异质性本体化。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page4–6 L24–34；Page18–19 L76–81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "semiotic母性循环vs symbolic父性线性同一化",
+          "status": "supported",
+          "finding": "Page6–7直接区分；同时明说象征秩序不一定父性化，只是批判语境以父性为例。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page6–7 L34–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "互文性通过意识形态素即系统共同结构残余显现，背后活力",
+          "status": "supported",
+          "finding": "Page2–3与16–17完整论证，挫/浅表为讲者评价。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page2–3 L14–19；Page16–17 L66–71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "三代女权：线性平等、循环差异否定、两极螺旋与异质权威",
+          "status": "supported",
+          "finding": "Page7–12完整三阶段叙述；是本讲对女性时间性的方案化解释，非全部女性主义通史。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page7–12 L39–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "所有能贱斥创造秩序者都是女人，proletarian都是女人",
+          "status": "needs_qualification",
+          "finding": "Page11–12有逐字依据，但为讲者将女性位置普遍化的政治解释，并非生理性别或个体身份分类；需直接可见归属。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page11–14 L51–60"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "螺旋实为两极震荡断裂漂移，回溯逻辑失败；线性循环螺旋三模式都失败",
+          "status": "needs_qualification",
+          "finding": "Page17说“前面三种运行模式”未明确等于这三种时间；不可自行补定指代。关于回溯失败是讲者批评。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page1 L9；Page12–13 L54–57；Page17 L71"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "认为镜像原始异质好，进入象征意味着父子共同体丧失",
+          "status": "contradicted",
+          "finding": "原文为母子共同体不能维持，不是父子；其误读早期拉康判断明确是讲者立场。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page18 L76"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "爱欲还原论以恶心恐怖激情为本真未符号化体验",
+          "status": "supported",
+          "finding": "Page18直接批评；Page19也承认中期拉康类似立场及唯物主义意向，不能单向宣布普遍学术定论。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page18–19 L76–81"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "贱斥协调符号界母性循环与象征父性线性",
+          "status": "supported",
+          "finding": "Page3给中介，Page6–7分两时间；父性仍有语境限定。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page3 L19；Page6–7 L34–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体4未符号化原初异质他者、对结构威胁",
+          "status": "supported",
+          "finding": "Page15明给4，Page18–19解释威胁与批评。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page15 L63；Page18–19 L76–81"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识2现象文本vs生成文本，sign到symbol机制",
+          "status": "needs_qualification",
+          "finding": "Page15–17如此落格，但Page19–20又说不明确，倾向改为生成文本/诗性一侧与意识形态/新秩序一侧；原摘要遗漏备选。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page15–17 L63–71；Page19–20 L81–86"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的4线性循环间螺旋不稳定动态",
+          "status": "supported",
+          "finding": "Page12/17明确否认光滑有机螺旋，喷气背包为比喻。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page12 L54；Page17 L71"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本条三代女性主义、“普罗大众都是女人”、唯物主义主体等，是讲者将克里斯蒂娃接到政治实践的解释。非性别身份判定，也未经本批原著检证。讲者明确以拉康主义者立场批评其回溯性和情感还原，且承认象征秩序未必只能父性化。",
+          "source_ids": [
+            "a12-34-0265"
+          ],
+          "locator": "Page1–6 L9–34；Page11–14 L51–60；Page18–19 L76–81"
+        }
+      ],
+      "open_questions": [],
+      "reading_links": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①后结构主义并非解构主义，后者(3-4-3)只是将结构主义的逻辑运行到底、完成去中心化，而后结构主义则半只脚踏入真正的实践领域。后结构主义的显著特征是开始考虑主体的发生学机制(Subjectivation)——主体化过程必然被符号系统束缚，从前符号的无头主体性到被意识形态俘获的臣民主体。这一主体化哲学的范式往往是康德式或新康德式的，在认识论上严格区分先验逻辑(导向科学)与经验主义(被视为缺乏框架的垃圾)。",
+      "after": "①本课程把后结构主义与解构主义区分：后者被看作将结构主义去中心化逻辑推到底，前者则开始探究主体化机制，并接近实践。讲者以无头主体性与被意识形态俘获的臣民主体之间的转变说明这一问题；这不预设一个时间上先于符号系统的实体主体。他把阿尔都塞的科学与经验主义之分联系到新康德主义，同时把中期拉康联系到黑格尔。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0261"
+      ],
+      "locator": "Page1–5 L9–29；Page21–22 L159–162",
+      "rationale": "去除未支持的前符号实体化时间顺序，分清不同代表的范式。"
+    },
+    {
+      "code": "3-4-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④后结构主义在目的论上隐含一条隐秘布线：理论家作为一个执拗的主体性被嵌入理论体系中。理论家固执地坚信经济要素最终是主导性的，阶级斗争(CS)是支配性的。哲学就是战斗，理论实践调和政治与经济、微观权力与宏观架构之间的对立。阿尔都塞用\"超定论\"(多元决定论)来解释：多种符号学结构态势共同决定世界，主导性要素的主导性本身由其他要素共同决定。经济之所以始终占主导，是因为全球资本主义是最大的符号结构。",
+      "after": "④讲者认为阿尔都塞在理论中隐秘嵌入了执拗的理论实践者：坚持经济与阶级斗争的主导地位，把哲学作为战斗。超定意味着主导要素的主导性也由整个差异网络共同决定，而不是单向因果决定一切。讲者以全球资本主义结构及唯物主义者的实践立场解释这一坚持，并在结尾强调主导性还被回溯地建构。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0261"
+      ],
+      "locator": "Page13–15 L100–123；Page19–22 L153–162",
+      "rationale": "补全最大符号结构之外的立场性理由及回溯建构，避免改造成机械经济决定论。"
+    },
+    {
+      "code": "3-4-2-1",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①中期拉康(1950年代)以俄狄浦斯情结为核心，研究符号界/象征界的发生学机制。俄狄浦斯情结的三重发生学(父性律令与符号化、欲望辩证法、癔症化主体化)同时发生，统称为符号学阉割(Castration)。主体通过被整合到大他者的符号系统而获得名字、被阉割了与原初享乐(Incestuous enjoyment)的直接联系，从而成为一个性化的主体(知男女之分)。这一发生学机制揭示了结构主义共时性结构的发生学秘密——它是无头的(主体非存在)。",
+      "after": "①本讲以1950年代拉康对父性律令和俄狄浦斯情结的研究为起点，把符号化、欲望辩证法与癔症化主体的发生并置为符号学阉割：主体进入大他者的符号系统、获得名字，原初母子共同体的直接享乐不再可能。讲者特意说性化“不一定要知男知女”。后文再以无头主体性说明共时结构的发生机制，并跨用后期文本。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0262",
+        "a12-34-0261"
+      ],
+      "locator": "0261 Page23–24 L169–172；0262 Page1 L9；Page20–21 L66–69",
+      "rationale": "恢复原讲对知男知女的明确限定，区分开场历史与后续跨文本论证。"
+    },
+    {
+      "code": "3-4-2-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①巴迪欧的静止的事件主义是一种\"守阵地\"的哲学化策略。其真正的对手是拉康的回溯性逻辑——回溯性使得一切变化白费，因为符号系统的调整会回溯性地让事情仿佛本来如此。巴迪欧拒绝这种\"边玩边更新\"的时间性，转而追求空间性：他试图在数学话语(集合论、数论、拓扑学)中寻找可以本体论化的点位，占领这些高级学术话语作为阵地，等待不世出的天才让事件降临。这是一种将现代数学的前沿成果本体论化的策略。",
+      "after": "①讲者把巴迪欧的事件哲学解释为“守阵地”的策略：在集合论、数论、拓扑等数学话语中寻找可被本体论化的点位，借忠诚等待事件。他以此对照拉康的回溯机制：巴迪欧担忧改变会被回溯成“本来如此”；但讲者随即强调，这并不意味着回溯使一切白费，它仍可吊诡地改变现实。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0263"
+      ],
+      "locator": "Page1–6 L9–24",
+      "rationale": "恢复“当然不是白活”的关键限定，不把被比较者的恐惧当作课程结论。"
+    },
+    {
+      "code": "3-4-2-2",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上的2体现了巴迪欧与拉康的根本差异：拉康的回溯性逻辑是连续的无缝更新(修修补补、边玩边更新)，而巴迪欧追求彻底的断裂式版本更新(换游戏)。关键在于是否存在空位置——在拉康那里空位置只能是主体本身，主体只能坚持具体的欲望对象而非空位本身；而在巴迪欧这里可以朝向空位置本身，通过主体的坚持使之成为承接整体降临的点位。这种可断裂性使得巴迪欧的体系具有比拉康更激进的革命性潜能。",
+      "after": "④目的论2被解释为稳定运行与断裂更新的张力：讲者用拉康“边玩边更新”和巴迪欧“换游戏”对照，关键在于能否守住空位来承接整体变化。他虽称巴迪欧姿态更激进，却在收束处批评：空间和点位自身也有符号发生机制，不能当作无须解释的支柱；若由主体的忠诚保证事件本真性，仍可能退回先验主体的担保。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0263"
+      ],
+      "locator": "Page19–23 L74–134；Page29–32 L194–203",
+      "rationale": "补回整讲后段反驳，避免摘要只留下革命潜能的单向赞许。"
+    },
+    {
+      "code": "3-4-2-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①齐泽克的哲学体系以\"黑格拉康主义\"(Hegelian-Lacanian)为底色，是后观念论运动的重要支脉。他的哲学产品在政治上是无害的三字头的——其调和性力量是一种悲观主义：无政治计划性的过剩哲学写作。左边是后观念论的严肃哲学思考(智性生命)，右边是大众文化中的爱欲分析式评论(现实生活)，两者由\"没有计划\"的无计划性来调和。这种无计划性表现为无限重复的书写——每年出新书，到各地参加会议却以写书为由拒绝社交活动。",
+      "after": "①本讲讨论齐泽克面向大众的黑格拉康主义哲学产品，并把其后观念论思考与大众文化评论放在场域两侧，以无政治计划性的悲观姿态协调。讲者用不断写书、参加会议仍急于写作的逸事说明“过剩的书写”；他在后文限定，这种三字头判断不涵盖齐泽克所有现实政治评论或未来设想。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0264"
+      ],
+      "locator": "Page1–5 L9–21；Page15 L51",
+      "rationale": "保留课程对象范围，避免把大众哲学产品判断扩大到人物全部活动。"
+    },
+    {
+      "code": "3-4-2-3",
+      "field_path": [
+        "feature_list",
+        1
+      ],
+      "before": "②本体论上齐泽克提出了DEN(比无更少/Less than Nothing)的概念。本体论矩阵有四重：比无更少(Failed Absolute的剩余)、注定失败的绝对(存在论差异，通过注定失败的性关系抵达)、纯粹否定性/主体性(符号学的发生学机制与动力学机制)、表象之为表象(将符号系统本身本体论化)。齐泽克更坚持的是下面黑格尔主义的立场——主体性本身作为void，是所有符号系统的动力学机制。绝对者是注定失败的，它的接触只能通过sexuality(性关系的不可能性)。",
+      "after": "②讲者用四项矩阵整理齐泽克的本体论4：DEN（比无更少）、失败的绝对、纯粹否定性/主体性、表象之为表象。他将前两项联系到仍有剩余的立场，将后两项联系到黑格尔主义，并说齐泽克更坚持后者：作为void的主体性是符号系统的发生与动力机制。讲者还以性关系的不可能性说明失败的绝对；本讲未明确把DEN定义成Failed Absolute的剩余。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0264"
+      ],
+      "locator": "Page5–9 L21–33",
+      "rationale": "删除全文未定位的DEN派生关系，保留四项矩阵及其归属。"
+    },
+    {
+      "code": "3-4-2-4",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③克里斯蒂娃的女权主义分三代：第一代在父性线性时间中追求表面平等(普遍的女性/universal women)；第二代以永恒循环时间否定线性时间，追求绝对的差异，但陷入虚无主义和为了否定而否定的困境；第三代则是螺旋上升——在两极之间震荡，女性扮演超验权威、超符号系统的原初异质性。能够体验到超出象征秩序的原初异质性就是女性，因此女性主义被普遍化：一切能够从僵死的符号系统中\"贱斥\"出来、重新创造新象征秩序的人都是女人。在这个意义上，proletarian都是女人。",
+      "after": "③本讲把女性主义方案分为三代：在父性线性时间中追求平等；以循环时间和绝对差异反对既定秩序；在两极间维持异质性并创造新秩序。讲者据此将“女性”位置普遍化，把能从僵死符号系统中贱斥出来者比作女人，并说“proletarian都是女人”。这是他的政治解释，不是关于所有人的生理性别或身份的判断。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0265"
+      ],
+      "locator": "Page7–14 L39–60",
+      "rationale": "明确普遍女性位置与政治类比归属，防止字面身份化。"
+    },
+    {
+      "code": "3-4-2-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上的4表现为螺旋运动——但实际上不是有机的螺旋，而是在线性时间与循环时间之间的不停震荡、断裂、漂移。这种运动拒绝了回溯性逻辑的成功运作，三种时间模式(线性、循环、螺旋)都注定失败。镜像阶段被克里斯蒂娃误读为好的——\"异质性原始的东西是好的\"，而进入象征界则意味着父子共同体的丧失。她对拉康的误解在于她是一个还原论者(爱欲还原论)，将一切还原为情感性、爱欲性体验(恶心、恐怖、激情)，认为不能被符号化的东西才是本真的。",
+      "after": "④目的论4被讲作线性与循环时间间的震荡、断裂和漂移，而不是平稳的有机螺旋。讲者批评克里斯蒂娃没有充分把握回溯性，又认为她把镜像阶段的原初异质性看得过于积极，把进入象征秩序联系到母子共同体难以维持。他将这种倾向称为爱欲还原论：诉诸恶心、恐怖、激情等未被符号化的体验作为本真根据。这些是课程的批评判断。",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0265"
+      ],
+      "locator": "Page12–13 L54–57；Page17–19 L71–81",
+      "rationale": "纠正父子为母子；不擅定“前面三种”指代为三时间模式，并标讲者评价。"
+    },
+    {
+      "code": "3-4-2-4",
+      "field_path": [
+        "axis_list",
+        2
+      ],
+      "before": "认识论2：现象文本(Phenotext/表象/离散的sign)与生成文本(Genotext/深层张力/sign到symbol的转化机制)的二分",
+      "after": "认识论2：本讲先列现象文本与生成文本（sign到symbol的机制），结尾又倾向改写为诗性/生成一侧与意识形态及新秩序一侧，未给唯一稳定写法",
+      "kind": "course_transcript_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-34-0265"
+      ],
+      "locator": "Page15–17 L63–71；Page19–20 L81–86",
+      "rationale": "记录原讲后段重议轴定义，不能把初次格位当唯一终稿。"
+    }
+  ]
+}

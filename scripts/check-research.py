@@ -90,6 +90,37 @@ def fixture_checks():
             body(payload)
             payload['course_entries'][0]['course_summary'][0].pop('locator')
         run('course_body_missing_locator', no_locator)
+        def metadata_body(payload):
+            body(payload)
+            payload['sources'][0]['kind'] = 'course_video_metadata'
+        run('course_metadata_cannot_support_body', metadata_body)
+        def course_correction(payload, **changes):
+            record = {'id': bv, 'before': {'kind': 'dollar_series'}, 'after': {'kind': 'preview'},
+                      'evidence_source_ids': ['s'], 'rationale': 'Synthetic identity correction'}
+            record.update(changes)
+            payload['course_corrections'] = [record]
+        run('course_metadata_correction_valid', course_correction, rejected=False)
+        run('course_metadata_correction_drift', lambda p: course_correction(p, before={'kind': 'review'}))
+        run('course_metadata_correction_unknown_id', lambda p: course_correction(p, id='BV1Er4y1v78m'))
+        run('course_metadata_correction_invalid_field', lambda p: course_correction(p, before={'url': 'A'}, after={'url': 'B'}))
+        run('course_metadata_correction_missing_source', lambda p: course_correction(p, evidence_source_ids=[]))
+        correction = {'id': bv, 'before': {'kind': 'review'}, 'after': {'kind': 'lecture'},
+                      'evidence_source_ids': ['s'], 'rationale': 'Fixture'}
+        original = [{'id': bv, 'kind': 'review'}]
+        once = build.correct_courses(original, [correction])
+        require(build.correct_courses(once, [correction]) == once and original[0]['kind'] == 'review',
+                'Course correction must be idempotent and not mutate its input')
+        passed.append('course_metadata_correction_idempotent')
+        second = {**correction, 'before': {'kind': 'lecture'}, 'after': {'kind': 'extra'}}
+        twice = build.correct_courses(original, [correction, second])
+        require(twice[0]['kind'] == 'extra' and build.correct_courses(twice, [correction, second]) == twice,
+                'Continuous course correction chain must replay idempotently')
+        require(twice[0]['metadata_correction_history'] == [correction, second], 'Course correction history lost')
+        passed.append('course_metadata_continuous_chain_idempotent')
+        def broken_course_chain(payload):
+            course_correction(payload)
+            payload['course_corrections'].append({**second, 'before': {'kind': 'lecture'}})
+        run('course_metadata_discontinuous_chain', broken_course_chain)
     return passed
 
 
@@ -127,6 +158,13 @@ def main(source_cache=None):
 
     coverage, coverage_md = build.coverage(ROOT, knowledge)
     manual, manual_md = build.manual_review(ROOT, knowledge)
+    ai, ai_md = build.ai_review(ROOT, knowledge)
+    require(manual['counts']['all_fields_recorded_nodes'] == manual['counts']['manual_nodes'] == 213,
+            'Original manual review coverage regressed')
+    require(ai['counts']['all_fields_recorded_nodes'] == ai['counts']['ai_nodes'] == 42,
+            'Original AI review coverage regressed')
+    require(set(knowledge['course_entries']) == {c['id'] for c in knowledge['courses']},
+            'A supplementary course lacks an evidence-scoped body record')
     expected = {
         'public/research.json': json.dumps(knowledge, ensure_ascii=False, indent=2) + '\n',
         'public/coverage.json': json.dumps(coverage, ensure_ascii=False, indent=2) + '\n',
@@ -136,6 +174,8 @@ def main(source_cache=None):
         'research/COVERAGE.md': coverage_md,
         'public/manual-review.json': json.dumps(manual, ensure_ascii=False, indent=2) + '\n',
         'research/MANUAL-REVIEW.md': manual_md,
+        'public/ai-review.json': json.dumps(ai, ensure_ascii=False, indent=2) + '\n',
+        'research/AI-REVIEW.md': ai_md,
         'public/course-bodies.json': json.dumps(knowledge['course_entries'], ensure_ascii=False, indent=2) + '\n',
         'research/COURSE-READINGS.md': build.render_course_bodies(knowledge),
         'public/courses.json': json.dumps(build.full_course_catalogue(ROOT, knowledge), ensure_ascii=False, indent=2) + '\n',
@@ -151,15 +191,19 @@ def main(source_cache=None):
     readings += [r for e in knowledge['course_entries'].values() for r in e.get('reading_links', [])]
     tests = fixture_checks()
     cache_result = {'status': 'not_requested'}
+    local_result = {'status': 'not_requested'}
     if source_cache:
         cache = Path(source_cache)
         manifest = build.read_json(cache / 'manifest.json')
         records = list(manifest['files'])
-        asr_manifest = cache / 'asr-manifest.json'
-        if asr_manifest.exists():
-            asr = build.read_json(asr_manifest)
-            require(asr['commit'] == manifest['commit'], 'ASR cache commit mismatch')
-            records.extend(asr['files'])
+        extra_manifests = [cache / 'asr-manifest.json', *sorted(cache.glob('extras-*-manifest.json'))]
+        for extra_manifest in extra_manifests:
+            if not extra_manifest.exists():
+                continue
+            extra = build.read_json(extra_manifest)
+            require(extra['commit'] == manifest['commit'], f'Cache commit mismatch: {extra_manifest.name}')
+            records.extend(extra['files'])
+        require(len({r['path'] for r in records}) == len(records), 'Duplicate cache records')
         by_hash = {}
         for record in records:
             raw = (cache / record['path']).read_bytes()
@@ -182,6 +226,39 @@ def main(source_cache=None):
         cache_result = {'status': 'sha256_and_git_blob_verified', 'commit': manifest['commit'],
                         'cached_files': len(records), 'hashed_research_sources': source_checks,
                         'scope': 'File identity only; not a claim of full-text reading.'}
+        local_checked = []
+        for source in knowledge['sources'].values():
+            if source.get('kind') == 'local_automatic_speech_transcript':
+                run = source['generation']
+                raw = (cache.parent / 'local-asr' / (run['bvid'] + '.jsonl')).read_bytes()
+                require(hashlib.sha256(raw).hexdigest() == run['transcript_sha256'], 'Local transcript hash mismatch')
+                audio = cache.parent / 'local-asr' / (run['bvid'] + '.m4a')
+                require(hashlib.sha256(audio.read_bytes()).hexdigest() == run['audio_sha256'], 'Local audio hash mismatch')
+                segments = [json.loads(line) for line in raw.decode('utf-8').splitlines()]
+                require(len(segments) == run['segments'] and run['status'] == 'complete', 'Local ASR incomplete')
+                require(all(0 <= s['start'] < s['end'] <= run['duration_seconds'] for s in segments), 'Invalid ASR timestamps')
+                require(all(a['end'] <= b['start'] for a, b in zip(segments, segments[1:])), 'ASR time ordering changed')
+                require(segments[-1]['end'] > run['duration_seconds'] - 5, 'ASR does not reach video ending')
+                local_checked.append({'source_id': source['id'], 'segments': len(segments), 'last_end': segments[-1]['end']})
+            if source.get('kind') == 'video_board_frames' and source.get('evidence_files'):
+                for record in source['evidence_files']:
+                    require(hashlib.sha256((cache / record['name']).read_bytes()).hexdigest() == record['sha256'],
+                            'Board evidence hash mismatch')
+                local_checked.append({'source_id': source['id'], 'files': len(source['evidence_files'])})
+            if source.get('kind') == 'local_asr_identity_comparison':
+                run = source['generation']
+                folder = cache.parent / 'identity-asr'
+                raw = (folder / 'samples.jsonl').read_bytes()
+                require(hashlib.sha256(raw).hexdigest() == run['samples_sha256'], 'Identity ASR hash mismatch')
+                require(hashlib.sha256((folder / (run['bvid'] + '.m4a')).read_bytes()).hexdigest() == run['audio_sha256'],
+                        'Identity audio hash mismatch')
+                segments = [json.loads(line) for line in raw.decode('utf-8').splitlines()]
+                require(len(segments) == run['segments'], 'Identity sample segment count mismatch')
+                require(all(any(start - .01 <= s['start'] < s['end'] <= end + .01 for start, end in run['sample_ranges'])
+                            for s in segments), 'Identity sample outside declared windows')
+                local_checked.append({'source_id': source['id'], 'segments': len(segments), 'sample_ranges': run['sample_ranges']})
+        local_result = {'status': 'hashes_and_transcript_structure_verified', 'records': local_checked,
+                        'scope': 'Evidence identity and ASR time coverage only; no audio or full-board certification.'}
     report = {
         'checked_on': '2026-11-13', 'scope': 'Local structure, provenance references, patch replay and deterministic rendering. Not audio or philosophical certification.',
         'input_sha256': audit['input_sha256'], 'base_commit': ledger['upstream_base'],
@@ -189,8 +266,12 @@ def main(source_cache=None):
         'generated_files_match': list(expected), 'fixture_checks_passed': tests,
         'coverage_counts': coverage['counts'], 'research_counts': knowledge['counts'],
         'manual_review_counts': manual['counts'],
+        'ai_review_counts': ai['counts'],
         'reading_source_count': len({r['source_id'] for r in readings}),
         'source_cache_check': cache_result,
+        'local_evidence_check': local_result,
+        'course_body_status_counts': dict(Counter(e['body_status'] for e in knowledge['course_entries'].values())),
+        'course_metadata_corrections': len(knowledge['course_corrections']),
         'reading_relations': dict(Counter(r['relation'] for r in readings)),
         'video_metadata_records': len(courses), 'video_playback_checked': False,
         'original_bv_ids': audit['distinct_original_bvids'],

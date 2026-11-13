@@ -1,0 +1,1139 @@
+{
+  "batch": "12-ai-33-3",
+  "checked_on": "2026-11-13",
+  "scope": "旧AI摘要逐字段对照固定版本社区编纂文本；未回听原音、未核板书、未经人工审定。",
+  "sources": [
+    {
+      "id": "a12-33-0244",
+      "title": "3-3-3 同一生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/0244_3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA_p6289.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29；未回听原音、未核板书。",
+      "locator": "Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-3_同一生存论/0244_3-3-3_同一生存论_p6289.md",
+      "sha256": "e5b2c5b8ea374d75f8816883620c8384cdb7ee8ced7276b0126831869444a813",
+      "git_blob_sha": "f09cdac204f868b8cc9a2f1eb6d11637f1de8c44"
+    },
+    {
+      "id": "a12-33-0245",
+      "title": "3-3-3-1 斗争的生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0245_3-3-3-1_%E6%96%97%E4%BA%89%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6317.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32；未回听原音、未核板书。",
+      "locator": "Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-3_同一生存论/3-3-3-1_斗争的生存论/0245_3-3-3-1_斗争的生存论_p6317.md",
+      "sha256": "be19fb45f7f5c85c37b092de9afa4c38261dab26ab1999b86bfe1d4293406e49",
+      "git_blob_sha": "9b26ef15071a8e8a6f183cafdff1519bdcf36f34"
+    },
+    {
+      "id": "a12-33-0246",
+      "title": "3-3-3-2 直接生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA/0246_3-3-3-2_%E7%9B%B4%E6%8E%A5%E7%94%9F%E5%AD%98%E8%AE%BA_p6348.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35；未回听原音、未核板书。",
+      "locator": "Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-3_同一生存论/3-3-3-2_直接生存论/0246_3-3-3-2_直接生存论_p6348.md",
+      "sha256": "ac0310b8606159a044931b34a5867f235dcc43c54b3566ad7b9d0737fff8a411",
+      "git_blob_sha": "942f621337ebc4bda92e34817b8aa6a20cfbf21a"
+    },
+    {
+      "id": "a12-33-0247",
+      "title": "3-3-3-3 共同体的生存论（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA/0247_3-3-3-3_%E5%85%B1%E5%90%8C%E4%BD%93%E7%9A%84%E7%94%9F%E5%AD%98%E8%AE%BA_p6382.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24；未回听原音、未核板书。",
+      "locator": "Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-3_同一生存论/3-3-3-3_共同体的生存论/0247_3-3-3-3_共同体的生存论_p6382.md",
+      "sha256": "41ad8c8d498fa71fadddfe2e2a492703ce3f8dbf4ebb7742f608341f1ddd7038",
+      "git_blob_sha": "e0c25024f78ab697a75e106d9db4f793cdc0065f"
+    },
+    {
+      "id": "a12-33-0248",
+      "title": "3-3-3-4 金融资本主义（社区编纂文本，逐字段核读）",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-3-3_%E5%90%8C%E4%B8%80%E7%94%9F%E5%AD%98%E8%AE%BA/3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89/0248_3-3-3-4_%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89_p6405.md",
+      "kind": "community_compiled_transcript",
+      "verification_scope": "Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12；未回听原音、未核板书。",
+      "locator": "Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "upstream_path": "corpus/clean-markdown/3_观念论_作为一个现代人_该怎样思考哲学/3-3_复习课/3-3-3_同一生存论/3-3-3-4_金融资本主义/0248_3-3-3-4_金融资本主义_p6405.md",
+      "sha256": "d27ed02b27ed41fe0b94185a1692bc42f7bdebe1ce346adb0f12fa6b68556972",
+      "git_blob_sha": "61aec2e3ee25537bb700a980e4ba171363f5fee9"
+    }
+  ],
+  "entries": [
+    {
+      "code": "3-3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "7/7",
+        "claim_count": 11,
+        "scope": "Page 1–28，本讲全文 L9–90 下一讲标题前；开讲补读0243 Page 25–26 L101–104；排除 Page 29",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(物理世界——能量守恒的物理世界、符号化的公开产物)与形而上(古希腊酒神精神——前符号化的底层驱力、隐匿的潜在力量)的二元对立，由永恒轮回(同一者的绝对自我同一运动、无时间的永恒符号化)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "物理能量守恒/酒神前符号驱力由永恒轮回调和明确。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 2–5 / L12–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：生命(作为根基性的权力意志——无脑的、基础的创造力量)与价值(作为权力意志自我中介的剩余产物——符号学架构、道德谱系)的二元对立，由权力意志(纯粹的免于意义的主体性、本体论化的力量本身)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "生命基础、价值剩余由本体论化的权力意志调和明确。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 6–11 / L24–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3：把握(哲学以智性方式探索绝对者的上升运动)与不想把握(生存论以内在化的方式体验绝对者的矛盾僵局)的对立，由爱命运(Amor Fati——中介中介性、作为绝对者的中介过程而生存)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "把握/不想把握与爱命运、中介中介性逐步说明。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 11–20 / L39–66"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "三位一体及永恒轮回无时间、过去未来同一",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本课开讲及 Page 1–5明确，系舒尔茨/谢林路径解读，不是无争议的尼采唯一释义。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "本讲0244 Page 1–5 / L9–21；开讲0243 L101"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "权力意志为本体论发生力量、免于意义的主体性",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 10–11有明确术语释义；未逐字核尼采原文英译。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 10–11 / L36–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "能量守恒与酒神两种比喻须理解为同一",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 3明确两路且批评单靠物理守恒理解。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 3–5 / L15–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "永恒符号化及前符号驱力共同维持同一，生命即同一者",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 2、4明确，非物理定律验证。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 2、4 / L12、L18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "生命根基、价值自中介剩余；不预设元价值",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 6–7逐项阐释，是本课对重新评估价值的读法。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 6–7 / L24–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "拒绝中介反而内在化并生成错误价值/虚无主义",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 8–10有完整论证与肯定/否定转化。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 8–10 / L30–36"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "爱命运调和智性把握与内在化受苦；自称权力意志",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 12–15区分两种姿态并说明我的意志就是绝对意志。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 12–15 / L42–51"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "去人格中介中介性、主动定义有限性，我就是绝对者",
+          "status": "supported_with_qualification",
+          "finding": "确有该说法，但Page26随即限定不是那个人也不是绝对者、而是过程；Page27反对唯我狂妄，补此限制。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 16–27 / L54–87"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "本课明示借瓦尔特·舒尔茨《德国观念论的终结》从晚期谢林理解尼采。“时间幻象”、纯粹免于意义主体性和中介中介性据此作为课程读法；本轮未据尼采原文把它们判为唯一定义。",
+          "source_ids": [
+            "a12-33-0244"
+          ],
+          "locator": "Page 9–11 / L33–39"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-3-1",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 13,
+        "scope": "Page 1–31，本讲全文 L9–113 下一讲标题前；开讲补读0244 L90–93；排除 Page 32",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(观念论/理念论——已经被符号化了的本体论秩序、僵死的理性框架)与形而上(创造——尚未符号化的、正在被符号化的原初力量)的二元对立，由永恒斗争(永不屈服的主体否定性、永不让步的抗争)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "已符号化观念秩序/尚未符号化创造，由永恒斗争否定性调和。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 4–5 / L18–21"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：必然性(由软弱的中介者屈服而产生的僵死本体论秩序——生死、时间流逝、痛苦、罪孽等硬性生存论结构)与可能性/潜能(未被必然性束缚的自由状态、无拣选的自由度)的二元对立，由苦难与善(通过受苦承受可能性并将其设立为新的必然性)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "必然/可能以苦难和善、承受后设新必然性调和；讲者区分本体肯定性与场域否定性。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 6–11 / L24–39"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3：哲学/科学/观念论(定律领域、跪倒在必然性裙摆之下的智性活动)与绝望(符号系统崩溃、直面绝对的失败的第一人称体验)的对立，由信仰(对自由的绝对信任——不信任何符号系统预设，只信主体是绝对者的中介活动本身)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "哲学科学/绝望由信自由调和，非信任某一神名或符号预设。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 12–16 / L42–54"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论1：辩证同一化——通过永恒斗争与必然性背后的力量实现平等对话和同一化",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "约伯对设立力量之质疑导向辩证同一化，原讲定格明确。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 26–28 / L98–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "绝对失败下的意志/智性抗争，不是博弈翻盘",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 1–3及生死遗忘罪恶等硬秩序清单均有。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 1–3 / L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "柏拉图以理念世界使苏格拉底永生",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者确归给舍斯托夫此读法；不能当作柏拉图动机的独立史实。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 5–8 / L21–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "已符号化/创造，由永恒斗争而非消极反弹调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 4–7说明永不让步和反向规定本体框架。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 4–7 / L18–27"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "约伯质疑合法性及威能而与绝对者辩证同一",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 26–28确有，属讲者对舍斯托夫读约伯的转述；不当作经文原话。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 26–28 / L98–104"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "信仰非神名，乃信自由/平等/中介活动自身",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 15–16明确逐项支持。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 15–16 / L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "中介性的中心者 mediating mediativity",
+          "status": "partially_supported_needs_correction",
+          "finding": "原文为主动“中介着的中介性”，不是中心者；误写可能制造中心主体，须修。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 11、15–16 / L39、L51–54"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "幻想强力意志不会被其内容污染",
+          "status": "partially_supported_needs_correction",
+          "finding": "Page20首先批评的是形式不会污染其承载内容；后述互相污染。原摘要倒置首个批评方向。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 20–24 / L72–92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "智性欲望/死亡驱力分裂污染内容，无纯粹补丁",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page21–25完整展开，属于讲者从爱欲辩证法批评尼采主义。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 21–25 / L77–95"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "偶然内容升格普遍必然导致纳粹灾难",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page25–26有此政治批判，不是对纳粹历史因果的独立论证。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 25–26 / L95–98"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "苏格拉底永生与约伯质疑威能是讲者归给舍斯托夫的读法，未据柏拉图原著、约伯经文或舍斯托夫具体章节独立证实。本讲后半段对欲望、纯粹主体性与纳粹的判断则是讲者自己的理论批评。",
+          "source_ids": [
+            "a12-33-0245"
+          ],
+          "locator": "Page 5–8、20–28 / L21–30、L72–104"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-3-2",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 12,
+        "scope": "Page 1–33，本讲全文 L9–113；开讲补读0245 L113–116；排除 Page 34–35",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(客观时间——因果性关联的生成时间、有限者之间的因果关系)与形而上(主观时间——根据律下的先验构造时间、绝对者为有限者提供根据)的二元对立，由时间(绝对者的自我中介——生存本身作为有限者的中介活动，同时也是绝对者成其为自身的过程)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "主观构造/客观生成时间分别对应根据与原因，由时间自中介调和，原讲自称借批康德架设格位。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 7–9 / L29–35"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：有限者(依傍于符号系统的生存、去时间化的虚无倾向)与绝对者(超越性的、自由的、自己中介自己的无限者)的二元对立，由生存(直接性的、不加反思的主体化中介活动)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "有限者/自由超越者以直接生存调和，去时间化导致虚无是课内阐释。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 10–14 / L38–50"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3：先验体系(康德/费希特式的理性主义体系)与怀疑论(笛卡尔式的怀疑)的对立——两者均被雅各比视为虚无主义的不同表现，由信仰(对真实和直接性的信仰——入乡随俗、爱命运、不反思的投入)调和",
+          "status": "supported_with_qualification",
+          "finding": "初定先验体系/怀疑论，后来提出可合并为一端、另一端启示显现；原轴保留初定格须注变体。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 16–18 / L56–62"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论2：厌恶虚无——否定康德式的镜像时间观，以直接生存的充实对抗时间中的空无",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "目的否定虚无及康德镜像时间批评明确。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 19–23 / L67–81"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "雅各比是与康德费希特同时代的尼采主义者",
+          "status": "supported_with_qualification",
+          "finding": "讲者是跨时代结构类比，不是历史上追随尼采的学派身份。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "开讲0245 L113；Page 1–3 / L9–17"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "批先验综合多余，时间链带出内容和规定",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 11、15–16逐步对照康德，属课程对雅各比的读法。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 11、15–16 / L41、L53–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "康德两时间镜像无规定性",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "主观自激发/客观形式时间和镜像批评可逐项定位。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 7–9、21–22 / L29–35、L75–78"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "真正时间为生存及绝对自中介，固化杀时间导致虚无",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 9、14–16有对应，非独立确证雅氏原文术语。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 9、14–16 / L35、L50–56"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "信仰调和体系怀疑、信真实直接、不经先验框架",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 14–17明确；“不反思”是讲者批判性概括。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 5、14–17 / L23、L50–59"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "入乡随俗、游戏投入，实践尼采爱命运",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 17–18是讲者跨时代类比，不能当成雅氏自觉实践后来尼采思想。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 17–18 / L59–62"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "跳过主体虚无/否定剩余导致功利游戏精神",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 23–29完整批评论证；尼采本人应有反思的旧修订与Page13一致。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 13、23–29 / L47、L81–101"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "只中介形式内容而漏掉形式自反辩证法",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page 27–32明确形式的反思性也是内容，不能一味拒绝理论。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 27–32 / L95–110"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "讲者先将先验体系和怀疑论作为两端，Page 16–18 又提出将两者合为一端，以显现/启示为另一端；本批保留原轴初定格并记录讲内变体，未用单一版本抹去思考过程。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "Page 16–18 / L56–62"
+        },
+        {
+          "text": "“同时代的尼采主义者”“实践爱命运”均是讲者跨时代结构类比，非雅各比历史上追随尼采。“尼采本人应当有反思”的前轮修订在 Page 13得到完整上下文支持。",
+          "source_ids": [
+            "a12-33-0246"
+          ],
+          "locator": "开讲0245 L113；Page 13、18 / L47、L62"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-3-3",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 13,
+        "scope": "Page 1–23，本讲全文 L9–104 下一讲标题前；开讲补读0246 Page 34–35 L118–121；排除 Page 24",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(必然性——由符号化和本体论化产生的价值谱系、秩序化的世界)与形而上(混沌——前符号化的原初规定性、作为世界本质的混沌)的二元对立，由强力意志(作为时间性的自激发生成本体论化的力量——同时也是激情的原初情绪、存在论结构)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "必然/混沌由强力意志时间生成力调和；激情为原初结构明确。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 6–9 / L34–49"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：价值谱系(本体论化的产物——道德谱系、符号系统)与时间(永恒轮回的运动本身)的二元对立，由瞬间(主体性——作为完全的完成了的完全有限性、中介着的中介性)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "价值谱系/永恒轮回时间以瞬间主体性调和。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 9–13 / L49–63"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3：诗/艺术(与哲学并列、通过感性符号揭示存在之真相的方式)与哲学(概念体系的思辨活动)的对立，由神学/泛神论精神(绝对者不断世界化的宗教性领会)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "诗艺术/哲学由神学泛神论调和是本讲明列格位。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 14 / L66–68"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论3：复数化——通过人称的复数化(你们/我们)克服孤独，使同一者通过多个中介者实现其自身",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "你们我们复数化克服孤独，讲者标为自己的思辨。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 17–22 / L82–101"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "1884后重新泛神论、推测读世界时代",
+          "status": "supported_with_qualification",
+          "finding": "旧修订已加推测，开讲确有“应该”；没有信件日期/原文证明阅读事实。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "0246 Page 34 / L118；本讲 Page 14 / L67"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "三次主题跨三书、海德格尔复原体系",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "三次与三书的前轮修订得到正文和开讲支持；复原成熟体系是讲者评价。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 1–3 / L9–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "给妹妹信要求作息身体环境妻子，未成成熟哲学家",
+          "status": "supported_with_qualification",
+          "finding": "课堂具体说法可定位，但无信件日期编号，传记原件尚未定位；成熟与否为讲者评价须可见说明。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 2–3 / L14–19"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "永恒轮回两侧含物理守恒/酒神驱力",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "本讲继承333总论，已全文读0244对应段；当前讲重心改为混沌/必然。",
+          "source_ids": [
+            "a12-33-0247",
+            "a12-33-0244"
+          ],
+          "locator": "0244 Page 2–5 / L12–21；0247 Page 6–7 / L34–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "强力意志时间自激发、不能去时间、走向轮回",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page9先有一次“不能要”随即说“不能不要”，上下文支持摘要。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 7–9 / L39–49"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "侏儒只见两无限转圈，查拉见瞬间出入口",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page10–11确有课程解读，未声称原小说图景的唯一释义。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 10–11 / L52–55"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "瞬间为完成的完全有限性、英雄沉降作为中介过程",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page3–5和9–13反复解释，术语明确借舒尔茨及海德格尔。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 3–5、9–13 / L19–29、L49–63"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "第一手稿吞食、第四我们、第三你们",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page14–19明确编号与内容，讲者说明吞食解读与海德格尔不同；未提供手稿号日期。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 14–19 / L69–92"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "复数中介克服孤独，跨主体跨物种，鹰蛇表征",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page20–23支持，但讲者称“我的思辨”，须标课程重构。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 20–23 / L95–104"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "阅读《世界时代》的信件、给妹妹谈作息环境和妻子的信件，以及四份永恒轮回草稿，本课未给原件编号和日期。本轮确认讲稿确有这些说法，未独立确认书信事实或草稿编年。尼采是否“成熟”是讲者评价。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "开讲0246 L118–121；0247 Page 2–3、14–19 / L14–19、L69–92"
+        },
+        {
+          "text": "讲者明确把吞食解释与海德格尔区分，并称从复数人称推出共同体生存论为自己的思辨；跨物种/鹰蛇线索按该课重构，不当作尼采完整理论的无争议归纳。",
+          "source_ids": [
+            "a12-33-0247"
+          ],
+          "locator": "Page 17–23 / L82–104"
+        }
+      ],
+      "open_questions": []
+    },
+    {
+      "code": "3-3-3-4",
+      "evidence_level": "community_transcript_field_by_field_comparison",
+      "review_status": {
+        "field_coverage": "8/8",
+        "claim_count": 13,
+        "scope": "Page 1–11，本讲全文 L9–39 下一讲标题前；开讲补读0247 L104–107；排除 Page 12",
+        "audio_check": "not_performed",
+        "human_approval": false
+      },
+      "checked_claims": [
+        {
+          "field_path": [
+            "axis_list",
+            0
+          ],
+          "claim": "场域论3：形而下(产业资本——有秩序的传统布尔乔亚经济体系、有机的分类学等级制)与形而上(金融资本——不断自我高阶化的投机游戏、纯化为赌大小的高风险博弈)的二元对立，由生存论危机(始终处在灵肉二分中的焦虑与痛苦、作为精神享乐的身体折磨)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "产业有机秩序/金融纯化投机，由灵肉危机调和，皆是讲者建模。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 2–3 / L12–15"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            1
+          ],
+          "claim": "本体论3：钱(通用交换符号——由金融资本的投机活动促使政权进行铸币活动的符号)与罪(金融资本的原罪——掠夺社会财富、使用盘外招的必然性)的二元对立，由对权力的欲求(对布尔乔亚政权的支配欲、极端支配型人格)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "钱与罪由政权支配欲调和明确；铸币及原罪并非独立经济实证。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 3–4 / L15–18"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            2
+          ],
+          "claim": "认识论3：享乐(从产业资本中获得的物质过剩——美女、豪宅、美食)与理性(金融投机催生的冰冷秩序理性——高速循环的疯狂理性)的对立，由痛苦(自虐性的压抑——作为享乐的痛苦本身)调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "享乐/冰冷循环理性由痛苦调和，痛苦本身享乐的论证明确。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 4–6 / L18–24"
+        },
+        {
+          "field_path": [
+            "axis_list",
+            3
+          ],
+          "claim": "目的论4：偏斜——原子论式的偏斜运动使本体论无法闭合，通过偏斜维持自身异质性的根据",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "偏斜、原子四机制、概率不闭合、异质根据均原讲。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 7–8 / L27–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "金融脱产投机、尼采超人畸形实现",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "讲者以丁蟹/华尔街之狼等形象说明一种意识形态类型，不能概括全部金融从业者。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 1–3 / L9–15"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            0
+          ],
+          "claim": "投机思辨词源一体，投入筹码试探本体",
+          "status": "supported_with_qualification",
+          "finding": "开讲只用speculation同词作类比，未给词源研究；改为同词双义类比。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "开讲0247 L104–107；0248 Page 1 / L9"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "精神金融游戏、身体物质享乐，危机痛苦调和",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page2–6逐项可定位；焦虑/自虐为讲者理论描写，非人物临床诊断。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 2–6 / L12–24"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            1
+          ],
+          "claim": "无法稳定落地，骑士寄生者漂荡",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page1、4有相应阶层隐喻与权力不稳定论断。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 1、4 / L9、L18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "完全符号化无剩余、钱罪盘外招、支配欲",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page3–4明确，非法交易必然性为课程断言，不是全部金融行为已证事实。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 3–4 / L15–18"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            2
+          ],
+          "claim": "过度符号化不能有序等级，不能驾驭国家",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page5对Page4“不够符号化”主动纠正，摘要采用后说正确；超平为编纂词未按技术词猜改。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 4–5 / L18–21"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "唯一无意识哲学、物质世界思考",
+          "status": "supported_with_qualification",
+          "finding": "Page3说“甚至可以说”，Page10展开世界自中介，是讲者理论比喻；须避免绝对史实口吻。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 3、10–11 / L15、L36–39"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "伊壁鸠鲁偏斜、概率不闭合、痛苦享乐、完全中介",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page6–8支持，但原子/概率是课堂模型类比，非金融统计验证。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 6–8 / L24–30"
+        },
+        {
+          "field_path": [
+            "feature_list",
+            3
+          ],
+          "claim": "幻想压抑无产者内在对抗",
+          "status": "supported_as_lecturer_interpretation",
+          "finding": "Page9–10是本课政治批评，明确真正对抗被符号系统排除。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 9–10 / L33–36"
+        }
+      ],
+      "course_summary": [],
+      "editorial_notes": [
+        {
+          "text": "此讲以丁蟹、华尔街之狼等形象建构金融投机的意识形态类型。“必然非法交易”“极端支配型人格”“无法驾驭国家机器”等是讲者理论判断，本轮未用经济数据、个体诊断或历史材料证明为全体金融资本家的共同事实。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 3–6 / L15–24"
+        },
+        {
+          "text": "原子偏斜/概率闭合和物质世界思考是本课的模型及哲学比喻，不是经统计检验的金融模型。“唯一无意识哲学”应保留讲者的试探性措辞。",
+          "source_ids": [
+            "a12-33-0248"
+          ],
+          "locator": "Page 3、7–11 / L15、L27–39"
+        }
+      ],
+      "open_questions": []
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-3-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④认识论上爱命运意味着主体超越把握(用智性探索绝对者的上升运动)和不想把握(内在化地沉浸在绝对者的矛盾中)的对立。主体宣称”我便是强力意志”——我的意志就是绝对者的意志。爱命运不是被动地接受命运，而是主动地去中介那种中介性(mediate mediativity)：主体不是作为一个人格化的”我”在体验，而是作为整个世界世界化的中介过程本身在生存。我是被中介的自我中介，但我主动地去定义和中介这种中介性、这种有限性——我就是绝对者。",
+      "after": "④认识论上爱命运意味着主体超越把握(用智性探索绝对者的上升运动)和不想把握(内在化地沉浸在绝对者的矛盾中)的对立。主体宣称”我便是强力意志”——我的意志就是绝对者的意志。爱命运不是被动地接受命运，而是主动地去中介那种中介性(mediate mediativity)：主体不是作为一个人格化的”我”在体验，而是作为整个世界世界化的中介过程本身在生存。我是被中介的自我中介，但我主动地去定义和中介这种中介性、这种有限性——我就是绝对者。 讲者随后限定，这里的“我就是绝对者”不是人格化自我的全能宣言：人既不是那个角色，也不是一个独立绝对者，而是局部、偶然的中介过程；因此不支持唯我论的狂妄。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0244"
+      ],
+      "rationale": "Page 24–27明确局部/偶然/过程，并在Page26说“也不是绝对者”，补回结尾限制。"
+    },
+    {
+      "code": "3-3-3-1",
+      "field_path": [
+        "feature_list",
+        2
+      ],
+      "before": "③认识论上，舍斯托夫以信仰为调和机制——但这种信仰不是对某个神或某个符号系统的信仰，而是对自由的绝对信任：信任主体是绝对者的中介活动本身、信任自由和必然性是平等的。主体通过绝望(符号系统崩溃)冲破了必然性的束缚，在绝境中意识到自己就是绝对者的中介性的中心者(mediating mediativity)——不是被中介的，而是主动的中介活动本身，因此可以和必然性背后的力量讨价还价、平起平坐。",
+      "after": "③认识论上，舍斯托夫以信仰为调和机制——但这种信仰不是对某个神或某个符号系统的信仰，而是对自由的绝对信任：信任主体是绝对者的中介活动本身、信任自由和必然性是平等的。主体通过绝望(符号系统崩溃)冲破了必然性的束缚，在绝境中意识到自己就是绝对者的主动中介着的中介性(mediating mediativity)——不是被中介的，而是主动的中介活动本身，因此可以和必然性背后的力量讨价还价、平起平坐。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0245"
+      ],
+      "rationale": "Page15–16原语是中介着的中介性，非中心者。"
+    },
+    {
+      "code": "3-3-3-1",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④尼采主义在舍斯托夫这里暴露了根本问题：它幻想有一个纯粹的、免于意义的强力意志，幻想主体性不会被它所承载的内容所污染。但实际上，由于爱欲辩证法在底层运行，强力意志本身会分裂为智性欲望(使系统成功被架设)和死亡驱力(清空一切既有的符号秩序)，两者相互污染。这意味着不可能有纯粹的中介中介性——不能幻想强力意志所意欲的内容是一个纯粹的本体论补丁。这个幻想如果意识形态化，会导致灾难性的后果(如纳粹将偶然的内容提高到绝对普遍的高度)。",
+      "after": "④尼采主义在舍斯托夫这里暴露了根本问题：它幻想有一个纯粹的、免于意义的强力意志，幻想强力意志的形式不会污染它所承载的内容。但实际上，由于爱欲辩证法在底层运行，强力意志本身会分裂为智性欲望(使系统成功被架设)和死亡驱力(清空一切既有的符号秩序)，两者相互污染。这意味着不可能有纯粹的中介中介性——不能幻想强力意志所意欲的内容是一个纯粹的本体论补丁。这个幻想如果意识形态化，会导致灾难性的后果(如纳粹将偶然的内容提高到绝对普遍的高度)。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0245"
+      ],
+      "rationale": "Page20批评形式污染内容，后述互相污染；修正原摘要倒置。"
+    },
+    {
+      "code": "3-3-3-2",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①雅各比是尼采主义的前驱——一个与康德、费希特同时代的尼采主义者。他厌恶观念论运动、厌恶理性化的中介、反对康德式的先验框架和黑格尔式的总体体系。他认为康德通过先验想象力和先验统觉来构造对象的努力是一种多此一举——事物的存在不需要先验框架的中介，时间链条的展开本身就足以把现实的表象和规定性带出来。时间是富有内容的，不是空洞的形式。",
+      "after": "①讲者把与康德、费希特同时代的雅各比类比为尼采式的生存论者。他厌恶观念论运动、厌恶理性化的中介、反对康德式的先验框架和黑格尔式的总体体系。他认为康德通过先验想象力和先验统觉来构造对象的努力是一种多此一举——事物的存在不需要先验框架的中介，时间链条的展开本身就足以把现实的表象和规定性带出来。时间是富有内容的，不是空洞的形式。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0246"
+      ],
+      "rationale": "避免把跨时代课程类比误读为历史学派身份或已经证明的影响链。"
+    },
+    {
+      "code": "3-3-3-3",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①讲者将1884年之后的尼采理解为重新泛神论化，并推测他当时读过晚期谢林《世界时代》；课程同时讨论他试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，课程在说这一主题出现“三次”后，分别提及《快乐的科学》《查拉图斯特拉如是说》和《善恶的彼岸》，没有把“三次”限定在《查拉图斯特拉如是说》一本之内。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。尼采晚期写信给他妹妹说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但他疯掉了，没有机会成为一个成熟的哲学家。",
+      "after": "①讲者将1884年之后的尼采理解为重新泛神论化，并推测他当时读过晚期谢林《世界时代》；课程同时讨论他试图建构一个系统的思辨哲学体系。永恒轮回成为了尼采的主题，课程在说这一主题出现“三次”后，分别提及《快乐的科学》《查拉图斯特拉如是说》和《善恶的彼岸》，没有把“三次”限定在《查拉图斯特拉如是说》一本之内。海德格尔的两卷本《尼采》是回溯和复原尼采未完成的思辨哲学体系的重要尝试。讲者还转述尼采晚期给妹妹的信，说需要良好的身体、环境、甚至一位妻子来帮助建构他的思辨哲学体系——但讲者认为他的精神失常阻断了体系化工作。该信的日期和原文尚未核实，“成熟的哲学家”属于讲者评价。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0247"
+      ],
+      "rationale": "信件细节本轮只能核实课堂确有转述，不能冒充传记原件已校；明确评价归属。"
+    },
+    {
+      "code": "3-3-3-3",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上的复数化是尼采对孤独的扬弃。从永恒轮回第1份手稿(绝对者吞食有限的中介环节)到第4份手稿(宣称“我们”)，尼采走向了人称的复数化——从“我”走向“你们”和“我们”。这意味着同一生存论最终必须在目的论上变成多——绝对者不可能只通过一个中介者来完成自我同一运动，它必须通过多个中介者、跨物种甚至跨主体的共同体来实现自身。查拉图斯特拉的动物(鹰和蛇)作为这种共同体的表征，暗示了超越个体孤独的生存论共同体。",
+      "after": "④讲者将目的论上的复数化解释为尼采对孤独的扬弃。从永恒轮回第1份手稿(绝对者吞食有限的中介环节)到第4份手稿(宣称“我们”)，尼采走向了人称的复数化——从“我”走向“你们”和“我们”。在讲者明确称为“我的思辨”的重构中，同一生存论最终须在目的论上变成多——绝对者不可能只通过一个中介者来完成自我同一运动，它必须通过多个中介者、跨物种甚至跨主体的共同体来实现自身。查拉图斯特拉的动物(鹰和蛇)作为这种共同体的表征，暗示了超越个体孤独的生存论共同体。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0247"
+      ],
+      "rationale": "Page21明确“我的思辨”；保留课程论证并补来源层次。"
+    },
+    {
+      "code": "3-3-3-4",
+      "field_path": [
+        "feature_list",
+        0
+      ],
+      "before": "①金融资本主义作为同一生存论的最堕落形态，是尼采主义超人幻想在现实中的畸形实现。金融资本家脱离了产业生产和一切服务性劳动，专司金融投机——投机(Speculation)和思辨在词源上本是一体。投机的精神本质上是思辨哲学的精神：投入筹码(生命张力)去试探本体论的结构，赌一赌、猜一猜绝对者的运动方式。金融资本家以为自己就是尼采笔下的超人——不受任何符号系统制约的自由立法者。",
+      "after": "①金融资本主义作为同一生存论的最堕落形态，是尼采主义超人幻想在现实中的畸形实现。金融资本家脱离了产业生产和一切服务性劳动，专司金融投机——讲者借英语 speculation 兼有投机与思辨的用法作类比。投机的精神本质上是思辨哲学的精神：投入筹码(生命张力)去试探本体论的结构，赌一赌、猜一猜绝对者的运动方式。金融资本家以为自己就是尼采笔下的超人——不受任何符号系统制约的自由立法者。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0248"
+      ],
+      "rationale": "原讲使用同词类比，未作词源学论证。"
+    },
+    {
+      "code": "3-3-3-4",
+      "field_path": [
+        "feature_list",
+        3
+      ],
+      "before": "④目的论上的偏斜(四)使金融资本主义成为唯一一种无意识的哲学——不是人在思考，而是物质世界在思考。偏斜运动(类似于伊壁鸠鲁的原子偏斜)使得资本的自循环体系无法形成概率论上的闭合，不断通过任意性偏离来维持自身的异质性根据。金融资本家需要痛苦(自虐)作为享乐——通过偏斜从大众价值观中挣脱，体验到”完成的完全中介性”。但这种超人的自我幻想最终是空心的：它掩盖了真正的内在对抗性——被压抑在符号系统之外的无产者才是真正的否定性力量。",
+      "after": "④讲者把目的论上的偏斜(四)解读为一种“无意识的哲学”，甚至称其为唯一一种，并用“物质世界在思考”比喻货币体系的自中介性。偏斜运动(类似于伊壁鸠鲁的原子偏斜)使得资本的自循环体系无法形成概率论上的闭合，不断通过任意性偏离来维持自身的异质性根据。金融资本家需要痛苦(自虐)作为享乐——通过偏斜从大众价值观中挣脱，体验到”完成的完全中介性”。但这种超人的自我幻想最终是空心的：它掩盖了真正的内在对抗性——被压抑在符号系统之外的无产者才是真正的否定性力量。",
+      "kind": "lecture_fidelity",
+      "status": "ready",
+      "evidence_source_ids": [
+        "a12-33-0248"
+      ],
+      "rationale": "补回Page3试探措辞及Page10自中介解释，避免理论隐喻被读成已证事实。"
+    }
+  ]
+}

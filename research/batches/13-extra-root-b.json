@@ -1,0 +1,526 @@
+{
+  "batch": "13-extra-root-b",
+  "checked_on": "2026-11-13",
+  "scope": "补充课程正文实际阅读；按BV和原文位置保存身份，不把标题当正文。",
+  "sources": [
+    {
+      "id": "x13-root-BV19Y411W7dj-1",
+      "title": "BV19Y411W7dj__022c6c0113.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV19Y411W7dj__022c6c0113.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–27",
+      "verification_scope": "实际核读ASR全文L1–27；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "e0069fcf5fdbf84762e2cfb9c6f095ba34c41342a9c5ad3e2f024e9f13530b03",
+      "git_blob_sha": "a26bdf84ea923c265a8aa1323db3adbd57a99ffe",
+      "upstream_path": "corpus/bilibili-asr/BV19Y411W7dj__022c6c0113.txt"
+    },
+    {
+      "id": "x13-root-BV1W64y1x7mY-1",
+      "title": "BV1W64y1x7mY__bd55044975.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1W64y1x7mY__bd55044975.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–36",
+      "verification_scope": "实际核读ASR全文L1–36；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "07a22de93149d132c33d23275953fcc6114cbe0b1f41ad1ea5288526fa515716",
+      "git_blob_sha": "23e5260d6bade11516ed7a4cab2d62a8b3c9094f",
+      "upstream_path": "corpus/bilibili-asr/BV1W64y1x7mY__bd55044975.txt"
+    },
+    {
+      "id": "x13-root-BV1Rq4y1z7KD-1",
+      "title": "BV1Rq4y1z7KD__b7fcd1455f.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1Rq4y1z7KD__b7fcd1455f.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–47",
+      "verification_scope": "实际核读ASR全文L1–47；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "194b369bcf165ebf05ff29281513b7b6d3ec5f336cb299b67e966ce68deb9b81",
+      "git_blob_sha": "2c80912c04c5e7000e3a0181185cc7185277f877",
+      "upstream_path": "corpus/bilibili-asr/BV1Rq4y1z7KD__b7fcd1455f.txt"
+    },
+    {
+      "id": "x13-root-BV1J14y157Er-1",
+      "title": "BV1J14y157Er__25a0803467.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1J14y157Er__25a0803467.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–53",
+      "verification_scope": "实际核读ASR全文L1–53；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "6823184188c9ec3e68395b578672fe63e3ffc32c52defcc8902f5c6e8c80302e",
+      "git_blob_sha": "73aa89630685cd3f3eda0c382e4ebf8223b227b1",
+      "upstream_path": "corpus/bilibili-asr/BV1J14y157Er__25a0803467.txt"
+    },
+    {
+      "id": "x13-root-BV1H64y1i72N-1",
+      "title": "BV1H64y1i72N__1f46b44e24.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1H64y1i72N__1f46b44e24.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–77",
+      "verification_scope": "实际核读ASR全文L1–77；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "34af1e6d68e0b47293a9c5c389f9fffeaff71b8a346b751c808642f4074825f1",
+      "git_blob_sha": "62eca7a9461da1831d2a3c5fb364ef7d3d713b2c",
+      "upstream_path": "corpus/bilibili-asr/BV1H64y1i72N__1f46b44e24.txt"
+    },
+    {
+      "id": "x13-root-BV1CL4y1W7hR-1",
+      "title": "BV1CL4y1W7hR__89ffae0d27.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1CL4y1W7hR__89ffae0d27.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–79",
+      "verification_scope": "实际核读ASR全文L1–79；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "eca35668e52ea2f7132de9fe1928a916201b5b78dfe2c05b55ef5fe8198627c8",
+      "git_blob_sha": "977ff319405e7316f5118267b78f8fa708b73e5a",
+      "upstream_path": "corpus/bilibili-asr/BV1CL4y1W7hR__89ffae0d27.txt"
+    },
+    {
+      "id": "x13-root-BV15v411A7nX-1",
+      "title": "BV15v411A7nX__cbe6e11a73.txt",
+      "url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV15v411A7nX__cbe6e11a73.txt",
+      "kind": "automatic_speech_transcript",
+      "locator": "ASR全文L1–128",
+      "verification_scope": "实际核读ASR全文L1–128；未核听原音；保留转录疑点，不作为作者原典或经验性事实验证。 本地文件SHA256与Git blob SHA1均已复算匹配固定版本记录。",
+      "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
+      "sha256": "361997d6c5e8b7961fe443573d12be994e53e977fd0e91ed887756d572d85329",
+      "git_blob_sha": "d88c671ffcce7a4d2f73ca05194cbff3ec30e2bb",
+      "upstream_path": "corpus/bilibili-asr/BV15v411A7nX__cbe6e11a73.txt"
+    }
+  ],
+  "course_entries": [
+    {
+      "id": "BV19Y411W7dj",
+      "series_code": "4-3复习课",
+      "title": "【主义主义复习课】4-3：我心目中建设理想社会的次第和路径",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把4-3概括为生存、解放、发展、实现四个环节；开头曾把顺序说错，随即改正，不宜依据初次口误另立结构。",
+          "source_ids": [
+            "x13-root-BV19Y411W7dj-1"
+          ],
+          "locator": "L1–3"
+        },
+        {
+          "text": "每一环节都包含经济、政治、精神及组织方面，也同时包含进取与妥协。讲者把这一安排联系到《矛盾论》《实践论》的思维方式，发展环节则联系战略、战役、战斗层次。",
+          "source_ids": [
+            "x13-root-BV19Y411W7dj-1"
+          ],
+          "locator": "L3–7"
+        },
+        {
+          "text": "实现既指理想计划进入现实，也借再生产的含义说明运动怎样生产出继续活动的条件；妥协不是最后才出现，而贯穿前三环节。",
+          "source_ids": [
+            "x13-root-BV19Y411W7dj-1"
+          ],
+          "locator": "L8–11"
+        },
+        {
+          "text": "实现活动与既有生产关系在认识外观上可能难区分，讲者主张还须放回整个运动的目的和再生产结果中考察，不能只凭相似外观判为同一。",
+          "source_ids": [
+            "x13-root-BV19Y411W7dj-1"
+          ],
+          "locator": "L11、L16–20"
+        },
+        {
+          "text": "培育新人的目的论4意味着不替下一代固定目标，让新的历史力量自己涌现。结尾把4-3限定为个人的历史理解与概略判断，并把理想社会内部仍可能发生的异化问题引向4-4。",
+          "source_ids": [
+            "x13-root-BV19Y411W7dj-1"
+          ],
+          "locator": "L12–15、L21–27"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "正文开头与目录同指4-3复习课；编号口误与ASR混淆并存，尤其L12编号不稳定，按相邻L13的四三四四及完整论证理解为育新人段，不据转录串另建格位。全读ASR，未核原音或板书。"
+        },
+        {
+          "text": "讲者对现实、历史成就和群体的评价仅按其论证归属整理，不作为独立历史事实核验；未展开具体行动方案。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1W64y1x7mY",
+      "series_code": "3-1复习课",
+      "title": "【主义主义复习课】现象学（3-1）的四种主要形态和具体十六种现象学",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "讲者把现象学运动人为分作先验、实事、生活世界与在世四种方向，并明确承认这种划分相当生硬。先验现象学内部又用直觉、自我给予、本质差异及反思的主体间性描述不同着重点。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L1–9"
+        },
+        {
+          "text": "讲者把德里达的准先验辩证性理解为向先验主体性内部引入历史与发生问题，借此说明通往在世现象学的路径；这是课程的思想谱系重构。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L9–11"
+        },
+        {
+          "text": "对实事现象学的批评集中于本质还原：即使不采用先验还原，把直观差异视为原初分类仍可能固定本质框架，使他者只占有被预先安排的位置。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L11–15"
+        },
+        {
+          "text": "生活世界现象学为主体间性及他者开出空间，但讲者担忧其放弃先验严格性后，可能依赖未充分论证的术语或实在论工作假设；同时承认该方向研究范围丰富。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L16–22"
+        },
+        {
+          "text": "在世现象学通过时间性、世界与他者等问题推进开放性；讲者比较海德格尔、梅洛庞蒂、萨特和列维纳斯，但若干细节是在临场回忆中重述，不能作精确学说归纳。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L22–30"
+        },
+        {
+          "text": "结尾批评现象学仍易形成等级化存在论，并以德国观念论中派生环节反过来颠覆第一原则作对照，说明他为何认为辩证化会引向观念论、存在主义或结构主义。",
+          "source_ids": [
+            "x13-root-BV1W64y1x7mY-1"
+          ],
+          "locator": "L31–36"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "正文开头明确是3-1复习课，标题身份吻合。ASR反复把现象学写成信仰学、先验写成鲜艳、主体间性写成主体坚信；这里仅按稳定上下文整理，不声称已校成原音。"
+        },
+        {
+          "text": "L24–28讲者多次说记不得，列维纳斯的时间性、面孔及在场等细节应保留临场不确定性；摘要只记录比较路径，不把犹太身份等泛化评价当作学术解释。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1Rq4y1z7KD",
+      "series_code": "4-1复习课",
+      "title": "【主义主义复习课】辩证唯物主义意义上实践着的理论家的大致区分（4-1）若没有对应的实践单元则只是被豢养的文人学者",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "4-1被概括为理论家姿态，其总任务是政治、经济、意识形态三方面的联合批判。讲者按侧重点区分：411偏政治经济，412偏政治与意识形态，414偏经济符号秩序与意识形态，413尝试较全面的综合。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L1–11"
+        },
+        {
+          "text": "这些划分是临时的研究定位，不必等同人物终身身份；讲者用卢卡奇在不同历史条件下的理论与实践角色说明这种可变性，并把理论家工作联系到建制与知识体系的可能形成。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L6–10"
+        },
+        {
+          "text": "411的路径从现实中的劳动、产品与异化关系出发，说明学者怎样被现实问题推动成为理论家，再扩展到具体时政评论和跨地区理论协调。课程强调现实的引导作用，不把转变只归结为个人主观意志。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L12–24"
+        },
+        {
+          "text": "412着重理论活动的实践性：学习、写作和交谈必须回应现实问题，已有概念要在观察、应用和反思中调整。它被讲者看作与单纯论文发表或经费追求有别的理论工作姿态。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L25–34"
+        },
+        {
+          "text": "后两支被放在建制化与历史退潮的背景下比较。414尤其转向文化和意识形态批判，讲者将自己的齐泽克讲解也列入这一活动，并承认它与412的组织行动色彩不同。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L35–42"
+        },
+        {
+          "text": "结尾区分学者与理论家：理论家是具有共同思想与实践的派系内部的分工角色，不能仅凭掌握一套学术知识自认已经占有该位置；本讲关于当下可维持何种姿态的判断具有时代和立场限制。",
+          "source_ids": [
+            "x13-root-BV1Rq4y1z7KD-1"
+          ],
+          "locator": "L42–47"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "开头与目录同指4-1复习课，全读L1–47。ASR有姓名、编号及“影子化”“拍屏”等不稳定词；未据这些词补造专门行动术语，也未凭不清姓名确立历史事件身份。"
+        },
+        {
+          "text": "关于退潮、特定思想家及“我们这个时代”的政治判断均为讲者当时的观点，不能外推成当前事实；末尾领袖与理论能力关系同样属于课程规范判断。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1J14y157Er",
+      "series_code": "性化与主义主义答信",
+      "title": "【回应信件】一位对性化和主义主义有所误解的单亲母亲",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "来信询问单亲家庭、父亲隐喻、性化及教育之间的关系；讲者的主要回应是先区分理论层次，而不是由家庭成员配置直接推断儿童的性别或心理发展。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L1–6、L12–17"
+        },
+        {
+          "text": "在讲者采用的拉康式模型中，性化被解释为意识发生及主体结构的失衡；菲勒斯指一种主人能指的功能，不能简单理解为具体器官、父亲本人或某条日常禁令。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L6–22"
+        },
+        {
+          "text": "讲者区分sexuation与sexualization，强调前者不等于获得男性或女性的身份认同；身体审美、享乐方式与具体禁忌属于后续层次。中文术语在ASR中写法混乱，宜保留外文区分。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L16–24、L28–30、L37–41"
+        },
+        {
+          "text": "主体不是一个先已完成的心灵再被性化秩序加工，而是该符号机制运行的效果。讲者又把象征性阉割解释为完全享乐不可能与欲望发生的条件，而非取消既有欲望或真实身体损伤。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L25–36"
+        },
+        {
+          "text": "关于儿童是否已经处在sexualization中，讲者明确说自己的观点可能不同于主流。随后把《极简哲学史与拉康符号学》的后续工作指向既有《爱欲经济学》及《主义主义》视频，未提供新的完整文本附件。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L39–44"
+        },
+        {
+          "text": "答信后半明确说四个字头不是知识掌握量或学历等级，而关乎对根本秩序的实际姿态、反思以及参与实践的方式。讲者强调只会表述某种立场，不足以证明已经在现实中以该立场行动。",
+          "source_ids": [
+            "x13-root-BV1J14y157Er-1"
+          ],
+          "locator": "L45–51"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "这是目录标题所标的答信视频，正文也以回应信件开场，不是四维格位独立课程。来信者身份只来自讲者及标题，未独立核实。L44出现大量重复“教”，属明显转录异常；不据此补写缺失句。"
+        },
+        {
+          "text": "ASR将性化、性征化等写作“性真化/性生化”等；摘要按明确拼出的sexuation与sexualization区分，未核原音的中文定词。原讲关于意识唯一发生机制、动物及儿童内在性、病理与性别表现的强断言均未作临床或发展心理学认证，不能作为育儿建议或诊断。"
+        },
+        {
+          "text": "原讲含针对来信者、单亲身份和性别表现的贬抑或心理推测，本条不把这些推测当事实；性化结构的哲学解释不能支持由家庭结构或表现诊断个人。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1H64y1i72N",
+      "series_code": "2-2复习课",
+      "title": "【主义主义复习课】前现代的辩证思维：辩证形而上学（2-2）四大类共十六种",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把2-2总称为前现代的辩证形而上学：借不同于日常反思的符号策略处理矛盾，并按佛教传统、道家传统、超验主义与原初哲学思维四个方向复习。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L1–3"
+        },
+        {
+          "text": "对221的批评是，离苦的伦理目标可能先规定分类，再把分类呈现为认识范畴；讲者质疑未经反思的第一人称报告能否直接声称普遍实相。这是其批判性模型，不是对各佛教传统的完整史料结论。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L3–14"
+        },
+        {
+          "text": "222被解释为对愚与智、欲望与反思的矛盾作不同处理。讲者以庄子的第一阶欲望与第二阶好恶区别作说明，随后又从现代精神分析立场批评纯粹第一阶欲望可能只是回溯性幻想。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L14–27"
+        },
+        {
+          "text": "223通过共同的形而上学调和共同体分裂，并比较循环、终结、节律和开放重复四种目的结构。爱默生的超灵共振和惠特曼的自由诗被用来说明后两种结构的差异。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L28–54"
+        },
+        {
+          "text": "224把中论、塔木德、新实用主义与惠施并列为反二元、拆解固定本体论的策略，同时按伦理热忱区分离苦、返回、扩大共同体及目的方向失效等不同结果。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L55–72"
+        },
+        {
+          "text": "结尾回到总论：讲者认为这些体系借形而上学空间中的反现实符号机制，依次取得本体论、认识论与伦理目的论的外观，意图缓和现实矛盾，却仍受支配秩序与自身利益的张力制约。",
+          "source_ids": [
+            "x13-root-BV1H64y1i72N-1"
+          ],
+          "locator": "L73–77"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "正文开场明确是2-2复习课。ASR姓名、佛教/道教词语及数字多处变形；L34–41宗派身份表达又有有意省略，故未按七/十二等片段推定具体宗派名称。全文已读，原音和板书未核。"
+        },
+        {
+          "text": "四支是课程比较框架，不能代替佛教、道家、犹太传统或美国超验主义的完整思想史；关于族群、信众和诗人层次的贬抑判断不作为事实。庄子欲望解释后的精神分析反驳已区分，不把两层说法合并为庄子原意。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV1CL4y1W7hR",
+      "series_code": "4实践复习课",
+      "title": "【主义主义复习课】4-实践",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲把4字头的关键放在实践单元及其再生产能力：主体不再作为场域中的外在调和者，而被放入具体本体论过程；在44，问题进一步转为主体性如何发生。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L1–5"
+        },
+        {
+          "text": "41、42、43主要联系理论家、行动及建设的历史经验，44则设定一个不可能的未来乌托邦。其弱VR/弱AI模型用来讨论已摆脱某些经济异化后仍可能发生的异化及意识地位，不是对现有技术能力的报告。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L6–11、L33–37"
+        },
+        {
+          "text": "讲者反复要求理论工作有能维持活动的实践载体，并用办刊、会议及筹措资源作例子；他也明确说自己在许多情况下达不到这些条件，不能把掌握知识与实际占有实践位置混为一谈。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L20–29、L42–43"
+        },
+        {
+          "text": "课程把4的思想过渡联系到3444及穿越幻想，同时强调自立、现实承担和明确目的。关于单人实践单元在哪一格成立，讲者有当场改口，不能将初次编号直接当定稿规则。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L24–34"
+        },
+        {
+          "text": "对从理论侧进入41的人，本讲提出辩证法及现实政治经济材料研究的要求，并将后续黑格尔逻辑学、自然哲学和精神哲学系列放在这一学习背景中；它又明确区别直接参与行动或建设的角色。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L50–60"
+        },
+        {
+          "text": "结尾强调这一分类含有讲者明确的褒贬与划界，不是价值中立的学科目录；对历史与未来之间的现实路径，他也承认不能由模型预先给出。最后仍为普通劳动者保留若干位置，不能把本讲的激烈措辞变成知识或人格等级的客观量表。",
+          "source_ids": [
+            "x13-root-BV1CL4y1W7hR-1"
+          ],
+          "locator": "L62–79"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "开头与目录明确相合，为4实践总复习。ASR中的“时间单元/实践单元”“四字头/狮子头”及若干缩写反复混淆；只根据稳定上下文归纳。L26–27与L34有自我更正或记忆不清，不据此新增正式格位规则。"
+        },
+        {
+          "text": "弱AI、VR与未来人性的讨论是讲者明确承认的自拟思想实验，非技术预测验证。关于实践资格、年龄、阶层和受教育者的贬抑判断，是讲者的规范立场，不是对观众能力或人格的已证判断，也不是本资料库给读者设置的门槛。"
+        }
+      ],
+      "reading_links": []
+    },
+    {
+      "id": "BV15v411A7nX",
+      "series_code": "3-4符号学复习课",
+      "title": "【主义主义复习课】本世纪人文知识分子必须掌握的反思工具：符号学（3-4）",
+      "evidence_level": "secondary_course_text_read",
+      "body_status": "asr_text_reviewed_not_audio_verified",
+      "review_scope": "按所列源逐段核读正文；原音、板书与未列原典未核。",
+      "audio_verified": false,
+      "course_summary": [
+        {
+          "text": "本讲以共时性和差异性为结构主义基本原则，并按人类学、主体/心理学、叙事/社会学、知识学四个阶段，比较列维-斯特劳斯、早期拉康、巴特和福柯怎样给符号结构增加纵深。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L1–19"
+        },
+        {
+          "text": "讲者认为知识考古必须说明冲突、记忆和档案能力的条件，而不能从外部预设另一个中立字母表。把结构主义贯彻到底，也必须反思其自身对共时场和结构的本体论预设，从而引向后结构主义。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L20–34"
+        },
+        {
+          "text": "342被重述为阿尔都塞提出意识形态与科学的区分、以《资本论》的结构性阅读回应矛盾，再由中期拉康、巴迪欧、齐泽克和克里斯蒂娃分别展开主体、真理与实践问题；讲者同时批评把无头主体性过度具体化为经验性身体意象。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L35–65"
+        },
+        {
+          "text": "343被放在尼采永恒轮回的最小本体论和差异辩证法的问题中比较：德里达、德勒兹、巴塔耶与克罗索斯基采取不同更新机制，而利奥塔取消这种最低公共叙事。此处是课程的比较重构，不是这些作者自认共享同一理论。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L66–90"
+        },
+        {
+          "text": "344转向时间距离、问答与视域融合：理解历史答案要求重建其问题，同时改变自身视域。由利科、经典精神分析与语言游戏，讲者进一步走向对资本主义的精神分析，关注无意识符号结构如何生产主体性、客观性及剩余。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L91–112"
+        },
+        {
+          "text": "结尾明确说其分类采用拉康化、齐泽克化的黑格尔辩证法，以连接爱欲经济学与政治经济学；多数思想家不自认属于这个总体系。最小符号单元本身也依赖历史语境，不能把符号学基础视为无需反思的现成常数。",
+          "source_ids": [
+            "x13-root-BV15v411A7nX-1"
+          ],
+          "locator": "L113–128"
+        }
+      ],
+      "editorial_notes": [
+        {
+          "text": "开头直接标3-4符号学复习课，与目录标题吻合。ASR全文L1–128已读；“共识性/共时性”“福奥学/符号学”“事与融合/视域融合”等多处误识别，L20出现大片重复词，原句不可据此可靠复原。摘要不使用该异常部分推导新增论点。"
+        },
+        {
+          "text": "讲者多次承认记不清叙事分层、术语、姓名或年代，尤其L61明说有关人物是否活到某时有临场猜测；思想影响链与具体年代未独立核验。对阶层、宗教或思想家动机的评断只是其立场。"
+        },
+        {
+          "text": "末尾用普朗克量比喻最小符号单元，未作物理学事实认证；摘要保留历史语境与单元建构论点，不据比喻宣称物理上存在统一的最小物质量。"
+        }
+      ],
+      "reading_links": []
+    }
+  ]
+}
