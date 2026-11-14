@@ -20,7 +20,16 @@ export interface NotesState {
   nodes: Record<string, NodeNote>
 }
 
+export interface MergeNotesResult {
+  state: NotesState
+  importedCount: number
+  skippedCount: number
+  skippedEmptyCount: number
+  skippedNewerLocalCount: number
+}
+
 export const notesStorageError = ref(false)
+export const notesUnsavedInMemory = ref(false)
 
 let inMemoryState: NotesState = {
   version: 1,
@@ -28,6 +37,11 @@ let inMemoryState: NotesState = {
 }
 
 const FORBIDDEN_KEYS = new Set(['__proto__', 'constructor', 'prototype'])
+const CANONICAL_NODE_CODE_RE = /^[1-4](?:-[1-4]){0,3}$/
+
+export function isValidNodeCode(code: string): boolean {
+  return typeof code === 'string' && CANONICAL_NODE_CODE_RE.test(code)
+}
 
 const isPlainObject = (value: unknown): value is Record<string, unknown> => {
   return typeof value === 'object' && value !== null && !Array.isArray(value)
@@ -54,7 +68,7 @@ const cloneNodeNote = (note: NodeNote): NodeNote => {
 export const cloneNotesState = (state: NotesState): NotesState => {
   const nodes: Record<string, NodeNote> = {}
   for (const [code, note] of Object.entries(state.nodes)) {
-    if (FORBIDDEN_KEYS.has(code)) continue
+    if (FORBIDDEN_KEYS.has(code) || !isValidNodeCode(code)) continue
     if (isNoteEmpty(note)) continue
     nodes[code] = cloneNodeNote(note)
   }
@@ -98,7 +112,7 @@ export function parseNotesImport(text: string): NotesState | null {
   const allowedReadingKeys = new Set(['original', 'interpretation'])
 
   for (const [code, rawNote] of Object.entries(parsed.nodes)) {
-    if (FORBIDDEN_KEYS.has(code) || code.trim() === '') return null
+    if (FORBIDDEN_KEYS.has(code) || !isValidNodeCode(code)) return null
     if (!isPlainObject(rawNote)) return null
 
     const noteKeys = Object.keys(rawNote)
@@ -154,7 +168,48 @@ export function parseNotesImport(text: string): NotesState | null {
   }
 }
 
+export function mergeNotesState(current: NotesState, imported: NotesState): MergeNotesResult {
+  let importedCount = 0
+  let skippedEmptyCount = 0
+  let skippedNewerLocalCount = 0
+  const nextNodes: Record<string, NodeNote> = cloneNotesState(current).nodes
+
+  for (const [nodeCode, importedNote] of Object.entries(imported.nodes)) {
+    if (FORBIDDEN_KEYS.has(nodeCode) || !isValidNodeCode(nodeCode)) continue
+    if (isNoteEmpty(importedNote)) {
+      skippedEmptyCount++
+      continue
+    }
+    const existing = nextNodes[nodeCode]
+    if (!existing || isNoteEmpty(existing)) {
+      nextNodes[nodeCode] = cloneNodeNote(importedNote)
+      importedCount++
+    } else {
+      const importedTs = Date.parse(importedNote.updatedAt)
+      const existingTs = Date.parse(existing.updatedAt)
+      if (Number.isFinite(importedTs) && (!Number.isFinite(existingTs) || importedTs > existingTs)) {
+        nextNodes[nodeCode] = cloneNodeNote(importedNote)
+        importedCount++
+      } else {
+        skippedNewerLocalCount++
+      }
+    }
+  }
+
+  return {
+    state: cloneNotesState({ version: 1, nodes: nextNodes }),
+    importedCount,
+    skippedCount: skippedEmptyCount + skippedNewerLocalCount,
+    skippedEmptyCount,
+    skippedNewerLocalCount
+  }
+}
+
 export function loadNotes(): NotesState {
+  // 存在未写入磁盘的内存变更时，重挂载/切换页签不能用旧磁盘数据覆盖内存状态
+  if (notesUnsavedInMemory.value) {
+    return cloneNotesState(inMemoryState)
+  }
   try {
     const raw = localStorage.getItem(NOTES_STORAGE_KEY)
     if (raw === null) {
@@ -182,15 +237,21 @@ export function saveNotes(state: NotesState): boolean {
   try {
     localStorage.setItem(NOTES_STORAGE_KEY, JSON.stringify(normalized))
     notesStorageError.value = false
+    notesUnsavedInMemory.value = false
     return true
   } catch {
     notesStorageError.value = true
+    notesUnsavedInMemory.value = true
     return false
   }
 }
 
 export function getNotesStorageError(): boolean {
   return notesStorageError.value
+}
+
+export function getNotesUnsavedInMemory(): boolean {
+  return notesUnsavedInMemory.value
 }
 
 export function notesToMarkdown(

@@ -14,26 +14,52 @@
       <div id="download_button" @click="downloadIsmJson">下载文件</div>
       <input
         id="search_input"
+        ref="searchInputRef"
         type="text"
         placeholder="键入检索词"
         v-model="searchInputText"
+        @keydown.enter="handleSearchInputEnter"
       >
       <div id="courses_button" @click="openCourseDrawer()">
         补充课程 / ${{ coursesList.length ? ` (${coursesList.length})` : '' }}
       </div>
       <div id="search_status_line">
-        <template v-if="searchInputText !== ''">
-          <span v-if="searchInputText !== searchText">检索中...</span>
-          <span v-else>命中 {{ searchedCount }} 节点</span>
-          <button type="button" class="clear_search_link" @click="clearSearch">清空</button>
+        <template v-if="trimmedSearchInput !== ''">
+          <div class="search_status_summary">
+            <span v-if="trimmedSearchInput !== searchText">检索中...</span>
+            <span v-else-if="isSearchIndexIncomplete">命中 {{ searchedCount }}（未完）</span>
+            <span v-else>命中 {{ searchedCount }} 节点</span>
+          </div>
+          <div class="search_status_actions">
+            <button
+              id="open_search_results_btn"
+              type="button"
+              class="clear_search_link"
+              @click="openSearchResults"
+            >
+              查看结果
+            </button>
+            <button type="button" class="clear_search_link" @click="clearSearch">清空</button>
+          </div>
+        </template>
+        <template v-else-if="enrichmentsData && coursesStatus === 'ready'">
+          <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
+        </template>
+        <template v-else-if="enrichStatus === 'error' || coursesStatus === 'error'">
+          <div class="search_status_summary">
+            <span>索引加载失败</span>
+            <button type="button" class="clear_search_link" @click="retryFailedSearchIndexes">索引重试</button>
+          </div>
         </template>
         <template v-else-if="enrichmentsData">
           <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
         </template>
-        <template v-else-if="enrichStatus === 'error'">
-          <button type="button" class="clear_search_link" @click="loadEnrichments">索引重试</button>
+        <template v-else-if="ismData">
+          <span>索引加载中...</span>
         </template>
       </div>
+      <button id="route_button" type="button" @click="openReadingRoute">阅读路线</button>
+      <button id="guide_button" type="button" @click="openCodeGuide">怎么读编号</button>
       <div id="ismism_main_cube">
         <div id="show_cube">
           <template v-for="x in 4" :key="`show-${x}`">
@@ -115,7 +141,25 @@
           <div id="decrease_fontsize_button" title="缩小字体" @click="decreaseFontSize"></div>
           <div id="ism_info_content">
             <div v-if="ismLoadError" class="info_error_box">{{ ismLoadError }}</div>
-            <div v-else-if="!activeIsmTag || !activeIsmData" class="info_intro_box" v-html="introductionHtml"></div>
+            <div v-else-if="!activeIsmTag || !activeIsmData" class="info_intro_box">
+              <div v-if="!guideSeen" class="first_visit_guide_banner" role="region" aria-label="首次阅读提示">
+                <p class="first_visit_guide_text">
+                  首次导读：四位编号按「场域论—本体论—认识论—目的论」嵌套展开。可直接点击魔方节点探索，或先看编号导读与阅读路线。
+                </p>
+                <div class="first_visit_guide_actions">
+                  <button type="button" class="intro_guide_btn" @click="openCodeGuide">
+                    怎么读编号
+                  </button>
+                  <button type="button" class="intro_guide_dismiss_btn" @click="markGuideSeen">
+                    知道了
+                  </button>
+                </div>
+              </div>
+              <div v-html="introductionHtml"></div>
+              <div class="intro_guide_row">
+                <button type="button" class="intro_guide_btn" @click="openCodeGuide">第一次来？先看“怎么读编号”</button>
+              </div>
+            </div>
             <template v-else>
               <div class="node_header">
                 <div class="node_coord_row">
@@ -131,6 +175,34 @@
                   :query="searchText"
                   @jump="jumpToNode"
                 />
+
+                <div
+                  v-if="showRouteBanner && routeStepMatch"
+                  :key="routeStepMatch.current.stepId"
+                  class="route_node_banner"
+                >
+                  <span class="route_banner_text">
+                    阅读路线 · {{ routeStepMatch.current.stage.title }} · {{ routeStepMatch.current.step.task }}
+                  </span>
+                  <div class="route_banner_actions">
+                    <label class="route_banner_toggle">
+                      <input
+                        type="checkbox"
+                        :checked="isRouteStepDone(routeStepMatch.current.stage.id, routeStepMatch.current.step.code)"
+                        @change="toggleRouteStepDone(routeStepMatch.current.stage.id, routeStepMatch.current.step.code)"
+                      >
+                      <span>标记完成</span>
+                    </label>
+                    <button
+                      v-if="routeStepMatch.next"
+                      type="button"
+                      class="route_banner_next_btn"
+                      @click="jumpToNode(routeStepMatch.next.step.code)"
+                    >
+                      下一步 →
+                    </button>
+                  </div>
+                </div>
 
                 <div class="node_status_banner">
                   <span class="status_pill" :class="summaryOriginClass">
@@ -525,7 +597,7 @@
                   :readings="activeEnrichment?.readings ?? []"
                   :get-title="getNodeTitle"
                   :get-reading-title="getReadingTitle"
-                  @jump="jumpToNode"
+                  @jump="jumpToNoteNode"
                   @updated="handleNotesUpdated"
                 />
               </div>
@@ -648,6 +720,41 @@
       @retry-courses="loadCourses"
       @retry-bodies="loadCourseBodies"
     />
+
+    <ReadingRoute
+      :open="readingRouteOpen"
+      :current-code="routeIsmTag"
+      :get-node="getIsmNode"
+      fallback-focus-selector="#route_button"
+      @close="closeReadingRoute"
+      @jump="handleRouteJump"
+    />
+
+    <CodeGuide
+      :open="codeGuideOpen"
+      fallback-focus-selector="#guide_button"
+      @close="closeCodeGuide"
+    />
+
+    <SearchResults
+      :open="searchResultsOpen"
+      :query="searchText"
+      :results="searchResults"
+      :total-nodes="totalNodeCount"
+      :current-code="routeIsmTag"
+      :ism-loaded="Boolean(ismData)"
+      :ism-load-error="ismLoadError"
+      :enrich-status="enrichStatus"
+      :enrich-error="enrichError"
+      :courses-status="coursesStatus"
+      :courses-error="coursesError"
+      :can-jump="canJumpToNode"
+      fallback-focus-selector="#search_input"
+      @close="closeSearchResults"
+      @jump="handleSearchResultJump"
+      @retry-enrichments="loadEnrichments"
+      @retry-courses="loadCourses"
+    />
   </div>
 </template>
 
@@ -663,9 +770,18 @@ import AxisNeighbors from '../../components/AxisNeighbors.vue'
 import EvidenceMarker from '../../components/EvidenceMarker.vue'
 import NodeBreadcrumb from '../../components/NodeBreadcrumb.vue'
 import NodeNotes from '../../components/NodeNotes.vue'
+import ReadingRoute from '../../components/ReadingRoute.vue'
+import CodeGuide from '../../components/CodeGuide.vue'
+import SearchResults from '../../components/SearchResults.vue'
 import { getAdjacentSiblingCodes, getParentCode } from '../../utils/axisStructure'
 import { CANONICAL_TONE, TONE_META, getFieldEvidence, type EvidenceTone } from '../../utils/evidence'
 import { isNoteEmpty, loadNotes, type NotesState } from '../../utils/notesStore'
+import {
+  findRouteStepByCode,
+  isRouteStepDone,
+  loadRouteProgress,
+  toggleRouteStepDone
+} from '../../utils/routeProgress'
 import type {
   CourseBodiesMap,
   CourseRecord,
@@ -686,10 +802,15 @@ import {
   matchesCoursesContent,
   matchesEditorialContent,
   matchesOverviewContent,
-  nodeMatchesQuery,
+  normalizeSearchQuery,
   parseRelatedEntry,
   type ParsedRelatedEntry
 } from '../../utils/ismFormat'
+import {
+  buildSearchResults,
+  type NodeSearchResult,
+  type SearchMatchTabKey
+} from '../../utils/searchNodes'
 
 type InfoTabKey = 'overview' | 'courses' | 'editorial' | 'notes'
 type DrawerCategoryKey = 'dollar_series' | 'study' | 'special' | 'all'
@@ -719,6 +840,7 @@ const bodiesError = ref('')
 const INFO_FONT_SCALE_STORAGE_KEY = 'ismismcube.infoFontScale'
 const SHOW_EVIDENCE_MARKERS_STORAGE_KEY = 'ismismcube.showEvidenceMarkers'
 const SELF_TEST_STORAGE_KEY = 'ismismcube.selfTest'
+const GUIDE_SEEN_STORAGE_KEY = 'ismismcube.guideSeen'
 const axisColor = ["red", "green", "blue", "darkorange"]
 const ismInfoFontSize = ref(1.0)
 const showEvidenceMarkers = ref(true)
@@ -733,6 +855,7 @@ const evidenceLegendItems: { tone: EvidenceTone; examples: string }[] = [
 ]
 const pageView = ref(-1)
 const onlineCount = ref(-1)
+const searchInputRef = ref<HTMLInputElement | null>(null)
 const searchInputText = ref('')
 const searchText = ref('')
 const sizeIndicatorRatio = ref(0)
@@ -743,6 +866,10 @@ const activeInfoTab = ref<InfoTabKey>('overview')
 const courseDrawerOpen = ref(false)
 const drawerInitialCourseId = ref<string | undefined>(undefined)
 const drawerInitialCategory = ref<DrawerCategoryKey>('dollar_series')
+const readingRouteOpen = ref(false)
+const codeGuideOpen = ref(false)
+const searchResultsOpen = ref(false)
+const guideSeen = ref(true)
 
 const danmuText = ref('')
 const danmuEnabled = ref<boolean>(false)
@@ -796,11 +923,24 @@ const getReadingTitle = (sourceId: string): string => {
   return readingTitleById.value.get(sourceId) ?? ''
 }
 
+const routeIsmTag = computed<string>(() => {
+  const param = route.params.ismTag
+  return typeof param === 'string' ? param : ''
+})
+
+const routeStepMatch = computed(() => {
+  return routeIsmTag.value ? findRouteStepByCode(routeIsmTag.value) : null
+})
+
+const showRouteBanner = computed<boolean>(() => {
+  if (!routeStepMatch.value) return false
+  return activeIsmTag.value === routeIsmTag.value
+})
+
 const activeIsmTag = computed<string>(() => {
   // 笔记页打开时不随魔方悬停切换节点，避免把笔记写到预览中的其他节点
   if (hoveredIsmTag.value && activeInfoTab.value !== 'notes') return hoveredIsmTag.value
-  const param = route.params.ismTag
-  return typeof param === 'string' ? param : ''
+  return routeIsmTag.value
 })
 
 const currentHasNote = computed<boolean>(() => {
@@ -1004,27 +1144,45 @@ const introductionHtml = computed(() => {
   return html
 })
 
-// 搜索匹配预计算（防抖后统一遍历 1 次，复用与详情页签完全一致的匹配函数）
-const searchedTags = computed<Set<string>>(() => {
-  const q = searchText.value
-  const matched = new Set<string>()
-  if (!q || !ismData.value) return matched
-  const enrichNodes = enrichmentsData.value?.nodes ?? {}
+// 搜索匹配预计算（防抖后统一遍历 1 次，魔方着色与搜索结果抽屉共用同一套匹配与排序结果）
+const trimmedSearchInput = computed(() => normalizeSearchQuery(searchInputText.value))
+
+const isSearchIndexIncomplete = computed(() => {
+  return (
+    !ismData.value ||
+    Boolean(ismLoadError.value) ||
+    enrichStatus.value !== 'ready' ||
+    coursesStatus.value !== 'ready'
+  )
+})
+
+const totalNodeCount = computed(() => {
+  if (!ismData.value) return 0
+  let count = 0
   for (const key of Object.keys(ismData.value)) {
-    if (key === 'introduction') continue
-    const node = getIsmNode(key)
-    if (!node) continue
-    const enrich = enrichNodes[key] ?? null
-    const linked = getLinkedCoursesForTag(key)
-    if (nodeMatchesQuery(node, enrich, linked, q)) {
-      matched.add(key)
-    }
+    if (key !== 'introduction' && getIsmNode(key)) count++
   }
-  return matched
+  return count
+})
+
+const searchResults = computed<NodeSearchResult[]>(() => {
+  const q = searchText.value
+  if (!q || !ismData.value) return []
+  return buildSearchResults({
+    ismData: ismData.value,
+    getNode: getIsmNode,
+    enrichNodes: enrichmentsData.value?.nodes,
+    getLinkedCourses: getLinkedCoursesForTag,
+    query: q
+  })
+})
+
+const searchedTags = computed<Set<string>>(() => {
+  return new Set(searchResults.value.map((item) => item.code))
 })
 
 const searchedCount = computed(() => {
-  return searchedTags.value.size
+  return searchResults.value.length
 })
 
 const overviewHasSearchHit = computed(() => {
@@ -1273,6 +1431,9 @@ const pinISM = (ismTag: string) => {
 }
 
 const openCourseDrawer = (courseId?: string, category: DrawerCategoryKey = 'dollar_series') => {
+  readingRouteOpen.value = false
+  codeGuideOpen.value = false
+  searchResultsOpen.value = false
   drawerInitialCourseId.value = courseId
   drawerInitialCategory.value = category
   courseDrawerOpen.value = true
@@ -1289,16 +1450,80 @@ const closeCourseDrawer = () => {
   drawerInitialCourseId.value = undefined
 }
 
+const openReadingRoute = () => {
+  courseDrawerOpen.value = false
+  codeGuideOpen.value = false
+  searchResultsOpen.value = false
+  readingRouteOpen.value = true
+}
+
+const closeReadingRoute = () => {
+  readingRouteOpen.value = false
+}
+
+const handleRouteJump = (code: string) => {
+  if (!canJumpToNode(code)) return
+  closeReadingRoute()
+  jumpToNode(code)
+}
+
+const markGuideSeen = () => {
+  guideSeen.value = true
+  try {
+    localStorage.setItem(GUIDE_SEEN_STORAGE_KEY, '1')
+  } catch {
+    // 忽略本地存储异常
+  }
+}
+
+const openCodeGuide = () => {
+  courseDrawerOpen.value = false
+  readingRouteOpen.value = false
+  searchResultsOpen.value = false
+  codeGuideOpen.value = true
+}
+
+const closeCodeGuide = () => {
+  codeGuideOpen.value = false
+  markGuideSeen()
+}
+
+const openSearchResults = () => {
+  applySearchNow()
+  courseDrawerOpen.value = false
+  readingRouteOpen.value = false
+  codeGuideOpen.value = false
+  searchResultsOpen.value = true
+}
+
+const closeSearchResults = () => {
+  searchResultsOpen.value = false
+}
+
+const handleSearchResultJump = (code: string, tab: SearchMatchTabKey) => {
+  if (!canJumpToNode(code)) return
+  closeSearchResults()
+  jumpToNodeWithTab(code, tab)
+}
+
 const canJumpToNode = (code: string): boolean => {
   return Boolean(getIsmNode(code))
 }
 
-const jumpToNode = (code: string) => {
+const jumpToNodeWithTab = (code: string, tab: InfoTabKey) => {
   if (!getIsmNode(code)) return
   hoveredIsmTag.value = null
-  activeInfoTab.value = 'overview'
+  activeInfoTab.value = tab
   closeCourseDrawer()
   router.push('/' + code)
+}
+
+const jumpToNode = (code: string) => {
+  jumpToNodeWithTab(code, 'overview')
+}
+
+const jumpToNoteNode = (code: string) => {
+  jumpToNodeWithTab(code, 'notes')
 }
 
 const saveEvidenceMarkersPreference = () => {
@@ -1486,6 +1711,14 @@ const sendDanmu = async () => {
 
 let searchDebounceTimer: number | null = null
 
+const applySearchNow = () => {
+  if (searchDebounceTimer !== null) {
+    window.clearTimeout(searchDebounceTimer)
+    searchDebounceTimer = null
+  }
+  searchText.value = normalizeSearchQuery(searchInputText.value)
+}
+
 const clearSearch = () => {
   if (searchDebounceTimer !== null) {
     window.clearTimeout(searchDebounceTimer)
@@ -1493,6 +1726,24 @@ const clearSearch = () => {
   }
   searchInputText.value = ''
   searchText.value = ''
+  searchResultsOpen.value = false
+}
+
+const retryFailedSearchIndexes = () => {
+  if (enrichStatus.value === 'error') {
+    void loadEnrichments()
+  }
+  if (coursesStatus.value === 'error') {
+    void loadCourses()
+  }
+}
+
+const handleSearchInputEnter = (event: KeyboardEvent) => {
+  if (event.isComposing) return
+  applySearchNow()
+  if (!searchText.value) return
+  event.preventDefault()
+  openSearchResults()
 }
 
 watch(searchInputText, (val) => {
@@ -1500,12 +1751,13 @@ watch(searchInputText, (val) => {
     window.clearTimeout(searchDebounceTimer)
     searchDebounceTimer = null
   }
-  if (!val) {
+  const normalized = normalizeSearchQuery(val)
+  if (!normalized) {
     searchText.value = ''
     return
   }
   searchDebounceTimer = window.setTimeout(() => {
-    searchText.value = val
+    searchText.value = normalized
     searchDebounceTimer = null
   }, 120)
 })
@@ -1537,7 +1789,7 @@ const handleWindowKeydown = (event: KeyboardEvent) => {
   if (event.ctrlKey || event.metaKey || event.altKey) return
   if (event.defaultPrevented) return
   if (isEditableEventTarget(event.target)) return
-  if (courseDrawerOpen.value) return
+  if (courseDrawerOpen.value || readingRouteOpen.value || codeGuideOpen.value || searchResultsOpen.value) return
 
   const routeCode = typeof route.params.ismTag === 'string' ? route.params.ismTag : ''
   if (!routeCode || !canJumpToNode(routeCode)) return
@@ -1561,7 +1813,9 @@ const handleWindowKeydown = (event: KeyboardEvent) => {
 
 // 生命周期
 onMounted(() => {
-  document.documentElement.style.fontSize = Math.max(screen.width, screen.height) / 96 + "px"
+  // 隐藏的标签页或嵌入环境里 screen 可能为 0，此时退回窗口尺寸，避免根字号变成 0
+  const baseScreenSize = Math.max(screen.width, screen.height) || Math.max(window.innerWidth, window.innerHeight) || 1536
+  document.documentElement.style.fontSize = baseScreenSize / 96 + "px"
   ismInfoFontSize.value = resolveInitialInfoFontSize()
   try {
     const saved = localStorage.getItem(SHOW_EVIDENCE_MARKERS_STORAGE_KEY)
@@ -1580,6 +1834,12 @@ onMounted(() => {
     // 忽略本地存储异常
   }
   notesState.value = loadNotes()
+  loadRouteProgress()
+  try {
+    guideSeen.value = Boolean(localStorage.getItem(GUIDE_SEEN_STORAGE_KEY))
+  } catch {
+    guideSeen.value = true
+  }
   window.addEventListener('keydown', handleWindowKeydown)
   initial()
 })
@@ -2530,14 +2790,61 @@ onUnmounted(() => {
   background-color: gray;
 }
 
+#route_button,
+#guide_button {
+  position: absolute;
+  left: 1rem;
+  width: 7.5rem;
+  height: 1.5rem;
+  padding: 0;
+  box-sizing: content-box;
+  font-size: 0.78rem;
+  line-height: 1.5rem;
+  text-align: center;
+  white-space: nowrap;
+  color: black;
+  background-color: rgb(200, 200, 200);
+  border: solid black 1px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#route_button {
+  top: 11.55rem;
+}
+
+#guide_button {
+  top: 13.55rem;
+}
+
+#route_button:hover,
+#guide_button:hover {
+  background-color: gray;
+}
+
 #search_status_line {
   position: absolute;
   left: 1rem;
-  top: 9.25rem;
+  top: 9.2rem;
   width: 7.5rem;
   font-size: 0.7rem;
   line-height: 1.2;
   color: rgb(55, 55, 55);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.16rem;
+}
+
+.search_status_summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.search_status_actions {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -2549,7 +2856,10 @@ onUnmounted(() => {
   border: 1px solid black;
   padding: 0 0.25rem;
   font-size: 0.68rem;
+  line-height: 1.25;
+  color: black;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .clear_search_link:hover {
@@ -3040,6 +3350,115 @@ onUnmounted(() => {
   flex-direction: column;
   gap: 0.25em;
   font-size: 0.85em;
+}
+
+.first_visit_guide_banner {
+  white-space: normal;
+  margin-bottom: 0.65em;
+  padding: 0.45em 0.65em;
+  background-color: rgb(214, 236, 236);
+  border: 1px solid darkcyan;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4em;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.first_visit_guide_text {
+  margin: 0;
+  font-size: 0.88em;
+  line-height: 1.45;
+  color: rgb(20, 45, 45);
+  overflow-wrap: anywhere;
+}
+
+.first_visit_guide_actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  align-items: center;
+}
+
+.intro_guide_row {
+  white-space: normal;
+  margin-top: 0.65em;
+  text-align: center;
+}
+
+.intro_guide_btn,
+.intro_guide_dismiss_btn {
+  white-space: normal;
+  padding: 0.25em 0.75em;
+  font-size: 0.9em;
+  color: black;
+  background-color: rgb(206, 232, 232);
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.intro_guide_dismiss_btn {
+  background-color: rgb(232, 232, 232);
+}
+
+.intro_guide_btn:hover,
+.intro_guide_dismiss_btn:hover {
+  background-color: darkcyan;
+  color: white;
+}
+
+.route_node_banner {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0.32em 0.55em;
+  background-color: rgb(214, 236, 236);
+  border: 1px solid darkcyan;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35em 0.6em;
+  font-size: 0.8em;
+  line-height: 1.4;
+}
+
+.route_banner_text {
+  flex: 1 1 12em;
+  min-width: 0;
+  color: rgb(20, 45, 45);
+  overflow-wrap: anywhere;
+}
+
+.route_banner_actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.route_banner_toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  cursor: pointer;
+  user-select: none;
+}
+
+.route_banner_next_btn {
+  padding: 0.12em 0.5em;
+  font-size: 0.95em;
+  color: black;
+  background-color: rgb(232, 244, 244);
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.route_banner_next_btn:hover {
+  background-color: darkcyan;
+  color: white;
 }
 
 </style>

@@ -63,6 +63,10 @@ export const getNoteText = (entry: string | { text?: unknown } | null | undefine
   return ''
 }
 
+export const normalizeSearchQuery = (query: string): string => {
+  return query.trim()
+}
+
 export const includesQuery = (text: unknown, query: string): boolean => {
   if (typeof text !== 'string' || !text || !query) return false
   return text.toLowerCase().includes(query.toLowerCase())
@@ -117,12 +121,13 @@ export const matchesOverviewContent = (
   enrich: NodeEnrichment | null,
   query: string
 ): boolean => {
-  if (!node || !query) return false
-  if (node.axis_list.some((item) => includesQuery(item, query))) return true
-  if (node.feature_list.some((item) => includesQuery(item, query))) return true
+  const q = normalizeSearchQuery(query)
+  if (!node || !q) return false
+  if (node.axis_list.some((item) => includesQuery(item, q))) return true
+  if (node.feature_list.some((item) => includesQuery(item, q))) return true
   const related = node.related_list.filter((item) => item !== '').map(parseRelatedEntry)
   const core = enrich ? related.filter((item) => item.category === 'core') : related
-  return core.some((rel) => includesQuery(rel.label, query) || includesQuery(rel.value, query))
+  return core.some((rel) => includesQuery(rel.label, q) || includesQuery(rel.value, q))
 }
 
 export const matchesCoursesContent = (
@@ -131,15 +136,16 @@ export const matchesCoursesContent = (
   enrich: NodeEnrichment | null,
   query: string
 ): boolean => {
-  if (!query) return false
-  if (linkedCourses.some((c) => includesQuery(c.title, query) || includesQuery(c.id, query))) return true
-  if (enrich?.transcripts.some((t) => includesQuery(t.title, query))) return true
+  const q = normalizeSearchQuery(query)
+  if (!q) return false
+  if (linkedCourses.some((c) => includesQuery(c.title, q) || includesQuery(c.id, q))) return true
+  if (enrich?.transcripts.some((t) => includesQuery(t.title, q))) return true
   if (node) {
     const docs = node.related_list
       .filter((item) => item !== '')
       .map(parseRelatedEntry)
       .filter((item) => item.label.includes('文案'))
-    if (docs.some((d) => includesQuery(d.label, query) || includesQuery(d.value, query))) return true
+    if (docs.some((d) => includesQuery(d.label, q) || includesQuery(d.value, q))) return true
   }
   return false
 }
@@ -149,45 +155,48 @@ export const matchesEditorialContent = (
   enrich: NodeEnrichment | null,
   query: string
 ): boolean => {
-  if (!query) return false
+  const q = normalizeSearchQuery(query)
+  if (!q) return false
   if (enrich) {
     if (
       enrich.readings.some(
-        (r) => includesQuery(r.title, query) || includesQuery(r.reason, query) || includesQuery(r.locator, query)
+        (r) => includesQuery(r.title, q) || includesQuery(r.reason, q) || includesQuery(r.locator, q)
       )
     ) {
       return true
     }
     if (
       enrich.review_summary?.highlights.some(
-        (h) => includesQuery(h.finding, query) || includesQuery(h.locator, query)
+        (h) => includesQuery(h.finding, q) || includesQuery(h.locator, q)
       )
     ) {
       return true
     }
-    if (enrich.editorial_notes.some((n) => includesQuery(n, query))) return true
-    if (enrich.substantive_open_questions.some((oq) => includesQuery(oq, query))) return true
+    if (enrich.editorial_notes.some((n) => includesQuery(n, q))) return true
+    if (enrich.substantive_open_questions.some((oq) => includesQuery(oq, q))) return true
     return false
   }
   if (!node) return false
   const parsed = node.related_list.filter((item) => item !== '').map(parseRelatedEntry)
   return parsed
     .filter((item) => item.category === 'reading' || item.category === 'editorial')
-    .some((item) => includesQuery(item.label, query) || includesQuery(item.value, query))
+    .some((item) => includesQuery(item.label, q) || includesQuery(item.value, q))
 }
 
 export const nodeMatchesQuery = (
   node: IsmNodeEntry | null,
   enrich: NodeEnrichment | null,
   linkedCourses: CourseRecord[],
-  query: string
+  query: string,
+  code = ''
 ): boolean => {
-  if (!node || !query) return false
-  if (includesQuery(node.ch_name, query) || includesQuery(node.en_name, query)) return true
+  const q = normalizeSearchQuery(query)
+  if (!node || !q) return false
+  if (includesQuery(code, q) || includesQuery(node.ch_name, q) || includesQuery(node.en_name, q)) return true
   return (
-    matchesOverviewContent(node, enrich, query) ||
-    matchesCoursesContent(node, linkedCourses, enrich, query) ||
-    matchesEditorialContent(node, enrich, query)
+    matchesOverviewContent(node, enrich, q) ||
+    matchesCoursesContent(node, linkedCourses, enrich, q) ||
+    matchesEditorialContent(node, enrich, q)
   )
 }
 

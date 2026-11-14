@@ -5,9 +5,29 @@
     </div>
 
     <div class="notes_status_row">
-      <span v-if="storageError" class="notes_status_error">
-        保存失败：浏览器存储不可用，导出可备份当前内容
-      </span>
+      <div v-if="storageError" class="notes_status_error_box">
+        <span class="notes_status_error">
+          {{
+            unsavedInMemory
+              ? '保存失败：未能写入浏览器存储（当前改动仅暂存在本页内存，请重试保存或导出备份）'
+              : '存储异常：浏览器本地笔记读取或写入失败，请重试或导出备份'
+          }}
+        </span>
+        <div class="notes_error_actions">
+          <button type="button" class="notes_action_btn" @click="retryPersist">
+            {{ unsavedInMemory || isDirty ? '重试保存' : '重试读取' }}
+          </button>
+          <button type="button" class="notes_action_btn" @click="exportJson">
+            导出 JSON
+          </button>
+          <button type="button" class="notes_action_btn" @click="exportMarkdown">
+            导出 Markdown
+          </button>
+        </div>
+        <div v-if="retryMessage" class="notes_retry_message">
+          {{ retryMessage }}
+        </div>
+      </div>
       <span v-else-if="lastSavedTime" class="notes_status_ok">
         已保存 {{ lastSavedTime }}
       </span>
@@ -117,7 +137,7 @@
         清空本节点笔记
       </button>
     </div>
-    <div v-if="importResultMessage" class="notes_import_result">
+    <div v-if="importResultMessage" class="notes_import_result" :class="{ is_error: importResultIsError }">
       {{ importResultMessage }}
     </div>
 
@@ -148,9 +168,12 @@ import type { NodeReadingLink } from '../types/research'
 import {
   cloneNotesState,
   isNoteEmpty,
+  isValidNodeCode,
   loadNotes,
+  mergeNotesState,
   notesStorageError,
   notesToMarkdown,
+  notesUnsavedInMemory,
   parseNotesImport,
   saveNotes,
   type NodeNote,
@@ -178,10 +201,13 @@ const draftQuestion = ref('')
 const draftReadings = ref<Record<string, ReadingNote>>({})
 const lastSavedTime = ref('')
 const importResultMessage = ref('')
+const importResultIsError = ref(false)
+const retryMessage = ref('')
 const importInputRef = ref<HTMLInputElement | null>(null)
 const isDirty = ref(false)
 
 const storageError = computed(() => notesStorageError.value)
+const unsavedInMemory = computed(() => notesUnsavedInMemory.value)
 
 let saveTimer: number | null = null
 
@@ -207,7 +233,7 @@ const loadDraftForCode = (code: string) => {
       }
     }
     draftReadings.value = nextReadings
-    lastSavedTime.value = formatTimeHHMM(existing.updatedAt)
+    lastSavedTime.value = notesStorageError.value ? '' : formatTimeHHMM(existing.updatedAt)
   } else {
     draftClaim.value = ''
     draftSource.value = ''
@@ -219,7 +245,7 @@ const loadDraftForCode = (code: string) => {
 }
 
 const commitSaveForCode = (targetCode: string) => {
-  if (!targetCode) {
+  if (!targetCode || !isValidNodeCode(targetCode)) {
     isDirty.value = false
     return
   }
@@ -260,6 +286,9 @@ const commitSaveForCode = (targetCode: string) => {
   isDirty.value = false
   if (ok) {
     lastSavedTime.value = isNoteEmpty(note) ? '' : formatTimeHHMM(nowIso)
+    retryMessage.value = ''
+  } else {
+    lastSavedTime.value = ''
   }
   emit('updated', cloneNotesState(notesState.value))
 }
@@ -276,6 +305,7 @@ const flushPendingSave = (targetCode: string) => {
 
 const scheduleSave = () => {
   isDirty.value = true
+  retryMessage.value = ''
   if (saveTimer !== null) {
     window.clearTimeout(saveTimer)
     saveTimer = null
@@ -284,6 +314,34 @@ const scheduleSave = () => {
     saveTimer = null
     commitSaveForCode(props.code)
   }, 400)
+}
+
+const retryPersist = () => {
+  retryMessage.value = ''
+  if (isDirty.value) {
+    flushPendingSave(props.code)
+    if (notesStorageError.value) {
+      retryMessage.value = '重试保存仍失败：浏览器存储不可用，请先导出备份'
+    }
+    return
+  }
+  if (notesUnsavedInMemory.value) {
+    const ok = saveNotes(notesState.value)
+    if (ok) {
+      const current = notesState.value.nodes[props.code]
+      lastSavedTime.value = current && !isNoteEmpty(current) ? formatTimeHHMM(current.updatedAt) : ''
+      emit('updated', cloneNotesState(notesState.value))
+    } else {
+      retryMessage.value = '重试保存仍失败：浏览器存储不可用，请先导出备份'
+    }
+    return
+  }
+  notesState.value = loadNotes()
+  loadDraftForCode(props.code)
+  emit('updated', cloneNotesState(notesState.value))
+  if (notesStorageError.value) {
+    retryMessage.value = '重试读取仍失败：浏览器存储不可用或数据格式损坏'
+  }
 }
 
 const getReadingOriginal = (sourceId: string): string => {
@@ -355,48 +413,39 @@ const handleImportFile = async (event: Event) => {
   const file = input?.files?.[0]
   if (!file) return
 
+  importResultIsError.value = false
+  retryMessage.value = ''
+
   try {
     const text = await file.text()
     const parsed = parseNotesImport(text)
     if (!parsed) {
-      importResultMessage.value = '导入失败：JSON 格式或字段结构无效'
+      importResultIsError.value = true
+      importResultMessage.value = '导入失败：JSON 格式、字段结构或节点编号无效（仅接受 1-4 级且每段为 1-4 的编号）'
       return
     }
 
     flushPendingSave(props.code)
 
-    let importedCount = 0
-    let skippedCount = 0
-    const nextNodes = { ...notesState.value.nodes }
-
-    for (const [nodeCode, importedNote] of Object.entries(parsed.nodes)) {
-      if (isNoteEmpty(importedNote)) {
-        skippedCount++
-        continue
-      }
-      const existing = nextNodes[nodeCode]
-      if (!existing || isNoteEmpty(existing)) {
-        nextNodes[nodeCode] = importedNote
-        importedCount++
-      } else if (Date.parse(importedNote.updatedAt) > Date.parse(existing.updatedAt)) {
-        nextNodes[nodeCode] = importedNote
-        importedCount++
-      } else {
-        skippedCount++
-      }
-    }
-
-    const nextState: NotesState = {
-      version: 1,
-      nodes: nextNodes
-    }
-
-    saveNotes(nextState)
-    notesState.value = cloneNotesState(nextState)
+    const merged = mergeNotesState(notesState.value, parsed)
+    const ok = saveNotes(merged.state)
+    notesState.value = cloneNotesState(merged.state)
     loadDraftForCode(props.code)
     emit('updated', cloneNotesState(notesState.value))
-    importResultMessage.value = `导入 ${importedCount} 条，跳过 ${skippedCount} 条`
+
+    if (!ok) {
+      importResultIsError.value = true
+      importResultMessage.value = `写入浏览器存储失败：仅在当前页面内存合并 ${merged.importedCount} 条、跳过 ${merged.skippedCount} 条，请重试保存或导出备份`
+      return
+    }
+
+    if (merged.skippedNewerLocalCount > 0) {
+      importResultMessage.value = `已导入 ${merged.importedCount} 条，跳过 ${merged.skippedCount} 条（其中 ${merged.skippedNewerLocalCount} 条保留了较新的本地笔记）`
+    } else {
+      importResultMessage.value = `已导入 ${merged.importedCount} 条，跳过 ${merged.skippedCount} 条`
+    }
   } catch {
+    importResultIsError.value = true
     importResultMessage.value = '导入失败：读取文件出错'
   } finally {
     if (input) {
@@ -418,6 +467,7 @@ const clearCurrentNote = () => {
   draftQuestion.value = ''
   draftReadings.value = {}
   isDirty.value = false
+  retryMessage.value = ''
 
   const nextNodes = { ...notesState.value.nodes }
   delete nextNodes[props.code]
@@ -427,10 +477,23 @@ const clearCurrentNote = () => {
     nodes: nextNodes
   }
 
-  saveNotes(nextState)
+  const ok = saveNotes(nextState)
   notesState.value = cloneNotesState(nextState)
   lastSavedTime.value = ''
   emit('updated', cloneNotesState(notesState.value))
+  if (!ok) {
+    retryMessage.value = '清空未写入浏览器存储，请重试保存或导出备份'
+  }
+}
+
+const handlePageLeave = () => {
+  flushPendingSave(props.code)
+}
+
+const handleVisibilityChange = () => {
+  if (typeof document !== 'undefined' && document.visibilityState === 'hidden') {
+    flushPendingSave(props.code)
+  }
 }
 
 watch(
@@ -438,6 +501,8 @@ watch(
   (newCode, oldCode) => {
     flushPendingSave(oldCode)
     importResultMessage.value = ''
+    importResultIsError.value = false
+    retryMessage.value = ''
     loadDraftForCode(newCode)
   }
 )
@@ -445,9 +510,23 @@ watch(
 onMounted(() => {
   notesState.value = loadNotes()
   loadDraftForCode(props.code)
+  if (typeof window !== 'undefined') {
+    window.addEventListener('pagehide', handlePageLeave)
+    window.addEventListener('beforeunload', handlePageLeave)
+  }
+  if (typeof document !== 'undefined') {
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+  }
 })
 
 onBeforeUnmount(() => {
+  if (typeof window !== 'undefined') {
+    window.removeEventListener('pagehide', handlePageLeave)
+    window.removeEventListener('beforeunload', handlePageLeave)
+  }
+  if (typeof document !== 'undefined') {
+    document.removeEventListener('visibilitychange', handleVisibilityChange)
+  }
   flushPendingSave(props.code)
 })
 </script>
@@ -485,9 +564,29 @@ onBeforeUnmount(() => {
   color: rgb(28, 92, 28);
 }
 
+.notes_status_error_box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+  padding: 0.4em 0.5em;
+  background-color: rgb(252, 236, 236);
+  border: 1px solid rgb(165, 55, 55);
+}
+
 .notes_status_error {
   color: #a00000;
   font-weight: bold;
+}
+
+.notes_error_actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35em;
+}
+
+.notes_retry_message {
+  color: #a00000;
+  font-size: 0.95em;
 }
 
 .notes_status_idle {
@@ -626,6 +725,11 @@ onBeforeUnmount(() => {
 .notes_import_result {
   font-size: 0.82em;
   color: rgb(35, 75, 75);
+}
+
+.notes_import_result.is_error {
+  color: #a00000;
+  font-weight: bold;
 }
 
 .notes_all_list {
