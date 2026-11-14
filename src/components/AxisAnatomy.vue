@@ -32,7 +32,10 @@
       >
         <template v-if="row.fallback">
           <div class="axis_main_text">
-            <HighlightText :text="row.rawRest" :query="query" />
+            <EvidenceMarker v-if="row.fieldEvidence" :evidence="row.fieldEvidence" :query="query">
+              <HighlightText :text="row.rawRest" :query="query" />
+            </EvidenceMarker>
+            <HighlightText v-else :text="row.rawRest" :query="query" />
           </div>
         </template>
         <template v-else>
@@ -40,12 +43,22 @@
             <b :style="{ color: row.color }">{{ row.axisLabel }}</b>
             <span class="axis_digit_box"><b>{{ row.digit }}</b></span>
           </div>
-          <div class="axis_main_text">
-            <HighlightText :text="row.main" :query="query" />
-          </div>
-          <div v-if="row.note" class="axis_note_text">
-            <HighlightText :text="row.note" :query="query" />
-          </div>
+          <EvidenceMarker v-if="row.fieldEvidence" :evidence="row.fieldEvidence" :query="query">
+            <div class="axis_main_text">
+              <HighlightText :text="row.main" :query="query" />
+            </div>
+            <div v-if="row.note" class="axis_note_text">
+              <HighlightText :text="row.note" :query="query" />
+            </div>
+          </EvidenceMarker>
+          <template v-else>
+            <div class="axis_main_text">
+              <HighlightText :text="row.main" :query="query" />
+            </div>
+            <div v-if="row.note" class="axis_note_text">
+              <HighlightText :text="row.note" :query="query" />
+            </div>
+          </template>
           <div class="axis_origin_line">
             <span v-if="row.isCurrentOrigin" class="origin_new_badge">本层新增</span>
             <template v-else-if="row.originNode">
@@ -78,7 +91,8 @@
 
 <script setup lang="ts">
 import { computed } from 'vue'
-import type { IsmNodeEntry } from '../types/research'
+import type { IsmNodeEntry, NodeReviewHighlight } from '../types/research'
+import { getFieldEvidence } from '../utils/evidence'
 import { parseAxisEntry } from '../utils/ismFormat'
 import {
   AXIS_COLORS,
@@ -88,6 +102,7 @@ import {
   getAxisOriginCode,
   splitAxisDescription
 } from '../utils/axisStructure'
+import EvidenceMarker from './EvidenceMarker.vue'
 import HighlightText from './HighlightText.vue'
 
 const props = defineProps<{
@@ -95,6 +110,7 @@ const props = defineProps<{
   getNode: (code: string) => IsmNodeEntry | null
   query: string
   axisEvidence: (index: number) => { locator?: string } | null | undefined
+  reviewHighlights?: NodeReviewHighlight[]
 }>()
 
 const emit = defineEmits<{
@@ -126,6 +142,7 @@ const axisDetailRows = computed(() => {
   return node.axis_list.map((entry, index) => {
     const parsed = parseAxisEntry(entry, index)
     const evidenceLocator = props.axisEvidence(index)?.locator
+    const fieldEvidence = getFieldEvidence(props.reviewHighlights, 'axis_list', index)
 
     if (parsed.fallback) {
       return {
@@ -141,7 +158,8 @@ const axisDetailRows = computed(() => {
         originNode: null as IsmNodeEntry | null,
         isCurrentOrigin: false,
         originDiffText: null as string | null,
-        evidenceLocator
+        evidenceLocator,
+        fieldEvidence
       }
     }
 
@@ -174,7 +192,8 @@ const axisDetailRows = computed(() => {
       originNode,
       isCurrentOrigin,
       originDiffText,
-      evidenceLocator
+      evidenceLocator,
+      fieldEvidence
     }
   })
 })

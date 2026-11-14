@@ -189,17 +189,53 @@
               </div>
 
               <div v-show="activeInfoTab === 'overview'" class="tab_panel">
+                <div class="evidence_toolbar">
+                  <label class="evidence_toggle_label">
+                    <input
+                      v-model="showEvidenceMarkers"
+                      type="checkbox"
+                      @change="saveEvidenceMarkersPreference"
+                    >
+                    <span>显示核查标记</span>
+                  </label>
+                  <details class="evidence_legend_details">
+                    <summary class="evidence_legend_summary">标记说明</summary>
+                    <div class="evidence_legend_body">
+                      <div v-for="item in evidenceLegendItems" :key="item.tone" class="evidence_legend_row">
+                        <span class="legend_tone_chip" :class="TONE_META[item.tone].className">
+                          <span aria-hidden="true">{{ TONE_META[item.tone].icon }}</span>
+                          <span>{{ item.examples }}</span>
+                        </span>
+                        <span class="evidence_legend_desc">{{ TONE_META[item.tone].description }}</span>
+                      </div>
+                      <div class="evidence_legend_footnote">
+                        无标记不代表已核原音：全站内容均未核原音；没有逐项核查记录的节点不显示标记。
+                      </div>
+                    </div>
+                  </details>
+                </div>
+
                 <AxisAnatomy
                   :code="activeIsmTag"
                   :get-node="getIsmNode"
                   :query="searchText"
                   :axis-evidence="getAxisEvidence"
+                  :review-highlights="showEvidenceMarkers ? activeEnrichment?.review_summary?.highlights : undefined"
                   @jump="jumpToNode"
                 />
 
                 <div v-if="nonEmptyFeatures.length > 0" class="feature_section">
-                  <div v-for="(feat, idx) in nonEmptyFeatures" :key="idx" class="feature_row">
-                    <b>{{ feat.slice(0, 1) }}</b><HighlightText :text="feat.slice(1)" :query="searchText" />
+                  <div v-for="feat in nonEmptyFeatures" :key="feat.originalIndex" class="feature_row">
+                    <EvidenceMarker
+                      v-if="showEvidenceMarkers && feat.evidence"
+                      :evidence="feat.evidence"
+                      :query="searchText"
+                    >
+                      <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
+                    </EvidenceMarker>
+                    <template v-else>
+                      <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
+                    </template>
                   </div>
                 </div>
 
@@ -380,8 +416,12 @@
                     >
                       <div class="card_badges">
                         <span class="mini_badge field_badge">{{ formatFieldPath(hl.field_path) }}</span>
-                        <span class="mini_badge canonical_badge">
-                          {{ CANONICAL_STATUS_LABELS[hl.canonical_status] || hl.canonical_status }}
+                        <span
+                          class="mini_badge canonical_badge"
+                          :class="getCanonicalToneMeta(hl.canonical_status).className"
+                        >
+                          <span aria-hidden="true">{{ getCanonicalToneMeta(hl.canonical_status).icon }}</span>
+                          <span>{{ CANONICAL_STATUS_LABELS[hl.canonical_status] || hl.canonical_status }}</span>
                         </span>
                         <span
                           class="mini_badge"
@@ -578,8 +618,10 @@ import HighlightText from '../../components/HighlightText.vue'
 import CourseDrawer from '../../components/CourseDrawer.vue'
 import AxisAnatomy from '../../components/AxisAnatomy.vue'
 import AxisNeighbors from '../../components/AxisNeighbors.vue'
+import EvidenceMarker from '../../components/EvidenceMarker.vue'
 import NodeBreadcrumb from '../../components/NodeBreadcrumb.vue'
 import { getAdjacentSiblingCodes, getParentCode } from '../../utils/axisStructure'
+import { CANONICAL_TONE, TONE_META, getFieldEvidence, type EvidenceTone } from '../../utils/evidence'
 import type {
   CourseBodiesMap,
   CourseRecord,
@@ -631,8 +673,16 @@ const bodiesStatus = ref<LoadStatus>('idle')
 const bodiesError = ref('')
 
 const INFO_FONT_SCALE_STORAGE_KEY = 'ismismcube.infoFontScale'
+const SHOW_EVIDENCE_MARKERS_STORAGE_KEY = 'ismismcube.showEvidenceMarkers'
 const axisColor = ["red", "green", "blue", "darkorange"]
 const ismInfoFontSize = ref(1.0)
+const showEvidenceMarkers = ref(true)
+const evidenceLegendItems: { tone: EvidenceTone; examples: string }[] = [
+  { tone: 'scoped', examples: '有限定' },
+  { tone: 'caution', examples: '部分支撑 / 附提醒' },
+  { tone: 'problem', examples: '存在抵牾 / 未能定位' },
+  { tone: 'revised', examples: '已据核查修订' }
+]
 const pageView = ref(-1)
 const onlineCount = ref(-1)
 const searchInputText = ref('')
@@ -700,8 +750,19 @@ const activeTagDigits = computed<string[]>(() => {
 })
 
 const nonEmptyFeatures = computed(() => {
-  return (activeIsmData.value?.feature_list ?? []).filter((item) => item !== '')
+  const highlights = activeEnrichment.value?.review_summary?.highlights
+  return (activeIsmData.value?.feature_list ?? [])
+    .map((text, originalIndex) => ({
+      text,
+      originalIndex,
+      evidence: getFieldEvidence(highlights, 'feature_list', originalIndex)
+    }))
+    .filter((item) => item.text !== '')
 })
+
+const getCanonicalToneMeta = (canonicalStatus: string) => {
+  return TONE_META[CANONICAL_TONE[canonicalStatus] ?? 'scoped']
+}
 
 const allParsedRelatedList = computed<ParsedRelatedEntry[]>(() => {
   return (activeIsmData.value?.related_list ?? [])
@@ -1163,6 +1224,14 @@ const jumpToNode = (code: string) => {
   router.push('/' + code)
 }
 
+const saveEvidenceMarkersPreference = () => {
+  try {
+    localStorage.setItem(SHOW_EVIDENCE_MARKERS_STORAGE_KEY, String(showEvidenceMarkers.value))
+  } catch {
+    // 忽略本地存储异常
+  }
+}
+
 const saveInfoFontScale = (scale: number) => {
   try {
     localStorage.setItem(INFO_FONT_SCALE_STORAGE_KEY, String(scale))
@@ -1399,6 +1468,16 @@ const handleWindowKeydown = (event: KeyboardEvent) => {
 onMounted(() => {
   document.documentElement.style.fontSize = Math.max(screen.width, screen.height) / 96 + "px"
   ismInfoFontSize.value = resolveInitialInfoFontSize()
+  try {
+    const saved = localStorage.getItem(SHOW_EVIDENCE_MARKERS_STORAGE_KEY)
+    if (saved === 'false' || saved === '0') {
+      showEvidenceMarkers.value = false
+    } else if (saved === 'true' || saved === '1') {
+      showEvidenceMarkers.value = true
+    }
+  } catch {
+    // 忽略本地存储异常
+  }
   window.addEventListener('keydown', handleWindowKeydown)
   initial()
 })
@@ -2613,13 +2692,112 @@ onUnmounted(() => {
 
 .mini_badge.rel_explicit {
   background-color: rgb(215, 240, 215);
-  border-color: rgb(42, 106, 42);
+  border: 1px solid rgb(24, 58, 24);
   font-weight: bold;
 }
 
 .mini_badge.rel_editorial {
   background-color: rgb(226, 228, 248);
-  border-color: rgb(65, 75, 145);
+  border: 1px dashed rgb(110, 110, 110);
+}
+
+.mini_badge.canonical_badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2em;
+}
+
+.evidence_toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3em 0.75em;
+  padding: 0.3em 0.5em;
+  background-color: rgb(214, 214, 214);
+  border: 1px solid rgb(145, 145, 145);
+  font-size: 0.84em;
+}
+
+.evidence_toggle_label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  cursor: pointer;
+  user-select: none;
+}
+
+.evidence_legend_details[open] {
+  flex-basis: 100%;
+}
+
+.evidence_legend_summary {
+  cursor: pointer;
+  user-select: none;
+  color: rgb(45, 45, 45);
+}
+
+.evidence_legend_body {
+  margin-top: 0.35em;
+  padding-top: 0.35em;
+  border-top: 1px dashed rgb(150, 150, 150);
+  display: flex;
+  flex-direction: column;
+  gap: 0.28em;
+}
+
+.evidence_legend_row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35em;
+}
+
+.legend_tone_chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2em;
+  padding: 0.04em 0.35em;
+  font-size: 0.9em;
+  border: 1px solid rgb(95, 95, 95);
+  white-space: nowrap;
+}
+
+.evidence_legend_desc {
+  color: rgb(40, 40, 40);
+}
+
+.evidence_legend_footnote {
+  margin-top: 0.12em;
+  font-size: 0.9em;
+  color: rgb(65, 65, 65);
+}
+
+.mini_badge.evidence_tone_scoped,
+.legend_tone_chip.evidence_tone_scoped {
+  color: rgb(75, 75, 75);
+  background-color: rgba(255, 255, 255, 0.55);
+  border: 1px dotted rgb(115, 115, 115);
+}
+
+.mini_badge.evidence_tone_caution,
+.legend_tone_chip.evidence_tone_caution {
+  color: #8a5a00;
+  background-color: #fff4d6;
+  border-color: #c99a3b;
+}
+
+.mini_badge.evidence_tone_problem,
+.legend_tone_chip.evidence_tone_problem {
+  color: #a00000;
+  background-color: #ffe5e5;
+  border-color: #cf6b6b;
+}
+
+.mini_badge.evidence_tone_revised,
+.legend_tone_chip.evidence_tone_revised {
+  color: #1f4f8f;
+  background-color: #e6effa;
+  border-color: #6b93c9;
 }
 
 .mini_badge.res_resolved {
