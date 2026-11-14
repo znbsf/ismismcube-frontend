@@ -186,6 +186,15 @@
                 >
                   校勘与典籍 ({{ editorialTabCount }})<span v-if="editorialHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
                 </button>
+                <button
+                  type="button"
+                  role="tab"
+                  class="info_tab_btn"
+                  :class="{ active: activeInfoTab === 'notes' }"
+                  @click="activeInfoTab = 'notes'"
+                >
+                  我的笔记<span v-if="currentHasNote" class="note_dot" title="当前节点有笔记">•</span>
+                </button>
               </div>
 
               <div v-show="activeInfoTab === 'overview'" class="tab_panel">
@@ -197,6 +206,14 @@
                       @change="saveEvidenceMarkersPreference"
                     >
                     <span>显示核查标记</span>
+                  </label>
+                  <label class="evidence_toggle_label">
+                    <input
+                      v-model="selfTestMode"
+                      type="checkbox"
+                      @change="saveSelfTestPreference"
+                    >
+                    <span>自测模式</span>
                   </label>
                   <details class="evidence_legend_details">
                     <summary class="evidence_legend_summary">标记说明</summary>
@@ -221,22 +238,35 @@
                   :query="searchText"
                   :axis-evidence="getAxisEvidence"
                   :review-highlights="showEvidenceMarkers ? activeEnrichment?.review_summary?.highlights : undefined"
+                  :self-test="selfTestMode"
                   @jump="jumpToNode"
                 />
 
                 <div v-if="nonEmptyFeatures.length > 0" class="feature_section">
-                  <div v-for="feat in nonEmptyFeatures" :key="feat.originalIndex" class="feature_row">
-                    <EvidenceMarker
-                      v-if="showEvidenceMarkers && feat.evidence"
-                      :evidence="feat.evidence"
-                      :query="searchText"
+                  <div v-if="selfTestMode && !featuresRevealed" class="self_test_prompt_box">
+                    <span class="self_test_prompt_text">先用自己的话说出这个立场的主要特征，再揭晓。</span>
+                    <button
+                      type="button"
+                      class="self_test_reveal_btn"
+                      @click="featuresRevealed = true"
                     >
-                      <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
-                    </EvidenceMarker>
-                    <template v-else>
-                      <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
-                    </template>
+                      揭晓特征
+                    </button>
                   </div>
+                  <template v-else>
+                    <div v-for="feat in nonEmptyFeatures" :key="feat.originalIndex" class="feature_row">
+                      <EvidenceMarker
+                        v-if="showEvidenceMarkers && feat.evidence"
+                        :evidence="feat.evidence"
+                        :query="searchText"
+                      >
+                        <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
+                      </EvidenceMarker>
+                      <template v-else>
+                        <b>{{ feat.text.slice(0, 1) }}</b><HighlightText :text="feat.text.slice(1)" :query="searchText" />
+                      </template>
+                    </div>
+                  </template>
                 </div>
 
                 <AxisNeighbors
@@ -487,6 +517,18 @@
                   </div>
                 </div>
               </div>
+
+              <div v-if="activeInfoTab === 'notes'" class="tab_panel">
+                <NodeNotes
+                  :code="activeIsmTag"
+                  :title="activeIsmData.ch_name"
+                  :readings="activeEnrichment?.readings ?? []"
+                  :get-title="getNodeTitle"
+                  :get-reading-title="getReadingTitle"
+                  @jump="jumpToNode"
+                  @updated="handleNotesUpdated"
+                />
+              </div>
             </template>
           </div>
         </div>
@@ -620,8 +662,10 @@ import AxisAnatomy from '../../components/AxisAnatomy.vue'
 import AxisNeighbors from '../../components/AxisNeighbors.vue'
 import EvidenceMarker from '../../components/EvidenceMarker.vue'
 import NodeBreadcrumb from '../../components/NodeBreadcrumb.vue'
+import NodeNotes from '../../components/NodeNotes.vue'
 import { getAdjacentSiblingCodes, getParentCode } from '../../utils/axisStructure'
 import { CANONICAL_TONE, TONE_META, getFieldEvidence, type EvidenceTone } from '../../utils/evidence'
+import { isNoteEmpty, loadNotes, type NotesState } from '../../utils/notesStore'
 import type {
   CourseBodiesMap,
   CourseRecord,
@@ -647,7 +691,7 @@ import {
   type ParsedRelatedEntry
 } from '../../utils/ismFormat'
 
-type InfoTabKey = 'overview' | 'courses' | 'editorial'
+type InfoTabKey = 'overview' | 'courses' | 'editorial' | 'notes'
 type DrawerCategoryKey = 'dollar_series' | 'study' | 'special' | 'all'
 type LoadStatus = 'idle' | 'loading' | 'ready' | 'error'
 
@@ -674,9 +718,13 @@ const bodiesError = ref('')
 
 const INFO_FONT_SCALE_STORAGE_KEY = 'ismismcube.infoFontScale'
 const SHOW_EVIDENCE_MARKERS_STORAGE_KEY = 'ismismcube.showEvidenceMarkers'
+const SELF_TEST_STORAGE_KEY = 'ismismcube.selfTest'
 const axisColor = ["red", "green", "blue", "darkorange"]
 const ismInfoFontSize = ref(1.0)
 const showEvidenceMarkers = ref(true)
+const selfTestMode = ref(false)
+const featuresRevealed = ref(false)
+const notesState = ref<NotesState>({ version: 1, nodes: {} })
 const evidenceLegendItems: { tone: EvidenceTone; examples: string }[] = [
   { tone: 'scoped', examples: '有限定' },
   { tone: 'caution', examples: '部分支撑 / 附提醒' },
@@ -730,11 +778,40 @@ const getIsmNode = (tag: string): IsmNodeEntry | null => {
   return entry as IsmNodeEntry
 }
 
+const getNodeTitle = (code: string): string => {
+  return getIsmNode(code)?.ch_name ?? ''
+}
+
+const readingTitleById = computed<Map<string, string>>(() => {
+  const map = new Map<string, string>()
+  for (const node of Object.values(enrichmentsData.value?.nodes ?? {})) {
+    for (const rd of node.readings) {
+      if (rd.source_id && rd.title && !map.has(rd.source_id)) map.set(rd.source_id, rd.title)
+    }
+  }
+  return map
+})
+
+const getReadingTitle = (sourceId: string): string => {
+  return readingTitleById.value.get(sourceId) ?? ''
+}
+
 const activeIsmTag = computed<string>(() => {
-  if (hoveredIsmTag.value) return hoveredIsmTag.value
+  // 笔记页打开时不随魔方悬停切换节点，避免把笔记写到预览中的其他节点
+  if (hoveredIsmTag.value && activeInfoTab.value !== 'notes') return hoveredIsmTag.value
   const param = route.params.ismTag
   return typeof param === 'string' ? param : ''
 })
+
+const currentHasNote = computed<boolean>(() => {
+  if (!activeIsmTag.value) return false
+  const note = notesState.value.nodes[activeIsmTag.value]
+  return Boolean(note && !isNoteEmpty(note))
+})
+
+const handleNotesUpdated = (nextState: NotesState) => {
+  notesState.value = nextState
+}
 
 const activeIsmData = computed<IsmNodeEntry | null>(() => {
   return activeIsmTag.value ? getIsmNode(activeIsmTag.value) : null
@@ -1232,6 +1309,14 @@ const saveEvidenceMarkersPreference = () => {
   }
 }
 
+const saveSelfTestPreference = () => {
+  try {
+    localStorage.setItem(SELF_TEST_STORAGE_KEY, String(selfTestMode.value))
+  } catch {
+    // 忽略本地存储异常
+  }
+}
+
 const saveInfoFontScale = (scale: number) => {
   try {
     localStorage.setItem(INFO_FONT_SCALE_STORAGE_KEY, String(scale))
@@ -1430,6 +1515,16 @@ watch(() => route.params.ismTag, () => {
   handleRoute()
 })
 
+watch(activeIsmTag, () => {
+  featuresRevealed.value = false
+})
+
+watch(selfTestMode, (enabled) => {
+  if (!enabled) {
+    featuresRevealed.value = false
+  }
+})
+
 const isEditableEventTarget = (target: EventTarget | null): boolean => {
   if (!(target instanceof Element)) return false
   if (target.closest('input, textarea, select')) return true
@@ -1475,9 +1570,16 @@ onMounted(() => {
     } else if (saved === 'true' || saved === '1') {
       showEvidenceMarkers.value = true
     }
+    const savedSelfTest = localStorage.getItem(SELF_TEST_STORAGE_KEY)
+    if (savedSelfTest === 'true' || savedSelfTest === '1') {
+      selfTestMode.value = true
+    } else if (savedSelfTest === 'false' || savedSelfTest === '0') {
+      selfTestMode.value = false
+    }
   } catch {
     // 忽略本地存储异常
   }
+  notesState.value = loadNotes()
   window.addEventListener('keydown', handleWindowKeydown)
   initial()
 })
@@ -2587,7 +2689,7 @@ onUnmounted(() => {
 
 .info_tabs {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 0.3em;
   width: 100%;
   margin: 0.25em 0;
@@ -2615,10 +2717,45 @@ onUnmounted(() => {
   font-weight: bold;
 }
 
-.hit_dot {
+.hit_dot,
+.note_dot {
   margin-left: 0.2em;
   color: rgb(225, 172, 39);
   font-weight: bold;
+}
+
+.self_test_prompt_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em;
+  padding: 0.38em 0.55em;
+  background-color: rgb(228, 228, 228);
+  border: 1px dashed rgb(120, 120, 120);
+  flex-wrap: wrap;
+}
+
+.self_test_prompt_text {
+  font-size: 0.9em;
+  color: rgb(50, 50, 50);
+  flex: 1;
+  min-width: 10em;
+}
+
+.self_test_reveal_btn {
+  font: inherit;
+  font-size: 0.86em;
+  padding: 0.16em 0.6em;
+  background-color: rgb(206, 232, 232);
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.self_test_reveal_btn:hover {
+  background-color: darkcyan;
+  color: white;
 }
 
 .tab_panel {

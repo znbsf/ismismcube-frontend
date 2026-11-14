@@ -23,6 +23,17 @@
     </div>
 
     <!-- B. 四格详述 -->
+    <div v-if="selfTest && axisDetailRows.length > 0" class="self_test_bar">
+      <button
+        type="button"
+        class="self_test_reveal_all_btn"
+        :disabled="allRowsRevealed"
+        @click="revealAllRows"
+      >
+        全部揭晓
+      </button>
+    </div>
+
     <div class="axis_details_list">
       <div
         v-for="row in axisDetailRows"
@@ -31,7 +42,17 @@
         :style="{ borderLeftColor: row.color }"
       >
         <template v-if="row.fallback">
-          <div class="axis_main_text">
+          <div v-if="isRowHidden(row.index)" class="self_test_prompt_box">
+            <span class="self_test_prompt_text">先想一想：在这个分支里，这一格具体指什么？</span>
+            <button
+              type="button"
+              class="self_test_reveal_btn"
+              @click="revealRow(row.index)"
+            >
+              揭晓
+            </button>
+          </div>
+          <div v-else class="axis_main_text">
             <EvidenceMarker v-if="row.fieldEvidence" :evidence="row.fieldEvidence" :query="query">
               <HighlightText :text="row.rawRest" :query="query" />
             </EvidenceMarker>
@@ -43,21 +64,33 @@
             <b :style="{ color: row.color }">{{ row.axisLabel }}</b>
             <span class="axis_digit_box"><b>{{ row.digit }}</b></span>
           </div>
-          <EvidenceMarker v-if="row.fieldEvidence" :evidence="row.fieldEvidence" :query="query">
-            <div class="axis_main_text">
-              <HighlightText :text="row.main" :query="query" />
-            </div>
-            <div v-if="row.note" class="axis_note_text">
-              <HighlightText :text="row.note" :query="query" />
-            </div>
-          </EvidenceMarker>
+          <div v-if="isRowHidden(row.index)" class="self_test_prompt_box">
+            <span class="self_test_prompt_text">先想一想：在这个分支里，{{ row.axisLabel }}{{ row.digit }} 具体指什么？</span>
+            <button
+              type="button"
+              class="self_test_reveal_btn"
+              @click="revealRow(row.index)"
+            >
+              揭晓
+            </button>
+          </div>
           <template v-else>
-            <div class="axis_main_text">
-              <HighlightText :text="row.main" :query="query" />
-            </div>
-            <div v-if="row.note" class="axis_note_text">
-              <HighlightText :text="row.note" :query="query" />
-            </div>
+            <EvidenceMarker v-if="row.fieldEvidence" :evidence="row.fieldEvidence" :query="query">
+              <div class="axis_main_text">
+                <HighlightText :text="row.main" :query="query" />
+              </div>
+              <div v-if="row.note" class="axis_note_text">
+                <HighlightText :text="row.note" :query="query" />
+              </div>
+            </EvidenceMarker>
+            <template v-else>
+              <div class="axis_main_text">
+                <HighlightText :text="row.main" :query="query" />
+              </div>
+              <div v-if="row.note" class="axis_note_text">
+                <HighlightText :text="row.note" :query="query" />
+              </div>
+            </template>
           </template>
           <div class="axis_origin_line">
             <span v-if="row.isCurrentOrigin" class="origin_new_badge">本层新增</span>
@@ -73,7 +106,7 @@
             </template>
             <span v-else>定于 {{ row.originCode }}</span>
           </div>
-          <details v-if="row.originDiffText !== null" class="origin_diff_details">
+          <details v-if="!isRowHidden(row.index) && row.originDiffText !== null" class="origin_diff_details">
             <summary class="origin_diff_summary">上层原述</summary>
             <div class="origin_diff_body">
               <HighlightText :text="row.originDiffText" :query="query" />
@@ -90,7 +123,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import type { IsmNodeEntry, NodeReviewHighlight } from '../types/research'
 import { getFieldEvidence } from '../utils/evidence'
 import { parseAxisEntry } from '../utils/ismFormat'
@@ -111,11 +144,50 @@ const props = defineProps<{
   query: string
   axisEvidence: (index: number) => { locator?: string } | null | undefined
   reviewHighlights?: NodeReviewHighlight[]
+  selfTest: boolean
 }>()
 
 const emit = defineEmits<{
   (e: 'jump', code: string): void
 }>()
+
+const revealedRows = ref<Record<number, boolean>>({})
+
+watch(
+  () => props.code,
+  () => {
+    revealedRows.value = {}
+  }
+)
+
+watch(
+  () => props.selfTest,
+  (enabled) => {
+    if (!enabled) {
+      revealedRows.value = {}
+    }
+  }
+)
+
+const isRowHidden = (index: number): boolean => {
+  return props.selfTest && !revealedRows.value[index]
+}
+
+const revealRow = (index: number) => {
+  revealedRows.value = { ...revealedRows.value, [index]: true }
+}
+
+const revealAllRows = () => {
+  const next: Record<number, boolean> = {}
+  for (const row of axisDetailRows.value) {
+    next[row.index] = true
+  }
+  revealedRows.value = next
+}
+
+const allRowsRevealed = computed(() => {
+  return axisDetailRows.value.length > 0 && axisDetailRows.value.every((row) => Boolean(revealedRows.value[row.index]))
+})
 
 const currentNode = computed<IsmNodeEntry | null>(() => {
   return props.code ? props.getNode(props.code) : null
@@ -377,5 +449,51 @@ const axisDetailRows = computed(() => {
   color: rgb(55, 55, 55);
   overflow-wrap: anywhere;
   word-break: break-word;
+}
+
+.self_test_bar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.self_test_reveal_all_btn,
+.self_test_reveal_btn {
+  font: inherit;
+  font-size: 0.86em;
+  padding: 0.16em 0.6em;
+  background-color: rgb(206, 232, 232);
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.self_test_reveal_all_btn:hover:not(:disabled),
+.self_test_reveal_btn:hover {
+  background-color: darkcyan;
+  color: white;
+}
+
+.self_test_reveal_all_btn:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.self_test_prompt_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em;
+  padding: 0.35em 0.5em;
+  background-color: rgb(232, 232, 232);
+  border: 1px dashed rgb(120, 120, 120);
+  flex-wrap: wrap;
+}
+
+.self_test_prompt_text {
+  font-size: 0.9em;
+  color: rgb(50, 50, 50);
+  flex: 1;
+  min-width: 10em;
 }
 </style>
