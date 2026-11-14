@@ -67,6 +67,19 @@ export const getSiblingCodes = (code: string, hasNode: (c: string) => boolean): 
   return siblings
 }
 
+export const getAdjacentSiblingCodes = (
+  code: string,
+  hasNode: (c: string) => boolean
+): { prev: string | null; next: string | null } => {
+  const siblings = getSiblingCodes(code, hasNode)
+  const idx = siblings.indexOf(code)
+  if (idx < 0) return { prev: null, next: null }
+  return {
+    prev: idx > 0 ? siblings[idx - 1] : null,
+    next: idx < siblings.length - 1 ? siblings[idx + 1] : null
+  }
+}
+
 export const getChildCodes = (code: string, hasNode: (c: string) => boolean): string[] => {
   if (!code) return []
   const parts = code.split('-').filter(Boolean)

@@ -125,6 +125,13 @@
                   </template>
                 </div>
 
+                <NodeBreadcrumb
+                  :code="activeIsmTag"
+                  :get-node="getIsmNode"
+                  :query="searchText"
+                  @jump="jumpToNode"
+                />
+
                 <div class="node_status_banner">
                   <span class="status_pill" :class="summaryOriginClass">
                     {{ summaryOriginLabel }}
@@ -571,6 +578,8 @@ import HighlightText from '../../components/HighlightText.vue'
 import CourseDrawer from '../../components/CourseDrawer.vue'
 import AxisAnatomy from '../../components/AxisAnatomy.vue'
 import AxisNeighbors from '../../components/AxisNeighbors.vue'
+import NodeBreadcrumb from '../../components/NodeBreadcrumb.vue'
+import { getAdjacentSiblingCodes, getParentCode } from '../../utils/axisStructure'
 import type {
   CourseBodiesMap,
   CourseRecord,
@@ -621,6 +630,7 @@ const courseBodiesMap = ref<CourseBodiesMap>({})
 const bodiesStatus = ref<LoadStatus>('idle')
 const bodiesError = ref('')
 
+const INFO_FONT_SCALE_STORAGE_KEY = 'ismismcube.infoFontScale'
 const axisColor = ["red", "green", "blue", "darkorange"]
 const ismInfoFontSize = ref(1.0)
 const pageView = ref(-1)
@@ -1153,12 +1163,43 @@ const jumpToNode = (code: string) => {
   router.push('/' + code)
 }
 
+const saveInfoFontScale = (scale: number) => {
+  try {
+    localStorage.setItem(INFO_FONT_SCALE_STORAGE_KEY, String(scale))
+  } catch {
+    // 忽略本地存储异常
+  }
+}
+
+const resolveInitialInfoFontSize = (): number => {
+  const rootPx = parseFloat(getComputedStyle(document.documentElement).fontSize)
+  const autoScale =
+    Number.isFinite(rootPx) && rootPx > 0
+      ? Math.min(1.8, Math.max(1.0, Math.round((13 / rootPx) * 10) / 10))
+      : 1.0
+
+  try {
+    const raw = localStorage.getItem(INFO_FONT_SCALE_STORAGE_KEY)
+    if (raw !== null && raw.trim() !== '') {
+      const parsed = Number(raw)
+      if (Number.isFinite(parsed) && parsed >= 0.7 && parsed <= 1.8) {
+        return parsed
+      }
+    }
+  } catch {
+    // 忽略本地存储异常
+  }
+  return autoScale
+}
+
 const increaseFontSize = () => {
   ismInfoFontSize.value = Math.min(1.8, Math.round((ismInfoFontSize.value + 0.1) * 10) / 10)
+  saveInfoFontScale(ismInfoFontSize.value)
 }
 
 const decreaseFontSize = () => {
   ismInfoFontSize.value = Math.max(0.7, Math.round((ismInfoFontSize.value - 0.1) * 10) / 10)
+  saveInfoFontScale(ismInfoFontSize.value)
 }
 
 const openMoreContent = () => {
@@ -1320,13 +1361,50 @@ watch(() => route.params.ismTag, () => {
   handleRoute()
 })
 
+const isEditableEventTarget = (target: EventTarget | null): boolean => {
+  if (!(target instanceof Element)) return false
+  if (target.closest('input, textarea, select')) return true
+  if (target instanceof HTMLElement && target.isContentEditable) return true
+  const ce = target.closest('[contenteditable]')
+  return Boolean(ce && ce.getAttribute('contenteditable') !== 'false')
+}
+
+const handleWindowKeydown = (event: KeyboardEvent) => {
+  if (event.ctrlKey || event.metaKey || event.altKey) return
+  if (event.defaultPrevented) return
+  if (isEditableEventTarget(event.target)) return
+  if (courseDrawerOpen.value) return
+
+  const routeCode = typeof route.params.ismTag === 'string' ? route.params.ismTag : ''
+  if (!routeCode || !canJumpToNode(routeCode)) return
+
+  let targetCode: string | null = null
+  if (event.key === '[') {
+    targetCode = getAdjacentSiblingCodes(routeCode, canJumpToNode).prev
+  } else if (event.key === ']') {
+    targetCode = getAdjacentSiblingCodes(routeCode, canJumpToNode).next
+  } else if (event.key === 'u' || event.key === 'U') {
+    const parent = getParentCode(routeCode)
+    targetCode = parent && canJumpToNode(parent) ? parent : null
+  } else {
+    return
+  }
+
+  if (!targetCode) return
+  jumpToNode(targetCode)
+  event.preventDefault()
+}
+
 // 生命周期
 onMounted(() => {
   document.documentElement.style.fontSize = Math.max(screen.width, screen.height) / 96 + "px"
+  ismInfoFontSize.value = resolveInitialInfoFontSize()
+  window.addEventListener('keydown', handleWindowKeydown)
   initial()
 })
 
 onUnmounted(() => {
+  window.removeEventListener('keydown', handleWindowKeydown)
   if (searchDebounceTimer !== null) {
     window.clearTimeout(searchDebounceTimer)
     searchDebounceTimer = null
