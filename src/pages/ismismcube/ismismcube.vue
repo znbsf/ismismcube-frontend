@@ -182,27 +182,26 @@
               </div>
 
               <div v-show="activeInfoTab === 'overview'" class="tab_panel">
-                <div class="axis_section">
-                  <div v-for="(axisItem, idx) in parsedAxisList" :key="idx" class="axis_row">
-                    <template v-if="!axisItem.fallback">
-                      <b :style="{ color: axisItem.color }">{{ axisItem.axisLabel }}</b>
-                      <span class="axis_digit_box"><b>{{ axisItem.digit }}</b></span>
-                      <HighlightText :text="axisItem.rest" :query="searchText" />
-                    </template>
-                    <template v-else>
-                      <HighlightText :text="axisItem.rest" :query="searchText" />
-                    </template>
-                    <div v-if="getAxisEvidence(idx)" class="axis_evidence_chip">
-                      讲稿定位：{{ getAxisEvidence(idx)?.locator }}
-                    </div>
-                  </div>
-                </div>
+                <AxisAnatomy
+                  :code="activeIsmTag"
+                  :get-node="getIsmNode"
+                  :query="searchText"
+                  :axis-evidence="getAxisEvidence"
+                  @jump="jumpToNode"
+                />
 
                 <div v-if="nonEmptyFeatures.length > 0" class="feature_section">
                   <div v-for="(feat, idx) in nonEmptyFeatures" :key="idx" class="feature_row">
                     <b>{{ feat.slice(0, 1) }}</b><HighlightText :text="feat.slice(1)" :query="searchText" />
                   </div>
                 </div>
+
+                <AxisNeighbors
+                  :code="activeIsmTag"
+                  :get-node="getIsmNode"
+                  :query="searchText"
+                  @jump="jumpToNode"
+                />
 
                 <div v-if="coreRelatedList.length > 0" class="core_related_section">
                   <div v-for="(rel, idx) in coreRelatedList" :key="idx" class="related_row">
@@ -570,6 +569,8 @@ import { buildStaticUrl } from '../../config/static.ts'
 import { buildApiUrl } from '../../config/api.ts'
 import HighlightText from '../../components/HighlightText.vue'
 import CourseDrawer from '../../components/CourseDrawer.vue'
+import AxisAnatomy from '../../components/AxisAnatomy.vue'
+import AxisNeighbors from '../../components/AxisNeighbors.vue'
 import type {
   CourseBodiesMap,
   CourseRecord,
@@ -591,7 +592,6 @@ import {
   matchesEditorialContent,
   matchesOverviewContent,
   nodeMatchesQuery,
-  parseAxisEntry,
   parseRelatedEntry,
   type ParsedRelatedEntry
 } from '../../utils/ismFormat'
@@ -687,11 +687,6 @@ const activeEnrichment = computed<NodeEnrichment | null>(() => {
 
 const activeTagDigits = computed<string[]>(() => {
   return activeIsmTag.value ? activeIsmTag.value.split('-') : []
-})
-
-const parsedAxisList = computed(() => {
-  const list = activeIsmData.value?.axis_list ?? []
-  return list.map((entry, idx) => parseAxisEntry(entry, idx))
 })
 
 const nonEmptyFeatures = computed(() => {
@@ -2479,30 +2474,11 @@ onUnmounted(() => {
   font-size: 0.94em;
 }
 
-.axis_section,
 .feature_section,
 .core_related_section {
   display: flex;
   flex-direction: column;
   gap: 0.35em;
-}
-
-.axis_digit_box {
-  display: inline-block;
-  text-align: center;
-  width: 1.15em;
-  height: 1.15em;
-  line-height: 1.15em;
-  margin: 0 0.15em;
-  border: solid black 0.1em;
-}
-
-.axis_evidence_chip {
-  margin-top: 0.12em;
-  padding-left: 0.5em;
-  border-left: 2px solid rgb(120, 120, 120);
-  font-size: 0.78em;
-  color: rgb(55, 55, 55);
 }
 
 .core_related_section {
