@@ -17,6 +17,7 @@
 核读导言及§1.1开头；是学术综述，不是科学实在论者的单一本人著作。
 
 - [1-1 科学实在论](READING-GUIDE.md#11)（编者关联）：导言及§1.1开头。。了解科学实在论在学术讨论中对可观察和不可观察对象所持的认识论态度，用以辨别课程同名标签的特殊用法。
+- [1-4-1-1 和平主义](READING-GUIDE.md#1411)（编者关联）：Introduction；§1.1 Epistemic Achievements versus Epistemic Aims 开头。。该分支把暴力归约为自然物理过程与客观秩序，附 SEP Scientific Realism 导言对照实在论基础设定。
 
 ## Physicalism
 
@@ -34,6 +35,33 @@
 
 - [1-1-1 物理主义](READING-GUIDE.md#111)（编者关联）：导言及§1.1 Terminology。。区分纽拉特、卡尔纳普时代的物理语言论题与当代物理主义；检验“模型就是世界”是否足以概括这些不同立场。
 
+## 新工具 / Novum Organum
+
+[公开阅读入口](https://www.gutenberg.org/files/45988/45988-h/45988-h.htm)
+
+作者：Francis Bacon。
+
+来源类型：primary_text_translation。
+
+版本：Joseph Devey编辑的英语版，Project Gutenberg 45988。
+
+实际核读开篇知识/能力、辅助工具、经验和逻辑，以及四偶像段；未通读Book II，未核硫汞四元表的原著出处。
+
+- [1-1-1-1 科学独断论](READING-GUIDE.md#1111)（编者关联）：Book I §§I–XIII、XLI–XLVI。讲稿明确辨析“知识就是力量”原旨与后世科学独断误读（未直接引《新工具》条号），附《新工具》相关节选供编者对照。
+- [2-3-4-1 数理还原主义](READING-GUIDE.md#2341)（编者关联）：Book I §§I–III、IX–X。以同时代另一方法论讨论工具对手和理解力的帮助，比较课程把实验器具视为透明中介的说法。
+- [2-3-4-3 实体归纳主义](READING-GUIDE.md#2343)（编者关联）：Book I §§I–XIII、XLI–XLVI。核对知识与能力、辅助工具及四偶像，区分归纳方法与本讲魔法力量的解释。
+
+## Michel Foucault — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/foucault/)
+
+来源类型：scholarly_reference。
+
+核读方法概述，考古学与谱系学作为历史批判方法的区别及主要著作介绍。
+
+- [1-1-1-1 科学独断论](READING-GUIDE.md#1111)（编者关联）：§2结尾及§3开头。讲稿在反思培根主义时点名以福柯知识权力谱系为真正对立面，附 SEP Michel Foucault 条目作学术入口。
+- [3-4-1-4 陈述性的话语主义](READING-GUIDE.md#3414)（编者关联）：§2结尾及§3开头。讲稿评价福柯话语/陈述体系及考古学定位，附 SEP Michel Foucault 条目。
+
 ## 物种起源：第四章 自然选择
 
 [公开阅读入口](https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)/Chapter_IV)
@@ -49,6 +77,7 @@
 核读第四章开头及自然选择定义段；未通读全章，未用1859年文本替代现代演化生物学。
 
 - [1-1-1-2 有机进化论](READING-GUIDE.md#1112)（编者关联）：第四章自然选择开头定义及变异段落。。将有利变异在生存与繁殖中的保存，与课程所说从粒子到人的等级序列分开，先看达尔文实际论证的机制。
+- [1-1-3-2 自由进化论](READING-GUIDE.md#1132)（编者关联）：Chapter IV, Natural Selection，开头变异、遗传、生存与繁殖优势的论证。。讲稿围绕自由进化论/模因进化论展开并借用道金斯《自私的基因》比喻（未直接点名达尔文），附《物种起源》第四章“自然选择”作源流对照。
 
 ## Thomas Kuhn
 
@@ -65,6 +94,35 @@
 核读§2开头；作为进入《科学革命的结构》的学术导读，未通读库恩原著。
 
 - [1-1-2-2 科学革命论](READING-GUIDE.md#1122)（编者关联）：§2 The Development of Science 开头。。从常规科学的解谜和革命阶段理解科学变化，避免把范式只当作任意可换的个人观点。
+- [1-1-2-3 文化本体论](READING-GUIDE.md#1123)（编者关联）：§2 The Development of Science 开头：常规研究、解谜和革命性阶段。。讲稿明确提及库恩以历史性与范式机制消解科学的思路，附 SEP Thomas Kuhn 条目对照。
+
+## 计算机器与智能 / Computing Machinery and Intelligence
+
+[公开阅读入口](https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf)
+
+作者：Alan M. Turing。
+
+来源类型：primary_text。
+
+版本：Mind 59(236),1950,pp.433–460；多伦多大学托管期刊扫描件，元数据与Oxford期刊页面相符。。
+
+译者：未核实。
+
+实际核读第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文；不代表通读整部著作或确认课程引用。
+
+- [1-1-3-1 功能主义](READING-GUIDE.md#1131)（编者关联）：第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文。讲稿明确提及图灵与图灵机计算模型，附 Turing 1950 经典论文节选作功能主义人工智能背景对照（正文未直接引该论文页码）。
+- [4-4-2-1 永生](READING-GUIDE.md#4421)（编者关联）：第6节(4)，pp.445–447。对读外在表现与第一人称意识问题，区分测试思维能力和证明内在体验。
+- [4-4-4-1 教育](READING-GUIDE.md#4441)（编者关联）：第1–2节及第6节(4)，pp.433–435、445–447。区分能力判别、主观体验和共同体认同；原论文不提供课程AI教育模型。
+
+## Functionalism — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/functionalism/)
+
+来源类型：scholarly_reference。
+
+阅读导言和第1节；用于术语与学术语境对照，不用来判定课程忠实性。
+
+- [1-1-3-1 功能主义](READING-GUIDE.md#1131)（编者关联）：§1 What is Functionalism?：mental states, causal roles, multiple realization。讲稿以早期普特南功能主义代表该节点，附 SEP Functionalism 综述对照当代心灵哲学定义。
 
 ## 行为主义者眼中的心理学 / Psychology as the Behaviorist Views it
 
@@ -81,6 +139,7 @@
 核对原刊书目并核读开头三段；网页维护者 Christopher D. Green 不是文章作者。
 
 - [1-1-4 行为主义](READING-GUIDE.md#114)（编者关联）：正文开头三段。。核对华生关于客观实验、预测与控制、内省和动物研究的纲领，再区分研究方法与课程给出的政治评价。
+- [1-1-4-1 操作行为主义](READING-GUIDE.md#1141)（编者关联）：开头三段：心理学目标、内省法、动物与人类研究的关系。。节点为操作行为主义分支（承接 1-1-4 华生经典行为主义脉络），附华生宣言作学术起点对照。
 
 ## 心灵、自我与社会：第18节 自我与有机体
 
@@ -97,6 +156,166 @@
 核读网页开头、原书页标135–136附近论述；这是编订出版的讲授材料，非作者亲自定稿的完整专著；未通读本节。
 
 - [1-1-4-4 社会行为主义](READING-GUIDE.md#1144)（编者关联）：第18节开头，原书页标135–136附近。。理解自我如何在社会经验中发展，以及能成为自身对象何以不同于生理有机体。
+
+## 民主主义与教育：第十一章 经验与思维
+
+[公开阅读入口](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11)
+
+作者：John Dewey。
+
+来源类型：primary_text。
+
+版本：Standard Ebooks 英文网页版；此章页未核原刊版权页。。
+
+译者：未核实。
+
+核读尝试、承受后果及学习联系的开头论述；未通读全章。
+
+- [1-1-4-4 社会行为主义](READING-GUIDE.md#1144)（编者关联）：Chapter XI, I, The Nature of Experience，开头三个段落。。讲稿明确提及米德与同时代实用主义者杜威的思想语境，附《民主主义与教育》第11章对照经验与行动观。
+- [2-4-4 实用主义](READING-GUIDE.md#244)（编者关联）：第十一章第一节开头三段。。从行动、承受后果与联系形成说明经验，理解杜威为何反对把学习者当成旁观者。
+
+## 资本论 第一卷 第一章：商品
+
+[公开阅读入口](https://www.marxists.org/chinese/marx/capital/01.htm)
+
+作者：卡尔·马克思。
+
+来源类型：primary_text_translation。
+
+版本：中文马克思主义文库《资本论》第一卷网页版；具体纸本版次未核对。。
+
+译者：未核实。
+
+核读使用价值与价值的开头区分、第4节劳动社会性质以物的属性出现的论述；未通读本章及全卷，未核对版次间差异。
+
+- [1-2-2-3 拜物教](READING-GUIDE.md#1223)（课程明确提及）：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿明确点出马克思的“商品拜物教/资本拜物教”概念，附《资本论》第一卷第一章第4节相关段落对照。
+- [1-2-3 唯灵论](READING-GUIDE.md#123)（课程明确提及）：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿明确援引马克思“商品和劳动二重性”，附《资本论》第一卷第一章相关节选对照具体值质区分。
+- [3-4-4-4 针对资本主义的精神分析](READING-GUIDE.md#3444)（课程明确提及）：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿开篇明确列出《资本论》（晚期马克思）为代表脉络起点，附《资本论》第一卷第一章选段对照。
+- [4-1-1 资本主义史研究](READING-GUIDE.md#411)（编者关联）：第一章第4节开头。。分析商品形式中的社会关系，为研究资本主义的历史特殊性提供概念起点；本节本身不是一部资本主义编年史。
+- [4-1-1-1 经济学哲学批判](READING-GUIDE.md#4111)（编者关联）：第一章第1节开头与第4节开头。。对照使用价值、价值与商品拜物教，考察社会关系为什么表现为物的属性；可与早期异化论比较，但不能直接认定二者同义。
+- [BV1jb4y1n7jt 复习：从虚假的体系走向真正的体系 【主义主义】复习课：从虚假的体系走向真正的体系](COURSE-READINGS.md#BV1jb4y1n7jt)（编者关联）：第一卷第一章第1节使用价值与价值的开头区分；第4节商品拜物教开头。本课L21–29、L85–92要求把逻辑研究推进到资本范畴与现实社会关系；以已核商品章局部作为对读入口。具体章节由编辑选择，不能说讲者在本课逐节引用了它。
+
+## 论基督徒的自由 / Concerning Christian Liberty
+
+[公开阅读入口](https://www.gutenberg.org/files/1911/1911-h/1911-h.htm)
+
+作者：Martin Luther。
+
+来源类型：primary_text_translation。
+
+实际核读正文开头至因信称义说明，并核读末尾反对借自由放纵的段落；未通读附信及全篇。
+
+- [1-2-4-1 作为信仰的命定论](READING-GUIDE.md#1241)（编者关联）：正文起首，自由主人/服役者二命题、内外人、圣言与因信称义。讲稿在讨论神学宿命论与宗教改革动员时明确提及马丁·路德（未直接引此文），附《论基督徒的自由》节选作背景对照。
+- [2-3-2-3 超越的内在论](READING-GUIDE.md#2323)（编者关联）：正文起首至因信称义；末尾反对放纵段。把属灵自由、服事他人和因信称义连读，避免把拒绝功德兑换救赎误读成不要任何善行。
+
+## Friedrich Nietzsche — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/nietzsche/)
+
+来源类型：scholarly_reference。
+
+核读生平与著作段：查拉图斯特拉1883–1885、1889年精神崩溃、《权力意志》遗稿编纂问题；未核读永恒轮回全部解释。
+
+- [1-2-4-2 救世主义](READING-GUIDE.md#1242)（编者关联）：§1 Life and Works。讲稿标题与正文直接讨论尼采（《瞧！这个人》等脉络），附 SEP 尼采条目对照生平与著作背景。
+- [3-3 生存论](READING-GUIDE.md#33)（编者关联）：§1 Life and Works。生存论总论讨论尼采与生存论哲学家的理论代价，附 SEP Friedrich Nietzsche 条目。
+- [3-3-2-3 神-人伦理学](READING-GUIDE.md#3323)（编者关联）：§1 Life and Works。讲稿副题与正文以别尔嘉耶夫对照尼采《查拉图斯特拉如是说》，附 SEP 尼采条目。
+- [3-3-3 同一生存论](READING-GUIDE.md#333)（编者关联）：§1 Life and Works。讲稿开篇直接讲解“尼采理论的三位一体”与时间/永恒轮回问题，附 SEP 尼采条目。
+- [3-3-3-3 共同体的生存论](READING-GUIDE.md#3333)（编者关联）：§1 Life and Works。讲稿引用尼采《快乐的科学》《查拉图斯特拉如是说》《善恶的彼岸》讨论永恒轮回，附 SEP 条目。
+
+## 理想国：第七卷 / Republic, Book VII
+
+[公开阅读入口](https://classics.mit.edu/Plato/republic.8.vii.html)
+
+作者：Plato。
+
+来源类型：primary_text_translation。
+
+版本：MIT Internet Classics Archive，Jowett 英译；具体纸本版次未核。。
+
+译者：Benjamin Jowett。
+
+核读第七卷开头的洞穴比喻及教育造成的痛苦过渡；未据此概括全书政治制度。
+
+- [1-3-2-3 现代新柏拉图主义](READING-GUIDE.md#1323)（编者关联）：Book VII 开头洞穴比喻：锁链、影像、转身与走向光亮。。讲稿围绕“现代新柏拉图主义”讨论爱情与理念论预设，附《理想国》第七卷洞穴比喻英译节选作哲学史对照。
+- [2-1-2-2 理念实在论/理想现实主义](READING-GUIDE.md#2122)（编者关联）：第七卷开头洞穴比喻。。追踪影像、转身、痛苦与逐渐适应的教育过程，区分比喻中的认识转变与对整套政治制度的评价。
+
+## 纯粹理性批判 / The Critique of Pure Reason
+
+[公开阅读入口](https://www.gutenberg.org/ebooks/4280)
+
+作者：Immanuel Kant。
+
+来源类型：primary_text_translation。
+
+译者：J. M. D. Meiklejohn。
+
+书目页确认作者、译者和语种，正文页核对目录及序言节选；未通读，未核对中译本页码。站点自动摘要未作为理论证据。
+
+- [1-3-3-2 道德严酷主义](READING-GUIDE.md#1332)（编者关联）：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。讲稿副题及正文讨论康德道德与先验哲学预设，附《纯粹理性批判》英译目录及先验要素论入口。
+- [3-2 德国观念论](READING-GUIDE.md#32)（编者关联）：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。德国观念论总论追溯从康德起步的问题史，附《纯粹理性批判》英译本目录与先验分析论选段。
+- [3-2-1 批判哲学](READING-GUIDE.md#321)（课程明确提及）：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。讲稿专题梳理康德《纯粹理性批判》“以判断为枢纽”的先验哲学计划，附原典英译目录与要素论选段。
+
+## Kant’s Transcendental Idealism
+
+[公开阅读入口](https://plato.stanford.edu/entries/kant-transcendental-idealism/)
+
+作者：Nicholas F. Stang。
+
+来源类型：scholarly_reference。
+
+核对导言、第一节开头及解释分歧目录；不是原典，不代表解释争论已有定论。
+
+- [1-3-3-2 道德严酷主义](READING-GUIDE.md#1332)（编者关联）：Introduction；1. Appearances and Things in Themselves。对照康德先验哲学的学界解释争论，附 SEP Kant’s Transcendental Idealism 学术综述。
+- [3-2 德国观念论](READING-GUIDE.md#32)（编者关联）：Introduction；1. Appearances and Things in Themselves。对照德国观念论所继承与批判的康德先验观念论架构，附 SEP Kant’s Transcendental Idealism 导读。
+- [3-2-1 批判哲学](READING-GUIDE.md#321)（编者关联）：Introduction；1. Appearances and Things in Themselves。附 SEP Kant’s Transcendental Idealism 供核对“表象/物自体”在学界解释上的分歧。
+
+## 作为意志和表象的世界 / The World as Will and Idea, Vol. 1
+
+[公开阅读入口](https://www.gutenberg.org/files/38427/38427-h/38427-h.html)
+
+作者：Arthur Schopenhauer。
+
+来源类型：primary_text_translation。
+
+实际核读两节所列开头段；未通读全书、未以此宣布课程整套批评错误。
+
+- [1-3-3-4 厌女虚无主义](READING-GUIDE.md#1334)（课程明确提及）：第四篇§67开头至友谊讨论；§71开头至否定意志的认识界限。讲稿明确围绕“叔本华的唯意志主义”讨论表象与意志命题（0059 讲亦直接点出《作为意志和表象的世界》书名），附卷一第四篇节选对照。
+- [2-3-3-4 分隔的整体主义](READING-GUIDE.md#2334)（编者关联）：第四篇§67、§71开头。将同情与否定意志、相对的无并读，比较课程为何提出取消责任的批评；原著的道德主张不能由该批评直接取代。
+
+## 道德经（王弼注本）
+
+[公开阅读入口](https://zh.wikisource.org/zh-hant/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC))
+
+作者：传统署名老子；王弼注。
+
+来源类型：primary_text。
+
+版本：维基文库页面题为王弼本，并标“华亭张氏原本”；本次未作版本谱系与校勘核验。。
+
+译者：未核实。
+
+核读两章所列段落，区分经文与王弼注文；中国哲学书电子化计划返回访问限制，未绕过，改用此公开转录。
+
+- [1-4-1-3 缄默主义](READING-GUIDE.md#1413)（课程明确提及）：第三十七章经文及逐句王弼注；辅读第二章无为与不居功段。。讲稿明确谈及老子、《道德经》观念与无为取向，附王弼注本《道德经》节选对照经文与注疏。
+- [2-2-2-1 无为主义](READING-GUIDE.md#2221)（编者关联）：第三十七章；第二章无为、不居功段。。将无为、自化与不争的表达放回经文，并观察王弼怎样解释；能帮助检验课程赋予“承载”一词的额外论证。
+
+## 范畴篇 / Categories
+
+[公开阅读入口](https://classics.mit.edu/Aristotle/categories.1.1.html)
+
+作者：Aristotle。
+
+来源类型：primary_text_translation。
+
+版本：MIT Internet Classics Archive，E. M. Edghill 英译；纸本版次未核。。
+
+译者：E. M. Edghill。
+
+核读 Part 4 全段与 Part 5 开头；不把此处实体分类与《形而上学》全部论证视为同一。
+
+- [1-4-1-4 蒙昧主义](READING-GUIDE.md#1414)（课程明确提及）：Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。。讲稿明确点名亚里士多德《范畴篇》及其两种本体论/实体区分，附《范畴篇》第4–5节选读对照。
+- [1-4-3-2 心理正常主义](READING-GUIDE.md#1432)（课程明确提及）：Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。。讲稿明确追溯痛苦体验至亚里士多德《范畴篇》中的“承受(passion)”范畴，附《范畴篇》第4节对照。
+- [2-1-2-3 范畴实在论/绝对现实主义](READING-GUIDE.md#2123)（编者关联）：Parts 4–5：类别列表与两种实体。。用第一实体和第二实体的层级检验课程对个体、种属和理念的解释，避免把亚里士多德简单写成柏拉图的复述。
 
 ## 亚里士多德《形而上学》第一卷（W. D. Ross英译）
 
@@ -137,38 +356,6 @@
 - [2-1-2-1 伦理智性主义](READING-GUIDE.md#2121)（编者关联）：神谕后检验政治家智慧的段落。。从苏格拉底检验自以为知者的过程理解其自我限度与提问方式，而不把认识无知等同于拒绝知识。
 - [2-1-2-1 伦理智性主义](READING-GUIDE.md#2121)（编者关联）：神示段31c–32e；MIT Jowett网页L132–139。对读神示的禁止性声音和苏格拉底拒绝不义命令的自述，区分古代文本与讲者追溯解释。
 
-## 理想国：第七卷 / Republic, Book VII
-
-[公开阅读入口](https://classics.mit.edu/Plato/republic.8.vii.html)
-
-作者：Plato。
-
-来源类型：primary_text_translation。
-
-版本：MIT Internet Classics Archive，Jowett 英译；具体纸本版次未核。。
-
-译者：Benjamin Jowett。
-
-核读第七卷开头的洞穴比喻及教育造成的痛苦过渡；未据此概括全书政治制度。
-
-- [2-1-2-2 理念实在论/理想现实主义](READING-GUIDE.md#2122)（编者关联）：第七卷开头洞穴比喻。。追踪影像、转身、痛苦与逐渐适应的教育过程，区分比喻中的认识转变与对整套政治制度的评价。
-
-## 范畴篇 / Categories
-
-[公开阅读入口](https://classics.mit.edu/Aristotle/categories.1.1.html)
-
-作者：Aristotle。
-
-来源类型：primary_text_translation。
-
-版本：MIT Internet Classics Archive，E. M. Edghill 英译；纸本版次未核。。
-
-译者：E. M. Edghill。
-
-核读 Part 4 全段与 Part 5 开头；不把此处实体分类与《形而上学》全部论证视为同一。
-
-- [2-1-2-3 范畴实在论/绝对现实主义](READING-GUIDE.md#2123)（编者关联）：Parts 4–5：类别列表与两种实体。。用第一实体和第二实体的层级检验课程对个体、种属和理念的解释，避免把亚里士多德简单写成柏拉图的复述。
-
 ## 致美诺伊克斯的信 / Letter to Menoeceus
 
 [公开阅读入口](https://classics.mit.edu/Epicurus/menoec.html)
@@ -195,22 +382,6 @@
 实际核读网页L186–208、L421–431：尺度说、冷风例和代拟辩护。柏拉图对话中的转述，不是普罗泰戈拉原著全文。
 
 - [2-1-4 绝对主义](READING-GUIDE.md#214)（编者关联）：151e–152b，166d–168c。对读尺度说及感知差异，也读苏格拉底代拟的普罗泰戈拉辩护，辨认课程“绝对主义”重释。
-
-## 道德经（王弼注本）
-
-[公开阅读入口](https://zh.wikisource.org/zh-hant/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC))
-
-作者：传统署名老子；王弼注。
-
-来源类型：primary_text。
-
-版本：维基文库页面题为王弼本，并标“华亭张氏原本”；本次未作版本谱系与校勘核验。。
-
-译者：未核实。
-
-核读两章所列段落，区分经文与王弼注文；中国哲学书电子化计划返回访问限制，未绕过，改用此公开转录。
-
-- [2-2-2-1 无为主义](READING-GUIDE.md#2221)（编者关联）：第三十七章；第二章无为、不居功段。。将无为、自化与不争的表达放回经文，并观察王弼怎样解释；能帮助检验课程赋予“承载”一词的额外论证。
 
 ## 《庄子·大宗师》
 
@@ -321,18 +492,6 @@
 - [2-3-1-2 运动的静止主义](READING-GUIDE.md#2312)（编者关联）：第一卷第9–10章。对照哥白尼仍保留太阳附近中心的秩序，理解布鲁诺无限世界命题究竟增加了什么。
 - [2-3-4 宇宙平等主义](READING-GUIDE.md#234)（编者关联）：第一卷第9–10章；Osiander前言。区分1543年日心模型与后来的无中心哲学解释，并辨认计算假说前言的作者。
 
-## 论基督徒的自由 / Concerning Christian Liberty
-
-[公开阅读入口](https://www.gutenberg.org/files/1911/1911-h/1911-h.htm)
-
-作者：Martin Luther。
-
-来源类型：primary_text_translation。
-
-实际核读正文开头至因信称义说明，并核读末尾反对借自由放纵的段落；未通读附信及全篇。
-
-- [2-3-2-3 超越的内在论](READING-GUIDE.md#2323)（编者关联）：正文起首至因信称义；末尾反对放纵段。把属灵自由、服事他人和因信称义连读，避免把拒绝功德兑换救赎误读成不要任何善行。
-
 ## 单子论 / Monadology
 
 [公开阅读入口](https://people.math.harvard.edu/~knill/various/monadology/index.html)
@@ -378,33 +537,6 @@
 
 - [2-3-3-3 逻辑原子主义/逻辑形而上学](READING-GUIDE.md#2333)（编者关联）：Chapter V开头：acquaintance与description；memory/introspection段。直接读罗素如何区分感官材料的亲知与对象描述，再检查课程把语言、经验材料和逻辑算子放在一起的概括。
 
-## 作为意志和表象的世界 / The World as Will and Idea, Vol. 1
-
-[公开阅读入口](https://www.gutenberg.org/files/38427/38427-h/38427-h.html)
-
-作者：Arthur Schopenhauer。
-
-来源类型：primary_text_translation。
-
-实际核读两节所列开头段；未通读全书、未以此宣布课程整套批评错误。
-
-- [2-3-3-4 分隔的整体主义](READING-GUIDE.md#2334)（编者关联）：第四篇§67、§71开头。将同情与否定意志、相对的无并读，比较课程为何提出取消责任的批评；原著的道德主张不能由该批评直接取代。
-
-## 新工具 / Novum Organum
-
-[公开阅读入口](https://www.gutenberg.org/files/45988/45988-h/45988-h.htm)
-
-作者：Francis Bacon。
-
-来源类型：primary_text_translation。
-
-版本：Joseph Devey编辑的英语版，Project Gutenberg 45988。
-
-实际核读开篇知识/能力、辅助工具、经验和逻辑，以及四偶像段；未通读Book II，未核硫汞四元表的原著出处。
-
-- [2-3-4-1 数理还原主义](READING-GUIDE.md#2341)（编者关联）：Book I §§I–III、IX–X。以同时代另一方法论讨论工具对手和理解力的帮助，比较课程把实验器具视为透明中介的说法。
-- [2-3-4-3 实体归纳主义](READING-GUIDE.md#2343)（编者关联）：Book I §§I–XIII、XLI–XLVI。核对知识与能力、辅助工具及四偶像，区分归纳方法与本讲魔法力量的解释。
-
 ## Stephen D. Snobelen：2060日期说明及牛顿手稿摘引
 
 [公开阅读入口](https://isaac-newton.org/statement-on-the-date-2060/)
@@ -433,6 +565,7 @@
 
 - [2-4 反形而上学](READING-GUIDE.md#24)（编者关联）：Ideology Interpellates Individuals as Subjects，尤其中的警察招呼例及自由主体/服从的双义；Thesis II的机构与实践段。对照主体为何会自认自由却实践服从，并保留物质机构和仪式层面，避免把意识形态只当成语言观念。
 - [3-2-4-4 意识形态学/意识形态术](READING-GUIDE.md#3244)（编者关联）：Thesis II（意识形态的物质存在）；Ideology Interpellates Individuals as Subjects。。把意识形态放回制度装置、实践与仪式，并理解询唤如何构成主体，避免只用“头脑中的虚假观念”解释。
+- [3-4-2 后结构主义](READING-GUIDE.md#342)（编者关联）：论意识形态物质存在的 Thesis II；Ideology Interpellates Individuals as Subjects。。配合 3-4-2 讨论，附阿尔都塞《意识形态与意识形态国家机器》英译选段对照物质存在与询唤论题。
 
 ## 利维坦：第十三章 人类的自然状态
 
@@ -540,22 +673,6 @@
 
 - [2-4-2-2 社会实证主义/社会学的实证主义](READING-GUIDE.md#2422)（编者关联）：第一章全篇，尤其外部强制、统计方法和结尾定义。对照社会事实的外在性、独立性与统计方法；统计作为识别手段不等于对象只是统计虚构。
 
-## 民主主义与教育：第十一章 经验与思维
-
-[公开阅读入口](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11)
-
-作者：John Dewey。
-
-来源类型：primary_text。
-
-版本：Standard Ebooks 英文网页版；此章页未核原刊版权页。。
-
-译者：未核实。
-
-核读尝试、承受后果及学习联系的开头论述；未通读全章。
-
-- [2-4-4 实用主义](READING-GUIDE.md#244)（编者关联）：第十一章第一节开头三段。。从行动、承受后果与联系形成说明经验，理解杜威为何反对把学习者当成旁观者。
-
 ## Edmund Husserl
 
 [公开阅读入口](https://plato.stanford.edu/entries/husserl/)
@@ -573,6 +690,65 @@
 - [3-1 现象学](READING-GUIDE.md#31)（编者关联）：§2意向性及意向充实；§3相关性研究。。先区分意向行为与对象的给予方式，为课程现象学总论提供概念对照。
 - [3-1-1 先验现象学](READING-GUIDE.md#311)（编者关联）：§3自然态度、epoché与还原段落。。说明悬置针对未审查的有效性接受，而不是把世界删除或宣布其不存在。
 - [3-1-1-1 先验直觉主义](READING-GUIDE.md#3111)（编者关联）：§2意向充实、明证性与principle of all principles段落。。用意指与直观充实的差别理解明证性，并保留给予界限，避免把直观理解为任意确信。
+- [3-1-1-2 先验本质主义](READING-GUIDE.md#3112)（编者关联）：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿直接讨论胡塞尔《观念一》与先验本质主义，附 SEP Edmund Husserl 条目作学术入口。
+- [3-1-1-3 反思性的主观主义](READING-GUIDE.md#3113)（编者关联）：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿以胡塞尔《观念二》/主体间性构造为主线区分先验与庸俗唯我论，附 SEP 胡塞尔条目。
+- [3-1-1-4 准先验辩证主义](READING-GUIDE.md#3114)（编者关联）：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿讲述青年德里达如何接续与改写胡塞尔先验现象学遗产，附 SEP 胡塞尔条目供背景对照。
+- [3-1-2-1 媒介性的客观主义](READING-GUIDE.md#3121)（编者关联）：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿明确论述现象学还原与生活世界连续体验之起源，附 SEP 胡塞尔条目对照相关概念。
+- [3-1-4-2 性化的现象学](READING-GUIDE.md#3142)（编者关联）：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿主标题与正文以萨特直接对照胡塞尔现象学视角，附 SEP Edmund Husserl 条目。
+
+## Martin Heidegger
+
+[公开阅读入口](https://plato.stanford.edu/entries/heidegger/)
+
+作者：Mark Wrathall。
+
+来源类型：scholarly_reference。
+
+版本：Stanford Encyclopedia of Philosophy；当前条目首刊2025-01-31。。
+
+译者：未核实。
+
+核读上述局部；未通读《存在与时间》，网页所引SZ页码仅属综述引文，未当作本次亲核原书页码。
+
+- [3-1-4 尘世的现象学/可朽的现象学](READING-GUIDE.md#314)（编者关联）：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿以现象学向生存论时间性转折为主题并直接评价海德格尔，附 SEP Martin Heidegger 条目。
+- [3-1-4-1 追问的现象学](READING-GUIDE.md#3141)（编者关联）：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿正题提及《存在与时间》并称早期核心实为《时间概念史导论》，附 SEP Martin Heidegger 条目对照著作谱系。
+- [3-2-3-3 生存论的存在主义](READING-GUIDE.md#3233)（编者关联）：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿专题评述 1930 年后转向期的海德格尔与晚期谢林，附 SEP Martin Heidegger 条目。
+- [3-3 生存论](READING-GUIDE.md#33)（编者关联）：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。生存论总论点名海德格尔为“学院派生存论”代表，附 SEP Martin Heidegger 条目。
+- [3-3-1 存在主义](READING-GUIDE.md#331)（编者关联）：导言存在问题；§2.2在世存在开头。。对照基础存在论与此在分析的研究任务，明确这里并非仅在分类某些人的生活态度。
+- [3-3-1-1 分环节的生存论的存在论](READING-GUIDE.md#3311)（编者关联）：§2.2.3 Being-in。。比较情绪状态、领会、言谈的共同原初地位，检验课程环节链是否把相互依存写成线性派生。
+- [3-3-1-4 前本体论](READING-GUIDE.md#3314)（编者关联）：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿评述海德格尔《哲学论稿（从本有而来）》前本体论位置，附 SEP 海德格尔条目。
+
+## 海德格尔《存在与时间》德文§31
+
+[公开阅读入口](https://www.beyng.com/pages/de/SeinUndZeit/SeinUndZeit.142.html)
+
+来源类型：primary_text。
+
+核读§31标题和首段，确认领会原词Verstehen及其与情态的联系；未据此确认课程全部解读。
+
+- [3-1-4-1 追问的现象学](READING-GUIDE.md#3141)（编者关联）：德文原页142，§31 Das Da-sein als Verstehen。讲稿深入讨论“此在/在世存在”发问与领会结构，附德文原版《存在与时间》§31 选段对照 Verstehen 用词。
+
+## Jean-Paul Sartre — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/sartre/)
+
+来源类型：scholarly_reference。
+
+核读事实性、自由、自欺和真诚的相关段落。
+
+- [3-1-4-2 性化的现象学](READING-GUIDE.md#3142)（编者关联）：§4.1、§4.2中facticity与sincerity段。讲稿通过萨特关于身体、凝视与他者的论述展开性化现象学对比，附 SEP Jean-Paul Sartre 条目。
+- [3-3 生存论](READING-GUIDE.md#33)（编者关联）：§4.1、§4.2中facticity与sincerity段。生存论总论点名萨特并对比两种生存论姿态，附 SEP Jean-Paul Sartre 条目。
+
+## Maurice Merleau-Ponty — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/merleau-ponty/)
+
+来源类型：scholarly_reference。
+
+核读开头著作介绍与生平中《辩证法的历险》信息；没有核查自然辩证法论证。
+
+- [3-1-4-3 存在论的现象学](READING-GUIDE.md#3143)（编者关联）：导言与§1，1955 Adventures of the Dialectic。讲稿专题讲授梅洛-庞蒂格式塔-身体-知觉现象学，附 SEP Maurice Merleau-Ponty 条目。
+- [3-3-1-3 政治的理性主义](READING-GUIDE.md#3313)（编者关联）：导言与§1，1955 Adventures of the Dialectic。讲稿专题分析梅洛-庞蒂知觉现象学及其后期《辩证法的历险》政治反思，附 SEP 条目。
 
 ## 纯粹理性批判 / The Critique of Pure Reason
 
@@ -591,6 +767,51 @@
 - [3-2-1-1 无限的有限主义](READING-GUIDE.md#3211)（编者关联）：第二版序言的现象/物自身段落；导论 VII 对 transcendental 的定义。。先辨认关于先天认识方式的研究与对对象的通常研究，再读现象、物自身和经验界限；这能约束将物自身直接替换为上帝的简化。
 - [BV1pv411K7oX 复习：3-2德国观念论运动 【主义主义复习课】回顾整个德国观念论运动（3-2）](COURSE-READINGS.md#BV1pv411K7oX)（编者关联）：1787年第二版序中现象、物自身及经验界限段；Introduction VII定义transcendental段。对照本课L2–15关于批判方法、知识合法条件和认识有限性的概括，区分康德自述与讲者从有限推无限的整段重构。
 
+## Ludwig Wittgenstein
+
+[公开阅读入口](https://plato.stanford.edu/entries/wittgenstein/)
+
+作者：Anat Biletzki、Anat Matar。
+
+来源类型：scholarly_reference。
+
+版本：Stanford Encyclopedia of Philosophy；页面标实质修订2026-09-17。。
+
+译者：未核实。
+
+核读§3.3，注意综述所引《哲学研究》§43带有适用范围限定；本次没有直接核读该书原文或中译本。
+
+- [3-2-2-4 唯我论的实在论/唯我论的现实主义](READING-GUIDE.md#3224)（编者关联）：§3.3 Meaning as Use，至语言游戏概念引入。。讲稿直接将早期维特根斯坦《逻辑哲学论》定位为先验唯我论回响，附 SEP 维特根斯坦条目。
+- [3-4-4-3 语言游戏](READING-GUIDE.md#3443)（编者关联）：§3.3 Meaning as Use，至语言游戏引入。。观察意义研究怎样转向用法的多样性，并保留§43所限定的适用范围。
+
+## 逻辑学 / Science of Logic — Table of Contents
+
+[公开阅读入口](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)
+
+作者：G. W. F. Hegel。
+
+来源类型：primary_text_translation。
+
+译者：未核实。
+
+核对英文篇章标题；本次未核实该网页英译本译者及底本，未核对中译本。
+
+- [3-2-3-4 自身性辩证法](READING-GUIDE.md#3234)（编者关联）：The Doctrine of Being；The Doctrine of Essence。讲稿聚焦早期耶拿黑格尔辩证法与晚期谢林之争，附《逻辑学》英文目录对照其成熟逻辑体系结构。
+- [3-2-4-2 否定辩证法](READING-GUIDE.md#3242)（编者关联）：The Doctrine of Being；The Doctrine of Essence。讲稿阐述主体存在为客体与体系演化，附《逻辑学》英文目录（存在/本质/概念三篇框架）供对照。
+
+## Hegel’s Dialectics
+
+[公开阅读入口](https://plato.stanford.edu/entries/hegel-dialectics/)
+
+作者：Julie E. Maybee。
+
+来源类型：scholarly_reference。
+
+阅读导言；仅作为辩证法研究的延伸入口，不证明主义主义编码由黑格尔原文演绎得出。
+
+- [3-2-4 辩证法](READING-GUIDE.md#324)（编者关联）：Introduction。讲稿总论黑格尔辩证法向绝对精神展开的机制，附 SEP Hegel’s Dialectics 导言。
+- [3-4-2-3 哲学的意识形态主义/墨守成规](READING-GUIDE.md#3423)（编者关联）：Introduction。讲稿分析齐泽克哲学四矩阵与黑格尔辩证否定性的关系，附 SEP Hegel’s Dialectics 条目。
+
 ## 逻辑学：存在论 / Science of Logic — Being
 
 [公开阅读入口](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm)
@@ -607,22 +828,42 @@
 
 - [3-2-4-1 逻辑学](READING-GUIDE.md#3241)（编者关联）：网页 §§132–134、184–185。。直接比较纯有、纯无、变易的过渡及扬弃的取消和保存双重含义，为检验课程的符号学解释提供短篇原文。
 
-## Martin Heidegger
+## 逻辑学 存在论 / Science of Logic — Being
 
-[公开阅读入口](https://plato.stanford.edu/entries/heidegger/)
+[公开阅读入口](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm)
 
-作者：Mark Wrathall。
+作者：G. W. F. Hegel。
 
-来源类型：scholarly_reference。
-
-版本：Stanford Encyclopedia of Philosophy；当前条目首刊2025-01-31。。
+来源类型：primary_text_translation。
 
 译者：未核实。
 
-核读上述局部；未通读《存在与时间》，网页所引SZ页码仅属综述引文，未当作本次亲核原书页码。
+阅读上述节选；节号按该网页显示，不冒充所有版本通用编号。页面含列宁标注，需与黑格尔正文区分。
 
-- [3-3-1 存在主义](READING-GUIDE.md#331)（编者关联）：导言存在问题；§2.2在世存在开头。。对照基础存在论与此在分析的研究任务，明确这里并非仅在分类某些人的生活态度。
-- [3-3-1-1 分环节的生存论的存在论](READING-GUIDE.md#3311)（编者关联）：§2.2.3 Being-in。。比较情绪状态、领会、言谈的共同原初地位，检验课程环节链是否把相互依存写成线性派生。
+- [3-2-4-3 爱欲辩证法](READING-GUIDE.md#3243)（编者关联）：Web paragraph numbers 132–134: Being, Nothing, Becoming；Web paragraph numbers 184–185: To Sublate。讲稿围绕“否定性(negativity)”推动绝对精神展开，附《逻辑学·存在论》有/无/变易与扬弃选段。
+
+## Søren Kierkegaard — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/kierkegaard/)
+
+来源类型：scholarly_reference。
+
+核读生平、伪名写作与三种生存领域的介绍；没有完整核读相关原典。
+
+- [3-3 生存论](READING-GUIDE.md#33)（编者关联）：§1与§3导言、§3.1–3.3目录。生存论总论定位克尔凯廓尔为真正生存论者（3-3-2），附 SEP Søren Kierkegaard 条目。
+- [3-3-2 真正的生存主义](READING-GUIDE.md#332)（编者关联）：§1与§3导言、§3.1–3.3目录。讲稿以克尔凯廓尔主体性内在体验与非理性主义开启 3-3-2 分支，附 SEP 克尔凯廓尔条目。
+- [3-3-2-1 安放了的实存主义](READING-GUIDE.md#3321)（编者关联）：§1与§3导言、§3.1–3.3目录。讲稿逐一拆解克尔凯廓尔三阶段及“重复”概念，附 SEP 克尔凯廓尔条目对照其伪名著作体系。
+
+## Karl Jaspers — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/jaspers/)
+
+来源类型：scholarly_reference。
+
+核读1932年Philosophie三卷的著作说明；未核密码和大全的全部论证。
+
+- [3-3 生存论](READING-GUIDE.md#33)（编者关联）：生平著作段：Weltorientierung、Existenzerhellung、Metaphysik。生存论总论明列雅斯贝尔斯在后观念论生存论中的位置，附 SEP Karl Jaspers 条目。
+- [3-3-2-4 超验-生存论](READING-GUIDE.md#3324)（编者关联）：生平著作段：Weltorientierung、Existenzerhellung、Metaphysik。讲稿专题阐述雅斯贝尔斯两个大全与“超验/哲学化”架构，附 SEP Karl Jaspers 条目。
 
 ## 存在主义是一种人道主义 / Existentialism Is a Humanism
 
@@ -639,6 +880,26 @@
 核读该论证开头与无预定人性说明；网页讲演年份字段未独立核对，不用于年代校勘；不保存译文全文。
 
 - [3-3-1-2 人道主义的存在主义](READING-GUIDE.md#3312)（编者关联）：裁纸刀例子至人没有预定本质的论述。。从人造物与人的比较理解存在先于本质，并为考察选择和责任建立起点。
+
+## Friedrich Heinrich Jacobi — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/friedrich-jacobi/)
+
+来源类型：scholarly_reference。
+
+核读生平、1787年休谟对话、1799年致费希特信之信仰和虚无主义说明。
+
+- [3-3-3-2 直接生存论](READING-GUIDE.md#3332)（编者关联）：§1、Glaube与nihilism段。讲稿以雅各比直接信仰论与虚无主义批判为重心，附 SEP Friedrich Heinrich Jacobi 条目。
+
+## Albert Camus — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/camus/)
+
+来源类型：scholarly_reference。
+
+核对《西西弗神话》1942年出版、反抗与无慰藉生活的解释。
+
+- [3-3-4-3 幸福的幸存主义](READING-GUIDE.md#3343)（编者关联）：§3开头、§3.2结尾、§3.3。讲稿围绕加缪《西西弗神话》式荒谬与“无希望但非绝望”展开阐释，附 SEP Albert Camus 条目。
 
 ## Borges, The Secret Miracle
 
@@ -667,6 +928,69 @@
 - [3-4 符号学](READING-GUIDE.md#34)（编者关联）：1910年11月4日讲课，语言作为社会产品的段落。。从语言系统与个人发音活动的区分进入符号研究，为总论提供一个具体传统。
 - [3-4-1 结构主义](READING-GUIDE.md#341)（编者关联）：Chapter V, Value of terms and meanings of words 开头。。比较单个符号的意义与系统中相邻项形成的价值，理解为何不能只把语言看成名称清单。
 
+## Lévi-Strauss, Introduction à l’œuvre de Marcel Mauss
+
+[公开阅读入口](https://classiques.uqam.ca/classiques/mauss_marcel/socio_et_anthropo/0_introduction/intro_socio_et_anthropo.pdf)
+
+来源类型：primary_text。
+
+核读导言末段能指相对已辨所指过剩、浮动能指mana及零符号值的段落；没有审《野性的思维》全书。
+
+- [3-4-1-1 结构人本主义](READING-GUIDE.md#3411)（编者关联）：全文末部，surabondance de signifiant、signifiant flottant段。讲稿直接讲解列维-斯特劳斯结构人类学与音位-能指分析，附莫斯文集导言浮动能指段落。
+
+## Jacques Lacan — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/lacan/)
+
+来源类型：scholarly_reference。
+
+核读思想阶段综述：1930–40年代镜像、1950年代象征界、1950年代末实在界关注；未审全体拉康论断。
+
+- [3-4-1-2 隐喻的象征主义](READING-GUIDE.md#3412)（编者关联）：§1思想发展段，1953–1964。讲稿专题阐述拉康三界说、镜像认同与隐喻象征机制，附 SEP Jacques Lacan 条目。
+- [3-4-2-1 无意识的主体主义](READING-GUIDE.md#3421)（编者关联）：§1思想发展段，1953–1964。讲稿以拉康符号系统整合（阉割）及无意识主体性为核心机制，附 SEP 拉康条目。
+- [3-4-4-4 针对资本主义的精神分析](READING-GUIDE.md#3444)（编者关联）：§1思想发展段，1953–1964。讲稿明确围绕晚期拉康及其“第二次回到弗洛伊德”展开，附 SEP 拉康条目。
+
+## Louis Althusser — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/althusser/)
+
+来源类型：scholarly_reference。
+
+核读结构因果性、超定、具体实践的不同发展及冲突段。
+
+- [3-4-2 后结构主义](READING-GUIDE.md#342)（编者关联）：§3.2.3历史理论中structural causality/overdetermination段。讲稿讨论阿尔都塞与后结构主义理论结构，附 SEP Louis Althusser 条目对照结构因果性。
+- [3-4-4-4 针对资本主义的精神分析](READING-GUIDE.md#3444)（编者关联）：§3.2.3历史理论中structural causality/overdetermination段。讲稿开篇明确列出阿尔都塞作为《资本论》到晚期拉康的中介，附 SEP 阿尔都塞条目。
+
+## Jacques Derrida — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/derrida/)
+
+来源类型：scholarly_reference。
+
+核读延异作为异质性关系及纯粹性/污染关系说明；不是把课程黑格尔解释判错。
+
+- [3-4-3 差异的辩证法](READING-GUIDE.md#343)（编者关联）：différance与contamination段。讲稿围绕德里达与黑格尔及差异/解构辩证法关系展开，附 SEP Jacques Derrida 条目。
+
+## Gilles Deleuze — Stanford Encyclopedia of Philosophy
+
+[公开阅读入口](https://plato.stanford.edu/entries/deleuze/)
+
+来源类型：scholarly_reference。
+
+核读《尼采与哲学》非辩证的肯定力量、反黑格尔立场及虚拟/现实化说明。
+
+- [3-4-3-1 游牧的辩证主义](READING-GUIDE.md#3431)（编者关联）：§2讨论Nietzsche and Philosophy及Bergsonism。讲稿直接点名德勒兹《尼采与哲学》以辨析肯定意志与反辩证法立场，附 SEP 德勒兹条目。
+
+## Lyotard, The Postmodern Condition 节选
+
+[公开阅读入口](https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm)
+
+来源类型：primary_text。
+
+核读第1节开头有关后工业社会、知识技术化的历史假说；该节选未包含paralogy关键段。
+
+- [3-4-3-4 局部的总体主义](READING-GUIDE.md#3434)（课程明确提及）：§1 The Field: Knowledge in Computerised Societies。讲稿引述利奥塔《后现代状况》关于“postmodernism is a part of modernism”与元叙事的界定，附该书节选对照原文起点。
+
 ## Hans-Georg Gadamer
 
 [公开阅读入口](https://plato.stanford.edu/entries/gadamer/)
@@ -683,21 +1007,25 @@
 
 - [3-4-4 解释学](READING-GUIDE.md#344)（编者关联）：§3.1 The Positivity of ‘Prejudice’。。从可修订的前判断理解解释学循环，并区分传统给予理解的条件与无条件服从成见。
 
-## Ludwig Wittgenstein
+## Paul Ricoeur — Stanford Encyclopedia of Philosophy
 
-[公开阅读入口](https://plato.stanford.edu/entries/wittgenstein/)
-
-作者：Anat Biletzki、Anat Matar。
+[公开阅读入口](https://plato.stanford.edu/entries/ricoeur/)
 
 来源类型：scholarly_reference。
 
-版本：Stanford Encyclopedia of Philosophy；页面标实质修订2026-09-17。。
+核读解释、占有及活隐喻作为句子而非装饰性换词的段落。
 
-译者：未核实。
+- [3-4-4-1 现象学的解释学](READING-GUIDE.md#3441)（编者关联）：§3结尾、§4 Forms of Extended Discourse。讲稿围绕利科活隐喻与现象学诠释学“占有”概念展开，附 SEP Paul Ricoeur 条目。
 
-核读§3.3，注意综述所引《哲学研究》§43带有适用范围限定；本次没有直接核读该书原文或中译本。
+## Freud, Lecture XXXV: A Philosophy of Life
 
-- [3-4-4-3 语言游戏](READING-GUIDE.md#3443)（编者关联）：§3.3 Meaning as Use，至语言游戏引入。。观察意义研究怎样转向用法的多样性，并保留§43所限定的适用范围。
+[公开阅读入口](https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm)
+
+来源类型：primary_text_translation。
+
+阅读开头关于精神分析、心理学及科学世界观的段落；未核对德文、译者和印本页码。
+
+- [3-4-4-2 经典的精神分析](READING-GUIDE.md#3442)（编者关联）：开头第3—4段：专门科学、心理学分支与接受科学世界观。讲稿主题讨论经典精神分析“回到弗洛伊德”命题，附弗洛伊德《新引论》第35讲英译以供校勘注中与课程解释之对照。
 
 ## 关于费尔巴哈的提纲
 
@@ -767,24 +1095,6 @@
 - [4-1 政治经济意识形态批判](READING-GUIDE.md#41)（编者关联）：［异化劳动和私有财产］XXII 开头。。观察批判如何追问政治经济学未经解释的私有财产、工资等前提。
 - [4-1-1-1 经济学哲学批判](READING-GUIDE.md#4111)（编者关联）：［异化劳动和私有财产］XXII–XXIII。。区分劳动对象化与特定经济关系下的异化，并追踪分析如何从产品关系转入劳动活动本身。
 - [4-1-1-1 经济学哲学批判](READING-GUIDE.md#4111)（课程明确提及）：Page 1明确推荐《1844年经济学哲学手稿》；原典入口仅已核相应节选，不等于课程所推荐印本。课程明确提及该书；阅读入口的版本和核读范围以相应原典来源记录为准。
-
-## 资本论 第一卷 第一章：商品
-
-[公开阅读入口](https://www.marxists.org/chinese/marx/capital/01.htm)
-
-作者：卡尔·马克思。
-
-来源类型：primary_text_translation。
-
-版本：中文马克思主义文库《资本论》第一卷网页版；具体纸本版次未核对。。
-
-译者：未核实。
-
-核读使用价值与价值的开头区分、第4节劳动社会性质以物的属性出现的论述；未通读本章及全卷，未核对版次间差异。
-
-- [4-1-1 资本主义史研究](READING-GUIDE.md#411)（编者关联）：第一章第4节开头。。分析商品形式中的社会关系，为研究资本主义的历史特殊性提供概念起点；本节本身不是一部资本主义编年史。
-- [4-1-1-1 经济学哲学批判](READING-GUIDE.md#4111)（编者关联）：第一章第1节开头与第4节开头。。对照使用价值、价值与商品拜物教，考察社会关系为什么表现为物的属性；可与早期异化论比较，但不能直接认定二者同义。
-- [BV1jb4y1n7jt 复习：从虚假的体系走向真正的体系 【主义主义】复习课：从虚假的体系走向真正的体系](COURSE-READINGS.md#BV1jb4y1n7jt)（编者关联）：第一卷第一章第1节使用价值与价值的开头区分；第4节商品拜物教开头。本课L21–29、L85–92要求把逻辑研究推进到资本范畴与现实社会关系；以已核商品章局部作为对读入口。具体章节由编辑选择，不能说讲者在本课逐节引用了它。
 
 ## 社会主义从空想到科学的发展
 
@@ -976,23 +1286,6 @@
 - [4-4-2-1 永生](READING-GUIDE.md#4421)（编者关联）：第二卷第二十七章§9–15。把人格同一、身体同一和实体同一分开，比较意识连续性的条件。
 - [4-4-2-4 身体化](READING-GUIDE.md#4424)（编者关联）：第二卷第二十七章§6–7、11–15。用身体更换的思想实验对照载体与人格关系；不据此证明意识上传技术。
 - [4-4-4-3 可朽性](READING-GUIDE.md#4443)（编者关联）：第二卷第二十七章§19–20。比较记忆中断与人格同一问题；这不是AI可朽性模型的原始出处。
-
-## 计算机器与智能 / Computing Machinery and Intelligence
-
-[公开阅读入口](https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf)
-
-作者：Alan M. Turing。
-
-来源类型：primary_text。
-
-版本：Mind 59(236),1950,pp.433–460；多伦多大学托管期刊扫描件，元数据与Oxford期刊页面相符。。
-
-译者：未核实。
-
-实际核读第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文；不代表通读整部著作或确认课程引用。
-
-- [4-4-2-1 永生](READING-GUIDE.md#4421)（编者关联）：第6节(4)，pp.445–447。对读外在表现与第一人称意识问题，区分测试思维能力和证明内在体验。
-- [4-4-4-1 教育](READING-GUIDE.md#4441)（编者关联）：第1–2节及第6节(4)，pp.433–435、445–447。区分能力判别、主观体验和共同体认同；原论文不提供课程AI教育模型。
 
 ## 逻辑学：概念一般
 

@@ -1,9 +1,9 @@
 {
   "checked_on": "2026-11-13",
   "scope": "Local structure, provenance references, patch replay and deterministic rendering. Not audio or philosophical certification.",
-  "input_sha256": "374e07853ca0beb6b417787a2dd74f8df067a8e0832bb543897d0a88a10c176c",
+  "input_sha256": "2011bbe9726c4419dc35d25f0f33fce8550cf073b892b58fe4c873fbdc0feac6",
   "base_commit": "f3f61223cbdbb185f81b43555ad7f4a8805a762b",
-  "field_transitions_replayed": 1360,
+  "field_transitions_replayed": 2151,
   "replayed_data_matches": true,
   "generated_files_match": [
     "public/research.json",
@@ -18,7 +18,8 @@
     "research/AI-REVIEW.md",
     "public/course-bodies.json",
     "research/COURSE-READINGS.md",
-    "public/courses.json"
+    "public/courses.json",
+    "public/cube-enrichments.json"
   ],
   "fixture_checks_passed": [
     "missing_source",
@@ -44,7 +45,9 @@
     "course_metadata_correction_missing_source",
     "course_metadata_correction_idempotent",
     "course_metadata_continuous_chain_idempotent",
-    "course_metadata_discontinuous_chain"
+    "course_metadata_discontinuous_chain",
+    "canonical_status_mapping",
+    "open_question_boilerplate_filter"
   ],
   "coverage_counts": {
     "catalogue_nodes": 340,
@@ -53,8 +56,8 @@
     "axis_slots": 1252,
     "transcript_indexed_nodes": 340,
     "new_located_summaries": 85,
-    "nodes_with_reading_links": 99,
-    "reading_links": 117,
+    "nodes_with_reading_links": 154,
+    "reading_links": 187,
     "nodes_with_review_records": 278,
     "qualified_axis_records": 0,
     "audio_verified_nodes": 0
@@ -62,11 +65,26 @@
   "research_counts": {
     "entries_with_contributions": 340,
     "entries_with_course_summaries": 85,
-    "source_records": 616,
-    "unique_source_urls": 555,
-    "correction_records": 456,
+    "source_records": 622,
+    "unique_source_urls": 557,
+    "correction_records": 1193,
     "extra_courses": 73,
     "extra_course_bodies": 73
+  },
+  "cube_enrichments_counts": {
+    "nodes": 340,
+    "summary_origins": {
+      "branch_filled": 85,
+      "upstream_ai": 42,
+      "upstream_manual": 213
+    },
+    "nodes_with_review_summary": 255,
+    "nodes_with_readings": 154,
+    "total_readings": 181,
+    "nodes_with_transcripts": 340,
+    "nodes_with_related_courses": 336,
+    "substantive_open_questions": 216,
+    "boilerplate_open_questions_suppressed": 185
   },
   "manual_review_counts": {
     "manual_nodes": 213,
@@ -74,6 +92,20 @@
     "expected_fields": 1544,
     "recorded_fields": 1544,
     "claim_checks": 1782,
+    "open_needs_attention": 0,
+    "canonical_statuses": {
+      "supported": 546,
+      "supported_attributed_or_scoped": 911,
+      "supported_with_caveat": 86,
+      "partially_supported": 201,
+      "unlocated_or_unsupported": 14,
+      "contradicted_or_misstated": 24
+    },
+    "resolution_states": {
+      "confirmed_as_written": 546,
+      "qualified_in_research_record": 662,
+      "resolved_in_catalogue": 574
+    },
     "claim_statuses": {
       "ambiguous_oral_grouping": 1,
       "analogy_may_imply_false_equivalence": 1,
@@ -261,6 +293,20 @@
     "expected_fields": 324,
     "recorded_fields": 324,
     "claim_checks": 503,
+    "open_needs_attention": 0,
+    "canonical_statuses": {
+      "supported": 212,
+      "supported_attributed_or_scoped": 198,
+      "supported_with_caveat": 29,
+      "partially_supported": 56,
+      "unlocated_or_unsupported": 2,
+      "contradicted_or_misstated": 6
+    },
+    "resolution_states": {
+      "confirmed_as_written": 212,
+      "qualified_in_research_record": 157,
+      "resolved_in_catalogue": 134
+    },
     "claim_statuses": {
       "contradicted": 5,
       "lecture_claim_conflicts_with_primary_text": 1,
@@ -283,7 +329,7 @@
       "supported_with_secondary_attribution": 1
     }
   },
-  "reading_source_count": 79,
+  "reading_source_count": 102,
   "source_cache_check": {
     "status": "sha256_and_git_blob_verified",
     "commit": "b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2",
@@ -331,8 +377,8 @@
   },
   "course_metadata_corrections": 25,
   "reading_relations": {
-    "editorial_reading": 149,
-    "lecture_explicit_reference": 4
+    "editorial_reading": 210,
+    "lecture_explicit_reference": 13
   },
   "video_metadata_records": 402,
   "video_playback_checked": false,
@@ -357,6 +403,43 @@
       ]
     }
   ],
-  "frontend_build_run": false,
-  "reason_no_frontend_build": "Only catalogue data and research tooling changed; application source and dependencies unchanged."
+  "frontend_labels_verified": {
+    "summary_origins_covered": [
+      "branch_filled",
+      "upstream_ai",
+      "upstream_manual"
+    ],
+    "canonical_statuses_covered": [
+      "contradicted_or_misstated",
+      "partially_supported",
+      "supported",
+      "supported_attributed_or_scoped",
+      "supported_with_caveat",
+      "unlocated_or_unsupported"
+    ],
+    "body_statuses_covered": [
+      "asr_text_reviewed_not_audio_verified",
+      "compiled_text_reviewed_identity_sample_matched_not_audio_verified",
+      "compiled_text_reviewed_not_audio_verified",
+      "local_asr_text_reviewed_not_audio_verified",
+      "not_reviewed",
+      "partial_board_summary_no_audio",
+      "reused_compiled_text_not_audio_verified",
+      "reused_reviewed_node_summary_not_audio_verified"
+    ],
+    "course_kinds_covered": [
+      "dollar_series",
+      "exercise",
+      "extra",
+      "lecture",
+      "overview",
+      "preview",
+      "review"
+    ]
+  },
+  "frontend_build_run": true,
+  "frontend_build": {
+    "status": "fresh",
+    "output": "build/index.html"
+  }
 }

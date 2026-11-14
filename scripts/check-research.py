@@ -7,6 +7,8 @@ import argparse
 import hashlib
 import importlib.util
 import json
+import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -121,10 +123,107 @@ def fixture_checks():
             course_correction(payload)
             payload['course_corrections'].append({**second, 'before': {'kind': 'lecture'}})
         run('course_metadata_discontinuous_chain', broken_course_chain)
+
+        # Canonical status taxonomy & boilerplate open_question checks
+        require(build.map_claim_status('supported')[0] == 'supported', 'Canonical supported mismatch')
+        require(build.map_claim_status('supported_with_scope_limit')[0] == 'supported_attributed_or_scoped', 'Canonical scope mismatch')
+        require(build.map_claim_status('supported_but_compressed')[0] == 'supported_with_caveat', 'Canonical caveat mismatch')
+        require(build.map_claim_status('partially_supported')[0] == 'partially_supported', 'Canonical partial mismatch')
+        require(build.map_claim_status('not_located_in_reviewed_text')[0] == 'unlocated_or_unsupported', 'Canonical unlocated mismatch')
+        require(build.map_claim_status('contradicted_term')[0] == 'contradicted_or_misstated', 'Canonical contradicted mismatch')
+        try:
+            build.map_claim_status('unmapped_fake_status_xyz')
+        except ValueError:
+            pass
+        else:
+            raise ValueError('Unmapped claim status was silently accepted')
+        passed.append('canonical_status_mapping')
+        require(build.is_boilerplate_open_question('尚未完成原音听校与相关历史事实、原典解释的独立复核。'), 'Boilerplate question not filtered')
+        require(not build.is_boilerplate_open_question('原视频21:05板书具体字迹需进一步清晰核验。'), 'Substantive question wrongly filtered')
+        passed.append('open_question_boilerplate_filter')
     return passed
 
 
-def main(source_cache=None):
+def parse_ts_record_keys(ts_text, export_name):
+    match = re.search(
+        rf'export const {re.escape(export_name)}\s*:\s*Record<[^>]+>\s*=\s*\{{(.*?)\n\}}',
+        ts_text,
+        re.DOTALL,
+    )
+    require(match is not None, f'Missing TS label map: {export_name}')
+    return {
+        m.group(1) or m.group(2)
+        for m in re.finditer(r"^\s*(?:['\"]([^'\"]+)['\"]|([a-zA-Z0-9_]+))\s*:", match.group(1), re.MULTILINE)
+    }
+
+
+def verify_frontend_label_coverage(enrichments, courses, course_bodies):
+    ts_path = ROOT / 'src/utils/ismFormat.ts'
+    ts_text = ts_path.read_text(encoding='utf-8')
+    canonical_keys = parse_ts_record_keys(ts_text, 'CANONICAL_STATUS_LABELS')
+    resolution_keys = parse_ts_record_keys(ts_text, 'RESOLUTION_STATE_LABELS')
+    body_status_keys = parse_ts_record_keys(ts_text, 'BODY_STATUS_LABELS')
+    kind_keys = parse_ts_record_keys(ts_text, 'COURSE_KIND_LABELS')
+    origin_keys = parse_ts_record_keys(ts_text, 'SUMMARY_ORIGIN_LABELS')
+
+    expected_origins = {'upstream_manual': 213, 'upstream_ai': 42, 'branch_filled': 85}
+    require(enrichments['counts'].get('summary_origins') == expected_origins,
+            f"Unexpected summary_origins counts: {enrichments['counts'].get('summary_origins')}")
+    used_origins = {n['summary_origin'] for n in enrichments['nodes'].values()}
+    require(used_origins <= origin_keys, f'Missing SUMMARY_ORIGIN_LABELS keys: {sorted(used_origins - origin_keys)}')
+
+    used_canonical = set(build.CANONICAL_STATUSES)
+    used_resolution = {'open_needs_attention'}
+    for n in enrichments['nodes'].values():
+        rs = n.get('review_summary')
+        if not rs:
+            continue
+        used_canonical.update(rs.get('by_canonical_status', {}).keys())
+        used_resolution.update(rs.get('by_resolution_state', {}).keys())
+        for h in rs.get('highlights', []):
+            used_canonical.add(h['canonical_status'])
+            used_resolution.add(h['resolution_state'])
+    require(used_canonical <= canonical_keys, f'Missing CANONICAL_STATUS_LABELS keys: {sorted(used_canonical - canonical_keys)}')
+    require(used_resolution <= resolution_keys, f'Missing RESOLUTION_STATE_LABELS keys: {sorted(used_resolution - resolution_keys)}')
+
+    used_body_statuses = {c['body_status'] for c in courses if c.get('body_status')} | {
+        b['body_status'] for b in course_bodies.values() if b.get('body_status')
+    }
+    require(used_body_statuses <= body_status_keys,
+            f'Missing BODY_STATUS_LABELS keys: {sorted(used_body_statuses - body_status_keys)}')
+
+    used_kinds = {c['kind'] for c in courses if c.get('kind')}
+    require(used_kinds <= kind_keys, f'Missing COURSE_KIND_LABELS keys: {sorted(used_kinds - kind_keys)}')
+    return {
+        'summary_origins_covered': sorted(used_origins),
+        'canonical_statuses_covered': sorted(used_canonical),
+        'body_statuses_covered': sorted(used_body_statuses),
+        'course_kinds_covered': sorted(used_kinds),
+    }
+
+
+def inspect_frontend_build():
+    build_index = ROOT / 'build/index.html'
+    if not build_index.exists():
+        return {'status': 'missing', 'output': None}
+    source_files = list((ROOT / 'src').rglob('*'))
+    for rel in ('index.html', 'vite.config.ts', 'package.json', 'package-lock.json',
+                'tsconfig.json', 'tsconfig.app.json', 'tsconfig.node.json'):
+        p = ROOT / rel
+        if p.exists():
+            source_files.append(p)
+    latest_src_mtime = max((p.stat().st_mtime for p in source_files if p.is_file()), default=0)
+    build_mtime = build_index.stat().st_mtime
+    status = 'fresh' if build_mtime >= latest_src_mtime else 'stale'
+    return {'status': status, 'output': 'build/index.html'}
+
+
+def main(source_cache=None, write_report=False, verify_frontend_build=False):
+    if verify_frontend_build:
+        npm_cmd = shutil.which('npm.cmd') or shutil.which('npm')
+        require(npm_cmd is not None, 'npm executable not found on PATH')
+        subprocess.run([npm_cmd, 'run', 'build'], cwd=ROOT, check=True)
+
     knowledge = build.assemble(ROOT)
     require(all(c.get('application_status') in ('applied', 'applied_then_superseded')
                 for c in knowledge['corrections'] if c['status'] == 'ready'), 'Unapplied reviewed correction')
@@ -149,6 +248,8 @@ def main(source_cache=None):
             continue
         originals = [s for s in item['related_list'] if s.startswith('原视频')]
         require(all(s in current[code]['related_list'] for s in originals), f'Original entry lost: {code}')
+        require('' not in current[code]['related_list'], f'Empty string in related_list: {code}')
+        require(all('：' in a for a in current[code]['axis_list']), f'Axis missing full-width colon: {code}')
 
     audit = json.loads(subprocess.check_output([sys.executable, 'scripts/audit-corpus.py'], cwd=ROOT))
     for field in ('missing_codes', 'duplicate_json_keys', 'unsupported_status', 'empty_feature_codes',
@@ -159,10 +260,14 @@ def main(source_cache=None):
     coverage, coverage_md = build.coverage(ROOT, knowledge)
     manual, manual_md = build.manual_review(ROOT, knowledge)
     ai, ai_md = build.ai_review(ROOT, knowledge)
+    enrichments = build.build_cube_enrichments(ROOT, knowledge, manual=manual, ai=ai)
     require(manual['counts']['all_fields_recorded_nodes'] == manual['counts']['manual_nodes'] == 213,
             'Original manual review coverage regressed')
     require(ai['counts']['all_fields_recorded_nodes'] == ai['counts']['ai_nodes'] == 42,
             'Original AI review coverage regressed')
+    require(manual['counts']['open_needs_attention'] == 0 and ai['counts']['open_needs_attention'] == 0,
+            'Unresolved open_needs_attention checks remain')
+    require(enrichments['counts']['nodes'] == 340, 'Incomplete cube enrichments catalogue')
     require(set(knowledge['course_entries']) == {c['id'] for c in knowledge['courses']},
             'A supplementary course lacks an evidence-scoped body record')
     expected = {
@@ -179,6 +284,7 @@ def main(source_cache=None):
         'public/course-bodies.json': json.dumps(knowledge['course_entries'], ensure_ascii=False, indent=2) + '\n',
         'research/COURSE-READINGS.md': build.render_course_bodies(knowledge),
         'public/courses.json': json.dumps(build.full_course_catalogue(ROOT, knowledge), ensure_ascii=False, indent=2) + '\n',
+        'public/cube-enrichments.json': json.dumps(enrichments, ensure_ascii=False, separators=(',', ':')) + '\n',
     }
     for filename, text in expected.items():
         require((ROOT / filename).read_text(encoding='utf-8') == text, f'Stale generated file: {filename}')
@@ -186,6 +292,7 @@ def main(source_cache=None):
     courses = build.read_json(ROOT / 'public/courses.json')['courses']
     require(len({c['id'] for c in courses}) == len(courses), 'Duplicate BV identity')
     require(all(c.get('video_check', {}).get('status') == 'metadata_verified' for c in courses), 'Unverified course metadata')
+    frontend_labels = verify_frontend_label_coverage(enrichments, courses, knowledge['course_entries'])
     readings = [r for e in knowledge['entries'].values() for c in e['contributions']
                 if not c.get('superseded_by') for r in c.get('reading_links', [])]
     readings += [r for e in knowledge['course_entries'].values() for r in e.get('reading_links', [])]
@@ -265,6 +372,7 @@ def main(source_cache=None):
         'field_transitions_replayed': len(ledger['changes']), 'replayed_data_matches': True,
         'generated_files_match': list(expected), 'fixture_checks_passed': tests,
         'coverage_counts': coverage['counts'], 'research_counts': knowledge['counts'],
+        'cube_enrichments_counts': enrichments['counts'],
         'manual_review_counts': manual['counts'],
         'ai_review_counts': ai['counts'],
         'reading_source_count': len({r['source_id'] for r in readings}),
@@ -276,10 +384,13 @@ def main(source_cache=None):
         'video_metadata_records': len(courses), 'video_playback_checked': False,
         'original_bv_ids': audit['distinct_original_bvids'],
         'document_only_original_links': audit['document_only_original_links'],
-        'frontend_build_run': False, 'reason_no_frontend_build': 'Only catalogue data and research tooling changed; application source and dependencies unchanged.'
+        'frontend_labels_verified': frontend_labels,
+        'frontend_build_run': bool(verify_frontend_build),
+        'frontend_build': inspect_frontend_build(),
     }
-    (ROOT / 'research/audit-current.json').write_text(json.dumps(audit, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    (ROOT / 'research/validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    if write_report:
+        build.write_lf(ROOT / 'research/audit-current.json', json.dumps(audit, ensure_ascii=False, indent=2) + '\n')
+        build.write_lf(ROOT / 'research/validation.json', json.dumps(report, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 
@@ -287,4 +398,11 @@ if __name__ == '__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-cache', help='Optional local weathour cache directory, kept outside this repository')
-    main(parser.parse_args().source_cache)
+    parser.add_argument('--write-report', action='store_true', help='Update tracked research/audit-current.json and research/validation.json')
+    parser.add_argument('--verify-frontend-build', action='store_true', help='Run npm run build before inspecting build freshness')
+    args = parser.parse_args()
+    main(
+        source_cache=args.source_cache,
+        write_report=args.write_report,
+        verify_frontend_build=args.verify_frontend_build,
+    )

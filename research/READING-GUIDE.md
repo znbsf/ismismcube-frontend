@@ -550,6 +550,10 @@ Page3–5、9反复说明秩序重复统御及无额外目的，覆盖永恒统�
 待核：
 - 未核听原音；本批未把社区编纂与清理文本当作作者审定稿。
 
+- 编者关联阅读：[新工具 / Novum Organum](https://www.gutenberg.org/files/45988/45988-h/45988-h.htm)。定位：Book I §§I–XIII、XLI–XLVI。讲稿明确辨析“知识就是力量”原旨与后世科学独断误读（未直接引《新工具》条号），附《新工具》相关节选供编者对照。
+  核查范围：二手讲稿(m1-0005)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(m2-bacon-novum) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Michel Foucault — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/foucault/)。定位：§2结尾及§3开头。讲稿在反思培根主义时点名以福柯知识权力谱系为真正对立面，附 SEP Michel Foucault 条目作学术入口。
+  核查范围：二手讲稿(m1-0005)正文定位：P2 L12、P3 L15；外部文献仅在既有 source(r02-foucault) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1112"></a>
 ## 1-1-1-2 有机进化论
@@ -946,6 +950,8 @@ Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上�
 待核：
 - 社区编纂稿可能有漏字、错转；具体未定位项保留在各字段记录。
 
+- 编者关联阅读：[Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/)。定位：§2 The Development of Science 开头：常规研究、解谜和革命性阶段。。讲稿明确提及库恩以历史性与范式机制消解科学的思路，附 SEP Thomas Kuhn 条目对照。
+  核查范围：二手讲稿(m1-0012)正文定位：P4 L18、P12 L42；外部文献仅在既有 source(b02-sep-kuhn) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1124"></a>
 ## 1-1-2-4 解构建构论
@@ -1128,6 +1134,10 @@ Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上�
 待核：
 - 未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。
 
+- 编者关联阅读：[计算机器与智能 / Computing Machinery and Intelligence](https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf)。定位：第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文。讲稿明确提及图灵与图灵机计算模型，附 Turing 1950 经典论文节选作功能主义人工智能背景对照（正文未直接引该论文页码）。
+  核查范围：二手讲稿(m1-0015)正文定位：P3 L41、P4 L44；外部文献仅在既有 source(p10-turing-intelligence) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Functionalism — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/functionalism/)。定位：§1 What is Functionalism?：mental states, causal roles, multiple realization。讲稿以早期普特南功能主义代表该节点，附 SEP Functionalism 综述对照当代心灵哲学定义。
+  核查范围：二手讲稿(m1-0015)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r01-functional-sep) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1132"></a>
 ## 1-1-3-2 自由进化论
@@ -1190,6 +1200,8 @@ Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上�
 待核：
 - 未核听原音；编纂分讲开头存在接续半句，未定位细节不一概判为课程从未说过。
 
+- 编者关联阅读：[物种起源：第四章 自然选择](https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)/Chapter_IV)。定位：Chapter IV, Natural Selection，开头变异、遗传、生存与繁殖优势的论证。。讲稿围绕自由进化论/模因进化论展开并借用道金斯《自私的基因》比喻（未直接点名达尔文），附《物种起源》第四章“自然选择”作源流对照。
+  核查范围：二手讲稿(m1-0016)正文定位：P1 L11、P1 L12；外部文献仅在既有 source(b02-darwin-origin) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1133"></a>
 ## 1-1-3-3 认知自我主义
@@ -1428,6 +1440,8 @@ Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上�
 待核：
 - 未核听原音；不把社会身份举例推广为对整个群体的判断。
 
+- 编者关联阅读：[行为主义者眼中的心理学 / Psychology as the Behaviorist Views it](https://psychclassics.yorku.ca/Watson/views.htm)。定位：开头三段：心理学目标、内省法、动物与人类研究的关系。。节点为操作行为主义分支（承接 1-1-4 华生经典行为主义脉络），附华生宣言作学术起点对照。
+  核查范围：二手讲稿(m1-0020)正文定位：P1 L9、P2 L13；外部文献仅在既有 source(b02-watson-behaviorist) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1142"></a>
 ## 1-1-4-2 目的行为主义
@@ -1602,6 +1616,8 @@ Page10明确目的论2是永恒循环与上升进化两侧。当前只留下上�
 待核：
 - 未核听原音；不把社会身份举例推广为对整个群体的判断。
 
+- 编者关联阅读：[民主主义与教育：第十一章 经验与思维](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-11)。定位：Chapter XI, I, The Nature of Experience，开头三个段落。。讲稿明确提及米德与同时代实用主义者杜威的思想语境，附《民主主义与教育》第11章对照经验与行动观。
+  核查范围：二手讲稿(m1-0023)正文定位：P3 L15；外部文献仅在既有 source(b02-dewey-experience) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="12"></a>
 ## 1-2 宗教实在论
@@ -2142,6 +2158,9 @@ rule of faith与myth of image在目的论段明确对立；符号和想象的解
 待核：
 - 未核听原音；复合字段的未定位例子与暂定判断已逐项标注。
 
+- 课程明确引用（依所列证据）：[资本论 第一卷 第一章：商品](https://www.marxists.org/chinese/marx/capital/01.htm)。定位：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿明确点出马克思的“商品拜物教/资本拜物教”概念，附《资本论》第一卷第一章第4节相关段落对照。
+  核查范围：二手讲稿(m1-0034)正文定位：P6 L26、P8 L32；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-2-2-3 拜物教_读懂资本论的必修课_物神崇拜的符号学功能_偶像崇拜的第三种形式：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F/0034_1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F_p711.md)
 
 <a id="1224"></a>
 ## 1-2-2-4 时神崇拜
@@ -2248,6 +2267,9 @@ aion的神圣激活时间与chronos的时态束缚、可朽时间明确二分；
 待核：
 - 未核听原音；涉及宗教史、哲学史及意识机制的外部真伪需原典或专门研究另审。
 
+- 课程明确引用（依所列证据）：[资本论 第一卷 第一章：商品](https://www.marxists.org/chinese/marx/capital/01.htm)。定位：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿明确援引马克思“商品和劳动二重性”，附《资本论》第一卷第一章相关节选对照具体值质区分。
+  核查范围：二手讲稿(m1-0036)正文定位：P27 L141；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-2-3 唯灵论_所谓_灵修_不过是人的好奇与自私所支撑的意识形态：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/0036_1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_p761.md)
 
 <a id="1231"></a>
 ## 1-2-3-1 永生主义
@@ -2566,6 +2588,8 @@ aion的神圣激活时间与chronos的时态束缚、可朽时间明确二分；
 待核：
 - 未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。
 
+- 编者关联阅读：[论基督徒的自由 / Concerning Christian Liberty](https://www.gutenberg.org/files/1911/1911-h/1911-h.htm)。定位：正文起首，自由主人/服役者二命题、内外人、圣言与因信称义。讲稿在讨论神学宿命论与宗教改革动员时明确提及马丁·路德（未直接引此文），附《论基督徒的自由》节选作背景对照。
+  核查范围：二手讲稿(m1-0042)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(m2-luther-liberty) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1242"></a>
 ## 1-2-4-2 救世主义
@@ -2616,6 +2640,8 @@ aion的神圣激活时间与chronos的时态束缚、可朽时间明确二分；
 待核：
 - 未核听原音；课程引用的宗教史、人物病因与心理生理机制仍需独立原典/研究核验。
 
+- 编者关联阅读：[Friedrich Nietzsche — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)。定位：§1 Life and Works。讲稿标题与正文直接讨论尼采（《瞧！这个人》等脉络），附 SEP 尼采条目对照生平与著作背景。
+  核查范围：二手讲稿(m1-0043)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1243"></a>
 ## 1-2-4-3 神智论
@@ -3292,6 +3318,8 @@ love is religion of modern people与拜爱情教明确出现；是对现代浪�
 待核：
 - 未核听原音；涉及人物、学派历史和心理发展机制须另核原典/研究。
 
+- 编者关联阅读：[理想国：第七卷 / Republic, Book VII](https://classics.mit.edu/Plato/republic.8.vii.html)。定位：Book VII 开头洞穴比喻：锁链、影像、转身与走向光亮。。讲稿围绕“现代新柏拉图主义”讨论爱情与理念论预设，附《理想国》第七卷洞穴比喻英译节选作哲学史对照。
+  核查范围：二手讲稿(m1-0055)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-plato-republic) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1324"></a>
 ## 1-3-2-4 现代智者学派
@@ -3528,6 +3556,10 @@ noble/ignoble明列为目的对立；后文落实为道德话语强弱、能否�
 待核：
 - 未核听原音；人物思想和历史实例的外部准确性仍需原典专审。
 
+- 编者关联阅读：[纯粹理性批判 / The Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)。定位：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。讲稿副题及正文讨论康德道德与先验哲学预设，附《纯粹理性批判》英译目录及先验要素论入口。
+  核查范围：二手讲稿(m1-0059)正文定位：P6 L24、P7 L27；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Kant’s Transcendental Idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/)。定位：Introduction；1. Appearances and Things in Themselves。对照康德先验哲学的学界解释争论，附 SEP Kant’s Transcendental Idealism 学术综述。
+  核查范围：二手讲稿(m1-0059)正文定位：P6 L24、P7 L27；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1333"></a>
 ## 1-3-3-3 排他性集体主义
@@ -3646,6 +3678,9 @@ ego调和/设定本真非本真、真假与利损，直接明示。
 待核：
 - 未核听原音；人物思想和历史实例的外部准确性仍需原典专审。
 
+- 课程明确引用（依所列证据）：[作为意志和表象的世界 / The World as Will and Idea, Vol. 1](https://www.gutenberg.org/files/38427/38427-h/38427-h.html)。定位：第四篇§67开头至友谊讨论；§71开头至否定意志的认识界限。讲稿明确围绕“叔本华的唯意志主义”讨论表象与意志命题（0059 讲亦直接点出《作为意志和表象的世界》书名），附卷一第四篇节选对照。
+  核查范围：二手讲稿(m1-0061)正文定位：P3 L15、P4 L18；外部文献仅在既有 source(m2-schopenhauer-world) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-3-3-4 厌女症-虚无主义_叔本华的唯意志主义_酸臭文人的最后归宿_康德黑格尔笑掉大牙_凭你也配谈哲学：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/1-3-3-4_%E5%8E%8C%E5%A5%B3%E7%97%87-%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E5%8F%94%E6%9C%AC%E5%8D%8E%E7%9A%84%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E9%85%B8%E8%87%AD%E6%96%87%E4%BA%BA%E7%9A%84%E6%9C%80%E5%90%8E%E5%BD%92%E5%AE%BF_%E5%BA%B7%E5%BE%B7%E9%BB%91%E6%A0%BC%E5%B0%94%E7%AC%91%E6%8E%89%E5%A4%A7%E7%89%99_%E5%87%AD/0061_1-3-3-4_%E5%8E%8C%E5%A5%B3%E7%97%87-%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89_%E5%8F%94%E6%9C%AC%E5%8D%8E%E7%9A%84%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E9%85%B8%E8%87%AD%E6%96%87%E4%BA%BA%E7%9A%84%E6%9C%80%E5%90%8E%E5%BD%92%E5%AE%BF_%E5%BA%B7%E5%BE%B7%E9%BB%91%E6%A0%BC%E5%B0%94%E7%AC%91%E6%8E%89%E5%A4%A7%E7%89%99_%E5%87%AD%E4%BD%A0%E4%B9%9F%E9%85%8D%E8%B0%88%E5%93%B2%E5%AD%A6_p1472.md)
 
 <a id="134"></a>
 ## 1-3-4 直觉主义/体验主义
@@ -4294,6 +4329,8 @@ indifferent与完全信赖科学共同体同段解释。
 待核：
 - 未核听原音；人物及学派的原典准确性仍需分题核验。
 
+- 编者关联阅读：[Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)。定位：Introduction；§1.1 Epistemic Achievements versus Epistemic Aims 开头。。该分支把暴力归约为自然物理过程与客观秩序，附 SEP Scientific Realism 导言对照实在论基础设定。
+  核查范围：二手讲稿(m1-0077)正文定位：P5 L25、P7 L35；外部文献仅在既有 source(b02-sep-realism) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="1412"></a>
 ## 1-4-1-2 客观主义
@@ -4415,6 +4452,9 @@ existence is identity被解释为自给同一性、取消注册框架，再推�
 待核：
 - 未核听原音；人物及学派的原典准确性仍需分题核验。
 
+- 课程明确引用（依所列证据）：[道德经（王弼注本）](https://zh.wikisource.org/zh-hant/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC))。定位：第三十七章经文及逐句王弼注；辅读第二章无为与不居功段。。讲稿明确谈及老子、《道德经》观念与无为取向，附王弼注本《道德经》节选对照经文与注疏。
+  核查范围：二手讲稿(m1-0079)正文定位：P14 L58；外部文献仅在既有 source(b02-laozi-wangbi) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-4-1-3 沉默主义_我们为什么会沉默_相互误解的两种沉默：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-1_%E5%BD%93%E4%BB%A3%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E5%8F%8D%E6%AD%A3%E7%A7%91%E5%AD%A6%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%87%8A%E4%B8%80%E5%88%87_%E5%B0%B1%E5%B9%B2%E8%84%86%E6%94%BE%E5%BC%83%E6%80%9D%E8%80%83%E5%90%A7_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%80%BB%E4%BD%93%E4%B8%8A_%E4%B8%8D%E6%98%AF%E5%93%B2/1-4-1-3_%E6%B2%89%E9%BB%98%E4%B8%BB%E4%B9%89_%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%B2%89%E9%BB%98_%E7%9B%B8%E4%BA%92%E8%AF%AF%E8%A7%A3%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%B2%89%E9%BB%98/0079_1-4-1-3_%E6%B2%89%E9%BB%98%E4%B8%BB%E4%B9%89_%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%B2%89%E9%BB%98_%E7%9B%B8%E4%BA%92%E8%AF%AF%E8%A7%A3%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%B2%89%E9%BB%98_p1785.md)
 
 <a id="1414"></a>
 ## 1-4-1-4 蒙昧主义
@@ -4471,6 +4511,9 @@ existence is identity被解释为自给同一性、取消注册框架，再推�
 待核：
 - 未核听原音；人物及学派的原典准确性仍需分题核验。
 
+- 课程明确引用（依所列证据）：[范畴篇 / Categories](https://classics.mit.edu/Aristotle/categories.1.1.html)。定位：Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。。讲稿明确点名亚里士多德《范畴篇》及其两种本体论/实体区分，附《范畴篇》第4–5节选读对照。
+  核查范围：二手讲稿(m1-0080)正文定位：P14 L63；外部文献仅在既有 source(b02-aristotle-categories) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-4-1-4 蒙昧主义_大知识分子们刻意生产的愚蠢_深藏不露的大师们的压箱底哲学_列奥_斯特劳斯向麦卡锡交的投名状：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-1_%E5%BD%93%E4%BB%A3%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E5%8F%8D%E6%AD%A3%E7%A7%91%E5%AD%A6%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%87%8A%E4%B8%80%E5%88%87_%E5%B0%B1%E5%B9%B2%E8%84%86%E6%94%BE%E5%BC%83%E6%80%9D%E8%80%83%E5%90%A7_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%80%BB%E4%BD%93%E4%B8%8A_%E4%B8%8D%E6%98%AF%E5%93%B2/1-4-1-4_%E8%92%99%E6%98%A7%E4%B8%BB%E4%B9%89_%E5%A4%A7%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BB%AC%E5%88%BB%E6%84%8F%E7%94%9F%E4%BA%A7%E7%9A%84%E6%84%9A%E8%A0%A2_%E6%B7%B1%E8%97%8F%E4%B8%8D%E9%9C%B2%E7%9A%84%E5%A4%A7%E5%B8%88%E4%BB%AC%E7%9A%84%E5%8E%8B%E7%AE%B1%E5%BA%95%E5%93%B2%E5%AD%A6_%E5%88%97%E5%A5%A5_%E6%96%AF%E7%89%B9%E5%8A%B3/0080_1-4-1-4_%E8%92%99%E6%98%A7%E4%B8%BB%E4%B9%89_%E5%A4%A7%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BB%AC%E5%88%BB%E6%84%8F%E7%94%9F%E4%BA%A7%E7%9A%84%E6%84%9A%E8%A0%A2_%E6%B7%B1%E8%97%8F%E4%B8%8D%E9%9C%B2%E7%9A%84%E5%A4%A7%E5%B8%88%E4%BB%AC%E7%9A%84%E5%8E%8B%E7%AE%B1%E5%BA%95%E5%93%B2%E5%AD%A6_%E5%88%97%E5%A5%A5_%E6%96%AF%E7%89%B9%E5%8A%B3%E6%96%AF%E5%90%91%E9%BA%A6%E5%8D%A1%E9%94%A1%E4%BA%A4%E7%9A%84%E6%8A%95%E5%90%8D%E7%8A%B6_p1807.md)
 
 <a id="142"></a>
 ## 1-4-2 世俗人道主义
@@ -5059,6 +5102,9 @@ abnormal与normal两种运行方式被直接列为目的论二分。
 待核：
 - 原典与临床概念的准确性须另核，不能用讲者的论证代替。
 
+- 课程明确引用（依所列证据）：[范畴篇 / Categories](https://classics.mit.edu/Aristotle/categories.1.1.html)。定位：Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。。讲稿明确追溯痛苦体验至亚里士多德《范畴篇》中的“承受(passion)”范畴，附《范畴篇》第4节对照。
+  核查范围：二手讲稿(m1-0088)正文定位：P7 L53；外部文献仅在既有 source(b02-aristotle-categories) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[1-4-3-2 心理正常主义_自以为_正常_面对_反常_脱口而出_精神B_神经B_脑子有WT_的人所陷入的庸俗意识形态：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-3_%E5%BF%83%E7%90%86%E4%B8%BB%E4%B9%89_%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BB%AC%E6%88%90%E5%8A%9F%E5%9C%B0%E8%AE%A9%E5%A4%A7%E4%BC%97%E4%BB%AC%E4%BB%A5%E4%B8%BA%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%BF%83%E7%90%86%E5%AD%A6_%E5%B0%B1%E6%8E%8C%E6%8F%A1%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F/1-4-3-2_%E5%BF%83%E7%90%86%E6%AD%A3%E5%B8%B8%E4%B8%BB%E4%B9%89_%E8%87%AA%E4%BB%A5%E4%B8%BA_%E6%AD%A3%E5%B8%B8_%E9%9D%A2%E5%AF%B9_%E5%8F%8D%E5%B8%B8_%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA_%E7%B2%BE%E7%A5%9EB_%E7%A5%9E%E7%BB%8FB_%E8%84%91%E5%AD%90%E6%9C%89WT_%E7%9A%84/0088_1-4-3-2_%E5%BF%83%E7%90%86%E6%AD%A3%E5%B8%B8%E4%B8%BB%E4%B9%89_%E8%87%AA%E4%BB%A5%E4%B8%BA_%E6%AD%A3%E5%B8%B8_%E9%9D%A2%E5%AF%B9_%E5%8F%8D%E5%B8%B8_%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA_%E7%B2%BE%E7%A5%9EB_%E7%A5%9E%E7%BB%8FB_%E8%84%91%E5%AD%90%E6%9C%89WT_%E7%9A%84%E4%BA%BA%E6%89%80%E9%99%B7%E5%85%A5%E7%9A%84%E5%BA%B8%E4%BF%97%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_p2133.md)
 
 <a id="1433"></a>
 ## 1-4-3-3 泛性主义
@@ -11732,6 +11778,8 @@ Page14明确说我认为，Page16有费希特类比；非已核胡塞尔原文�
 待核：
 - 原音与胡塞尔／德里达原典术语归属尚待专项核查。
 
+- 编者关联阅读：[Edmund Husserl](https://plato.stanford.edu/entries/husserl/)。定位：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿直接讨论胡塞尔《观念一》与先验本质主义，附 SEP Edmund Husserl 条目作学术入口。
+  核查范围：二手讲稿(m3-0192)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3113"></a>
 ## 3-1-1-3 反思性的主观主义
@@ -11806,6 +11854,8 @@ Page29–33明说平等且随时可丧失；这是讲者的读法，不意味着
 待核：
 - 原音与胡塞尔／德里达原典术语归属尚待专项核查。
 
+- 编者关联阅读：[Edmund Husserl](https://plato.stanford.edu/entries/husserl/)。定位：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿以胡塞尔《观念二》/主体间性构造为主线区分先验与庸俗唯我论，附 SEP 胡塞尔条目。
+  核查范围：二手讲稿(m3-0193)正文定位：P2 L20、P5 L29；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3114"></a>
 ## 3-1-1-4 准先验辩证主义
@@ -11880,6 +11930,8 @@ Page34明确个人判断且书未读完，Page35–37说明原初差异先于注
 待核：
 - 原音与胡塞尔／德里达原典术语归属尚待专项核查。
 
+- 编者关联阅读：[Edmund Husserl](https://plato.stanford.edu/entries/husserl/)。定位：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿讲述青年德里达如何接续与改写胡塞尔先验现象学遗产，附 SEP 胡塞尔条目供背景对照。
+  核查范围：二手讲稿(m3-0194)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="312"></a>
 ## 3-1-2 实事现象学
@@ -12022,6 +12074,8 @@ Page4–5说自称大他者的科学，且应由人的科学奠基于彼岸；�
 待核：
 - 所涉哲学家原典及原音仍待专项核查；讲者评价与推测不作为学术定论。
 
+- 编者关联阅读：[Edmund Husserl](https://plato.stanford.edu/entries/husserl/)。定位：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿明确论述现象学还原与生活世界连续体验之起源，附 SEP 胡塞尔条目对照相关概念。
+  核查范围：二手讲稿(m3-0196)正文定位：P2 L12、P3 L15；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3122"></a>
 ## 3-1-2-2 本质心理主义
@@ -12630,6 +12684,8 @@ Page5直接说明认识论探索，Page12重申。
 待核：
 - 尚未核原音；原典中具体术语、哲学家观点及影响史需另按原作核查。
 
+- 编者关联阅读：[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)。定位：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿以现象学向生存论时间性转折为主题并直接评价海德格尔，附 SEP Martin Heidegger 条目。
+  核查范围：二手讲稿(m3-0205)正文定位：P1 L9、P6 L28；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3141"></a>
 ## 3-1-4-1 追问的现象学
@@ -12716,6 +12772,10 @@ Page28–30支持，但同段强调已经、无知与负罪；不是任意意志
 待核：
 - 尚未核原音；原典中具体术语、哲学家观点及影响史需另按原作核查。
 
+- 编者关联阅读：[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)。定位：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿正题提及《存在与时间》并称早期核心实为《时间概念史导论》，附 SEP Martin Heidegger 条目对照著作谱系。
+  核查范围：二手讲稿(m3-0206)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[海德格尔《存在与时间》德文§31](https://www.beyng.com/pages/de/SeinUndZeit/SeinUndZeit.142.html)。定位：德文原页142，§31 Das Da-sein als Verstehen。讲稿深入讨论“此在/在世存在”发问与领会结构，附德文原版《存在与时间》§31 选段对照 Verstehen 用词。
+  核查范围：二手讲稿(m3-0206)正文定位：P1 L9、P5 L49；外部文献仅在既有 source(r02-bt31) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3142"></a>
 ## 3-1-4-2 性化的现象学
@@ -12796,6 +12856,10 @@ Page2、22及27–28明确是讲者批评；不是已证实作者完全未讨论
 待核：
 - 尚未核原音；原典中具体术语、哲学家观点及影响史需另按原作核查。
 
+- 编者关联阅读：[Jean-Paul Sartre — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/)。定位：§4.1、§4.2中facticity与sincerity段。讲稿通过萨特关于身体、凝视与他者的论述展开性化现象学对比，附 SEP Jean-Paul Sartre 条目。
+  核查范围：二手讲稿(m3-0207)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-sartre) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Edmund Husserl](https://plato.stanford.edu/entries/husserl/)。定位：§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。。讲稿主标题与正文以萨特直接对照胡塞尔现象学视角，附 SEP Edmund Husserl 条目。
+  核查范围：二手讲稿(m3-0207)正文定位：P9 L46、P9 L47；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3143"></a>
 ## 3-1-4-3 存在论的现象学
@@ -12882,6 +12946,8 @@ Page23–26明确对比，神经系统类比是讲者说明而非本次确认科
 待核：
 - 尚未核原音；原典中具体术语、哲学家观点及影响史需另按原作核查。
 
+- 编者关联阅读：[Maurice Merleau-Ponty — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/)。定位：导言与§1，1955 Adventures of the Dialectic。讲稿专题讲授梅洛-庞蒂格式塔-身体-知觉现象学，附 SEP Maurice Merleau-Ponty 条目。
+  核查范围：二手讲稿(m3-0208)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-merleau-ponty) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3144"></a>
 ## 3-1-4-4 现象学伦理主义
@@ -13024,6 +13090,10 @@ Page17说明有限者也包括有限人类自我，无限者才是自我/自身�
 待核：
 - 未核原音；康德/费希特等原典与解释史断言待独立验证。
 
+- 编者关联阅读：[纯粹理性批判 / The Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)。定位：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。德国观念论总论追溯从康德起步的问题史，附《纯粹理性批判》英译本目录与先验分析论选段。
+  核查范围：二手讲稿(m3-0210)正文定位：P1 L9、P2 L16；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Kant’s Transcendental Idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/)。定位：Introduction；1. Appearances and Things in Themselves。对照德国观念论所继承与批判的康德先验观念论架构，附 SEP Kant’s Transcendental Idealism 导读。
+  核查范围：二手讲稿(m3-0210)正文定位：P1 L9、P2 L16；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="321"></a>
 ## 3-2-1 批判哲学
@@ -13086,6 +13156,11 @@ Page7–9有直接说明；这种需以现象学解康德是讲者教学方案�
 待核：
 - 未核原音；康德/费希特等原典与解释史断言待独立验证。
 
+- 课程明确引用（依所列证据）：[纯粹理性批判 / The Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)。定位：Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena。讲稿专题梳理康德《纯粹理性批判》“以判断为枢纽”的先验哲学计划，附原典英译目录与要素论选段。
+  核查范围：二手讲稿(m3-0212)正文定位：P1 L9、P4 L24；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[0212_3-2-1_批判哲学_以_判断_为枢纽的康德先验哲学计划_p5524](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92/0212_3-2-1_%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6_%E4%BB%A5_%E5%88%A4%E6%96%AD_%E4%B8%BA%E6%9E%A2%E7%BA%BD%E7%9A%84%E5%BA%B7%E5%BE%B7%E5%85%88%E9%AA%8C%E5%93%B2%E5%AD%A6%E8%AE%A1%E5%88%92_p5524.md)
+- 编者关联阅读：[Kant’s Transcendental Idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/)。定位：Introduction；1. Appearances and Things in Themselves。附 SEP Kant’s Transcendental Idealism 供核对“表象/物自体”在学界解释上的分歧。
+  核查范围：二手讲稿(m3-0212)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3211"></a>
 ## 3-2-1-1 无限的有限主义
@@ -13876,6 +13951,8 @@ Page19–20明确用无主体的世界自我显示收束，暴力机制是课程
 待核：
 - 课程现代术语、原典归属及哲学史因果须另核，不由本次讲稿对读担保。
 
+- 编者关联阅读：[Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)。定位：§3.3 Meaning as Use，至语言游戏概念引入。。讲稿直接将早期维特根斯坦《逻辑哲学论》定位为先验唯我论回响，附 SEP 维特根斯坦条目。
+  核查范围：二手讲稿(m3-0221)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-wittgenstein) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="323"></a>
 ## 3-2-3 绝对自由主义/体系自由主义
@@ -14206,6 +14283,8 @@ Page15–18是讲者游戏/猩猩寓言；不是实证意识起源，也没有�
 待核：
 - 课程对谢林、黑格尔、海德格尔、齐泽克的原典归属与历史关系仍须另核。
 
+- 编者关联阅读：[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)。定位：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿专题评述 1930 年后转向期的海德格尔与晚期谢林，附 SEP Martin Heidegger 条目。
+  核查范围：二手讲稿(m3-0225)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3234"></a>
 ## 3-2-3-4 自身性辩证法
@@ -14272,6 +14351,8 @@ Page13特别说明此阶段内容还叫认识本身，不直接叫本质。
 待核：
 - 课程对谢林、黑格尔、海德格尔、齐泽克的原典归属与历史关系仍须另核。
 
+- 编者关联阅读：[逻辑学 / Science of Logic — Table of Contents](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)。定位：The Doctrine of Being；The Doctrine of Essence。讲稿聚焦早期耶拿黑格尔辩证法与晚期谢林之争，附《逻辑学》英文目录对照其成熟逻辑体系结构。
+  核查范围：二手讲稿(m3-0226)正文定位：P1 L10、P1 L11；外部文献仅在既有 source(hegel-logic-toc) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="324"></a>
 ## 3-2-4 辩证法
@@ -14356,6 +14437,8 @@ Page19–22是讲者为后续工作给的阅读/实践方向。
 待核：
 - 原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。
 
+- 编者关联阅读：[Hegel’s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)。定位：Introduction。讲稿总论黑格尔辩证法向绝对精神展开的机制，附 SEP Hegel’s Dialectics 导言。
+  核查范围：二手讲稿(m3-0227)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(sep-hegel-dialectics) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3241"></a>
 ## 3-2-4-1 逻辑学
@@ -14536,6 +14619,8 @@ Page17–22是讲者批评，他也承认读得少和理解肤浅；不能写成
 待核：
 - 原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。
 
+- 编者关联阅读：[逻辑学 / Science of Logic — Table of Contents](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)。定位：The Doctrine of Being；The Doctrine of Essence。讲稿阐述主体存在为客体与体系演化，附《逻辑学》英文目录（存在/本质/概念三篇框架）供对照。
+  核查范围：二手讲稿(m3-0229)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(hegel-logic-toc) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3243"></a>
 ## 3-2-4-3 爱欲辩证法
@@ -14608,6 +14693,8 @@ Page15–16明确主体化力量与承载者两面。
 待核：
 - 原典概念、历史影响、实践成效及课程对现实案例的动机推断须另核。
 
+- 编者关联阅读：[逻辑学 存在论 / Science of Logic — Being](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm)。定位：Web paragraph numbers 132–134: Being, Nothing, Becoming；Web paragraph numbers 184–185: To Sublate。讲稿围绕“否定性(negativity)”推动绝对精神展开，附《逻辑学·存在论》有/无/变易与扬弃选段。
+  核查范围：二手讲稿(m3-0230)正文定位：P2 L12、P4 L18；外部文献仅在既有 source(hegel-logic-being) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3244"></a>
 ## 3-2-4-4 意识形态学/意识形态术
@@ -14819,6 +14906,16 @@ P18–20明确展开厌恶中介→推动中介时间化→要求直接性的悖
 
 定位：Page2–3 L14–19；Page6–8 L34–44。
 
+- 编者关联阅读：[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)。定位：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。生存论总论点名海德格尔为“学院派生存论”代表，附 SEP Martin Heidegger 条目。
+  核查范围：二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Jean-Paul Sartre — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/)。定位：§4.1、§4.2中facticity与sincerity段。生存论总论点名萨特并对比两种生存论姿态，附 SEP Jean-Paul Sartre 条目。
+  核查范围：二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(r02-sartre) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Søren Kierkegaard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)。定位：§1与§3导言、§3.1–3.3目录。生存论总论定位克尔凯廓尔为真正生存论者（3-3-2），附 SEP Søren Kierkegaard 条目。
+  核查范围：二手讲稿(a12-33-0232)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Friedrich Nietzsche — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)。定位：§1 Life and Works。生存论总论讨论尼采与生存论哲学家的理论代价，附 SEP Friedrich Nietzsche 条目。
+  核查范围：二手讲稿(a12-33-0232)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Karl Jaspers — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/jaspers/)。定位：生平著作段：Weltorientierung、Existenzerhellung、Metaphysik。生存论总论明列雅斯贝尔斯在后观念论生存论中的位置，附 SEP Karl Jaspers 条目。
+  核查范围：二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(r02-jaspers) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="331"></a>
 ## 3-3-1 存在主义
@@ -15333,6 +15430,8 @@ Page 10把微观/宏观区分先归给另一未具名理论家，再用于说明
 
 定位：Page 2–14 / L12–48。
 
+- 编者关联阅读：[Maurice Merleau-Ponty — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/)。定位：导言与§1，1955 Adventures of the Dialectic。讲稿专题分析梅洛-庞蒂知觉现象学及其后期《辩证法的历险》政治反思，附 SEP 条目。
+  核查范围：二手讲稿(a12-33-0237)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-merleau-ponty) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3314"></a>
 ## 3-3-1-4 前本体论
@@ -15463,6 +15562,8 @@ Page 27–31原文支持，强调呼唤不是听见的言词。
 
 定位：Page 4 / L18。
 
+- 编者关联阅读：[Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)。定位：导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。。讲稿评述海德格尔《哲学论稿（从本有而来）》前本体论位置，附 SEP 海德格尔条目。
+  核查范围：二手讲稿(a12-33-0238)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="332"></a>
 ## 3-3-2 真正的生存主义
@@ -15579,6 +15680,8 @@ Page 9–12完整因果论证支持。
 
 定位：Page 1、8、20–21 / L9、L30、L66–69。
 
+- 编者关联阅读：[Søren Kierkegaard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)。定位：§1与§3导言、§3.1–3.3目录。讲稿以克尔凯廓尔主体性内在体验与非理性主义开启 3-3-2 分支，附 SEP 克尔凯廓尔条目。
+  核查范围：二手讲稿(a12-33-0239)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3321"></a>
 ## 3-3-2-1 安放了的实存主义
@@ -15713,6 +15816,8 @@ Page 39–41对应；讲者明指为舒尔茨拆解，非克氏原典术语已�
 
 定位：Page 1、24–25、40 / L9、L211–214、L261。
 
+- 编者关联阅读：[Søren Kierkegaard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)。定位：§1与§3导言、§3.1–3.3目录。讲稿逐一拆解克尔凯廓尔三阶段及“重复”概念，附 SEP 克尔凯廓尔条目对照其伪名著作体系。
+  核查范围：二手讲稿(a12-33-0240)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3322"></a>
 ## 3-3-2-2 诗性存在论
@@ -15969,6 +16074,8 @@ Page 16明确比较；不是历史上继承晚期谢林的断言。
 
 定位：Page 6–9 / L26–40。
 
+- 编者关联阅读：[Friedrich Nietzsche — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)。定位：§1 Life and Works。讲稿副题与正文以别尔嘉耶夫对照尼采《查拉图斯特拉如是说》，附 SEP 尼采条目。
+  核查范围：二手讲稿(a12-33-0242)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3324"></a>
 ## 3-3-2-4 超验-生存论
@@ -16101,6 +16208,8 @@ Page 5、8具体例支持，非鼓励制造危机。
 
 定位：Page 12–13 / L48–53。
 
+- 编者关联阅读：[Karl Jaspers — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/jaspers/)。定位：生平著作段：Weltorientierung、Existenzerhellung、Metaphysik。讲稿专题阐述雅斯贝尔斯两个大全与“超验/哲学化”架构，附 SEP Karl Jaspers 条目。
+  核查范围：二手讲稿(a12-33-0243)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-jaspers) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="333"></a>
 ## 3-3-3 同一生存论
@@ -16223,6 +16332,8 @@ Page 12–15区分两种姿态并说明我的意志就是绝对意志。
 
 定位：Page 9–11 / L33–39。
 
+- 编者关联阅读：[Friedrich Nietzsche — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)。定位：§1 Life and Works。讲稿开篇直接讲解“尼采理论的三位一体”与时间/永恒轮回问题，附 SEP 尼采条目。
+  核查范围：二手讲稿(a12-33-0244)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3331"></a>
 ## 3-3-3-1 斗争的生存论
@@ -16489,6 +16600,8 @@ Page 27–32明确形式的反思性也是内容，不能一味拒绝理论。
 
 定位：开讲0245 L113；Page 13、18 / L47、L62。
 
+- 编者关联阅读：[Friedrich Heinrich Jacobi — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/friedrich-jacobi/)。定位：§1、Glaube与nihilism段。讲稿以雅各比直接信仰论与虚无主义批判为重心，附 SEP Friedrich Heinrich Jacobi 条目。
+  核查范围：二手讲稿(a12-33-0246)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-friedrich-jacobi) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3333"></a>
 ## 3-3-3-3 共同体的生存论
@@ -16627,6 +16740,8 @@ Page20–23支持，但讲者称“我的思辨”，须标课程重构。
 
 定位：Page 17–23 / L82–104。
 
+- 编者关联阅读：[Friedrich Nietzsche — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)。定位：§1 Life and Works。讲稿引用尼采《快乐的科学》《查拉图斯特拉如是说》《善恶的彼岸》讨论永恒轮回，附 SEP 条目。
+  核查范围：二手讲稿(a12-33-0247)正文定位：P1 L9、P3 L19；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3334"></a>
 ## 3-3-3-4 金融资本主义
@@ -17259,6 +17374,8 @@ L97、L141–152对应；无希望特指拒绝超出现有本体框架的新可�
 
 定位：L97、L107、L116、L125–128、L152–158。
 
+- 编者关联阅读：[Albert Camus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/camus/)。定位：§3开头、§3.2结尾、§3.3。讲稿围绕加缪《西西弗神话》式荒谬与“无希望但非绝望”展开阐释，附 SEP Albert Camus 条目。
+  核查范围：二手讲稿(a12-334-0252)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-camus) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3344"></a>
 ## 3-3-4-4 诗性永恒主义
@@ -17757,6 +17874,8 @@ Page13明确发问为什么4；Page14–15接续。不是数学证明任意有�
 
 定位：Page1 L9；Page17 L57；Page28–35 L90–121。
 
+- 编者关联阅读：[Lévi-Strauss, Introduction à l’œuvre de Marcel Mauss](https://classiques.uqam.ca/classiques/mauss_marcel/socio_et_anthropo/0_introduction/intro_socio_et_anthropo.pdf)。定位：全文末部，surabondance de signifiant、signifiant flottant段。讲稿直接讲解列维-斯特劳斯结构人类学与音位-能指分析，附莫斯文集导言浮动能指段落。
+  核查范围：二手讲稿(a12-34-0257)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-levi) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3412"></a>
 ## 3-4-1-2 隐喻的象征主义
@@ -17881,6 +18000,8 @@ Page28与Page37直接支持，讲者同时承认早期/后期次第不确定。
 
 定位：Page24 L79；Page31 L100；Page34 L109。
 
+- 编者关联阅读：[Jacques Lacan — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lacan/)。定位：§1思想发展段，1953–1964。讲稿专题阐述拉康三界说、镜像认同与隐喻象征机制，附 SEP Jacques Lacan 条目。
+  核查范围：二手讲稿(a12-34-0258)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3413"></a>
 ## 3-4-1-3 分类性的叙事学
@@ -18129,6 +18250,8 @@ Page23直接落格；本讲的否定宏观战略批评见后续。
 
 定位：Page18–23 L97–112；Page28–30 L129–139。
 
+- 编者关联阅读：[Michel Foucault — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/foucault/)。定位：§2结尾及§3开头。讲稿评价福柯话语/陈述体系及考古学定位，附 SEP Michel Foucault 条目。
+  核查范围：二手讲稿(a12-34-0260)正文定位：P2 L12、P3 L17；外部文献仅在既有 source(r02-foucault) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="342"></a>
 ## 3-4-2 后结构主义
@@ -18259,6 +18382,10 @@ Page14说不仅因为全球资本主义也因为唯物主义者坚持该主导�
 
 定位：Page1–6 L9–34；Page10–12 L58–90；Page22 L162。
 
+- 编者关联阅读：[Louis Althusser — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/althusser/)。定位：§3.2.3历史理论中structural causality/overdetermination段。讲稿讨论阿尔都塞与后结构主义理论结构，附 SEP Louis Althusser 条目对照结构因果性。
+  核查范围：二手讲稿(a12-34-0261)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-althusser) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[意识形态与意识形态国家机器 / Ideology and Ideological State Apparatuses (Notes towards an Investigation)](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm)。定位：论意识形态物质存在的 Thesis II；Ideology Interpellates Individuals as Subjects。。配合 3-4-2 讨论，附阿尔都塞《意识形态与意识形态国家机器》英译选段对照物质存在与询唤论题。
+  核查范围：二手讲稿(a12-34-0261)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(b01-althusser-ideology-isa-en) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3421"></a>
 ## 3-4-2-1 无意识的主体主义
@@ -18383,6 +18510,8 @@ Page30–33直接给轴及时间性。
 
 定位：Page3 L15；Page8–9 L30–33；Page15–16 L51–54；Page22–23 L72–75。
 
+- 编者关联阅读：[Jacques Lacan — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lacan/)。定位：§1思想发展段，1953–1964。讲稿以拉康符号系统整合（阉割）及无意识主体性为核心机制，附 SEP 拉康条目。
+  核查范围：二手讲稿(a12-34-0262)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3422"></a>
 ## 3-4-2-2 静止的事件主义
@@ -18637,6 +18766,8 @@ Page12–15明说3及两侧，用拖代守/停留否定解释。
 
 定位：Page1 L9；Page11–12 L39–42；Page15–19 L51–63。
 
+- 编者关联阅读：[Hegel’s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)。定位：Introduction。讲稿分析齐泽克哲学四矩阵与黑格尔辩证否定性的关系，附 SEP Hegel’s Dialectics 条目。
+  核查范围：二手讲稿(a12-34-0264)正文定位：P7 L27、P8 L30；外部文献仅在既有 source(sep-hegel-dialectics) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3424"></a>
 ## 3-4-2-4 螺旋的贱斥主义
@@ -18897,6 +19028,8 @@ P26直接给认识论3及两重阅读。
 
 定位：Page1–33 L9–125（L125只取本讲结尾）。
 
+- 编者关联阅读：[Jacques Derrida — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/derrida/)。定位：différance与contamination段。讲稿围绕德里达与黑格尔及差异/解构辩证法关系展开，附 SEP Jacques Derrida 条目。
+  核查范围：二手讲稿(a12-34-0266)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-derrida) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3431"></a>
 ## 3-4-3-1 游牧的辩证主义
@@ -19027,6 +19160,8 @@ P35明确目的1及不停重复。
 
 定位：Page1–38 L9–123。
 
+- 编者关联阅读：[Gilles Deleuze — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/deleuze/)。定位：§2讨论Nietzsche and Philosophy及Bergsonism。讲稿直接点名德勒兹《尼采与哲学》以辨析肯定意志与反辩证法立场，附 SEP 德勒兹条目。
+  核查范围：二手讲稿(a12-34-0267)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-deleuze) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3432"></a>
 ## 3-4-3-2 圆满的经济学
@@ -19421,6 +19556,9 @@ P28–32铺垫并在P32明确目的论4；现字段已忠实保留课程论证�
 
 定位：Page1–35 L9–111。
 
+- 课程明确引用（依所列证据）：[Lyotard, The Postmodern Condition 节选](https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm)。定位：§1 The Field: Knowledge in Computerised Societies。讲稿引述利奥塔《后现代状况》关于“postmodernism is a part of modernism”与元叙事的界定，附该书节选对照原文起点。
+  核查范围：二手讲稿(a12-34-0270)正文定位：P1 L9、P3 L15；外部文献仅在既有 source(r02-lyotard) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[0270_3-4-3-4_局部的总体主义_p7043](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-3_%E5%B7%AE%E5%BC%82%E7%9A%84%E8%BE%A9%E8%AF%81%E6%B3%95/3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89/0270_3-4-3-4_%E5%B1%80%E9%83%A8%E7%9A%84%E6%80%BB%E4%BD%93%E4%B8%BB%E4%B9%89_p7043.md)
 
 <a id="344"></a>
 ## 3-4-4 解释学
@@ -19669,6 +19807,8 @@ P6命名、P12机制、P18明确给1。
 
 定位：Page1–18 L9–60（仅本讲结尾）。
 
+- 编者关联阅读：[Paul Ricoeur — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ricoeur/)。定位：§3结尾、§4 Forms of Extended Discourse。讲稿围绕利科活隐喻与现象学诠释学“占有”概念展开，附 SEP Paul Ricoeur 条目。
+  核查范围：二手讲稿(a12-34-0272)正文定位：P2 L12、P6 L24；外部文献仅在既有 source(r02-ricoeur) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3442"></a>
 ## 3-4-4-2 经典的精神分析
@@ -19812,6 +19952,8 @@ P15–18明确给2及为何不能写意识为中介。
 
 定位：Page1–20 L9–80（仅本讲结尾）。
 
+- 编者关联阅读：[Freud, Lecture XXXV: A Philosophy of Life](https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm)。定位：开头第3—4段：专门科学、心理学分支与接受科学世界观。讲稿主题讨论经典精神分析“回到弗洛伊德”命题，附弗洛伊德《新引论》第35讲英译以供校勘注中与课程解释之对照。
+  核查范围：二手讲稿(a12-34-0273)正文定位：P2 L12、P5 L21；外部文献仅在既有 source(r01-freud35) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="3443"></a>
 ## 3-4-4-3 语言游戏
@@ -20087,6 +20229,13 @@ P18直接明确讲者立场，P19–23坚持不放弃的冒险，非拉康本人
 
 定位：Page1–24 L9–205（仅本讲结尾）。
 
+- 课程明确引用（依所列证据）：[资本论 第一卷 第一章：商品](https://www.marxists.org/chinese/marx/capital/01.htm)。定位：第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。。讲稿开篇明确列出《资本论》（晚期马克思）为代表脉络起点，附《资本论》第一卷第一章选段对照。
+  核查范围：二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L10；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。
+  课程提及依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)
+- 编者关联阅读：[Louis Althusser — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/althusser/)。定位：§3.2.3历史理论中structural causality/overdetermination段。讲稿开篇明确列出阿尔都塞作为《资本论》到晚期拉康的中介，附 SEP 阿尔都塞条目。
+  核查范围：二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L11；外部文献仅在既有 source(r02-althusser) 已核范围对照，不推论超越该范围的文本细节。
+- 编者关联阅读：[Jacques Lacan — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lacan/)。定位：§1思想发展段，1953–1964。讲稿明确围绕晚期拉康及其“第二次回到弗洛伊德”展开，附 SEP 拉康条目。
+  核查范围：二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L11；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。
 
 <a id="4"></a>
 ## 4 实践
@@ -24156,7 +24305,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论1 基本粒子
 
@@ -24180,7 +24329,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-1-2
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论2 秩序上升的进化
 
@@ -24192,7 +24341,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-2-1
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论1 生产社会学真理
 
@@ -24204,7 +24353,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-2-2
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论1 “自然”模型史
 
@@ -24216,7 +24365,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-3-1
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论3 心理状态的多重可实现性(调和物理主义输入行为主义与不可测心灵体验)
 
@@ -24240,7 +24389,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-3-3
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论3 自我(调和内在物质性精神与外部环境建构)
 
@@ -24252,7 +24401,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-3-3
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论3 所有意识建构活动中最关键的是自我意识的涌现，维护符号性的自我
 
@@ -24300,7 +24449,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-1-4-4
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论1 “客观”行为(侧重主动“客观”行为)
 
@@ -24344,7 +24493,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-2-2
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 创造者与被创造者的对立
 
@@ -24392,7 +24541,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-2-4-1
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论1 承受命定的清苦状态(涤罪)
 
@@ -24440,7 +24589,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-2-4-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 梦境的隐匿状态(凡俗的世界)与梦境的显现状态(神智状态)的二分
 
@@ -24452,7 +24601,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-2-4-3
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论4 一切都是虚幻
 
@@ -24464,7 +24613,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-3-1
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论3 自我(调和至高存在(Being)与被具体存在(beings)的对立)
 
@@ -24512,7 +24661,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-3-2-2
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论2 本真(谎言、意识形态)与非本真(现实、蝇营狗苟)的对立
 
@@ -24992,7 +25141,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-2-4
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 差异之流的幻象(Simulacrum)
 
@@ -25016,7 +25165,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-3
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论3 心理(调和人类的、文化的与自热的、原始的)
 
@@ -25160,7 +25309,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 无聊(无事件性)
 
@@ -25172,7 +25321,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论4 任性(无视禁令)
 
@@ -25196,7 +25345,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4-1
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 细思极恐、不可反思
 
@@ -25264,7 +25413,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 荒芜、没有价值
 
@@ -25276,7 +25425,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4-3
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论3 补偿竞争的奖品(调和需求与欲望)
 
@@ -25312,7 +25461,7 @@ Page 5 L76、L78以我觉得和我个人的观点限定；摘要漏掉评价主�
 
 ### 1-4-4-4
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论4 恬不知耻(Shame)
 
@@ -25348,7 +25497,7 @@ Page 10–12 L56、L59、L62将光火归于稀疏/去实体化，原摘要把两
 
 ### 2-1-1-3
 
-字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：场域论2 宇宙(Cosmos)与与可讨论的、可书写的思维空间(Topos)的对立
 
@@ -25564,7 +25713,7 @@ Page9–10是造作不是造作者；Page10、14明确拟制；后半为讲者�
 
 ### 2-2-1-2
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Persist))与虚空的对立
 
@@ -25600,7 +25749,7 @@ Page26明确法是exist不是persist，Page31–34进一步区分。
 
 ### 2-2-1-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 跨时态性的存在(种子、界、心法、事件)与时态性的存在(蕴、处、微粒)的对立
 
@@ -25762,7 +25911,7 @@ L34–42讨论模型预设未反思自身运动，不能改写为这些运动实
 
 ### 2-2-4-2
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 (Vita/Vie)与神圣(Divine)的对立
 
@@ -25786,7 +25935,7 @@ P7/P9明确需要他人原谅，原摘要相反。
 
 ### 2-2-4-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论2 托洛茨基(公共的真理)与野兰花(私人的真理)的二分
 
@@ -25984,7 +26133,7 @@ P9明确清空不是清空一切，而是外部关怀和享乐权威，不是消
 
 ### 2-3-3-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论3 量词(∀、∃)、谓词(≤、∧)、第一人称的感性材料的三分
 
@@ -26236,7 +26385,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-1-2
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论1 推测、猜测
 
@@ -26296,7 +26445,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-1-3
 
-字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：场域论2 形而下秩序(人的精神)与形而上秩序(上帝的保障)的对立
 
@@ -26308,7 +26457,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-1-3
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 上帝的精神(SPIRIT)、人的精神(Spirit)
 
@@ -26320,7 +26469,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-1-3
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论1 只能感知理念(Ideas)，不能感知精神
 
@@ -26752,7 +26901,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-3-4
 
-字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：本体论4 本体不可知也无需讨论
 
@@ -26764,7 +26913,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-3-4
 
-字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：目的论4 不加以设定，完全让渡给科学共同体
 
@@ -26812,7 +26961,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-4
 
-字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：认识论4 无需认识、好用就行
 
@@ -26860,7 +27009,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-4-1
 
-字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：场域论2 日常话语与科学话语的对立
 
@@ -27069,7 +27218,7 @@ P4原讲已有不早于限定；恢复该限定且不把神学年代直接写成
 
 ### 2-4-4-4
 
-字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied_then_superseded`。
 
 修改前：场域论2 对形而下(现象)和形而上(语言)的二分与平等的对立
 
@@ -29615,8 +29764,8973 @@ L33明确由去空间化更正为去时态化、去时序化/连续化/动态化
 
 依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)。
 
+### 1
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②认为拟制的符号学框架是真实存在的(“坐标系真的存在！”)。
+
+修改后：②认为拟制的符号学框架是真实存在的（按讲稿主旨概括，坐标系被当作真实稳固的世界；原注“坐标系真的存在！”为编者拟声概括，非逐字引文）。
+
+06-manual-1 核查指出“坐标系真的存在！”并非 0001 P2–3 逐字引文，改写为归属清晰的概括说明。
+
+依据：[1 实在论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/0001_1_%E5%AE%9E%E5%9C%A8%E8%AE%BA_p13.md)。
+
+### 1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③现代普通人的基本思想配置，易受各种意识形态的欺骗与鼓动。
+
+修改后：③按同讲原视频ASR（L70、L108–109）对应“未觉醒平民的哲学”及“容易被迷惑/欺骗”之批评（二手文字稿 0001 开头残缺，未核原音）；原摘要概括为现代普通人的基本思想配置。
+
+原摘要复合断言在残缺的二手文字稿 0001 未直接定位，经同讲 ASR BV1JT4y1K7dp（L70、L108–109）定位核心表述并补充出处边界。
+
+依据：[1 实在论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/0001_1_%E5%AE%9E%E5%9C%A8%E8%AE%BA_p13.md)、[【主义主义】哲学意识形态大全-总纲（公开ASR）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/bilibili-asr/BV1JT4y1K7dp__e40f4c6aef.txt)。
+
+### 1-1-3
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③人的心灵和意识可以通过科学的方法来调控。
+
+修改后：③主张以科学方法对人的心灵和意识进行研究与建模（原摘要写作“调控”，在已核二手讲稿 0014 P1–10 未见独立支持，属编者延伸概括）。
+
+06-manual-11 指出 0014 P1–10 讨论研究与建模心灵而非“科学调控”，修正表述并标注原摘要延伸部分。
+
+依据：[1-1-3 认知主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/0014_1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89_p296.md)。
+
+### 1-1-3-1
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②世界中不存在什么东西是超越某种数学规律。
+
+修改后：②按早期机械功能主义与通用图灵机模型设定，倾向将心理机制还原为物理因果函数与可计算规律（原摘要“世界中不存在什么东西是超越某种数学规律”之全称断言在 0015 P1–17 未直接定位，属编者延伸）。
+
+06-manual-11 指出 0015 未定位“不存在超数学规律之物”全称命题，依讲稿实例决定论与通用图灵机模型重述并标明原摘要边界。
+
+依据：[1-1-3-1 功能主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89/0015_1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89_p307.md)。
+
+### 1-1-3-2
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③“人工智能自我意识觉醒论”是一种自由进化论。
+
+修改后：③原摘要以“人工智能自我意识觉醒论”指称该倾向为一种自由进化论（该专名及直接定性在已核二手讲稿 0016 P1–23 与全库检索均未定位，属原编者归类，待核原视频）。
+
+06-manual-11 与全库检索均未定位“自我意识觉醒论”命名，保留原词同时明确标出编者归类边界。
+
+依据：[1-1-3-2 自由进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md)。
+
+### 1-1-3-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④略带中二病的死理性。
+
+修改后：④【原摘要评语，未在 0016 讲稿定位】略带中二病的死理性（本讲多处批评其反思不足；该具体贬义措辞未见于 0016 P1–23 及本讲 ASR 检索）。
+
+06-manual-11 与全库检索证实“中二病”未在 0016 出现，保留原评语并加注未定位标识。
+
+依据：[1-1-3-2 自由进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md)。
+
+### 2-1-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②真理之路与意见之路：
+	真理之路：“存在者存在，不存在者无法存在”，不存在者无法存在的原因在于太一被命运死死捆住，意味着世界是存在论闭合的。
+	意见之路：“存在者无法存在，不存在者存在”，巴门尼德认为这是谬误之路，但是恰恰是通过讨论这些不存在者、命运、必然性，可以进入前本体论的符号学，达到辩证法的维度，抵达晚期谢林。
+
+修改后：②真理之路与意见之路：
+	真理之路：“存在者存在，不存在者无法存在”（0103 P9 L37 作“存在着存在、不存在者无法存在”），不存在者无法存在的原因在于太一被命运捆住，意味着世界在存在论上闭合。
+	意见之路：原摘要拟作“存在者无法存在，不存在者存在”，该对称引文未见于已核二手讲稿（0103 P5–9 L22–31 实际将意见之路说明为凡人宇宙论、感官对立表象的谬误之路）；讲者由此转入必然性、命运与前本体论符号学、辩证法并联系晚期谢林。
+
+06-manual-21 指出意见之路对称引文在 0103 P5–9 未定位且讲稿实指凡人宇宙论，修正引文归属并保留后半推导。
+
+依据：[2-1-2 本质主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/0103_2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF_p2604.md)。
+
+### 2-2-1
+
+字段：`['feature_list', 4]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：⑤印度佛教时间表：
+	公元前6世纪乔达摩悉达多创教，从此到根本分裂的百年称为原始佛教时期。
+	公元前4世纪佛教发生第一次大分裂，称为根本分裂，佛教分裂为上座部和大众部，其中上座部主要为佛教僧团中的长老，大众部主要为中下层佛教徒。
+	公元前3世纪佛教发生第二次大分裂，称为部派分裂，从此佛教进入部派时期，在这一时期上座部和大众部分裂、融合，到公元前1世纪形成具有完整体系的大乘佛教和小乘佛教，又各自分为大乘有宗、大乘无宗、小乘有宗、小乘无宗。
+
+修改后：⑤【编者补充参考表，未在主讲讲稿 0119/0120 定位】印度佛教时间表（下列断代分期与“上座部/大众部、两乘四宗”划分在 0120 及全库讲稿检索均未出现，请勿当成课程讲授原话；待补历史依据）：
+	公元前6世纪乔达摩悉达多创教，从此到根本分裂的百年称为原始佛教时期。
+	公元前4世纪佛教发生第一次大分裂，称为根本分裂，佛教分裂为上座部和大众部，其中上座部主要为佛教僧团中的长老，大众部主要为中下层佛教徒。
+	公元前3世纪佛教发生第二次大分裂，称为部派分裂，从此佛教进入部派时期，在这一时期上座部和大众部分裂、融合，到公元前1世纪形成具有完整体系的大乘佛教和小乘佛教，又各自分为大乘有宗、大乘无宗、小乘有宗、小乘无宗。
+
+06-manual-22 与全库检索确认印度佛教时间表及“大众部”未在 0119/0120 讲稿出现，保留参考内容并标明编者增补边界。
+
+依据：[2-2-1 无限主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0120_2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p3174.md)。
+
+### 1-1-1-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①独断论的失败。
+
+修改后：①由永恒统御转向“世界自身进化”的动态模式（原摘要概括为“独断论的失败”，系编者压缩，非全盘实证结论）。
+
+06-manual-11 指出原短句省去 P1 具体机制而过度浓缩，补充讲稿原述与概括说明。
+
+依据：[1-1-1-2 有机进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-2_%E6%9C%89%E6%9C%BA%E8%BF%9B%E5%8C%96%E8%AE%BA/0006_1-1-1-2_%E6%9C%89%E6%9C%BA%E8%BF%9B%E5%8C%96%E8%AE%BA_p99.md)。
+
+### 1-1-1-4
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①化学能、核能、恒星能量、星系能量、因果律武器的比大小游戏。
+
+修改后：①核能（裂变聚变/核弹）、恒星能量、星系能量与反因果律武器的递增比大小游戏（原串首项“化学能”在已核讲稿 0008 P2、8–9、17、26 及全库检索未见定位，按原摘要提示存疑）。
+
+06-manual-11 及全文检索未定位“化学能”，保留递增比拼核心并标出首项未定位边界。
+
+依据：[1-1-1-4 宇宙悲观主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/1-1-1-4_%E5%AE%87%E5%AE%99%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89/0008_1-1-1-4_%E5%AE%87%E5%AE%99%E6%82%B2%E8%A7%82%E4%B8%BB%E4%B9%89_p149.md)。
+
+### 1-1-2-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③用“关系主义”去结点化，去实体化，去中心化。
+
+修改后：③用“关系主义”去节点化、去实体化（原摘要并列之“去中心化”在已核讲稿 0013 P3、12–13 未作独立术语出现，属编者概括）。
+
+06-manual-11 指出“去中心化”未作为独立术语出现在 0013，将编者概括与讲稿原述分开。
+
+依据：[1-1-2-4 解构建构论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA/0013_1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA_p282.md)。
+
+### 1-1-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 不可能性(共同体甚至不能在一个范式上获得统一的认识)
+
+修改后：目的论4：不可能性（共同体甚至不能在一个范式上获得统一的认识；“不可能性”为原摘要概括标签，讲稿 0013 P10 实重体验描述的平等与相对主义）
+
+06-manual-11 指出 P10 强调体验平等/相对主义而未正式命名“不可能性”，补注说明并统一冒号格式。
+
+依据：[1-1-2-4 解构建构论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA/0013_1-1-2-4_%E8%A7%A3%E6%9E%84%E5%BB%BA%E6%9E%84%E8%AE%BA_p282.md)。
+
+### 1-1-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①人所体验的所有现象、中心化的产物、人的意识是由物理层面的秩序和人的心灵结构和社会层面的文化背景中心化的产物。
+
+修改后：①（据 0014 P6–9 概括，该文件开篇半句残缺）人的意识是由物理/自然秩序、相对独立的认知结构与社会/软件层面共同调节的结构性产物（原摘要“所有现象”“中心化”及“文化背景”未在已核段逐字出现）。
+
+06-manual-11 指出开篇残缺及“所有现象/中心化/文化背景”非逐字表述，依 P6–9 结构重述并保留原出处说明。
+
+依据：[1-1-3 认知主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/0014_1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89_p296.md)。
+
+### 1-1-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④通过研究人的意识结构，可以重新建构人的意识，创造人工智能。
+
+修改后：④提出通过研究认知结构与意识建模来发展人工智能的研究设想（原摘要“重新建构人的意识”作为具体操作或已实现能力在 0014 P1–2、7–9 未见定位）。
+
+06-manual-11 区分研究设想与“重构意识”的已实现断言，补足边界说明。
+
+依据：[1-1-3 认知主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/0014_1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89_p296.md)。
+
+### 1-1-3-1
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①死板的认为所有心灵意识的活动全都由一种函数决定，可以通过一种数学化的方法去描述它。
+
+修改后：①（针对早期机械功能主义模型而言，“死板”系编者批评）倾向以函数关系、功能层因果网络及通用函数体系来说明心灵运作并作数学化描述（0015 P6–12 讨论通用函数体系而非单一函数）。
+
+06-manual-11 指出讲稿实为多种功能层函数网络/通用函数体系且“所有”仅指早期机械功能主义模型，据此限定。
+
+依据：[1-1-3-1 功能主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89/0015_1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89_p307.md)。
+
+### 1-1-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 数理化函数(终极意义函数的自我循环和运动)
+
+修改后：目的论1：数理化函数（宇宙局部不断出现功能/心灵黑箱并趋向通用函数体系；原括注“终极意义函数的自我循环和运动”在 0015 P10–12 未定位）
+
+06-manual-11 指出“终极意义函数的自我循环”未在 P10–12 定位，以已核内容替换括注并保留原语提示。
+
+依据：[1-1-3-1 功能主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89/0015_1-1-3-1_%E5%8A%9F%E8%83%BD%E4%B8%BB%E4%B9%89_p307.md)。
+
+### 1-1-3-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①相较于基因Gene的生物学层面客观的特性，模因Meme是设计工程学文化层面的东西，认知的构造物，强调设计、工程学关系。
+
+修改后：①模因(Meme)被界定为区别于物理基底的设计层面构型与认知构造物，强调工程学与功能关系（原摘要“相较于基因 Gene 生物学层面客观特性”之对照在 0016 P1–2、6–8 未展开，仅借用《自私的基因》作提示）。
+
+06-manual-11 指出 Gene 生物学客观特性的对比未在已核正文展开，调整句首并标明边界。
+
+依据：[1-1-3-2 自由进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md)。
+
+### 1-1-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 元胞机主体化的物理宇宙
+
+修改后：场域论1：元胞机式的物理宇宙与模因竞争场（原摘要“主体化”一词在 0016 P1–3、18–19 未作本讲场域定义，意识发生恰是讲者质疑其未能说明之处）
+
+06-manual-11 指出 0016 未以“主体化”定义物理宇宙场域，校正轴表述并统一冒号。
+
+依据：[1-1-3-2 自由进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md)。
+
+### 1-1-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 决定论的物理法则和自由的模因之间的冲突(代表宇宙涌向超越性的方向)
+
+修改后：目的论2：突变性与物理层/设计层断裂（原摘要概括为“决定论的物理法则和自由的模因之间的冲突(代表宇宙涌向超越性的方向)”，其中“涌向超越性方向”在 0016 P17–23 未定位）
+
+06-manual-11 指出 P17–23 重心为突变性与层面断裂，“涌向超越方向”未定位，据此校准目的论表述。
+
+依据：[1-1-3-2 自由进化论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA/0016_1-1-3-2_%E8%87%AA%E7%94%B1%E8%BF%9B%E5%8C%96%E8%AE%BA_p324.md)。
+
+### 1-1-3-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①侧重自我意识的研究，研究清楚自我意识的产生是研究其他意识的必要前提。
+
+修改后：①本讲着重探讨自我意识的产生与结构（原摘要“研究清楚自我意识的产生是研究其他意识的必要前提”这一必要条件断言在 0017 P14–17、29–31 未见定位，不能仅由篇幅推论）。
+
+06-manual-11 指出“必要前提”一说未在 0017 定位，改写为客观说明篇幅重点并标注原推论。
+
+依据：[1-1-3-3 认知自我主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89/0017_1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89_p347.md)。
+
+### 1-1-3-3
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④更高级的资产阶级意识形态的消费品。
+
+修改后：④讲者将其定性为偏“高级保守主义”的精英意识形态并提及索罗斯偏爱（原摘要“更高级的资产阶级意识形态的消费品”为编者压缩判断，在 0017 P35–38 未逐字出现）。
+
+06-manual-11 指出“资产阶级意识形态的消费品”属编者压缩而非讲稿逐字评价，改按 P35–38 实述改写。
+
+依据：[1-1-3-3 认知自我主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89/0017_1-1-3-3_%E8%AE%A4%E7%9F%A5%E8%87%AA%E6%88%91%E4%B8%BB%E4%B9%89_p347.md)。
+
+### 1-1-3-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③新兴科技资本家的后现代的人生态度。
+
+修改后：③讲稿开篇以乔布斯、比尔·盖茨及程序员追求空灵为例，结尾联系新世纪禅宗（原摘要“新兴科技资本家的后现代的人生态度”系编者据此例举归纳，不宜直接外推为整个群体定论）。
+
+06-manual-11 指出不宜将人物举例直接外推为群体社会学结论，补入出处限制。
+
+依据：[1-1-3-4 认知无我论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA/0018_1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA_p389.md)。
+
+### 1-1-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 不存在人的自我(只存在物理过程、神经元、神经电化学过程)
+
+修改后：目的论4：不存在实体化的人的自我（目的论段讲降阶次与认识论闭合，并保留神经电化学物理模型；原括注“只存在物理过程……”的排他定义在 0018 P9、18、20–21 未完整出现）
+
+06-manual-11 指出括号排他定义未在目的论段完整出现，补足降阶次/认识论闭合说明并统一冒号。
+
+依据：[1-1-3-4 认知无我论：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA/0018_1-1-3-4_%E8%AE%A4%E7%9F%A5%E6%97%A0%E6%88%91%E8%AE%BA_p389.md)。
+
+### 1-1-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④相信权威，需要权威，创造权威。
+
+修改后：④依赖强者意志与以“客观”自居的评价权威（原摘要“相信权威，需要权威，创造权威”系编者对其合法化机制的三段概括，在 0019 P14、20–22 未逐项明说）。
+
+06-manual-11 指出“相信/需要/创造”未逐项明说，将其定位于编者概括并补出 P14/20–22 依据。
+
+依据：[1-1-4 行为主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0019_1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p416.md)。
+
+### 1-1-4-4
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③拒绝思考符号的存在的运动。
+
+修改后：③讲者批评其预设符号互动场与既有秩序而不去反思场本身（原摘要“拒绝思考符号的存在的运动”系编者较宽泛的转述，在 0023 P5–6、8–9 未逐字定位）。
+
+06-manual-11 指出“拒绝思考符号的存在”为编者宽泛转述，贴近 P5–9 原意修订。
+
+依据：[1-1-4-4 社会行为主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/1-1-4-4_%E7%A4%BE%E4%BC%9A%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0023_1-1-4-4_%E7%A4%BE%E4%BC%9A%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p515.md)。
+
+### 1-2-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 信仰的秩序(经典(圣经、论语)包含了一切)
+
+修改后：目的论1：信仰的秩序（“信仰原则”与经文包含全部真理有对应，正文并类比中国古代经典；原括注具体书名“《圣经》《论语》”中《论语》在 0032 P12–13 及全篇未定位，非课程明确举例）
+
+06-manual-12 及全文检索未定位《论语》，剔除未定位的推荐误读并统一冒号。
+
+依据：[1-2-2-1 传殖主义：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-1_%E4%BC%A0%E6%AE%96%E4%B8%BB%E4%B9%89/0032_1-2-2-1_%E4%BC%A0%E6%AE%96%E4%B8%BB%E4%B9%89_p651.md)。
+
+### 1-2-2-3
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①由传殖主义发展而来。
+
+修改后：①一方面沿用传殖主义“身体创造灵魂”的思维，另一方面以部分主义从自然背景分离神圣物的机制来解释拜物教（原摘要仅列单一来源，据 0034 P1–5 补齐）。
+
+06-manual-12 指出原摘要仅交代传殖说单一来源，依 P1–5 补全部分主义分离机制。
+
+依据：[1-2-2-3 拜物教_读懂资本论的必修课_物神崇拜的符号学功能_偶像崇拜的第三种形式：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F/0034_1-2-2-3_%E6%8B%9C%E7%89%A9%E6%95%99_%E8%AF%BB%E6%87%82%E8%B5%84%E6%9C%AC%E8%AE%BA%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE_%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%AD%A6%E5%8A%9F%E8%83%BD_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F_p711.md)。
+
+### 1-2-2-4
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②崇拜比人更长久存在的物(神像、建筑)。
+
+修改后：②崇拜比人寿命更长久存在的物（讲稿 0035 P1–2、22–23 明确以“泥塑偶像”为例而获得崇高感；原括注另一例子“建筑”在 0035 全文检索未出现）。
+
+06-manual-12 与全文检索证实“建筑”未在 0035 出现，补明讲稿实际所举为“神像/泥塑偶像”。
+
+依据：[1-2-2-4 时间崇拜_偶像崇拜的终极形式_论时间之神_Aion_狄奥尼索斯与奥菲欧斯的三位一体_节庆_永恒_往生_死亡崇拜背后的意识形态机制：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/1-2-2-4_%E6%97%B6%E9%97%B4%E5%B4%87%E6%8B%9C_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%BB%88%E6%9E%81%E5%BD%A2%E5%BC%8F_%E8%AE%BA%E6%97%B6%E9%97%B4%E4%B9%8B%E7%A5%9E_Aion_%E7%8B%84%E5%A5%A5%E5%B0%BC%E7%B4%A2%E6%96%AF%E4%B8%8E%E5%A5%A5%E8%8F%B2%E6%AC%A7%E6%96%AF%E7%9A%84%E4%B8%89%E4%BD%8D%E4%B8%80/0035_1-2-2-4_%E6%97%B6%E9%97%B4%E5%B4%87%E6%8B%9C_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C%E7%9A%84%E7%BB%88%E6%9E%81%E5%BD%A2%E5%BC%8F_%E8%AE%BA%E6%97%B6%E9%97%B4%E4%B9%8B%E7%A5%9E_Aion_%E7%8B%84%E5%A5%A5%E5%B0%BC%E7%B4%A2%E6%96%AF%E4%B8%8E%E5%A5%A5%E8%8F%B2%E6%AC%A7%E6%96%AF%E7%9A%84%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93_%E8%8A%82%E5%BA%86_%E6%B0%B8%E6%81%92_%E5%BE%80%E7%94%9F_%E6%AD%BB%E4%BA%A1%E5%B4%87%E6%8B%9C%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6_p732.md)。
+
+### 1-3-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 天心(法则)与我心(欲望)的对立
+
+修改后：目的论2：天心(法则)与我心(欲望)的对立（0049 P2–3 初设此对立，P10–15、24 进一步深化为特殊共同体律法与主体所认普遍法及 law&sin / law=sin 冲突，不可将全讲简化为此二元）
+
+06-manual-13 指出后半讲深化为特殊共同体法与普遍法冲突，补充阶段限定并统一冒号。
+
+依据：[1-3-1-2 主观唯心主义_成为_圣人_的最廉价方式_不少聪明人无法抵挡的诱惑：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/1-3-1-2_%E4%B8%BB%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%88%90%E4%B8%BA_%E5%9C%A3%E4%BA%BA_%E7%9A%84%E6%9C%80%E5%BB%89%E4%BB%B7%E6%96%B9%E5%BC%8F_%E4%B8%8D%E5%B0%91%E8%81%AA%E6%98%8E%E4%BA%BA%E6%97%A0%E6%B3%95%E6%8A%B5%E6%8C%A1%E7%9A%84%E8%AF%B1%E6%83%91/0049_1-3-1-2_%E4%B8%BB%E8%A7%82%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_%E6%88%90%E4%B8%BA_%E5%9C%A3%E4%BA%BA_%E7%9A%84%E6%9C%80%E5%BB%89%E4%BB%B7%E6%96%B9%E5%BC%8F_%E4%B8%8D%E5%B0%91%E8%81%AA%E6%98%8E%E4%BA%BA%E6%97%A0%E6%B3%95%E6%8A%B5%E6%8C%A1%E7%9A%84%E8%AF%B1%E6%83%91_p1134.md)。
+
+### 1-3-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 私人目的(权钱身份地位)与公共目的(真善美)的对立
+
+修改后：目的论2：私人目的（0054 P15–16、19–23 具体列举暴力、色情、永生；“权钱身份地位”系原摘要常见例化，未在该段逐项出现）与公共目的(真善美)的对立
+
+06-manual-13 指出正文具体例子为暴力、色情、永生而非权钱身份地位，据此校注并统一冒号。
+
+依据：[1-3-2-2 现代犬儒主义_工薪阶层最容易陷入的意识形态陷阱：人工摘要逐字段复核](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/1-3-2-2_%E7%8E%B0%E4%BB%A3%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82%E6%9C%80%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%99%B7%E9%98%B1/0054_1-3-2-2_%E7%8E%B0%E4%BB%A3%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89_%E5%B7%A5%E8%96%AA%E9%98%B6%E5%B1%82%E6%9C%80%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E9%99%B7%E9%98%B1_p1270.md)。
+
+### 2-1-1-2
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②阿那克西美尼说气就是神，只有气是自我施加规定性使自己实体化。
+
+修改后：②据二手讲稿 0100（P20、23、27–28），讲者阐释阿那克西美尼认为气(pneuma)具神性或精神性力量并自我施加规定性而实体化（“只有气……”及逐字原话归属属课程推论，尚未对照古希腊残篇逐字确证）。
+
+06-manual-21 指出“只有”与阿那克西美尼本人逐字引语证据不足，界定为课程阐释范围。
+
+依据：[2-1-1-2 气动一元论（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-2_%E6%B0%94%E5%8A%A8%E4%B8%80%E5%85%83%E8%AE%BA_%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E7%BE%8E%E5%B0%BC%E7%9A%84%E5%93%B2%E5%AD%A6%E5%88%B6%E6%AF%A1%E6%9C%AF_%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E4%B9%8B%E4%B8%AD%E9%9A%90%E8%97%8F%E7%9A%84%E7%A7%98%E5%AF%86/0100_2-1-1-2_%E6%B0%94%E5%8A%A8%E4%B8%80%E5%85%83%E8%AE%BA_%E9%98%BF%E9%82%A3%E5%85%8B%E8%A5%BF%E7%BE%8E%E5%B0%BC%E7%9A%84%E5%93%B2%E5%AD%A6%E5%88%B6%E6%AF%A1%E6%9C%AF_%E6%B0%94%E8%B1%A1%E4%B8%87%E5%8D%83%E4%B9%8B%E4%B8%AD%E9%9A%90%E8%97%8F%E7%9A%84%E7%A7%98%E5%AF%86_p2493.md)。
+
+### 2-1-1-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②努斯(Nous)是万物旋转的形式，通过此种运动，在混沌中同类物质相聚集，但其中始终有无限的异类物质彼此掺杂(Every thing includes a portion of everything)，这种努斯(Nous)作为形式在万物的运动中实体化、万物相互掺杂的关系类同于分形，也类同于用动态杂色显示的图形。
+
+修改后：②努斯(Nous)是万物旋转的形式，通过此种运动，在混沌中同类物质相聚集，但其中始终有无限的异类物质彼此掺杂(Every thing includes a portion of everything)，这种努斯(Nous)作为形式在万物的运动中实体化、万物相互掺杂的关系类同于分形，也类同于用动态杂色显示的图形。（注：旋转聚合、异质掺杂及形式实体化见 0101 P16–29；“分形”系讲者自述的现代思辨比拟而非古代原典理论，“动态杂色图形”视觉细节未查原视频画面。）
+
+06-manual-21 指出“分形”系讲者现代思辨补足且动态图形未见原画面，补入边界注。
+
+依据：[2-1-1-3 分形多元论/杂色多元论（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-3_%E5%88%86%E5%BD%A2%E5%A4%9A%E5%85%83%E8%AE%BA_%E5%8D%83%E5%8F%A4%E4%B9%8B%E8%B0%9C_%E4%BD%95%E4%B8%BA%E5%8A%AA%E6%96%AF_%E5%AE%A2%E8%A7%82%E7%B2%BE%E7%A5%9E%E5%A6%82%E4%BD%95%E5%AE%9E%E4%BD%93%E5%8C%96_%E9%98%BF%E9%82%A3%E5%85%8B%E8%90%A8%E6%88%88%E6%8B%89%E7%9A%84%E5%88%86%E5%BD%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E8%BF%9E%E7%BB%AD/0101_2-1-1-3_%E5%88%86%E5%BD%A2%E5%A4%9A%E5%85%83%E8%AE%BA_%E5%8D%83%E5%8F%A4%E4%B9%8B%E8%B0%9C_%E4%BD%95%E4%B8%BA%E5%8A%AA%E6%96%AF_%E5%AE%A2%E8%A7%82%E7%B2%BE%E7%A5%9E%E5%A6%82%E4%BD%95%E5%AE%9E%E4%BD%93%E5%8C%96_%E9%98%BF%E9%82%A3%E5%85%8B%E8%90%A8%E6%88%88%E6%8B%89%E7%9A%84%E5%88%86%E5%BD%A2%E5%87%A0%E4%BD%95%E4%B8%8E%E8%BF%9E%E7%BB%AD%E7%BB%9F%E6%80%9D%E6%83%B3_p2523.md)。
+
+### 2-1-1-4
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④赫拉克利特是哭泣的哲学家，认为宇宙在目的论上是荒谬的，万物不断燃烧熄灭，如同一堆东西糊里糊涂的堆在一起，对人类智慧感到绝望(“身体相比粪便是更应该排出去的！”)。
+
+修改后：④赫拉克利特是哭泣的哲学家，认为宇宙在目的论上是荒谬的，万物不断燃烧熄灭，如同一堆东西糊里糊涂的堆在一起，对人类智慧感到绝望(“身体相比粪便是更应该排出去的！”)。（注：堆积排斥人类智慧与身体/粪便句见 0102 P35–38；“哭泣的哲学家”仅见文件标题，生平轶事及“身体/尸体”残篇译词尚未独立回查古希腊原典。）
+
+06-manual-21 指出“哭泣”仅见标题且生平/残篇译词未回查原典，补入限定注。
+
+依据：[2-1-1-4 形而上辩证主义/辩证的形而上学（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/2-1-1-4_%E5%BD%A2%E8%80%8C%E4%B8%8A%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E8%B5%AB%E6%8B%89%E5%85%8B%E5%88%A9%E7%89%B9%E5%9B%A0%E4%BD%95%E5%93%AD%E6%B3%A3_%E7%81%AB%E7%84%B0%E4%B8%8E%E7%81%B0%E7%83%AC%E7%9A%84%E5%93%B2%E5%AD%A6_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E5%BC%80%E7%AB%AF/0102_2-1-1-4_%E5%BD%A2%E8%80%8C%E4%B8%8A%E8%BE%A9%E8%AF%81%E4%B8%BB%E4%B9%89_%E8%B5%AB%E6%8B%89%E5%85%8B%E5%88%A9%E7%89%B9%E5%9B%A0%E4%BD%95%E5%93%AD%E6%B3%A3_%E7%81%AB%E7%84%B0%E4%B8%8E%E7%81%B0%E7%83%AC%E7%9A%84%E5%93%B2%E5%AD%A6_%E8%BE%A9%E8%AF%81%E6%B3%95%E7%9A%84%E5%BC%80%E7%AB%AF_p2561.md)。
+
+### 2-1-3-1
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②火气水土四根也有对应的神，火对应宙斯，气对应赫拉，水对应涅斯提斯，土对应哈迪斯，这四大神的爱恨纠葛受阿弗洛狄忒与尼克亚主宰，万物也因此不断发生结合与分离的反应。
+
+修改后：②火气水土四根也有对应的神：火对应宙斯，气对应赫拉，土对应哈迪斯，水在已核二手讲稿 0109（P5–9、12–13）称为“冥后”（原摘要专名“涅斯提斯”未在 0109 正文出现，待对照残篇原典）；这四大神的爱恨纠葛受阿弗洛狄忒与尼克亚主宰，万物也因此不断发生结合与分离的反应。
+
+06-manual-21 与全文检索证实“涅斯提斯”未在 0109 正文出现（讲稿作“冥后”），据此校改并保留原词供对照。
+
+依据：[2-1-3-1 反应多元论（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/2-1-3-1_%E5%8F%8D%E5%BA%94%E5%A4%9A%E5%85%83%E8%AE%BA_%E8%A6%81%E6%9C%89%E5%A4%9A%E8%A0%A2_%E6%89%8D%E4%BC%9A%E6%8A%8A%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92%E7%90%86%E8%A7%A3%E4%B8%BA%E5%9B%9B%E5%85%83%E7%B4%A0%E8%AF%B4/0109_2-1-3-1_%E5%8F%8D%E5%BA%94%E5%A4%9A%E5%85%83%E8%AE%BA_%E8%A6%81%E6%9C%89%E5%A4%9A%E8%A0%A2_%E6%89%8D%E4%BC%9A%E6%8A%8A%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92%E7%90%86%E8%A7%A3%E4%B8%BA%E5%9B%9B%E5%85%83%E7%B4%A0%E8%AF%B4_p2880.md)。
+
+### 2-1-4-1
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④巴门尼德与高尔吉亚之争：
+	巴门尼德认为：
+		(1)存在者存在，不存在者不存在。
+		(2)存在与思维是一回事。
+		(3)存在的就能被思考被言说。
+	高尔吉亚认为：
+		(1)无物存在。
+		(2)即使有东西存在，也不能思维它。
+		(3)即使我们可以思维它，我们也不能言说它。
+	巴门尼德的论述是递进式的；高尔吉亚的论述是撤退结构的，哪怕(1)被论破，(2)能补上这个缺口，(2)被论破，(3)也能补上这个缺口。二者都是在场形而上学，区别只在于巴门尼德认为存在超脱语言的存在物，这种东西能被言说被思考，而高尔吉亚认为语言本身就是与存在物并列的，话语本身就有存在论地位，所以客观的存在物是不可知的也并不重要。高尔吉亚的(2)(3)只说了一半，(2)没说那一半是：既然我们不能思维存在者，那么它也就不存在；(3)没说那一半是：既然我们不能言说存在者，那么也就是我们不能思考它，那么也就是它不存。所以高尔吉亚的观点也建立在巴门尼德“存在=思维=语言”的基础上，高尔吉亚是一个隐藏的巴门尼德主义者。
+
+修改后：④巴门尼德与高尔吉亚之争：
+	巴门尼德认为：
+		(1)存在者存在，不存在者不存在。
+		(2)存在与思维是一回事。
+		(3)存在的就能被思考被言说。
+	高尔吉亚认为：
+		(1)无物存在。
+		(2)即使有东西存在，也不能思维它。
+		(3)即使我们可以思维它，我们也不能言说它。
+	巴门尼德的论述是递进式的；高尔吉亚的论述是撤退结构的，哪怕(1)被论破，(2)能补上这个缺口，(2)被论破，(3)也能补上这个缺口。二者都是在场形而上学，区别只在于巴门尼德认为存在超脱语言的存在物，这种东西能被言说被思考，而高尔吉亚认为语言本身就是与存在物并列的，话语本身就有存在论地位，所以客观的存在物是不可知的也并不重要。高尔吉亚的(2)(3)只说了一半，(2)没说那一半是：既然我们不能思维存在者，那么它也就不存在；(3)没说那一半是：既然我们不能言说存在者，那么也就是我们不能思考它，那么也就是它不存。所以高尔吉亚的观点也建立在巴门尼德“存在=思维=语言”的基础上，高尔吉亚是一个隐藏的巴门尼德主义者。
+	【校勘边界】双方各三命题及“隐藏巴门尼德主义者”简述见 0114（P2、18–19）与次讲 0115（P3）；“撤退结构”、话语存在论地位与“没说那一半”推演在 0114 说明另出补充视频，尚待该补充讲次核对。
+
+06-manual-21 指出撤退结构等细部推演未在 0114 主讲全文展开而另见补充视频，补入范围边界注。
+
+依据：[2-1-4-1 相对主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-1_%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_%E5%AD%A6%E4%BC%9A%E9%AB%98%E5%B0%94%E5%90%89%E4%BA%9A%E7%9A%84%E4%BF%AE%E8%BE%9E%E5%AD%A6%E4%B8%8E%E8%BE%A9%E6%8A%A4%E6%9C%AF_%E6%89%80%E6%9C%89%E7%9A%84%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%8D%E8%BF%87%E6%98%AF%E6%B8%B8%E6%88%8F/0114_2-1-4-1_%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_%E5%AD%A6%E4%BC%9A%E9%AB%98%E5%B0%94%E5%90%89%E4%BA%9A%E7%9A%84%E4%BF%AE%E8%BE%9E%E5%AD%A6%E4%B8%8E%E8%BE%A9%E6%8A%A4%E6%9C%AF_%E6%89%80%E6%9C%89%E7%9A%84%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%8D%E8%BF%87%E6%98%AF%E6%B8%B8%E6%88%8F_p3015.md)。
+
+### 2-1-4-3
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②用记忆固定可能性相互均衡的点，在事物向一方面发展时，将事物的发展嫁接到这一点上，把事物新的状况设定为新的可能性相互均衡的点，恢复各种可能性的相互均衡。
+
+修改后：②用记忆固定可能性相互均衡的点，在事物向一方面发展时，将事物的发展嫁接到这一点上，把事物新的状况设定为新的可能性相互均衡的点，恢复各种可能性的相互均衡。（注：记忆原型作为多可能性居间机制见 0116 P11–14、18–19；末句“把事物新的状况设定为新的均衡点”之迭代步骤在已核段落未见明确逐字表述。）
+
+06-manual-21 指出末句迭代公式未在 0116 已核段明确出现，补入出处限制。
+
+依据：[2-1-4-3 记忆主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/2-1-4-3_%E8%AE%B0%E5%BF%86%E4%B8%BB%E4%B9%89_%E8%AE%B0%E5%BF%86%E6%9C%AF_%E9%9B%84%E8%BE%A9%E6%9C%AF_%E5%B8%8C%E5%BA%87%E4%BA%9A%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%8D%95%E6%8D%89_%E4%BF%9D%E5%AD%98_%E5%88%9B%E9%80%A0%E6%97%A0%E9%99%90/0116_2-1-4-3_%E8%AE%B0%E5%BF%86%E4%B8%BB%E4%B9%89_%E8%AE%B0%E5%BF%86%E6%9C%AF_%E9%9B%84%E8%BE%A9%E6%9C%AF_%E5%B8%8C%E5%BA%87%E4%BA%9A%E7%9A%84%E5%93%B2%E5%AD%A6_%E6%8D%95%E6%8D%89_%E4%BF%9D%E5%AD%98_%E5%88%9B%E9%80%A0%E6%97%A0%E9%99%90_p3074.md)。
+
+### 2-2-1
+
+字段：`['feature_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：③万物的每一刹那(Kṣaṇa)都是静态的切片，其本身是无法被体验为存在的，需要依靠业力(Karma)网络才能相互连结起来，被主体化地体验。
+
+修改后：③万物的每一刹那(Kṣaṇa)都是静态的切片，需依靠业力(Karma)网络相互连结而被主体化地体验（按：原摘要“其本身无法被体验为存在”之绝对化应加区分——0120 P9–10 允许只体验瞬间，P20–22 则进一步否定切片实存）。
+
+06-manual-22 指出 0120 P9–10 与 P20–22 对刹那体验与实存分两层论证，不宜绝对化概括。
+
+依据：[2-2-1 无限主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0120_2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p3174.md)。
+
+### 2-2-1-1
+
+字段：`['feature_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：②相信存在大他者对业力进行增减计算，所以解脱是可能的，对解脱方法(八正道)的把握是经验性的，没有反思到底。
+
+修改后：②批评部派修行陷入无明时假定存在“大他者”对业力进行增减计算以致认为解脱可行，而对解脱方法(八正道)的把握仍是经验性的、没有反思到底（0121 P14、21–22、32 同时明确否认存在实际账簿）。
+
+06-manual-22 指出讲稿是否认实际账簿、限定陷入无明时之假定，修正原摘要无条件“相信存在大他者”的易误读措辞。
+
+依据：[2-2-1-1 分子业力主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-2-1-1_%E5%88%86%E5%AD%90%E4%B8%9A%E5%8A%9B%E4%B8%BB%E4%B9%89_%E8%80%86%E9%82%A3%E6%95%99%E5%92%8C%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E5%85%B3%E4%BA%8E%E4%B8%9A%E5%8A%9B_%E6%84%8F%E8%AF%86_%E8%BD%AE%E5%9B%9E%E4%B8%8E%E8%A7%A3%E8%84%B1%E7%9A%84%E7%BA%B5%E5%90%91%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%9C%8B%E5%AE%8C%E4%B8%8D%E7%94%A8/0121_2-2-1-1_%E5%88%86%E5%AD%90%E4%B8%9A%E5%8A%9B%E4%B8%BB%E4%B9%89_%E8%80%86%E9%82%A3%E6%95%99%E5%92%8C%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E5%85%B3%E4%BA%8E%E4%B8%9A%E5%8A%9B_%E6%84%8F%E8%AF%86_%E8%BD%AE%E5%9B%9E%E4%B8%8E%E8%A7%A3%E8%84%B1%E7%9A%84%E7%BA%B5%E5%90%91%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E7%9C%8B%E5%AE%8C%E4%B8%8D%E7%94%A8%E5%90%83%E7%BD%97%E6%B1%89%E6%9E%9C_p3216.md)。
+
+### 2-2-2
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①《太一生水》：
+	太一生水。
+	水反辅太一，是以成天。
+	天反辅太一，是以成地。
+	天地复相辅也，是以成神明。
+	神明复相辅也，是以成阴阳。
+	阴阳复相辅也，是以成四时。
+	四时复相辅也，是以成凔热。
+	凔热复相辅也，是以成湿燥。
+	湿燥复相辅也，成岁而止。
+
+修改后：①《太一生水》：
+	太一生水。
+	水反辅太一，是以成天。
+	天反辅太一，是以成地。
+	天地复相辅也，是以成神明。
+	神明复相辅也，是以成阴阳。
+	阴阳复相辅也，是以成四时。
+	四时复相辅也，是以成凔热。
+	凔热复相辅也，是以成湿燥。
+	湿燥复相辅也，成岁而止。
+	【校勘边界】起首与“成岁而止”及冷热湿燥次序见二手讲稿 0125（P5–16、32–38）；中间“天地复相辅也”至“阴阳”引文与“凔热”异体补字本轮未对照《太一生水》竹简原典逐字校勘。
+
+06-manual-22 指出全段古简引文及异体补字未对照出土文献原典逐字校勘，补充边界说明。
+
+依据：[2-2-2 否定主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/0125_2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4_p3398.md)。
+
+### 2-2-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 刚(快的、强硬的)与柔(慢的、可观其变的)的对立
+
+修改后：本体论2：刚(原括注“快的、强硬的”)与柔(原括注“慢的、可观其变的”)的初步对立（后文及次讲 0132 进一步转为实体“柔 or 刚”与神明“柔 and 刚”对立；快慢括注在 L82–103 未直接展开）
+
+06-manual-22 指出后文转向“柔or刚/柔and刚”深化且快慢括注未展开，补充限定并统一冒号。
+
+依据：[2-2-2-1 无为主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/item_0127_%E5%8E%9F%E8%A7%86%E9%A2%91%E6%A0%87%E9%A2%98_%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89_%E6%97%A0%E4%B8%BA%E4%B8%BB%E4%B9%89_2-2-2-1_%E8%80%81%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6/0127_item_%E5%8E%9F%E8%A7%86%E9%A2%91%E6%A0%87%E9%A2%98_%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89_%E6%97%A0%E4%B8%BA%E4%B8%BB%E4%B9%89_2-2-2-1_%E8%80%81%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_p3438.md)、[2-2-2-3 人道的自然主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-3_%E4%BA%BA%E9%81%93%E7%9A%84%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E6%9D%A8%E6%9C%B1_%E6%8B%94%E4%B8%80%E6%AF%9B%E8%80%8C%E5%88%A9%E5%A4%A9%E4%B8%8B_%E5%BC%97%E4%B8%BA%E4%B9%9F/0132_2-2-2-3_%E4%BA%BA%E9%81%93%E7%9A%84%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E6%9D%A8%E6%9C%B1_%E6%8B%94%E4%B8%80%E6%AF%9B%E8%80%8C%E5%88%A9%E5%A4%A9%E4%B8%8B_%E5%BC%97%E4%B8%BA%E4%B9%9F_p3523.md)。
+
+### 2-2-2-2
+
+字段：`['feature_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：④庄子《大宗师》描述的现象学直观的八个步骤：
+(1)外天下：去庸俗实在论，脱离稳定、安宁的背景性场域，进入思想的动员状态。
+(2)外物：悬置外在的事物，把主体抽离于空间性结构，进入第一人称直观状态。
+(3)外生：把生命体验去空间化(不把生命看成线性的进度条)，使生命不断自我涌现。
+(4)朝彻：通过外天下、外物、外生让渡了空间化的操作的权力，使外物在时间之流中自然而然的自我结构起来，大放光明。
+(5)见独(成为真人)：刺穿规训体系，形成新的快感通路，产生新的自我意识，生成独立于意识形态和庸俗伦理标准的目的论体系和规范框架。
+(6)无古今(成为圣人)：自我设定的目的论体系和规范框架在第一人称体验中是去时间化的、超历史的存在。
+(7)不死不生(成为神人)：坚持自我设定的目的论体系和规范框架，使这种立场去主体化，把自己注册为本体性的力量。
+(8)撄宁(成为至人)：矛盾、不一致性、开放性和断裂先于任何符号学体系，只有通过现世的实践才能重构本体论结构，这一点对于辩证唯物主义者是显而易见的。
+
+修改后：④庄子《大宗师》描述的现象学直观的八个步骤：
+(1)外天下：去庸俗实在论，脱离稳定、安宁的背景性场域，进入思想的动员状态。
+(2)外物：悬置外在的事物，把主体抽离于空间性结构，进入第一人称直观状态。
+(3)外生：把生命体验去空间化(不把生命看成线性的进度条)，使生命不断自我涌现。
+(4)朝彻：通过外天下、外物、外生让渡了空间化的操作的权力，使外物在时间之流中自然而然的自我结构起来，大放光明。
+(5)见独(成为真人)：刺穿规训体系，形成新的快感通路，产生新的自我意识，生成独立于意识形态和庸俗伦理标准的目的论体系和规范框架。
+(6)无古今(成为圣人)：自我设定的目的论体系和规范框架在第一人称体验中是去时间化的、超历史的存在。
+(7)不死不生(成为神人)：坚持自我设定的目的论体系和规范框架，使这种立场去主体化，把自己注册为本体性的力量。
+(8)撄宁(成为至人)：矛盾、不一致性、开放性和断裂先于任何符号学体系，只有通过现世的实践才能重构本体论结构，这一点对于辩证唯物主义者是显而易见的。
+	【归属提示】据 0131 P19–22，矛盾先于符号结构及实践重建有课程对应，但讲者明确区分庄子倾向超越神秘主义的布置与讲者自身的辩证唯物主义现世实践阐释，阅读时勿混同归属。
+
+06-manual-22 指出第(8)条等处将庄子原意布置与讲者个人辩证唯物主义阐释混压在一处，补明归属区分。
+
+依据：[2-2-2-2 积极的神秘主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_1_%E6%80%BB%E7%BA%B2/0128_2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_1_%E6%80%BB%E7%BA%B2_p3467.md)、[2-2-2-2 积极的神秘主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_3_%E5%9C%A3%E4%BA%BA%E5%B7%A5%E5%8E%82/0131_2-2-2-2_%E7%A7%AF%E6%9E%81%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E5%BA%84%E5%AD%90%E7%9A%84%E5%93%B2%E5%AD%A6_3_%E5%9C%A3%E4%BA%BA%E5%B7%A5%E5%8E%82_p3497.md)。
+
+### 2-2-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 物与道、理的对立
+
+修改后：本体论2：物与道、理的对立（0133 P31 口头总结“道 vs 物”紧接“道和理”存在停顿歧义；前文 P3–7 明言“理”为成物之文而“道”支撑“物”，此顿号归组仍待原音核定）
+
+06-manual-22 指出 P31 口语总括存在停顿歧义，在冒号标准化同时补录歧义来源与待核状态。
+
+依据：[2-2-2-4 实用的神秘主义（社区编纂文本）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/2-2-2-4_%E5%AE%9E%E7%94%A8%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E9%9F%A9%E9%9D%9E%E5%AD%90%E7%9A%84%E9%81%93%E5%AE%B6%E9%AD%94%E6%B3%95_%E6%88%98%E5%9B%BD%E9%A1%B6%E7%BA%A7%E8%B4%B5%E6%97%8F%E5%AD%90%E5%BC%9F%E6%8E%A5%E5%8F%97%E7%9A%84%E7%A5%9E%E7%A7%98%E5%AD%A6%E6%95%99%E8%82%B2/0133_2-2-2-4_%E5%AE%9E%E7%94%A8%E7%9A%84%E7%A5%9E%E7%A7%98%E4%B8%BB%E4%B9%89_%E9%9F%A9%E9%9D%9E%E5%AD%90%E7%9A%84%E9%81%93%E5%AE%B6%E9%AD%94%E6%B3%95_%E6%88%98%E5%9B%BD%E9%A1%B6%E7%BA%A7%E8%B4%B5%E6%97%8F%E5%AD%90%E5%BC%9F%E6%8E%A5%E5%8F%97%E7%9A%84%E7%A5%9E%E7%A7%98%E5%AD%A6%E6%95%99%E8%82%B2_p3543.md)。
+
+### 2-4-1-1
+
+字段：`['feature_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：①波义耳的微粒概念类似原子，但原子不可分而微粒可分，他认为上帝(God)创造了运动的微粒，并赋予和维持其运动规则(Law)，从而构成物质世界。
+
+修改后：①波义耳的微粒概念类似原子，但原子不可分而微粒可分，他认为上帝(God)创造了运动的微粒，并赋予和维持其运动规则(Law)，从而构成物质世界。（注：上帝造运动微粒并赋维持法则见 0168 P3、6；关于微粒可分性本讲稿内部有冲突——P1 曾称“原子无限可分而微粒不能”，P20、23 后段则支持微粒可分，且“原子不可分”对比尚待原视频与波义耳原典核验。）
+
+06-manual-24101 指出 0168 讲稿前后关于原子与微粒可分性存在内部冲突，补出稿内冲突与待核说明。
+
+依据：[2-4-1-1 乐于接受的小体主义_波义耳_聪明而怯懦者的形而上学（人工摘要逐字段核查）](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80/2-4-1-1_%E4%B9%90%E4%BA%8E%E6%8E%A5%E5%8F%97%E7%9A%84%E5%B0%8F%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%B3%A2%E4%B9%89%E8%80%B3_%E8%81%AA%E6%98%8E%E8%80%8C%E6%80%AF%E6%87%A6%E8%80%85%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0168_2-4-1-1_%E4%B9%90%E4%BA%8E%E6%8E%A5%E5%8F%97%E7%9A%84%E5%B0%8F%E4%BD%93%E4%B8%BB%E4%B9%89_%E6%B3%A2%E4%B9%89%E8%80%B3_%E8%81%AA%E6%98%8E%E8%80%8C%E6%80%AF%E6%87%A6%E8%80%85%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4378.md)。
+
+### 1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 实在的世界
+
+修改后：场域论1：实在的世界
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 科学秩序派生的实体（常以基本粒子说明）
+
+修改后：本体论1：科学秩序派生的实体（常以基本粒子说明）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙(秩序网格)
+
+修改后：场域论1：科学化的宇宙(秩序网格)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物理学秩序的实在
+
+修改后：本体论1：物理学秩序的实在
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 物理学秩序的表象化
+
+修改后：认识论1：物理学秩序的表象化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 科学实在
+
+修改后：本体论1：科学实在
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 科学秩序的表象化
+
+修改后：认识论1：科学秩序的表象化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 秩序的永恒统御(无脑循环)
+
+修改后：目的论1：秩序的永恒统御(无脑循环)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 活的科学实在
+
+修改后：本体论1：活的科学实在
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 科学秩序的表象化(上升的)
+
+修改后：认识论1：科学秩序的表象化(上升的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 秩序的永恒循环与上升进化之间的张力
+
+修改后：目的论2：秩序的永恒循环与上升进化之间的张力
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 享乐的工具(使宇宙享乐)
+
+修改后：本体论1：享乐的工具(使宇宙享乐)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 各种消费体验
+
+修改后：认识论1：各种消费体验
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 人类总体的“幸福”
+
+修改后：目的论3：人类总体的“幸福”
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙(能级比拼场)
+
+修改后：场域论1：科学化的宇宙(能级比拼场)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 能量
+
+修改后：本体论1：能量
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 感觉、体验
+
+修改后：认识论1：感觉、体验
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 没有目的，仅仅是存在着
+
+修改后：目的论4：没有目的，仅仅是存在着
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙(穿透力有限)
+
+修改后：场域论1：科学化的宇宙(穿透力有限)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 秩序化的物质
+
+修改后：本体论1：秩序化的物质
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 自然的科学与社会学的对立
+
+修改后：认识论2：自然的科学与社会学的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物理实在(硬的)
+
+修改后：本体论1：物理实在(硬的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 学科机构间关系与学科内关系的对立
+
+修改后：认识论2：学科机构间关系与学科内关系的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 大学话语的二阶循环（生产社会学真理）
+
+修改后：目的论1：大学话语的二阶循环（生产社会学真理）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 历史(科学史)
+
+修改后：场域论1：历史(科学史)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 “自然”的宇宙论模型（不同版本的物理学范式）
+
+修改后：本体论1：“自然”的宇宙论模型（不同版本的物理学范式）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 历史主义(不可通约性)与数理基础主义(形式逻辑的一致性)的对立
+
+修改后：认识论2：历史主义(不可通约性)与数理基础主义(形式逻辑的一致性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 常规状态与反常(革命)状态的对立
+
+修改后：目的论2：常规状态与反常(革命)状态的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(秩序场)
+
+修改后：场域论1：宇宙(秩序场)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物质(文化的载体、基质)
+
+修改后：本体论1：物质(文化的载体、基质)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 有明确状态(行政建制)与无明确状态(文化)的对立
+
+修改后：认识论2：有明确状态(行政建制)与无明确状态(文化)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 文化(调和了历史的重复性与异质性)
+
+修改后：目的论3：文化(调和了历史的重复性与异质性)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(底层一致的实证主义宇宙)
+
+修改后：场域论1：宇宙(底层一致的实证主义宇宙)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 关系(模型化，可以实证地把握)
+
+修改后：本体论1：关系(模型化，可以实证地把握)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 知识(关系性)与价值(超认识论的)的对立
+
+修改后：认识论2：知识(关系性)与价值(超认识论的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物质、基础、基质、硬件
+
+修改后：本体论1：物质、基础、基质、硬件
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 人的意识、人的心灵结构、人的大脑
+
+修改后：认识论3：人的意识、人的心灵结构、人的大脑
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 科学化的宇宙
+
+修改后：场域论1：科学化的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物质、基础、基质、硬件
+
+修改后：本体论1：物质、基础、基质、硬件
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 心理状态的多重可实现性（调和可测的物理输入、行为输出与不可测的心灵体验）
+
+修改后：认识论3：心理状态的多重可实现性（调和可测的物理输入、行为输出与不可测的心灵体验）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物理现实(1与0)
+
+修改后：本体论1：物理现实(1与0)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 设计层面的并行网络(调和底层逻辑与宏观意识现象)
+
+修改后：认识论3：设计层面的并行网络(调和底层逻辑与宏观意识现象)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 元胞机可以主体化的物理宇宙
+
+修改后：场域论1：元胞机可以主体化的物理宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 心脑等价
+
+修改后：本体论1：心脑等价
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 核心自我（以二阶自反调节协调原初自身与传记性自我）
+
+修改后：认识论3：核心自我（以二阶自反调节协调原初自身与传记性自我）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 维持系统自身稳态（调和局部决定论与自由进化；意识是更高层的维持策略）
+
+修改后：目的论3：维持系统自身稳态（调和局部决定论与自由进化；意识是更高层的维持策略）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 物理宇宙
+
+修改后：场域论1：物理宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 物质基础(晦暗的纵深Opaque Depth)
+
+修改后：本体论1：物质基础(晦暗的纵深Opaque Depth)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 无我论(调和实在论与无主体的表征主义)
+
+修改后：认识论3：无我论(调和实在论与无主体的表征主义)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序宇宙(“客观”评价体系)
+
+修改后：场域论1：秩序宇宙(“客观”评价体系)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 “客观”行为
+
+修改后：本体论1：“客观”行为
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 黑箱(拒绝认识精神运动，内在性被消解)
+
+修改后：认识论4：黑箱(拒绝认识精神运动，内在性被消解)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序宇宙(“客观”评价体系)
+
+修改后：场域论1：秩序宇宙(“客观”评价体系)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 “客观”行为(可操作对象)
+
+修改后：本体论1：“客观”行为(可操作对象)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 黑箱(拒绝认识精神运动，内在性被消解)
+
+修改后：认识论4：黑箱(拒绝认识精神运动，内在性被消解)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 数学变量关系
+
+修改后：目的论1：数学变量关系
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序宇宙(“客观”评价体系)
+
+修改后：场域论1：秩序宇宙(“客观”评价体系)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 “客观”行为
+
+修改后：本体论1：“客观”行为
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 黑箱(拒绝认识精神运动，内在性被消解)
+
+修改后：认识论4：黑箱(拒绝认识精神运动，内在性被消解)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 分子(离散)与摩尔(整体)的二分
+
+修改后：目的论2：分子(离散)与摩尔(整体)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序宇宙(复杂结构在其中分解为简单结构)
+
+修改后：场域论1：秩序宇宙(复杂结构在其中分解为简单结构)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 “客观”行为(侧重主动“客观”行为)
+
+修改后：本体论1：“客观”行为(侧重主动“客观”行为)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 黑箱(拒绝认识精神运动，内在性被消解)
+
+修改后：认识论4：黑箱(拒绝认识精神运动，内在性被消解)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 人的内在(调和离散的行为与整体的精神的对立)
+
+修改后：目的论3：人的内在(调和离散的行为与整体的精神的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序宇宙(可外部观察的符号交互场)
+
+修改后：场域论1：秩序宇宙(可外部观察的符号交互场)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 能进行符号性互动的物质（按秩序相互影响、激发）
+
+修改后：本体论1：能进行符号性互动的物质（按秩序相互影响、激发）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 黑箱(拒绝认识精神运动，内在性被消解)
+
+修改后：认识论4：黑箱(拒绝认识精神运动，内在性被消解)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-1-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 没有终极目的/实用主义
+
+修改后：目的论4：没有终极目的/实用主义
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全的宇宙
+
+修改后：场域论1：整全的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 创造者与被创造者的对立
+
+修改后：本体论2：创造者与被创造者的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全的宇宙(统一体)
+
+修改后：场域论1：整全的宇宙(统一体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 造物者与被创造者的对立
+
+修改后：本体论2：造物者与被创造者的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 人的灵魂
+
+修改后：认识论1：人的灵魂
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全的宇宙(统一体)
+
+修改后：场域论1：整全的宇宙(统一体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 造物者与被创造者的对立
+
+修改后：本体论2：造物者与被创造者的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 人的灵魂(Psyche)
+
+修改后：认识论1：人的灵魂(Psyche)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 自然法则的统御
+
+修改后：目的论1：自然法则的统御
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全的宇宙(统一体)
+
+修改后：场域论1：整全的宇宙(统一体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 造物者与被创造者的对立
+
+修改后：本体论2：造物者与被创造者的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 人的灵魂(Soul)
+
+修改后：认识论1：人的灵魂(Soul)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 神的正义与邪恶对立
+
+修改后：目的论2：神的正义与邪恶对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神话性的宇宙
+
+修改后：场域论1：神话性的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 灵知与现象的对立
+
+修改后：本体论2：灵知与现象的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 虚假的知识(人体验的一切现象都是堕落的)
+
+修改后：认识论1：虚假的知识(人体验的一切现象都是堕落的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 灵知(调和神义论与罪恶的对立)
+
+修改后：目的论3：灵知(调和神义论与罪恶的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 连续的叙事
+
+修改后：场域论1：连续的叙事
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 神圣和凡俗的对立
+
+修改后：本体论2：神圣和凡俗的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 位格(Persona)
+
+修改后：认识论1：位格(Persona)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 受苦
+
+修改后：目的论4：受苦
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神话叙事
+
+修改后：场域论1：神话叙事
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 神圣力量与凡俗力量的对立
+
+修改后：本体论2：神圣力量与凡俗力量的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 凡俗与神秘的对立
+
+修改后：认识论2：凡俗与神秘的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神话叙事(创世纪-世系-我的出生)
+
+修改后：场域论1：神话叙事(创世纪-世系-我的出生)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 创生性的存在与派生性的存在的对立
+
+修改后：本体论2：创生性的存在与派生性的存在的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 信仰(唯一性)与异教(多元性)的对立
+
+修改后：认识论2：信仰(唯一性)与异教(多元性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全的宇宙(拼合而成)
+
+修改后：场域论1：整全的宇宙(拼合而成)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 部分物(拆解)与自然物(整全)的对立
+
+修改后：本体论2：部分物(拆解)与自然物(整全)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 待拼合的符号与凡俗的事物的对立
+
+修改后：认识论2：待拼合的符号与凡俗的事物的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 信仰的秩序(符号)与图示的神秘(想象)的对立
+
+修改后：目的论2：信仰的秩序(符号)与图示的神秘(想象)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 连续的叙事(创造者叙事)
+
+修改后：场域论1：连续的叙事(创造者叙事)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 平凡物与物神(凝结了神秘力量)的对立
+
+修改后：本体论2：平凡物与物神(凝结了神秘力量)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 工具理性与神秘力量凝结于工具的对立
+
+修改后：认识论2：工具理性与神秘力量凝结于工具的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 符号与想象返回于物神化
+
+修改后：目的论3：符号与想象返回于物神化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 永恒循环的、有活性的时间
+
+修改后：场域论1：永恒循环的、有活性的时间
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 Aion(具有神圣力量的时间)与Chronos(可朽的时间)的对立
+
+修改后：本体论2：Aion(具有神圣力量的时间)与Chronos(可朽的时间)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 日常体验(生老病死)与节庆性体验(神圣时刻)的对立
+
+修改后：认识论2：日常体验(生老病死)与节庆性体验(神圣时刻)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 超越符号、想象和物神化
+
+修改后：目的论4：超越符号、想象和物神化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 叙事框架(宇宙、位面)
+
+修改后：场域论1：叙事框架(宇宙、位面)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 自然与超自然的二分
+
+修改后：本体论2：自然与超自然的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 玄妙体验(调和神圣体验与日常体验的对立)
+
+修改后：认识论3：玄妙体验(调和神圣体验与日常体验的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宜居的世界
+
+修改后：场域论1：宜居的世界
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 可朽与不朽的对立
+
+修改后：本体论2：可朽与不朽的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 自我的生存体验(调和神圣体验与日常体验)
+
+修改后：认识论3：自我的生存体验(调和神圣体验与日常体验)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 生活的延续
+
+修改后：目的论1：生活的延续
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 精神位面(从低到高)
+
+修改后：场域论1：精神位面(从低到高)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 凡俗与灵性的对立
+
+修改后：本体论2：凡俗与灵性的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 通灵、催眠(调和了共同体的话语与神秘的话语)
+
+修改后：认识论3：通灵、催眠(调和了共同体的话语与神秘的话语)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 留在凡俗世界与回归灵魂位面的对立
+
+修改后：目的论2：留在凡俗世界与回归灵魂位面的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 大宇宙和小宇宙的连续体
+
+修改后：场域论1：大宇宙和小宇宙的连续体
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 自然力与神秘力(星辰力)的二分
+
+修改后：本体论2：自然力与神秘力(星辰力)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 “理论化”的魔法术法(调和神圣体验与日常体验)
+
+修改后：认识论3：“理论化”的魔法术法(调和神圣体验与日常体验)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 帮助共同体获得更好的存在状态(调和留在凡俗世界与回归灵魂位面的对立)
+
+修改后：目的论3：帮助共同体获得更好的存在状态(调和留在凡俗世界与回归灵魂位面的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 语言/命运
+
+修改后：场域论1：语言/命运
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 断裂(语词)与连续(意义)的对立
+
+修改后：本体论2：断裂(语词)与连续(意义)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 自我意识(调和神圣现象与凡俗现象)
+
+修改后：认识论3：自我意识(调和神圣现象与凡俗现象)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 弃绝、敞开(追求涅槃而不得，依赖奇迹)
+
+修改后：目的论4：弃绝、敞开(追求涅槃而不得，依赖奇迹)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神圣秩序
+
+修改后：场域论1：神圣秩序
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 至高存在和最低限度的表征(符号化)的对立
+
+修改后：本体论2：至高存在和最低限度的表征(符号化)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 去符号化(放弃对至高存在的指称、仪式、人格化)
+
+修改后：认识论4：去符号化(放弃对至高存在的指称、仪式、人格化)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神圣秩序(圣典化的世界)
+
+修改后：场域论1：神圣秩序(圣典化的世界)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 无力的挣扎与决定一切的“命”的对立
+
+修改后：本体论2：无力的挣扎与决定一切的“命”的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 放弃自由意志
+
+修改后：认识论4：放弃自由意志
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 被动承受命定的因果循环
+
+修改后：目的论1：被动承受命定的因果循环
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 因果网络(善恶苦乐秩序)
+
+修改后：场域论1：因果网络(善恶苦乐秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 当下陷于凡俗的善恶冲突循环(罪)和过去与未来的超越与光明(赎)的对立
+
+修改后：本体论2：当下陷于凡俗的善恶冲突循环(罪)和过去与未来的超越与光明(赎)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 离苦，寻找救赎性力量
+
+修改后：认识论4：离苦，寻找救赎性力量
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 命定(因果循环)与结算(歇息、停止)的二分
+
+修改后：目的论2：命定(因果循环)与结算(歇息、停止)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 大他者的自我体验(大他者的梦境)
+
+修改后：场域论1：大他者的自我体验(大他者的梦境)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 主宰的隐匿状态(凡俗世界如其梦境)与显现状态(无我时获得神智)的二分
+
+修改后：本体论2：主宰的隐匿状态(凡俗世界如其梦境)与显现状态(无我时获得神智)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 凡俗体验被视为虚幻，放下自我以等待神智显现
+
+修改后：认识论4：凡俗体验被视为虚幻，放下自我以等待神智显现
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 获得主宰赏赐的神智(调和因果的循环与最后的结算)
+
+修改后：目的论3：获得主宰赏赐的神智(调和因果的循环与最后的结算)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 神圣文本(圣典、情诗、梦)
+
+修改后：场域论1：神圣文本(圣典、情诗、梦)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 至善至美的大他者与凡俗之物的二分
+
+修改后：本体论2：至善至美的大他者与凡俗之物的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 放弃知识(不分辨不同现象)
+
+修改后：认识论4：放弃知识(不分辨不同现象)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-2-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 放弃目的论思考(任由所爱施为，予取予求)
+
+修改后：目的论4：放弃目的论思考(任由所爱施为，予取予求)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序场
+
+修改后：场域论1：秩序场
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 自我(调和创造者(Being)与被创造者(beings)的分裂)
+
+修改后：本体论3：自我(调和创造者(Being)与被创造者(beings)的分裂)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序场(统一的宇宙)
+
+修改后：场域论1：秩序场(统一的宇宙)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 自我(调和至高存在(Being)与具体存在(beings)的对立)
+
+修改后：本体论3：自我(调和至高存在(Being)与具体存在(beings)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 “心灵”(精神秩序)
+
+修改后：认识论1：“心灵”(精神秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序场(统一的宇宙)
+
+修改后：场域论1：秩序场(统一的宇宙)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(Spirit)/天理(Reason)
+
+修改后：本体论3：精神(Spirit)/天理(Reason)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 心灵(精神秩序)
+
+修改后：认识论1：心灵(精神秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 真理(The actualized rationality)
+
+修改后：目的论1：真理(The actualized rationality)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 秩序场(生活世界)
+
+修改后：场域论1：秩序场(生活世界)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(Spirit)
+
+修改后：本体论3：精神(Spirit)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 心灵(Mind)
+
+修改后：认识论1：心灵(Mind)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(Spirit)
+
+修改后：本体论3：精神(Spirit)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 思想(Thought)、心灵(Mind)
+
+修改后：认识论1：思想(Thought)、心灵(Mind)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 集体行动、语言(调和了集体秩序(理学)与个体普遍性(心学))
+
+修改后：目的论3：集体行动、语言(调和了集体秩序(理学)与个体普遍性(心学))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(调和Being与beings)
+
+修改后：本体论3：精神(调和Being与beings)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 心灵(Mind)
+
+修改后：认识论1：心灵(Mind)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 没有目的的梦(Dream)
+
+修改后：目的论4：没有目的的梦(Dream)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(有序的统一体)
+
+修改后：场域论1：宇宙(有序的统一体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 本我(宇宙意识)(调和Being与beings的主奴关系)
+
+修改后：本体论3：本我(宇宙意识)(调和Being与beings的主奴关系)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 本真与非本真(异化)的对抗
+
+修改后：认识论2：本真与非本真(异化)的对抗
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 和谐的宇宙
+
+修改后：场域论1：和谐的宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 理性(调和自然的与反常、过度的)
+
+修改后：本体论3：理性(调和自然的与反常、过度的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 符合德性的(自然的)与淫欲的(反常的)的对立
+
+修改后：认识论2：符合德性的(自然的)与淫欲的(反常的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 和谐、德性、回归自然
+
+修改后：目的论1：和谐、德性、回归自然
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(Universe)
+
+修改后：场域论1：宇宙(Universe)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(调和本质性的力量(Being)和其具体存在(beings))
+
+修改后：本体论3：精神(调和本质性的力量(Being)和其具体存在(beings))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 自认为本真的揭穿谎言、承认套路的姿态，与非本真的蝇营狗苟现实的对立
+
+修改后：认识论2：自认为本真的揭穿谎言、承认套路的姿态，与非本真的蝇营狗苟现实的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(稳定有序的统一体)
+
+修改后：场域论1：宇宙(稳定有序的统一体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 精神(调和至高存在(Being)与具体存在(beings))
+
+修改后：本体论3：精神(调和至高存在(Being)与具体存在(beings))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 本真(心甘情愿)与非本真(迫不得已)的对立
+
+修改后：认识论2：本真(心甘情愿)与非本真(迫不得已)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 爱情(作为一种超越性力量调和认识论上的矛盾)
+
+修改后：目的论3：爱情(作为一种超越性力量调和认识论上的矛盾)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙
+
+修改后：场域论1：宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 智性(调和Being与beings)
+
+修改后：本体论3：智性(调和Being与beings)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 本真(聪明)与非本真(愚蠢)的对立
+
+修改后：认识论2：本真(聪明)与非本真(愚蠢)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 真理和目的待定
+
+修改后：目的论4：真理和目的待定
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 整全融贯的宇宙(Universe)
+
+修改后：场域论1：整全融贯的宇宙(Universe)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 “我”、一个强大的原初意志(调和Being与beings)
+
+修改后：本体论3：“我”、一个强大的原初意志(调和Being与beings)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 意志(在根本上决定什么是本真什么是非本真)
+
+修改后：认识论3：意志(在根本上决定什么是本真什么是非本真)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 本我(弗洛伊德的Id)(调和Being与beings)
+
+修改后：本体论3：本我(弗洛伊德的Id)(调和Being与beings)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 “我的”(for me)
+
+修改后：认识论3：“我的”(for me)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 追求一个成功的自我幻象(有钱有权、成家立业)
+
+修改后：目的论1：追求一个成功的自我幻象(有钱有权、成家立业)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 本我(弗洛伊德的Id)
+
+修改后：本体论3：本我(弗洛伊德的Id)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 自我意志(Will of Self)
+
+修改后：认识论3：自我意志(Will of Self)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 高贵的(noble)与下贱的(ignoble)的对立
+
+修改后：目的论2：高贵的(noble)与下贱的(ignoble)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 本我(弗洛伊德的Id)
+
+修改后：本体论3：本我(弗洛伊德的Id)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 自我(调和本真与非本真)
+
+修改后：认识论3：自我(调和本真与非本真)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 排他性的集体目的(中心化高贵与低贱)
+
+修改后：目的论3：排他性的集体目的(中心化高贵与低贱)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(World)
+
+修改后：场域论1：世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 原初意志(Will)
+
+修改后：本体论3：原初意志(Will)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 虚无、无意义(悲观的)
+
+修改后：目的论4：虚无、无意义(悲观的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 宇宙(整全一致融贯的秩序场)
+
+修改后：场域论1：宇宙(整全一致融贯的秩序场)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 意识流(Stream of Consciousness)(调和后台Being与前台beings分裂)
+
+修改后：本体论3：意识流(Stream of Consciousness)(调和后台Being与前台beings分裂)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 “假象”(意识直接把握本体，无需本体之外的表象)
+
+修改后：认识论4：“假象”(意识直接把握本体，无需本体之外的表象)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(整全秩序)
+
+修改后：场域论1：世界(整全秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 体验/“内在生活”(调和超越的、普遍的(Being)与世俗的、偏狭的(beings))
+
+修改后：本体论3：体验/“内在生活”(调和超越的、普遍的(Being)与世俗的、偏狭的(beings))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 折衷主义(大家都有道理，根本上不信任认识论维度)
+
+修改后：认识论4：折衷主义(大家都有道理，根本上不信任认识论维度)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 寻求真善美的统一、心灵理想状态
+
+修改后：目的论1：寻求真善美的统一、心灵理想状态
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(整全秩序)
+
+修改后：场域论1：世界(整全秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 理念的体验(体验各种把现实结构起来的理念)
+
+修改后：本体论3：理念的体验(体验各种把现实结构起来的理念)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 悬置(刻意地对感受到的事物认识论意义进行悬置)
+
+修改后：认识论4：悬置(刻意地对感受到的事物认识论意义进行悬置)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 因果性的现实与理念性的可能性的对立
+
+修改后：目的论2：因果性的现实与理念性的可能性的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 稳固的世界(World)
+
+修改后：场域论1：稳固的世界(World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 直觉性的体验(Intuitional Experience)
+
+修改后：本体论3：直觉性的体验(Intuitional Experience)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 对美的沉默(Silence)
+
+修改后：认识论4：对美的沉默(Silence)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 美(Beauty)
+
+修改后：目的论3：美(Beauty)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(整全秩序)
+
+修改后：场域论1：世界(整全秩序)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 美学化的直觉/审美体验(Intuitional Experience)
+
+修改后：本体论3：美学化的直觉/审美体验(Intuitional Experience)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 谎言/语言的多重性(没有超语言)
+
+修改后：认识论4：谎言/语言的多重性(没有超语言)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-3-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 消解目的、去审美化(厌女)
+
+修改后：目的论4：消解目的、去审美化(厌女)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 人间、社会
+
+修改后：场域论1：人间、社会
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 不关我事
+
+修改后：本体论4：不关我事
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 自然/宇宙
+
+修改后：场域论1：自然/宇宙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 不关心(完全信赖科学共同体)
+
+修改后：本体论4：不关心(完全信赖科学共同体)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象
+
+修改后：认识论1：自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 和平、美好、善良、有序、整全、永恒的世界
+
+修改后：场域论1：和平、美好、善良、有序、整全、永恒的世界
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 非暴力(否定暴力的本体论地位)
+
+修改后：本体论4：非暴力(否定暴力的本体论地位)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象
+
+修改后：认识论1：自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 守序、秩序的永续(空转)
+
+修改后：目的论1：守序、秩序的永续(空转)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(自然)
+
+修改后：场域论1：世界(自然)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无讨论意义
+
+修改后：本体论4：无讨论意义
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象
+
+修改后：认识论1：自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 精英(高贵、智慧)与流俗大众(低劣、愚蠢)的对立
+
+修改后：目的论2：精英(高贵、智慧)与流俗大众(低劣、愚蠢)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(自然)
+
+修改后：场域论1：世界(自然)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无讨论意义/不言说
+
+修改后：本体论4：无讨论意义/不言说
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象
+
+修改后：认识论1：自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 沉默(调和和平(精英)与暴力(流俗大众)的对立)
+
+修改后：目的论3：沉默(调和和平(精英)与暴力(流俗大众)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(自然)
+
+修改后：场域论1：世界(自然)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无本体论/高贵的谎言(柏拉图《理想国》中人分金银铜铁不同等级)
+
+修改后：本体论4：无本体论/高贵的谎言(柏拉图《理想国》中人分金银铜铁不同等级)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然秩序(金银铜铁等级，种姓制)
+
+修改后：认识论1：自然秩序(金银铜铁等级，种姓制)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 无意义、虚无、毁灭(创伤性真理)
+
+修改后：目的论4：无意义、虚无、毁灭(创伤性真理)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 人类世界(Human World)
+
+修改后：场域论1：人类世界(Human World)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 拒斥形而上学(不承认超科学和神灵)
+
+修改后：本体论4：拒斥形而上学(不承认超科学和神灵)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 Human(人性、文化)与Nature(自然、物质)的对立
+
+修改后：认识论2：Human(人性、文化)与Nature(自然、物质)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 人类社会(Human Society)
+
+修改后：场域论1：人类社会(Human Society)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 不反思
+
+修改后：本体论4：不反思
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 宽容的(正常的、美好的、体面的)与被宽容的(不正常的、混乱的、污秽的)对立
+
+修改后：认识论2：宽容的(正常的、美好的、体面的)与被宽容的(不正常的、混乱的、污秽的)对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 纵容、包容就是文明
+
+修改后：目的论1：纵容、包容就是文明
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 人类世界、全球资本主义(Global Capitalism)
+
+修改后：场域论1：人类世界、全球资本主义(Global Capitalism)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 “解构主义”(没有本体，只有差异性)
+
+修改后：本体论4：“解构主义”(没有本体，只有差异性)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 开放的、多元的与封闭的、原教旨的对立
+
+修改后：认识论2：开放的、多元的与封闭的、原教旨的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 分散的多样性与总体的统一性的对立
+
+修改后：目的论2：分散的多样性与总体的统一性的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 全球资本主义(Global Capitalism)
+
+修改后：场域论1：全球资本主义(Global Capitalism)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 后现代幻影(Simulacrum)
+
+修改后：本体论4：后现代幻影(Simulacrum)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 原始(未反思的)与人性、智慧(反思的)的对立
+
+修改后：认识论2：原始(未反思的)与人性、智慧(反思的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 人类的生存环境(调和文化的多样性与政治的总体性)
+
+修改后：目的论3：人类的生存环境(调和文化的多样性与政治的总体性)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 全球资本主义(Global Capitalism)
+
+修改后：场域论1：全球资本主义(Global Capitalism)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 差异形成的幻象(Simulacrum)
+
+修改后：本体论4：差异形成的幻象(Simulacrum)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 一般事物与倾注所有爱欲之物的对立
+
+修改后：认识论2：一般事物与倾注所有爱欲之物的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 无意义的性爱
+
+修改后：目的论4：无意义的性爱
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 自然(Nature)
+
+修改后：场域论1：自然(Nature)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 没必要讨论、没能力讨论
+
+修改后：本体论4：没必要讨论、没能力讨论
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 心理(调和人类的、文化的与自然的、原始的)
+
+修改后：认识论3：心理(调和人类的、文化的与自然的、原始的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界
+
+修改后：场域论1：世界
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 与我无关
+
+修改后：本体论4：与我无关
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 心理(第一人称体验、情绪横截面)
+
+修改后：认识论3：心理(第一人称体验、情绪横截面)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 好心情(情绪的稳定)
+
+修改后：目的论1：好心情(情绪的稳定)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(知识权威规范的世界)
+
+修改后：场域论1：世界(知识权威规范的世界)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 难以言说(Untellable)
+
+修改后：本体论4：难以言说(Untellable)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 精神状态(调和自然欲望与人性的理智)
+
+修改后：认识论3：精神状态(调和自然欲望与人性的理智)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 反常的(Abnormal)与正常的(Normal)的对立
+
+修改后：目的论2：反常的(Abnormal)与正常的(Normal)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(知识权威规范的世界)
+
+修改后：场域论1：世界(知识权威规范的世界)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 神秘主义
+
+修改后：本体论4：神秘主义
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 心理(调和自然的、欲望的与人性的、理性的)
+
+修改后：认识论3：心理(调和自然的、欲望的与人性的、理性的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 爱欲(调和正常与反常)
+
+修改后：目的论3：爱欲(调和正常与反常)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 大他者
+
+修改后：场域论1：大他者
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 没必要(Unnecessary)
+
+修改后：本体论4：没必要(Unnecessary)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 心理体验(调和自然的、欲望的与人性的、理性的)
+
+修改后：认识论3：心理体验(调和自然的、欲望的与人性的、理性的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 “你要我怎样？”("What do you want?")
+
+修改后：目的论4：“你要我怎样？”("What do you want?")
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 世界(安宁的家园)
+
+修改后：场域论1：世界(安宁的家园)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无聊、与己无关（对事件缺乏反思与敬畏）
+
+修改后：本体论4：无聊、与己无关（对事件缺乏反思与敬畏）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 任性（未形成反思立场，不能把握沉默的父性权威）
+
+修改后：认识论4：任性（未形成反思立场，不能把握沉默的父性权威）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 大家、大众
+
+修改后：场域论1：大家、大众
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 细思极恐（因恐惧而回避反思）
+
+修改后：本体论4：细思极恐（因恐惧而回避反思）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 莫名其妙
+
+修改后：认识论4：莫名其妙
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 从众(占便宜、搭便车)
+
+修改后：目的论1：从众(占便宜、搭便车)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 大流、大众
+
+修改后：场域论1：大流、大众
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 关我逼事
+
+修改后：本体论4：关我逼事
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 一时兴起(Whim)
+
+修改后：认识论4：一时兴起(Whim)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 小便宜(需求Need)与大便宜(欲望Lust)的对立
+
+修改后：目的论2：小便宜(需求Need)与大便宜(欲望Lust)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 游戏般的世界(Game)
+
+修改后：场域论1：游戏般的世界(Game)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 游戏之外的反思被视为荒芜、无价值
+
+修改后：本体论4：游戏之外的反思被视为荒芜、无价值
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 偶然、巧合(Contingency)
+
+修改后：认识论4：偶然、巧合(Contingency)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 奖品与获胜补偿挫败的痛苦（调和需求与欲望）
+
+修改后：目的论3：奖品与获胜补偿挫败的痛苦（调和需求与欲望）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论1 天经地义的秩序
+
+修改后：场域论1：天经地义的秩序
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 错/罪(Sin)
+
+修改后：本体论4：错/罪(Sin)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 羞耻（Shame，遍及自我、仇敌与旁人）
+
+修改后：认识论4：羞耻（Shame，遍及自我、仇敌与旁人）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 1-4-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 牺牲(Sacrifice)
+
+修改后：目的论4：牺牲(Sacrifice)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 场域的二重化
+
+修改后：场域论2：场域的二重化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 历史(现实时空)与逻各斯(理性)的对立
+
+修改后：场域论2：历史(现实时空)与逻各斯(理性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 在场(Presence)
+
+修改后：本体论1：在场(Presence)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与可言说的、可书写的主题、场(Topos)的二分
+
+修改后：场域论2：宇宙(Cosmos)与可言说的、可书写的主题、场(Topos)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 本源
+
+修改后：本体论1：本源
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 理性(普遍化的因果性)
+
+修改后：认识论1：理性(普遍化的因果性)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 无界限者(Time/Fate)与有界限者(World)的对立
+
+修改后：场域论2：无界限者(Time/Fate)与有界限者(World)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 无限者(Apeiron)
+
+修改后：本体论1：无限者(Apeiron)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 有序的理性世界
+
+修改后：认识论1：有序的理性世界
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 和谐、秩序
+
+修改后：目的论1：和谐、秩序
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 全局性、宇宙(Global)与普遍性、理性(Universal)的对立
+
+修改后：场域论2：全局性、宇宙(Global)与普遍性、理性(Universal)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 气(Pneuma/Air)
+
+修改后：本体论1：气(Pneuma/Air)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象
+
+修改后：认识论1：自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 凝结(实体化)(Condensation)与稀疏(去实体化)(Rarefaction)的对立
+
+修改后：目的论2：凝结(实体化)(Condensation)与稀疏(去实体化)(Rarefaction)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与可讨论的、可书写的思维空间(Topos)的对立
+
+修改后：场域论2：宇宙(Cosmos)与可讨论的、可书写的思维空间(Topos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 万物实体(复数的)
+
+修改后：本体论1：万物实体(复数的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 合理的自然现象
+
+修改后：认识论1：合理的自然现象
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 旋转(努斯(Nous)的运动)(调和结合与分离)
+
+修改后：目的论3：旋转(努斯(Nous)的运动)(调和结合与分离)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 公共的宇宙(Public Cosmos)与私人心灵上的宇宙(Private Cosmos)的对立
+
+修改后：场域论2：公共的宇宙(Public Cosmos)与私人心灵上的宇宙(Private Cosmos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 永恒的活火(Ever-living Fire)/存在之流(Flux)
+
+修改后：本体论1：永恒的活火(Ever-living Fire)/存在之流(Flux)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 自然现象的生成(Becoming)
+
+修改后：认识论1：自然现象的生成(Becoming)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 斗争、战争(War)
+
+修改后：目的论4：斗争、战争(War)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 太一的存在之所(Place)与神之必然性/命运(fate)的对立
+
+修改后：场域论2：太一的存在之所(Place)与神之必然性/命运(fate)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 太一(One)
+
+修改后：本体论1：太一(One)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 真理(Truth)与表象(Appearance)的二分
+
+修改后：认识论2：真理(Truth)与表象(Appearance)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 世界(城邦)与理念(神圣的声音)的二分
+
+修改后：场域论2：世界(城邦)与理念(神圣的声音)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 理念世界(Ideas)
+
+修改后：本体论1：理念世界(Ideas)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 无知与知识、美德的对立
+
+修改后：认识论2：无知与知识、美德的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 追求德性、服从城邦共同体的法令
+
+修改后：目的论1：追求德性、服从城邦共同体的法令
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 表象的宇宙与理念的宇宙的二分
+
+修改后：场域论2：表象的宇宙与理念的宇宙的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 相/形式(Form)
+
+修改后：本体论1：相/形式(Form)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 真理(Truth)与意见(Opinion)的二分
+
+修改后：认识论2：真理(Truth)与意见(Opinion)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 盲目的存在(沉湎于冲动、爱欲)与善(美好，符合理念)的二分
+
+修改后：目的论2：盲目的存在(沉湎于冲动、爱欲)与善(美好，符合理念)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与神圣的维度(Theos)的二分
+
+修改后：场域论2：宇宙(Cosmos)与神圣的维度(Theos)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 形式与质料的结合(Hylomorphism)
+
+修改后：本体论1：形式与质料的结合(Hylomorphism)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 真理(Truth)与意见(Opinion)的二分
+
+修改后：认识论2：真理(Truth)与意见(Opinion)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 恰到好处的中庸(调和庸俗的与神圣的)
+
+修改后：目的论3：恰到好处的中庸(调和庸俗的与神圣的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与神之必然性(Dike)的二分
+
+修改后：场域论2：宇宙(Cosmos)与神之必然性(Dike)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 太一(One)
+
+修改后：本体论1：太一(One)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 真理(Truth)与意见(Opinion)的二分
+
+修改后：认识论2：真理(Truth)与意见(Opinion)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 不动(上升(神圣)、下降(凡俗)、旋转(中庸)的失败)
+
+修改后：目的论4：不动(上升(神圣)、下降(凡俗)、旋转(中庸)的失败)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然世界与神圣的背景性秩序的对立
+
+修改后：场域论2：自然世界与神圣的背景性秩序的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 数(比例的本尊)
+
+修改后：本体论1：数(比例的本尊)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 比例(Ratio)(调和真理与意见的二分)
+
+修改后：认识论3：比例(Ratio)(调和真理与意见的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 经验性的世界与神圣的背景性秩序的对立
+
+修改后：场域论2：经验性的世界与神圣的背景性秩序的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 灵魂轮回(Reincarnation)
+
+修改后：本体论1：灵魂轮回(Reincarnation)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 爱(阿弗洛狄忒)与争执(尼克亚)(调和真理与意见的二分)
+
+修改后：认识论3：爱(阿弗洛狄忒)与争执(尼克亚)(调和真理与意见的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 循环、轮回
+
+修改后：目的论1：循环、轮回
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然世界与神圣的必然性世界的二分
+
+修改后：场域论2：自然世界与神圣的必然性世界的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 原子(Atom)和虚空(Void)
+
+修改后：本体论1：原子(Atom)和虚空(Void)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 精微的感官(调和真理与意见的二分)
+
+修改后：认识论3：精微的感官(调和真理与意见的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 无聊的坠落(单调)与神圣的旋涡(必然性)的对立
+
+修改后：目的论2：无聊的坠落(单调)与神圣的旋涡(必然性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然世界与神圣的维度的对立
+
+修改后：场域论2：自然世界与神圣的维度的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 原子(Atom)和虚空(Void)
+
+修改后：本体论1：原子(Atom)和虚空(Void)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 类比性直觉(调和真理与意见的二分)
+
+修改后：认识论3：类比性直觉(调和真理与意见的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 偏转(调和单调的坠落与必然性的旋涡的对立)
+
+修改后：目的论3：偏转(调和单调的坠落与必然性的旋涡的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然世界(Nature)与城邦文明(State)的对立
+
+修改后：场域论2：自然世界(Nature)与城邦文明(State)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 具体的、现实的事物
+
+修改后：本体论1：具体的、现实的事物
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 自控的理性(由此从意见走向真理，协调真理与意见的二分)
+
+修改后：认识论3：自控的理性(由此从意见走向真理，协调真理与意见的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 极致理性，效仿自然(原子的坠落与必然性旋涡的调和的失败)
+
+修改后：目的论4：极致理性，效仿自然(原子的坠落与必然性旋涡的调和的失败)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与主体的理性(Logos)的对立
+
+修改后：场域论2：宇宙(Cosmos)与主体的理性(Logos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 被人所用的东西、语词
+
+修改后：本体论1：被人所用的东西、语词
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 无认识论、只有语用学(Orthoepeia)
+
+修改后：认识论4：无认识论、只有语用学(Orthoepeia)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 世界(Cosmos)与语言(Logos)的对立
+
+修改后：场域论2：世界(Cosmos)与语言(Logos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 被人所用的东西、语词
+
+修改后：本体论1：被人所用的东西、语词
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 没有客观的、跨主体的真理
+
+修改后：认识论4：没有客观的、跨主体的真理
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 维持话语体系(可被表述即合理)
+
+修改后：目的论1：维持话语体系(可被表述即合理)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 世界(Cosmos)与语言(Logos)的对立
+
+修改后：场域论2：世界(Cosmos)与语言(Logos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 事物(事物本就是真实存在的)
+
+修改后：本体论1：事物(事物本就是真实存在的)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 悬置(Epoche)
+
+修改后：认识论4：悬置(Epoche)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 可能性的相互均衡与做决断的命运的对立
+
+修改后：目的论2：可能性的相互均衡与做决断的命运的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与记忆(Memory)的对立
+
+修改后：场域论2：宇宙(Cosmos)与记忆(Memory)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 现实(制作、创造)
+
+修改后：本体论1：现实(制作、创造)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 肤浅、傲慢(没必要理解知识，只需记住)
+
+修改后：认识论4：肤浅、傲慢(没必要理解知识，只需记住)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 恢复原状(调和均衡与抉择)
+
+修改后：目的论3：恢复原状(调和均衡与抉择)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 宇宙(Cosmos)与复数的逻各斯(Logoi)
+
+修改后：场域论2：宇宙(Cosmos)与复数的逻各斯(Logoi)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论1 复数的逻各斯(Logoi)
+
+修改后：本体论1：复数的逻各斯(Logoi)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 不存在稳固的、能把握一切真理的逻各斯
+
+修改后：认识论4：不存在稳固的、能把握一切真理的逻各斯
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-1-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 无目的，只有不同的分析(记忆不可靠，用记忆调和的失败)
+
+修改后：目的论4：无目的，只有不同的分析(记忆不可靠，用记忆调和的失败)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(共时性)与时间(历时性)的二分
+
+修改后：场域论2：空间(共时性)与时间(历时性)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 肯定性存在与否定性存在的对立
+
+修改后：本体论2：肯定性存在与否定性存在的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 无(去主体化、去时间化的存在状态)(Void)与业力(时间性的连结力量)(Karma)的对立
+
+修改后：本体论2：无(去主体化、去时间化的存在状态)(Void)与业力(时间性的连结力量)(Karma)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 各种法(dharma)
+
+修改后：认识论1：各种法(dharma)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与叙事性的时间的对立
+
+修改后：场域论2：空间与叙事性的时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 物质性微粒(Molecular)与虚无(Void)的对立
+
+修改后：本体论2：物质性微粒(Molecular)与虚无(Void)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 微粒与业的结合形成表象(生老病死、爱欲体验)
+
+修改后：认识论1：微粒与业的结合形成表象(生老病死、爱欲体验)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 从轮回中解脱
+
+修改后：目的论1：从轮回中解脱
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Exist))与虚空的对立
+
+修改后：本体论2：法的微粒化的存在(Exist)(二阶化、超出于时间的存在(Exist))与虚空的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 时态的各个环节
+
+修改后：认识论1：时态的各个环节
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 空间性的存在(Exist)与时间性的持存(Persist)的二分
+
+修改后：目的论2：空间性的存在(Exist)与时间性的持存(Persist)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 跨时态性的存在(种子、界等机制性规定)与时态性的存在(蕴、处，以及发生中的心法、事件)的对立
+
+修改后：本体论2：跨时态性的存在(种子、界等机制性规定)与时态性的存在(蕴、处，以及发生中的心法、事件)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 随相说
+
+修改后：认识论1：随相说
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 迟滞、延留(调和空间性的存在(Exist)与时间性的持存(Persist)的二分)
+
+修改后：目的论3：迟滞、延留(调和空间性的存在(Exist)与时间性的持存(Persist)的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间(内意识体验)的对立
+
+修改后：场域论2：空间与时间(内意识体验)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 种子(实体性现象的本质)与阿赖耶识(无漏种子，主体性的本质)的对立
+
+修改后：本体论2：种子(实体性现象的本质)与阿赖耶识(无漏种子，主体性的本质)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 三分法(自证分(自我设定体验内容)、见分(体验者的活动)、相分(体验内容))
+
+修改后：认识论1：三分法(自证分(自我设定体验内容)、见分(体验者的活动)、相分(体验内容))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 抛弃经验性观察反思和独立的伦理实践的探索
+
+修改后：目的论4：抛弃经验性观察反思和独立的伦理实践的探索
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 岁(物质维度)与神明(精神维度)的对立
+
+修改后：本体论2：岁(物质维度)与神明(精神维度)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 无名(愚、无法言说)与有名(知、聪明的、可言说)的对立
+
+修改后：认识论2：无名(愚、无法言说)与有名(知、聪明的、可言说)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(天)与时间(水)的对立
+
+修改后：场域论2：空间(天)与时间(水)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 愚与知的对立
+
+修改后：认识论2：愚与知的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 无为
+
+修改后：目的论1：无为
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(天地、天下)与时间(反、道、水)的对立
+
+修改后：场域论2：空间(天地、天下)与时间(反、道、水)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 造化、太素与心、神明的对立
+
+修改后：本体论2：造化、太素与心、神明的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 愚与知的对立
+
+修改后：认识论2：愚与知的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 无为与有为的二分
+
+修改后：目的论2：无为与有为的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 国家的建制化权力与人生的对立
+
+修改后：场域论2：国家的建制化权力与人生的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 欲望与给养的二分
+
+修改后：本体论2：欲望与给养的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 愚(自然、任心)与知(有序、刻意、礼教)的对立
+
+修改后：认识论2：愚(自然、任心)与知(有序、刻意、礼教)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 厌、本体性的死亡的力量(调和无为与有为的对立)
+
+修改后：目的论3：厌、本体性的死亡的力量(调和无为与有为的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(赋予事物结构和规定性的静力学机制)与时间(支撑事物的实存和变化的动力学机制)的对立
+
+修改后：场域论2：空间(赋予事物结构和规定性的静力学机制)与时间(支撑事物的实存和变化的动力学机制)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 貌与情的对立
+
+修改后：认识论2：貌与情的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 无定操
+
+修改后：目的论4：无定操
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(宇宙)与时间(超灵)的对立
+
+修改后：场域论2：空间(宇宙)与时间(超灵)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 自然(象征，包含着神秘的维度)与心灵(描述，从自然中把握超自然)的二分
+
+修改后：本体论2：自然(象征，包含着神秘的维度)与心灵(描述，从自然中把握超自然)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 第一人称的伦理直觉(调和愚蠢与智慧的对立)
+
+修改后：认识论3：第一人称的伦理直觉(调和愚蠢与智慧的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 易(超验性)与阴(涌现的、有形的)、阳(退场的、无形的)的对立
+
+修改后：本体论2：易(超验性)与阴(涌现的、有形的)、阳(退场的、无形的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 超验性的道(调和愚、无知与知、真相的对立)
+
+修改后：认识论3：超验性的道(调和愚、无知与知、真相的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 易(生生，时间的周期循环)
+
+修改后：目的论1：易(生生，时间的周期循环)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(存在之所)与时间(超越于存在的范畴)的对立
+
+修改后：场域论2：空间(存在之所)与时间(超越于存在的范畴)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 被流溢物(物质、一般精神)与流溢者(太一)的对立
+
+修改后：本体论2：被流溢物(物质、一般精神)与流溢者(太一)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 隐秘的智慧(调和愚昧与智慧的对立)
+
+修改后：认识论3：隐秘的智慧(调和愚昧与智慧的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 循环与终结的二分
+
+修改后：目的论2：循环与终结的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 知性(空间、碎片化的)与理性(时间、超越性的)的对立
+
+修改后：场域论2：知性(空间、碎片化的)与理性(时间、超越性的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 二重性(二元对立)与一元性(太一)的对立
+
+修改后：本体论2：二重性(二元对立)与一元性(太一)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 超灵(Over-Soul)(调和愚蠢与智慧的对立)
+
+修改后：认识论3：超灵(Over-Soul)(调和愚蠢与智慧的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 永恒(调和循环与终结的二分)
+
+修改后：目的论3：永恒(调和循环与终结的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(共存、彼此依赖、精微的结构)与时间(生与死、宿命、残酷的创伤性)的对立
+
+修改后：场域论2：空间(共存、彼此依赖、精微的结构)与时间(生与死、宿命、残酷的创伤性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 凡俗的主客体的区分与主体的超越性的诗性体验的二分
+
+修改后：本体论2：凡俗的主客体的区分与主体的超越性的诗性体验的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 诗歌(调和愚蠢(共同体道德、国族认同)与智慧(神秘主义玄思、形而上学)的对立)
+
+修改后：认识论3：诗歌(调和愚蠢(共同体道德、国族认同)与智慧(神秘主义玄思、形而上学)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 重复、开放、随诗而动、死亡驱力
+
+修改后：目的论4：重复、开放、随诗而动、死亡驱力
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 闭合的与开放的二分
+
+修改后：场域论2：闭合的与开放的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 内在的与外在的二分
+
+修改后：本体论2：内在的与外在的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 开放
+
+修改后：认识论4：开放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 色(被符号编织起来的世界，空间)与空(时间)的对立
+
+修改后：场域论2：色(被符号编织起来的世界，空间)与空(时间)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 凡俗的万物(陷于存不存在的范畴)与涅槃(去符号化的持存)的二分
+
+修改后：本体论2：凡俗的万物(陷于存不存在的范畴)与涅槃(去符号化的持存)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 去结构化、去符号化(de-fabrication)
+
+修改后：认识论4：去结构化、去符号化(de-fabrication)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 离苦、从苦难中解脱、超脱
+
+修改后：目的论1：离苦、从苦难中解脱、超脱
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(圣经中记录的圣言)与时间(饱含生命力的历史性解读)的对立
+
+修改后：场域论2：空间(圣经中记录的圣言)与时间(饱含生命力的历史性解读)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 生命(Vita/Vie)与神圣(Divine)的对立
+
+修改后：本体论2：生命(Vita/Vie)与神圣(Divine)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 依赖于神圣文本(Fundamentalism)
+
+修改后：认识论4：依赖于神圣文本(Fundamentalism)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 对生命的怜悯与对神圣维度的返回(牺牲、对苦难的承受)的对立
+
+修改后：目的论2：对生命的怜悯与对神圣维度的返回(牺牲、对苦难的承受)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间(主体间性)与时间(历史主义的语境主义)的对立
+
+修改后：场域论2：空间(主体间性)与时间(历史主义的语境主义)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 托洛茨基(公共的真诚)与野兰花(私人的真理)的二分
+
+修改后：本体论2：托洛茨基(公共的真诚)与野兰花(私人的真理)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 无真理，只有修辞学
+
+修改后：认识论4：无真理，只有修辞学
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 去本体论的伦理学(不强加伦理学的伦理学、不强加戒律的种族中心主义)
+
+修改后：目的论3：去本体论的伦理学(不强加伦理学的伦理学、不强加戒律的种族中心主义)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 凡俗物质所处的空间与符号学时间的对立
+
+修改后：场域论2：凡俗物质所处的空间与符号学时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论2 彼(Thatness)/此(Thisness)(不加中介的直接性存在)与无有(Nothingness)的二分
+
+修改后：本体论2：彼(Thatness)/此(Thisness)(不加中介的直接性存在)与无有(Nothingness)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 舛驳不中(反人为实，胜人为名)、一切都是语言学游戏
+
+修改后：认识论4：舛驳不中(反人为实，胜人为名)、一切都是语言学游戏
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-2-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 散于万物
+
+修改后：目的论4：散于万物
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 空间与时间的对立
+
+修改后：场域论2：空间与时间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 形而外者(思维、意识)(调和形而下者(现实经验)与形而上者(概念、范畴、分类、逻辑)的对立)
+
+修改后：本体论3：形而外者(思维、意识)(调和形而下者(现实经验)与形而上者(概念、范畴、分类、逻辑)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 Ontic(本体的、形而下的)与Ontological(本体论的(本体论框架)、形而上的)的对立
+
+修改后：场域论2：Ontic(本体的、形而下的)与Ontological(本体论的(本体论框架)、形而上的)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 唯一的实体(God)(调和普遍性实体(Universal)与具体的名相(Particular)的对立)
+
+修改后：本体论3：唯一的实体(God)(调和普遍性实体(Universal)与具体的名相(Particular)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 神智论信仰，前批判(Pre-Critique)、未反思的
+
+修改后：认识论1：神智论信仰，前批判(Pre-Critique)、未反思的
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 Ontic(宇宙)与Ontological(太一、三位一体的上帝)的对立
+
+修改后：场域论2：Ontic(宇宙)与Ontological(太一、三位一体的上帝)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 心灵的想象力、理性与智性(调和对纷繁万物的感性体验与无限的完满存在的对立)
+
+修改后：本体论3：心灵的想象力、理性与智性(调和对纷繁万物的感性体验与无限的完满存在的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 对立一致
+
+修改后：认识论1：对立一致
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 无限趋近
+
+修改后：目的论1：无限趋近
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 循环而不动的宇宙(空间性)与神圣法则(时间性)的对立
+
+修改后：场域论2：循环而不动的宇宙(空间性)与神圣法则(时间性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 星体、土、生命(实际上是我思(cogito))(调和运动的以太与不动的太一的对立)
+
+修改后：本体论3：星体、土、生命(实际上是我思(cogito))(调和运动的以太与不动的太一的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 神秘化的思辨理性(魔法)
+
+修改后：认识论1：神秘化的思辨理性(魔法)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 无限渐进与静止的对立与相互转化
+
+修改后：目的论2：无限渐进与静止的对立与相互转化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 可分的宇宙(Cosmos)与不可分的实体(太一、上帝(God))的对立
+
+修改后：场域论2：可分的宇宙(Cosmos)与不可分的实体(太一、上帝(God))的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 现实的智识(调和万物与至高实体的对立)
+
+修改后：本体论3：现实的智识(调和万物与至高实体的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 理智直观，从有限的万物反向推演回到不可分的实体
+
+修改后：认识论1：理智直观，从有限的万物反向推演回到不可分的实体
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 导向自由的决定论、被不可逃脱的因果网络推动(调和无限趋近与保持自身的对立与相互转化)
+
+修改后：目的论3：导向自由的决定论、被不可逃脱的因果网络推动(调和无限趋近与保持自身的对立与相互转化)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 Ontic(自然)与Ontological(太一的内在自然、抽象规定性的集合体)的对立
+
+修改后：场域论2：Ontic(自然)与Ontological(太一的内在自然、抽象规定性的集合体)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 圣父(太阳)、圣子(星辰)、圣灵(自然，直接的现实存在)的三位一体
+
+修改后：本体论3：圣父(太阳)、圣子(星辰)、圣灵(自然，直接的现实存在)的三位一体
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 热忱而无脑的神智学，在一切事物中感到三位一体
+
+修改后：认识论1：热忱而无脑的神智学，在一切事物中感到三位一体
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 分离运动
+
+修改后：目的论4：分离运动
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 Ontic(宇宙(Cosmos)、空间性)与Ontological(太一、上帝(God)、时间性)的对立
+
+修改后：场域论2：Ontic(宇宙(Cosmos)、空间性)与Ontological(太一、上帝(God)、时间性)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 灵魂(Soul)(调和具有普遍性的至高主宰(Deity)与具体的自然的对立)
+
+修改后：本体论3：灵魂(Soul)(调和具有普遍性的至高主宰(Deity)与具体的自然的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 哲学与神学(Theology)的对立
+
+修改后：认识论2：哲学与神学(Theology)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下的宇宙(Cosmos)与形而上的符号学位面(Transcendental)的对立
+
+修改后：场域论2：形而下的宇宙(Cosmos)与形而上的符号学位面(Transcendental)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 理性灵魂(Anima Rationalis)(调和事物(肉体魂魄)与太一的对立)
+
+修改后：本体论3：理性灵魂(Anima Rationalis)(调和事物(肉体魂魄)与太一的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 哲学与神学(Theology)的对立
+
+修改后：认识论2：哲学与神学(Theology)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 乐福直观(beatific vision)，死后的灵魂与太一建立连接、合而为一
+
+修改后：目的论1：乐福直观(beatific vision)，死后的灵魂与太一建立连接、合而为一
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 符号化的宇宙(Cosmos)与前符号化的、无法被命名的无(Nichts)的对立
+
+修改后：场域论2：符号化的宇宙(Cosmos)与前符号化的、无法被命名的无(Nichts)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 前符号化的纯粹同一性(调和上帝(God)的圣三位一体和万物的对立)
+
+修改后：本体论3：前符号化的纯粹同一性(调和上帝(God)的圣三位一体和万物的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 对自然的体验对应的三种低级力量(分析、愤怒、祈求)与神秘主义体验对应的三种高级力量(保持力、理性、意愿)的对立
+
+修改后：认识论2：对自然的体验对应的三种低级力量(分析、愤怒、祈求)与神秘主义体验对应的三种高级力量(保持力、理性、意愿)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 放任符号的流出与返回太一的对立
+
+修改后：目的论2：放任符号的流出与返回太一的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 由上帝(Maker)创造的一切(宇宙(Cosmos)、逻各斯(Logos)、形而上世界(Metaphysics))与作为拯救者(Saver)的耶稣基督及他显现于其中的历史(History)的二分
+
+修改后：场域论2：由上帝(Maker)创造的一切(宇宙(Cosmos)、逻各斯(Logos)、形而上世界(Metaphysics))与作为拯救者(Saver)的耶稣基督及他显现于其中的历史(History)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 上帝(调和肉体(世俗世界)与心灵(信仰、皈依、救赎)的对立)
+
+修改后：本体论3：上帝(调和肉体(世俗世界)与心灵(信仰、皈依、救赎)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 作为神学的哲学(Theology)与内在信仰的对立
+
+修改后：认识论2：作为神学的哲学(Theology)与内在信仰的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 因信称义、信仰的内在化(调和放任符号的流溢和与太一合而为一)
+
+修改后：目的论3：因信称义、信仰的内在化(调和放任符号的流溢和与太一合而为一)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 可疑之物(形而下的现实事物和形而上的经院哲学)与数理逻辑的对立
+
+修改后：场域论2：可疑之物(形而下的现实事物和形而上的经院哲学)与数理逻辑的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 作为数理逻辑体系的工具提供必然性的最终保证的上帝(调和物质与心灵的对立)
+
+修改后：本体论3：作为数理逻辑体系的工具提供必然性的最终保证的上帝(调和物质与心灵的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 虚假的迷信与把万物内在化为数理结构的对立
+
+修改后：认识论2：虚假的迷信与把万物内在化为数理结构的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 外部世界的封闭、主体向数理体系敞开并深入其中、数理逻辑的空转
+
+修改后：目的论4：外部世界的封闭、主体向数理体系敞开并深入其中、数理逻辑的空转
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 由人的理性单子折射出的表象世界与形而上世界中单子彼此分隔的对立
+
+修改后：场域论2：由人的理性单子折射出的表象世界与形而上世界中单子彼此分隔的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 上帝(调和复杂的、聪明的单子与简单的、愚蠢的单子的二分)
+
+修改后：本体论3：上帝(调和复杂的、聪明的单子与简单的、愚蠢的单子的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 基于单子论的自然形而上学(调和哲学与神学的对立)
+
+修改后：认识论3：基于单子论的自然形而上学(调和哲学与神学的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 由人的理性单子折射出的表象世界与形而上世界中单子彼此分隔的对立
+
+修改后：场域论2：由人的理性单子折射出的表象世界与形而上世界中单子彼此分隔的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 上帝(调和隐德来希层级高的单子与隐德来希层级低的单子的二分)
+
+修改后：本体论3：上帝(调和隐德来希层级高的单子与隐德来希层级低的单子的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 基于单子论的自然形而上学(调和哲学与神学的对立)
+
+修改后：认识论3：基于单子论的自然形而上学(调和哲学与神学的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 未被真正化解的单子决定论、宗教伦理热忱
+
+修改后：目的论1：未被真正化解的单子决定论、宗教伦理热忱
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 符号学宇宙与形而下宇宙的二分
+
+修改后：场域论2：符号学宇宙与形而下宇宙的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 本质(essence)、属性(attributes)、模式(modes)的三分
+
+修改后：本体论3：本质(essence)、属性(attributes)、模式(modes)的三分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 逻辑学(调和理论哲学与实践哲学的二分)
+
+修改后：认识论3：逻辑学(调和理论哲学与实践哲学的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 上帝所赋予的前定和谐与必然的完美的二分
+
+修改后：目的论2：上帝所赋予的前定和谐与必然的完美的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然语言(凡俗世界)与逻辑语言(逻辑世界)的对立
+
+修改后：场域论2：自然语言(凡俗世界)与逻辑语言(逻辑世界)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 纯逻辑算子（包括量词）调和谓词、摹状词与第一手感性材料之间的对立
+
+修改后：本体论3：纯逻辑算子（包括量词）调和谓词、摹状词与第一手感性材料之间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 逻辑分析(调和理论哲学与实践哲学的二分)
+
+修改后：认识论3：逻辑分析(调和理论哲学与实践哲学的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 生命意志(Will to Life)与虚无意志(Will to Nothingness)的对立
+
+修改后：场域论2：生命意志(Will to Life)与虚无意志(Will to Nothingness)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 作为时空框架的世界(调和表象和意志的对立)
+
+修改后：本体论3：作为时空框架的世界(调和表象和意志的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 直观(调和理论哲学与实践哲学的二分)
+
+修改后：认识论3：直观(调和理论哲学与实践哲学的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 否定生命意志、拥抱虚无意志，无所求无所谓
+
+修改后：目的论4：否定生命意志、拥抱虚无意志，无所求无所谓
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下的宇宙(Cosmos)与形而上的几何关系(简单、美妙)的对立
+
+修改后：场域论2：形而下的宇宙(Cosmos)与形而上的几何关系(简单、美妙)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 数学关系(调和万物与上帝的对立)
+
+修改后：本体论3：数学关系(调和万物与上帝的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 主体的敞开、认识论的自我取消
+
+修改后：认识论4：主体的敞开、认识论的自我取消
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下的宇宙(Cosmos)与数学秩序的对立
+
+修改后：场域论2：形而下的宇宙(Cosmos)与数学秩序的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 数学关系(调和物(Bodies)与量(Quantities)的对立)
+
+修改后：本体论3：数学关系(调和物(Bodies)与量(Quantities)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 做实验
+
+修改后：认识论4：做实验
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 重量
+
+修改后：目的论1：重量
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 不断衰朽的形而下世界与上帝以及人的理性所在的形而上世界的对立
+
+修改后：场域论2：不断衰朽的形而下世界与上帝以及人的理性所在的形而上世界的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 作为上帝的稳定干涉的结果的力(调和物与数的对立)
+
+修改后：本体论3：作为上帝的稳定干涉的结果的力(调和物与数的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 做实验(猜测(Speculate)→假设(Hypothesize)→实验(Experiment)→理论化(Theorize))
+
+修改后：认识论4：做实验(猜测(Speculate)→假设(Hypothesize)→实验(Experiment)→理论化(Theorize))
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 衰朽与干涉的对立
+
+修改后：目的论2：衰朽与干涉的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 显而易见的自然秩序与隐秘的自然秩序的二分
+
+修改后：场域论2：显而易见的自然秩序与隐秘的自然秩序的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 种类(调和物质与造物主的对立)
+
+修改后：本体论3：种类(调和物质与造物主的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 人的经验性认识是扭曲的、不可靠的
+
+修改后：认识论4：人的经验性认识是扭曲的、不可靠的
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 隐秘的自我修正机制(调和衰朽与干涉的对立)
+
+修改后：目的论3：隐秘的自我修正机制(调和衰朽与干涉的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 现实的由原子构成的造物(Creation)与上帝(God)的自由创造的对立
+
+修改后：场域论2：现实的由原子构成的造物(Creation)与上帝(God)的自由创造的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论3 绝对的时空(调和原子(Atom)与上帝(God)的对立)
+
+修改后：本体论3：绝对的时空(调和原子(Atom)与上帝(God)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 积极的不可知论、敞开
+
+修改后：认识论4：积极的不可知论、敞开
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-3-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 自由、平等、解放
+
+修改后：目的论4：自由、平等、解放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下的(作为意识形态的形而上学)与形而上的(唯一的超越性的形而上学)的对立
+
+修改后：场域论2：形而下的(作为意识形态的形而上学)与形而上的(唯一的超越性的形而上学)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无本体论(或只有很简单的本体论)
+
+修改后：本体论4：无本体论(或只有很简单的本体论)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 自然秩序与文明秩序的对立
+
+修改后：场域论2：自然秩序与文明秩序的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 事物的运动/运动机制
+
+修改后：本体论4：事物的运动/运动机制
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 回音论、反映论
+
+修改后：认识论1：回音论、反映论
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 作为微粒的场所的宇宙(Universe)与维持规则(Law)的上帝(God)的对立
+
+修改后：场域论2：作为微粒的场所的宇宙(Universe)与维持规则(Law)的上帝(God)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 对上帝的规则敞开
+
+修改后：本体论4：对上帝的规则敞开
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 通过实验被动接受
+
+修改后：认识论1：通过实验被动接受
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 承受上帝的安排
+
+修改后：目的论1：承受上帝的安排
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 原子世界(机械秩序)与形而上世界(超越性秩序)的对立
+
+修改后：场域论2：原子世界(机械秩序)与形而上世界(超越性秩序)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 只能猜测，不得妄信
+
+修改后：本体论4：只能猜测，不得妄信
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 经验性的感觉与反思（经表征推测实体及其样式）
+
+修改后：认识论1：经验性的感觉与反思（经表征推测实体及其样式）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 被动承受与主动猜测的对立
+
+修改后：目的论2：被动承受与主动猜测的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 可感的形而下秩序与由上帝保障的隐匿规则秩序
+
+修改后：场域论2：可感的形而下秩序与由上帝保障的隐匿规则秩序
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 不可作为理念被直接感知的精神（至高精神提供最终保证，有限精神有施因能力）
+
+修改后：本体论4：不可作为理念被直接感知的精神（至高精神提供最终保证，有限精神有施因能力）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论1 感知理念；精神不能被当作理念感知，但可从活动效果把握
+
+修改后：认识论1：感知理念；精神不能被当作理念感知，但可从活动效果把握
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 人与上帝的相互信任(调和被动承受与主动猜测的对立)
+
+修改后：目的论3：人与上帝的相互信任(调和被动承受与主动猜测的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下(第一人称的经验性体验)与形而上(共同体的秩序)的对立
+
+修改后：场域论2：形而下(第一人称的经验性体验)与形而上(共同体的秩序)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-1-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 主动设想一个人类共同体并与这个共同体的伦理秩序共情(Sympathy)
+
+修改后：目的论4：主动设想一个人类共同体并与这个共同体的伦理秩序共情(Sympathy)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下(自发的、散漫的秩序)与形而上(人类的伟大力量)的对立
+
+修改后：场域论2：形而下(自发的、散漫的秩序)与形而上(人类的伟大力量)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 科学与社会学的二分
+
+修改后：认识论2：科学与社会学的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 经验性的表象(Appearances)与共同体的伦理规范(Ethos)的对立
+
+修改后：场域论2：经验性的表象(Appearances)与共同体的伦理规范(Ethos)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 经验主义的自然主义与观念论的二分
+
+修改后：认识论2：经验主义的自然主义与观念论的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 追求幸福(Pleasure)
+
+修改后：目的论1：追求幸福(Pleasure)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 第一人称的实证的经验感受(形而下)与第三人称的实证的社会实在(Social Realism)(形而上)的对立
+
+修改后：场域论2：第一人称的实证的经验感受(形而下)与第三人称的实证的社会实在(Social Realism)(形而上)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 第一人称的体验的视角与社会学家的统计的视角的对立
+
+修改后：认识论2：第一人称的体验的视角与社会学家的统计的视角的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 可知的(Knowable)与不可知的(Unknowable)的对立
+
+修改后：场域论2：可知的(Knowable)与不可知的(Unknowable)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 非直观的认识(通过经验和理智)与直观的认识(从共同体的知识中继承)的对立
+
+修改后：认识论2：非直观的认识(通过经验和理智)与直观的认识(从共同体的知识中继承)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 进化(Evolve)(调和复合(compound)与解离(dissolve)的二分)
+
+修改后：目的论3：进化(Evolve)(调和复合(compound)与解离(dissolve)的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 失衡的经验世界与均衡的科学世界的对立
+
+修改后：场域论2：失衡的经验世界与均衡的科学世界的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论2 经验(感官内容)与经验间的差异关系(科学)的二分
+
+修改后：认识论2：经验(感官内容)与经验间的差异关系(科学)的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-2-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 生存
+
+修改后：目的论4：生存
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 感知空间与逻辑空间的二分
+
+修改后：场域论2：感知空间与逻辑空间的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 闭合
+
+修改后：本体论4：闭合
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 逻辑语言(调和直接经验与理智建构的二分)
+
+修改后：认识论3：逻辑语言(调和直接经验与理智建构的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 离散的直观空间与约定性的知识空间的对立
+
+修改后：场域论2：离散的直观空间与约定性的知识空间的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 本体不可知
+
+修改后：本体论4：本体不可知
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 公共的语法(调和直接经验与约定性概念的二分)
+
+修改后：认识论3：公共的语法(调和直接经验与约定性概念的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 共识
+
+修改后：目的论1：共识
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 物理空间(日常语言)与逻辑空间(逻辑语言)的对立
+
+修改后：场域论2：物理空间(日常语言)与逻辑空间(逻辑语言)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 拒斥形而上学，不得对本体论进行反思
+
+修改后：本体论4：拒斥形而上学，不得对本体论进行反思
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 句法清晰性主义(调和现象主义与物理主义的二分)
+
+修改后：认识论3：句法清晰性主义(调和现象主义与物理主义的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 学术共同体的共识(Convention)与可额外设立的标准(Criteria)的对立
+
+修改后：目的论2：学术共同体的共识(Convention)与可额外设立的标准(Criteria)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 感知空间与逻辑地图的对立
+
+修改后：场域论2：感知空间与逻辑地图的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 本体不可知
+
+修改后：本体论4：本体不可知
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 词语的分类学(调和直接经验与相互联结的概念的二分)
+
+修改后：认识论3：词语的分类学(调和直接经验与相互联结的概念的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 客观的行为(调和跨主体性的共识(Convention)与主体设立的标准(Criteria)的对立)
+
+修改后：目的论3：客观的行为(调和跨主体性的共识(Convention)与主体设立的标准(Criteria)的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 感知世界与语言世界的二分
+
+修改后：场域论2：感知世界与语言世界的二分
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 无一种描述天然具有本体性的特权，各版本转由简明性与可用性评判
+
+修改后：本体论4：无一种描述天然具有本体性的特权，各版本转由简明性与可用性评判
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论3 简明性(调和经验性现象与概念性建构的二分)
+
+修改后：认识论3：简明性(调和经验性现象与概念性建构的二分)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-3-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 不预设统一终点，让科学共同体选择最方便、最简单的版本
+
+修改后：目的论4：不预设统一终点，让科学共同体选择最方便、最简单的版本
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 形而下(经验性技艺)与形而上(哲学理论)的对立
+
+修改后：场域论2：形而下(经验性技艺)与形而上(哲学理论)的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 向过程的丰富性敞开、向万事万物的整体性敞开
+
+修改后：本体论4：向过程的丰富性敞开、向万事万物的整体性敞开
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 拒绝旁观式认识及经验／观念的严格二分，以具体效用检验方法
+
+修改后：认识论4：拒绝旁观式认识及经验／观念的严格二分，以具体效用检验方法
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-1
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 日常／内涵主义的哲学话语与科学话语的对立
+
+修改后：场域论2：日常／内涵主义的哲学话语与科学话语的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-1
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 实用性的承认
+
+修改后：本体论4：实用性的承认
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-1
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 意义的整体主义
+
+修改后：认识论4：意义的整体主义
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-1
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论1 导向实践效益的理论化
+
+修改后：目的论1：导向实践效益的理论化
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-2
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 “形而上学”与“辩证法”的对立
+
+修改后：场域论2：“形而上学”与“辩证法”的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-2
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 “物质”
+
+修改后：本体论4：“物质”
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-2
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 基于权力的自然经验主义
+
+修改后：认识论4：基于权力的自然经验主义
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-2
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论2 科学化与意识形态化的对立
+
+修改后：目的论2：科学化与意识形态化的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 现实与语言的对立
+
+修改后：场域论2：现实与语言的对立
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-3
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 开放
+
+修改后：本体论4：开放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-3
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 开放
+
+修改后：认识论4：开放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-3
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论3 作为锚定点的名称(Big Names)(调和科学话语与意识形态话语的对立)
+
+修改后：目的论3：作为锚定点的名称(Big Names)(调和科学话语与意识形态话语的对立)
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-4
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论2 差别见与平等见（后者拒绝语言、理论高于现象体验）
+
+修改后：场域论2：差别见与平等见（后者拒绝语言、理论高于现象体验）
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-4
+
+字段：`['axis_list', 1]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：本体论4 开放
+
+修改后：本体论4：开放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-4
+
+字段：`['axis_list', 2]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：认识论4 开放
+
+修改后：认识论4：开放
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 2-4-4-4
+
+字段：`['axis_list', 3]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：目的论4 解脱
+
+修改后：目的论4：解脱
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 3
+
+字段：`['axis_list', 0]`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：场域论3 自我意识/主体的踌躇
+
+修改后：场域论3：自我意识/主体的踌躇
+
+统一四轴标题分隔符为中文全角冒号“：”，与其余已整理条目保持一致且保留原文一字不改。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 3-4-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied_then_superseded`。
+
+修改前：['思想史代表人物：弗洛伊德(Freud)', '原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi', '编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。', '校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm', '校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/', '编者校勘注：本条已有01-review的原典对照注，本批仅确认仍属42条上游AI范围，不重复校勘；原音与课程全文忠实性仍未核。', '编者校勘注：01-review、02-review 留待确认的课程归属现已局部确认：“不是心理学”确见编纂文本。弗洛伊德第35讲的原典差别仍保留；此次修订以本讲将标明归属，不宣称原音听校。', '编者校勘注：进度更新（2026-11-13）：前列01/02批次注中“正文未核”“只有标题”等属于取得讲稿之前的历史状态。本轮已按04-fidelity-34所列位置对照社区编纂正文并限定讲者归属；原典差异注仍有效，未因此宣布全部摘要或原音通过。', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。']
+
+修改后：['思想史代表人物：弗洛伊德(Freud)', '原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi', '编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。', '校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm', '校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。']
+
+移除已被后续校勘注明确撤销或仅记过渡历史状态的冗余编者元说明，完整保留原视频链接与实质校勘提示。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 3-4-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied_then_superseded`。
+
+修改前：['思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)', '原视频链接：https://www.bilibili.com/video/BV1QA411F7ut', '编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。', '校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/', '编者校勘注：沿用01-review的标题核查边界，未把作者批评大学话语的标题当成该条全部AI摘要的证据。本批不重复原注，也不升级课程忠实性状态。', '编者校勘注：01-review 与02-review 的“仅标题已核”是历史状态；本批补上上述三组正文定位。它仍是局部编纂文本比较，不把全部抽象活动、资本活力论和幻想机制一并标为已核。', '编者校勘注：进度更新（2026-11-13）：前列01/02批次注中“正文未核”“只有标题”等属于取得讲稿之前的历史状态。本轮已按04-fidelity-34所列位置对照社区编纂正文并限定讲者归属；原典差异注仍有效，未因此宣布全部摘要或原音通过。', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。']
+
+修改后：['思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)', '原视频链接：https://www.bilibili.com/video/BV1QA411F7ut', '编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。', '校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。']
+
+移除已被后续校勘注明确撤销或仅记过渡历史状态的冗余编者元说明，完整保留原视频链接与实质校勘提示。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1q3411C7dJ', '延伸阅读（编者关联）德意志意识形态（节选）：https://www.marxists.org/chinese/marx-engels2/01/16.htm', '延伸阅读（编者关联）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-1_资本主义史研究_p7238—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/0279_4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6_p7238.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1q3411C7dJ', '延伸阅读（编者关联）德意志意识形态（节选）：https://www.marxists.org/chinese/marx-engels2/01/16.htm', '延伸阅读（编者关联）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-1_资本主义史研究_p7238—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/0279_4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6_p7238.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-1-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1544y1x7i5', '延伸阅读（编者关联）1844年经济学哲学手稿—异化劳动和私有财产：https://www.marxists.org/chinese/marx-engels2/01/05.htm', '延伸阅读（编者关联）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）1844年经济学哲学手稿—异化劳动和私有财产：https://www.marxists.org/chinese/marx-engels2/01/05.htm', '分讲正文（二手整理）4-1-1-1_经济学哲学批判_p7260—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4/0280_4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4_p7260.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1544y1x7i5', '延伸阅读（编者关联）1844年经济学哲学手稿—异化劳动和私有财产：https://www.marxists.org/chinese/marx-engels2/01/05.htm', '延伸阅读（编者关联）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）1844年经济学哲学手稿—异化劳动和私有财产：https://www.marxists.org/chinese/marx-engels2/01/05.htm', '分讲正文（二手整理）4-1-1-1_经济学哲学批判_p7260—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4/0280_4-1-1-1_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%E6%89%B9%E5%88%A4_p7260.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-1-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1hq4y197tW', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-1-2_内外评论_p7304—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA/0281_4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA_p7304.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1hq4y197tW', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-1-2_内外评论_p7304—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA/0281_4-1-1-2_%E5%86%85%E5%A4%96%E8%AF%84%E8%AE%BA_p7304.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-1-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1jh411n7i8', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）4-1-1-3_国际性的理论协调_p7320—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83/0282_4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83_p7320.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1jh411n7i8', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）4-1-1-3_国际性的理论协调_p7320—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83/0282_4-1-1-3_%E5%9B%BD%E9%99%85%E6%80%A7%E7%9A%84%E7%90%86%E8%AE%BA%E5%8D%8F%E8%B0%83_p7320.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-1-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV19F411Y7Ly', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '编者校勘注：原视频标题为“中派中的独立生存”；正文也将范围限定为中派中的特定行动者，不宜省略“中”。', '分讲正文（二手整理）4-1-1-4_中派中的独立生存_p7348—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98/0283_4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98_p7348.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV19F411Y7Ly', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '编者校勘注：原视频标题为“中派中的独立生存”；正文也将范围限定为中派中的特定行动者，不宜省略“中”。', '分讲正文（二手整理）4-1-1-4_中派中的独立生存_p7348—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-1_%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%8F%B2%E7%A0%94%E7%A9%B6/4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98/0283_4-1-1-4_%E4%B8%AD%E6%B4%BE%E4%B8%AD%E7%9A%84%E7%8B%AC%E7%AB%8B%E7%94%9F%E5%AD%98_p7348.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1UL411G7Sd', '延伸阅读（编者关联）怎么办？第二章—群众的自发性和社会民主党的自觉性：https://www.marxists.org/chinese/lenin-cworks/06/005.htm', '延伸阅读（编者关联）关于费尔巴哈的提纲：https://www.marxists.org/chinese/marx-engels2/01/15.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2_灌输_p7373—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/0284_4-1-2_%E7%81%8C%E8%BE%93_p7373.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1UL411G7Sd', '延伸阅读（编者关联）怎么办？第二章—群众的自发性和社会民主党的自觉性：https://www.marxists.org/chinese/lenin-cworks/06/005.htm', '延伸阅读（编者关联）关于费尔巴哈的提纲：https://www.marxists.org/chinese/marx-engels2/01/15.htm', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2_灌输_p7373—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/0284_4-1-2_%E7%81%8C%E8%BE%93_p7373.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-2-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Dh411b7eN', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-1_学习_研究_p7403—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6/0285_4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6_p7403.md', '延伸阅读（编者关联）反对本本主义：https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Dh411b7eN', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-1_学习_研究_p7403—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6/0285_4-1-2-1_%E5%AD%A6%E4%B9%A0_%E7%A0%94%E7%A9%B6_p7403.md', '延伸阅读（编者关联）反对本本主义：https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-2-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV15Q4y1Q7S8', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-2_写作_交流_p7430—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81/0286_4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81_p7430.md', '延伸阅读（编者关联）狱中札记选—知识分子：https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV15Q4y1Q7S8', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-2_写作_交流_p7430—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81/0286_4-1-2-2_%E5%86%99%E4%BD%9C_%E4%BA%A4%E6%B5%81_p7430.md', '延伸阅读（编者关联）狱中札记选—知识分子：https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-2-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1rQ4y1D7WJ', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-3_正派青年的交往与团结_p7452—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93/0287_4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93_p7452.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1rQ4y1D7WJ', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-3_正派青年的交往与团结_p7452—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93/0287_4-1-2-3_%E6%AD%A3%E6%B4%BE%E9%9D%92%E5%B9%B4%E7%9A%84%E4%BA%A4%E5%BE%80%E4%B8%8E%E5%9B%A2%E7%BB%93_p7452.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-2-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Kb4y1a7GE', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-4_现实的本体论化_p7468—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96/0288_4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96_p7468.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Kb4y1a7GE', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-2-4_现实的本体论化_p7468—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-2_%E7%81%8C%E8%BE%93/4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96/0288_4-1-2-4_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%9C%AC%E4%BD%93%E8%AE%BA%E5%8C%96_p7468.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1U3411r7uY', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）德意志意识形态（节选）：https://www.marxists.org/chinese/marx-engels2/01/16.htm', '分讲正文（二手整理）4-1-3_历史的哲学化_p7483—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0289_4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7483.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1U3411r7uY', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）德意志意识形态（节选）：https://www.marxists.org/chinese/marx-engels2/01/16.htm', '分讲正文（二手整理）4-1-3_历史的哲学化_p7483—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0289_4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7483.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-3-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV17q4y1R7Qz', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-1_方法论上的总体化_p7499—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96/0290_4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96_p7499.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV17q4y1R7Qz', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-1_方法论上的总体化_p7499—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96/0290_4-1-3-1_%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8A%E7%9A%84%E6%80%BB%E4%BD%93%E5%8C%96_p7499.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-3-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV13R4y1n7pu', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-2_教条的哲学化_p7514—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0291_4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7514.md', '延伸阅读（编者关联）反对本本主义：https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV13R4y1n7pu', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-2_教条的哲学化_p7514—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/0291_4-1-3-2_%E6%95%99%E6%9D%A1%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96_p7514.md', '延伸阅读（编者关联）反对本本主义：https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-3-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV19T4y1R7xn', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）4-1-3-3_体系化的理论探索_p7531—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2/0292_4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2_p7531.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV19T4y1R7xn', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '课程提及典籍（依二手讲稿）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）4-1-3-3_体系化的理论探索_p7531—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2/0292_4-1-3-3_%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E7%90%86%E8%AE%BA%E6%8E%A2%E7%B4%A2_p7531.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-3-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1NQ4y1q7W7', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-4_争夺文化霸权_p7548—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83/0293_4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83_p7548.md', '编者校勘注：此节原典以生产关系和社会职能说明知识分子，并区分市民社会中的同意与国家强制；“文化胜利保证真理”不是这里的结论。课程关于退出联盟和局部胜利的判断仍归讲者。', '延伸阅读（编者关联）狱中札记选—知识分子：https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1NQ4y1q7W7', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-3-4_争夺文化霸权_p7548—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-3_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8C%96/4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83/0293_4-1-3-4_%E4%BA%89%E5%A4%BA%E6%96%87%E5%8C%96%E9%9C%B8%E6%9D%83_p7548.md', '编者校勘注：此节原典以生产关系和社会职能说明知识分子，并区分市民社会中的同意与国家强制；“文化胜利保证真理”不是这里的结论。课程关于退出联盟和局部胜利的判断仍归讲者。', '延伸阅读（编者关联）狱中札记选—知识分子：https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1qb4y1h7it', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4_精神化了的重复_p7573—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/0294_4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D_p7573.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1qb4y1h7it', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4_精神化了的重复_p7573—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/0294_4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D_p7573.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-4-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1RS4y1R7kh', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-1_对意识形态的历史化_p7588—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96/0295_4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96_p7588.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1RS4y1R7kh', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-1_对意识形态的历史化_p7588—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96/0295_4-1-4-1_%E5%AF%B9%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8C%96_p7588.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1P3411C7gu', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-2_哲学的再现代化_p7604—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96/0296_4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96_p7604.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1P3411C7gu', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-2_哲学的再现代化_p7604—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96/0296_4-1-4-2_%E5%93%B2%E5%AD%A6%E7%9A%84%E5%86%8D%E7%8E%B0%E4%BB%A3%E5%8C%96_p7604.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1e44y1i76G', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-3_持续地否定_p7624—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A/0297_4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A_p7624.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1e44y1i76G', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-3_持续地否定_p7624—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A/0297_4-1-4-3_%E6%8C%81%E7%BB%AD%E5%9C%B0%E5%90%A6%E5%AE%9A_p7624.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-1-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1TP4y1j7Ye', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-4_现实生活_p7630—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB/0298_4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB_p7630.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1TP4y1j7Ye', '编者校勘注：本条是对二手课程文本的AI整理。历史人物评价、理论归属及政治判断按讲者论述转述，未据此视为原典或史实审定；缩写与避讳词不擅自解码。', '分讲正文（二手整理）4-1-4-4_现实生活_p7630—分讲编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E5%A4%8D%E4%B9%A0/4-1-4_%E7%B2%BE%E7%A5%9E%E5%8C%96%E4%BA%86%E7%9A%84%E9%87%8D%E5%A4%8D/4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB/0298_4-1-4-4_%E7%8E%B0%E5%AE%9E%E7%94%9F%E6%B4%BB_p7630.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1aq4y1R7Lk', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '编者校勘注：这里只整理4-2专讲L9–34；L39起转入复习课，不用于本条三点摘要。', '分讲正文（二手整理）4-2 现实的正统化—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1aq4y1R7Lk', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '编者校勘注：这里只整理4-2专讲L9–34；L39起转入复习课，不用于本条三点摘要。', '分讲正文（二手整理）4-2 现实的正统化—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1MU4y1g7cm', '分讲正文（二手整理）4-2-1 合律组织—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/0301_4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87_p7674.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1MU4y1g7cm', '分讲正文（二手整理）4-2-1 合律组织—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/0301_4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87_p7674.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-1-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Y34y1Z7i4', '分讲正文（二手整理）4-2-1-1 获取典型性—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7/0302_4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7_p7693.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Y34y1Z7i4', '分讲正文（二手整理）4-2-1-1 获取典型性—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7/0302_4-2-1-1_%E8%8E%B7%E5%8F%96%E5%85%B8%E5%9E%8B%E6%80%A7_p7693.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-1-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1th411t7P7', '分讲正文（二手整理）4-2-1-2 操作系统程序—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F/0303_4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F_p7702.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1th411t7P7', '分讲正文（二手整理）4-2-1-2 操作系统程序—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F/0303_4-2-1-2_%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F_p7702.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-1-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV19q4y1r7m3', '分讲正文（二手整理）4-2-1-3 代表那个体系—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB/0304_4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB_p7712.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV19q4y1r7m3', '分讲正文（二手整理）4-2-1-3 代表那个体系—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB/0304_4-2-1-3_%E4%BB%A3%E8%A1%A8%E9%82%A3%E4%B8%AA%E4%BD%93%E7%B3%BB_p7712.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-1-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1LU4y1M7Cb', '分讲正文（二手整理）4-2-1-4 台面上的权宜之计—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1/0305_4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1_p7720.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1LU4y1M7Cb', '分讲正文（二手整理）4-2-1-4 台面上的权宜之计—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-1_%E5%90%88%E5%BE%8B%E7%BB%84%E7%BB%87/4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1/0305_4-2-1-4_%E5%8F%B0%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%9D%83%E5%AE%9C%E4%B9%8B%E8%AE%A1_p7720.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1bS4y1d7pM', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '分讲正文（二手整理）4-2-2 列宁主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/0306_4-2-2_L%E4%B8%BB%E4%B9%89_p7737.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1bS4y1d7pM', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '分讲正文（二手整理）4-2-2 列宁主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/0306_4-2-2_L%E4%B8%BB%E4%B9%89_p7737.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-2-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV12h411t7os', '编者校勘注：开场与目的论定义保存在0306文件末尾进入本讲的段落；跨文件来源明确列出，没有当作0307中未见的开头。摘要保留历史解释层，不重述具体隐蔽通信操作。', '分讲正文（二手整理）4-2-2 列宁主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/0306_4-2-2_L%E4%B8%BB%E4%B9%89_p7737.md', '分讲正文（二手整理）4-2-2-1 受信任的联合—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88/0307_4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88_p7752.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV12h411t7os', '编者校勘注：开场与目的论定义保存在0306文件末尾进入本讲的段落；跨文件来源明确列出，没有当作0307中未见的开头。摘要保留历史解释层，不重述具体隐蔽通信操作。', '分讲正文（二手整理）4-2-2 列宁主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/0306_4-2-2_L%E4%B8%BB%E4%B9%89_p7737.md', '分讲正文（二手整理）4-2-2-1 受信任的联合—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88/0307_4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88_p7752.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-2-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Vg411T7PB', '分讲正文（二手整理）4-2-2-1 受信任的联合—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88/0307_4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88_p7752.md', '分讲正文（二手整理）4-2-2-2 清楚的区分—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86/0308_4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86_p7757.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Vg411T7PB', '分讲正文（二手整理）4-2-2-1 受信任的联合—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88/0307_4-2-2-1_%E5%8F%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%81%94%E5%90%88_p7752.md', '分讲正文（二手整理）4-2-2-2 清楚的区分—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86/0308_4-2-2-2_%E6%B8%85%E6%A5%9A%E7%9A%84%E5%8C%BA%E5%88%86_p7757.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-2-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1HR4y1t79w', '分讲正文（二手整理）4-2-2-3 前沿注意—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F/0309_4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F_p7778.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1HR4y1t79w', '分讲正文（二手整理）4-2-2-3 前沿注意—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F/0309_4-2-2-3_%E5%89%8D%E6%B2%BF%E6%B3%A8%E6%84%8F_p7778.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-2-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1kY411x7we', '分讲正文（二手整理）4-2-2-4 驱散关键Debuff—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff/0310_4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff_p7804.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1kY411x7we', '分讲正文（二手整理）4-2-2-4 驱散关键Debuff—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-2_L%E4%B8%BB%E4%B9%89/4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff/0310_4-2-2-4_%E9%A9%B1%E9%80%90%E5%85%B3%E9%94%AE_debuff_p7804.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1744y1v7Qd', '分讲正文（二手整理）4-2-3 真正的国际主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/0311_4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89_p7815.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1744y1v7Qd', '分讲正文（二手整理）4-2-3 真正的国际主义—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/0311_4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89_p7815.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-3-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1CL411u7Cy', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '分讲正文（二手整理）4-2-3-1 接管国家机器—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-1_%E6%8E%A5%E7%AE%A1_sa/0312_4-2-3-1_%E6%8E%A5%E7%AE%A1_sa_p7832.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1CL411u7Cy', '延伸阅读（编者关联）国家与革命—第三章 1871年巴黎公社的经验：https://www.marxists.org/chinese/lenin-cworks/31/004.htm', '分讲正文（二手整理）4-2-3-1 接管国家机器—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-1_%E6%8E%A5%E7%AE%A1_sa/0312_4-2-3-1_%E6%8E%A5%E7%AE%A1_sa_p7832.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-3-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1eg411N7yp', '编者校勘注：源文件长标题与现有“第三国际早期的历史任务”不同；本批保留原数据标题，并明确摘要的历史语境。', '分讲正文（二手整理）4-2-3-2 第三国际早期的历史任务—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89/0313_4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89_p7872.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1eg411N7yp', '编者校勘注：源文件长标题与现有“第三国际早期的历史任务”不同；本批保留原数据标题，并明确摘要的历史语境。', '分讲正文（二手整理）4-2-3-2 第三国际早期的历史任务—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89/0313_4-2-3-2_%E5%B0%86%E9%82%AA%E6%81%B6%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%88%98%E4%BA%89%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%88%98%E4%BA%89_p7872.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-3-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1CQ4y1U73C', '分讲正文（二手整理）4-2-3-3 对自决进程施加领导—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC/0314_4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC_p7898.md', '延伸阅读（编者关联）论民族自决权—第四章：https://www.marxists.org/archive/lenin/works/1914/self-det/ch04.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1CQ4y1U73C', '分讲正文（二手整理）4-2-3-3 对自决进程施加领导—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC/0314_4-2-3-3_%E5%AF%B9%E8%87%AA%E5%86%B3%E8%BF%9B%E7%A8%8B%E6%96%BD%E5%8A%A0%E9%A2%86%E5%AF%BC_p7898.md', '延伸阅读（编者关联）论民族自决权—第四章：https://www.marxists.org/archive/lenin/works/1914/self-det/ch04.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-3-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV17r4y1k7B6', '分讲正文（二手整理）4-2-3-4 历史的妥协—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F/0315_4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F_p7927.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV17r4y1k7B6', '分讲正文（二手整理）4-2-3-4 历史的妥协—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-3_%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%9B%BD%E9%99%85%E4%B8%BB%E4%B9%89/4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F/0315_4-2-3-4_%E5%8E%86%E5%8F%B2%E7%9A%84%E5%A6%A5%E5%8D%8F_p7927.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Jr4y1k7zx', '分讲正文（二手整理）4-2-4 再来一次—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/0316_4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1_p7948.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Jr4y1k7zx', '分讲正文（二手整理）4-2-4 再来一次—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/0316_4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1_p7948.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-4-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1WU4y1u7Ei', '分讲正文（二手整理）4-2-4-1 共进退—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80/0317_4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80_p7973.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1WU4y1u7Ei', '分讲正文（二手整理）4-2-4-1 共进退—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80/0317_4-2-4-1_%E5%85%B1%E8%BF%9B%E9%80%80_p7973.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1cL411M7KT', '分讲正文（二手整理）4-2-4-2 不断围绕中心旋转—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC/0318_4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC_p8002.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1cL411M7KT', '分讲正文（二手整理）4-2-4-2 不断围绕中心旋转—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC/0318_4-2-4-2_%E4%B8%8D%E6%96%AD%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%BF%83%E6%97%8B%E8%BD%AC_p8002.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1ai4y1o72t', '分讲正文（二手整理）4-2-4-3 集体创新—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0/0319_4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0_p8030.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1ai4y1o72t', '分讲正文（二手整理）4-2-4-3 集体创新—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0/0319_4-2-4-3_%E9%9B%86%E4%BD%93%E5%88%9B%E6%96%B0_p8030.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-2-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1ih41147hV', '分讲正文（二手整理）4-2-4-4 分类标准上的冲突—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81/0320_4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81_p8055.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1ih41147hV', '分讲正文（二手整理）4-2-4-4 分类标准上的冲突—社区编纂转录：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E5%A4%8D%E4%B9%A0/4-2-4_%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1/4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81/0320_4-2-4-4_%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%E4%B8%8A%E7%9A%84%E5%86%B2%E7%AA%81_p8055.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1QQ4y1v7c7', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：本讲对晚期谢林的定位属于讲者解释；引用缩写未在本批自行还原。', '分讲正文（二手整理）主义主义 4-3—建设理想社会（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/0321_4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A_p8077.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1QQ4y1v7c7', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：本讲对晚期谢林的定位属于讲者解释；引用缩写未在本批自行还原。', '分讲正文（二手整理）主义主义 4-3—建设理想社会（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/0321_4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A_p8077.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1rh411s7zu', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：上游标题为“生活必需品”，整理本作“生活必须品”；这里记录异文，不据此覆盖原题。', '分讲正文（二手整理）主义主义 4-3-1—生活必须品（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/0322_4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81_p8111.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1rh411s7zu', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：上游标题为“生活必需品”，整理本作“生活必须品”；这里记录异文，不据此覆盖原题。', '分讲正文（二手整理）主义主义 4-3-1—生活必须品（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/0322_4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81_p8111.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-1-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1WY411s7KC', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '分讲正文（二手整理）主义主义 4-3-1-1—组织经济生活（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB/0323_4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB_p8135.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1WY411s7KC', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '分讲正文（二手整理）主义主义 4-3-1-1—组织经济生活（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB/0323_4-3-1-1_%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB_p8135.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-1-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1bq4y1z7CQ', '编者校勘注：关于具体历史制度及英国政治的描述尚未作独立史料核验。', '分讲正文（二手整理）主义主义 4-3-1-2—生产的再政治化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96/0324_4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96_p8160.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1bq4y1z7CQ', '编者校勘注：关于具体历史制度及英国政治的描述尚未作独立史料核验。', '分讲正文（二手整理）主义主义 4-3-1-2—生产的再政治化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96/0324_4-3-1-2_%E7%94%9F%E4%BA%A7%E7%9A%84%E5%86%8D%E6%94%BF%E6%B2%BB%E5%8C%96_p8160.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-1-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1jL4y1W7KM', '编者校勘注：整理本L18将统一战线称作“本体论”，同时开篇承接前讲目的论两端；目的论3这一整理依赖过渡论证，仍需核听原图示。', '编者校勘注：标题“列阵的统一”与上游“阵列的统一”存在异文。', '分讲正文（二手整理）主义主义 4-3-1-3—列阵的统一（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80/0325_4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80_p8187.md', '编者校勘注：进度更新（2026-11-13）：前轮Page4的“本体论就是要统一战线”造成轴名疑点；向后核读Page7 L27明确说反帝国主义是在目的论上调和，因此撤销仅凭过渡段归纳的待核标记。旧注保留为历史记录，当前定义以本批为准。', '延伸阅读（编者关联）论民族自决权—第四章：https://www.marxists.org/archive/lenin/works/1914/self-det/ch04.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1jL4y1W7KM', '编者校勘注：标题“列阵的统一”与上游“阵列的统一”存在异文。', '分讲正文（二手整理）主义主义 4-3-1-3—列阵的统一（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80/0325_4-3-1-3_%E5%88%97%E9%98%B5%E7%9A%84%E7%BB%9F%E4%B8%80_p8187.md', '编者校勘注：讲稿 Page4 曾将统一战线称作“本体论”造成轴名疑点，向后核读 Page7 L27 明确说明反帝国主义是在目的论上调和，故目的论3按 Page7 L27 定稿（原过渡待核注已撤销）。', '延伸阅读（编者关联）论民族自决权—第四章：https://www.marxists.org/archive/lenin/works/1914/self-det/ch04.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-1-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1zg411A753', '编者校勘注：此条只作历史课程概念概括，未据缩写还原具体机构，也未核实讲述中的战果统计。', '分讲正文（二手整理）主义主义 4-3-1-4—埋下生命线（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF/0326_4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF_p8224.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1zg411A753', '编者校勘注：此条只作历史课程概念概括，未据缩写还原具体机构，也未核实讲述中的战果统计。', '分讲正文（二手整理）主义主义 4-3-1-4—埋下生命线（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-1_%E7%94%9F%E6%B4%BB%E5%BF%85%E9%A1%BB%E5%93%81/4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF/0326_4-3-1-4_%E5%9F%8B%E4%B8%8B%E7%94%9F%E5%91%BD%E7%BA%BF_p8224.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1xP4y1V7gA', '延伸阅读（编者关联）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）主义主义 4-3-2—对于生产活动的解放_要抢在历史惯性前头积极做出改变（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/0327_4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98_p8251.md', '延伸阅读（编者关联）资本论第一卷—机器和大工业：https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1xP4y1V7gA', '延伸阅读（编者关联）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '分讲正文（二手整理）主义主义 4-3-2—对于生产活动的解放_要抢在历史惯性前头积极做出改变（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/0327_4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98_p8251.md', '延伸阅读（编者关联）资本论第一卷—机器和大工业：https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-2-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1jL41177A7', '编者校勘注：“investigated”“human eyes”等英文转写明显可疑，本批未据此制作术语定义。', '分讲正文（二手整理）主义主义 4-3-2-1—人道化人口（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3/0328_4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3_p8266.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1jL41177A7', '编者校勘注：“investigated”“human eyes”等英文转写明显可疑，本批未据此制作术语定义。', '分讲正文（二手整理）主义主义 4-3-2-1—人道化人口（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3/0328_4-3-2-1_%E4%BA%BA%E9%81%93%E5%8C%96%E4%BA%BA%E5%8F%A3_p8266.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-2-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1vR4y1s7Gw', '编者校勘注：这部分涉及讲者对历史暴力与正义的评价；摘要记录其论证，不作现实行动建议。', '编者校勘注：整理本L63明确说相关描绘是比喻，讲者自称未体验该历史过程。', '分讲正文（二手整理）主义主义 4-3-2-2—激发自发性（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7/0329_4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7_p8289.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1vR4y1s7Gw', '编者校勘注：这部分涉及讲者对历史暴力与正义的评价；摘要记录其论证，不作现实行动建议。', '编者校勘注：整理本L63明确说相关描绘是比喻，讲者自称未体验该历史过程。', '分讲正文（二手整理）主义主义 4-3-2-2—激发自发性（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7/0329_4-3-2-2_%E6%BF%80%E5%8F%91%E8%87%AA%E5%8F%91%E6%80%A7_p8289.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-2-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1mL41177ud', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：此处有明确的儿童教育及免于劳动权利论述；不能用19世纪其他文本的童工观点替代本讲。', '分讲正文（二手整理）主义主义 4-3-2-3—经济-妇女-儿童的三重解放（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE/0330_4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE_p8308.md', '编者校勘注：《资本论》此章分析十九世纪劳动制度及其矛盾；妇女儿童进入生产本身并不被直接当作解放。课程的三重解放要保留这一条件差别，不能据历史材料给当代童工作辩护。', '延伸阅读（编者关联）资本论第一卷—机器和大工业：https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1mL41177ud', '延伸阅读（编者关联）哥达纲领批判：https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1875-4.htm', '编者校勘注：此处有明确的儿童教育及免于劳动权利论述；不能用19世纪其他文本的童工观点替代本讲。', '分讲正文（二手整理）主义主义 4-3-2-3—经济-妇女-儿童的三重解放（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE/0330_4-3-2-3_%E7%BB%8F%E6%B5%8E-%E5%A6%87%E5%A5%B3-%E5%84%BF%E7%AB%A5%E7%9A%84%E4%B8%89%E9%87%8D%E8%A7%A3%E6%94%BE_p8308.md', '编者校勘注：《资本论》此章分析十九世纪劳动制度及其矛盾；妇女儿童进入生产本身并不被直接当作解放。课程的三重解放要保留这一条件差别，不能据历史材料给当代童工作辩护。', '延伸阅读（编者关联）资本论第一卷—机器和大工业：https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-2-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1v34y1X74U', '编者校勘注：本讲的意识身体性与自然自我实现论述仍需和相关原典对读；未采纳其末尾溢入的4-3-3内容。', '分讲正文（二手整理）主义主义 4-3-2-4—解放思想（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3/0331_4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3_p8339.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1v34y1X74U', '编者校勘注：本讲的意识身体性与自然自我实现论述仍需和相关原典对读；未采纳其末尾溢入的4-3-3内容。', '分讲正文（二手整理）主义主义 4-3-2-4—解放思想（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-2_%E5%AF%B9%E4%BA%8E%E7%94%9F%E4%BA%A7%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%A3%E6%94%BE_%E8%A6%81%E6%8A%A2%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%83%AF%E6%80%A7%E5%89%8D%E5%A4%B4%E7%A7%AF%E6%9E%81%E5%81%9A%E5%87%BA%E6%94%B9%E5%8F%98/4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3/0331_4-3-2-4_%E8%A7%A3%E6%94%BE%E6%80%9D%E6%83%B3_p8339.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1DQ4y1e7H4', '编者校勘注：军事例子作为课程哲学图式保存；本批没有验证其军事理论或操作有效性。', '分讲正文（二手整理）主义主义 4-3-3—战略-战役-战斗的统合（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/0332_4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88_p8371.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1DQ4y1e7H4', '编者校勘注：军事例子作为课程哲学图式保存；本批没有验证其军事理论或操作有效性。', '分讲正文（二手整理）主义主义 4-3-3—战略-战役-战斗的统合（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/0332_4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88_p8371.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-3-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1wS4y197d5', '编者校勘注：本讲词源和三国史例子中，讲者自称可能不对、并非专门史研究；未把这些例子当作已校订事实。', '编者校勘注：文件末尾L69–70已转入纪律教育，不用于本条摘要。', '分讲正文（二手整理）主义主义 4-3-3-1—攻略性组织工作（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C/0333_4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C_p8400.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1wS4y197d5', '编者校勘注：本讲词源和三国史例子中，讲者自称可能不对、并非专门史研究；未把这些例子当作已校订事实。', '编者校勘注：文件末尾L69–70已转入纪律教育，不用于本条摘要。', '分讲正文（二手整理）主义主义 4-3-3-1—攻略性组织工作（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C/0333_4-3-3-1_%E6%94%BB%E7%95%A5%E6%80%A7%E7%BB%84%E7%BB%87%E5%B7%A5%E4%BD%9C_p8400.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-3-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1qR4y1s7iG', '编者校勘注：以上保留讲者对强制性纪律的论证及其承认的创伤，不据此认可无限服从或免除组织责任。', '编者校勘注：L58、70明确否认网络直播间能直接等同这种具有现实资源的实践单元。', '分讲正文（二手整理）主义主义 4-3-3-2—纪律教育（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2/0334_4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2_p8418.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1qR4y1s7iG', '编者校勘注：以上保留讲者对强制性纪律的论证及其承认的创伤，不据此认可无限服从或免除组织责任。', '编者校勘注：L58、70明确否认网络直播间能直接等同这种具有现实资源的实践单元。', '分讲正文（二手整理）主义主义 4-3-3-2—纪律教育（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2/0334_4-3-3-2_%E7%BA%AA%E5%BE%8B%E6%95%99%E8%82%B2_p8418.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-3-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1y44y1E73G', '延伸阅读（编者关联）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '编者校勘注：本讲的social capital不是现成社会科学概念的统一定义；讲者在L60–62主动改称去资本化的再生产关系。', '编者校勘注：文件末尾L102的三个世界论已属于下一讲，不归入本条。', '分讲正文（二手整理）主义主义 4-3-3-3—将资本社会化_投身于伟大的实践之中（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD/0335_4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD_p8436.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1y44y1E73G', '延伸阅读（编者关联）社会主义从空想到科学的发展：https://www.marxists.org/chinese/marx-engels/19/020.htm', '编者校勘注：本讲的social capital不是现成社会科学概念的统一定义；讲者在L60–62主动改称去资本化的再生产关系。', '编者校勘注：文件末尾L102的三个世界论已属于下一讲，不归入本条。', '分讲正文（二手整理）主义主义 4-3-3-3—将资本社会化_投身于伟大的实践之中（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD/0335_4-3-3-3_%E5%B0%86%E8%B5%84%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%8C%96_%E6%8A%95%E8%BA%AB%E4%BA%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B9%8B%E4%B8%AD_p8436.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-3-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV19q4y1q72w', '编者校勘注：本讲关于当时国际格局、国家性质及未来趋势的判断属于讲述时的政治解释；本批未独立核验，也不当作2026年的现状报告。', '分讲正文（二手整理）主义主义 4-3-3-4—将全球主义替换掉（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89/0336_4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89_p8454.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV19q4y1q72w', '编者校勘注：本讲关于当时国际格局、国家性质及未来趋势的判断属于讲述时的政治解释；本批未独立核验，也不当作2026年的现状报告。', '分讲正文（二手整理）主义主义 4-3-3-4—将全球主义替换掉（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-3_%E6%88%98%E7%95%A5-%E6%88%98%E5%BD%B9-%E6%88%98%E6%96%97%E7%9A%84%E7%BB%9F%E5%90%88/4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89/0336_4-3-3-4_%E5%B0%86%E5%85%A8%E7%90%83%E4%B8%BB%E4%B9%89%E6%9B%BF%E6%8D%A2%E6%8E%89_p8454.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1JL411E76j', '编者校勘注：本讲明确区分socialist capital与social capital；不应按相近字面合并为同一术语。', '编者校勘注：L44对4-1和4-2层级的口语归属可能存在转写或口误，摘要不沿用该具体排序。', '分讲正文（二手整理）主义主义 4-3-4—s主义的资本实现（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/0337_4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0_p8468.md', '编者校勘注：列宁在此把合作社的社会主义意义放在特定政权、土地及生产资料所有制和文化发展条件下。它不是“任何资本活动只要有用就是社会主义”的论证；本条为与课程解释相互检验的材料。', '延伸阅读（编者关联）论合作社：https://www.marxists.org/archive/lenin/works/1923/jan/06.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1JL411E76j', '编者校勘注：本讲明确区分socialist capital与social capital；不应按相近字面合并为同一术语。', '编者校勘注：L44对4-1和4-2层级的口语归属可能存在转写或口误，摘要不沿用该具体排序。', '分讲正文（二手整理）主义主义 4-3-4—s主义的资本实现（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/0337_4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0_p8468.md', '编者校勘注：列宁在此把合作社的社会主义意义放在特定政权、土地及生产资料所有制和文化发展条件下。它不是“任何资本活动只要有用就是社会主义”的论证；本条为与课程解释相互检验的材料。', '延伸阅读（编者关联）论合作社：https://www.marxists.org/archive/lenin/works/1923/jan/06.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-4-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1oq4y1q7rg', '编者校勘注：讲述关于行政区划是否仍存在的自述带有不确定性，未用作当下行政事实。', '分讲正文（二手整理）主义主义 4-3-4-1—农业的去本地化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96/0338_4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96_p8479.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1oq4y1q7rg', '编者校勘注：讲述关于行政区划是否仍存在的自述带有不确定性，未用作当下行政事实。', '分讲正文（二手整理）主义主义 4-3-4-1—农业的去本地化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96/0338_4-3-4-1_%E5%86%9C%E4%B8%9A%E7%9A%84%E5%8E%BB%E6%9C%AC%E5%9C%B0%E5%8C%96_p8479.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1eM4y1A7AT', '编者校勘注：4-3-4-2正文L60在结语之后已进入4-3-4-3，L63也属于后者；本条引用L60仅限结语前。', '编者校勘注：关于现实国际政策的自我描述仅作为课程立场记录。', '编者校勘注：目的论两端结合4-3-4-3的显式回顾整理；本讲自身的图示仍待原视频核对。', '分讲正文（二手整理）主义主义 4-3-4-2—去代理人化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96/0339_4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96_p8503.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1eM4y1A7AT', '编者校勘注：4-3-4-2正文L60在结语之后已进入4-3-4-3，L63也属于后者；本条引用L60仅限结语前。', '编者校勘注：关于现实国际政策的自我描述仅作为课程立场记录。', '编者校勘注：目的论两端结合4-3-4-3的显式回顾整理；本讲自身的图示仍待原视频核对。', '分讲正文（二手整理）主义主义 4-3-4-2—去代理人化（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96/0339_4-3-4-2_%E5%8E%BB%E4%BB%A3%E7%90%86%E4%BA%BA%E5%8C%96_p8503.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1xS4y1Q7T8', '编者校勘注：legitimacy在整理本中交替译作合法性和正统性；保留概念范围问题，不直接视为法律意义的合法性。', '分讲正文（二手整理）主义主义 4-3-4-3—合法性的再生产（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7/0340_4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7_p8521.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1xS4y1Q7T8', '编者校勘注：legitimacy在整理本中交替译作合法性和正统性；保留概念范围问题，不直接视为法律意义的合法性。', '分讲正文（二手整理）主义主义 4-3-4-3—合法性的再生产（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7/0340_4-3-4-3_%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E5%86%8D%E7%94%9F%E4%BA%A7_p8521.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-3-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1zL4y1J7HM', '编者校勘注：本讲L99结语后及L102已经进入4-4总论，未作为本条自己的论证。', '编者校勘注：道德、纪律、理想、文化的次序由讲者重新安排，不当作历史口号的原始排序。', '分讲正文（二手整理）主义主义 4-3-4-4—s主义的人类学实现（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0/0341_4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0_p8535.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1zL4y1J7HM', '编者校勘注：本讲L99结语后及L102已经进入4-4总论，未作为本条自己的论证。', '编者校勘注：道德、纪律、理想、文化的次序由讲者重新安排，不当作历史口号的原始排序。', '分讲正文（二手整理）主义主义 4-3-4-4—s主义的人类学实现（二手整理正文）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/4-3-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E8%B5%84%E6%9C%AC%E5%AE%9E%E7%8E%B0/4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0/0341_4-3-4-4_s%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%9E%E7%8E%B0_p8535.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV16L4y1J7BT', '延伸阅读（编者关联）乌托邦—行业与生活方式：https://www.marxists.org/reference/archive/more/works/utopia/ch5.html', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4 课程编纂正文（分讲稿 0342）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV16L4y1J7BT', '延伸阅读（编者关联）乌托邦—行业与生活方式：https://www.marxists.org/reference/archive/more/works/utopia/ch5.html', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4 课程编纂正文（分讲稿 0342）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1yY411W7Ev', '编者校勘注：文中的性别分工与家长制安排需要历史化阅读，不能因“乌托邦”标题而直接认可。', '延伸阅读（编者关联）乌托邦—行业与生活方式：https://www.marxists.org/reference/archive/more/works/utopia/ch5.html', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1 课程编纂正文（分讲稿 0344）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/0344_4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_p8613.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1yY411W7Ev', '编者校勘注：文中的性别分工与家长制安排需要历史化阅读，不能因“乌托邦”标题而直接认可。', '延伸阅读（编者关联）乌托邦—行业与生活方式：https://www.marxists.org/reference/archive/more/works/utopia/ch5.html', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1 课程编纂正文（分讲稿 0344）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/0344_4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F_p8613.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-1-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1GL411j7JB', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-1 课程编纂正文（分讲稿 0345）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F/0345_4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F_p8637.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1GL411j7JB', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-1 课程编纂正文（分讲稿 0345）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F/0345_4-4-1-1_%E4%B8%9A%E5%8A%9B%E7%B3%BB%E7%BB%9F_p8637.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-1-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1DT4y1f7PZ', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-2 课程编纂正文（分讲稿 0346）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96/0346_4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96_p8657.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1DT4y1f7PZ', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-2 课程编纂正文（分讲稿 0346）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96/0346_4-4-1-2_%E5%86%8D%E6%80%A7%E5%BE%81%E5%8C%96_p8657.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-1-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1yb4y1v7Wc', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-3 课程编纂正文（分讲稿 0347）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90/0347_4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90_p8669.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1yb4y1v7Wc', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-3 课程编纂正文（分讲稿 0347）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90/0347_4-4-1-3_%E5%AF%84%E7%94%9F%E6%80%A7%E7%9A%84%E4%BA%AB%E4%B9%90_p8669.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-1-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV15L4y1n7mp', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-4 课程编纂正文（分讲稿 0348）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-4_%E9%86%92%E6%9D%A5/0348_4-4-1-4_%E9%86%92%E6%9D%A5_p8696.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV15L4y1n7mp', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-1-4 课程编纂正文（分讲稿 0348）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-1_%E8%AE%A1%E5%88%92%E8%89%AF%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%80%A7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/4-4-1-4_%E9%86%92%E6%9D%A5/0348_4-4-1-4_%E9%86%92%E6%9D%A5_p8696.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1bR4y1W7fe', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2 课程编纂正文（分讲稿 0349）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/0349_4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96_p8708.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1bR4y1W7fe', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2 课程编纂正文（分讲稿 0349）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/0349_4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96_p8708.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-2-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1NR4y1s7bf', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-1 课程编纂正文（分讲稿 0350）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-1_%E6%B0%B8%E7%94%9F/0350_4-4-2-1_%E6%B0%B8%E7%94%9F_p8730.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm', '延伸阅读（编者关联）计算机器与智能 / Computing Machinery and Intelligence：https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1NR4y1s7bf', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-1 课程编纂正文（分讲稿 0350）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-1_%E6%B0%B8%E7%94%9F/0350_4-4-2-1_%E6%B0%B8%E7%94%9F_p8730.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm', '延伸阅读（编者关联）计算机器与智能 / Computing Machinery and Intelligence：https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-2-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1tP4y1J76t', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-2 课程编纂正文（分讲稿 0351）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1/0351_4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1_p8762.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1tP4y1J76t', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-2 课程编纂正文（分讲稿 0351）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1/0351_4-4-2-2_%E7%AC%A6%E5%8F%B7%E6%80%A7%E6%AD%BB%E4%BA%A1_p8762.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-2-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1US4y1M7Qm', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-3 课程编纂正文（分讲稿 0352）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F/0352_4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F_p8776.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1US4y1M7Qm', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-3 课程编纂正文（分讲稿 0352）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F/0352_4-4-2-3_%E8%A1%B0%E8%80%81_%E6%88%90%E7%86%9F_p8776.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-2-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1ga411r7JZ', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-4 课程编纂正文（分讲稿 0353）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96/0353_4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96_p8792.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1ga411r7JZ', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-2-4 课程编纂正文（分讲稿 0353）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-2_%E5%8E%BB%E4%BA%BA%E7%B1%BB%E4%B8%AD%E5%BF%83%E5%8C%96/4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96/0353_4-4-2-4_%E8%BA%AB%E4%BD%93%E5%8C%96_p8792.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1A34y1z7Mk', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3 课程编纂正文（分讲稿 0354）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/0354_4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7_p8799.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1A34y1z7Mk', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3 课程编纂正文（分讲稿 0354）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/0354_4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7_p8799.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-3-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1qr4y1S7tX', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-1 课程编纂正文（分讲稿 0355）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96/0355_4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96_p8814.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1qr4y1S7tX', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-1 课程编纂正文（分讲稿 0355）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96/0355_4-4-3-1_%E7%88%B1%E6%AC%B2%E5%90%8C%E5%8C%96_p8814.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-3-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1qM4y1F7rg', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-2 课程编纂正文（分讲稿 0356）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7/0356_4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7_p8825.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1qM4y1F7rg', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-2 课程编纂正文（分讲稿 0356）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7/0356_4-4-3-2_%E7%A7%98%E5%AF%86%E9%97%B4%E6%80%A7_p8825.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-3-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1544y1E7V1', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-3 课程编纂正文（分讲稿 0357）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91/0357_4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91_p8836.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1544y1E7V1', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-3 课程编纂正文（分讲稿 0357）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91/0357_4-4-3-3_%E8%A2%AB%E6%8B%AF%E6%95%91_p8836.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-3-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1gi4y197JV', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-4 课程编纂正文（分讲稿 0358）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-4_%E8%AF%AD%E9%9F%B3/0358_4-4-3-4_%E8%AF%AD%E9%9F%B3_p8855.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1gi4y197JV', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-3-4 课程编纂正文（分讲稿 0358）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-3_%E5%AF%B9%E5%90%88_%E5%86%85%E5%8D%B7/4-4-3-4_%E8%AF%AD%E9%9F%B3/0358_4-4-3-4_%E8%AF%AD%E9%9F%B3_p8855.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1Cb4y1n7Jd', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4 课程编纂正文（分讲稿 0359）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/0359_4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A_p8874.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1Cb4y1n7Jd', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4 课程编纂正文（分讲稿 0359）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/0359_4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A_p8874.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-4-1
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1oZ4y1U7jz', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4-1 课程编纂正文（分讲稿 0360）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-1_%E6%95%99%E8%82%B2/0360_4-4-4-1_%E6%95%99%E8%82%B2_p8892.md', '编者校勘注：图灵没有宣称意识的一切谜题已经解决；他认为不必先解决全部谜题才讨论其测试问题。课程的AI自我认同、主体性教育仍属于另一层思想实验。', '延伸阅读（编者关联）计算机器与智能 / Computing Machinery and Intelligence：https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1oZ4y1U7jz', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4-1 课程编纂正文（分讲稿 0360）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-1_%E6%95%99%E8%82%B2/0360_4-4-4-1_%E6%95%99%E8%82%B2_p8892.md', '编者校勘注：图灵没有宣称意识的一切谜题已经解决；他认为不必先解决全部谜题才讨论其测试问题。课程的AI自我认同、主体性教育仍属于另一层思想实验。', '延伸阅读（编者关联）计算机器与智能 / Computing Machinery and Intelligence：https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1mb4y1e7rD', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4-2 课程编纂正文（分讲稿 0361）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99/0361_4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99_p8903.md']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1mb4y1e7rD', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4-2 课程编纂正文（分讲稿 0361）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99/0361_4-4-4-2_%E6%88%90%E4%B8%BA%E9%97%B4%E9%9A%99_p8903.md']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-4-3
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV1si4y19799', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '编者校勘注：Page 31明确标示后半段为下一讲4-4-4-4的回顾补录，编者还给出21:50；这里引用的是该补录，不把它冒充本讲连续正文，也未独立核听该时间点。', '分讲正文（二手整理）4-4-4-3 课程编纂正文（分讲稿 0362）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7/0362_4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7_p8927.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV1si4y19799', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '编者校勘注：Page 31明确标示后半段为下一讲4-4-4-4的回顾补录，编者还给出21:50；这里引用的是该补录，不把它冒充本讲连续正文，也未独立核听该时间点。', '分讲正文（二手整理）4-4-4-3 课程编纂正文（分讲稿 0362）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7/0362_4-4-4-3_%E5%8F%AF%E6%9C%BD%E6%80%A7_p8927.md', '延伸阅读（编者关联）人类理解论—同一与差异：https://humanum.arts.cuhk.edu.hk/humftp/E-text/Locke/echu/lok0037.htm']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 4-4-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['', '原视频链接：https://www.bilibili.com/video/BV11Y41187nu', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '编者校勘注：目的论4采用收束段的编辑归纳，区别于同段明确点名的本体论平等与认识论希望；尚待原视频板书或口述确认，不能把归纳当成讲者逐轴原定义。', '分讲正文（二手整理）4-4-4-4 课程编纂正文（分讲稿 0363）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-4_%E5%86%8D%E7%94%9F/0363_4-4-4-4_%E5%86%8D%E7%94%9F_p8959.md', '编者校勘注：进度更新（2026-11-13）：前轮漏查Page12 L62，误以为目的论没有独立表述。该段明确给出目的论4及托付下一代、肉体与完全放手的理由，原视频21:05附近板书亦显示目的论与子代、自己的前程。撤销收束段编者归纳，替换为直接转述；思想实验限定仍保留。']
+
+修改后：['原视频链接：https://www.bilibili.com/video/BV11Y41187nu', '编者校勘注：本条是在4-4思想实验内部的课程转述。VR、AI意识、永生及再生等设定不表示已有技术实现或科学结论。', '分讲正文（二手整理）4-4-4-4 课程编纂正文（分讲稿 0363）：https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/4-4-4_%E6%9C%89%E5%BA%8F%E7%9A%84%E6%B7%B1%E6%B8%8A/4-4-4-4_%E5%86%8D%E7%94%9F/0363_4-4-4-4_%E5%86%8D%E7%94%9F_p8959.md', '编者校勘注：依分讲稿 0363 Page12 L62（托付下一代、肉体与完全放手）及原视频 21:05 附近板书确认目的论4；本条仍属 4-4 思想实验设定范围内的课程转述。']
+
+移除 related_list 空字符串占位。
+
+依据：[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)。
+
+### 3-4-4-2
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['思想史代表人物：弗洛伊德(Freud)', '原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi', '编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。', '校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm', '校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。']
+
+修改后：['思想史代表人物：弗洛伊德(Freud)', '原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi', '编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。', '校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm', '校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。', '延伸阅读（编者关联）Freud, Lecture XXXV: A Philosophy of Life：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm']
+
+接入本批典籍与学术综述链接，衔接 14-cleanup-and-errata 清理后的 related_list 链。
+
+依据：[0273_3-4-4-2_经典的精神分析_p7119](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0273_3-4-4-2_%E7%BB%8F%E5%85%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7119.md)、[Freud, Lecture XXXV: A Philosophy of Life](https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm)。
+
+### 3-4-4-4
+
+字段：`['related_list']`；审查状态：`ready`；应用状态：`applied`。
+
+修改前：['思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)', '原视频链接：https://www.bilibili.com/video/BV1QA411F7ut', '编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。', '校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。']
+
+修改后：['思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)', '原视频链接：https://www.bilibili.com/video/BV1QA411F7ut', '编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。', '校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/', '编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。', '课程提及典籍（依二手讲稿）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm', '延伸阅读（编者关联）Louis Althusser — Stanford Encyclopedia of Philosophy：https://plato.stanford.edu/entries/althusser/', '延伸阅读（编者关联）Jacques Lacan — Stanford Encyclopedia of Philosophy：https://plato.stanford.edu/entries/lacan/']
+
+接入本批典籍与学术综述链接，衔接 14-cleanup-and-errata 清理后的 related_list 链。
+
+依据：[0275_3-4-4-4_针对资本主义的精神分析_p7160](https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E5%A4%8D%E4%B9%A0%E8%AF%BE/3-4-4_%E8%A7%A3%E9%87%8A%E5%AD%A6/3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/0275_3-4-4-4_%E9%92%88%E5%AF%B9%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90_p7160.md)、[资本论 第一卷 第一章：商品](https://www.marxists.org/chinese/marx/capital/01.htm)、[Louis Althusser — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/althusser/)、[Jacques Lacan — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lacan/)。
+
 
 ## 来源与实际阅读范围
+
+### kant-cpr-meiklejohn
+
+[纯粹理性批判 / The Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
+
+作者：Immanuel Kant。
+
+语种：en。
+
+译者：J. M. D. Meiklejohn。
+
+书目页确认作者、译者和语种，正文页核对目录及序言节选；未通读，未核对中译本页码。站点自动摘要未作为理论证据。
+
+### sep-kant-ti
+
+[Kant’s Transcendental Idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/)
+
+作者：Nicholas F. Stang。
+
+语种：en。
+
+核对导言、第一节开头及解释分歧目录；不是原典，不代表解释争论已有定论。
+
+### hegel-logic-toc
+
+[逻辑学 / Science of Logic — Table of Contents](https://www.marxists.org/reference/archive/hegel/works/hl/hlconten.htm)
+
+作者：G. W. F. Hegel。
+
+语种：en。
+
+译者：未核实。
+
+核对英文篇章标题；本次未核实该网页英译本译者及底本，未核对中译本。
+
+### hegel-logic-being
+
+[逻辑学 存在论 / Science of Logic — Being](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm)
+
+作者：G. W. F. Hegel。
+
+语种：en。
+
+译者：未核实。
+
+阅读上述节选；节号按该网页显示，不冒充所有版本通用编号。页面含列宁标注，需与黑格尔正文区分。
+
+### sep-hegel-dialectics
+
+[Hegel’s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/)
+
+作者：Julie E. Maybee。
+
+语种：en。
+
+阅读导言；仅作为辩证法研究的延伸入口，不证明主义主义编码由黑格尔原文演绎得出。
 
 ### cat02-map
 
@@ -35255,3 +44369,11 @@ Page1–20 / L9–102本讲全文；排除L103起421及Page21；仅文本核读�
 定位：L9–135。
 
 实际核读本讲续篇全部正文L9–135；L136起是下一讲2-1-2-2，排除；未核原音。
+
+### e14-format-audit
+
+[public/ism.json 结构清理与前期校勘记录收口基准](https://github.com/spaceater/ismismcube-frontend/blob/608a5b5a05301d311d460d57f99997768532400a/public/ism.json)
+
+定位：1至4-4-4-4。
+
+逐项比对当前 public/ism.json 字段格式及 01-review~13-extra 既有校勘注，用于清理 4 字头空串占位、统一四轴中文全角冒号分隔并剔除已被明确撤销或仅记录早期状态的过渡编者注；不作哲学或原音实质证据。

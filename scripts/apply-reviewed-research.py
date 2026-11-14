@@ -117,8 +117,8 @@ def apply(names, write=False):
             record(code, ['related_list'], related, '接入可回查的分讲正文、校勘注和阅读关联；不改变原视频入口。', refs, name)
     count = len(ledger['changes']) - initial_count
     if write:
-        (ROOT / 'public/ism.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-        (ROOT / 'research/applied-changes.json').write_text(json.dumps(ledger, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        (ROOT / 'public/ism.json').write_bytes((json.dumps(data, ensure_ascii=False, indent=2) + '\n').encode('utf-8'))
+        (ROOT / 'research/applied-changes.json').write_bytes((json.dumps(ledger, ensure_ascii=False, indent=2) + '\n').encode('utf-8'))
     return {'field_changes': count, 'written': write}
 
 

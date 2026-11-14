@@ -16,8 +16,24 @@
         id="search_input"
         type="text"
         placeholder="键入检索词"
-        v-model="searchText"
+        v-model="searchInputText"
       >
+      <div id="courses_button" @click="openCourseDrawer()">
+        补充课程 / ${{ coursesList.length ? ` (${coursesList.length})` : '' }}
+      </div>
+      <div id="search_status_line">
+        <template v-if="searchInputText !== ''">
+          <span v-if="searchInputText !== searchText">检索中...</span>
+          <span v-else>命中 {{ searchedCount }} 节点</span>
+          <button type="button" class="clear_search_link" @click="clearSearch">清空</button>
+        </template>
+        <template v-else-if="enrichmentsData">
+          <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
+        </template>
+        <template v-else-if="enrichStatus === 'error'">
+          <button type="button" class="clear_search_link" @click="loadEnrichments">索引重试</button>
+        </template>
+      </div>
       <div id="ismism_main_cube">
         <div id="show_cube">
           <template v-for="x in 4" :key="`show-${x}`">
@@ -94,10 +110,339 @@
         <p id="axis_label_i">目的论</p>
       </div>
       <div id="ism_info_wrapper">
-        <div id="ism_info">
-          <div id="increase_fontsize_button" @click="increaseFontSize"></div>
-          <div id="decrease_fontsize_button" @click="decreaseFontSize"></div>
-          <div id="ism_info_content" v-html="content"></div>
+        <div id="ism_info" :style="{ fontSize: `${ismInfoFontSize}rem` }">
+          <div id="increase_fontsize_button" title="放大字体" @click="increaseFontSize"></div>
+          <div id="decrease_fontsize_button" title="缩小字体" @click="decreaseFontSize"></div>
+          <div id="ism_info_content">
+            <div v-if="ismLoadError" class="info_error_box">{{ ismLoadError }}</div>
+            <div v-else-if="!activeIsmTag || !activeIsmData" class="info_intro_box" v-html="introductionHtml"></div>
+            <template v-else>
+              <div class="node_header">
+                <div class="node_coord_row">
+                  <template v-for="(digit, idx) in activeTagDigits" :key="idx">
+                    <span v-if="idx > 0" class="coord_dash">-</span>
+                    <span class="coord_box" :style="{ color: axisColor[idx] }"><b>{{ digit }}</b></span>
+                  </template>
+                </div>
+
+                <div class="node_status_banner">
+                  <span class="status_pill" :class="summaryOriginClass">
+                    {{ summaryOriginLabel }}
+                  </span>
+                  <span class="status_pill" :class="evidenceBannerClass">
+                    {{ evidenceBannerText }}
+                  </span>
+                  <span class="status_pill pill_unverified">未核原音</span>
+                </div>
+
+                <div v-if="activeEnrichment?.summary_evidence" class="summary_evidence_line">
+                  总论依据：{{ activeEnrichment.summary_evidence.level || 'transcript_secondary' }}
+                  <span v-if="activeEnrichment.summary_evidence.coverage"> · 覆盖：{{ activeEnrichment.summary_evidence.coverage }}</span>
+                  <span v-if="activeEnrichment.summary_evidence.batch_file"> · 批次：{{ activeEnrichment.summary_evidence.batch_file }}</span>
+                </div>
+
+                <div class="node_titles">
+                  <div class="node_ch_name">
+                    <HighlightText :text="activeIsmData.ch_name" :query="searchText" />
+                  </div>
+                  <div class="node_en_name">
+                    <HighlightText :text="activeIsmData.en_name" :query="searchText" />
+                  </div>
+                </div>
+              </div>
+
+              <div class="info_tabs" role="tablist">
+                <button
+                  type="button"
+                  role="tab"
+                  class="info_tab_btn"
+                  :class="{ active: activeInfoTab === 'overview', has_hit: overviewHasSearchHit }"
+                  @click="activeInfoTab = 'overview'"
+                >
+                  概览与四轴<span v-if="overviewHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
+                </button>
+                <button
+                  type="button"
+                  role="tab"
+                  class="info_tab_btn"
+                  :class="{ active: activeInfoTab === 'courses', has_hit: coursesHasSearchHit }"
+                  @click="activeInfoTab = 'courses'"
+                >
+                  课程与讲稿 ({{ courseTabCount }})<span v-if="coursesHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
+                </button>
+                <button
+                  type="button"
+                  role="tab"
+                  class="info_tab_btn"
+                  :class="{ active: activeInfoTab === 'editorial', has_hit: editorialHasSearchHit }"
+                  @click="activeInfoTab = 'editorial'"
+                >
+                  校勘与典籍 ({{ editorialTabCount }})<span v-if="editorialHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
+                </button>
+              </div>
+
+              <div v-show="activeInfoTab === 'overview'" class="tab_panel">
+                <div class="axis_section">
+                  <div v-for="(axisItem, idx) in parsedAxisList" :key="idx" class="axis_row">
+                    <template v-if="!axisItem.fallback">
+                      <b :style="{ color: axisItem.color }">{{ axisItem.axisLabel }}</b>
+                      <span class="axis_digit_box"><b>{{ axisItem.digit }}</b></span>
+                      <HighlightText :text="axisItem.rest" :query="searchText" />
+                    </template>
+                    <template v-else>
+                      <HighlightText :text="axisItem.rest" :query="searchText" />
+                    </template>
+                    <div v-if="getAxisEvidence(idx)" class="axis_evidence_chip">
+                      讲稿定位：{{ getAxisEvidence(idx)?.locator }}
+                    </div>
+                  </div>
+                </div>
+
+                <div v-if="nonEmptyFeatures.length > 0" class="feature_section">
+                  <div v-for="(feat, idx) in nonEmptyFeatures" :key="idx" class="feature_row">
+                    <b>{{ feat.slice(0, 1) }}</b><HighlightText :text="feat.slice(1)" :query="searchText" />
+                  </div>
+                </div>
+
+                <div v-if="coreRelatedList.length > 0" class="core_related_section">
+                  <div v-for="(rel, idx) in coreRelatedList" :key="idx" class="related_row">
+                    <b v-if="rel.label">{{ rel.label }}：</b>
+                    <a v-if="rel.url" :href="rel.url" target="_blank" rel="noopener noreferrer">
+                      <HighlightText :text="rel.url" :query="searchText" />
+                    </a>
+                    <template v-else>
+                      <HighlightText :text="rel.value" :query="searchText" />
+                    </template>
+                  </div>
+                </div>
+              </div>
+
+              <div v-show="activeInfoTab === 'courses'" class="tab_panel">
+                <div class="section_block">
+                  <div class="section_title">关联视频课程（{{ activeLinkedCourses.length }}）</div>
+                  <div v-if="coursesStatus === 'error' && activeLinkedCourses.length === 0" class="empty_hint error_hint">
+                    <span>{{ coursesError || '补充课程目录加载失败。' }}</span>
+                    <button type="button" class="retry_btn_inline" @click="loadCourses">重试</button>
+                  </div>
+                  <div v-else-if="coursesStatus === 'loading' && activeLinkedCourses.length === 0" class="empty_hint">
+                    正在加载补充课程目录...
+                  </div>
+                  <div v-else-if="activeLinkedCourses.length === 0" class="empty_hint">
+                    当前节点暂无额外课程目录条目，可点击下方按钮浏览全库与 $ 系列课程。
+                  </div>
+                  <div v-for="course in activeLinkedCourses" :key="course.id" class="info_card">
+                    <div class="card_badges">
+                      <span class="mini_badge kind">{{ getCourseKindLabel(course.kind) }}</span>
+                      <span v-if="courseBodiesMap[course.body_ref || course.id]?.series_code" class="mini_badge series">
+                        {{ courseBodiesMap[course.body_ref || course.id].series_code }}
+                      </span>
+                      <span class="mini_badge body_status">{{ getBodyStatusLabel(course.body_status) }}</span>
+                      <span v-if="course.video_check?.duration_seconds" class="mini_badge">
+                        {{ formatDuration(course.video_check.duration_seconds) }}
+                      </span>
+                      <span v-if="course.archival_published_date" class="mini_badge">
+                        {{ course.archival_published_date }}
+                      </span>
+                    </div>
+                    <div class="card_main_link">
+                      <a :href="course.url" target="_blank" rel="noopener noreferrer">
+                        <HighlightText :text="course.title" :query="searchText" />
+                      </a>
+                    </div>
+                    <div class="card_actions">
+                      <span class="bv_code"><HighlightText :text="course.id" :query="searchText" /></span>
+                      <button
+                        v-if="Boolean(course.body_ref || courseBodiesMap[course.body_ref || course.id])"
+                        type="button"
+                        class="mini_action_btn"
+                        @click="openCourseDrawer(course.id)"
+                      >
+                        打开课程摘要
+                      </button>
+                    </div>
+                  </div>
+                </div>
+
+                <div v-if="docLinksFromRelated.length > 0" class="section_block">
+                  <div class="section_title">课程文档与板书文案</div>
+                  <div v-for="(doc, idx) in docLinksFromRelated" :key="idx" class="info_card">
+                    <b>{{ doc.label }}：</b>
+                    <a v-if="doc.url" :href="doc.url" target="_blank" rel="noopener noreferrer">
+                      <HighlightText :text="doc.url" :query="searchText" />
+                    </a>
+                    <span v-else><HighlightText :text="doc.value" :query="searchText" /></span>
+                  </div>
+                </div>
+
+                <div class="section_block">
+                  <div class="section_title">二手汇编讲稿入口（{{ activeEnrichment?.transcripts.length ?? 0 }}）</div>
+                  <div v-if="!enrichmentsData && enrichStatus === 'error'" class="empty_hint error_hint">
+                    <span>{{ enrichError || '讲稿索引加载失败。' }}</span>
+                    <button type="button" class="retry_btn_inline" @click="loadEnrichments">重试</button>
+                  </div>
+                  <div v-else-if="!enrichmentsData" class="empty_hint">
+                    正在加载讲稿索引...
+                  </div>
+                  <div v-else-if="!activeEnrichment || activeEnrichment.transcripts.length === 0" class="empty_hint">
+                    暂无直接对应的二手汇编讲稿条目。
+                  </div>
+                  <div v-for="tr in activeEnrichment?.transcripts ?? []" :key="`${tr.row}-${tr.source_path}`" class="info_card">
+                    <div class="card_badges">
+                      <span class="mini_badge">序号 {{ tr.row }}</span>
+                      <span v-if="tr.kind" class="mini_badge">{{ tr.kind === 'lecture' ? '正课讲稿' : tr.kind }}</span>
+                      <span class="mini_badge warn_soft">第三方整理 · 未核原音</span>
+                    </div>
+                    <div class="card_main_link">
+                      <a v-if="tr.url" :href="tr.url" target="_blank" rel="noopener noreferrer">
+                        <HighlightText :text="tr.title" :query="searchText" />
+                      </a>
+                      <span v-else><HighlightText :text="tr.title" :query="searchText" /></span>
+                    </div>
+                    <div v-if="tr.source_path" class="muted_meta">{{ tr.source_path }}</div>
+                  </div>
+                </div>
+
+                <div class="drawer_cta_wrap">
+                  <button type="button" class="mini_action_btn" @click="openCourseDrawer(undefined, 'dollar_series')">
+                    浏览完整补充课程与 $ 系列库 →
+                  </button>
+                </div>
+              </div>
+
+              <div v-show="activeInfoTab === 'editorial'" class="tab_panel">
+                <div class="section_block">
+                  <div class="section_title">
+                    典籍与延展阅读（{{ activeEnrichment?.readings.length ?? fallbackReadingEntries.length }}）
+                  </div>
+                  <template v-if="activeEnrichment">
+                    <div v-if="activeEnrichment.readings.length === 0" class="empty_hint">
+                      当前节点暂未关联外部典籍条目。
+                    </div>
+                    <div v-for="(rd, idx) in activeEnrichment.readings" :key="`${rd.source_id}-${rd.relation}-${idx}`" class="info_card">
+                      <div class="card_badges">
+                        <span
+                          class="mini_badge"
+                          :class="rd.relation === 'lecture_explicit_reference' ? 'rel_explicit' : 'rel_editorial'"
+                        >
+                          {{ rd.relation === 'lecture_explicit_reference' ? '讲稿显式提及' : '编者延展对读' }}
+                        </span>
+                        <span v-if="rd.kind" class="mini_badge">{{ rd.kind }}</span>
+                      </div>
+                      <div class="card_main_link">
+                        <a :href="rd.url" target="_blank" rel="noopener noreferrer">
+                          <HighlightText :text="rd.title" :query="searchText" />
+                        </a>
+                      </div>
+                      <div v-if="rd.locator" class="card_meta_line">
+                        <b>定位：</b><HighlightText :text="rd.locator" :query="searchText" />
+                      </div>
+                      <div v-if="rd.reason" class="card_meta_line">
+                        <b>说明：</b><HighlightText :text="rd.reason" :query="searchText" />
+                      </div>
+                      <div v-if="rd.verification_scope" class="muted_meta">
+                        核对边界：{{ rd.verification_scope }}
+                      </div>
+                    </div>
+                  </template>
+                  <template v-else>
+                    <div v-for="(rd, idx) in fallbackReadingEntries" :key="idx" class="info_card">
+                      <b>{{ rd.label }}：</b>
+                      <a v-if="rd.url" :href="rd.url" target="_blank" rel="noopener noreferrer">
+                        <HighlightText :text="rd.url" :query="searchText" />
+                      </a>
+                      <span v-else><HighlightText :text="rd.value" :query="searchText" /></span>
+                    </div>
+                  </template>
+                </div>
+
+                <div class="section_block">
+                  <div class="section_title">逐项校勘与修订记录</div>
+                  <template v-if="activeEnrichment?.review_summary">
+                    <div class="review_stats_bar">
+                      <span>总核查 {{ activeEnrichment.review_summary.total_checks }} 项</span>
+                      <span>按原文确认 {{ activeEnrichment.review_summary.by_resolution_state?.confirmed_as_written ?? 0 }}</span>
+                      <span>已入库修订 {{ activeEnrichment.review_summary.resolved_in_catalogue_count }}</span>
+                      <span>已记限定边界 {{ activeEnrichment.review_summary.by_resolution_state?.qualified_in_research_record ?? 0 }}</span>
+                    </div>
+                    <div v-if="activeEnrichment.review_summary.highlights.length === 0" class="empty_hint">
+                      本节点各字段均按讲稿原文确认，暂无需要额外提醒的限定或修订。
+                    </div>
+                    <div
+                      v-for="(hl, idx) in activeEnrichment.review_summary.highlights"
+                      :key="idx"
+                      class="info_card"
+                    >
+                      <div class="card_badges">
+                        <span class="mini_badge field_badge">{{ formatFieldPath(hl.field_path) }}</span>
+                        <span class="mini_badge canonical_badge">
+                          {{ CANONICAL_STATUS_LABELS[hl.canonical_status] || hl.canonical_status }}
+                        </span>
+                        <span
+                          class="mini_badge"
+                          :class="hl.resolution_state === 'resolved_in_catalogue' ? 'res_resolved' : 'res_qualified'"
+                        >
+                          {{ RESOLUTION_STATE_LABELS[hl.resolution_state] || hl.resolution_state }}
+                        </span>
+                        <span v-for="b in hl.resolved_by_batches ?? []" :key="b" class="mini_badge">{{ b }}</span>
+                      </div>
+                      <div v-if="hl.locator" class="card_meta_line">
+                        <b>位置：</b><HighlightText :text="hl.locator" :query="searchText" />
+                      </div>
+                      <div v-if="hl.finding" class="card_meta_line">
+                        <b>校勘结论：</b><HighlightText :text="hl.finding" :query="searchText" />
+                      </div>
+                    </div>
+                  </template>
+                  <div v-else-if="!enrichmentsData && enrichStatus === 'error'" class="empty_hint error_hint">
+                    <span>{{ enrichError || '校勘记录加载失败。' }}</span>
+                    <button type="button" class="retry_btn_inline" @click="loadEnrichments">重试</button>
+                  </div>
+                  <div v-else-if="!enrichmentsData" class="empty_hint">
+                    正在加载校勘记录...
+                  </div>
+                  <div v-else class="empty_hint">
+                    该节点属于未逐字单条拆分复核分批（如 4 字头或总览节点），可结合上方总论依据与下方校勘注阅读。
+                  </div>
+                </div>
+
+                <div
+                  v-if="(activeEnrichment?.editorial_notes.length ?? fallbackEditorialEntries.length) > 0"
+                  class="section_block"
+                >
+                  <div class="section_title">编者校勘注与边界提示</div>
+                  <ul class="editorial_list">
+                    <template v-if="activeEnrichment">
+                      <li v-for="(note, idx) in activeEnrichment.editorial_notes" :key="idx">
+                        <HighlightText :text="note" :query="searchText" />
+                      </li>
+                    </template>
+                    <template v-else>
+                      <li v-for="(ed, idx) in fallbackEditorialEntries" :key="idx">
+                        <b>{{ ed.label }}：</b><HighlightText :text="ed.value" :query="searchText" />
+                      </li>
+                    </template>
+                  </ul>
+                </div>
+
+                <div v-if="activeEnrichment" class="section_block">
+                  <div class="section_title">
+                    实质待核问题（{{ activeEnrichment.substantive_open_questions.length }}）
+                  </div>
+                  <ul v-if="activeEnrichment.substantive_open_questions.length > 0" class="editorial_list">
+                    <li v-for="(oq, idx) in activeEnrichment.substantive_open_questions" :key="idx">
+                      <HighlightText :text="oq" :query="searchText" />
+                    </li>
+                  </ul>
+                  <div v-else class="empty_hint">
+                    当前无额外实质未定位问题。
+                  </div>
+                  <div v-if="activeEnrichment.boilerplate_open_questions_count > 0" class="muted_meta">
+                    说明：已自动归并“原音未人工听校 / 缺视频时间码”等模板化通用声明 {{ activeEnrichment.boilerplate_open_questions_count }} 条。
+                  </div>
+                </div>
+              </div>
+            </template>
+          </div>
         </div>
         <div id="ism_info_overlay"></div>
       </div>
@@ -198,14 +543,62 @@
         >
       </div>
     </div>
+
+    <CourseDrawer
+      :open="courseDrawerOpen"
+      :courses="coursesList"
+      :course-bodies="courseBodiesMap"
+      :courses-status="coursesStatus"
+      :courses-error="coursesError"
+      :bodies-status="bodiesStatus"
+      :bodies-error="bodiesError"
+      :can-jump="canJumpToNode"
+      :initial-course-id="drawerInitialCourseId"
+      :initial-category="drawerInitialCategory"
+      @close="closeCourseDrawer"
+      @jump-to-node="jumpToNode"
+      @retry-courses="loadCourses"
+      @retry-bodies="loadCourseBodies"
+    />
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted, watch } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { buildStaticUrl } from '../../config/static.ts'
 import { buildApiUrl } from '../../config/api.ts'
+import HighlightText from '../../components/HighlightText.vue'
+import CourseDrawer from '../../components/CourseDrawer.vue'
+import type {
+  CourseBodiesMap,
+  CourseRecord,
+  CoursesPayload,
+  CubeEnrichmentsPayload,
+  IsmNodeEntry,
+  NodeAxisEvidence,
+  NodeEnrichment
+} from '../../types/research'
+import {
+  BODY_STATUS_LABELS,
+  CANONICAL_STATUS_LABELS,
+  COURSE_KIND_LABELS,
+  RESOLUTION_STATE_LABELS,
+  SUMMARY_ORIGIN_LABELS,
+  formatDuration,
+  formatFieldPath,
+  matchesCoursesContent,
+  matchesEditorialContent,
+  matchesOverviewContent,
+  nodeMatchesQuery,
+  parseAxisEntry,
+  parseRelatedEntry,
+  type ParsedRelatedEntry
+} from '../../utils/ismFormat'
+
+type InfoTabKey = 'overview' | 'courses' | 'editorial'
+type DrawerCategoryKey = 'dollar_series' | 'study' | 'special' | 'all'
+type LoadStatus = 'idle' | 'loading' | 'ready' | 'error'
 
 const buildIsmismcubeStaticUrl = (path: string): string => {
   return buildStaticUrl(`/ismismcube${path.startsWith('/') ? '' : '/'}${path}`)
@@ -216,15 +609,33 @@ const buildIsmismcubeApiUrl = (path: string): string => {
 }
 
 // 响应式数据
-const ismData = ref<any>(null)
+const ismData = ref<Record<string, any> | null>(null)
+const ismLoadError = ref('')
+const enrichmentsData = ref<CubeEnrichmentsPayload | null>(null)
+const enrichStatus = ref<LoadStatus>('idle')
+const enrichError = ref('')
+const coursesList = ref<CourseRecord[]>([])
+const coursesStatus = ref<LoadStatus>('idle')
+const coursesError = ref('')
+const courseBodiesMap = ref<CourseBodiesMap>({})
+const bodiesStatus = ref<LoadStatus>('idle')
+const bodiesError = ref('')
+
 const axisColor = ["red", "green", "blue", "darkorange"]
 const ismInfoFontSize = ref(1.0)
 const pageView = ref(-1)
 const onlineCount = ref(-1)
+const searchInputText = ref('')
 const searchText = ref('')
 const sizeIndicatorRatio = ref(0)
-const content = ref('')
 const isLeftPartClosed = ref(false)
+const hoveredIsmTag = ref<string | null>(null)
+const activeInfoTab = ref<InfoTabKey>('overview')
+
+const courseDrawerOpen = ref(false)
+const drawerInitialCourseId = ref<string | undefined>(undefined)
+const drawerInitialCategory = ref<DrawerCategoryKey>('dollar_series')
+
 const danmuText = ref('')
 const danmuEnabled = ref<boolean>(false)
 const danmuOverlayRef = ref<HTMLElement | null>(null)
@@ -243,6 +654,252 @@ let reconnectTimer: number | null = null
 // 路由
 const route = useRoute()
 const router = useRouter()
+
+const courseByIdMap = computed<Record<string, CourseRecord>>(() => {
+  const map: Record<string, CourseRecord> = {}
+  for (const c of coursesList.value) {
+    map[c.id] = c
+  }
+  return map
+})
+
+const getIsmNode = (tag: string): IsmNodeEntry | null => {
+  if (!tag || tag === 'introduction' || !ismData.value) return null
+  const entry = ismData.value[tag]
+  if (!entry || Array.isArray(entry)) return null
+  return entry as IsmNodeEntry
+}
+
+const activeIsmTag = computed<string>(() => {
+  if (hoveredIsmTag.value) return hoveredIsmTag.value
+  const param = route.params.ismTag
+  return typeof param === 'string' ? param : ''
+})
+
+const activeIsmData = computed<IsmNodeEntry | null>(() => {
+  return activeIsmTag.value ? getIsmNode(activeIsmTag.value) : null
+})
+
+const activeEnrichment = computed<NodeEnrichment | null>(() => {
+  if (!activeIsmTag.value || !enrichmentsData.value) return null
+  return enrichmentsData.value.nodes[activeIsmTag.value] ?? null
+})
+
+const activeTagDigits = computed<string[]>(() => {
+  return activeIsmTag.value ? activeIsmTag.value.split('-') : []
+})
+
+const parsedAxisList = computed(() => {
+  const list = activeIsmData.value?.axis_list ?? []
+  return list.map((entry, idx) => parseAxisEntry(entry, idx))
+})
+
+const nonEmptyFeatures = computed(() => {
+  return (activeIsmData.value?.feature_list ?? []).filter((item) => item !== '')
+})
+
+const allParsedRelatedList = computed<ParsedRelatedEntry[]>(() => {
+  return (activeIsmData.value?.related_list ?? [])
+    .filter((item) => item !== '')
+    .map(parseRelatedEntry)
+})
+
+const coreRelatedList = computed<ParsedRelatedEntry[]>(() => {
+  if (!activeEnrichment.value) {
+    return allParsedRelatedList.value
+  }
+  return allParsedRelatedList.value.filter((item) => item.category === 'core')
+})
+
+const docLinksFromRelated = computed<ParsedRelatedEntry[]>(() => {
+  return allParsedRelatedList.value.filter((item) => item.label.includes('文案'))
+})
+
+const fallbackReadingEntries = computed<ParsedRelatedEntry[]>(() => {
+  return allParsedRelatedList.value.filter((item) => item.category === 'reading')
+})
+
+const fallbackEditorialEntries = computed<ParsedRelatedEntry[]>(() => {
+  return allParsedRelatedList.value.filter((item) => item.category === 'editorial')
+})
+
+const coursesByCodeMap = computed<Record<string, CourseRecord[]>>(() => {
+  const map: Record<string, CourseRecord[]> = {}
+  const append = (code: string | null | undefined, course: CourseRecord) => {
+    if (!code) return
+    if (!map[code]) {
+      map[code] = []
+    }
+    if (!map[code].some((item) => item.id === course.id)) {
+      map[code].push(course)
+    }
+  }
+  for (const c of coursesList.value) {
+    append(c.catalogue_code, c)
+    for (const relCode of c.related_codes) {
+      append(relCode, c)
+    }
+  }
+  return map
+})
+
+const getLinkedCoursesForTag = (tag: string): CourseRecord[] => {
+  if (!tag) return []
+  const seen = new Set<string>()
+  const result: CourseRecord[] = []
+  const addCourse = (c: CourseRecord | undefined) => {
+    if (!c || seen.has(c.id)) return
+    seen.add(c.id)
+    result.push(c)
+  }
+  const enrich = enrichmentsData.value?.nodes[tag]
+  for (const cid of enrich?.related_course_ids ?? []) {
+    addCourse(courseByIdMap.value[cid])
+  }
+  for (const c of coursesByCodeMap.value[tag] ?? []) {
+    addCourse(c)
+  }
+  return result
+}
+
+const activeLinkedCourses = computed<CourseRecord[]>(() => {
+  return getLinkedCoursesForTag(activeIsmTag.value)
+})
+
+const courseTabCount = computed(() => {
+  return activeLinkedCourses.value.length + (activeEnrichment.value?.transcripts.length ?? 0)
+})
+
+const editorialTabCount = computed(() => {
+  if (!activeEnrichment.value) {
+    return fallbackReadingEntries.value.length + fallbackEditorialEntries.value.length
+  }
+  return (
+    activeEnrichment.value.readings.length +
+    (activeEnrichment.value.review_summary?.highlights.length ?? 0) +
+    activeEnrichment.value.substantive_open_questions.length
+  )
+})
+
+const summaryOriginKey = computed(() => {
+  if (activeEnrichment.value?.summary_origin) {
+    return activeEnrichment.value.summary_origin
+  }
+  return activeIsmData.value?.summary_status === 'manual' ? 'upstream_manual' : 'upstream_ai'
+})
+
+const summaryOriginLabel = computed(() => {
+  if (!activeEnrichment.value) {
+    return activeIsmData.value?.summary_status === 'manual' ? '原站手工条目' : 'AI 汇总条目'
+  }
+  return SUMMARY_ORIGIN_LABELS[summaryOriginKey.value] ?? summaryOriginKey.value
+})
+
+const summaryOriginClass = computed(() => {
+  if (summaryOriginKey.value === 'upstream_manual') return 'pill_manual'
+  if (summaryOriginKey.value === 'upstream_ai') return 'pill_ai_warn'
+  return 'pill_ai'
+})
+
+const evidenceBannerText = computed(() => {
+  if (!activeEnrichment.value) {
+    if (enrichStatus.value === 'error') {
+      return '讲稿与校勘索引加载失败'
+    }
+    return activeIsmData.value?.summary_status === 'ai'
+      ? '待载入讲稿核校明细（未核原音）'
+      : '讲稿核校明细加载中'
+  }
+  const rs = activeEnrichment.value.review_summary
+  if (rs) {
+    const resolved = rs.resolved_in_catalogue_count
+    const qualified = rs.by_resolution_state?.qualified_in_research_record ?? 0
+    if (resolved === 0 && qualified === 0) {
+      return `二手讲稿已逐项比对（${rs.total_checks} 项按讲稿确认）`
+    }
+    const parts: string[] = ['二手讲稿已逐项比对']
+    if (resolved > 0) parts.push(`已入库修订 ${resolved}`)
+    if (qualified > 0) parts.push(`已记限定边界 ${qualified}`)
+    return parts.join(' · ')
+  }
+  if (activeEnrichment.value.summary_evidence) {
+    return '已采录二手讲稿总论（未做逐项拆条复核）'
+  }
+  return 'AI初始汇总（尚待逐项讲稿复核）'
+})
+
+const evidenceBannerClass = computed(() => {
+  if (!activeEnrichment.value) {
+    return enrichStatus.value === 'error' ? 'pill_pending' : 'pill_neutral'
+  }
+  if (activeEnrichment.value.review_summary) return 'pill_reviewed'
+  if (activeEnrichment.value.summary_evidence) return 'pill_partial'
+  return 'pill_pending'
+})
+
+const getAxisEvidence = (axisIndex: number): NodeAxisEvidence | undefined => {
+  return activeEnrichment.value?.axis_evidence.find((ev) => ev.axis_index === axisIndex)
+}
+
+const getCourseKindLabel = (kind: string): string => {
+  return COURSE_KIND_LABELS[kind] ?? kind
+}
+
+const getBodyStatusLabel = (status?: string): string => {
+  if (!status) return '仅目录元数据（未核正文）'
+  return BODY_STATUS_LABELS[status] ?? status
+}
+
+const introductionHtml = computed(() => {
+  if (!ismData.value || !Array.isArray(ismData.value.introduction)) return ''
+  let html = `<div style='line-height: 1.4;'>`
+  for (const seg of ismData.value.introduction) {
+    html += seg
+  }
+  html += `\n<HR><p style='text-align:center'><a href='https://beian.miit.gov.cn/' target='_blank' style='font-style:normal;text-decoration:none'>京ICP备2024067574号-1</a>\n<a href='https://beian.mps.gov.cn/#/query/webSearch?code=11010802044945' target='_blank' style='font-style:normal;text-decoration:none'>京公网安备11010802044945</a><p>`
+  html += `</div>`
+  return html
+})
+
+// 搜索匹配预计算（防抖后统一遍历 1 次，复用与详情页签完全一致的匹配函数）
+const searchedTags = computed<Set<string>>(() => {
+  const q = searchText.value
+  const matched = new Set<string>()
+  if (!q || !ismData.value) return matched
+  const enrichNodes = enrichmentsData.value?.nodes ?? {}
+  for (const key of Object.keys(ismData.value)) {
+    if (key === 'introduction') continue
+    const node = getIsmNode(key)
+    if (!node) continue
+    const enrich = enrichNodes[key] ?? null
+    const linked = getLinkedCoursesForTag(key)
+    if (nodeMatchesQuery(node, enrich, linked, q)) {
+      matched.add(key)
+    }
+  }
+  return matched
+})
+
+const searchedCount = computed(() => {
+  return searchedTags.value.size
+})
+
+const overviewHasSearchHit = computed(() => {
+  return matchesOverviewContent(activeIsmData.value, activeEnrichment.value, searchText.value)
+})
+
+const coursesHasSearchHit = computed(() => {
+  return matchesCoursesContent(
+    activeIsmData.value,
+    activeLinkedCourses.value,
+    activeEnrichment.value,
+    searchText.value
+  )
+})
+
+const editorialHasSearchHit = computed(() => {
+  return matchesEditorialContent(activeIsmData.value, activeEnrichment.value, searchText.value)
+})
 
 // WebSocket连接管理
 const connectWebSocket = () => {
@@ -288,14 +945,14 @@ const connectWebSocket = () => {
     socket.addEventListener("close", (event) => {
       console.log("WebSocket连接关闭:", event.code, event.reason)
       if (event.code !== 1000) {
-        reconnectTimer = setTimeout(() => {
+        reconnectTimer = window.setTimeout(() => {
           connectWebSocket()
         }, 3000)
       }
     })
   } catch (error) {
     console.error("WebSocket连接失败:", error)
-    reconnectTimer = setTimeout(() => {
+    reconnectTimer = window.setTimeout(() => {
       connectWebSocket()
     }, 3000)
   }
@@ -325,7 +982,7 @@ const getIsmClass = (ismTag: string) => {
   if (currentIsmTag && ismTag.startsWith(currentIsmTag)) {
     classes.push('pinned')
   }
-  if (searchText.value && isSearchResult(ismTag)) {
+  if (searchedTags.value.has(ismTag)) {
     classes.push('searched')
   }
   return classes
@@ -333,12 +990,67 @@ const getIsmClass = (ismTag: string) => {
 
 const getIsmName = (ismTag: string) => {
   if (!ismData.value || !ismData.value[ismTag]) return ''
-  const name = ismData.value[ismTag].ch_name.split('/')[0].replace('"', '"').replace('"', '"')
+  const name = ismData.value[ismTag].ch_name.split('/')[0].replace(/[“”"]/g, '')
   return name
 }
 
 const getIsmNameFontSize = (text: string) => {
   return text.length > 4 ? '0.75rem' : '1rem'
+}
+
+const loadEnrichments = async () => {
+  if (enrichStatus.value === 'loading') return
+  enrichStatus.value = 'loading'
+  enrichError.value = ''
+  try {
+    const res = await fetch(buildIsmismcubeStaticUrl('/cube-enrichments.json'))
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}`)
+    }
+    enrichmentsData.value = await res.json() as CubeEnrichmentsPayload
+    enrichStatus.value = 'ready'
+  } catch (error) {
+    console.error('Failed to load cube-enrichments.json:', error)
+    enrichStatus.value = 'error'
+    enrichError.value = '讲稿与校勘索引加载失败，请重试。'
+  }
+}
+
+const loadCourses = async () => {
+  if (coursesStatus.value === 'loading') return
+  coursesStatus.value = 'loading'
+  coursesError.value = ''
+  try {
+    const res = await fetch(buildIsmismcubeStaticUrl('/courses.json'))
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}`)
+    }
+    const payload = await res.json() as CoursesPayload
+    coursesList.value = payload.courses ?? []
+    coursesStatus.value = 'ready'
+  } catch (error) {
+    console.error('Failed to load courses.json:', error)
+    coursesStatus.value = 'error'
+    coursesError.value = '补充课程目录加载失败，请稍后重试。'
+  }
+}
+
+const loadCourseBodies = async () => {
+  if (bodiesStatus.value === 'loading' || bodiesStatus.value === 'ready') return
+  bodiesStatus.value = 'loading'
+  bodiesError.value = ''
+  try {
+    const res = await fetch(buildIsmismcubeStaticUrl('/course-bodies.json'))
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}`)
+    }
+    courseBodiesMap.value = await res.json() as CourseBodiesMap
+    bodiesStatus.value = 'ready'
+  } catch (error) {
+    console.error('Failed to load course-bodies.json:', error)
+    bodiesStatus.value = 'error'
+    bodiesError.value = '课程摘要正文加载失败，请重试。'
+  }
 }
 
 // 总初始化
@@ -348,23 +1060,34 @@ const initial = async () => {
     if (response.ok) {
       ismData.value = await response.json()
       handleRoute()
+      void Promise.allSettled([loadEnrichments(), loadCourses()])
     } else {
-      content.value = "<div style='text-align: center;'>数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)</div>"
+      ismLoadError.value = "数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)"
     }
   } catch (error) {
     console.error('Failed to load ism.json:', error)
-    content.value = "<div style='text-align: center;'>数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)</div>"
+    ismLoadError.value = "数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)"
   }
 
+  let shouldConnectWs = true
   try {
     // POST 记录本次访问，并返回包含本次访问后的总数（保持原先每次加载计一次访问的行为）
     const response = await fetch(buildIsmismcubeApiUrl('/page_view'), { method: 'POST' })
     if (response.ok) {
       const data = await response.json()
-      pageView.value = data.page_view
+      if (typeof data.page_view === 'number') {
+        pageView.value = data.page_view
+      }
+      if (data.offline === true) {
+        shouldConnectWs = false
+      }
     }
   } catch (error) {
     console.error('Failed to load page view:', error)
+  }
+
+  if (shouldConnectWs) {
+    connectWebSocket()
   }
 }
 
@@ -372,15 +1095,13 @@ const handleRoute = () => {
   const ismTag = route.params.ismTag as string
   if (!ismTag || ismTag === '') {
     document.title = "主义主义魔方"
-    showIntroduction()
   } else if (ismData.value && ismData.value[ismTag]) {
     document.title = "主义主义魔方-" + ismData.value[ismTag].ch_name
-    setISMInfo(ismTag)
   }
 }
 
 const selectISM = (ismTag: string) => {
-  setISMInfo(ismTag)
+  hoveredIsmTag.value = ismTag
   const ismNodes = document.querySelectorAll('.ism')
   for (const ismNode of ismNodes) {
     const nodeIsmTag = ismNode.getAttribute('ism_tag')
@@ -391,6 +1112,7 @@ const selectISM = (ismTag: string) => {
 }
 
 const unselectISM = () => {
+  hoveredIsmTag.value = null
   const ismNodes = document.querySelectorAll('.ism')
   for (const ismNode of ismNodes) {
     ismNode.classList.remove('selected')
@@ -407,121 +1129,41 @@ const pinISM = (ismTag: string) => {
   }
 }
 
-const setISMInfo = (ismTag: string) => {
-  if (!ismData.value || !ismData.value[ismTag]) return
-  const ismTagData = ismData.value[ismTag]
-  const ismTagfontSize = 1.1*ismInfoFontSize.value;
-  let contentHtml = `<div style='text-align: center; font-size: ${ismInfoFontSize.value}rem;'>`
-  if (ismTag.length >= 1) {
-    contentHtml += `<p style='display: inline-block;width:${ismTagfontSize}rem;height:${ismTagfontSize}rem;line-height:${ismTagfontSize}rem;color:red;border:solid black ${ismTagfontSize/10}rem;'><b>${ismTag[0]}</b></p>`
+const openCourseDrawer = (courseId?: string, category: DrawerCategoryKey = 'dollar_series') => {
+  drawerInitialCourseId.value = courseId
+  drawerInitialCategory.value = category
+  courseDrawerOpen.value = true
+  if (coursesStatus.value === 'idle' || coursesStatus.value === 'error') {
+    void loadCourses()
   }
-  if (ismTag.length >= 3) {
-    contentHtml += `-<p style='display: inline-block;width:${ismTagfontSize}rem;height:${ismTagfontSize}rem;line-height:${ismTagfontSize}rem;color:green;border:solid black ${ismTagfontSize/10}rem;'><b>${ismTag[2]}</b></p>`
-  }
-  if (ismTag.length >= 5) {
-    contentHtml += `-<p style='display: inline-block;width:${ismTagfontSize}rem;height:${ismTagfontSize}rem;line-height:${ismTagfontSize}rem;color:blue;border:solid black ${ismTagfontSize/10}rem;'><b>${ismTag[4]}</b></p>`
-  }
-  if (ismTag.length >= 7) {
-    contentHtml += `-<p style='display: inline-block;width:${ismTagfontSize}rem;height:${ismTagfontSize}rem;line-height:${ismTagfontSize}rem;color:darkorange;border:solid black ${ismTagfontSize/10}rem;'><b>${ismTag[6]}</b></p>`
-  }
-  if (ismTagData.summary_status === 'ai') {
-    contentHtml += `\n<i style='color: red;'>--- 注意: 以下内容由 AI 总结 ---</i>`
-  }
-  contentHtml += `\n<b>${ismTagData.ch_name}\n${ismTagData.en_name}</b></div>`
-  const axisListData = ismTagData.axis_list
-  contentHtml += `<div style='line-height: 1.4;'>`
-  let colorCount = 0
-  for (const i of axisListData) {
-    contentHtml += `<b style='color:${axisColor[colorCount++]}'>${i.slice(0,3)}</b><p style='display:inline-block;text-align: center;width:${1.1*ismInfoFontSize.value}rem;height:${1.1*ismInfoFontSize.value}rem;line-height:${1.1*ismInfoFontSize.value}rem;border:solid black ${0.1*ismInfoFontSize.value}rem;'><b>${i.slice(3,4)}</b></p>${i.slice(4)}\n`
-  }
-  contentHtml += `</div><div style='line-height: 1.4;'>`
-  const featureListData = ismTagData.feature_list
-  for (const i of featureListData) {
-    if (i !== '') {
-      contentHtml += `<b>${i.slice(0,1)}</b>${i.slice(1)}\n`
-    }
-  }
-  contentHtml += `</div><div style='text-align: center; line-height: 1.4;'>`
-  const relatedListData = ismTagData.related_list
-  for (const i of relatedListData) {
-    if (i !== '') {
-      const splitIndex = i.indexOf('：') + 1
-      if (i.search("http") === -1) {
-        contentHtml += `<b>${i.slice(0,splitIndex)}</b>${i.slice(splitIndex)}\n`
-      } else {
-        contentHtml += `<b>${i.slice(0,splitIndex)}</b><a href='${i.slice(splitIndex)}' target='_blank'>${i.slice(splitIndex)}</a>\n`
-      }
-    }
-  }
-  contentHtml += `</div>`
-  content.value = contentHtml
-
-  if (searchText.value !== '') {
-    renewInfo(searchText.value)
+  if (bodiesStatus.value === 'idle' || bodiesStatus.value === 'error') {
+    void loadCourseBodies()
   }
 }
 
-const renewInfo = (target: string) => {
-  const reg = new RegExp(target, 'gi')
-  content.value = content.value.replace(reg, "<span style='background-color:rgb(225, 172, 39);'>$&</span>")
+const closeCourseDrawer = () => {
+  courseDrawerOpen.value = false
+  drawerInitialCourseId.value = undefined
 }
 
-const isSearchResult = (ismTag: string) => {
-  if (!ismData.value || !ismData.value[ismTag] || searchText.value === '') return false
-  const ismTagData = ismData.value[ismTag]
-  const reg = new RegExp(searchText.value, 'i')
-  if (ismTagData.ch_name.search(reg) !== -1 || ismTagData.en_name.search(reg) !== -1) {
-    return true
-  }
-  const axisListData = ismTagData.axis_list
-  for (const i of axisListData) {
-    if (i.search(reg) !== -1) {
-      return true
-    }
-  }
-  const featureListData = ismTagData.feature_list
-  for (const i of featureListData) {
-    if (i.search(reg) !== -1) {
-      return true
-    }
-  }
-  const relatedListData = ismTagData.related_list
-  for (const i of relatedListData) {
-    if (i.search(reg) !== -1) {
-      return true
-    }
-  }
-  return false
+const canJumpToNode = (code: string): boolean => {
+  return Boolean(getIsmNode(code))
 }
 
-const showIntroduction = () => {
-  if (!ismData.value || !ismData.value.introduction) return
-  const introduction = ismData.value.introduction
-  let contentHtml = `<div style='line-height: 1.4;'>`
-  for (const i of introduction) {
-    contentHtml += i
-  }
-  contentHtml += `\n<HR><p style='text-align:center'><a href='https://beian.miit.gov.cn/' target='_blank' style='font-style:normal;text-decoration:none'>京ICP备2024067574号-1</a>\n<a href='https://beian.mps.gov.cn/#/query/webSearch?code=11010802044945' target='_blank' style='font-style:normal;text-decoration:none'>京公网安备11010802044945</a><p>`
-  contentHtml += `</div>`
-  content.value = contentHtml
+const jumpToNode = (code: string) => {
+  if (!getIsmNode(code)) return
+  hoveredIsmTag.value = null
+  activeInfoTab.value = 'overview'
+  closeCourseDrawer()
+  router.push('/' + code)
 }
 
 const increaseFontSize = () => {
-  ismInfoFontSize.value += 0.1
-  document.getElementById('ism_info')!.style.fontSize = ismInfoFontSize.value + 'rem'
-  const currentIsmTag = route.params.ismTag as string
-  if (currentIsmTag && currentIsmTag !== '') {
-    setISMInfo(currentIsmTag)
-  }
+  ismInfoFontSize.value = Math.min(1.8, Math.round((ismInfoFontSize.value + 0.1) * 10) / 10)
 }
 
 const decreaseFontSize = () => {
-  ismInfoFontSize.value -= 0.1
-  document.getElementById('ism_info')!.style.fontSize = ismInfoFontSize.value + 'rem'
-  const currentIsmTag = route.params.ismTag as string
-  if (currentIsmTag && currentIsmTag !== '') {
-    setISMInfo(currentIsmTag)
-  }
+  ismInfoFontSize.value = Math.max(0.7, Math.round((ismInfoFontSize.value - 0.1) * 10) / 10)
 }
 
 const openMoreContent = () => {
@@ -652,6 +1294,32 @@ const sendDanmu = async () => {
   }
 }
 
+let searchDebounceTimer: number | null = null
+
+const clearSearch = () => {
+  if (searchDebounceTimer !== null) {
+    window.clearTimeout(searchDebounceTimer)
+    searchDebounceTimer = null
+  }
+  searchInputText.value = ''
+  searchText.value = ''
+}
+
+watch(searchInputText, (val) => {
+  if (searchDebounceTimer !== null) {
+    window.clearTimeout(searchDebounceTimer)
+    searchDebounceTimer = null
+  }
+  if (!val) {
+    searchText.value = ''
+    return
+  }
+  searchDebounceTimer = window.setTimeout(() => {
+    searchText.value = val
+    searchDebounceTimer = null
+  }, 120)
+})
+
 // 监听路由变化
 watch(() => route.params.ismTag, () => {
   handleRoute()
@@ -661,10 +1329,13 @@ watch(() => route.params.ismTag, () => {
 onMounted(() => {
   document.documentElement.style.fontSize = Math.max(screen.width, screen.height) / 96 + "px"
   initial()
-  connectWebSocket()
 })
 
 onUnmounted(() => {
+  if (searchDebounceTimer !== null) {
+    window.clearTimeout(searchDebounceTimer)
+    searchDebounceTimer = null
+  }
   document.documentElement.style.fontSize = ""
   disconnectWebSocket()
 })
@@ -1583,6 +2254,423 @@ onUnmounted(() => {
 #danmu_input.disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+#courses_button {
+  position: absolute;
+  left: 1rem;
+  top: 7.5rem;
+  width: 7.5rem;
+  height: 1.5rem;
+  font-size: 0.78rem;
+  line-height: 1.5rem;
+  text-align: center;
+  white-space: nowrap;
+  background-color: rgb(200, 200, 200);
+  border: solid black 1px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+#courses_button:hover {
+  background-color: gray;
+}
+
+#search_status_line {
+  position: absolute;
+  left: 1rem;
+  top: 9.25rem;
+  width: 7.5rem;
+  font-size: 0.7rem;
+  line-height: 1.2;
+  color: rgb(55, 55, 55);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.2rem;
+}
+
+.clear_search_link {
+  background-color: rgb(210, 210, 210);
+  border: 1px solid black;
+  padding: 0 0.25rem;
+  font-size: 0.68rem;
+  cursor: pointer;
+}
+
+.clear_search_link:hover {
+  background-color: rgb(180, 180, 180);
+}
+
+#increase_fontsize_button,
+#decrease_fontsize_button {
+  z-index: 2;
+  cursor: pointer;
+}
+
+#ism_info_content {
+  white-space: normal;
+  align-items: stretch;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.info_intro_box,
+.info_error_box {
+  white-space: pre-wrap;
+  line-height: 1.45;
+  font-size: 1em;
+}
+
+.info_error_box {
+  text-align: center;
+  padding: 1rem;
+}
+
+.node_header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.node_coord_row {
+  padding: 0 4.5rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2em;
+  flex-wrap: wrap;
+}
+
+.coord_box {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+  border: solid black 0.1em;
+  background-color: rgb(224, 224, 224);
+}
+
+.coord_dash {
+  font-weight: bold;
+}
+
+.node_status_banner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.28em;
+}
+
+.status_pill {
+  display: inline-block;
+  padding: 0.08em 0.42em;
+  font-size: 0.74em;
+  border: 1px solid rgb(70, 70, 70);
+  background-color: rgb(232, 232, 232);
+}
+
+.pill_manual {
+  background-color: rgb(216, 236, 216);
+  border-color: rgb(42, 102, 42);
+}
+
+.pill_ai {
+  background-color: rgb(226, 234, 246);
+  border-color: rgb(55, 86, 140);
+}
+
+.pill_ai_warn {
+  background-color: rgb(248, 228, 200);
+  border-color: rgb(162, 92, 24);
+  color: rgb(92, 46, 8);
+}
+
+.pill_reviewed {
+  background-color: rgb(214, 239, 239);
+  border-color: darkcyan;
+}
+
+.pill_partial {
+  background-color: rgb(247, 238, 200);
+  border-color: rgb(146, 114, 30);
+}
+
+.pill_pending {
+  background-color: rgb(246, 224, 224);
+  border-color: rgb(150, 50, 50);
+}
+
+.pill_unverified {
+  background-color: rgb(236, 236, 236);
+  color: rgb(65, 65, 65);
+}
+
+.summary_evidence_line {
+  font-size: 0.74em;
+  color: rgb(55, 55, 55);
+  text-align: center;
+}
+
+.node_titles {
+  text-align: center;
+  line-height: 1.35;
+}
+
+.node_ch_name {
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+.node_en_name {
+  font-size: 0.92em;
+  font-weight: bold;
+  color: rgb(50, 50, 50);
+}
+
+.info_tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.3em;
+  width: 100%;
+  margin: 0.25em 0;
+}
+
+.info_tab_btn {
+  position: relative;
+  padding: 0.28em 0.35em;
+  font-size: 0.78em;
+  background-color: rgb(218, 218, 218);
+  border: 1px solid black;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.info_tab_btn:hover {
+  background-color: rgb(185, 185, 185);
+}
+
+.info_tab_btn.active {
+  background-color: darkcyan;
+  color: white;
+  font-weight: bold;
+}
+
+.hit_dot {
+  margin-left: 0.2em;
+  color: rgb(225, 172, 39);
+  font-weight: bold;
+}
+
+.tab_panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+  width: 100%;
+  box-sizing: border-box;
+  line-height: 1.45;
+  font-size: 0.94em;
+}
+
+.axis_section,
+.feature_section,
+.core_related_section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+}
+
+.axis_digit_box {
+  display: inline-block;
+  text-align: center;
+  width: 1.15em;
+  height: 1.15em;
+  line-height: 1.15em;
+  margin: 0 0.15em;
+  border: solid black 0.1em;
+}
+
+.axis_evidence_chip {
+  margin-top: 0.12em;
+  padding-left: 0.5em;
+  border-left: 2px solid rgb(120, 120, 120);
+  font-size: 0.78em;
+  color: rgb(55, 55, 55);
+}
+
+.core_related_section {
+  text-align: center;
+  padding-top: 0.25em;
+  border-top: 1px dashed rgb(140, 140, 140);
+}
+
+.related_row {
+  word-break: break-word;
+}
+
+.section_block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+}
+
+.section_title {
+  font-weight: bold;
+  font-size: 0.9em;
+  padding-bottom: 0.15em;
+  border-bottom: 1px solid rgb(140, 140, 140);
+}
+
+.info_card {
+  padding: 0.42em 0.55em;
+  background-color: rgb(222, 222, 222);
+  border: 1px solid rgb(135, 135, 135);
+  display: flex;
+  flex-direction: column;
+  gap: 0.22em;
+}
+
+.card_badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em;
+}
+
+.mini_badge {
+  display: inline-block;
+  padding: 0.04em 0.32em;
+  font-size: 0.74em;
+  background-color: rgb(238, 238, 238);
+  border: 1px solid rgb(95, 95, 95);
+}
+
+.mini_badge.series {
+  background-color: rgb(252, 232, 180);
+  border-color: rgb(150, 100, 0);
+  font-weight: bold;
+}
+
+.mini_badge.rel_explicit {
+  background-color: rgb(215, 240, 215);
+  border-color: rgb(42, 106, 42);
+  font-weight: bold;
+}
+
+.mini_badge.rel_editorial {
+  background-color: rgb(226, 228, 248);
+  border-color: rgb(65, 75, 145);
+}
+
+.mini_badge.res_resolved {
+  background-color: rgb(215, 242, 242);
+  border-color: darkcyan;
+}
+
+.mini_badge.res_qualified {
+  background-color: rgb(248, 238, 205);
+  border-color: rgb(155, 115, 25);
+}
+
+.mini_badge.warn_soft {
+  background-color: rgb(246, 232, 224);
+  border-color: rgb(155, 78, 55);
+}
+
+.card_main_link {
+  word-break: break-word;
+}
+
+.card_actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4em;
+}
+
+.bv_code {
+  font-size: 0.76em;
+  color: rgb(70, 70, 70);
+}
+
+.mini_action_btn {
+  padding: 0.14em 0.5em;
+  font-size: 0.78em;
+  background-color: rgb(206, 232, 232);
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.mini_action_btn:hover {
+  background-color: darkcyan;
+  color: white;
+}
+
+.drawer_cta_wrap {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.2em;
+}
+
+.review_stats_bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em;
+  padding: 0.3em 0.5em;
+  background-color: rgb(216, 216, 216);
+  border: 1px solid rgb(140, 140, 140);
+  font-size: 0.8em;
+}
+
+.card_meta_line {
+  font-size: 0.84em;
+}
+
+.muted_meta {
+  font-size: 0.76em;
+  color: rgb(70, 70, 70);
+  word-break: break-all;
+}
+
+.empty_hint {
+  font-size: 0.82em;
+  color: rgb(75, 75, 75);
+}
+
+.error_hint {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45em;
+  color: rgb(140, 36, 36);
+}
+
+.retry_btn_inline {
+  padding: 0.12em 0.5em;
+  font-size: 0.88em;
+  background-color: rgb(232, 232, 232);
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.retry_btn_inline:hover {
+  background-color: darkcyan;
+  color: white;
+}
+
+.editorial_list {
+  margin: 0;
+  padding-left: 1.25em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+  font-size: 0.85em;
 }
 
 </style>

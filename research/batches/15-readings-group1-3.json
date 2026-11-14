@@ -1,0 +1,868 @@
+{
+  "batch": "15-readings-group1-3",
+  "checked_on": "2026-11-13",
+  "scope": "在不超越既有已核外部文献(sources.json 及 01/02/06/09/10 批次)与社区编纂正文已有核读范围的前提下，为一字头与三字头补充经正文位置复核的典籍与学术条目关联，严格区分课程明确点名引用的原典与编者建议对照的学术/背景文献。",
+  "entries": [
+    {
+      "code": "1-1-1-1",
+      "reading_links": [
+        {
+          "source_id": "m2-bacon-novum",
+          "locator": "Book I §§I–XIII、XLI–XLVI",
+          "reason": "讲稿明确辨析“知识就是力量”原旨与后世科学独断误读（未直接引《新工具》条号），附《新工具》相关节选供编者对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0005)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(m2-bacon-novum) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-foucault",
+          "locator": "§2结尾及§3开头",
+          "reason": "讲稿在反思培根主义时点名以福柯知识权力谱系为真正对立面，附 SEP Michel Foucault 条目作学术入口。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0005)正文定位：P2 L12、P3 L15；外部文献仅在既有 source(r02-foucault) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-1-2-3",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-kuhn",
+          "locator": "§2 The Development of Science 开头：常规研究、解谜和革命性阶段。",
+          "reason": "讲稿明确提及库恩以历史性与范式机制消解科学的思路，附 SEP Thomas Kuhn 条目对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0012)正文定位：P4 L18、P12 L42；外部文献仅在既有 source(b02-sep-kuhn) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-1-3-1",
+      "reading_links": [
+        {
+          "source_id": "p10-turing-intelligence",
+          "locator": "第1–2节pp.433–435及第6节(4)意识论证pp.445–447（PDF页索引13–15）；未通读全文",
+          "reason": "讲稿明确提及图灵与图灵机计算模型，附 Turing 1950 经典论文节选作功能主义人工智能背景对照（正文未直接引该论文页码）。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0015)正文定位：P3 L41、P4 L44；外部文献仅在既有 source(p10-turing-intelligence) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r01-functional-sep",
+          "locator": "§1 What is Functionalism?：mental states, causal roles, multiple realization",
+          "reason": "讲稿以早期普特南功能主义代表该节点，附 SEP Functionalism 综述对照当代心灵哲学定义。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0015)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r01-functional-sep) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-1-3-2",
+      "reading_links": [
+        {
+          "source_id": "b02-darwin-origin",
+          "locator": "Chapter IV, Natural Selection，开头变异、遗传、生存与繁殖优势的论证。",
+          "reason": "讲稿围绕自由进化论/模因进化论展开并借用道金斯《自私的基因》比喻（未直接点名达尔文），附《物种起源》第四章“自然选择”作源流对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0016)正文定位：P1 L11、P1 L12；外部文献仅在既有 source(b02-darwin-origin) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-1-4-1",
+      "reading_links": [
+        {
+          "source_id": "b02-watson-behaviorist",
+          "locator": "开头三段：心理学目标、内省法、动物与人类研究的关系。",
+          "reason": "节点为操作行为主义分支（承接 1-1-4 华生经典行为主义脉络），附华生宣言作学术起点对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0020)正文定位：P1 L9、P2 L13；外部文献仅在既有 source(b02-watson-behaviorist) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-1-4-4",
+      "reading_links": [
+        {
+          "source_id": "b02-dewey-experience",
+          "locator": "Chapter XI, I, The Nature of Experience，开头三个段落。",
+          "reason": "讲稿明确提及米德与同时代实用主义者杜威的思想语境，附《民主主义与教育》第11章对照经验与行动观。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0023)正文定位：P3 L15；外部文献仅在既有 source(b02-dewey-experience) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-2-2-3",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "locator": "第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。",
+          "reason": "讲稿明确点出马克思的“商品拜物教/资本拜物教”概念，附《资本论》第一卷第一章第4节相关段落对照。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0034)正文定位：P6 L26、P8 L32；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0034"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1-2-3",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "locator": "第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。",
+          "reason": "讲稿明确援引马克思“商品和劳动二重性”，附《资本论》第一卷第一章相关节选对照具体值质区分。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0036)正文定位：P27 L141；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0036"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1-2-4-1",
+      "reading_links": [
+        {
+          "source_id": "m2-luther-liberty",
+          "locator": "正文起首，自由主人/服役者二命题、内外人、圣言与因信称义",
+          "reason": "讲稿在讨论神学宿命论与宗教改革动员时明确提及马丁·路德（未直接引此文），附《论基督徒的自由》节选作背景对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0042)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(m2-luther-liberty) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-2-4-2",
+      "reading_links": [
+        {
+          "source_id": "r02-nietzsche",
+          "locator": "§1 Life and Works",
+          "reason": "讲稿标题与正文直接讨论尼采（《瞧！这个人》等脉络），附 SEP 尼采条目对照生平与著作背景。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0043)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-3-2-3",
+      "reading_links": [
+        {
+          "source_id": "b02-plato-republic",
+          "locator": "Book VII 开头洞穴比喻：锁链、影像、转身与走向光亮。",
+          "reason": "讲稿围绕“现代新柏拉图主义”讨论爱情与理念论预设，附《理想国》第七卷洞穴比喻英译节选作哲学史对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0055)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-plato-republic) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-3-3-2",
+      "reading_links": [
+        {
+          "source_id": "kant-cpr-meiklejohn",
+          "locator": "Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena",
+          "reason": "讲稿副题及正文讨论康德道德与先验哲学预设，附《纯粹理性批判》英译目录及先验要素论入口。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0059)正文定位：P6 L24、P7 L27；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "sep-kant-ti",
+          "locator": "Introduction；1. Appearances and Things in Themselves",
+          "reason": "对照康德先验哲学的学界解释争论，附 SEP Kant’s Transcendental Idealism 学术综述。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0059)正文定位：P6 L24、P7 L27；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-3-3-4",
+      "reading_links": [
+        {
+          "source_id": "m2-schopenhauer-world",
+          "locator": "第四篇§67开头至友谊讨论；§71开头至否定意志的认识界限",
+          "reason": "讲稿明确围绕“叔本华的唯意志主义”讨论表象与意志命题（0059 讲亦直接点出《作为意志和表象的世界》书名），附卷一第四篇节选对照。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0061)正文定位：P3 L15、P4 L18；外部文献仅在既有 source(m2-schopenhauer-world) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0061"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1-4-1-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-realism",
+          "locator": "Introduction；§1.1 Epistemic Achievements versus Epistemic Aims 开头。",
+          "reason": "该分支把暴力归约为自然物理过程与客观秩序，附 SEP Scientific Realism 导言对照实在论基础设定。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m1-0077)正文定位：P5 L25、P7 L35；外部文献仅在既有 source(b02-sep-realism) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "1-4-1-3",
+      "reading_links": [
+        {
+          "source_id": "b02-laozi-wangbi",
+          "locator": "第三十七章经文及逐句王弼注；辅读第二章无为与不居功段。",
+          "reason": "讲稿明确谈及老子、《道德经》观念与无为取向，附王弼注本《道德经》节选对照经文与注疏。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0079)正文定位：P14 L58；外部文献仅在既有 source(b02-laozi-wangbi) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0079"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1-4-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-aristotle-categories",
+          "locator": "Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。",
+          "reason": "讲稿明确点名亚里士多德《范畴篇》及其两种本体论/实体区分，附《范畴篇》第4–5节选读对照。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0080)正文定位：P14 L63；外部文献仅在既有 source(b02-aristotle-categories) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0080"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1-4-3-2",
+      "reading_links": [
+        {
+          "source_id": "b02-aristotle-categories",
+          "locator": "Section 1, Parts 4–5：非复合表达的类别、第一实体与第二实体。",
+          "reason": "讲稿明确追溯痛苦体验至亚里士多德《范畴篇》中的“承受(passion)”范畴，附《范畴篇》第4节对照。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m1-0088)正文定位：P7 L53；外部文献仅在既有 source(b02-aristotle-categories) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m1-0088"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3-1-1-2",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+          "reason": "讲稿直接讨论胡塞尔《观念一》与先验本质主义，附 SEP Edmund Husserl 条目作学术入口。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0192)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-1-3",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+          "reason": "讲稿以胡塞尔《观念二》/主体间性构造为主线区分先验与庸俗唯我论，附 SEP 胡塞尔条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0193)正文定位：P2 L20、P5 L29；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+          "reason": "讲稿讲述青年德里达如何接续与改写胡塞尔先验现象学遗产，附 SEP 胡塞尔条目供背景对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0194)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-2-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-husserl",
+          "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+          "reason": "讲稿明确论述现象学还原与生活世界连续体验之起源，附 SEP 胡塞尔条目对照相关概念。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0196)正文定位：P2 L12、P3 L15；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+          "reason": "讲稿以现象学向生存论时间性转折为主题并直接评价海德格尔，附 SEP Martin Heidegger 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0205)正文定位：P1 L9、P6 L28；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-4-1",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+          "reason": "讲稿正题提及《存在与时间》并称早期核心实为《时间概念史导论》，附 SEP Martin Heidegger 条目对照著作谱系。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0206)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-bt31",
+          "locator": "德文原页142，§31 Das Da-sein als Verstehen",
+          "reason": "讲稿深入讨论“此在/在世存在”发问与领会结构，附德文原版《存在与时间》§31 选段对照 Verstehen 用词。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0206)正文定位：P1 L9、P5 L49；外部文献仅在既有 source(r02-bt31) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-4-2",
+      "reading_links": [
+        {
+          "source_id": "r02-sartre",
+          "locator": "§4.1、§4.2中facticity与sincerity段",
+          "reason": "讲稿通过萨特关于身体、凝视与他者的论述展开性化现象学对比，附 SEP Jean-Paul Sartre 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0207)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-sartre) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "b02-sep-husserl",
+          "locator": "§2：反心理主义、意向充实及明证性；§3：自然态度、悬置与相关性研究。",
+          "reason": "讲稿主标题与正文以萨特直接对照胡塞尔现象学视角，附 SEP Edmund Husserl 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0207)正文定位：P9 L46、P9 L47；外部文献仅在既有 source(b02-sep-husserl) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-1-4-3",
+      "reading_links": [
+        {
+          "source_id": "r02-merleau-ponty",
+          "locator": "导言与§1，1955 Adventures of the Dialectic",
+          "reason": "讲稿专题讲授梅洛-庞蒂格式塔-身体-知觉现象学，附 SEP Maurice Merleau-Ponty 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0208)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-merleau-ponty) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2",
+      "reading_links": [
+        {
+          "source_id": "kant-cpr-meiklejohn",
+          "locator": "Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena",
+          "reason": "德国观念论总论追溯从康德起步的问题史，附《纯粹理性批判》英译本目录与先验分析论选段。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0210)正文定位：P1 L9、P2 L16；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "sep-kant-ti",
+          "locator": "Introduction；1. Appearances and Things in Themselves",
+          "reason": "对照德国观念论所继承与批判的康德先验观念论架构，附 SEP Kant’s Transcendental Idealism 导读。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0210)正文定位：P1 L9、P2 L16；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-1",
+      "reading_links": [
+        {
+          "source_id": "kant-cpr-meiklejohn",
+          "locator": "Transcendental Aesthetic；Transcendental Analytic: Of the Ground of the Division of all Objects into Phenomena and Noumena",
+          "reason": "讲稿专题梳理康德《纯粹理性批判》“以判断为枢纽”的先验哲学计划，附原典英译目录与要素论选段。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(m3-0212)正文定位：P1 L9、P4 L24；外部文献仅在既有 source(kant-cpr-meiklejohn) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "m3-0212"
+          ]
+        },
+        {
+          "source_id": "sep-kant-ti",
+          "locator": "Introduction；1. Appearances and Things in Themselves",
+          "reason": "附 SEP Kant’s Transcendental Idealism 供核对“表象/物自体”在学界解释上的分歧。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0212)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(sep-kant-ti) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-2-4",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-wittgenstein",
+          "locator": "§3.3 Meaning as Use，至语言游戏概念引入。",
+          "reason": "讲稿直接将早期维特根斯坦《逻辑哲学论》定位为先验唯我论回响，附 SEP 维特根斯坦条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0221)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-wittgenstein) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-3-3",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+          "reason": "讲稿专题评述 1930 年后转向期的海德格尔与晚期谢林，附 SEP Martin Heidegger 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0225)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-3-4",
+      "reading_links": [
+        {
+          "source_id": "hegel-logic-toc",
+          "locator": "The Doctrine of Being；The Doctrine of Essence",
+          "reason": "讲稿聚焦早期耶拿黑格尔辩证法与晚期谢林之争，附《逻辑学》英文目录对照其成熟逻辑体系结构。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0226)正文定位：P1 L10、P1 L11；外部文献仅在既有 source(hegel-logic-toc) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-4",
+      "reading_links": [
+        {
+          "source_id": "sep-hegel-dialectics",
+          "locator": "Introduction",
+          "reason": "讲稿总论黑格尔辩证法向绝对精神展开的机制，附 SEP Hegel’s Dialectics 导言。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0227)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(sep-hegel-dialectics) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-4-2",
+      "reading_links": [
+        {
+          "source_id": "hegel-logic-toc",
+          "locator": "The Doctrine of Being；The Doctrine of Essence",
+          "reason": "讲稿阐述主体存在为客体与体系演化，附《逻辑学》英文目录（存在/本质/概念三篇框架）供对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0229)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(hegel-logic-toc) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-2-4-3",
+      "reading_links": [
+        {
+          "source_id": "hegel-logic-being",
+          "locator": "Web paragraph numbers 132–134: Being, Nothing, Becoming；Web paragraph numbers 184–185: To Sublate",
+          "reason": "讲稿围绕“否定性(negativity)”推动绝对精神展开，附《逻辑学·存在论》有/无/变易与扬弃选段。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(m3-0230)正文定位：P2 L12、P4 L18；外部文献仅在既有 source(hegel-logic-being) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+          "reason": "生存论总论点名海德格尔为“学院派生存论”代表，附 SEP Martin Heidegger 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-sartre",
+          "locator": "§4.1、§4.2中facticity与sincerity段",
+          "reason": "生存论总论点名萨特并对比两种生存论姿态，附 SEP Jean-Paul Sartre 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(r02-sartre) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-kierkegaard",
+          "locator": "§1与§3导言、§3.1–3.3目录",
+          "reason": "生存论总论定位克尔凯廓尔为真正生存论者（3-3-2），附 SEP Søren Kierkegaard 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0232)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-nietzsche",
+          "locator": "§1 Life and Works",
+          "reason": "生存论总论讨论尼采与生存论哲学家的理论代价，附 SEP Friedrich Nietzsche 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0232)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-jaspers",
+          "locator": "生平著作段：Weltorientierung、Existenzerhellung、Metaphysik",
+          "reason": "生存论总论明列雅斯贝尔斯在后观念论生存论中的位置，附 SEP Karl Jaspers 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0232)正文定位：P1 L9、P8 L44；外部文献仅在既有 source(r02-jaspers) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-1-3",
+      "reading_links": [
+        {
+          "source_id": "r02-merleau-ponty",
+          "locator": "导言与§1，1955 Adventures of the Dialectic",
+          "reason": "讲稿专题分析梅洛-庞蒂知觉现象学及其后期《辩证法的历险》政治反思，附 SEP 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0237)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-merleau-ponty) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-1-4",
+      "reading_links": [
+        {
+          "source_id": "b02-sep-heidegger",
+          "locator": "导言的存在问题；§2.2及§2.2.3：在世存在、情绪状态、领会和言谈。",
+          "reason": "讲稿评述海德格尔《哲学论稿（从本有而来）》前本体论位置，附 SEP 海德格尔条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0238)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(b02-sep-heidegger) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-2",
+      "reading_links": [
+        {
+          "source_id": "r02-kierkegaard",
+          "locator": "§1与§3导言、§3.1–3.3目录",
+          "reason": "讲稿以克尔凯廓尔主体性内在体验与非理性主义开启 3-3-2 分支，附 SEP 克尔凯廓尔条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0239)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-2-1",
+      "reading_links": [
+        {
+          "source_id": "r02-kierkegaard",
+          "locator": "§1与§3导言、§3.1–3.3目录",
+          "reason": "讲稿逐一拆解克尔凯廓尔三阶段及“重复”概念，附 SEP 克尔凯廓尔条目对照其伪名著作体系。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0240)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-kierkegaard) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-2-3",
+      "reading_links": [
+        {
+          "source_id": "r02-nietzsche",
+          "locator": "§1 Life and Works",
+          "reason": "讲稿副题与正文以别尔嘉耶夫对照尼采《查拉图斯特拉如是说》，附 SEP 尼采条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0242)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-2-4",
+      "reading_links": [
+        {
+          "source_id": "r02-jaspers",
+          "locator": "生平著作段：Weltorientierung、Existenzerhellung、Metaphysik",
+          "reason": "讲稿专题阐述雅斯贝尔斯两个大全与“超验/哲学化”架构，附 SEP Karl Jaspers 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0243)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-jaspers) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-3",
+      "reading_links": [
+        {
+          "source_id": "r02-nietzsche",
+          "locator": "§1 Life and Works",
+          "reason": "讲稿开篇直接讲解“尼采理论的三位一体”与时间/永恒轮回问题，附 SEP 尼采条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0244)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-3-2",
+      "reading_links": [
+        {
+          "source_id": "r02-friedrich-jacobi",
+          "locator": "§1、Glaube与nihilism段",
+          "reason": "讲稿以雅各比直接信仰论与虚无主义批判为重心，附 SEP Friedrich Heinrich Jacobi 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0246)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-friedrich-jacobi) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-3-3",
+      "reading_links": [
+        {
+          "source_id": "r02-nietzsche",
+          "locator": "§1 Life and Works",
+          "reason": "讲稿引用尼采《快乐的科学》《查拉图斯特拉如是说》《善恶的彼岸》讨论永恒轮回，附 SEP 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-33-0247)正文定位：P1 L9、P3 L19；外部文献仅在既有 source(r02-nietzsche) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-3-4-3",
+      "reading_links": [
+        {
+          "source_id": "r02-camus",
+          "locator": "§3开头、§3.2结尾、§3.3",
+          "reason": "讲稿围绕加缪《西西弗神话》式荒谬与“无希望但非绝望”展开阐释，附 SEP Albert Camus 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-334-0252)正文定位：P1 L9、P2 L14；外部文献仅在既有 source(r02-camus) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-1-1",
+      "reading_links": [
+        {
+          "source_id": "r02-levi",
+          "locator": "全文末部，surabondance de signifiant、signifiant flottant段",
+          "reason": "讲稿直接讲解列维-斯特劳斯结构人类学与音位-能指分析，附莫斯文集导言浮动能指段落。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0257)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-levi) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-1-2",
+      "reading_links": [
+        {
+          "source_id": "r02-lacan",
+          "locator": "§1思想发展段，1953–1964",
+          "reason": "讲稿专题阐述拉康三界说、镜像认同与隐喻象征机制，附 SEP Jacques Lacan 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0258)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-1-4",
+      "reading_links": [
+        {
+          "source_id": "r02-foucault",
+          "locator": "§2结尾及§3开头",
+          "reason": "讲稿评价福柯话语/陈述体系及考古学定位，附 SEP Michel Foucault 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0260)正文定位：P2 L12、P3 L17；外部文献仅在既有 source(r02-foucault) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-2",
+      "reading_links": [
+        {
+          "source_id": "r02-althusser",
+          "locator": "§3.2.3历史理论中structural causality/overdetermination段",
+          "reason": "讲稿讨论阿尔都塞与后结构主义理论结构，附 SEP Louis Althusser 条目对照结构因果性。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0261)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(r02-althusser) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "b01-althusser-ideology-isa-en",
+          "locator": "论意识形态物质存在的 Thesis II；Ideology Interpellates Individuals as Subjects。",
+          "reason": "配合 3-4-2 讨论，附阿尔都塞《意识形态与意识形态国家机器》英译选段对照物质存在与询唤论题。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0261)正文定位：P2 L14、P3 L19；外部文献仅在既有 source(b01-althusser-ideology-isa-en) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-2-1",
+      "reading_links": [
+        {
+          "source_id": "r02-lacan",
+          "locator": "§1思想发展段，1953–1964",
+          "reason": "讲稿以拉康符号系统整合（阉割）及无意识主体性为核心机制，附 SEP 拉康条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0262)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-2-3",
+      "reading_links": [
+        {
+          "source_id": "sep-hegel-dialectics",
+          "locator": "Introduction",
+          "reason": "讲稿分析齐泽克哲学四矩阵与黑格尔辩证否定性的关系，附 SEP Hegel’s Dialectics 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0264)正文定位：P7 L27、P8 L30；外部文献仅在既有 source(sep-hegel-dialectics) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-3",
+      "reading_links": [
+        {
+          "source_id": "r02-derrida",
+          "locator": "différance与contamination段",
+          "reason": "讲稿围绕德里达与黑格尔及差异/解构辩证法关系展开，附 SEP Jacques Derrida 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0266)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-derrida) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-3-1",
+      "reading_links": [
+        {
+          "source_id": "r02-deleuze",
+          "locator": "§2讨论Nietzsche and Philosophy及Bergsonism",
+          "reason": "讲稿直接点名德勒兹《尼采与哲学》以辨析肯定意志与反辩证法立场，附 SEP 德勒兹条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0267)正文定位：P1 L9、P2 L12；外部文献仅在既有 source(r02-deleuze) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-3-4",
+      "reading_links": [
+        {
+          "source_id": "r02-lyotard",
+          "locator": "§1 The Field: Knowledge in Computerised Societies",
+          "reason": "讲稿引述利奥塔《后现代状况》关于“postmodernism is a part of modernism”与元叙事的界定，附该书节选对照原文起点。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(a12-34-0270)正文定位：P1 L9、P3 L15；外部文献仅在既有 source(r02-lyotard) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "a12-34-0270"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3-4-4-1",
+      "reading_links": [
+        {
+          "source_id": "r02-ricoeur",
+          "locator": "§3结尾、§4 Forms of Extended Discourse",
+          "reason": "讲稿围绕利科活隐喻与现象学诠释学“占有”概念展开，附 SEP Paul Ricoeur 条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0272)正文定位：P2 L12、P6 L24；外部文献仅在既有 source(r02-ricoeur) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-4-2",
+      "reading_links": [
+        {
+          "source_id": "r01-freud35",
+          "locator": "开头第3—4段：专门科学、心理学分支与接受科学世界观",
+          "reason": "讲稿主题讨论经典精神分析“回到弗洛伊德”命题，附弗洛伊德《新引论》第35讲英译以供校勘注中与课程解释之对照。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0273)正文定位：P2 L12、P5 L21；外部文献仅在既有 source(r01-freud35) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    },
+    {
+      "code": "3-4-4-4",
+      "reading_links": [
+        {
+          "source_id": "b01-marx-capital-commodity-zh",
+          "locator": "第一章第1节“商品的两个因素：使用价值和价值（价值实体，价值量）”开头；第4节“商品的拜物教性质及其秘密”开头。",
+          "reason": "讲稿开篇明确列出《资本论》（晚期马克思）为代表脉络起点，附《资本论》第一卷第一章选段对照。",
+          "relation": "lecture_explicit_reference",
+          "verification_scope": "二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L10；外部文献仅在既有 source(b01-marx-capital-commodity-zh) 已核范围对照，不推论超越该范围的文本细节。",
+          "evidence_source_ids": [
+            "a12-34-0275"
+          ]
+        },
+        {
+          "source_id": "r02-althusser",
+          "locator": "§3.2.3历史理论中structural causality/overdetermination段",
+          "reason": "讲稿开篇明确列出阿尔都塞作为《资本论》到晚期拉康的中介，附 SEP 阿尔都塞条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L11；外部文献仅在既有 source(r02-althusser) 已核范围对照，不推论超越该范围的文本细节。"
+        },
+        {
+          "source_id": "r02-lacan",
+          "locator": "§1思想发展段，1953–1964",
+          "reason": "讲稿明确围绕晚期拉康及其“第二次回到弗洛伊德”展开，附 SEP 拉康条目。",
+          "relation": "editorial_reading",
+          "verification_scope": "二手讲稿(a12-34-0275)正文定位：P1 L9、P1 L11；外部文献仅在既有 source(r02-lacan) 已核范围对照，不推论超越该范围的文本细节。"
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "code": "3-4-4-2",
+      "field_path": [
+        "related_list"
+      ],
+      "before": [
+        "思想史代表人物：弗洛伊德(Freud)",
+        "原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi",
+        "编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。",
+        "校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm",
+        "校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/",
+        "编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。"
+      ],
+      "after": [
+        "思想史代表人物：弗洛伊德(Freud)",
+        "原视频链接：https://www.bilibili.com/video/BV18Q4y1k7hi",
+        "编者校勘注：该条AI摘要的“不是心理学”与弗洛伊德第35讲的自我定位存在明确差别：所读英译把精神分析称为心理学的一个分支，并说它接受科学的世界观。课程可能是在拉康式框架内重新解释弗洛伊德，必须标明这是课程或编者解释，而不能将其写成弗洛伊德本人无争议的立场。",
+        "校勘依据：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm",
+        "校勘依据：https://www.bilibili.com/video/BV18Q4y1k7hi/",
+        "编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。意识病理化、精神分析不可能等是讲者的哲学评价，并非对个体的医学结论。本体论4还提出梦、过失、症状、升华为候选写法，不能误当唯一无本体论定义。",
+        "延伸阅读（编者关联）Freud, Lecture XXXV: A Philosophy of Life：https://www.marxists.org/reference/subject/philosophy/works/at/freud.htm"
+      ],
+      "status": "ready",
+      "kind": "related_list_cleanup",
+      "evidence_source_ids": [
+        "a12-34-0273",
+        "r01-freud35"
+      ],
+      "rationale": "接入本批典籍与学术综述链接，衔接 14-cleanup-and-errata 清理后的 related_list 链。"
+    },
+    {
+      "code": "3-4-4-4",
+      "field_path": [
+        "related_list"
+      ],
+      "before": [
+        "思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)",
+        "原视频链接：https://www.bilibili.com/video/BV1QA411F7ut",
+        "编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。",
+        "校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/",
+        "编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。"
+      ],
+      "after": [
+        "思想史代表人物：马克思(Karl Marx)→阿尔都塞(Louis Althusser)→晚期拉康(Jacques Lacan)",
+        "原视频链接：https://www.bilibili.com/video/BV1QA411F7ut",
+        "编者校勘注：原视频标题确实涉及无意识如何生产主客体，以及理论家编织体系与大学话语的失败；标题只能支持课程主题，不能证成AI摘要中“所有抽象活动都不可信”“斯洛文尼亚学派核心共识”等全称判断。保留AI状态并逐句回查，不将标题核对标成摘要复核通过。",
+        "校勘依据：https://www.bilibili.com/video/BV1QA411F7ut/",
+        "编者校勘注：本条确认课程论证与分类，不冒充哲学史通行定论；原典、原音及科学或临床真实性未在本轮独立复核。“社会关系不存在”针对无中立上帝视角的融贯社会结构，并非否认经验互动。剩余快感与剩余价值的联系、无意识生产机制及场域模型均为课程阐释；理论失败的结论明确属于讲者个人观点。",
+        "课程提及典籍（依二手讲稿）资本论 第一卷 第一章—商品：https://www.marxists.org/chinese/marx/capital/01.htm",
+        "延伸阅读（编者关联）Louis Althusser — Stanford Encyclopedia of Philosophy：https://plato.stanford.edu/entries/althusser/",
+        "延伸阅读（编者关联）Jacques Lacan — Stanford Encyclopedia of Philosophy：https://plato.stanford.edu/entries/lacan/"
+      ],
+      "status": "ready",
+      "kind": "related_list_cleanup",
+      "evidence_source_ids": [
+        "a12-34-0275",
+        "b01-marx-capital-commodity-zh",
+        "r02-althusser",
+        "r02-lacan"
+      ],
+      "rationale": "接入本批典籍与学术综述链接，衔接 14-cleanup-and-errata 清理后的 related_list 链。"
+    }
+  ]
+}

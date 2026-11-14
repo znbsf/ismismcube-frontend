@@ -1,8 +1,8 @@
 {
   "catalogue_source": "https://github.com/spaceater/ismismcube-frontend",
   "input_path": "public/ism.json",
-  "input_last_commit": "96cf948c083eba8ae2f1f4b148fc77e83d31afa0",
-  "input_sha256": "374e07853ca0beb6b417787a2dd74f8df067a8e0832bb543897d0a88a10c176c",
+  "input_last_commit": "9ddce6c72a37c2be9c5f87b7ac484c61be31f135",
+  "input_sha256": "2011bbe9726c4419dc35d25f0f33fce8550cf073b892b58fe4c873fbdc0feac6",
   "scope": "Structural inspection only. No video playback or philosophical validation; manual/ai are upstream labels, not quality certificates.",
   "entry_count": 340,
   "depth_counts": {
