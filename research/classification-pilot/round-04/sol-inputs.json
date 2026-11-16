@@ -1,0 +1,105 @@
+{
+  "schema_version": "round-04.1-frozen",
+  "scope": "8条新公开论坛原文，聚焦第1/2字头问题；固定输入只含original_input。标题、其他楼层与上下文未明确计入者不作判别证据；非金标。",
+  "accessed_on": "2026-11-15",
+  "items": [
+    {
+      "case_id": "S01",
+      "original_input": "日久见人心，放低期待，按照自己所信仰的生活就行，除非你想从环境中收获等价的反馈，我在经历了一些事情之后，我的社交心理模型会第一时间给新认识的人打上“恶”的标签。然后随着时间和交互来迭代对每个人的认识。",
+      "language": "zh",
+      "source_url": "https://origin.v2ex.com/t/1215825?p=1",
+      "source_locator": "第17楼；以‘日久见人心’定位",
+      "page_date": "页面显示May 27；由主题末回复时间推断为2026-05-27",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "主题讨论待人热情是否被误解；不把楼主感受当成此评论者立场。",
+      "collection_note": "连续两句，个人经历形成初始预期，再由互动修正；不把日常‘心理模型’冒充功能主义。"
+    },
+    {
+      "case_id": "S02",
+      "original_input": "之所以有这个疑问，是前几天和同事聊天，他们觉得待人热情的人，大多都是另有所图。可工作这么多年，我始终没变，遇见陌生人、接触新事物，依旧心怀热忱。就像有新人入职，我会主动约他们一起吃饭，对方遇到难处也会搭把手。于我而言，这只是团队里本该有的相处方式，真的没有任何别的想法。",
+      "language": "zh",
+      "source_url": "https://origin.v2ex.com/t/1215825?p=1",
+      "source_locator": "楼主正文从‘之所以有这个疑问’至‘没有任何别的想法’",
+      "page_date": "页面显示May 27；由主题末回复时间推断为2026-05-27",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛原创书面发言",
+      "context_not_input": "后续追问自己是否该改变，不计入固定输入；同事怀疑被明确归属为同事观点。",
+      "collection_note": "原文网页两段紧邻，按阅读顺序连接，未改字词。"
+    },
+    {
+      "case_id": "S03",
+      "original_input": "“认知”这个词用多了，越来越感觉带有一种贬义色彩。仔细想想，“认知”更多时候被用来拉开和强调某种差距。某些人明明是因为出身或特殊经历才形成的思维模式，却硬要把它说得像 USB 一样即插即用。",
+      "language": "zh",
+      "source_url": "https://fast.v2ex.com/t/1238879",
+      "source_locator": "第12楼；以‘认知这个词’定位",
+      "page_date": "页面显示Sep 2；由末回复时间推断为2026-09-02",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "标题问打工人是否缺认知；其问题不计入第12楼发言者主张。",
+      "collection_note": "连续三句，社会经历塑造思维的局部线索，不预置米德式自我机制。"
+    },
+    {
+      "case_id": "S04",
+      "original_input": "最主要的问题是思维的固化，大部分人都知道如何能变好、如何做能挣更多的钱，但是这种认知抵抗不了固化的思维，从小养成的思维惯性让人们稳稳的行驶在固有的轨道上，很难做出改变。你改变不了的这种固化的思维，它也可以称作习惯也可以叫做潜意识，这就是算命占卜所说的“命”",
+      "language": "zh",
+      "source_url": "https://fast.v2ex.com/t/1238879",
+      "source_locator": "第19楼；以‘最主要的问题是思维的固化’定位",
+      "page_date": "2026-09-03",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "谈习惯塑造行动，未提出休谟的事实推断和因果期待；不把话尾比喻自动认作宿命论承诺。",
+      "collection_note": "连续两句，原文结尾无句号；保留。"
+    },
+    {
+      "case_id": "S05",
+      "original_input": "12.28 更新一下，12315 投诉了之后，Apple 给回电了之后说要和后台沟通一下，第三个工作日给解封了，但是一直不敢去登陆 App Store ，一朝被蛇咬 十年怕井绳，已经把 iCloud 照片和云盘的数据下载到群晖里了，数据在自己的手里才是最靠谱的，还是不能过于依赖云服务。感谢各位 V 友的帮助。",
+      "language": "zh",
+      "source_url": "https://www.v2ex.com/t/1178614",
+      "source_locator": "楼主Supplement 1，Dec 28, 2025；以‘12.28 更新一下’定位",
+      "page_date": "2025-12-28（补充日期）；主题始于2025-12-12",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛原创帖后续更新",
+      "context_not_input": "早前被封和申诉详情在正文，但不计入固定输入；本段自含被封后获解封、仍不敢登录及备份的行动。",
+      "collection_note": "完整连续补充段，具体账号身份未记录。"
+    },
+    {
+      "case_id": "S06",
+      "original_input": "如果是要让活人实现数字转生，那困难可能主要在迁移的那一刻。当一个脑子已经被快照化或者副本化，并以某种方式在你体外运行，那这个体外的“你”和你本身的脑子已经是两个客观的分支。除非有某种方式可以实时更新本身的你和体外的“你”的意识，并将本身的你停止运行，以实现热迁移。",
+      "language": "zh",
+      "source_url": "https://www.v2ex.com/t/1226452",
+      "source_locator": "第11楼第二段；以‘如果是要让活人实现数字转生’定位",
+      "page_date": "页面显示Jul 10；由主题末回复时间推断为2026-07-10",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "楼主提问能否用社交资料实现数字永生；第11楼谈的是活人迁移，不把楼主方案计入该评论。",
+      "collection_note": "连续三句条件推理，针对自我同一性而非直接定义心理状态功能。"
+    },
+    {
+      "case_id": "S07",
+      "original_input": "正经来说，应该要完整扫描神经系统的结构，并且通过精确的算法来模拟其后续变化，基本上就是把人脑的运算映射为计算机的运算，这离当前科技很遥远。即便如此，以现代的伦理观估计也无法接受，哪怕这个计算机程序能够完全正确模拟生物学大脑的行为。",
+      "language": "zh",
+      "source_url": "https://www.v2ex.com/t/1226452",
+      "source_locator": "第21楼第二、三句；以‘正经来说’定位",
+      "page_date": "页面显示Jul 11；由主题末回复时间推断为2026-07-11",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "原评论首句怀疑目前LLM，未计入；后续伦理推测与神经模拟同属此发言者。",
+      "collection_note": "有跨材料模拟设想，但以神经结构复制和行为模拟论证，尚未说明心理状态的内部因果角色。"
+    },
+    {
+      "case_id": "S08",
+      "original_input": "Yes, many people can change the way they see you\n\nHowever, this will vary among individuals since some people aren't very observant and / or aren't very mentally flexible (ie, they don't frequently update their opinions and views based on new evidence) while other people are highly observant and open-minded\nReal life example: I used to be very socially anxious, more quiet & physically still, and shy. I've intentionally worked on my social skills over the last few years and behave very differently now. One of my friends I've known for years commented several times that he's noticed me stepping out of my shell and being a social butterfly (his actual words). So clearly, his opinion of me has updated based on new evidence he's witnessed",
+      "language": "en",
+      "translation_zh_labeled": "本次自译：人们能改变对你的看法，但观察与更新看法的能力各异。作者以自己改变社交行为、老朋友据此更新印象为例。",
+      "source_url": "https://www.reddit.com/r/socialskills/comments/1lhqd2x/can_you_really_change_how_people_see_you/",
+      "source_locator": "评论区以‘Yes, many people can change the way they see you’定位；网页标Edited 1y ago",
+      "page_date": "网页仅显示1y ago及Edited 1y ago，准确日期未知",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面评论",
+      "context_not_input": "原楼主问能否改变他人看法；此评论引用自身经历，楼主提问不计入评论者立场。",
+      "collection_note": "完整连续评论，保留原文拼写与标点；不记录作者无关身份。"
+    }
+  ],
+  "post_freeze_transcription_note": "S08 opening sentence had a page line break without punctuation; removed an inserted period from mirrored source text only. Classification judgment unchanged."
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "existing sources reused on both sides of a Sol node",
+  "entries": [
+    {
+      "code": "1-3-2",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm"
+    },
+    {
+      "code": "2-1-4",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://classics.mit.edu/Plato/theatu.html"
+    },
+    {
+      "code": "2-1-3-2",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://aristotle.johnhboyer.com/Meta/book/1/"
+    },
+    {
+      "code": "2-1-4-1",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://classics.mit.edu/Plato/theatu.html"
+    },
+    {
+      "code": "2-2-1-4",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://kinhsach.chuakhainguyen.com/Books/T16n0670/The%20Lankavatara%20Sutra%20(Suzuki)/lanka-nondiacritical.htm"
+    },
+    {
+      "code": "2-2-4-2",
+      "action": "replaced_duplicated_counter_source",
+      "reason": "《马可福音》2:27 在原数据中正反两侧重复引用，只支持以人的需要审视规条；反方改用奥古斯丁《论基督教教义》第一卷第三十五至三十七章的解经检验。",
+      "checked_candidate": {
+        "work": "Mark 2:27",
+        "url": "https://www.biblegateway.com/passage/?search=Mark+2%3A27&version=KJV",
+        "locator": "2:27",
+        "finding": "同一句只能作正方局部与内部限制，未支持反方受害者保护命题。"
+      },
+      "replacement": {
+        "work": "Augustine, On Christian Doctrine",
+        "url": "https://www.newadvent.org/fathers/12021.htm",
+        "locator": "Book I, chapters 35–37"
+      }
+    },
+    {
+      "code": "2-3-1-1",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+    },
+    {
+      "code": "2-3-4-3",
+      "action": "marked_same_primary_internal_test",
+      "reason": "正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+      "source_url": "https://www.gutenberg.org/files/45988/45988-h/45988-h.htm"
+    }
+  ]
+}

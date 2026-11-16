@@ -1,0 +1,209 @@
+{
+  "schema_version": "round-02.1-initial-frozen",
+  "scope": "Sol 在 Terra 八条固定真实公开书面输入上先独立判读；只以 input_exact 加明确计入输入的语境取证，不凭作者/版面贴标签；2026-11-15 冻结初判，后续审查另记",
+  "evaluator": "Sol",
+  "post_freeze_annotation": "互审后仅补 input_quote_evidence 逐字锚点；decision、candidates、四维判断和理由未改，修订意见另见 CHANGES.md。",
+  "items": [
+    {
+      "case_id": "T01",
+      "decision": "abstain",
+      "candidates": [
+        {
+          "code": "3",
+          "status": "弱候选，仅第一人称体验线索"
+        }
+      ],
+      "input_evidence": [
+        "你我只能从自身视角经验世界"
+      ],
+      "axes": {
+        "field": "推断：主体视角出现，但没有有限经验与普遍有效性之间的课程问题",
+        "ontology": "未知：3短码未规定",
+        "epistemology": "未知：3短码未规定；句子未给认识中介方案",
+        "teleology": "未知：3短码未规定"
+      },
+      "neighbor_difference": "与3-1现象学的体验描述相近；没有悬置和意向性，也没有3总类所需共同可讨论对象。",
+      "best_followup": "你是在描述每个人的视角差异，还是要解释私人经验如何产生共同有效的认识？",
+      "primary_scope": "康德《纯粹理性批判》第二版序言可对照认识条件，不能由此评论证明其观点。",
+      "reason": "日常第一人称视角不是完整观念论分类证据。",
+      "input_quote_evidence": [
+        "you will only ever see the world through your own eyes",
+        "I have my experience"
+      ]
+    },
+    {
+      "case_id": "T02",
+      "decision": "abstain",
+      "candidates": [
+        {
+          "code": "3",
+          "status": "极弱候选，仅主观视角问题"
+        }
+      ],
+      "input_evidence": [
+        "追问为何自己从特定视角拥有思想和记忆"
+      ],
+      "axes": {
+        "field": "推断：主体视角是问题，不是关于认识条件的立场",
+        "ontology": "未知：3短码未规定；无自我设定或有限/无限论证",
+        "epistemology": "未知：3短码未规定",
+        "teleology": "未知：3短码未规定"
+      },
+      "neighbor_difference": "‘为什么我是我’可为人格同一性或意识难题，不能跳到3-2自我设定或2-3-2-4我思。",
+      "best_followup": "你要解释意识视角的事实，还是主张自我会设定经验的条件？",
+      "primary_scope": "费希特自我设定节选只支持后一个特定命题，不能替该提问作答。",
+      "reason": "提问不等于承诺任何课程格位。",
+      "input_quote_evidence": [
+        "why am I experiencing all of this from this particular point of view?",
+        "Why am I me?"
+      ]
+    },
+    {
+      "case_id": "T03",
+      "decision": "outside_pilot",
+      "candidates": [],
+      "input_evidence": [
+        "光经眼形成图像后追问谁在观看图像，以及其他感官经验由谁体验"
+      ],
+      "axes": {
+        "field": "未知：没有课程场域设定",
+        "ontology": "未知：脑内观看者以疑问提出，未被肯定",
+        "epistemology": "推断：问第一人称体验如何被解释，不等于主张笛卡尔我思或贝克莱理念",
+        "teleology": "未知：未提出行动或体系方向"
+      },
+      "neighbor_difference": "与2-3-2-4的怀疑中我思、2-4-1-3的主动精神都只有词面接近；该输入没有各自关键推理。",
+      "best_followup": "你认为脑中真的有一个观看者，还是在指出这种解释方式的问题？",
+      "primary_scope": "笛卡尔第二沉思只支持怀疑中我思的确定性；贝克莱§27区分精神与理念，均不能给该问句贴标签。",
+      "reason": "是经验解释问题，未表达可判别立场。",
+      "input_quote_evidence": [
+        "who/what watches the object ?",
+        "Who/What exactly experience this ?"
+      ]
+    },
+    {
+      "case_id": "T04",
+      "decision": "abstain",
+      "candidates": [
+        {
+          "code": "3",
+          "status": "弱候选，经验方法线索"
+        }
+      ],
+      "input_evidence": [
+        "主张从生活经验内部出发理解意识，反对只作智性化讨论"
+      ],
+      "axes": {
+        "field": "推断：强调体验与认识的关系，但未处理普遍有效性",
+        "ontology": "未知：3短码未规定",
+        "epistemology": "未知：3短码未规定；直接体验方法不等于某个子类",
+        "teleology": "未知：3短码未规定"
+      },
+      "neighbor_difference": "更接近3-1现象学的经验描述方法，但3-1不在首批14类且输入也缺其完整方法；不能以‘体验’硬判3-2。",
+      "best_followup": "你要描述体验如何显现，还是提出自我设定和经验条件的论证？",
+      "primary_scope": "康德第二版序言讨论认识条件，不支持把‘直接体验’单独认作德国观念论。",
+      "reason": "方法呼吁不足以落入14类具体格位。",
+      "input_quote_evidence": [
+        "start with direct access to the lived experience itself",
+        "not just intellectualize it"
+      ]
+    },
+    {
+      "case_id": "T05",
+      "decision": "partial_candidate",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "现实集体行动的局部候选"
+        }
+      ],
+      "input_evidence": [
+        "工人通过停止劳动、投票或协议争取条件，罢工可涉及经济政治基础"
+      ],
+      "axes": {
+        "field": "局部支持：劳动者集体组织现实行动；课程三加一中历史/理论家关系仍未知",
+        "ontology": "未知：4短码未规定",
+        "epistemology": "未知：4短码未规定",
+        "teleology": "未知：4短码未规定"
+      },
+      "neighbor_difference": "不能细分4-1-1-1：没有报刊/出版作为实践单位，也未论证需要、意识发生和经济哲学批判。",
+      "best_followup": "你只是描述罢工操作，还是把历史条件、理论与组织行动怎样互相改变也纳入论证？",
+      "primary_scope": "马克思《关于费尔巴哈的提纲》I–III仅支持现实活动作为真理与改变条件的局部问题；不证明该论坛评论属于完整课程实践论。",
+      "reason": "比纯‘行动起来’多出集体劳动过程，但仍只到父节点局部。",
+      "input_quote_evidence": [
+        "Workers strike for better conditions",
+        "broader economic/political bases"
+      ]
+    },
+    {
+      "case_id": "T06",
+      "decision": "abstain",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "行动提议的弱候选"
+        }
+      ],
+      "input_evidence": [
+        "建议用平台组织行动，而非仅展示问题"
+      ],
+      "axes": {
+        "field": "推断：组织行动一词可见，但历史条件、人民、理论及具体实践单元未说明",
+        "ontology": "未知：4短码未规定",
+        "epistemology": "未知：4短码未规定",
+        "teleology": "未知：4短码未规定"
+      },
+      "neighbor_difference": "与4总类在行动层面相近；没有4-1-1-1报刊系统批判和经济关系论证。",
+      "best_followup": "要组织谁、针对何种历史关系、如何以实践结果修正分析？",
+      "primary_scope": "马克思《提纲》I–III支持把现实活动纳入认识，但不能把任何网上动员口号都归为课程实践论。",
+      "reason": "只有行动呼吁，缺结构条件。",
+      "input_quote_evidence": [
+        "using this platform to organize",
+        "instead of just show everyone how shit things are everywhere"
+      ]
+    },
+    {
+      "case_id": "T07",
+      "decision": "outside_pilot",
+      "candidates": [],
+      "input_evidence": [
+        "个人辞职、换工作与休假获批的经历"
+      ],
+      "axes": {
+        "field": "未知：未提出历史主体或认识条件",
+        "ontology": "未知：未提出存在论",
+        "epistemology": "未知：未提出认识方法",
+        "teleology": "未知：个人生活目标不是课程的体系目的格"
+      },
+      "neighbor_difference": "不能因换工作就判4实践，也不能因选择待遇就判4-3理想社会。",
+      "best_followup": "你是在叙述个人工作变化，还是要提出关于劳动制度与集体改变的论证？",
+      "primary_scope": "马克思《提纲》的社会实践命题不能由这段个人经历反向推出。",
+      "reason": "真实日常叙事可完全落在首批分类范围之外。",
+      "input_quote_evidence": [
+        "I resigned the next day",
+        "took a job that pays more"
+      ]
+    },
+    {
+      "case_id": "T08",
+      "decision": "outside_pilot",
+      "candidates": [],
+      "input_evidence": [
+        "回复把‘为何我是我’比作问一为何是一，并质疑语法完整是否等于有思想内容；原问题计入输入语境"
+      ],
+      "axes": {
+        "field": "未知：无主体中介或实践场域主张",
+        "ontology": "未知：未主张自我作为实体或设定者",
+        "epistemology": "推断：讨论问题的语义可理解性，但不等于课程认识论格位",
+        "teleology": "未知：未提体系方向"
+      },
+      "neighbor_difference": "与3-2自我设定和2-3-2-4我思都不相同；其重点是语言问题的可理解性。",
+      "best_followup": "你认为这类问题为何没有可判定的内容？是在作语义分析，还是给出关于自我存在的论证？",
+      "primary_scope": "笛卡尔第二沉思的‘我存在’有特定怀疑语境，不能替本评论承担论证。",
+      "reason": "范围外语言哲学式回应，不能凭‘我’字归类。",
+      "input_quote_evidence": [
+        "why the number 1 is 1 and not 2",
+        "there’s no actual thought expressed in the question"
+      ]
+    }
+  ]
+}

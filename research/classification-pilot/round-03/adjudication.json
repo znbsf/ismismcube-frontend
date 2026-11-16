@@ -1,0 +1,24 @@
+{
+  "schema_version": "round-03.adjudication.1",
+  "scope": "独立初判保持冻结；本文件记录互审后的证据状态纠正。阅读版结论以此复核状态为准。不是新的输入、金标或准确率。",
+  "reviewed_files": [
+    "sol-evaluation.json",
+    "terra-evaluation.json"
+  ],
+  "reviewed_axis_count": 64,
+  "review_process": "Terra 只读复核其冻结初判的32个四维状态，确认唯一 counterevidence 为 S02 认识论；Sol 复核另32个四维状态。",
+  "adjudications": [
+    {
+      "case_id": "S02",
+      "evaluation_file": "terra-evaluation.json",
+      "field": "axes.epistemology.status",
+      "before": "counterevidence",
+      "after": "unknown",
+      "original_explanation": "算法比显微镜是工具类比，未赋予心理状态因果角色或多重实现",
+      "reason": "固定输入只把算法当帮助发现规律的工具；没有谈心理状态的内部因果角色或跨材料实现。缺少证据不能算与功能主义认识论相矛盾，故复核为未知。",
+      "effect_on_decision": "不变；S02 仍不得归为完整 1-1-3-1。",
+      "error_type": "evidence_status_annotation_error_not_code_misclassification"
+    }
+  ],
+  "audit_conclusion": "全轮64个四维状态中，发现并纠正1处将缺失证据误记为反证；未发现其他同类状态标注，也未发现可证实误归码。"
+}

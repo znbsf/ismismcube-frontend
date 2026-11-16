@@ -1,0 +1,273 @@
+{
+  "schema_version": "round-03.initial",
+  "scope": "独立初判冻结；按固定输入判断，局部线索不等于完整课程码，非金标和准确率。",
+  "items": [
+    {
+      "case_id": "S01",
+      "source_url": "https://edge.v2ex.com/t/1231318",
+      "original_input": "严格讲，根本不存在一个固定不变的「你」，三岁之前的你、儿时的你、成年后的你、三十岁以后的你、老年的你，因为记忆和经历的变化，几乎是不同的人。即使短期（昨天、今天、明天），也不存在一个固定的「你」。",
+      "input_evidence": "记忆和经历的变化使不同年龄近乎不同的人",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "没有把第一人称经验与共同体秩序对置"
+        },
+        "ontology": {
+          "status": "inference",
+          "explanation": "否定固定不变的“你”，但未讨论实体是否存在"
+        },
+        "epistemology": {
+          "status": "inference",
+          "explanation": "以记忆经历变化为理由，但未提出因果联想或习惯机制"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "没有共情或共同体伦理"
+        }
+      },
+      "neighbor_boundary": "人格连续性主张不能直接等同休谟有关因果推断的习惯论；也不同于费希特自我设定",
+      "best_followup": "你认为自我只是不断变化的经验集合，还是存在某种持续联系？",
+      "primary_scope": "休谟《人类理解研究》习惯段只能对照其经验机制，不能证明作者所持人格同一理论。"
+    },
+    {
+      "case_id": "S02",
+      "source_url": "https://www.v2ex.com/t/920114",
+      "original_input": "我认为这只是我们的统计学和算法学有了突破而已。让我们能够有工具发现人类脑力发现不了的潜在规律。你会因为显微镜能看到细胞核而肉眼不行，就认为“人类黄昏”了么？",
+      "input_evidence": "算法是工具，帮助发现人脑难以发现的规律",
+      "candidates": [
+        {
+          "code": "1-1-3-1",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "以技术和科学工具解释现象；未断定整个世界是科学化宇宙"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未论断心理状态的物质基质"
+        },
+        "epistemology": {
+          "status": "counterevidence",
+          "explanation": "算法比显微镜是工具类比，未赋予心理状态因果角色或多重实现"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "没有通用函数体系目标"
+        }
+      },
+      "neighbor_boundary": "工具论证不等于人工智能具有功能主义心理状态；也不是行为主义纲领",
+      "best_followup": "你是否认为不同材料可因相同因果功能而有同一心理状态？",
+      "primary_scope": "Putnam 功能角色论文不是对工具比喻的自动证明。"
+    },
+    {
+      "case_id": "S03",
+      "source_url": "https://www.v2ex.com/t/1131868",
+      "original_input": "这一立方毫米的老鼠脑组织里找到了 5 亿个神经连接，人类大脑大概 1300 立方厘米，就是 1300000 立方毫米，按这个老鼠的脑子算，就是 6500000 亿个连接。这要多少“参数”才能完整模拟。600B 的大模型的参数量也就这个数字的千分之一。所以说现在这种被称作 AI 的东西，根本没有智能，几十年内也不会有智能。",
+      "input_evidence": "根据神经连接数量与模型参数的规模差距推断现有AI没有智能",
+      "candidates": [
+        {
+          "code": "1-1-3-1",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "用可量化的神经规模评估智能，未确立完整科学场域"
+        },
+        "ontology": {
+          "status": "inference",
+          "explanation": "把神经结构作为重要比较对象；未断言只有生物材料可实现智能"
+        },
+        "epistemology": {
+          "status": "inference",
+          "explanation": "以规模和参数比较判断能力；没有刻画内部心理因果角色"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "不涉及课程通用函数体系的目的"
+        }
+      },
+      "neighbor_boundary": "参数规模论证不是多重实现，也不是课程功能主义完整论证；无需认同其数字或结论",
+      "best_followup": "规模差距以外，你认为什么功能结构足以产生智能？",
+      "primary_scope": "Putnam 讨论功能状态与不同实现，与其规模论证是比较而非证明。"
+    },
+    {
+      "case_id": "S04",
+      "source_url": "https://www.v2ex.com/t/1096418",
+      "original_input": "那么回到问题本质：弱视（非红绿色盲）对驾驶到底有没有带来风险呢？这个问题，尤其是程序员群体，其实应该更敏感的，那就是数据！a/b test ，抽样，数据分析，大家熟悉吧驾驶员都有体检，身高体重年龄弱视全有记录，出事故，一样都是有数据记录把事故责任方，按照是否弱视（弱视本身是个很随机的因素）区分，两者之间关联度如何",
+      "input_evidence": "主张将驾驶事故数据按弱视与否分组并分析关联",
+      "candidates": [
+        {
+          "code": "1-1-4",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "假定体检、事故和分组可供客观研究，未提出完整科学宇宙"
+        },
+        "ontology": {
+          "status": "support_partial",
+          "explanation": "将驾驶和事故作为可记录事件；并未将全部心理现象归于行为"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出抽样、对照与数据分析；没有心理学预测控制或内省立场"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "没有心理学理论方向，也不由短码补目的格"
+        }
+      },
+      "neighbor_boundary": "使用可观察数据不等于行为主义；相关性本身也不是因果结论",
+      "best_followup": "除了驾驶数据，你是否认为心理学应舍弃内省并以行为预测为核心？",
+      "primary_scope": "华生的心理学纲领仅是对照，不能由交通研究方法推出。"
+    },
+    {
+      "case_id": "S05",
+      "source_url": "https://edge.v2ex.com/t/1218086?p=2",
+      "original_input": "怕鬼的人，可能从来没有想过所谓的“鬼” 怎么感知周围环境，思考推理，移动和输出能量（吓人或者移动物质）上述每一点 需要消耗多少能量 这些能量怎么摄入 保存说真的，如果有鬼，物理学家绝对第一个站出来研究怎么合作",
+      "input_evidence": "要求解释鬼如何感知、移动及能量来源，认为若存在可作物理研究",
+      "candidates": [
+        {
+          "code": "1-1-1-1",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "倾向将假设实体纳入物理研究，并非断言鬼不存在"
+        },
+        "ontology": {
+          "status": "inference",
+          "explanation": "认为感知、行动及能量关系值得检验；未提出完整物质本体论"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出可研究机制及能量问题；未证明其一定无法存在"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "未提出课程体系目的"
+        }
+      },
+      "neighbor_boundary": "机制与能量追问不等于科学独断论，亦非对鬼的确定否定",
+      "best_followup": "即使现有物理理论不能解释，你会否承认未来可能有新证据改变判断？",
+      "primary_scope": "培根《新工具》对经验与工具的讨论可比较研究方法，不证明作者的全部哲学立场。"
+    },
+    {
+      "case_id": "S06",
+      "source_url": "https://edge.v2ex.com/t/1218086?p=2",
+      "original_input": "不相信有也不相信没有。知之为知之不知为不知。我无法断定有，也无法断定没有。然而，根据奥卡姆剃刀原理，选择更简单的解释，因此我认为没有。",
+      "input_evidence": "无法断定有无，但按简单解释原则倾向认为没有",
+      "candidates": [
+        {
+          "code": "2-3-1",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "讨论未知实体的解释经济性，但未明确形而上秩序"
+        },
+        "ontology": {
+          "status": "support_partial",
+          "explanation": "选择不引入鬼作为较简单假设；并未确立唯一实体"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "明确区分不可确定与基于简约作暂定判断"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "无价值或伦理方向"
+        }
+      },
+      "neighbor_boundary": "奥卡姆剃刀作为方法不等于课程实体一元论；暂不采纳也不等于证明不存在",
+      "best_followup": "有哪些可能观察会使你改变目前的暂定判断？",
+      "primary_scope": "奥卡姆方法及课程实体一元论关联需具体论证；单句仅能确认其解释选择。"
+    },
+    {
+      "case_id": "S07",
+      "source_url": "https://v2ex.com/t/1176565",
+      "original_input": "一个懂玄学的人，只要今天预测明天的事情，公开预测（例如直播炒股），连续做一段时间，就能证明玄学有预测未来的能力了，为什么没有玄学大师这样做？一个人（或一群人）自称有很强的能力，宣扬自己的理论非常有用，但却不乐意用简单、大家一看就懂、容易执行的方式来证明，为什么呢？",
+      "input_evidence": "提出公开、连续、易验证的预测作为检验玄学能力的方式",
+      "candidates": [
+        {
+          "code": "1-1-1-1",
+          "status": "局部线索或对照，不是完整课程码"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "期待可公开重复的证据，但未把整个宇宙预设为科学系统"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未规定鬼神或实体的存在结构"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出可检验预测和可公开核验的方法；这是质询不是结论"
+        },
+        "teleology": {
+          "status": "inference",
+          "explanation": "希望主张可接受公众检验，不等于课程目的格"
+        }
+      },
+      "neighbor_boundary": "要求预测证据不等于断言一切未知现象均不可能；不能据此判科学独断论",
+      "best_followup": "如果公开预测成功且可复核，你会怎样修正判断？",
+      "primary_scope": "培根强调经验和工具是局部比较，本句既未提出归纳体系也未确定结论。"
+    },
+    {
+      "case_id": "S08",
+      "source_url": "https://v2ex.com/t/1176565",
+      "original_input": "宿命论是不强调逆天改命的，即使你积极行动取得了好结果，那也是命中注定的，而不是你在逆天改命。而玄学的目的实际就是想逆天改命，命中注定只不过是失败时候的自我安慰。",
+      "input_evidence": "区分宿命论与所述玄学：前者把行动成功也看作注定，后者试图改变命运",
+      "candidates": [],
+      "decision": "outside_pilot_or_abstain",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "对两个观点作描述，不承诺自身场域立场"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未说明自身是否承认预定的因果结构"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "作概念区分，并未对两种说法进行实证裁定"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "explanation": "将改变命运归为被描述的玄学之目的，不是说话者自己的目的"
+        }
+      },
+      "neighbor_boundary": "描述宿命论不同于赞成宿命论，不能据此归入实体整体论",
+      "best_followup": "你自己接受其中哪一种，理由是什么？",
+      "primary_scope": "斯宾诺莎的因果必然性不能由对宿命论的描述推给发言者。"
+    }
+  ]
+}

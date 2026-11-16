@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "status": "independent_initial_frozen",
+  "scope": "以固定发言为输入，候选为待检索线索而非全格归类；未知为课程格位未知，不否定原文命题。非金标，不算准确率。",
+  "items": [
+    {
+      "case_id": "S01",
+      "input_exact": "意识仅仅是人身上涌现的一个属性，ai 不需要诞生和人一样的意识，但是它也可以诞生不一样的一个高级属性，可能不能称为“意识”。",
+      "source_url": "https://global.v2ex.com/t/1246863",
+      "candidate_codes": [
+        "1-1-3-1"
+      ],
+      "decision": "证据不足，暂不归入完整课程格位",
+      "confirmed_claim": "意识是人身上涌现的属性，AI可能有不同的高级属性",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "未述整体世界是否可科学化"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "人有涌现属性，但未解释该属性的物质基础"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "比较人和AI，但未定义心理状态因果角色或跨材料实现"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "没有提出目的方向"
+        }
+      },
+      "neighbor_and_counterevidence": "涌现属性不能自动等于功能主义；行为主义同样未获方法论证",
+      "best_followup": "你认为同一种心理状态能否在不同材料上以同一因果角色实现？",
+      "primary_source_limit": "Putnam 1967 的功能角色只作局部对照，此句未提供其条件。"
+    },
+    {
+      "case_id": "S02",
+      "input_exact": "你有没有想过你可能就是一个函数呢，输入外界的刺激参数+你个人经历=>输出你的行为",
+      "source_url": "https://v2ex.com/t/928420",
+      "candidate_codes": [
+        "1-1-3-1",
+        "1-1-4"
+      ],
+      "decision": "证据不足，暂不归入完整课程格位",
+      "confirmed_claim": "输入刺激和个人经历、输出行为的函数类比",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "未解释宇宙整体"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "人物被比为函数，未交代物质承载"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "有刺激到行为的映射，但未说明内部状态因果角色；不能确定功能主义或行为主义纲领"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "未说明功能数学化的目的"
+        }
+      },
+      "neighbor_and_counterevidence": "输入输出可作行为预测，也可能只是比喻；不能推定多重实现",
+      "best_followup": "这个函数是否具有能被不同材料实现的内部心理状态？",
+      "primary_source_limit": "Putnam 功能关系及华生方法纲领只作为区别参照，单句无法证明完整理论。"
+    },
+    {
+      "case_id": "S03",
+      "input_exact": "很多人都忽略了一点，进化论的出发点不是物种，而是环境。是因为坏境发生了突变，对现存的物种提出了新的挑战，物种才会迈出进化的步伐。",
+      "source_url": "https://us.v2ex.com/t/407204",
+      "candidate_codes": [
+        "1-1-1-2"
+      ],
+      "decision": "证据不足，暂不归入完整课程格位",
+      "confirmed_claim": "环境变化对物种提出挑战，随后出现进化",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "涉及环境，但未说科学化宇宙"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "提及物种与环境，未说明活的科学实在如何成立"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "描述环境变化与进化，不说明世界或学科的上升等级"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "未说循环和上升进化之间张力"
+        }
+      },
+      "neighbor_and_counterevidence": "不能因“进化”就推定粒子到人类阶梯；与环境适应机制应区分",
+      "best_followup": "你认为进化是否有预定高级方向，还是依环境变化？",
+      "primary_source_limit": "达尔文自然选择段可对照变异与环境，但此句也未明确遗传变异和选择。"
+    },
+    {
+      "case_id": "S04",
+      "input_exact": "技术进步了，能生产的东西也变多了，但是人们的生活似乎没有越来越好",
+      "source_url": "https://fast.v2ex.com/t/1158472",
+      "candidate_codes": [
+        "4-1-1-1",
+        "4-3"
+      ],
+      "decision": "证据不足，暂不归入完整课程格位",
+      "confirmed_claim": "技术及产出增加但生活未必改善",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "谈技术与生活的关系，没有历史主体组织的信息"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "没有解释需要与生产关系如何对象化"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "没有说明认识或判断如何产生"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "生活改善是关切，但没有提出历史建设或幸福中介"
+        }
+      },
+      "neighbor_and_counterevidence": "生活不改善既可能是经验抱怨也可能接近政治经济批判，不能自动归入马克思或4-3",
+      "best_followup": "你认为哪些生产和分配关系造成这一落差，应如何改变？",
+      "primary_source_limit": "马克思异化劳动分析可对照生产与处境，但原句未主张产品对劳动者的异化。"
+    },
+    {
+      "case_id": "S05",
+      "input_exact": "人潜意识中有很多不属于自己的思想，可能是家庭社会学校潜移默化的结果。",
+      "source_url": "https://www.v2ex.com/t/874566",
+      "candidate_codes": [
+        "1-1-4-4"
+      ],
+      "decision": "证据不足，暂不归入完整课程格位",
+      "confirmed_claim": "家庭、社会、学校可能潜移默化地形成思想",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "存在社会环境线索，但未确立可观察符号互动场"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "说思想受社会影响，没有说明物质互动基础"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "有自我以外来源的思想，但未解释社会互动中自我的形成，也未采取黑箱方法"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "无终极目的或实用方向信息"
+        }
+      },
+      "neighbor_and_counterevidence": "社会影响不等于米德的社会自我生成，也不能推定行为主义",
+      "best_followup": "你说的思想形成是否依赖与他人语言互动，让自我成为自身对象？",
+      "primary_source_limit": "米德 §18 可比较社会经验与自我，但不由这句推出全部课程格位。"
+    },
+    {
+      "case_id": "S06",
+      "input_exact": "社会法则是客观存在的，甚至对于绝大多数人都是残酷的。",
+      "source_url": "https://www.v2ex.com/t/677103",
+      "candidate_codes": [],
+      "decision": "outside_pilot_or_abstain",
+      "confirmed_claim": "声称社会法则客观且对多数人残酷",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "以客观社会法则为背景，但未说明课程场域结构"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "未论述实体或行为对象"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "没有提供认识方法"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "没有表达行动目标"
+        }
+      },
+      "neighbor_and_counterevidence": "客观一词不足以指向科学实在论或行为主义，亦可能是日常感受",
+      "best_followup": "你如何知道这些法则成立，又认为它们可以改变吗？",
+      "primary_source_limit": "无单一对应原典；华生的实验预测控制不是该句所主张。"
+    },
+    {
+      "case_id": "S07",
+      "input_exact": "我觉得问题在于，你会不会为了取悦他人，为了他人的认可，为了迎合他人乃至社会的期待，而压抑自己的真实感受？",
+      "source_url": "https://v2ex.com/t/1099899",
+      "candidate_codes": [],
+      "decision": "outside_pilot_or_abstain",
+      "confirmed_claim": "询问是否为获得认可而压抑真实感受",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "提及社会期待，但没有世界整体结构"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "没有将自我界定为精神实体或社会行为产物"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "区分自我感受与他人期待，但不是自我设定论证"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "隐含关心个人感受，没有普遍道德法则或社会建设方案"
+        }
+      },
+      "neighbor_and_counterevidence": "个体心理冲突不等于德国观念论中的自我设定，也不等于社会行为主义",
+      "best_followup": "你所说真实感受与社会认可是怎样形成和相互影响的？",
+      "primary_source_limit": "费希特自我设定讨论思维回返，不等于此句的心理调适。"
+    },
+    {
+      "case_id": "S08",
+      "input_exact": "总之，命运是否存在，完全看你怎么理解。但命运，完全不是什么鬼神、算命、迷信之类的东西所左右。",
+      "source_url": "https://v2ex.com/t/509653",
+      "candidate_codes": [],
+      "decision": "outside_pilot_or_abstain",
+      "confirmed_claim": "命运的存在取决于如何理解，并否认由鬼神算命迷信左右",
+      "dimensions": {
+        "场域论": {
+          "status": "unknown",
+          "explanation": "提及命运但无宇宙场域规定"
+        },
+        "本体论": {
+          "status": "unknown",
+          "explanation": "否认鬼神控制不等于断言唯一实体或物理主义"
+        },
+        "认识论": {
+          "status": "unknown",
+          "explanation": "提出概念理解问题，但未给出怀疑论或经验习惯的具体方法"
+        },
+        "目的论": {
+          "status": "unknown",
+          "explanation": "未提出生活或伦理方向"
+        }
+      },
+      "neighbor_and_counterevidence": "拒绝迷信不等于笛卡尔方法性怀疑，也不构成斯宾诺莎必然因果论",
+      "best_followup": "你说命运取决于理解，是否指事件由必然因果决定，还是强调个人选择？",
+      "primary_source_limit": "笛卡尔怀疑与斯宾诺莎实体因果只能对照提问，原句未作这些论证。"
+    }
+  ]
+}

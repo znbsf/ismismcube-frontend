@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "T01",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/wwwqnw/ive_been_thinking_about_how_everyone_has_their/",
+      "date_visible": "2022-08-24",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "You have your experience of the world and you will only ever see the world through your own eyes (in a general sense, not talking about literal eyes). I have my experience and I will only ever see the world through that perspective.",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：你我只能从自己的视角体验世界。"
+    },
+    {
+      "id": "T02",
+      "url": "https://www.reddit.com/r/consciousness/comments/1w17oe6/why_am_i_experiencing_reality_from_this/",
+      "date_visible": "2026-08-29",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "It’s more like… why am I experiencing all of this from this particular point of view?\nWhy am I me?\nWhy am I looking through these eyes and having this particular stream of thoughts and memories? Why am I not experiencing the world as some other person? Or a bird sitting outside my window?",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：为什么我是从这个视角体验，而不是别人？"
+    },
+    {
+      "id": "T03",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1wn9b1g/whowhat_experiences/",
+      "date_visible": "2026-09-22",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "Light falls on an object, reflects into my eyes and an image is created in my head. My question is that who/what watches the object ? Some tiny section inside the brain ? Same can be asked about the experience of smell, touch, taste, sound etc.. Who/What exactly experience this ?",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：光入眼并在脑中形成图像；究竟是谁或什么在体验？"
+    },
+    {
+      "id": "T04",
+      "url": "https://www.reddit.com/r/consciousness/comments/1hnyfp7/embedded_in_experience_can_we_rethink/",
+      "date_visible": "相对日期2年前；具体日期未知",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "Instead, I think we need to work from the inside out. To truly understand consciousness, we must start with direct access to the lived experience itself. We need to \"connect\" with consciousness, not just intellectualize it.",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：理解意识应从直接生活经验出发。"
+    },
+    {
+      "id": "T05",
+      "url": "https://www.reddit.com/r/antiwork/comments/qcp3ib/channelling_antiwork_sentiment_into_organizing/",
+      "date_visible": "2021-10-21",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "Workers strike for better conditions, withholding their labor until better conditions are met, or some agreement is made that satisfies the general workforce, usually decided via a simple vote. Strikes have historically been conducted not only on the individual workplace complaints, but also broader economic/political bases.",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：工人停止劳动以争取条件，罢工也可能关涉更广的经济政治问题。"
+    },
+    {
+      "id": "T06",
+      "url": "https://www.reddit.com/r/antiwork/comments/1cgvjg0/why_arent_we_doing_anything/",
+      "date_visible": "2024-04-30",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "so why aren't we using this platform to organize instead of just show everyone how shit things are everywhere. just a thought that's been on my mind lately",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：为什么不用平台组织行动，而只是展示问题？"
+    },
+    {
+      "id": "T07",
+      "url": "https://www.reddit.com/r/antiwork/comments/se9fo4/rantiwork_who_are_you_and_how_did_you_get_here/",
+      "date_visible": "2022-01-27",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "I resigned the next day and took a job that pays more but with no nights/weekends/on call. I requested a 2 week vacation and my new boss approved it without hesitation.",
+      "context": "摘录连续原文；页面上下文仅供核验，不计入输入。",
+      "translation_zh_labeled": "本次译述：我辞职换了待遇更好且不需夜间周末待命的工作，新老板批准了休假。"
+    },
+    {
+      "id": "T08",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1xn0k8v/why_am_i_me_and_not_someone_else/",
+      "date_visible": "2026-11-03",
+      "accessed": "2026-11-15",
+      "type": "公开书面论坛发帖或评论",
+      "input_exact": "This is like asking why the number 1 is 1 and not 2. It feels like it makes sense, since it follows the conventions of grammatical sentence construction. But it’s (quite literally) nonsense, there’s no actual thought expressed in the question.",
+      "context": "回复的问题是“为什么我是我而非别人”；此问题计入输入。",
+      "translation_zh_labeled": "本次译述：这像问为什么一是一不是二；符合语法不保证表达了真正思想。"
+    }
+  ]
+}

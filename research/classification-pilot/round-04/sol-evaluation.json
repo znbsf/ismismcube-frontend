@@ -1,0 +1,63 @@
+{
+  "schema_version": "round-04.1-initial-frozen",
+  "scope": "Sol 对 Terra T01–T08 新公开论坛固定输入的独立初判；仅 original_input 取证。局部倾向不等于完整课程码，条件假设和被批评者立场不算发言者承诺。先冻结，互审裁决另记。",
+  "evaluator": "Sol",
+  "items": [
+    {
+      "case_id": "T01", "decision": "outside_pilot", "candidates": [],
+      "input_quote_evidence": ["追求自己的利益和幸福", "只有自己才能整理自己的思路", "把理智当做行动的唯一指导"],
+      "axes": {"field": {"status": "support_partial", "explanation": "发言谈个人生活目标及他人不应为自己而活。"}, "ontology": {"status": "support_partial", "explanation": "把个人自身作为整理思路和发现愿望的主体，未论证心物结构。"}, "epistemology": {"status": "support_partial", "explanation": "主张理智指导行动，但未出现方法怀疑、我思确定性或数理/上帝保证。"}, "teleology": {"status": "support_partial", "explanation": "明确以个人利益和幸福为目的，非课程码自动目的格。"}},
+      "plain_reading": "他在讲怎样独立决定自己的生活，并把理智用于行动；理智一词不足以让他成为笛卡尔式理性主义者。",
+      "neighbor_difference": "2-3-2-4需要从怀疑到我思的知识基础；3-2也需自我设定论证。", "best_followup": "你所说理智能否从怀疑中得到不可动摇的知识起点？", "primary_scope": "笛卡尔第二沉思只对照我思的局部命题，不能证明此人的生活伦理。", "reason": "有明确伦理立场，首批14类无相应完整机制。"
+    },
+    {
+      "case_id": "T02", "decision": "partial_tendency", "candidates": [{"code": "3-2", "status": "自我与外界影响问题的邻近线索，非自我设定"}],
+      "input_quote_evidence": ["自我也就是他自己的所有真实想法", "如果一个人的所有想法都是来源于外界的暗示和影响", "寻找自我的过程也就是整理自己的真实想法"],
+      "axes": {"field": {"status": "support_partial", "explanation": "讨论个人自我与外界暗示、他人目光之间的关系。"}, "ontology": {"status": "support_partial", "explanation": "把真实想法和愿望归为自我；没有把自我设成一切经验的条件。"}, "epistemology": {"status": "support_partial", "explanation": "认为自我发现靠整理和思考，不是先验自我设定。"}, "teleology": {"status": "unknown", "explanation": "该段未给自我与无限理想或道德行动关系。"}},
+      "plain_reading": "他认为自我是自己的想法和愿望，过度依靠外界评价会失去自我；这是一种生活判断。",
+      "neighbor_difference": "费希特式3-2讨论自我作为经验条件，不等于心理上的独立思考；1-1-4-4则研究自我如何经社会互动形成，此段把外界影响视作威胁。", "best_followup": "你是在谈心理独立，还是说自我本身设定了经验对象？", "primary_scope": "费希特自我设定原典只能对照后一特定命题，不为此生活定义背书。", "reason": "有可辨的自我问题，完整课程机制缺失。"
+    },
+    {
+      "case_id": "T03", "decision": "abstain", "candidates": [{"code": "2-4-1-3", "status": "意识与所见世界关系的条件性邻近问题"}],
+      "input_quote_evidence": ["如果这个假说是真的", "我看到的世界是由我的意识，由我的个人选择决定的"],
+      "axes": {"field": {"status": "unknown", "explanation": "条件假设成立才谈所见世界；作者未无条件确立场域。"}, "ontology": {"status": "unknown", "explanation": "未肯定世界由意识创造，更未区分主动精神与被动理念。"}, "epistemology": {"status": "inference", "explanation": "假设中意识影响所见世界；是否为作者认识主张未知。"}, "teleology": {"status": "unknown", "explanation": "发挥主观能动性是条件推论，未作无条件目标承诺。"}},
+      "plain_reading": "这是‘如果某假说为真’后的推论，不能把推论直接写成发言者已相信世界由意识决定。",
+      "neighbor_difference": "2-4-1-3还需主动精神、被动理念及感知存在关系；3总类还需有限认识如何有普遍效力。", "best_followup": "你认为这个假说真的成立吗，依据是什么？", "primary_scope": "贝克莱关于精神与理念的区分只提供对照，不能替此人肯定条件前件。", "reason": "条件句不能代替作者承诺。"
+    },
+    {
+      "case_id": "T04", "decision": "partial_tendency", "candidates": [{"code": "4", "status": "做中获得知识的局部实践线索"}, {"code": "2-4-1-4", "status": "经验知识来源的邻近线索"}],
+      "input_quote_evidence": ["自己做一遍才能获取基本认知", "实践后都有会有收获", "预置经验"],
+      "axes": {"field": {"status": "support_partial", "explanation": "谈个人学习与传授经验的场景。"}, "ontology": {"status": "unknown", "explanation": "未论证人如何在社会历史实践中形成自身。"}, "epistemology": {"status": "support_partial", "explanation": "明确主张亲自做能形成认知，也承认有人能先取得他人经验。"}, "teleology": {"status": "inference", "explanation": "目标似是学会和提升认知，非历史改造或休谟伦理格。"}},
+      "plain_reading": "他把亲自做和事先听人传授都当作学习途径，重点是经验何时变成自己的知识。",
+      "neighbor_difference": "4的实践总类要求理论、组织与现实改造关系；休谟2-4-1-4的习惯解释因果期待，不由‘做中学’推出。", "best_followup": "你说的实践只是个人学习，还是会改变共同生活和理论判断？", "primary_scope": "马克思实践和休谟习惯原典都只能作各自局部对照。", "reason": "经验学习有直接证据，课程完整结构缺失。"
+    },
+    {
+      "case_id": "T05", "decision": "partial_tendency", "candidates": [{"code": "4", "status": "从沟通失败到调整行动的局部反馈机制"}],
+      "input_quote_evidence": ["对于一次沟通来说这是失败的", "调整表达的方式", "第二次沟通中成功传达信息"],
+      "axes": {"field": {"status": "support_partial", "explanation": "两人沟通中的理解差异是现实场景。"}, "ontology": {"status": "unknown", "explanation": "没有社会主体或人的本质论断。"}, "epistemology": {"status": "support_partial", "explanation": "依据首次沟通失败调整表达方式，可见行动反馈。"}, "teleology": {"status": "support_partial", "explanation": "目标是让对方理解信息；不是社会历史改造目标。"}},
+      "plain_reading": "他说沟通不成时，能马上改变自己的说法再试一次。",
+      "neighbor_difference": "这比泛泛说‘要实践’更具体，但不足以成为4的历史主体与理论实践关系；也不能凭社交互动归到米德社会自我。", "best_followup": "这种反馈如何改变双方的共同理解或组织行动？", "primary_scope": "马克思实践原典不能替普通沟通技巧补历史维度。", "reason": "局部反馈清楚，完整格位不足。"
+    },
+    {
+      "case_id": "T06", "decision": "outside_pilot", "candidates": [],
+      "input_quote_evidence": ["两个人的思念习惯和相同知识储备", "不告诉你那些直接和你说的时候"],
+      "axes": {"field": {"status": "support_partial", "explanation": "两个人对话时知识背景不同。"}, "ontology": {"status": "unknown", "explanation": "没有自我生成或实体论。"}, "epistemology": {"status": "support_partial", "explanation": "认为理解依赖共享前提；原文‘思念习惯’保留，不擅改成‘思维习惯’。"}, "teleology": {"status": "inference", "explanation": "意在更好理解对方，但原句未给明确方案。"}},
+      "plain_reading": "他说能否听懂取决于双方是否共有必要的背景知识。",
+      "neighbor_difference": "3观念论关心有限经验如何取得普遍有效性；普通解释背景知识差异不能自动满足该问题。", "best_followup": "你说的共同知识只是沟通前提，还是能保证认识普遍有效？", "primary_scope": "康德先验条件原典仅作区分，不能把沟通知识储备提升为先验论证。", "reason": "有实质认识线索，但在本试点类别之外。"
+    },
+    {
+      "case_id": "T07", "decision": "partial_tendency", "candidates": [{"code": "4", "status": "工会组织、倾听关切与集体力量的明确局部机制"}],
+      "input_quote_evidence": ["listening to coworkers concerns", "building an independent organization", "collective power"],
+      "axes": {"field": {"status": "support_partial", "explanation": "劳动者关切与工会组织处在工作关系中。"}, "ontology": {"status": "inference", "explanation": "共同组织可形成集体主体，但原文没有人的存在论论证。"}, "epistemology": {"status": "support_partial", "explanation": "组织谈话先倾听同事具体关切，而非推销既成答案。"}, "teleology": {"status": "support_partial", "explanation": "建立独立组织，以集体力量回应关切。"}},
+      "plain_reading": "他主张先听同事遇到什么问题，再邀他们一起建立能采取行动的组织。",
+      "neighbor_difference": "比T05普通沟通明确得多，但4完整课程码还需历史主体、理论及实践关系，4-1-1-1另需对象化和公开批判实践。", "best_followup": "组织如何把听到的具体问题形成共同分析和持续行动？", "primary_scope": "马克思关于实践与社会关系的原典只支持相关局部问题，不为这段组织策略背书。", "reason": "集体行动机制清楚，完整格位仍缺。"
+    },
+    {
+      "case_id": "T08", "decision": "partial_tendency", "candidates": [{"code": "4", "status": "会员交流产生团结与现场知识的明确局部机制"}],
+      "input_quote_evidence": ["opening up our union hall to members", "building solidarity", "learning more about what was going on in the plant"],
+      "axes": {"field": {"status": "support_partial", "explanation": "工会会堂、会员与工厂实际问题。"}, "ontology": {"status": "inference", "explanation": "聚会和相互了解可能形成共同主体，原文未论证社会存在结构。"}, "epistemology": {"status": "support_partial", "explanation": "从会后谈话得知原先接触不到的车间情况。"}, "teleology": {"status": "support_partial", "explanation": "明确为团结和建设强有力组织。"}},
+      "plain_reading": "他们把会堂开放给成员，交流既增进团结，也让组织知道车间里的真实问题。",
+      "neighbor_difference": "比泛泛行动词有完整反馈链，但仍不足以推出课程4的历史理论总体，也未见4-1-1-1的需要对象化。", "best_followup": "这些新获得的问题怎样进入共同理论判断和接下来的行动？", "primary_scope": "马克思实践原典只能对照‘现实活动与认识’这一局部命题。", "reason": "局部实践证据强，但不作完整课程码。"
+    }
+  ]
+}

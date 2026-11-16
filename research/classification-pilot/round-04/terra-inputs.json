@@ -1,0 +1,102 @@
+{
+  "schema_version": "round-04.1",
+  "scope": "8条新公开论坛书面发言，非金标。固定输入为original_input，不含页面其他材料；同帖不同楼层或段落按独立发言或独立问题记录。",
+  "items": [
+    {
+      "case_id": "T01",
+      "source_url": "https://www.v2ex.com/t/602300",
+      "page_date": "2019-09-19",
+      "access_date": "2026-11-15",
+      "source_locator": "楼主正文《一个人应该把什么作为自己的目标》",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "因为一个人生活的目标就是追求自己的利益和幸福，所以人要选择只为自己生活，并且不要任何其他人为自己而活。而只有自己才能整理自己的思路，发现自己的内心，理解自己想要什么，这是任何人都帮不上忙的。并且，在确定了自己的目标后，还需要理智来确定自己的行动，把理智当做行动的唯一指导。",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T02",
+      "source_url": "https://www.v2ex.com/t/602300",
+      "page_date": "2019-09-21",
+      "access_date": "2026-11-15",
+      "source_locator": "楼主补充1末两句，关于自我和思考",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "一个人的自我也就是他自己的所有真实想法、独立思考和内心潜藏的真实愿望，而不是所谓的“感情”（因为任何感情来源于理智对价值的判断和承认）或“杀马特式的自我”（这种人会在网络平台上攻击别人，展现自己的“傲气”和“个性”，咄咄逼人却缺乏理智），而如果一个人的所有想法都是来源于外界的暗示和影响，所有愿望或是来源于别人的建议，或是试图使别人刮目相看，那么可以说这个人是没有自我的。寻找自我的过程也就是整理自己的真实想法和愿望的过程，也就是思考的过程。",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T03",
+      "source_url": "https://www.v2ex.com/t/934672?p=2",
+      "page_date": "2023-04-24",
+      "access_date": "2026-11-15",
+      "source_locator": "第170楼末尾，条件性假设",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "如果这个假说是真的，\n那就可以充分发挥个人的主观能动性，\n我看到的世界是由我的意识，由我的个人选择决定的，\n命运（看到的电影）很大程度上掌握在自己（意识）手里",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T04",
+      "source_url": "https://www.v2ex.com/t/996654?p=2",
+      "page_date": "2023-12-01",
+      "access_date": "2026-11-15",
+      "source_locator": "第107楼，学习方式与实践经验",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "事教人才能教会的。即必须要自己做一遍才能获取基本认知的。事实上，所有人在实践后都有会有收获，区别在于实践前有的人可通过人教人获取充分的预置经验，有的人则无法获取，只能实践后建立认知。",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T05",
+      "source_url": "https://www.v2ex.com/t/996654?p=2",
+      "page_date": "2023-12-01",
+      "access_date": "2026-11-15",
+      "source_locator": "第140楼，沟通失败与调整",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "存在这样的情况，就是你的表达他确实听不懂。对于一次沟通来说这是失败的。\n失败没有关系，只要你调整表达的方式就可以了，因为他不可能在 1 分钟内提高理解的能力，而你却可以在 1 分钟内用更合适的方式来表达。更有耐心一点就可以在第二次沟通中成功传达信息。",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T06",
+      "source_url": "https://www.v2ex.com/t/996654?p=2",
+      "page_date": "2023-12-01",
+      "access_date": "2026-11-15",
+      "source_locator": "第122楼，沟通与共享知识",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "听不听得懂，和读没读多少书没关系。主要是看两个人的思念习惯和相同知识储备。有些人和你说问题的时候，他都不会想过你有没有已经知道这些问题的要先了解的东西了。不告诉你那些直接和你说的时候，你是怎么了了解不了的。",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "zh",
+      "translation": null
+    },
+    {
+      "case_id": "T07",
+      "source_url": "https://www.reddit.com/r/union/comments/1feb1h6/approaches_to_the_organizing_conversation/",
+      "page_date": "2024-09-11（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "source_locator": "楼主关于工会组织谈话的连续表述",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "I’ve tried to reframe it by explaining that organizing conversations have a long, robust history in the labor movement, and that they aren’t about “selling” your coworkers the union or “converting” them, but about listening to coworkers concerns and calling them into the work of building an independent organization that can actually address those concerns through collective power.",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "en",
+      "translation": "本次译述：我试图解释组织谈话不是向同事推销工会，而是倾听关切，邀请他们共同建设能够以集体力量回应问题的独立组织。"
+    },
+    {
+      "case_id": "T08",
+      "source_url": "https://www.reddit.com/r/union/comments/sxdixq/fixing_a_bad_union/",
+      "page_date": "页面显示约5年前，确切日期未知",
+      "access_date": "2026-11-15",
+      "source_locator": "楼主回忆开放工会会堂的段落",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "original_input": "We started opening up our union hall to members more and hanging out after meetings until the last person left. Those social times quickly became a great tool for building solidarity as well as learning more about what was going on in the plant in areas we weren't in regularly. We learned about issues, learned about our members more and genuinely started building something strong.",
+      "context_not_input": "仅核读页面上下文，不纳入判读；条件性、引用和主张须区分。",
+      "language": "en",
+      "translation": "本次译述：我们更多向成员开放会堂并在会后交谈，这增进了团结，也让我们了解到平时不常去的车间区域发生的问题。"
+    }
+  ]
+}

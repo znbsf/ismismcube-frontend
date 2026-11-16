@@ -1,0 +1,1152 @@
+{
+  "schema_version": "tree-expansion-A.1",
+  "scope": "3/4字头一级与二级共10节点，分支深度已定义的格位才列；4-4保留局部原典缺口。",
+  "nodes": [
+    {
+      "code": "3",
+      "name": "观念论",
+      "depth": 1,
+      "parent": null,
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/0187_3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6_p4951.md",
+        "axis_locator": [
+          "Page1–2 L9–14；Page27–31 L101–117"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论3：自我意识/主体的踌躇"
+          },
+          {
+            "dimension": "本体论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：3｜观念论",
+        "portrait": "我们看到的事物不是可直接照搬入思想的原样；应追问有限经验怎样能有公共有效性。",
+        "core_commitments": [
+          "把经验组织成可共同讨论的知识"
+        ],
+        "problem_conflict": "每个人的经验有限而变化，知识却要求超出个人当下的有效性。",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "这里问的是认识如何把具体体验同可共同讨论的对象联系起来。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "当有人说“事实摆在眼前”，我会问我们凭什么能把不同人的经验组织成同一个事实。"
+        },
+        "strong_opponent": {
+          "argument": "实践批判者会问：认识不是在孤立主体里完成，现实活动及其后果如何进入检验？",
+          "fairness": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。",
+          "possible_response": "观念论者可回应：实践要成为可讨论的证据，也需要解释经验为何有对象和可共享的意义。两方可围绕“什么算检验”对话，不必把它们简单合并。",
+          "fair_reply": "观念论者可回应：实践要成为可讨论的证据，也需要解释经验为何有对象和可共享的意义。两方可围绕“什么算检验”对话，不必把它们简单合并。",
+          "relation": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。"
+        },
+        "internal_tension": "如果认识条件只从主体内部推导，可能看不见身体、历史和实践如何塑造问题。",
+        "dialectical_assessment": "认识中介使客观知识的问题可见，但若缺现实检验便可能把分析条件当成全部经验来源；实践论也要交代何以能共享判断。",
+        "self_questions": [
+          "不同人的有限经验为什么可以指向同一对象，而非只是相似感受？",
+          "我怎样检验自己的认识条件，而不是只把它当作不容置疑的前提？"
+        ],
+        "neighbor_distinction": "若不再把认识的条件当问题，或转向历史组织行动的机制，定位应重审。"
+      },
+      "pro_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "Project Gutenberg 4280，J. M. D. Meiklejohn英译",
+          "locator": "第二版序言哥白尼式假设；导论I开头",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "联网核读序言对象符合认识段及导论I经验与先验段",
+          "supports": "以认识条件追问先验知识与经验的关系",
+          "limits": "不证明一切现实由个人心理创造，也不能支持全部课程格位",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "Theses on Feuerbach",
+          "version": "Marx/Engels Selected Works vol.1，Progress 1969；W. Lough英译；恩格斯编辑本",
+          "locator": "第I–III、VI、XI条",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "read_scope": "联网核读第一、二、三、六、十一条",
+          "supports": "强调现实的感性活动、实践中检验与环境改变和自我改变的关系",
+          "limits": "提纲不能单独推出特定组织永远正确，亦非对上述每个立场的直接论战",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "3-1",
+      "name": "现象学",
+      "depth": 2,
+      "parent": "3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E5%92%8C%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A_%E6%8B%A5%E8%B6%B8_%E6%95%8C%E4%BA%BA/0188_3-1_%E7%8E%B0%E8%B1%A1%E5%AD%A6_%E8%83%A1%E5%A1%9E%E5%B0%94%E5%92%8C%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A_%E6%8B%A5%E8%B6%B8_%E6%95%8C%E4%BA%BA_p4987.md",
+        "axis_locator": [
+          "Page2–6 L12–24；Page28 L90"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论3：自我(调和前科学的生活世界与科学化的本质领域的对立)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：意向性(Noesis-Noema)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：3-1｜现象学",
+        "portrait": "面对一个声音、记忆或物体，先问它如何在第一人称经验中被给予，区分注意的行为与被注意的对象；暂缓断言对象背后的终极理论。",
+        "core_commitments": [
+          "从经验怎样显现入手"
+        ],
+        "problem_conflict": "生活世界中的具体体验怎样成为有结构、可讨论的对象？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "先验自我连接生活世界和本质问题。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "意向行为总与所意向之物相关。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】听同一首歌时，我先描述旋律怎样进入注意，再比较改变节奏后哪些体验结构仍在。"
+        },
+        "strong_opponent": {
+          "argument": "符号关系研究者会问：我们能否绕过公共语言，直接抓到未被符号中介的经验？",
+          "fair_reply": "现象学者可回应，语言研究本身也需描述符号怎样为人显现；但不能把生活经验简单等同未经过中介的自白。",
+          "relation": "编者依据局部原典重构的对照，不声称原作者直接论战。",
+          "possible_response": "现象学者可回应，语言研究本身也需描述符号怎样为人显现；但不能把生活经验简单等同未经过中介的自白。"
+        },
+        "internal_tension": "反思经验时就改变了体验；个人报告也可能遗漏语言与社会条件。",
+        "dialectical_assessment": "体验描述既不能保证直接抵达客观本质，也不应被还原为语言之外的纯私密材料。",
+        "self_questions": [
+          "我描述的是体验如何显现，还是先预设其背后的自然机制？",
+          "通过想象变化找出的不变结构，是否受语言和文化影响？"
+        ],
+        "neighbor_distinction": "只有自我感受而未研究意向行为与对象关系，不足以进入课程3-1；若重点是符号系统差异，比较3-4。"
+      },
+      "pro_sources": [
+        {
+          "author": "Edmund Husserl",
+          "work": "Ideas I",
+          "version": "W. R. Boyce Gibson英译，Routledge Classics再版本；网页转录，未核纸本",
+          "locator": "§§88–89，感知、被感知者与现象学悬置；苹果树例",
+          "url": "https://dokumen.pub/ideas-general-introduction-to-pure-phenomenology-online-ausgnbsped-9780203120330-0203120337-9780415519038-0415519039.html",
+          "read_scope": "联网核读感知、感知对象及悬置实在主张的苹果树例",
+          "supports": "区分感知活动与对象被给予的方式，并暂停对实在存在的判断",
+          "limits": "只核英译局部，未与德文或纸本校对，不自动支持课程全部生活世界和各格位。",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Ferdinand de Saussure",
+          "work": "Third Course of Lectures on General Linguistics",
+          "version": "Pergamon Press 1993，学生听课笔记节选，英语译者未知",
+          "locator": "1910-11-04语言作为社会产物与个体实现",
+          "url": "https://www.marxists.org/reference/subject/philosophy/works/fr/saussure.htm",
+          "read_scope": "联网核读社会产物、个体和社会机构段",
+          "supports": "语言的社会系统不能简化为单个人说话时的选择",
+          "limits": "学生记录、翻译节选，不证明课程所有拉康术语或完整符号学",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "3-2",
+      "name": "德国观念论",
+      "depth": 2,
+      "parent": "3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-2_%E5%BE%B7%E5%9B%BD%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BA%BA%E7%B1%BB%E5%93%B2%E5%AD%A6%E5%8F%B2%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86/0210_3-2_%E5%BE%B7%E5%9B%BD%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BA%BA%E7%B1%BB%E5%93%B2%E5%AD%A6%E5%8F%B2%E6%9C%80%E7%B2%BE%E5%8D%8E%E7%9A%84%E9%83%A8%E5%88%86_p5482.md",
+        "axis_locator": [
+          "Page1–3 L9–20；轴依课程目录并结合已有字段校对"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论3：作为绝对设置者的自我(Selbst-Ich)(调和形而下与形而上的对立)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：有限(Selbst)与无限(Ich)的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：3-2｜德国观念论",
+        "portrait": "持这一课程立场的人会把具体、有限的自身（Selbst）与无限的我（Ich）之间的对立当作思考起点：我既在有限处境中认识和行动，又追问使认识与行动成为可能的主体活动如何超出任何一个有限的自我形象。",
+        "core_commitments": [
+          "重视有限的自身与无限的我之间的对立，而不把二者压成普通的自我反省。",
+          "将主体活动视为理解经验如何可能的必要环节，同时追问有限经验如何与无限主体相关。"
+        ],
+        "problem_conflict": "有限的自我经验与试图说明经验整体条件的自我活动之间怎样关联？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "认识活动中有一个使经验成为自身经验的自我中介。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "课程将有限的自身与无限的我相对置；不能只写成同一个自我反思自身。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "我每天都受身体、经历和处境限制，看到的是一个有限的自己。但我也想知道，使我能够认识这些限制的“我”能否等同于任何一个有限的自我形象；如果不能，二者究竟怎样发生关系？"
+        },
+        "strong_opponent": {
+          "argument": "实践批判者会问：自我活动的现实条件、社会关系和身体活动究竟从何而来？",
+          "fairness": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。",
+          "possible_response": "支持者可指出，询问社会条件时也已经在使用“我如何知道”的结构；进一步要说明两种追问如何相互制约。",
+          "fair_reply": "支持者可指出，询问社会条件时也已经在使用“我如何知道”的结构；进一步要说明两种追问如何相互制约。",
+          "relation": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。"
+        },
+        "internal_tension": "自我设定的抽象论证若不能说明社会历史中的具体他人，容易被质疑空转；这不是说作者把物理世界随意想出来。",
+        "dialectical_assessment": "自我反思抓住了认识不是纯被动接收的一面；它能否解释有限身体与他人，需要从抽象设定走向具体关系。",
+        "self_questions": [
+          "能反思的我与被反思的自己如何相关？",
+          "我说的自我设定能否解释有限者与他人的关系，还是只描述心理独立？"
+        ],
+        "neighbor_distinction": "只是谈人格自信或摆脱别人意见，不足以判为自我设定；缺设定论证应退回较粗定位。"
+      },
+      "pro_sources": [
+        {
+          "author": "Johann Gottlieb Fichte",
+          "work": "Attempt at a New Presentation of the Wissenschaftslehre",
+          "version": "UC San Diego托管英文节选；译者和纸本版次未知",
+          "locator": "第一章英文页108–110及自我直观段",
+          "url": "https://philosophyfaculty.ucsd.edu/faculty/ewatkins/Phil107S13/FichteIntroduction.pdf",
+          "read_scope": "联网核读自我回返、设定与主客体段",
+          "supports": "将自我概念联系自我回返思维及自我设定",
+          "limits": "并非说个人心理凭空创造万物，也不自动证明课程全部历史叙述",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "Theses on Feuerbach",
+          "version": "Marx/Engels Selected Works vol.1，Progress 1969；W. Lough英译；恩格斯编辑本",
+          "locator": "第I–III、VI、XI条",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "read_scope": "联网核读第一、二、三、六、十一条",
+          "supports": "强调现实的感性活动、实践中检验与环境改变和自我改变的关系",
+          "limits": "提纲不能单独推出特定组织永远正确，亦非对上述每个立场的直接论战",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "3-3",
+      "name": "生存论",
+      "depth": 2,
+      "parent": "3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA/0232_3-3_%E7%94%9F%E5%AD%98%E8%AE%BA_Existentialism_%E6%B8%A9%E5%92%8C%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E7%9A%84%E6%BF%80%E8%BF%9B%E5%8F%8D%E8%A7%82%E5%BF%B5%E8%AE%BA_p5984.md",
+        "axis_locator": [
+          "Page6；Page14–17 L66–83"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论3：哲人本人的第一人称生存(调和形而上(绝对者/先验框架、理念等级制)与形而下(表象/物/世界性)的对立)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：实存作为存在与存在者的中介(存在作为符号化力量，自行给出又自行取消，由主体性内在实存承担)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。本讲把部分作者称作学院派是讲者评价，不是这些作者的自我分类。"
+      },
+      "stance_profile": {
+        "position_title": "定位：3-3｜生存论",
+        "portrait": "人不是只在一套现成体系中占据位置；从具体处境、选择和由此承担的责任追问存在。",
+        "core_commitments": [
+          "从承担自身处境的第一人称出发"
+        ],
+        "problem_conflict": "抽象普遍体系与具体个人不得不活出的存在之间，怎样保持联系？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "以第一人称生存经验作为进入问题的场域。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "主体实存中介存在与存在者的张力，这是课程解释。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我要决定是否离开一份不合理的工作，不能只背抽象道理，也要面对收入、家庭与自己的选择。"
+        },
+        "strong_opponent": {
+          "argument": "社会历史批评者会问：若把焦点放在个人选择，谁解释限制选择空间的经济与社会条件？",
+          "fair_reply": "生存论者可回应，承认处境并不取消人在处境内承担选择；但应避免把受压迫者的有限选择责怪成自由失败。",
+          "relation": "编者依据局部原典重构的对照，不声称原作者直接论战。",
+          "possible_response": "生存论者可回应，承认处境并不取消人在处境内承担选择；但应避免把受压迫者的有限选择责怪成自由失败。"
+        },
+        "internal_tension": "要求直接面对自身处境也需要语言与制度中介；强调选择可能低估资源、压迫和他人的限制。",
+        "dialectical_assessment": "个人承担揭示了体系无法替人活的部分，而物质分析提醒我们并非人人拥有同等可选项。",
+        "self_questions": [
+          "我能在何种具体条件下选择，又有哪些限制不能单凭意志消除？",
+          "我对责任的要求是否考虑了其他人和不平等资源？"
+        ],
+        "neighbor_distinction": "仅说“做自己”不足；若论证重心是语言结构而非第一人称实存，比较3-4。"
+      },
+      "pro_sources": [
+        {
+          "author": "Jean-Paul Sartre",
+          "work": "Existentialism Is a Humanism",
+          "version": "Walter Kaufmann编1989选集，Philip Mairet英译，MIA网页",
+          "locator": "前言批评及存在先于本质、选择责任段",
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "read_scope": "联网核读存在先于本质、主体选择及对孤立主义批评的回应",
+          "supports": "强调个人处境中的行动选择及其责任",
+          "limits": "萨特区分处境与选择，不证明所有生存论都认为人无限制选择，也不证明课程对海德格尔的评价",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "A Contribution to the Critique of Political Economy, Preface",
+          "version": "Progress Publishers Moscow 1977，MIA英文版，译者未知",
+          "locator": "1859序言，物质生活、社会意识与生产关系段",
+          "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
+          "read_scope": "联网核读经济结构、社会意识与历史变革关系段",
+          "supports": "把思想和政治形式置于物质生产与社会关系中考察",
+          "limits": "一般方法纲要不能代替具体历史研究，也不自动论证课程每一轴",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "3-4",
+      "name": "符号学",
+      "depth": 2,
+      "parent": "3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/3_%E8%A7%82%E5%BF%B5%E8%AE%BA_%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA_%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%80%9D%E8%80%83%E5%93%B2%E5%AD%A6/3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6/0254_3-4_%E7%AC%A6%E5%8F%B7%E5%AD%A6_p6567.md",
+        "axis_locator": [
+          "Page8；Page15–19；Page24–27"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论3：结构(无意识/符号系统)调和意义(拟制的效果/想象界)与符号(抽象性的精神位面/象征界)的对立，主体是结构产生的效果"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：语言(能指系统/信号系统)的本体论姿态是开放的，本体论即语言，但语言本身就是限制，不存在预设的本体论框架"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。索绪尔只支持社会语言系统的局部问题，不能将课程所涉拉康术语归为索绪尔。"
+      },
+      "stance_profile": {
+        "position_title": "定位：3-4｜符号学",
+        "portrait": "面对一句话或一种身份，先看它依赖怎样的符号系统和差异，而不是假定个人能够透明地报告所有意义。",
+        "core_commitments": [
+          "从语言和符号关系解释意义"
+        ],
+        "problem_conflict": "第一人称意义与先于个人的符号关系如何互相构成？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "符号结构中介意义与符号，主体也是结构的效果。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "语言自身构成限制，不预设一套既成的本体框架。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】团队说某人“不专业”，我先看这个词与哪些制度角色和其他词相对，而不只猜他的心理。"
+        },
+        "strong_opponent": {
+          "argument": "经验论的批评者会问：符号分析如何保留痛感、犹疑及尚未说成话的具体意识流？",
+          "fair_reply": "符号论者可回应，对体验的描述和公共比较也需要语言；这不等于声称体验全都被字词耗尽。",
+          "relation": "编者依据局部原典重构的对照，不声称原作者直接论战。",
+          "possible_response": "符号论者可回应，对体验的描述和公共比较也需要语言；这不等于声称体验全都被字词耗尽。"
+        },
+        "internal_tension": "若把结构当全知视角，研究者自己的位置及体验可能被抹去；课程本身也批评绝对中介的幻想。",
+        "dialectical_assessment": "结构揭示个人难以自觉的规则，却不能仅凭规则推断每个人的全部体验。",
+        "self_questions": [
+          "这个意义依赖哪些符号差异和共同规则？",
+          "规则无法穷尽的体验如何进入可讨论的证据？"
+        ],
+        "neighbor_distinction": "只说话语影响人不够；若主要描述体验如何显现，比较3-1。"
+      },
+      "pro_sources": [
+        {
+          "author": "Ferdinand de Saussure",
+          "work": "Third Course of Lectures on General Linguistics",
+          "version": "Pergamon Press 1993，学生听课笔记节选，英语译者未知",
+          "locator": "1910-11-04语言作为社会产物与个体实现",
+          "url": "https://www.marxists.org/reference/subject/philosophy/works/fr/saussure.htm",
+          "read_scope": "联网核读社会产物、个体和社会机构段",
+          "supports": "语言的社会系统不能简化为单个人说话时的选择",
+          "limits": "学生记录、翻译节选，不证明课程所有拉康术语或完整符号学",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "William James",
+          "work": "Psychology: Briefer Course, The Stream of Consciousness",
+          "version": "1892英文版第XI章，York University转录",
+          "locator": "第XI章开头对整体具体意识的讨论",
+          "url": "https://psychclassics.yorku.ca/James/jimmy11.htm",
+          "read_scope": "联网核读开头对整体意识与简单观念拼合的批评",
+          "supports": "强调从具体意识流出发研究经验",
+          "limits": "不直接反驳索绪尔所有观点，不能把二人虚构成同题辩论",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "4",
+      "name": "实践",
+      "depth": 1,
+      "parent": null,
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/0276_4_%E5%AE%9E%E8%B7%B5_p7184.md",
+        "axis_locator": [
+          "Page1–4 L9–18"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论4：历史、人民、理论家构成三项关系，另加使主体客体化的实践单元，形成此讲明确说出的“三加一”。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：4｜实践",
+        "portrait": "社会不是放在旁边观看的对象；人们在历史条件下组织、行动并反思结果，理论也在其中接受检验。",
+        "core_commitments": [
+          "在改变现实的活动中认识现实"
+        ],
+        "problem_conflict": "认识社会的解释与改变社会的实际行动如何相互校正？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "要从历史中的人们、组织、理论和行动的关系理解社会变化。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "我们先组织居民记录问题，试行方案，再根据结果和反对意见修改计划。"
+        },
+        "strong_opponent": {
+          "argument": "先验批判者会问：实践结果要作为公共证据，是否已经依赖判断和经验的共同条件？",
+          "fairness": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。",
+          "possible_response": "实践论者可回应：这些条件也要在历史活动中检验其作用；这不意味着一切规范都可由一次成功投票证明。",
+          "fair_reply": "实践论者可回应：这些条件也要在历史活动中检验其作用；这不意味着一切规范都可由一次成功投票证明。",
+          "relation": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。"
+        },
+        "internal_tension": "行动可带来反馈，也可能把暂时成功误作真理；谁能参与纠错，以及行动是否压制异议，必须另论。",
+        "dialectical_assessment": "行动反馈能修正脱离现实的理论；一次胜利却不必证明理论真实，开放异议和可重复检验是将行动变成学习的条件。",
+        "self_questions": [
+          "谁在何种历史条件下行动，结果如何反馈到理论？",
+          "若行动的组织者犯错或压制异议，谁能纠正？"
+        ],
+        "neighbor_distinction": "单次动手或个人换工作不是该课程完整的历史—人民—理论家—实践单元结构。"
+      },
+      "pro_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "Theses on Feuerbach",
+          "version": "Marx/Engels Selected Works vol.1，Progress 1969；W. Lough英译；恩格斯编辑本",
+          "locator": "第I–III、VI、XI条",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "read_scope": "联网核读第一、二、三、六、十一条",
+          "supports": "强调现实的感性活动、实践中检验与环境改变和自我改变的关系",
+          "limits": "提纲不能单独推出特定组织永远正确，亦非对上述每个立场的直接论战",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "Project Gutenberg 4280，J. M. D. Meiklejohn英译",
+          "locator": "第二版序言哥白尼式假设；导论I开头",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "联网核读序言对象符合认识段及导论I经验与先验段",
+          "supports": "以认识条件追问先验知识与经验的关系",
+          "limits": "不证明一切现实由个人心理创造，也不能支持全部课程格位；此处重构的是先验条件追问，康德并未因此否认实践。",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "4-1",
+      "name": "政治经济意识形态批判",
+      "depth": 2,
+      "parent": "4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-1_%E6%94%BF%E6%B2%BB-%E7%BB%8F%E6%B5%8E-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%89%B9%E5%88%A4/0277_4-1_%E6%94%BF%E6%B2%BB-%E7%BB%8F%E6%B5%8E-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%89%B9%E5%88%A4_p7198.md",
+        "axis_locator": [
+          "Page5–6、11–13、17、19–22、26"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论4：历史经由人民的活动而对理论家显现，另以具有体系性、批判性及生存条件的理论家共同体为实践单元。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：课程区分直接主客同一与主体、客体内在矛盾的同一，借早晚两种“谢林点”说明；重点是实践中两种不一致性的关联。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：4-1｜政治经济意识形态批判",
+        "portrait": "研究者不把观念只看作个人偏好，而追问它与生产、政治和具体历史关系如何关联；理论共同体本身也需要生活和出版条件。",
+        "core_commitments": [
+          "把政治经济与思想放回现实关系"
+        ],
+        "problem_conflict": "理论解释与现实生产关系不是两套互不相关的世界，但也不能把一个人的意见直接当阶级真相。",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "历史经人民活动向理论家显现，理论共同体是实践单元。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "课程区分直接主客同一与内在矛盾的同一，不把二者简化为一个结论。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】研究某项住房政策时，我们一面比较法律语言，一面查谁拥有土地、谁承担租金和谁有话语权。"
+        },
+        "strong_opponent": {
+          "argument": "个性自由的批评者会问：社会解释是否会剥夺个人表达、试验不同生活方式并修正公共规范的空间？",
+          "fair_reply": "批判者可回应，真正能表达也需要物质条件；但社会成因不能替代对具体论证真假的检验。",
+          "relation": "编者依据局部原典重构的对照，不声称原作者直接论战。",
+          "possible_response": "批判者可回应，真正能表达也需要物质条件；但社会成因不能替代对具体论证真假的检验。"
+        },
+        "internal_tension": "把观念放回现实关系是有力方法；若把所有思想都机械地缩成经济利益，就会丢失争论和相对自主性。",
+        "dialectical_assessment": "社会关系为思想提供条件，却不让我们跳过检验每个论证，也不意味着理论工作能靠牺牲个人生存条件永久维持。",
+        "self_questions": [
+          "谁的现实关系和生活条件被这些政治与经济观念遮蔽？",
+          "我怎样检验理论，而不把不同意见直接归结为阶级利益？"
+        ],
+        "neighbor_distinction": "单说钱重要不够；4-2强调行动者中介人民创造历史，而此支强调理论共同体的系统批判。"
+      },
+      "pro_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "A Contribution to the Critique of Political Economy, Preface",
+          "version": "Progress Publishers Moscow 1977，MIA英文版，译者未知",
+          "locator": "1859序言，物质生活、社会意识与生产关系段",
+          "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
+          "read_scope": "联网核读经济结构、社会意识与历史变革关系段",
+          "supports": "把思想和政治形式置于物质生产与社会关系中考察",
+          "limits": "一般方法纲要不能代替具体历史研究，也不自动论证课程每一轴",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "John Stuart Mill",
+          "work": "On Liberty",
+          "version": "Project Gutenberg 34901，Walter Scott出版版，英文原文",
+          "locator": "第三章开篇生活实验与个性发展",
+          "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+          "read_scope": "联网核读第三章开头及个性与幸福的关系",
+          "supports": "多种生活实验与个性发展是幸福和社会进步的条件",
+          "limits": "并不主张一切行为完全不受约束，也不是对4-3课程的直接批评",
+          "relation": "editorial_reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "4-2",
+      "name": "现实的正统化",
+      "depth": 2,
+      "parent": "4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96/0299_4-2_%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%AD%A3%E7%BB%9F%E5%8C%96_p7647.md",
+        "axis_locator": [
+          "L24–34"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论4：人民通过行动者的引导与中介创造历史；行动者把自身作为实践环节投入其中。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：造成苦难的物质及社会现实，与失去位置的普罗大众相对立。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：4-2｜现实的正统化",
+        "portrait": "面对人民遭受的现实苦难，主张通过组织、教育与引导使分散的力量能够参与创造历史；行动者自身也是这一过程的一部分。",
+        "core_commitments": [
+          "人民创造历史需要行动者中介；课程把实践单元指为现代政党。"
+        ],
+        "problem_conflict": "造成苦难的现实物质和社会关系，与失去位置的大众相对立；分散力量怎样转成能够改变现实的力量？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "人民经行动者中介创造历史，行动者自己也参与实践。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "造成苦难的现实与失去位置的大众形成对立。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "组织者听取受影响者的意见，协调教育、行动和公共讨论，让参与者能够共同决定和纠正策略。"
+        },
+        "strong_opponent": {
+          "argument": "如果少数人垄断代表权、压制异议，大众如何积累政治经验并纠正错误？",
+          "fairness": "根据卢森堡原典重构对组织代行的质疑；她并非反对一切组织。",
+          "possible_response": "组织中介论者可说，缺少持久组织和理论，分散的抗议难形成共同力量；但应说明成员能否讨论、监督、撤换和修正领导。",
+          "fair_reply": "组织中介论者可说，缺少持久组织和理论，分散的抗议难形成共同力量；但应说明成员能否讨论、监督、撤换和修正领导。",
+          "relation": "根据卢森堡原典重构对组织代行的质疑；她并非反对一切组织。"
+        },
+        "internal_tension": "编者分析：中介旨在帮助大众成为历史主体，但若组织代替大众决定、禁止纠错，就可能削弱本来要形成的主体能力；这不是引作课程原话。",
+        "dialectical_assessment": "真正分歧不止在“要不要组织”，而在中介如何产生集体能力、接受反对并避免代行；具体制度比标签更能检验承诺。",
+        "self_questions": [
+          "组织者是否受影响者可监督、纠错和撤换？",
+          "不同意见能否进入决策并改变方案？"
+        ],
+        "neighbor_distinction": "仅有工会或邻里互助不自动等于课程所指现代政党；缺对人民、历史和组织中介的结构论证应停留在4的局部。"
+      },
+      "pro_sources": [
+        {
+          "author": "Vladimir Ilyich Lenin",
+          "work": "What Is To Be Done?",
+          "version": "MIA英语网页；译者和纸本版次未核",
+          "locator": "第二章A，自发罢工与社会民主意识段",
+          "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/ii.htm",
+          "read_scope": "联网核读第二章A开头及自发斗争、意识从外部引入段",
+          "supports": "提出自发工会斗争与系统政治意识之间的区别，强调理论与组织中介",
+          "limits": "历史争论中列宁的具体主张，不等同所有工会或课程4-2的全部理论",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Rosa Luxemburg",
+          "work": "The Russian Revolution",
+          "version": "MIA英文网页第六章；译者、纸本版次未知",
+          "locator": "第六章公开政治生活、不同意见自由与官僚化段",
+          "url": "https://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm",
+          "read_scope": "联网核读第六章自由与政治经验及公共机构段",
+          "supports": "压制公共讨论和异议会阻碍大众积累政治经验并促成官僚化",
+          "limits": "她同时承认革命建设和组织问题；不能简化成反一切组织或直接评判任何工会",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "4-3",
+      "name": "建设理想社会",
+      "depth": 2,
+      "parent": "4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A/0321_4-3_%E5%BB%BA%E8%AE%BE%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A_p8077.md",
+        "axis_locator": [
+          "Page7 L39；Page15 L65"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论4：建设者借历史条件开展建设，以人民幸福为指向；实践单元被表述为掌握现实力量的组织。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：以人民幸福中介历史现实与人的生存体验，使人能够认可并参与自己的历史。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：4-3｜建设理想社会",
+        "portrait": "建设者关心怎样通过可组织的现实力量，让更多人实际获得幸福并参与塑造历史。",
+        "core_commitments": [
+          "在历史条件中建设值得生活的社会"
+        ],
+        "problem_conflict": "历史发展和现实资源限制，与人们对幸福和自由生活的经验如何连接？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "建设发生在具体历史中，需要人们组织现实行动。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "人的幸福连接历史发展的方向与现实中的生活经验。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "我们讨论怎样改善住房和工作时间，并让居民参与决定什么改善真正有用。"
+        },
+        "strong_opponent": {
+          "argument": "个性自由的辩护者会问：谁决定幸福是什么，少数人的生活实验能否在共同建设中继续存在？",
+          "fairness": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。",
+          "possible_response": "建设者可回应：没有住房、时间和公共条件，选择自由也可能只是形式；但应允许不同生活方式和持续纠偏。",
+          "fair_reply": "建设者可回应：没有住房、时间和公共条件，选择自由也可能只是形式；但应允许不同生活方式和持续纠偏。",
+          "relation": "编者根据所列原典重构一个有力质疑，不声称双方曾直接交锋。"
+        },
+        "internal_tension": "若预先由组织定义唯一幸福模板，就可能压缩被建设者表达不同需要的空间；协调公共资源也无法仅凭多样性完成。",
+        "dialectical_assessment": "幸福需要实际资源和集体建设，也需要允许人们对好生活有不同理解；组织能提供条件，也可能把统一目标强加给参与者。",
+        "self_questions": [
+          "建设中谁能决定幸福的内容，谁被遗漏？",
+          "制度如何为不同生活方式留出资源，并根据现实结果纠偏？"
+        ],
+        "neighbor_distinction": "单有福利愿望不足；需历史条件、组织建设与人民幸福之间的关系，后两格不能由短码补造。"
+      },
+      "pro_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "Critique of the Gotha Programme",
+          "version": "MIA英语网页第一部分；译者和纸本版次未知",
+          "locator": "第一部分共产主义高级阶段段",
+          "url": "https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm",
+          "read_scope": "联网核读高级阶段及分配相关局部",
+          "supports": "把发展、劳动分工及分配与历史条件相连",
+          "limits": "不是具体政策清单或课程幸福中介的原文定义",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "John Stuart Mill",
+          "work": "On Liberty",
+          "version": "Project Gutenberg 34901，Walter Scott出版版，英文原文",
+          "locator": "第三章开篇生活实验与个性发展",
+          "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm",
+          "read_scope": "联网核读第三章开头及个性与幸福的关系",
+          "supports": "多种生活实验与个性发展是幸福和社会进步的条件",
+          "limits": "并不主张一切行为完全不受约束，也不是对4-3课程的直接批评",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "bounded_primary_comparison",
+        "note": "原典只支持其列出的局部命题，不自动验证课程全格或历史谱系。"
+      }
+    },
+    {
+      "code": "4-4",
+      "name": "不可能的乌托邦",
+      "depth": 2,
+      "parent": "4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/4_%E5%AE%9E%E8%B7%B5/4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6/0342_4-4_%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6_p8560.md",
+        "axis_locator": [
+          "Page30–31 L119–124；Page33–34 L134–137"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论4：人类（人民）经历史中介走向未来行动者；实践单位是设想中的后资本主义共同体。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：新生活的规则与爱欲模式不被预先固定，经共同体交往形成。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程目录与固定社区转录局部，未核原音；原典对读是编者关联。"
+      },
+      "stance_profile": {
+        "position_title": "定位：4-4｜不可能的乌托邦",
+        "portrait": "把后资本主义共同体、不同主体与未来关系设为思想实验，追问即便旧异化被克服，新的生活关系是否仍会产生新问题。",
+        "core_commitments": [
+          "以不可能的未来共同体检验现有概念"
+        ],
+        "problem_conflict": "当既有资本关系不再预设，人如何形成生活规则与彼此关系，而不提前决定其爱欲模式？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "未来行动者和设想的后资本主义共同体构成思想实验场。"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "生活规则与亲密关系不预先固定，而在共同体交往中形成。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】假设未来共同体已摆脱资本强制，我想问成员如何在互动中形成亲密关系，而不是预先规定答案。"
+        },
+        "strong_opponent": {
+          "argument": "具体制度设计者会问：没有劳动、供给和制度安排，开放共同体的成员如何维持共同生活？",
+          "fair_reply": "思想实验的辩护者可回应，先暂时悬置现实约束是为了暴露既有概念，随后仍要回到安排与可行性的提问。",
+          "relation": "编者依据局部原典重构的对照，不声称原作者直接论战。",
+          "possible_response": "思想实验的辩护者可回应，先暂时悬置现实约束是为了暴露既有概念，随后仍要回到安排与可行性的提问。"
+        },
+        "internal_tension": "想象越自由，越难说明主体、技术和资源怎样成为可能；把科幻设定当已实现事实则会消除思想实验的边界。",
+        "dialectical_assessment": "开放关系能使我们发现现存制度中的盲点；具体劳动安排提醒我们实验设定不等于现实可行方案。",
+        "self_questions": [
+          "这个实验悬置了什么现实约束，因而能看见什么？",
+          "我们如何避免把未来技术和主体能力当成已实现事实？"
+        ],
+        "neighbor_distinction": "一般乌托邦方案不等于课程4-4的不可能思想实验；现实条件下建组织改善幸福更近4-3。"
+      },
+      "pro_sources": [
+        {
+          "author": "Karl Marx",
+          "work": "Critique of the Gotha Programme",
+          "version": "MIA英语网页第一部分；译者和纸本版次未知",
+          "locator": "第一部分共产主义高级阶段段",
+          "url": "https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm",
+          "read_scope": "联网核读高级阶段及分配相关局部",
+          "supports": "把发展、劳动分工及分配与历史条件相连",
+          "limits": "不是具体政策清单或课程幸福中介的原文定义；不直接证明课程后资本主义VR、AI意识或开放爱欲设定。",
+          "relation": "partial_background_not_complete_positive_primary"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Thomas More",
+          "work": "Utopia: Of their Trades, and Manner of Life",
+          "version": "MIA英文网页；译者及纸本版本未知",
+          "locator": "行业和生活方式章开头至工作时间安排",
+          "url": "https://www.marxists.org/reference/archive/more/works/utopia/ch5.html",
+          "read_scope": "联网核读劳动、职业与日常安排开头",
+          "supports": "作为制度具体安排的虚构社会对照",
+          "limits": "莫尔不是课程4-4的来源，此章不能支持AI意识、开放爱欲或未来主体的完整设定",
+          "relation": "reconstructed_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "community_transcript_excerpt",
+        "audio_verified": false,
+        "primary": "partial_only",
+        "note": "4-4的哥达纲领只比较后资本主义条件，莫尔仅为制度安排对照；无独立原典证明未来AI意识或开放爱欲。"
+      }
+    }
+  ]
+}

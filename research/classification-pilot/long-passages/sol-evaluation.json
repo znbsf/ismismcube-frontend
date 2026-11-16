@@ -1,0 +1,93 @@
+{
+  "schema_version": "long-passages.sol-initial-frozen.1",
+  "scope": "Sol 独立判读 Terra 两篇链接界定的完整长文；按原页指定范围阅读全文，不从提要倒推出归码。每源只引少量短语，原典仅对照局部命题；互审另记。",
+  "evaluator": "Sol",
+  "items": [
+    {
+      "case_id": "LT01",
+      "source_url": "https://www.reddit.com/r/union/comments/sxdixq/fixing_a_bad_union/",
+      "read_boundary": "楼主正文行21–28，起First, a union is only as strong，止ran as a unit；读了行19–38区分上下文，但后续争议处理不算输入。",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "较强局部实践倾向，不是完整课程码"
+        }
+      ],
+      "short_evidence": [
+        "listen to member's concerns",
+        "know your contract",
+        "swept the elections"
+      ],
+      "axes": {
+        "field": {
+          "status": "support_partial",
+          "plain_explanation": "场景是一个具体工会及其成员、领导和工作场所，作者谈如何把分散成员组织起来。"
+        },
+        "ontology": {
+          "status": "inference",
+          "plain_explanation": "成员关系被写成工会力量的条件，但作者没有给出人的社会存在或历史主体的理论。"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "plain_explanation": "先学合同和章程、听同事不同视角，再判断现有领导是否回应问题；这是行动中收集知识。"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "plain_explanation": "目标明确：连接成员、施压或改选领导，并用自己的团队胜选作例子；这不自动等于课程历史解放目标。"
+        }
+      },
+      "claim_structure": "前提是工会强弱取决于成员参与及领导回应；理由是坏领导使成员疏离，孤立个人难以改变；步骤是读规则、联系同事、形成同意者、推动领导或选举；实例是作者单位组队参选获胜。",
+      "short_long_difference": "与 round-04:T08 只呈现会堂交流增进团结和现场知识相比，本段新增制度规则、成员连接、选举与实际胜选，目的及知识轴更有直接证据；仍未补出课程4的历史主体理论。两段属于同帖同作者，不是两个独立样本。",
+      "neighbor_difference": "比一般沟通技巧更接近4实践的组织行动；但4-1-1-1另需人的需要/对象化与公开批判文本实践，不能把工会二字直接代入。",
+      "best_followup": "这些成员经验怎样转成对劳动关系的共同理论判断，并决定后续行动？",
+      "primary_scope": "马克思《关于费尔巴哈的提纲》I–III只支持认识与现实活动相关的局部对照，不能替该网友的组织策略或完整课程4背书。",
+      "reason": "长篇确实扩展了可核组织机制，但完整格位仍不足。"
+    },
+    {
+      "case_id": "LT02",
+      "source_url": "https://www.reddit.com/r/antiwork/comments/tiwpnu/profiting_off_of_workers_is_theft/",
+      "read_boundary": "楼主正文行18–21，首句定义利润至末句those who actually produce it；评论和楼主后续回复不算输入。",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "劳动所有关系及制度改造提议的局部倾向"
+        },
+        {
+          "code": "4-1-1-1",
+          "status": "经济分配批判的邻近局部倾向，非完整格位"
+        }
+      ],
+      "short_evidence": [
+        "revenue minus expenses",
+        "workers all stopped working",
+        "ownership of the MoP to the workers"
+      ],
+      "axes": {
+        "field": {
+          "status": "support_partial",
+          "plain_explanation": "明确讨论企业收入、工资、成本与生产资料的所有权关系。"
+        },
+        "ontology": {
+          "status": "inference",
+          "plain_explanation": "把劳动者生产活动视为收入来源，把单纯所有权与生产贡献分开；未论证人的需要、对象化或存在结构。"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "plain_explanation": "作者用利润公式、停工反事实和所有者退出反事实来支持分配批评；这些是作者的论证，不等于经济事实已被核证。"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "plain_explanation": "提出工人集体或政府持有生产资料，以改变利润归属；这是制度目标，尚非已经发生的实践。"
+        }
+      },
+      "claim_structure": "先给出收入减成本的利润定义，再以工人停工收入消失为因果理由，指出所有者单纯持有产权与生产贡献不同；最后以公平分配的规范判断提出工人或政府所有的替代安排。",
+      "short_long_difference": "与 round-03:T08 只展示工资、成本与所有者收入差额相比，整篇又增加利润定义、两项反事实、所有权贡献批评和明确制度替代目标；可把目的格由未知提升为局部支持，但仍不能补出课程4-1-1-1的需要/对象化与公开批判实践。",
+      "neighbor_difference": "比普通工资不满更接近经济制度批判，但仍非4-1-1-1课程全套哲学经济批判；也不能因有方案就称其完成组织实践。",
+      "best_followup": "你主张的所有权改变由谁、通过什么集体行动实现，又怎样改变劳动者的需要和相互关系？",
+      "primary_scope": "马克思关于劳动、生产关系和实践的原典只对照特定局部问题，不证明该网友公式、反事实或工人/政府所有方案正确。",
+      "reason": "长文补充了理由和制度目标，仍没有完整课程码证据。"
+    }
+  ]
+}

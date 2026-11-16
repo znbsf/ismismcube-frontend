@@ -1,0 +1,92 @@
+{
+  "schema_version": "long-passages.1-initial-frozen",
+  "scope": "已联网核读两篇指定连续长段；依据全文而非提要，原句证据用极短锚点；非金标，不推断作者全体系。",
+  "items": [
+    {
+      "case_id": "LS01",
+      "source_url": "https://edge.v2ex.com/t/1231318",
+      "read_scope": "楼主第三节第65–70行，联网逐段核读；第71行以后不作为输入。",
+      "short_anchor_evidence": [
+        "记忆和经历的变化",
+        "连续的意识体验",
+        "梦里那个人"
+      ],
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "经验与自我连续性的邻近问题，未确认因果习惯机制"
+        },
+        {
+          "code": "3",
+          "status": "第一人称经验与身份的问题，未确认课程认识中介"
+        }
+      ],
+      "axes": {
+        "field": {
+          "status": "support_partial",
+          "explanation": "作者从年龄、记忆、睡眠和梦的经验讨论自我连续性；没有课程的经验与共同体秩序对立。"
+        },
+        "ontology": {
+          "status": "support_partial",
+          "explanation": "否定固定不变的个人，转以连续的意识体验解释同一感；没有说明经验背后实体的可知性。"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "借童年和梦的第一人称例子说明人如何认同自己；没有论证因果必然性的经验习惯或普遍有效的先验条件。"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "固定段落提出身份连续的问题，没有确立课程伦理或共同体目标；不能把后文永生目标偷带进来。"
+        }
+      },
+      "neighbor_boundary": "这不是费希特式自我设定，也不因记忆变化就等同休谟完整认识论；对意识连续的断言是作者立场，睡眠时意识中断处则以假设呈现。",
+      "followup": "为什么经验的连续感足以保证身份同一？相同记忆的两个副本又应如何区分？",
+      "primary_scope": "休谟《人类理解研究》习惯段只比较经验推断；费希特自我设定段不能替作者说明个人同一。",
+      "long_vs_short": "对比 round-03:S01，长段补出作者对睡眠中断及梦境的例子，并由‘自我会变’走到连续体验的正面判断；仍不证明因果习惯或完整格位。"
+    },
+    {
+      "case_id": "LS02",
+      "source_url": "https://www.v2ex.com/t/1096418",
+      "read_scope": "楼主正文第11–29行已联网逐段核读；第30行之后的更正和其他评论不作为输入。",
+      "short_anchor_evidence": [
+        "标准清晰可执行",
+        "数据分析",
+        "讨论空间"
+      ],
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "1-1-4",
+          "status": "可观察记录与实证比较的邻近方法，不是行为主义理论"
+        },
+        {
+          "code": "4",
+          "status": "现实制度与数据决策的局部问题，不等于课程实践总论"
+        }
+      ],
+      "axes": {
+        "field": {
+          "status": "support_partial",
+          "explanation": "把驾照资格、不同执行标准及驾驶风险置于现实制度场景；没有规定课程宇宙论。"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "以驾驶员体检与事故记录为分析对象，不主张行为是全部心理存在。"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "主张按有无特征分组比较记录，并让风险阈值接受讨论；统计关联只是其提议，不证明因果。"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "explanation": "旨在形成统一、可执行并由数据支持的驾驶资格政策，不等同课程的心理学目的格。"
+        }
+      },
+      "neighbor_boundary": "调查外在行为并非华生式以行为替代内省；政策性建议也不足以确立历史主体和理论实践总论。将正文用词与作者后来更正分开。",
+      "followup": "如何控制混杂因素并确定可接受的风险门槛，统计结果将如何改变政策？",
+      "primary_scope": "华生方法宣言只提供可观察研究的对照，不支持把交通政策论证归为行为主义；马克思实践文本也不能替它补历史主体。",
+      "long_vs_short": "较 round-03:S04，长段补出公平执行的制度前提、可能的寻租风险、分组指标及阈值讨论；这强化现实制度与经验推断的局部解释，不补成课程四格。"
+    }
+  ]
+}

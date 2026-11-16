@@ -1,0 +1,1558 @@
+{
+  "schema_version": "1.0",
+  "scope": "1/2字头首轮空数组的逐项检索与裁决；非空引证的薄弱对应另列",
+  "entries": [
+    {
+      "code": "1-3",
+      "file": "sol-tree.json",
+      "side": "pro",
+      "claim": "用“我”作现成秩序的中心，甚至把他人和世界说成自己的产物；行动可能围绕自我安排。课程称此为庸俗唯我论，不能从普通的自信或“我的世界”修辞直接推断。",
+      "candidates": [
+        {
+          "work": "The Ego and Its Own",
+          "locator": "opening 'All Things Are Nothing to Me' and Part II on own cause",
+          "url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm",
+          "finding": "斯蒂纳没有论证世界由我制造，也不等于课程所批评的粗俗唯我论；仅是自我中心主张的有限相邻原典。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "仅论自己的事业，不主张世界由我造。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "1-4",
+      "file": "sol-tree.json",
+      "side": "pro",
+      "claim": "把社会中现成的评价尺度当可直接使用的工具，遇到根本问题常以“不关我事”略过；这只是课程批评的姿态，不是对一般务实者的性格判定。",
+      "candidates": [
+        {
+          "work": "The Ego and His Own / Der Einzige und sein Eigentum",
+          "locator": "Opening section 'All Things are Nothing to Me', printed pp. 3–6",
+          "url": "https://www.gutenberg.org/files/34580/34580-h/34580-h.htm",
+          "finding": "施蒂纳主动拆解权威和价值形成，恰不支持课程该分支所批评的未经反思照用现成尺度；不能称他就是该类。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "主动反省权威，与未经反思沿用现成尺度相反。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "1-4-4",
+      "file": "sol-tree-B.json",
+      "side": "pro",
+      "claim": "在一些生活领域只按眼前便利和被允许的任性行动，不再追问世界、权威或自身欲望如何形成；课程描述的是局部立场结构，不是给任何人贴人格标签。",
+      "candidates": [
+        {
+          "work": "Max Stirner, The Ego and His Own",
+          "locator": "opening, 'I have set my cause upon nothing', pp. 3–6",
+          "url": "https://www.gutenberg.org/files/34580/34580-h/34580-h.htm",
+          "finding": "施蒂纳明确反省并拆解高于个人的权威，恰与本格不追问、沿用现成尺度的课程机制相反；只作为1-4总论局部比较。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-1-1-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "面对衰竭和消耗，把意义叙事降格为感觉层面的暂时经历。",
+      "candidates": [
+        {
+          "work": "Nietzsche, On the Genealogy of Morals",
+          "locator": "Third Essay §28",
+          "url": "https://www.gutenberg.org/files/52319/old/52319-h/52319-h.htm",
+          "finding": "谈苦难的无意义与禁欲理想的赋义，不主张把意义缩成暂时的感觉经历。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-1-3-2",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把想法和行为视作可在规则系统中竞争、变异的模式，期待新层次出现。",
+      "candidates": [
+        {
+          "work": "The Self as a Responding—and Responsible—Artifact",
+          "locator": "abstract and pp. 39–40, 46–47: competing processes, evolved self-monitoring and communication",
+          "url": "https://dl.tufts.edu/downloads/1831cw57f?filename=br86bf394.pdf",
+          "finding": "统一的自我可被解释为多种过程竞争后形成的有限协调；交往中对行动方案的监控与竞争在演化故事中产生。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-2-1-3",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "把全部可见经验贬作错觉，凭什么确认所称灵知没有同样误差？",
+      "candidates": [
+        {
+          "work": "An Enquiry Concerning Human Understanding",
+          "locator": "Section X, Part I, testimony and miracles",
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "finding": "特殊启示或见证也须接受与既有经验强度相称的证据权衡。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-2-1-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "从受苦的具体形象理解神与人的距离，重视叙事中的同在。",
+      "candidates": [
+        {
+          "work": "New Testament, Mark 15",
+          "locator": "Mark 15:33–39, crucifixion and death",
+          "url": "https://www.gutenberg.org/cache/epub/10/pg10-images.html",
+          "finding": "原叙事不直接证明课程关于从受苦理解神人距离的整个哲学解释；经文作者和历史核证另有争议。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "受难叙事没有论证课程所称模态位格一元论。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "1-2-2-2",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "将拆开的标志拼成神圣全貌，既依赖各片又相信整体高于片段。",
+      "candidates": [
+        {
+          "work": "Émile Durkheim, The Elementary Forms of the Religious Life",
+          "locator": "Book II, chapters I and VII, totem and collective representations",
+          "url": "https://www.gutenberg.org/files/41360/41360-h/41360-h.htm",
+          "finding": "图腾将符号、神圣与群体联系起来，但未提出先拆散标志再拼成一个神圣全貌的课程路径。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-2-2-3",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "对一件饰物或工具既看实际用途，也把共同记忆和保护力量寄托其上。",
+      "candidates": [
+        {
+          "work": "The Elementary Forms of Religious Life",
+          "locator": "Book II, chapter VII, totemic emblem as visible form of collective sacred force",
+          "url": "https://www.gutenberg.org/files/41360/41360-h/41360-h.htm",
+          "finding": "宗教物件可在群体生活中承载超出实用功能的神圣、保护和义务意义。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-2-4-1",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "面对不可控制的事，倾向接受它早有安排而减少挣扎。",
+      "candidates": [
+        {
+          "work": "Ethics",
+          "locator": "Part I, proposition 29",
+          "url": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm",
+          "finding": "主张事物的存在和行动由神/自然的必然性所定，不由偶然支配。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-2-4-4",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "爱的信任若变成任由对方支配，受伤者可能失去判断和退出能力。",
+      "candidates": [
+        {
+          "work": "Fundamental Principles of the Metaphysic of Morals",
+          "locator": "Second Section, humanity formula",
+          "url": "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm",
+          "finding": "理性者应作为目的被对待，不能仅作他人目的的工具；关系需要尊重其自主性。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-1-3",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "不满足于独自想通，愿把理由放进集体讨论和行动中检验。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Theses II–III on truth in practice and changing circumstances",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "把思想的真实性与共同实践、改变环境及自我改变联系起来。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-2-1",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "仅调心态可能轻视可改变的不公结构。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Thesis III, circumstances changed by people",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "强调环境与教育条件可由共同实践改变，不能把结构性困境只交给个人调心。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-2-3",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把爱情理解为使人自愿越过被迫角色的超越力量，让具体关系与更高的精神统一相接；普通照护并不足以推出这套宇宙图景。",
+      "candidates": [
+        {
+          "work": "Elements of the Philosophy of Right",
+          "locator": "§158 and Addition, love as unity with another",
+          "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prfamily.htm",
+          "finding": "爱情使自我在与他者的关系中理解自身，包含独立性与统一性的张力。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-3-2",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "条件、资源和运气影响能力，贵贱评价容易把困境道德化。",
+      "candidates": [
+        {
+          "work": "The Theory of Moral Sentiments",
+          "locator": "Part II, section III, chapter I, effect of fortune upon merit and demerit",
+          "url": "https://www.gutenberg.org/files/67363/old/67363-h/67363-h.htm",
+          "finding": "结果与运气改变人们对功过的评价，同样意图未必得到同样境遇。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-3-3",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "愿为一个被认为优秀的群体投入努力，同时严格划边界。",
+      "candidates": [
+        {
+          "work": "Beyond Good and Evil",
+          "locator": "§257, aristocratic society, distance and rank",
+          "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm",
+          "finding": "把等级距离与人类类型的提升相联，明确赞同价值和地位的高低差别。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-3-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "在关系受挫后可能想用一套性别偏见解释全部痛苦。",
+      "candidates": [
+        {
+          "work": "Nietzsche, Human, All-Too-Human, volume I",
+          "locator": "aphorisms on marriage and women, around pp. 309–310 of ebook",
+          "url": "https://www.gutenberg.org/files/51935/old/51935-h/51935-h.htm",
+          "finding": "有针对性别的概括，也谈婚姻失望；未论证一次关系受挫便应推出全体女性的贬抑，不能把两段拼接为作者论证。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-3-4-1",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "感到美与做得善并非同一回事，直觉仍可能偏私。",
+      "candidates": [
+        {
+          "work": "Critique of Judgement",
+          "locator": "Analytic of the Beautiful, §7–8, beauty versus good",
+          "url": "https://www.gutenberg.org/cache/epub/48433/pg48433-images.html",
+          "finding": "审美判断与关于善的概念判断不能直接等同。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-4-2",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "想象可能性不等于说明可行条件，随笔可停在自我感动。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Thesis II, practice as test of thought's reality and power",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "关于可行与真实的想象需经现实实践检验，不能只在观念里自我确认。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-3-4-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把审美化本身视为遮蔽破败与空洞的机制，主动在作品和生活中消解美与意义的目的；课程另有厌女限定，不能由一般去美化直接推出。",
+      "candidates": [
+        {
+          "work": "F. T. Marinetti, The Founding and Manifesto of Futurism",
+          "locator": "1909 manifesto, numbered theses 4, 7, 9–10 and museum passage",
+          "url": "https://www.italianfuturism.org/manifestos/foundingmanifesto/comment-page-2/",
+          "finding": "原文同时攻击旧博物馆与女权并表达蔑视女性，但赞颂速度之美和创造；是反旧审美，不是课程所说美与意义的虚无性全盘消解。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-3-4-4",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "反美化有其理由，但把一切意义取消会抹去受害者自己重建意义的权利。",
+      "candidates": [
+        {
+          "work": "A Doll's House",
+          "locator": "Act III, Nora and Helmer final conversation, printed pp. 106–110",
+          "url": "https://www.gutenberg.org/files/15492/15492-h/15492-h.htm",
+          "finding": "诺拉指出自己被当成玩偶，继而坚持自己理解生活、受教育与重新作决定的责任，提供受压者重建意义的文学反例。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-1-2",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把自然秩序里的高低类比到社会判断，认为高贵智慧的少数人比流俗大众更有资格定方向；专业知识与政治等级之间仍须另证。",
+      "candidates": [
+        {
+          "work": "Beyond Good and Evil",
+          "locator": "§257, aristocratic society, distance and rank",
+          "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm",
+          "finding": "把等级距离与人类类型的提升相联，明确赞同价值和地位的高低差别。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-1-3",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把精英和平与大众暴力设成两端，以沉默避免冲突升级并保存自然化的秩序；暂时倾听本身不是这种立场。",
+      "candidates": [
+        {
+          "work": "Nietzsche, Beyond Good and Evil",
+          "locator": "Part IX §257",
+          "url": "https://www.gutenberg.org/files/4363/4363-h/4363-h.htm",
+          "finding": "明确有贵族等级差和支配论，但没有以沉默避免大众暴力来维护精英和平这一目的格。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "1-4-1-4",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "揭露真实伤害不必推出一切意义尽毁，重建也需要具体行动。",
+      "candidates": [
+        {
+          "work": "Thus Spoke Zarathustra",
+          "locator": "Part I, 'The Way of the Creating One', companions creating new values",
+          "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm",
+          "finding": "在旧价值被批判后仍要求创造新价值，否定‘揭露即一切意义都须尽毁’的必然推论。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-2-3",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "以生态共同利益为名，也可能忽视地方知识与程序公平。",
+      "candidates": [
+        {
+          "work": "Design Principles of Robust Property Rights Institutions: What Have We Learned?",
+          "locator": "pp. 32–34 and 40, design principles 2–3 and collective choice discussion",
+          "url": "https://www.lincolninst.edu/app/uploads/2024/04/2076_1399_LP2008-ch02-Design-Principles-of-Robust-Property-Rights-Institutions_0.pdf",
+          "finding": "资源治理规则须适应地方生态与利益分配，并使受影响者参与修订；远方管理者可能不了解变化。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-2-4",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "同意与安全是实质条件，不能把反规训当免于责任。",
+      "candidates": [
+        {
+          "work": "On Liberty",
+          "locator": "Chapter I, liberty limited by harm to others",
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "finding": "自由行动必须正视对他人的伤害；反规训本身不能豁免安全与责任。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-3-2",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "在难言的心理生活中用正常/反常区分整理精神状态，倾向让这个界线支配自我评价和行动；它不是医学诊断，也不能据一句话判断某人健康。",
+      "candidates": [
+        {
+          "work": "The Ego and the Id",
+          "locator": "chapter III, analytic dissection of normal and abnormal phenomena",
+          "url": "https://www.gutenberg.org/files/79682/79682-h/79682-h.htm",
+          "finding": "将正常与异常心理现象放在同一分析框架，借自我、超我和本我区分精神冲突。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-3-3",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "爱欲解释若覆盖一切，会失去可被反驳的边界。",
+      "candidates": [
+        {
+          "work": "Conjectures and Refutations",
+          "locator": "chapter I, pp. 34–36, Freud/Adler confirmation example",
+          "url": "https://www.rosenfels.org/Popper.pdf",
+          "finding": "指出若相反行为都能用同一解释补救，临床确认就缺少区分力。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-3-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把自己放在他者欲望的问句里，越要猜出对方究竟想要什么，越难说清自己的愿望；这不是普通的沟通技巧问题。",
+      "candidates": [
+        {
+          "work": "The Subversion of the Subject and the Dialectic of Desire",
+          "locator": "Écrits English pp. 690 / 815, 'Che vuoi?' question",
+          "url": "https://studies.helsinki.fi/api/courses/cur/file/pub/system/files/attachments/2022-11/Lacan_subversion%20of%20Sthe%20subject.pdf?hmac=d0fe7aad1b9c40ce41b8fae1de40dfa9dd845960681b473fd4b59e4ee870dd7a",
+          "finding": "论述欲望与他者之欲的关系，以及‘他想从我这里得到什么’的主体提问。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-3-4",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "把对方欲望当谜，可能遮住明确的权利边界或实际沟通。",
+      "candidates": [
+        {
+          "work": "Fundamental Principles of the Metaphysic of Morals / Groundwork",
+          "locator": "Second Section, humanity formula and lying promise example, Akademie pagination not supplied in ebook",
+          "url": "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm",
+          "finding": "把他人当作独立目的意味着不能以对方无法同意的欺骗或侵权方式使用对方；明确同意与权利界限不能被‘欲望谜题’取代。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-4-1",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "搭便车会消耗共同设施所依赖的付出。",
+      "candidates": [
+        {
+          "work": "An Enquiry Concerning the Principles of Morals",
+          "locator": "Appendix III, two rowers/common convention passage",
+          "url": "https://www.gutenberg.org/files/4320/4320-h/4320-h.htm",
+          "finding": "共同事业需彼此履行责任，一人搭便车会使集体利益无法成立。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-4-3",
+      "file": "sol-tree-C1.json",
+      "side": "con",
+      "claim": "奖品可能只推迟面对挫败，也让非竞争合作失去价值。",
+      "candidates": [
+        {
+          "work": "The Support of Autonomy and the Control of Behavior",
+          "locator": "pp. 1026–27, 'Rewards' subsection",
+          "url": "https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf",
+          "finding": "总结受控奖励往往削弱对原活动的内在兴趣，但不同奖励结构效果有差别。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "1-4-4-4",
+      "file": "sol-tree-C1.json",
+      "side": "pro",
+      "claim": "把受伤后的认责需求转成报偿计算，甚至愿牺牲自己的资源来增加对方损失；复仇取代修复成为终点。",
+      "candidates": [
+        {
+          "work": "Human, All-Too-Human, Part II",
+          "locator": "'The Wanderer and His Shadow' §33, revenge of readjustment, pp. 213–215",
+          "url": "https://dev.gutenberg.org/files/37841/37841-h/37841-h.html",
+          "finding": "尼采是在分析复仇心理，并非提倡此课程的复仇目的，也不证明报偿计算的全部结构。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "作者分析复仇动机，不倡导以牺牲完成复仇。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "2-1-1-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "无界原则若只能从有限物反推，凭什么给出具体预测？",
+      "candidates": [
+        {
+          "work": "Physics",
+          "locator": "III.5, 204b–205a",
+          "url": "https://aristotle.johnhboyer.com/Phys/book/3/",
+          "finding": "质疑无限可感物体作为诸元素之外的共同本源，并要求说明其与有限元素共存。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-1-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把形态差异解释为同一气质的聚散，而不另设彼此无关的本源。",
+      "candidates": [
+        {
+          "work": "Presocratic testimonia on Anaximenes",
+          "locator": "Plutarch Strom. 3 / Aetius I.3, condensation and rarefaction testimonia",
+          "url": "https://adfonteslibrary.org/presocratics",
+          "finding": "保存以一气的疏密变化解释火、风、云、水、地等形态的古代报告。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-1-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "气的聚散若缺可量的判据，可能只是给变化重命名。",
+      "candidates": [
+        {
+          "work": "Metaphysics",
+          "locator": "I.8, 988b22–989a",
+          "url": "https://aristotle.johnhboyer.com/Meta/book/1/",
+          "finding": "单一物质元素说未解释运动原因、实体本质及元素间如何转化。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-1-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若努斯只在开端推动，后续秩序仍可能解释不清。",
+      "candidates": [
+        {
+          "work": "Metaphysics",
+          "locator": "I.4, 985a17–21",
+          "url": "https://aristotle.johnhboyer.com/Meta/book/1/",
+          "finding": "批评阿那克萨戈拉仅在解释无着时诉诸努斯，未一贯说明自然过程。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-2-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "守法若成绝对，也可能压住纠正不义制度的责任。",
+      "candidates": [
+        {
+          "work": "Apology",
+          "locator": "29c–30a",
+          "url": "https://adfonteslibrary.org/work-plato-apology",
+          "finding": "苏格拉底在城邦要求停止哲学时明确表示仍要继续，并将神命置于这种命令之上。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-2-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "离开具体经验谈形式，可能把少数人的标准冒充普遍善。",
+      "candidates": [
+        {
+          "work": "Parmenides",
+          "locator": "130e–133a",
+          "url": "https://adfonteslibrary.org/work-plato-parmenides",
+          "finding": "对分离理念如何由多个可感物共同分有提出整体/部分与相似性回归难题。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "所谓中道可能被既有权力当作不改变制度的借口。",
+      "candidates": [
+        {
+          "work": "Nicomachean Ethics",
+          "locator": "V.10, 1137a31–1138a3",
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.5.v.html",
+          "finding": "一般法则会漏掉特殊情形，需要公平判断来修正规则的过度概括。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-2-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "运动经验与多样现象难被一者完全消去。",
+      "candidates": [
+        {
+          "work": "Sophist",
+          "locator": "248e–249d",
+          "url": "https://adfonteslibrary.org/work-plato-sophist",
+          "finding": "拒绝把存在全说成静止，也拒绝全说成运动，要求两者均获位置。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "循环记忆不足时，何以知道同一灵魂经历了前次？",
+      "candidates": [
+        {
+          "work": "De Anima",
+          "locator": "I.3, 407b13–26",
+          "url": "https://aristotle.johnhboyer.com/DA/book/1/",
+          "finding": "批评灵魂可不顾身体条件而任意进入任何身体的毕达哥拉斯式说法。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "用原子运动解释复杂现象，又不满足机械重复能说尽方向。",
+      "candidates": [
+        {
+          "work": "Metaphysics",
+          "locator": "Book I.4, 985b4–20, testimony about full/void and shape/order/position",
+          "url": "https://aristotle.johnhboyer.com/Meta/book/1/",
+          "finding": "古代原子说借充实与虚空及形状、次序、位置解释复合物的差异，支持本格原子组合机制的一端。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若只能诉旋涡，一套空转力学也可能解释不了新性质。",
+      "candidates": [
+        {
+          "work": "Metaphysics",
+          "locator": "I.4, 985b4–20",
+          "url": "https://aristotle.johnhboyer.com/Meta/book/1/",
+          "finding": "指出原子形状、次序和位置的说明仍没有解释运动从何发生。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "随机偏转本身不等于自主决定。",
+      "candidates": [
+        {
+          "work": "De fato / On Fate",
+          "locator": "§§46–48, chapter 20",
+          "url": "https://en.mouseia.org/texts/cicero-fato/chapter-20",
+          "finding": "质疑无因偏转为何能生出自愿行动，而不只是另一个无法说明的运动。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "以少需要、可自足的生活挑战城邦体面。",
+      "candidates": [
+        {
+          "work": "Lives of Eminent Philosophers, Book VI",
+          "locator": "Book VI, Life of Diogenes, §§71–73 around public conduct and nature versus convention",
+          "url": "https://sourcebooks.fordham.edu/ancient/diogeneslaertius-book6-cynics.asp",
+          "finding": "保存第欧根尼以操练少需要、公开挑战习俗、重自由的古代记述。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "反惯例若变表演，也可能依赖观众和城市资源。",
+      "candidates": [
+        {
+          "work": "Discourses",
+          "locator": "III.22, opening cloak-and-staff passage",
+          "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus%3B_with_the_Encheiridion_and_Fragments/Book_3/Chapter_22",
+          "finding": "指出只穿斗篷、持杖、公开辱骂的外在表演不足以成为犬儒哲人。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-4-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "暂停理论判断不自动给出具体风险决断原则。",
+      "candidates": [
+        {
+          "work": "Sextus Empiricus, Outlines of Pyrrhonism",
+          "locator": "Book I, chapter XI, fourfold observance of everyday life",
+          "url": "https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus%2C%20Pyrrhonism.pdf",
+          "finding": "原文给出自然、感受、习俗与技艺作为行动指引，支持怀疑论者自己的实践回应；不能反转成他主张暂停判断必然缺风险准则。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "2-1-4-3",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "遇到新问题先翻旧例，期望把失去的秩序重新做出。",
+      "candidates": [
+        {
+          "work": "Nietzsche, On the Uses and Abuses of History for Life",
+          "locator": "Part III, antiquarian history, paragraphs on preserving homes and traditions and its limits",
+          "url": "https://web.viu.ca/johnstoi/nietzsche/history.htm",
+          "finding": "细述敬重并保存旧习俗的倾向，也说明它会排斥新生并僵化；没有主张把已失去的秩序按旧图复原，故只作邻近倾向与反面限制。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "2-1-4-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "记忆有选择性，旧方案也许造过今日想避免的问题。",
+      "candidates": [
+        {
+          "work": "On the Use and Abuse of History for Life",
+          "locator": "Part III, antiquarian history and its degeneration",
+          "url": "https://www.gutenberg.org/cache/epub/38226/pg38226-images.html",
+          "finding": "敬古可维系生活，但若把旧时代凝固为不可改变的模板，会窒息新的生活。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-4-4",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "看一项争论会换不同语法和尺度，不要求最终总评。",
+      "candidates": [
+        {
+          "work": "The Postmodern Condition: A Report on Knowledge",
+          "locator": "§3 'The Method: Language Games', pages in full book not verified from excerpt",
+          "url": "https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm",
+          "finding": "陈述、命令、提问等言语行为有不同规则和关系，不能简单由一个总尺度替代其差别。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-1-4-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若分析永不相接，公共决定仍可能落给权力而非理由。",
+      "candidates": [
+        {
+          "work": "Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension?",
+          "locator": "pp. 411–414, institutional design and public deliberation",
+          "url": "https://www.mit.edu/~shaslang/mprg/HabermasPCMS.pdf",
+          "finding": "不同话语仍需借平等参与、公开论证和制度反馈形成共同可追责的公共决断；若没有桥接，决定可能退回权力。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "跨生同一性若说不清，责任可能落在并非同一者身上。",
+      "candidates": [
+        {
+          "work": "The Questions of King Milinda",
+          "locator": "Book III, Chapter 5, questions 5 and 7, printed pp. 111–112",
+          "url": "https://obo.genaud.net/dhamma-vinaya/pts/miln/miln.09.rhyt.pts.htm",
+          "finding": "弥兰陀王明确追问无实体迁移却有再生时，后身为何仍担先前行为的责任。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "面对变化，试图保住过去和未来不只是全无，以解释因果与记忆。",
+      "candidates": [
+        {
+          "work": "Abhidharmakośabhāṣya",
+          "locator": "Chapter V, discussion of existence of past and future dharmas, PDF pp. 63–70",
+          "url": "https://lukashevichus.site/knigi/Vasubandhu%20Abhidharma%20ValleePoussin%20Pruden%203.pdf",
+          "finding": "有部论证过去与未来法必须在某种意义上存在，才可解释记忆、业果和因果关联。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-3",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "解释习惯的后效时，不把看不见的原因等同不存在。",
+      "candidates": [
+        {
+          "work": "Abhidharmakośabhāṣya",
+          "locator": "Chapter V, seed discussion, PDF pp. 26–27",
+          "url": "https://lukashevichus.site/knigi/Vasubandhu%20Abhidharma%20ValleePoussin%20Pruden%203.pdf",
+          "finding": "以种子为从既往烦恼和行为留下的能力，解释后来效果；借记忆和稻种作比。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "种子若对每种后来结果都能追认，会难以被检验。",
+      "candidates": [
+        {
+          "work": "The Questions of King Milinda",
+          "locator": "Book III, Chapter 5, question 8, printed p. 112–113",
+          "url": "https://obo.genaud.net/dhamma-vinaya/pts/miln/miln.09.rhyt.pts.htm",
+          "finding": "弥兰陀王追问已造之业能否指出位置；这提出把过去业当解释时可辨认性的难题。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-4",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把经历理解为心识内部的多层显现，却可能让可公共检验的行动退位。",
+      "candidates": [
+        {
+          "work": "Laṅkāvatāra Sūtra",
+          "locator": "Chapter II, discussion of wrong discrimination, pp. 150–151; Sagāthakam vv. 32–33",
+          "url": "https://kinhsach.chuakhainguyen.com/Books/T16n0670/The%20Lankavatara%20Sutra%20(Suzuki)/lanka-nondiacritical.htm",
+          "finding": "把外境的多样性说成心之显现，并讨论对象与认识的二分如何生起。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-1-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "内在三分若代替外部校验，误认会更难纠正。",
+      "candidates": [
+        {
+          "work": "Laṅkāvatāra Sūtra",
+          "locator": "Sagāthakam vv. 563–565",
+          "url": "https://kinhsach.chuakhainguyen.com/Books/T16n0670/The%20Lankavatara%20Sutra%20(Suzuki)/lanka-nondiacritical.htm",
+          "finding": "经文呈现反问：若无外境，心如何无所缘而起；随后以真如、唯心回应。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-2-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "把任何事后效果都说成‘适时介入’会让原则无法反驳。",
+      "candidates": [
+        {
+          "work": "非命上",
+          "locator": "篇首‘言必有三表’至‘观其中国家百姓人民之利’",
+          "url": "https://zh.wikisource.org/zh-hant/%E5%A2%A8%E5%AD%90/%E9%9D%9E%E5%91%BD%E4%B8%8A",
+          "finding": "主张言说要接受历史、耳目经验和公共利益三类检验，不能仅靠事后圆说。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "对宏大治理口号保持距离，问活着的人怎样得食、怎样承受死亡。",
+      "candidates": [
+        {
+          "work": "《列子·杨朱》",
+          "locator": "《杨朱》原文：杨朱论原宪、子贡贫富与‘乐生／逸身’段",
+          "url": "https://www.kxue.com/gushi/guwen/521620.html",
+          "finding": "把身体现实与活着的快乐置于贫富名声口号之前，可供课程此格的现实生命关切作局部对照。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "只诉自然欲望可能忽略需要协调和公平的公共制度。",
+      "candidates": [
+        {
+          "work": "礼论篇",
+          "locator": "篇首‘礼起于何也’至‘制礼义以分之’",
+          "url": "https://zh.wikisource.org/zh-hant/%E8%8D%80%E5%AD%90/%E7%A6%AE%E8%AB%96%E7%AF%87",
+          "finding": "欲望、物资与争夺之间需有礼义分配和协调，单凭自然欲求不足以组织公共生活。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-2-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "没有固定操守也可能变成不负责任的机会主义。",
+      "candidates": [
+        {
+          "work": "兼爱中",
+          "locator": "‘以兼相爱、交相利之法易之’及上下段",
+          "url": "https://zh.wikisource.org/zh-hant/%E5%A2%A8%E5%AD%90/%E5%85%BC%E6%84%9B%E4%B8%AD",
+          "finding": "提出以相爱互利改变相害局面，强调可见的行动与制度倡导。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把历史变动读作周期重组，而不把一次局势当永恒。",
+      "candidates": [
+        {
+          "work": "《周易·系辞上传》",
+          "locator": "第五章，一阴一阳／日新／生生／通变诸句",
+          "url": "https://www.zggdwx.com/zhouyi/69.html",
+          "finding": "阴阳交替、日新、生生与通变被并置，可作为变化中有连续性的局部正方依据。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "周期解释若事后套用，何时都能说‘又到这一阶段’。",
+      "candidates": [
+        {
+          "work": "On the Use and Abuse of History for Life",
+          "locator": "Part II, monumental history, printed pp. 19–21",
+          "url": "https://www.gutenberg.org/cache/epub/38226/pg38226-images.html",
+          "finding": "把过去事件强配成会重演的固定范式，会省略动机与条件差异，形成事后套用的虚假类比。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-3-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "超灵若吞没个体，有限者的不同经验会被抹平。",
+      "candidates": [
+        {
+          "work": "A Pluralistic Universe",
+          "locator": "Lectures 2 and 8, critique of all-inclusive absolute and pluralistic universe",
+          "url": "https://www.globalgreyebooks.com/online-ebooks/william-james_pluralistic-universe_complete-text.html",
+          "finding": "诸部分可相关而保留外部与自主性，绝对整体若吞没个体差异会丢失有限经验。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "遭逢难以归类的创伤，会让诗的节奏与意象重新组织关系，而不强说一切好转。",
+      "candidates": [
+        {
+          "work": "When Lilacs Last in the Dooryard Bloom'd",
+          "locator": "Sections 1–3 and 14–16, mourning, bird song, and retained memory",
+          "url": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm",
+          "finding": "这是一首诗的具体实践，不是诗性本体论证明；不能把诗中某一词直接等同课程整格。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "诗歌实践表达哀悼，不能直接支持诗性形而上学或死亡驱力承诺。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "2-2-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "诗性重写也可能美化痛苦、遮住需要物质援助的人。",
+      "candidates": [
+        {
+          "work": "Republic",
+          "locator": "X, 605–606",
+          "url": "https://www.gutenberg.org/files/55201/55201-h/55201-h.htm",
+          "finding": "质疑诗的摹仿会强化哀痛而削弱理性节制。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-4-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "去结构化若被理解为否认现实伤害，受苦者可能被要求忍耐。",
+      "candidates": [
+        {
+          "work": "兼爱中",
+          "locator": "‘以兼相爱、交相利之法易之’及上下段",
+          "url": "https://zh.wikisource.org/zh-hant/%E5%A2%A8%E5%AD%90/%E5%85%BC%E6%84%9B%E4%B8%AD",
+          "finding": "提出以相爱互利改变相害局面，强调可见的行动与制度倡导。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-4-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "公共团结若只是我们之间的修辞，陌生人为何也应被纳入？",
+      "candidates": [
+        {
+          "work": "Fundamental Principles of the Metaphysic of Morals",
+          "locator": "Second Section, humanity formula, every rational being as end",
+          "url": "https://www.gutenberg.org/files/5682/5682-h/5682-h.htm",
+          "finding": "尊重义务及于每个理性者，不只限于已有共同体的‘我们’。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-2-4-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "撤掉总标准可能使强势话语不受追问。",
+      "candidates": [
+        {
+          "work": "正名篇",
+          "locator": "‘名定而实辨’至‘约定俗成谓之宜’",
+          "url": "https://zh.wikisource.org/zh-hant/%E8%8D%80%E5%AD%90/%E6%AD%A3%E5%90%8D%E7%AF%87",
+          "finding": "共享名称使异同可辨、意思可通，约定的名称并非全无公共作用。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-1-1",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "在有限知识里承认更大秩序，持续修正而不宣称已握住无限。",
+      "candidates": [
+        {
+          "work": "Critique of Pure Reason",
+          "locator": "Transcendental Dialectic, Appendix, regulative use of ideas (A672–704/B700–732; exact pagination of this translation not verified)",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "finding": "理性的系统统一是指导经验研究的目标，沿经验前进可逐渐接近而不能完成。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-1-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "不断趋近若无判据，可能只是无限推迟检验。",
+      "candidates": [
+        {
+          "work": "Critique of Pure Reason",
+          "locator": "Transcendental Dialectic, Appendix, inactive/perverted reason discussion",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "finding": "把规约理念实体化会停止对经验原因的调查；理论追求不能免于经验检验。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-1-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把宇宙运动看成通往一条不动法则的路径。",
+      "candidates": [
+        {
+          "work": "Philosophiae Naturalis Principia Mathematica",
+          "locator": "Axioms or Laws of Motion, Laws I–III, printed pp. 19–21",
+          "url": "https://emend.press/principia.html",
+          "finding": "运动定律不证明所有现实具有永恒不变的形而上秩序；近代物理适用范围也有边界。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "运动定律不支持以我思连接星体/生命及无限前进而终归静止的课程图景。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "2-3-1-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "理解原因并不等于有能力改变压迫条件。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Theses I–III, especially III on changed circumstances and human activity",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "人可以在实践中改变环境和教育条件，寻找原因并不等于接受现状。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-1-4",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把分离看成统一显现的必要环节，不把差异当偶然错误。",
+      "candidates": [
+        {
+          "work": "Science of Logic",
+          "locator": "Book II, Doctrine of Essence, Chapter II, Remark 3, §§955–958",
+          "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hl431.htm",
+          "finding": "同一与差异的对立并非偶然并列，矛盾可被理解为内在运动的契机。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-1-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "把三分套到任何事物，会让概念失去排除力。",
+      "candidates": [
+        {
+          "work": "The Poverty of Philosophy",
+          "locator": "Chapter II, section 1, critique of Proudhon's absolute method and thesis–antithesis–synthesis formula",
+          "url": "https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02.htm",
+          "finding": "把经济关系换成自动套用的三段逻辑，可能丢掉对象的具体历史关系。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-2-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "把完满推到死后，可能低估今生受苦和制度责任。",
+      "candidates": [
+        {
+          "work": "Dialogues Concerning Natural Religion",
+          "locator": "Part X, Philo's question about misery and divine benevolence",
+          "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+          "finding": "指出现实苦难与全能、全善的神性相容性需要论证。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-2-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "不可说若用来拒绝说明伤害，会让权威难以追问。",
+      "candidates": [
+        {
+          "work": "The Varieties of Religious Experience",
+          "locator": "Lectures XVI–XVII, conclusion on mystical states",
+          "url": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+          "finding": "神秘体验单凭其神秘性不自带公共权威，只能提出值得考虑的假说。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "只诉内心信仰可能使公共责任变得不可见。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Thesis VI, human essence as ensemble of social relations",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "人的现实生活嵌在社会关系中，单诉内心信仰不足以说明共同责任。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若一切预先协调，祈求和道德责任会失去实际改变力。",
+      "candidates": [
+        {
+          "work": "Leibniz, Theodicy",
+          "locator": "sections discussing pre-established harmony, prayer and freedom",
+          "url": "https://www.gutenberg.org/cache/epub/17147/pg17147-images.html",
+          "finding": "作者反而辩护预定秩序与祈祷、善行及自由的相容性，不能当作他提出的独立反方。"
+        },
+        {
+          "work": "Voltaire, Candide",
+          "locator": "final chapter and Pangloss's discussion of pre-established harmony",
+          "url": "https://emend.press/candide.html",
+          "finding": "以灾难和劳动讽刺最善世界，但没有直接推出本条所写‘祈求与道德责任失去改变力’的组合反诘。"
+        }
+      ],
+      "decision": "retained_gap_after_primary_check",
+      "reason": "所核原段未支持本节点该侧的具体命题；保留来源空缺，不以相邻立场或作者名补位。"
+    },
+    {
+      "code": "2-3-3-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "形式化可能删去语境中最要紧的意图和权力差别。",
+      "candidates": [
+        {
+          "work": "Our Knowledge of the External World",
+          "locator": "Lecture IV, atomic propositions and logical form; remark on first acquisition of atomic facts",
+          "url": "https://www.gutenberg.org/files/37090/37090-h/37090-h.htm",
+          "finding": "即使重视逻辑形式，最初取得事实知识也不能只靠逻辑。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "痛苦不一定来自意志本身，也可能来自可改变的制度。",
+      "candidates": [
+        {
+          "work": "The German Ideology",
+          "locator": "Part I, 'First Premises of Materialist Method' and division of labour section",
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+          "finding": "现实个体在具体物质和社会条件中生活；困境不能一律归给无时间性的意志本身。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-4-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "能称量的不是世界全部性质，生命和意义不能只按重力表排序。",
+      "candidates": [
+        {
+          "work": "Creative Evolution",
+          "locator": "Chapter I, mechanism, duration and mathematical treatment of life",
+          "url": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm",
+          "finding": "论证生命历程的生成性不能直接穷尽于物理量的数学处理。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-4-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "见到系统退化，会寻找维持稳定的作用力并设计检验。",
+      "candidates": [
+        {
+          "work": "Opticks, Third Book",
+          "locator": "Book III, Part I, Query 31, printed pp. 373–376",
+          "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00051",
+          "finding": "牛顿认为摩擦等使运动衰减，因而提出维持和补充运动的主动原理；可支持秩序维持问题的局部起点。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-3-4-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "物理空间平等不自动推出政治平等。",
+      "candidates": [
+        {
+          "work": "Second Treatise of Government",
+          "locator": "Chapter VIII §95, consent to political power",
+          "url": "https://www.gutenberg.org/files/7370/7370-h/7370-h",
+          "finding": "政治权力的正当性要论证自由平等者的同意，不从物理空间同质性直接推出。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-1-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若所有实体只是推测，持久对象的公共检验如何成立？",
+      "candidates": [
+        {
+          "work": "An Essay Concerning Human Understanding",
+          "locator": "IV.xi §§1–3, sensation and existence of other things",
+          "url": "https://www.gutenberg.org/cache/epub/10616/pg10616.html.utf8",
+          "finding": "借实际感官作用论证外部对象的存在可有知识地位，而非只悬为实体推测。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-1-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "若外部世界可直接把握，为什么还需借神学保证来推出它？",
+      "candidates": [
+        {
+          "work": "An Enquiry Concerning Human Understanding",
+          "locator": "Section XII, Part I, external world and argument for God",
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "finding": "指出一旦外在世界的证据受怀疑，凭外物推出神及其属性的论证也受牵连。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-1-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "同情有亲疏偏差，不能直接替代公共公正原则。",
+      "candidates": [
+        {
+          "work": "The Theory of Moral Sentiments",
+          "locator": "Part III, chapter 3, impartial spectator and correction of self-love",
+          "url": "https://www.gutenberg.org/files/67363/old/67363-h/67363-h.htm",
+          "finding": "同情和自爱会偏斜判断，需要借公正旁观者观点校正。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-2-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "统计上的规律不能替代个人讲述，也可能把现有约束合理化。",
+      "candidates": [
+        {
+          "work": "The Theory of Social and Economic Organization",
+          "locator": "The Fundamental Concepts of Sociology, §1, social action and subjective meaning",
+          "url": "https://wiswo.org/books/_resources/book-reference-pdfs/Weber-1947-The%20Theory%20of%20Social%20and%20Economic%20Organization.pdf",
+          "finding": "社会行动的解释需要把行动者赋予的意义纳入，而不能只给外在规律。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "把自然和社会变化放进分化、整合及解离的长程图景。",
+      "candidates": [
+        {
+          "work": "First Principles",
+          "locator": "Part II, §§97–99 and §§143–145 on integration, differentiation and dissolution",
+          "url": "https://www.gutenberg.org/cache/epub/55046/pg55046-images.html",
+          "finding": "把多类变化纳入物质整合、分化与解离的演化图式。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-2-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "把一切历史归入进化，可能遮蔽偶然与制度责任。",
+      "candidates": [
+        {
+          "work": "Memories and Studies",
+          "locator": "essay 'Herbert Spencer', critique of mechanical evolution formula",
+          "url": "https://www.gutenberg.org/cache/epub/20768/pg20768-images.html",
+          "finding": "批评把物质整合公式无差别推广到生命、心理与社会历史。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-2-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "把生存当唯一目的可能削弱自由、尊严和长远生态。",
+      "candidates": [
+        {
+          "work": "On Liberty",
+          "locator": "Chapter III, experiments of living and harm to others",
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "finding": "个人应有生活实验空间，止于伤害他人，生存效率不能直接穷尽人生选择。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "先约定怎样描述同一经验，让不同人的记录能相互核对。",
+      "candidates": [
+        {
+          "work": "Psychology in Physical Language",
+          "locator": "§6 opening, protocol and physical language intertranslation",
+          "url": "https://web.stanford.edu/~paulsko/papers/Carn.pdf",
+          "finding": "主张将个人记录译入可主体间通用的物理语言，以便科学陈述互相核对。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-3-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "共识可能来自压低少数人的表达方式。",
+      "candidates": [
+        {
+          "work": "On Liberty",
+          "locator": "Chapter II, liberty of thought and discussion; Chapter III, experiments of living",
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "finding": "多数人的既成共识可能压制少数异议；公共讨论要保留不同意见的可表达性。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-3-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "可观察表现相同，不保证感受或理由相同。",
+      "candidates": [
+        {
+          "work": "Troubles with Functionalism",
+          "locator": "Part II, absent qualia / homunculi headed system argument, around p. 278",
+          "url": "https://home.csulb.edu/~cwallis/382/readings/482/block.troubles%20with%20functionalism.pdf",
+          "finding": "功能或行为组织相同仍可能缺少主观感质，这构成同表现推出同体验的反问。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-3-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "仅求简单可能丢掉关键真实结构。",
+      "candidates": [
+        {
+          "work": "Two Dogmas of Empiricism",
+          "locator": "§6, empirical field/web of belief and simplicity of laws",
+          "url": "https://ditext.com/quine/quine.html",
+          "finding": "简单性只是理论调整的一项考虑，整体信念网络还须与经验保持联系，不能仅求简而任意裁去事实关联。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-4-1",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "功效可能被少数受益者定义，从而掩盖代价。",
+      "candidates": [
+        {
+          "work": "Utilitarianism",
+          "locator": "Chapter V, justice and equality of each person's happiness",
+          "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+          "finding": "即便以效用为标准，仍须等量考虑每个人的幸福，不能让少数受益者垄断何为有效。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-4-2",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "借辩证和物质语言组织研究，却要警惕行政权把结论预先定好。",
+      "candidates": [
+        {
+          "work": "Dialectical and Historical Materialism",
+          "locator": "sections 1–2, dialectical method and materialist conception; section 3 on historical materialism",
+          "url": "https://www.marxists.org/reference/archive/stalin/works/1938/09.htm",
+          "finding": "将物质运动、相互联系与社会思想和物质生活的关系组织成官方辩证唯物主义论述。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-4-2",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "如果方法被权力垄断，反例很难进入体系。",
+      "candidates": [
+        {
+          "work": "On Practice",
+          "locator": "opening note and conclusion on practice as truth criterion",
+          "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm",
+          "finding": "在马克思主义内部明确反对摘句教条，要求计划经实际实践检验和修改。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-4-3",
+      "file": "sol-tree-C2.json",
+      "side": "pro",
+      "claim": "知道公共讨论离不开名称，却不把名称当事物本身。",
+      "candidates": [
+        {
+          "work": "正名篇",
+          "locator": "‘名无固宜，约之以命’及‘名定而实辨’",
+          "url": "https://zh.wikisource.org/zh-hant/%E8%8D%80%E5%AD%90/%E6%AD%A3%E5%90%8D%E7%AF%87",
+          "finding": "荀子并非现代符号实用主义者；只是对公共命名机制的局部古典比较。"
+        }
+      ],
+      "decision": "retained_positive_gap_comparison_only",
+      "reason": "约定名称的辨别作用不支持以大名称锚定科学与意识形态的承诺。 保留已核原段于 comparison_sources，正方数组恢复空缺。"
+    },
+    {
+      "code": "2-4-4-3",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "大名称可能把权力关系伪装成自然事实。",
+      "candidates": [
+        {
+          "work": "The German Ideology",
+          "locator": "Part I, 'Ruling Class and Ruling Ideas'",
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+          "finding": "主导思想的生产和传播与掌握物质、精神生产手段的阶级相关，抽象大名称可能遮蔽这种关系。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    },
+    {
+      "code": "2-4-4-4",
+      "file": "sol-tree-C2.json",
+      "side": "con",
+      "claim": "解脱若只属个人体验，制度中的差别仍可能继续。",
+      "candidates": [
+        {
+          "work": "Theses on Feuerbach",
+          "locator": "Thesis XI, concluding sentence",
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+          "finding": "仅作个人解脱的解释并不替代对现实关系的改变。"
+        }
+      ],
+      "decision": "filled_partial_primary"
+    }
+  ]
+}

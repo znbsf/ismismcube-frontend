@@ -1,0 +1,33 @@
+{
+  "schema_version": "round-04.adjudication.1",
+  "scope": "两份独立初判保持冻结；互审后另记可确认的证据状态或归码错误。",
+  "reviewed_files": [
+    "sol-evaluation.json",
+    "terra-evaluation.json"
+  ],
+  "reviewed_axis_count": 64,
+  "adjudications": [],
+  "audit_conclusion": "互审未发现可证实错误归码，亦未发现将缺失证据误记为反证。空列表不是准确率结论；输入无独立金标。",
+  "transcription_corrections": [
+    {
+      "case_id": "S08",
+      "files": [
+        "sol-inputs.json",
+        "terra-evaluation.json"
+      ],
+      "before": "Yes, many people can change the way they see you. However,",
+      "after": "Yes, many people can change the way they see you\n\nHowever,",
+      "reason": "Source page has a paragraph break without a period; only copied punctuation was corrected after freeze. Axis judgments and decisions remain unchanged."
+    },
+    {
+      "case_id": "S08",
+      "files": [
+        "sol-inputs.json",
+        "terra-evaluation.json"
+      ],
+      "before": "open-minded. Real life example:",
+      "after": "open-minded\nReal life example:",
+      "reason": "Source page has a line break without a period; only copied punctuation was corrected after freeze. Axis judgments and decisions remain unchanged."
+    }
+  ]
+}

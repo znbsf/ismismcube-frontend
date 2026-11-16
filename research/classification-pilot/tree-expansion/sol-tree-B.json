@@ -1,0 +1,3794 @@
+{
+  "schema_version": "tree-expansion-B.1",
+  "scope": "1/2字头三级32节点；课程格位依原库，原典局部对照与讲者解释严格分开；未重核原音与短码目的格。",
+  "nodes": [
+    {
+      "code": "1-1-1",
+      "name": "物理主义",
+      "depth": 3,
+      "parent": "1-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89/0004_1-1-1_%E7%89%A9%E7%90%86%E4%B8%BB%E4%B9%89_p44.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Yf4y1w775",
+        "axis_locator": [
+          "public/ism.json[1-1-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：科学化的宇宙(秩序网格)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：物理学秩序的实在"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：物理学秩序的表象化"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-1-1｜物理主义",
+        "portrait": "把世界想成可由物理模型完整读出的秩序；做决定时优先寻求可测量量和可复算的预测。课程更强地把模型与世界本身合一，不能把任何使用模型的人都归到这里。",
+        "core_commitments": [
+          "物理学秩序具有实在性",
+          "科学模型可主导其他话语的解释权"
+        ],
+        "problem_conflict": "运动、生命和感知表面上各有规律；能否用同一可检验的物理秩序解释并预测它们？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙像由可计算规则排成的网格"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "物理学的秩序被当成对象本身"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "借模型认识对象，极端处把模型与世界等同"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我先把病房环境、睡眠和疼痛量化，看看模型能否预测。若模型一直有效，我会怀疑那些无法入模的描述只是噪声。"
+        },
+        "strong_opponent": {
+          "argument": "休谟会问：反复成功为何保证下一次或保证规律就是物自身？",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "模型的可检验性仍值得保留；越强的本体宣称越需要说明失败条件。",
+          "fair_reply": "模型的可检验性仍值得保留；越强的本体宣称越需要说明失败条件。"
+        },
+        "internal_tension": "成功预测能证明模型适用，却未自动证明模型穷尽现实。",
+        "dialectical_assessment": "承认物理模型强大；把“可预测”到“模型即世界”列作额外待论证的跳跃。",
+        "self_questions": [
+          "你认为有效模型之外可能还有真实却暂未测到的现象吗？",
+          "什么观测会让你修改模型？"
+        ],
+        "neighbor_distinction": "同父1-1-2追问知识的社会生产；1-1-3专问意识与认知结构；1-1-4把行为观察升为心理学方法。"
+      },
+      "pro_sources": [
+        {
+          "author": "Isaac Newton",
+          "work": "Principia, General Scholium",
+          "version": "第三版1726；Andrew Motte 1729英译",
+          "locator": "总释开头行星、彗星和数学秩序段",
+          "url": "https://isaacnewton.ca/wp-content/uploads/2013/06/newton-general-scholium-1729-english-text-by-motte-letter-size.pdf",
+          "read_scope": "PDF第1–2页；同节还谈上帝",
+          "supports": "天体运动可经数学关系研究",
+          "limits": "牛顿还讨论神；他并未说模型就是全部世界",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "习惯与经验不足以逻辑保证因果必然",
+          "limits": "不否认自然科学的实用预测",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "1-1-2",
+      "name": "建构论",
+      "depth": 3,
+      "parent": "1-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA/0009_1-1-2_%E5%BB%BA%E6%9E%84%E8%AE%BA_p198.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1ef4y1w7Dn",
+        "axis_locator": [
+          "public/ism.json[1-1-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：科学化的宇宙(穿透力有限)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：秩序化的物质"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：自然的科学与社会学的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-1-2｜建构论",
+        "portrait": "相信自然研究必须有严格方法，也留意知识如何被机构、术语和共同体塑造；遇到争议会检查谁设计指标、谁有资格发言。",
+        "core_commitments": [
+          "不存在脱离历史与社会关系的纯中立知识",
+          "需要心理与社会层面的校正，但不能只靠权力怀疑"
+        ],
+        "problem_conflict": "科学追求公共有效性，研究过程却受人和制度塑形；如何在承认处境后仍保留可纠错的知识？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "科学化的宇宙仍是共同背景，但穿透力有限"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "研究对象是有秩序的物质"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "把自然科学与社会学的知识条件并置"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这份空气质量数据值得看，但采样点为什么只在中心城区？我想先查设计过程，再决定结论能覆盖谁。"
+        },
+        "strong_opponent": {
+          "argument": "牛顿式反方强调：轨道预测能跨研究者复现，知识的社会来历并不取消对象对错误的约束。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "社会分析应找具体偏差与修正方法；可复核的外部结果仍是检验。",
+          "fair_reply": "社会分析应找具体偏差与修正方法；可复核的外部结果仍是检验。"
+        },
+        "internal_tension": "若一切证据都被解释为立场产物，凭什么认定自己的纠偏更可靠？",
+        "dialectical_assessment": "把社会条件当成误差来源和认识对象，而非用“建构”一词否定所有事实。",
+        "self_questions": [
+          "换一组研究者后哪些结论仍可复现？",
+          "你能指出哪项制度条件改变了结论吗？"
+        ],
+        "neighbor_distinction": "同父1-1-1把物理模型提升到实在；1-1-3追认知硬件；1-1-4优先可观察行为。"
+      },
+      "pro_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "1781/1787原著；J. M. D. Meiklejohn英译，Gutenberg",
+          "locator": "第二版序言，经验对象与认识条件",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "B版序言；不等同社会学建构论",
+          "supports": "对象经验受认识条件约束的局部对照",
+          "limits": "康德不是社会学知识建构论，课程社会制度主张尚缺匹配原典",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Isaac Newton",
+          "work": "Principia, General Scholium",
+          "version": "第三版1726；Andrew Motte 1729英译",
+          "locator": "总释开头行星、彗星和数学秩序段",
+          "url": "https://isaacnewton.ca/wp-content/uploads/2013/06/newton-general-scholium-1729-english-text-by-motte-letter-size.pdf",
+          "read_scope": "PDF第1–2页；同节还谈上帝",
+          "supports": "跨观察者的数学预测有对象约束",
+          "limits": "不证明知识生产不受社会关系影响",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 尚缺直接论述课程科学/社会学对立及知识合法化机制的一手代表文本。"
+      }
+    },
+    {
+      "code": "1-1-3",
+      "name": "认知主义",
+      "depth": 3,
+      "parent": "1-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89/0014_1-1-3_%E8%AE%A4%E7%9F%A5%E4%B8%BB%E4%B9%89_p296.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1A341117V6",
+        "axis_locator": [
+          "public/ism.json[1-1-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：科学化的宇宙"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：物质、基础、基质、硬件"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：人的意识、人的心灵结构、人的大脑"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-1-3｜认知主义",
+        "portrait": "把心灵当作自然世界中的复杂结构来研究；不仅问神经元，还问认知组织和环境怎样共同产生注意、记忆与经验。",
+        "core_commitments": [
+          "意识不是脱离物质的孤岛",
+          "心智有结构，可通过实验和模型研究"
+        ],
+        "problem_conflict": "若心灵依赖物质，怎样解释它具有相对独立的组织层次，并使研究不把体验直接抹去？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "在科学化宇宙中研究心"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "物质基质、身体和硬件提供条件"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "脑与认知结构成为认识心的直接入口"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】同一个提醒声音让不同人作出不同反应。我会同时记录神经活动、任务规则和过往学习，看看这些层怎样共同作用。"
+        },
+        "strong_opponent": {
+          "argument": "詹姆斯指出意识流连续、选择且从内部被经历；把它拆成输入输出可能丢失要解释的对象。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "模型可以把第一人称报告当作数据，检验物质与认知结构的关系。",
+          "fair_reply": "模型可以把第一人称报告当作数据，检验物质与认知结构的关系。"
+        },
+        "internal_tension": "说明脑机制与成功预测，是否已说明“感受到什么”？",
+        "dialectical_assessment": "研究心的自然条件有成果；体验是否被机制解释尽须作为公开难题。",
+        "self_questions": [
+          "你的解释允许不同认知结构在相同刺激下得出不同体验吗？",
+          "主观报告在研究中算哪类证据？"
+        ],
+        "neighbor_distinction": "同父1-1-1把世界模型整体实在化；1-1-4原则上排除内省；1-1-2焦点在知识社会条件。"
+      },
+      "pro_sources": [
+        {
+          "author": "George A. Miller",
+          "work": "The Magical Number Seven, Plus or Minus Two",
+          "version": "Psychological Review 63 (1956), 81–97；York原文转录",
+          "locator": "开篇及 Information Measurement，输入、输出、信息处理实验",
+          "url": "https://psychclassics.yorku.ca/Miller/",
+          "read_scope": "网页第12–35行；仅支持认知过程的实验与信息结构，不证明体验可被模型穷尽",
+          "supports": "用信息处理与实验量化研究人的认知能力",
+          "limits": "不证明意识体验能被模型穷尽，也不支持课程全部社会/软件层次",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "William James",
+          "work": "The Principles of Psychology",
+          "version": "1890英文原著，York转录",
+          "locator": "第九章 The Stream of Thought 开头及五特征",
+          "url": "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+          "read_scope": "网页第15–31行",
+          "supports": "意识流与个人经验不可被简单感觉原子替代",
+          "limits": "詹姆斯不否定心理学自然研究",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "米勒支持认知实验与信息结构局部；课程物理、认知、社会三层机制与AI设想未在此原典证明。"
+      }
+    },
+    {
+      "code": "1-1-4",
+      "name": "行为主义",
+      "depth": 3,
+      "parent": "1-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-1_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89/0019_1-1-4_%E8%A1%8C%E4%B8%BA%E4%B8%BB%E4%B9%89_p416.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Tq4y1N7vv",
+        "axis_locator": [
+          "public/ism.json[1-1-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：秩序宇宙(“客观”评价体系)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：“客观”行为"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：黑箱(拒绝认识精神运动，内在性被消解)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-1-4｜行为主义",
+        "portrait": "处理心理问题时只承认可观察、可重复的行为证据，以刺激与反应制定预测；课程又把这种客观化接到权威评判及压制内在性的政治批评。",
+        "core_commitments": [
+          "行为是研究的直接对象",
+          "内省不是心理学实验的必需方法"
+        ],
+        "problem_conflict": "如何使心理研究可公共检验，同时不把不能直接观察的痛苦和意愿宣布为无效？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "秩序宇宙被当作客观评价体系，课程另谈国家来源"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "行为是可计量对象"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "把精神过程当黑箱，降低内省的认识地位"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我们先记录他在不同情境中的行为变化，不凭一次自述诊断。可我也得问：这套评分表是谁设定的？"
+        },
+        "strong_opponent": {
+          "argument": "詹姆斯从内部描述连续、选择性的意识流；只量行为可能失去研究对象的一部分。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "行为记录能克服不可重复的私人判断，但不必断言体验不存在。",
+          "fair_reply": "行为记录能克服不可重复的私人判断，但不必断言体验不存在。"
+        },
+        "internal_tension": "预测控制用于帮助当事人还是方便机构规训？研究方法本身不足以回答。",
+        "dialectical_assessment": "把可观察性作方法约束；课程关于国家权威的归责属于另需政治证据的解释。",
+        "self_questions": [
+          "你否认感受存在，还是只认为它不是当前方法的直接测量对象？",
+          "谁制定行为“正常”的标准？"
+        ],
+        "neighbor_distinction": "同父1-1-3把内部认知结构也视为可研究；1-1-2检查知识评价的社会条件。"
+      },
+      "pro_sources": [
+        {
+          "author": "John B. Watson",
+          "work": "Psychology as the Behaviorist Views it",
+          "version": "Psychological Review 20 (1913), 158–177；York原文转录",
+          "locator": "开头三段，客观实验、预测与控制",
+          "url": "https://psychclassics.yorku.ca/Watson/views.htm",
+          "read_scope": "网页第15–22行",
+          "supports": "行为主义实验以预测、控制和不依赖内省为目标",
+          "limits": "不支持课程把所有行为主义直接等同国家暴力的结论",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "William James",
+          "work": "The Principles of Psychology",
+          "version": "1890英文原著，York转录",
+          "locator": "第九章 The Stream of Thought 开头及五特征",
+          "url": "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+          "read_scope": "网页第15–31行",
+          "supports": "心理学可从第一人称意识流开始",
+          "limits": "不表示行为数据没有价值",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "1-2-1",
+      "name": "神创论",
+      "depth": 3,
+      "parent": "1-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA/0026_1-2-1_%E7%A5%9E%E5%88%9B%E8%AE%BA_p544.md",
+        "original_video_url": "https://kdocs.cn/l/smwdYoCixAGE",
+        "axis_locator": [
+          "public/ism.json[1-2-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：整全的宇宙(统一体)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：造物者与被创造者的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：人的灵魂"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-2-1｜神创论",
+        "portrait": "把世界和自身生命理解为受造者与创造者的关系；重大抉择会问创造秩序要求什么，常从启示而非个人意愿寻求最终根据。",
+        "core_commitments": [
+          "世界不是自生，而源于创造者",
+          "人包含在被创造秩序中"
+        ],
+        "problem_conflict": "若万物由创造者统摄，人的责任与开放选择如何仍有位置？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙是由创造行为联结的整体"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "创造者和受造者有根本分界"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "灵魂及其来源进入人的自我理解"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我珍惜研究自然的成果，但也把生命视为受造的礼物。遇到选择时，我会问这份生命该如何被善用。"
+        },
+        "strong_opponent": {
+          "argument": "休谟会质问：从观察到的秩序怎样可靠地推断超越经验的创造者和具体意图？",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "信仰者可承认这不是物理推论，而是从经文与生活实践形成的承诺。",
+          "fair_reply": "信仰者可承认这不是物理推论，而是从经文与生活实践形成的承诺。"
+        },
+        "internal_tension": "若一切被主宰，为什么错误与苦难仍应由人承担？",
+        "dialectical_assessment": "可尊重创造信念的伦理力量；不要仅凭它推断持信者必定原教旨或取消责任。",
+        "self_questions": [
+          "你相信创造者存在，还是只以创造故事作价值比喻？",
+          "人的选择能否改变历史？"
+        ],
+        "neighbor_distinction": "同父1-2-2把神圣力置入可见象征；1-2-4反而拒绝偶像化；1-2-3重玄妙体验。"
+      },
+      "pro_sources": [
+        {
+          "author": "《创世记》",
+          "work": "创世叙事",
+          "version": "英王钦定本 KJV",
+          "locator": "1:1–31，创造天地和人",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=KJV",
+          "read_scope": "第一章；不证明所有神创论者决定论",
+          "supports": "经文叙述天地和人由神创造",
+          "limits": "不证明每个神创者都主张决定论或反科学",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "经验因果推断有限，不能直接由世界秩序推出独一创造者的具体意志",
+          "limits": "休谟§IV本身不是反宗教完整论证",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "1-2-2",
+      "name": "偶像崇拜",
+      "depth": 3,
+      "parent": "1-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C/0031_1-2-2_%E5%81%B6%E5%83%8F%E8%AE%BA_%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9C_p625.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1py4y137ag",
+        "axis_locator": [
+          "public/ism.json[1-2-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：神话叙事"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：神圣力量与凡俗力量的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：凡俗与神秘的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-2-2｜偶像崇拜",
+        "portrait": "借形象、英雄故事和仪式把难以承受的神圣力量安置在共同体可见的物件与叙事中；具体信仰对象须由发言本身确认。",
+        "core_commitments": [
+          "神圣与凡俗可通过图像或故事沟通",
+          "共同体需要可传递的象征"
+        ],
+        "problem_conflict": "神圣经验难以直接共享；怎样借可见形象和共同仪式使人能够表达、记忆并传递它？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "以神话叙事组织世界"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "神圣与凡俗力量相对"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "凡俗经验通过神秘符号获得解释"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】祖辈说这座山的雕像提醒我们守护水源。我知道石头不是神，却仍愿意在节日一起纪念。"
+        },
+        "strong_opponent": {
+          "argument": "《出埃及记》的禁像命令指出：把超越者固定成形象可能转成对造物的敬拜。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可区分象征性纪念和把物件当万能力量；具体仪式未必自称偶像崇拜。",
+          "fair_reply": "可区分象征性纪念和把物件当万能力量；具体仪式未必自称偶像崇拜。"
+        },
+        "internal_tension": "若形象仅是记号，为何又赋予它不可冒犯的力量？",
+        "dialectical_assessment": "课程把神话视作与创伤拉开距离的进步，这一历史解释仍需独立人类学证据。",
+        "self_questions": [
+          "参与仪式的人认为物本身有力，还是用它记忆关系？",
+          "仪式不举行时神圣力量还在吗？"
+        ],
+        "neighbor_distinction": "同父1-2-1直接说创造者；1-2-4拒斥偶像化；1-2-3以个人玄妙体验为中介。"
+      },
+      "pro_sources": [
+        {
+          "author": "Émile Durkheim",
+          "work": "The Elementary Forms of the Religious Life",
+          "version": "1912法文原著；Joseph Ward Swain英译1915，网页见后续印次",
+          "locator": "第二部第一章，图腾作为名称、徽记与仪式对象",
+          "url": "https://www.gutenberg.org/files/41360/41360-h/41360-h.htm",
+          "read_scope": "网页约L879–985；是涂尔干的原始研究文本，不是被研究者自述；父系传递并非唯一",
+          "supports": "宗教象征可充当共同体徽记并参与仪式，圣/俗区分有具体实践",
+          "limits": "图腾崇拜与课程偶像崇拜不全同；文本也记母系传递，不能证明父系发展通律",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "《出埃及记》",
+          "work": "十诫",
+          "version": "英王钦定本 KJV",
+          "locator": "20:3–6，不可制造并敬拜偶像",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20%3A3-6&version=KJV",
+          "read_scope": "该经节；经文本身仍保留命令和礼仪传统",
+          "supports": "经文明确反对制造并敬拜偶像",
+          "limits": "这是特定宗教内部的反方，不裁定所有图像传统",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "涂尔干是本人研究原典，仅支持象征、仪式与圣俗分界局部；课程父系血脉—英雄的直线发展仍缺一手证据。"
+      }
+    },
+    {
+      "code": "1-2-3",
+      "name": "唯灵论",
+      "depth": 3,
+      "parent": "1-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/0036_1-2-3_%E5%94%AF%E7%81%B5%E8%AE%BA_%E6%89%80%E8%B0%93_%E7%81%B5%E4%BF%AE_%E4%B8%8D%E8%BF%87%E6%98%AF%E4%BA%BA%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%8E%E8%87%AA%E7%A7%81%E6%89%80%E6%94%AF%E6%92%91%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81_p761.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1T5411u7oo",
+        "axis_locator": [
+          "public/ism.json[1-2-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：叙事框架(宇宙、位面)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：自然与超自然的二分"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：玄妙体验(调和神圣体验与日常体验的对立)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-2-3｜唯灵论",
+        "portrait": "在日常自然之外设想可体验、可进入的灵性层次；人靠特殊体验或训练理解两层世界的关系。",
+        "core_commitments": [
+          "自然与超自然有区别却可能相通",
+          "玄妙体验有认识价值"
+        ],
+        "problem_conflict": "日常可见的物质生活似乎不能容纳个人经历的神秘感受；怎样给这类体验及其精神意义一个位置？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙被叙事成不同位面"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "自然与超自然两层并列"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以玄妙体验调和日常与神圣"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】那次仪式让我觉得普通生活之外还有一层意义。我会认真记下经验，但也想知道他人是否能独立核对。"
+        },
+        "strong_opponent": {
+          "argument": "休谟要求检验经验与推断的习惯来源；强烈体验本身不足以证明体验对象独立存在。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可把体验作为真实发生的个人事件研究，不必立刻把其解释当客观事实。",
+          "fair_reply": "可把体验作为真实发生的个人事件研究，不必立刻把其解释当客观事实。"
+        },
+        "internal_tension": "若灵性等级靠体验宣称，谁能纠正导师或自己的误判？",
+        "dialectical_assessment": "承认经验的生活重要性，同时区分经历过某事与对其超自然原因的证明。",
+        "self_questions": [
+          "这里的“灵”是比喻、个人感受，还是独立存在者？",
+          "怎样让另一人区分真伪？"
+        ],
+        "neighbor_distinction": "同父1-2-2通过公共象征；1-2-1由创造者建立秩序；1-2-4否定图像化。"
+      },
+      "pro_sources": [
+        {
+          "author": "William James",
+          "work": "The Varieties of Religious Experience",
+          "version": "1902英文原著；Wikisource转录",
+          "locator": "讲座XVI–XVII，神秘经验的不可言说与知识感",
+          "url": "https://en.wikisource.org/wiki/The_Varieties_of_Religious_Experience/Lectures_XVI_and_XVII",
+          "read_scope": "网页第100–117行；詹姆斯研究体验，不证明超自然位面存在",
+          "supports": "神秘体验可被认真研究，体验者常赋予其知识感",
+          "limits": "詹姆斯不证明超自然位面或“打怪升级”，本人也说自身多从二手经验了解",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "经验与因果推断之间仍有认识间隙",
+          "limits": "休谟并未分析该课程的升级叙事",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "詹姆斯原著只支持重视神秘经验的局部；课程灵性位面和升级叙事仍缺对应的自我拥护原典。"
+      }
+    },
+    {
+      "code": "1-2-4",
+      "name": "反偶像崇拜",
+      "depth": 3,
+      "parent": "1-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-2_%E5%A4%8D%E4%B9%A0/1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6/0041_1-2-4_%E5%8F%8D%E5%81%B6%E5%83%8F%E8%AE%BA_%E6%8F%AD%E7%A7%98_%E4%BF%A1%E4%BB%B0%E9%92%A2%E5%8D%B0_%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E6%9C%BA%E5%88%B6_p925.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1GM4y1u7jq",
+        "axis_locator": [
+          "public/ism.json[1-2-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：神圣秩序"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：至高存在和最低限度的表征(符号化)的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：去符号化(放弃对至高存在的指称、仪式、人格化)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-2-4｜反偶像崇拜",
+        "portrait": "维护至高者不可等同任何图像、雕像或人格投射；课程更进一步描述为撤掉指称和仪式，转向私人沉浸的神圣秩序。",
+        "core_commitments": [
+          "至高者不等于可见物件",
+          "象征越具体越可能被误当神本身"
+        ],
+        "problem_conflict": "怎样拒绝物化超越者，又不失去传递信仰所需的语言与公共实践？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "以神圣秩序理解世界"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "至高者与最低限度符号仍有间隔"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "去符号化，课程同时要求放弃仪式与人格化"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我不愿把至高者画成一个人，也不向雕像祈求。但我还在想，连经文和共同祷告是否也该放弃。"
+        },
+        "strong_opponent": {
+          "argument": "《古兰经》112章仍用语言肯定独一者；绝对放弃指称可能令立场无法被说出。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "反图像可理解为限制表象的僭越；具体传统仍可保留经文与仪式。",
+          "fair_reply": "反图像可理解为限制表象的僭越；具体传统仍可保留经文与仪式。"
+        },
+        "internal_tension": "一旦说出“不可表象”，这句话本身是不是最低限度的表象？",
+        "dialectical_assessment": "区分真实宗教中的禁像和课程更激进的去符号化；两者不可自动等同。",
+        "self_questions": [
+          "你反对雕像、人格化，还是连言语与礼仪也拒绝？",
+          "若不用符号如何与别人分享信仰？"
+        ],
+        "neighbor_distinction": "同父1-2-2靠图像仪式；1-2-1仍可叙述创造者；1-2-3靠可描述的玄妙体验。"
+      },
+      "pro_sources": [
+        {
+          "author": "《出埃及记》",
+          "work": "十诫",
+          "version": "英王钦定本 KJV",
+          "locator": "20:3–6，不可制造并敬拜偶像",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20%3A3-6&version=KJV",
+          "read_scope": "该经节；经文本身仍保留命令和礼仪传统",
+          "supports": "禁制造和敬拜偶像",
+          "limits": "经文不支持放弃一切仪式",
+          "relation": "editorial_partial_comparison"
+        },
+        {
+          "author": "《古兰经》",
+          "work": "第112章 忠诚章",
+          "version": "阿拉伯经文；Quran.com所示Hilali-Khan英译",
+          "locator": "112:1–4，独一与无可比拟",
+          "url": "https://quran.com/al-ikhlas?translations=203",
+          "read_scope": "网页第14–111行；该章无具体仪式禁止条款",
+          "supports": "独一者无可比拟",
+          "limits": "经文本身仍以语言指称神",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Ludwig Feuerbach",
+          "work": "The Essence of Christianity",
+          "version": "1841原著；Marxists所载英译，页面未明译者",
+          "locator": "第二部第XXIII章，神的人格投射",
+          "url": "https://www.marxists.org/reference/archive/feuerbach/works/essence/ec23.htm",
+          "read_scope": "网页第5–13行",
+          "supports": "人格化神可能把人自身品质投射成外在存在者",
+          "limits": "不直接反驳所有非人格宗教",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "课程“完全不指称、不仪式化”暂无匹配宗教原典，属局部支持。"
+      }
+    },
+    {
+      "code": "1-3-1",
+      "name": "伪唯心主义",
+      "depth": 3,
+      "parent": "1-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89/0047_1-3-1_%E4%BC%AA%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89_p1102.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Qr4y1N7qx",
+        "axis_locator": [
+          "public/ism.json[1-3-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：秩序场(统一的宇宙)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：自我(调和至高存在(Being)与具体存在(beings)的对立)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：“心灵”(精神秩序)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-3-1｜伪唯心主义",
+        "portrait": "把经验到的秩序不断归回“我”的心灵；即使表象不由意志随意改变，也认为它们受某种属于我的精神法则生成。此处是课程构造的极端位置，不是心理诊断。",
+        "core_commitments": [
+          "自我居于存在的解释中心",
+          "表象的秩序被视为心灵生成"
+        ],
+        "problem_conflict": "我无法随意控制经验内容，却又想把它们视为我所生成；生成法则如何既属我又不听我指挥？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "世界作为统一的秩序场出现"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "自我被抬到调和存在与存在者的位置"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "心灵规则解释无法任意操纵的表象"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这个世界没有照我的心意变，可我仍怀疑它深处的规则与我的意识有关。我想找到那个规则，又怕只是把未知强行归给自己。"
+        },
+        "strong_opponent": {
+          "argument": "贝克莱虽说存在与被感知关联，仍以不受我支配的感官观念和上帝解释稳定性；个人自我不能任意生成一切。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可以从第一人称不可绕开的起点出发，但不能仅凭起点把宇宙归为私人产物。",
+          "fair_reply": "可以从第一人称不可绕开的起点出发，但不能仅凭起点把宇宙归为私人产物。"
+        },
+        "internal_tension": "若每个他人也自称秩序源头，几套“我”的生成如何共存？",
+        "dialectical_assessment": "课程批评的私人全能幻想缺可核的自我拥护原典；不把贝克莱误写为该立场。",
+        "self_questions": [
+          "你说的是“只有我能确定经验”，还是“我造出所有经验对象”？",
+          "他人的自主性在你的理论里如何成立？"
+        ],
+        "neighbor_distinction": "同父1-3-2以本真/异化判断生活；1-3-3以意志接受一切；1-3-4以体验流直接把握。"
+      },
+      "pro_sources": [
+        {
+          "author": "René Descartes",
+          "work": "Meditations on First Philosophy",
+          "version": "1641原著；Wikisource英译，译者页面未明确",
+          "locator": "第二沉思开头，我思确定性",
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+          "read_scope": "第二沉思开头四段；不含第六沉思完整二元论",
+          "supports": "怀疑中我思可作为第一人称确定性起点",
+          "limits": "笛卡尔并未主张私人自我创造世界",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "George Berkeley",
+          "work": "A Treatise Concerning the Principles of Human Knowledge",
+          "version": "1710原著；Gutenberg数字版",
+          "locator": "§§3–6、29–30，知觉与上帝",
+          "url": "https://www.gutenberg.org/cache/epub/4723/pg4723-images.html",
+          "read_scope": "网页所列节次",
+          "supports": "不受个人意志控制的感觉观念不能简单归于私人自我",
+          "limits": "贝克莱仍诉诸上帝，不是经验物质实在论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 笛卡尔仅支持第一人称起点，课程“我生成一切表象”暂无自我拥护原典。"
+      }
+    },
+    {
+      "code": "1-3-2",
+      "name": "本真主义",
+      "depth": 3,
+      "parent": "1-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/0052_1-3-2_%E6%9C%AC%E7%9C%9F%E4%B8%BB%E4%B9%89_%E5%B0%8F%E5%B8%83%E5%B0%94%E4%B9%94%E4%BA%9A%E6%96%87%E9%9D%92%E7%97%85%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84_p1210.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1cV411B79w",
+        "axis_locator": [
+          "public/ism.json[1-3-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：宇宙(有序的统一体)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：本我(宇宙意识)(调和Being与beings的主奴关系)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：本真与非本真(异化)的对抗"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-3-2｜本真主义",
+        "portrait": "想从角色、惯例和被安排的生活中找回“真正的我”；课程把这幅图景放进有序宇宙及宇宙意识的背景，不能把一般的自我反省直接归码。",
+        "core_commitments": [
+          "本真生活值得追寻",
+          "日常被塑造的自我与本真自我之间有裂缝"
+        ],
+        "problem_conflict": "如何在无法跳出社会与身体条件的情况下谈真实的自己，而不再造一个不可抵达的理想形象？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙被设作有序整体"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "宇宙性本我承担统摄位置"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "用本真/异化对立解释生活感受"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我每天扮演好员工，却总觉得没在过自己的生活。我想改变，但也得问：所谓真正的我是不是另一套别人教我的标准？"
+        },
+        "strong_opponent": {
+          "argument": "萨特主张人通过选择形成自身，反对先有固定人性；这挑战把本真当先在本质。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "对异化的感受仍可开启行动；要让“真实”经由具体选择而非神秘本质受检验。",
+          "fair_reply": "对异化的感受仍可开启行动；要让“真实”经由具体选择而非神秘本质受检验。"
+        },
+        "internal_tension": "一面批评外部规范，一面又依赖审美权威规定“真我”，会把异化换一种形式。",
+        "dialectical_assessment": "自我反省有价值；课程的宇宙本我、文化崇拜等附加判断不可从普通“做自己”推出。",
+        "self_questions": [
+          "你所谓本真是先已存在的核心，还是经行动形成的方向？",
+          "谁有权说你不本真？"
+        ],
+        "neighbor_distinction": "同父1-3-1说世界由我生成；1-3-3把意志放在首位；1-3-4认为体验流本身直接给出真实。"
+      },
+      "pro_sources": [
+        {
+          "author": "Jean-Paul Sartre",
+          "work": "Existentialism Is a Humanism",
+          "version": "1946演讲；Philip Mairet英译，1956初版；网页据1989选本",
+          "locator": "开篇反驳静观、主观主义指控及存在先于本质段",
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "read_scope": "网页第14–19行及存在先于本质段；非课程本真主义的宇宙自我",
+          "supports": "本真问题可表现为不以社会角色决定存在的行动抉择",
+          "limits": "萨特反对预设本质，不能直接作为课程宇宙本我的正面原典",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Jean-Paul Sartre",
+          "work": "Existentialism Is a Humanism",
+          "version": "1946演讲；Philip Mairet英译，1956初版；网页据1989选本",
+          "locator": "开篇反驳静观、主观主义指控及存在先于本质段",
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "read_scope": "网页第14–19行及存在先于本质段；非课程本真主义的宇宙自我",
+          "supports": "存在先于本质使固定“真我”成为可质疑预设",
+          "limits": "这是与课程本真主义的跨文本内部批评",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 萨特仅支持行动与自我问题，课程宇宙意识/先在本真来源未核到自我拥护原典。 正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+        "independent_counter_source_gap": true
+      }
+    },
+    {
+      "code": "1-3-3",
+      "name": "唯意志主义",
+      "depth": 3,
+      "parent": "1-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B/0057_1-3-3_%E5%94%AF%E6%84%8F%E5%BF%97%E4%B8%BB%E4%B9%89_%E7%90%86%E8%A7%A3%E5%A5%8B%E6%96%97_B_%E6%89%B9%E5%88%A4%E5%A5%8B%E6%96%97_B_%E8%A7%A3%E6%94%BE%E5%A5%8B%E6%96%97_B_p1342.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1uy4y1H73f",
+        "axis_locator": [
+          "public/ism.json[1-3-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：整全融贯的宇宙(Universe)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：“我”、一个强大的原初意志(调和Being与beings)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：意志(在根本上决定什么是本真什么是非本真)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-3-3｜唯意志主义",
+        "portrait": "把无法支配的遭遇也视为自己的生命意志必须承担的部分；行动上强调忍受和肯定，课程警告这可能变成对既成秩序的认命。",
+        "core_commitments": [
+          "意志是解释世界与自我的优先线索",
+          "苦难也被纳入自我肯定"
+        ],
+        "problem_conflict": "如何在不否认苦难的前提下肯定生命，却不把他人强加的伤害说成自己早已同意？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙作为融贯整体"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "原初意志将我和所遭遇的世界拉到一起"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "意志裁定何为本真"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我不能改掉过去的伤害，却想决定接下来怎样活。我不愿说伤害是好事，也不想让它只定义我。"
+        },
+        "strong_opponent": {
+          "argument": "萨特强调选择伴随责任；把所有遭遇都当意志肯定，可能抹去实际强制与可改变的制度条件。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "承认处境不可逆不等于认可伤害者；行动仍能区分接受事实与赞成事实。",
+          "fair_reply": "承认处境不可逆不等于认可伤害者；行动仍能区分接受事实与赞成事实。"
+        },
+        "internal_tension": "若意志吞下所有反例，它还如何辨认真正需要反抗的条件？",
+        "dialectical_assessment": "保留承受苦难的力量，同时拒绝用“我的命”取消因果与责任追问。",
+        "self_questions": [
+          "你是在承担已发生的事，还是认为伤害本就该发生？",
+          "何种条件你会组织改变而非继续忍受？"
+        ],
+        "neighbor_distinction": "同父1-3-2以本真尺度判断；1-3-4让经验流优先；1-3-1宣称心灵生成表象。"
+      },
+      "pro_sources": [
+        {
+          "author": "Arthur Schopenhauer",
+          "work": "The World as Will and Idea, Vol. II",
+          "version": "R. B. Haldane与J. Kemp英译，1909第六版",
+          "locator": "第XIX章，意志在自我意识中的优先性",
+          "url": "https://www.gutenberg.org/files/40097/40097-h/40097-h.html",
+          "read_scope": "目录与第XIX章；不推出个人能够意志控制一切",
+          "supports": "意志在自我意识中具有哲学优先性",
+          "limits": "叔本华并不说个人意志能控制世界或必然肯定所有苦难",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Jean-Paul Sartre",
+          "work": "Existentialism Is a Humanism",
+          "version": "1946演讲；Philip Mairet英译，1956初版；网页据1989选本",
+          "locator": "开篇反驳静观、主观主义指控及存在先于本质段",
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "read_scope": "网页第14–19行及存在先于本质段；非课程本真主义的宇宙自我",
+          "supports": "自由选择与责任不能化约成被动认命",
+          "limits": "萨特也承认处境限制，不是全能主体",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 原典仅支持意志优先的局部论点。"
+      }
+    },
+    {
+      "code": "1-3-4",
+      "name": "直觉主义/体验主义",
+      "depth": 3,
+      "parent": "1-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-3_%E5%BA%B8%E4%BF%97%E5%94%AF%E6%88%91%E8%AE%BA_%E5%A4%8D%E4%B9%A0%E8%AF%BE/1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7/0062_1-3-4_%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89_%E4%BD%93%E9%AA%8C%E4%B8%BB%E4%B9%89_%E6%84%8F%E8%AF%86%E6%B5%81_%E6%B5%AA%E5%AD%90_%E6%B5%AA%E5%A5%B3%E5%92%8C%E5%90%8E%E6%B5%AA%E4%BB%AC%E7%9A%84_%E6%B5%AA%E4%B9%8B%E5%93%B2%E5%AD%A6_%E8%AE%BA%E6%84%8F%E8%AF%86%E6%B5%81%E7%9A%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%80%A7_p1510.md",
+        "original_video_url": "https://www.bilibili.com/video/BV14K4y1n7o7",
+        "axis_locator": [
+          "public/ism.json[1-3-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：宇宙(整全一致融贯的秩序场)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：意识流(Stream of Consciousness)(调和后台Being与前台beings分裂)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：“假象”(意识直接把握本体，无需本体之外的表象)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-3-4｜直觉主义/体验主义",
+        "portrait": "优先相信连续流动的亲身体验，而不是把经验切成理论对象；课程更强地认为意识可越过表象直接接触本体。",
+        "core_commitments": [
+          "体验具有不能先被概念切割的连续性",
+          "第一人称入口有不可替代性"
+        ],
+        "problem_conflict": "怎样忠于正在发生的体验，同时说明体验被语言、注意和期待塑造的可能？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "世界被经验为整全秩序"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "意识流承担存在的连续面"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以直接体验越过符号性表象"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】那场雨在我记忆里是一段不断变调的感受，不是几项数据。我也承认，后来讲述时会按自己的词重新组织它。"
+        },
+        "strong_opponent": {
+          "argument": "休谟的经验分析追问印象、观念及习惯联结；体验的强烈直接性不能证明它越过解释中介。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可以先记录连续经验，再追问哪些部分来自后来的命名与回忆。",
+          "fair_reply": "可以先记录连续经验，再追问哪些部分来自后来的命名与回忆。"
+        },
+        "internal_tension": "如果体验不经表象，为什么同一经历的讲述会随语言和情境改变？",
+        "dialectical_assessment": "詹姆斯支持意识流作为研究对象，不支持课程把它升为直达本体的捷径。",
+        "self_questions": [
+          "你说的是经验应被认真听见，还是经验绝不会误导？",
+          "后来改写记忆会改变你对当时的理解吗？"
+        ],
+        "neighbor_distinction": "同父1-3-3以意志作核心；1-3-2以本真评价生活；1-3-1说心灵生成世界。"
+      },
+      "pro_sources": [
+        {
+          "author": "William James",
+          "work": "The Principles of Psychology",
+          "version": "1890英文原著，York转录",
+          "locator": "第九章 The Stream of Thought 开头及五特征",
+          "url": "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+          "read_scope": "网页第15–31行",
+          "supports": "思维流连续、变化且有选择性",
+          "limits": "詹姆斯未称经验流不经解释便直达本体",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "经验与因果/本体解释之间存在推断环节",
+          "limits": "休谟不否认人有第一人称体验",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "1-4-1",
+      "name": "当代自然主义",
+      "depth": 3,
+      "parent": "1-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-1_%E5%BD%93%E4%BB%A3%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E5%8F%8D%E6%AD%A3%E7%A7%91%E5%AD%A6%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%87%8A%E4%B8%80%E5%88%87_%E5%B0%B1%E5%B9%B2%E8%84%86%E6%94%BE%E5%BC%83%E6%80%9D%E8%80%83%E5%90%A7_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%80%BB%E4%BD%93%E4%B8%8A_%E4%B8%8D%E6%98%AF%E5%93%B2/0076_1-4-1_%E5%BD%93%E4%BB%A3%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89_%E5%8F%8D%E6%AD%A3%E7%A7%91%E5%AD%A6%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%87%8A%E4%B8%80%E5%88%87_%E5%B0%B1%E5%B9%B2%E8%84%86%E6%94%BE%E5%BC%83%E6%80%9D%E8%80%83%E5%90%A7_%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6_%E6%80%BB%E4%BD%93%E4%B8%8A_%E4%B8%8D%E6%98%AF%E5%93%B2%E5%AD%A6_%E8%80%8C%E6%98%AF%E5%AD%A6%E6%9C%AF%E4%BD%93%E7%B3%BB%E4%B8%8B%E7%9A%84%E5%B8%AE%E4%BD%A3_p1727.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1qv4y1Z7rr",
+        "axis_locator": [
+          "public/ism.json[1-4-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：自然/宇宙"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：不关心(完全信赖科学共同体)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：自然现象"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-4-1｜当代自然主义",
+        "portrait": "在自然科学可调查的因果世界中处理问题，暂搁“终极本体是什么”；课程也批评这种搁置可能变成对社会历史与制度的失察。",
+        "core_commitments": [
+          "自然现象有可追踪的因果关系",
+          "不必为每次调查先解决全部本体争论"
+        ],
+        "problem_conflict": "如何保持科学解释的开放性，又不以方法上的暂搁遮住研究制度和价值选择？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "自然或宇宙是研究场所"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "把本体争论先放一边或交给学科语用"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "从自然现象出发求知"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】先测这条河为什么变浑，治理不能等我们解决物质的终极定义。但采样点和治理成本也要公开讨论。"
+        },
+        "strong_opponent": {
+          "argument": "休谟提醒因果闭合并不是观察本身给出的必然；把方法假设说成终极事实越界。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "科学可修正与社会审查正可并行；自然机制仍是实际治理不可缺的部分。",
+          "fair_reply": "科学可修正与社会审查正可并行；自然机制仍是实际治理不可缺的部分。"
+        },
+        "internal_tension": "不讨论本体的立场本身是否已偷带“自然因果足够”的本体判断？",
+        "dialectical_assessment": "将搁置视作工作规则而非免除哲学批判的永久通行证。",
+        "self_questions": [
+          "你是否排除一切非自然解释，还是只暂不采用？",
+          "研究方向由谁和哪些利益决定？"
+        ],
+        "neighbor_distinction": "同父1-4-2以人类价值作为中心；1-4-3把问题化为心理规律；1-4-4连反思也放弃。"
+      },
+      "pro_sources": [
+        {
+          "author": "Isaac Newton",
+          "work": "Principia, General Scholium",
+          "version": "第三版1726；Andrew Motte 1729英译",
+          "locator": "总释开头行星、彗星和数学秩序段",
+          "url": "https://isaacnewton.ca/wp-content/uploads/2013/06/newton-general-scholium-1729-english-text-by-motte-letter-size.pdf",
+          "read_scope": "PDF第1–2页；同节还谈上帝",
+          "supports": "自然运动可按可检验数学关系研究",
+          "limits": "牛顿同时讨论神，不能当作当代反形而上宣言",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "从重复经验到因果必然需额外论证",
+          "limits": "不排除一切自然解释",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 课程当代自然主义关于本体语用学与文化产业的具体描述，未由牛顿原典支持。"
+      }
+    },
+    {
+      "code": "1-4-2",
+      "name": "世俗人道主义",
+      "depth": 3,
+      "parent": "1-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-2_%E4%B8%96%E4%BF%97%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89_%E4%BA%BA%E7%B1%BB%E8%87%AA%E5%B7%B1%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1_%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89%E7%9A%84%E7%AD%89%E7%BA%A7%E5%88%B6_%E8%BF%BD%E6%B1%82%E4%BA%BA%E7%B1%BB%E5%A4%A7%E5%90%8C%E5%B9%B3%E7%AD%89%E7%9A%84%E5%A4%A7%E4%BC%97%E5%93%B2%E5%AD%A6_%E4%BD%86/0081_1-4-2_%E4%B8%96%E4%BF%97%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89_%E4%BA%BA%E7%B1%BB%E8%87%AA%E5%B7%B1%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1_%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89%E7%9A%84%E7%AD%89%E7%BA%A7%E5%88%B6_%E8%BF%BD%E6%B1%82%E4%BA%BA%E7%B1%BB%E5%A4%A7%E5%90%8C%E5%B9%B3%E7%AD%89%E7%9A%84%E5%A4%A7%E4%BC%97%E5%93%B2%E5%AD%A6_%E4%BD%86%E5%8F%88%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E9%99%B7%E5%85%A5%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_p1825.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Wb4y1R7Xt",
+        "axis_locator": [
+          "public/ism.json[1-4-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：人类世界(Human World)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：拒斥形而上学(不承认超科学和神灵)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：Human(人性、文化)与Nature(自然、物质)的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-4-2｜世俗人道主义",
+        "portrait": "把人的福祉、尊严、合作和可改进的制度放在行动中心，不诉诸超自然裁决；课程同时警惕把抽象“人类”抬成新神。",
+        "core_commitments": [
+          "伦理责任在人类共同生活中落实",
+          "自然事实不会自动给出应然规范"
+        ],
+        "problem_conflict": "如何以人共同负责代替神圣命令，同时避免抽象“人性”压住处境不同的具体人？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "主要场景是人类世界"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "拒绝超科学/神灵作最终根据"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "持续辨认文化人性与自然条件的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】社区的照护规则应由受影响者一起修改。我关心的是具体老人能否被照顾，而不只在海报上写“为了全人类”。"
+        },
+        "strong_opponent": {
+          "argument": "费尔巴哈显示神的品质可被理解为人的投射；进一步反问是人道主义会否把“人类”本身神化。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "共同规范仍能由可受影响的人修订，而不必变成不可质疑的“人类本质”。",
+          "fair_reply": "共同规范仍能由可受影响的人修订，而不必变成不可质疑的“人类本质”。"
+        },
+        "internal_tension": "自然与人性若被硬分，人的身体依赖和自然中的社会劳动被放在哪里？",
+        "dialectical_assessment": "具体责任是长处；抽象人类、文化与自然的界线应随具体处境重审。",
+        "self_questions": [
+          "你说的人类利益包含谁的具体发言权？",
+          "若自然限制与人的愿望冲突，怎样裁决？"
+        ],
+        "neighbor_distinction": "同父1-4-1以自然因果优先；1-4-3以心理规律解释人；1-4-4不建立清晰规范。"
+      },
+      "pro_sources": [
+        {
+          "author": "American Humanist Association",
+          "work": "Humanist Manifesto III",
+          "version": "2003组织宣言；官网现行网页",
+          "locator": "宣言正文，伦理、科学与人类责任",
+          "url": "https://americanhumanist.org/humanism/humanist-manifesto-iii/",
+          "read_scope": "网页宣言正文；组织自述，不代表全部世俗人道主义",
+          "supports": "宣言确立世俗伦理、理性与人的责任",
+          "limits": "组织宣言不能证明课程“人的宗教”批评是其自述",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Ludwig Feuerbach",
+          "work": "The Essence of Christianity",
+          "version": "1841原著；Marxists所载英译，页面未明译者",
+          "locator": "第二部第XXIII章，神的人格投射",
+          "url": "https://www.marxists.org/reference/archive/feuerbach/works/essence/ec23.htm",
+          "read_scope": "网页第5–13行",
+          "supports": "绝对者人格可被理解成人的性质外投",
+          "limits": "不自动说明所有人道主义都是宗教",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "1-4-3",
+      "name": "心理主义",
+      "depth": 3,
+      "parent": "1-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-3_%E5%BF%83%E7%90%86%E4%B8%BB%E4%B9%89_%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BB%AC%E6%88%90%E5%8A%9F%E5%9C%B0%E8%AE%A9%E5%A4%A7%E4%BC%97%E4%BB%AC%E4%BB%A5%E4%B8%BA%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%BF%83%E7%90%86%E5%AD%A6_%E5%B0%B1%E6%8E%8C%E6%8F%A1%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F/0086_1-4-3_%E5%BF%83%E7%90%86%E4%B8%BB%E4%B9%89_%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BB%AC%E6%88%90%E5%8A%9F%E5%9C%B0%E8%AE%A9%E5%A4%A7%E4%BC%97%E4%BB%AC%E4%BB%A5%E4%B8%BA%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%BF%83%E7%90%86%E5%AD%A6_%E5%B0%B1%E6%8E%8C%E6%8F%A1%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E7%94%9F_p2054.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1zh411k7xi",
+        "axis_locator": [
+          "public/ism.json[1-4-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：自然(Nature)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：没必要讨论、没能力讨论"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：心理(调和人类的、文化的与自然的、原始的)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-4-3｜心理主义",
+        "portrait": "倾向把逻辑、规范和文化判断解释成心理形成的习惯；遇到冲突先问人怎样感受、学习和被刺激，而少问命题是否独立为真。",
+        "core_commitments": [
+          "心理过程有规律可研究",
+          "第一人称感受在解释中占优先"
+        ],
+        "problem_conflict": "思想和信念看似独立于生活；能否用注意、欲望、记忆等心理过程说明它们怎样产生？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "自然作为心理活动的背景"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "暂搁独立本体论"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以心理机制调和文化与自然"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】他算错可能受焦虑影响，我愿意研究这种影响。但我也不能因为大家都习惯某答案，就说它数学上正确。"
+        },
+        "strong_opponent": {
+          "argument": "康德关于认识条件的追问表明有效性问题不能直接由个体心理成因替代。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "心理研究仍能揭示人为何犯错；需另用逻辑或证据判断对错。",
+          "fair_reply": "心理研究仍能揭示人为何犯错；需另用逻辑或证据判断对错。"
+        },
+        "internal_tension": "若逻辑只是共同习惯，面对新而正确的证明凭什么纠正多数人的习惯？",
+        "dialectical_assessment": "区分心理学说明与规范性评价，避免把有益心理学变成万能解释。",
+        "self_questions": [
+          "你是在研究人如何想到证明，还是证明为何成立？",
+          "你会用反例修正群体习惯吗？"
+        ],
+        "neighbor_distinction": "同父1-4-1解释自然现象；1-4-2以人的伦理责任优先；1-4-4缺稳定认识立场。"
+      },
+      "pro_sources": [
+        {
+          "author": "William James",
+          "work": "The Principles of Psychology",
+          "version": "1890英文原著，York转录",
+          "locator": "第九章 The Stream of Thought 开头及五特征",
+          "url": "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+          "read_scope": "网页第15–31行",
+          "supports": "思维过程可从个人意识的变化与选择入手研究",
+          "limits": "詹姆斯没有把数学真理全化为心理习惯",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "1781/1787原著；J. M. D. Meiklejohn英译，Gutenberg",
+          "locator": "第二版序言，经验对象与认识条件",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "B版序言；不等同社会学建构论",
+          "supports": "认识对象的有效性需要条件论证",
+          "limits": "康德不是现代心理科学的反证",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 所引詹姆斯仅支持研究心理过程，不支持课程逻辑和数学心理化的强主张。"
+      }
+    },
+    {
+      "code": "1-4-4",
+      "name": "庸俗主义",
+      "depth": 3,
+      "parent": "1-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/1_%E5%AE%9E%E5%9C%A8%E8%AE%BA/1-4_%E5%A4%8D%E4%B9%A0/1-4-4_%E5%BA%B8%E4%BF%97%E4%B8%BB%E4%B9%89_%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E5%BE%97%E5%BA%B8%E4%BF%97_%E5%8F%98%E5%BE%97%E6%AF%94%E5%B9%B3%E5%BA%B8%E6%9B%B4%E5%B9%B3%E5%BA%B8_%E5%AE%B6%E9%87%8C%E6%9C%89%E5%A8%83%E7%9A%84%E5%BF%85%E7%9C%8B/0091_1-4-4_%E5%BA%B8%E4%BF%97%E4%B8%BB%E4%B9%89_%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E5%BE%97%E5%BA%B8%E4%BF%97_%E5%8F%98%E5%BE%97%E6%AF%94%E5%B9%B3%E5%BA%B8%E6%9B%B4%E5%B9%B3%E5%BA%B8_%E5%AE%B6%E9%87%8C%E6%9C%89%E5%A8%83%E7%9A%84%E5%BF%85%E7%9C%8B_p2224.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1BA411K71M",
+        "axis_locator": [
+          "public/ism.json[1-4-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论1：世界(安宁的家园)"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：无聊、与己无关（对事件缺乏反思与敬畏）"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：任性（未形成反思立场，不能把握沉默的父性权威）"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：1-4-4｜庸俗主义",
+        "portrait": "在一些生活领域只按眼前便利和被允许的任性行动，不再追问世界、权威或自身欲望如何形成；课程描述的是局部立场结构，不是给任何人贴人格标签。",
+        "core_commitments": [
+          "现成生活秩序被当作足够安稳",
+          "行动按即时偏好而非公开原则"
+        ],
+        "problem_conflict": "如何在繁杂生活中省去无尽反思，却不把被许可的小逆反误当真正自主？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "世界像可安居的家园"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "对本体问题感到无聊或无关"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "任性地选取眼前解释，缺对权威的反思"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】谁定这套规则我懒得管；只要让我周末做点喜欢的事就好。可如果规则连周末也拿走，我大概还得问是谁决定的。"
+        },
+        "strong_opponent": {
+          "argument": "苏格拉底式反方指出：不审查生活中的价值与权威，便利可能以失去自主为代价。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "人不必每刻哲学化；关键是在受压迫、冲突显露时能否进入反思。",
+          "fair_reply": "人不必每刻哲学化；关键是在受压迫、冲突显露时能否进入反思。"
+        },
+        "internal_tension": "声称“不关我事”本身依靠一个仍在保障生活的制度，这种依赖何时会显现？",
+        "dialectical_assessment": "把不反思当可变化的实践姿态；不要把生活节制或休息自动贬为庸俗。",
+        "self_questions": [
+          "你只是不想在此刻争论，还是认为根本不值得追问？",
+          "规则改变影响你时会如何回应？"
+        ],
+        "neighbor_distinction": "同父1-4-1有明确自然研究方法；1-4-2有伦理承诺；1-4-3有心理解释。"
+      },
+      "pro_sources": [],
+      "con_sources": [
+        {
+          "author": "Jean-Paul Sartre",
+          "work": "Existentialism Is a Humanism",
+          "version": "1946演讲；Philip Mairet英译，1956初版；网页据1989选本",
+          "locator": "开篇反驳静观、主观主义指控及存在先于本质段",
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "read_scope": "网页第14–19行及存在先于本质段；非课程本真主义的宇宙自我",
+          "supports": "选择仍带责任，不能由“随意”免除",
+          "limits": "萨特不要求每一刻反思所有知识",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "positive_gap",
+        "note": "positive_gap: 课程批评性命名没有适当自我拥护原典；此处不以斯蒂纳的自主反权威冒充庸俗任性。"
+      }
+    },
+    {
+      "code": "2-1-1",
+      "name": "普遍主义",
+      "depth": 3,
+      "parent": "2-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90/0098_2-1-1_%E6%99%AE%E9%81%8D%E4%B8%BB%E4%B9%89_%E6%B3%B0%E5%8B%92%E6%96%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9D%E8%97%8F_%E5%93%B2%E5%AD%A6_%E7%A7%91%E5%AD%A6_%E6%95%B0%E5%AD%A6_%E9%80%BB%E8%BE%91%E5%AD%A6%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E6%BA%90_p2444.md",
+        "original_video_url": "https://www.bilibili.com/video/BV13b4y197gc",
+        "axis_locator": [
+          "public/ism.json[2-1-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：宇宙(Cosmos)与可言说的、可书写的主题、场(Topos)的二分"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：本源"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：理性(普遍化的因果性)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-1-1｜普遍主义",
+        "portrait": "用人人可以争辩的理由寻找贯穿万物的本源；从局部发现推出普遍秩序，也要求普通人能参与论证。",
+        "core_commitments": [
+          "宇宙可由普遍理性理解",
+          "现象背后可寻找统一本源"
+        ],
+        "problem_conflict": "局部经验怎样支持普遍原则，又怎样避免把偶然成功扩张成宇宙法则？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "可言说的主题与整个宇宙之间仍有距离"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "假定诸物有可追的本源"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以普遍化因果理性跨越距离"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这些河流都有共同的循环，我想找一条更广的原则来解释。先让不同地方的人检验，再说它是否适用全世界。"
+        },
+        "strong_opponent": {
+          "argument": "休谟质疑从观察过的有限事例推到必然普遍规律。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "普遍化可以作待检假说，继续接受反例与修订。",
+          "fair_reply": "普遍化可以作待检假说，继续接受反例与修订。"
+        },
+        "internal_tension": "如果本源解释一切，它自己的成立条件是否仍待解释？",
+        "dialectical_assessment": "开放的理性共同体是优势；宇宙级概括要附可修正的范围。",
+        "self_questions": [
+          "你给出的是可检验的跨案例原则，还是不可反驳的本源？",
+          "一个例外会改变你的主张吗？"
+        ],
+        "neighbor_distinction": "同父2-1-2诉诸被命运限制的太一；2-1-3把比例神圣化；2-1-4把言语主体与正确用词置前。"
+      },
+      "pro_sources": [
+        {
+          "author": "Aristotle",
+          "work": "Metaphysics, Book I",
+          "version": "W. D. Ross英译，MIT古典文库",
+          "locator": "卷I第1、3、5节",
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "read_scope": "网页卷I第1、3、5节；毕达哥拉斯为亚里士多德转述",
+          "supports": "古代关于泰勒斯水本源说的文本见证",
+          "limits": "亚里士多德转述，不是泰勒斯自存著作；课程主体性批评是编者重构",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "经验归纳不提供必然保证",
+          "limits": "不反对提出普遍假说",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-1-2",
+      "name": "本质主义",
+      "depth": 3,
+      "parent": "2-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF/0103_2-1-2_%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89_%E5%AD%98%E5%9C%A8_%E8%99%9A%E6%97%A0_%E6%97%A0%E9%99%90_%E4%B8%87%E7%89%A9_%E5%A4%AA%E4%B8%80%E4%B8%8E%E5%91%BD%E8%BF%90%E8%B5%90%E4%BA%88%E5%AE%83%E7%9A%84%E9%94%81%E9%93%BE_%E5%B7%B4%E9%97%A8%E5%B0%BC%E5%BE%B7%E7%9A%84%E7%9C%9F%E7%90%86%E4%B9%8B%E8%B7%AF_p2604.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1ty4y1E76u",
+        "axis_locator": [
+          "public/ism.json[2-1-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：太一的存在之所(Place)与神之必然性/命运(fate)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：太一(One)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：真理(Truth)与表象(Appearance)的二分"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-1-2｜本质主义",
+        "portrait": "相信纷繁变化之后有更根本的存在及真理道路；感官意见和真正存在不可轻易混同。课程以“太一被命运限制”的读法解释这种闭合。",
+        "core_commitments": [
+          "存在者的界限比变动表象根本",
+          "真理与意见有等级差别"
+        ],
+        "problem_conflict": "如何保住稳定真理，又不把变化经验仅当错误表象？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "存在之所与命运必然性相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "太一被置于本源位置"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "真理道路与表象意见分开"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】街景年年变，我仍想问哪些存在条件没变。可若把所有变化都算幻觉，就解释不了我为何必须应对它。"
+        },
+        "strong_opponent": {
+          "argument": "亚里士多德指出经验与记忆能产生可操作知识；变化世界不必被排除在认识之外。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可说感官需要判断而非全盘无效；稳定命题仍是探究目标。",
+          "fair_reply": "可说感官需要判断而非全盘无效；稳定命题仍是探究目标。"
+        },
+        "internal_tension": "若命运限制太一，限制本身是否比太一更根本？",
+        "dialectical_assessment": "把“存在”问题与意见区分有力；课程命运束缚解释是现代重构，不可直接塞进残篇。",
+        "self_questions": [
+          "你说变化不真实，还是说变化不能给出最终解释？",
+          "你如何使用经验反例？"
+        ],
+        "neighbor_distinction": "同父2-1-1寻找可讨论的普遍原因；2-1-3以数比贯通；2-1-4重言语使用。"
+      },
+      "pro_sources": [
+        {
+          "author": "Parmenides",
+          "work": "On Nature, fragment B8",
+          "version": "古希腊残篇；网页英译版本标注有限",
+          "locator": "B8，存在与生成的界限",
+          "url": "https://parmenides.com/about_parmenides/ParmenidesPoem.html",
+          "read_scope": "B8相关段；不把课程的命运解释说成原文",
+          "supports": "残篇确立存在与非存在、真理与意见的难题",
+          "limits": "“太一受命运奴役”是课程阐释而非残篇直白原句",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Aristotle",
+          "work": "Metaphysics, Book I",
+          "version": "W. D. Ross英译，MIT古典文库",
+          "locator": "卷I第1、3、5节",
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "read_scope": "网页卷I第1、3、5节；毕达哥拉斯为亚里士多德转述",
+          "supports": "经验与记忆可形成技艺与普遍判断",
+          "limits": "不直接推翻巴门尼德的本体论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-1-3",
+      "name": "合理主义",
+      "depth": 3,
+      "parent": "2-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9/0108_2-1-3_%E5%90%88%E7%90%86%E4%B8%BB%E4%B9%89_%E6%AF%95%E8%BE%BE%E5%93%A5%E6%8B%89%E6%96%AF%E7%9A%84%E4%BC%9F%E5%A4%A7_%E4%B8%8D%E6%AD%A2%E6%98%AF_%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0_%E8%80%8C%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%90%86%E6%99%BA%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%A5%87%E8%BF%B9_p2838.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Cb4y197EZ",
+        "axis_locator": [
+          "public/ism.json[2-1-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：自然世界与神圣的背景性秩序的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：数(比例的本尊)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：比例(Ratio)(调和真理与意见的二分)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-1-3｜合理主义",
+        "portrait": "从音乐、几何和天象中寻找比例，继而把数当成万物的根本秩序；课程强调从经验巧合到神圣数的跃升。",
+        "core_commitments": [
+          "数与比例不仅算工具，也被抬为本源",
+          "比例可使分散经验进入统一秩序"
+        ],
+        "problem_conflict": "天象、音乐和度量看似不同，能否凭可重复的数与比例发现贯通它们的秩序？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "自然世界与神圣背景相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "数被赋予本源地位"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "比例中介真理与意见"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】弦长改变带来和声，我猜天体也有相似比例。不过若出现无理数，我得决定是修改学说还是拒绝证据。"
+        },
+        "strong_opponent": {
+          "argument": "休谟会要求说明，从某些比例成功到宇宙必然按此比例运行的推断依据。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "比例发现仍有真实解释力；神圣化需另作论证。",
+          "fair_reply": "比例发现仍有真实解释力；神圣化需另作论证。"
+        },
+        "internal_tension": "若不能被整数比表示的关系出现，数本源是否必须扩充自身？",
+        "dialectical_assessment": "保留数学发现，拒绝把传说中的希帕索斯死亡当未核实史实。",
+        "self_questions": [
+          "对你而言数是自然中的关系，还是独立神圣存在？",
+          "无理量改变了什么？"
+        ],
+        "neighbor_distinction": "同父2-1-1用一般因果理性；2-1-2以存在真理优先；2-1-4看正确言说而非数。"
+      },
+      "pro_sources": [
+        {
+          "author": "Aristotle",
+          "work": "Metaphysics, Book I",
+          "version": "W. D. Ross英译，MIT古典文库",
+          "locator": "卷I第1、3、5节",
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "read_scope": "网页卷I第1、3、5节；毕达哥拉斯为亚里士多德转述",
+          "supports": "卷I第5节转述毕达哥拉斯派数、和声与天象的联系",
+          "limits": "是亚里士多德见证，不是毕达哥拉斯本人原文；不证实杀害传说",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "从有限经验推到必然宇宙秩序需辩护",
+          "limits": "休谟不反对数学关系的局部使用",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-1-4",
+      "name": "绝对主义",
+      "depth": 3,
+      "parent": "2-1",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-1_%E5%9C%A8%E5%9C%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AE%B0%E5%88%B6%E8%A5%BF%E6%96%B9%E7%B2%BE%E7%A5%9E%E6%95%B0%E5%8D%83%E5%B9%B4%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E8%8C%83%E5%BC%8F/2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89/0113_2-1-4_%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E6%99%AE%E7%BD%97%E6%B3%B0%E6%A0%BC%E6%8B%89_%E4%BA%BA%E6%98%AF%E4%B8%87%E7%89%A9%E7%9A%84%E5%B0%BA%E5%BA%A6_%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%9D%E5%AF%B9%E4%B8%BB%E4%B9%89_%E8%80%8C%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%B8%BB%E4%B9%89_p2997.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1qi4y1P7Pt",
+        "axis_locator": [
+          "public/ism.json[2-1-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：宇宙(Cosmos)与主体的理性(Logos)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论1：被人所用的东西、语词"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：无认识论、只有语用学(Orthoepeia)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-1-4｜绝对主义",
+        "portrait": "把人的判断和语言运用放到中心，追问某物对人如何显现以及词怎样在公共争辩中被正确使用；课程称这种主体性为“绝对”。",
+        "core_commitments": [
+          "人的尺度参与现实如何被判定",
+          "语词使用的正确性具有实践效力"
+        ],
+        "problem_conflict": "若每人都据自己的尺度说真，公共争论怎样可能裁定，而不是只剩修辞胜负？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "宇宙与人的理性仍有对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "可用之物与语词成为讨论对象"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以正确言说和语用替代独立认识论"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】你说这项改革“公平”，我先问谁在用这个词、按什么规则。可若我们只争用法，实际受损者的处境又由谁裁断？"
+        },
+        "strong_opponent": {
+          "argument": "柏拉图在《泰阿泰德》让苏格拉底追问尺度说若普遍有效，为何反对者的判断不能同样为真。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "尺度说可提醒判断依处境，不必否认对话中寻找较好理由。",
+          "fair_reply": "尺度说可提醒判断依处境，不必否认对话中寻找较好理由。"
+        },
+        "internal_tension": "如果言语本身塑造现实，语言共同体的规则由谁制定且怎样可改？",
+        "dialectical_assessment": "课程的“绝对主义”不是通常政治绝对主义；把普罗泰戈拉归于对话中须标角色与转述。",
+        "self_questions": [
+          "你说每人经验不同，还是每人判断都不可错？",
+          "争论后可否共同修正词义？"
+        ],
+        "neighbor_distinction": "同父2-1-1找宇宙普遍规律；2-1-2分真理/意见；2-1-3用比例调和。"
+      },
+      "pro_sources": [
+        {
+          "author": "Plato",
+          "work": "Theaetetus",
+          "version": "Benjamin Jowett英译，MIT古典文库",
+          "locator": "151e–152b及166d–168c，尺度说与代拟辩护",
+          "url": "https://classics.mit.edu/Plato/theatu.html",
+          "read_scope": "对话对应段；不是普罗泰戈拉自存原著",
+          "supports": "对话呈现并代拟普罗泰戈拉人的尺度说",
+          "limits": "普罗泰戈拉原著未存，此为柏拉图角色话语，课程语言主体重构更强",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Plato",
+          "work": "Theaetetus",
+          "version": "Benjamin Jowett英译，MIT古典文库",
+          "locator": "151e–152b及166d–168c，尺度说与代拟辩护",
+          "url": "https://classics.mit.edu/Plato/theatu.html",
+          "read_scope": "对话对应段；不是普罗泰戈拉自存原著",
+          "supports": "苏格拉底的内部诘问暴露尺度说的自指困难",
+          "limits": "对话中诘问不等于柏拉图对一切语用论的结论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码 正反两侧取自同一原典内部的不同说法或条件检验；尚缺独立外部反方来源。",
+        "independent_counter_source_gap": true
+      }
+    },
+    {
+      "code": "2-2-1",
+      "name": "无限主义",
+      "depth": 3,
+      "parent": "2-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0120_2-2-1_%E6%97%A0%E9%99%90%E4%B8%BB%E4%B9%89_%E5%94%AF%E6%9C%89%E6%97%B6%E9%97%B4%E6%97%A0%E9%99%90_%E5%A4%A7%E9%9B%84%E4%B8%8E%E9%87%8A%E8%BF%A6%E7%9A%84%E8%A7%89%E9%86%92%E4%B8%AD%E5%8C%85%E5%90%AB%E7%9A%84%E5%85%A8%E6%96%B0%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p3174.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1TK4y1m7BH",
+        "axis_locator": [
+          "public/ism.json[2-2-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：空间与时间的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：无(去主体化、去时间化的存在状态)(Void)与业力(时间性的连结力量)(Karma)的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：各种法(dharma)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-2-1｜无限主义",
+        "portrait": "把世界理解为刹那相续的过程，而不把静止空间中的物当最初事实；课程以业力和诸法说明刹那怎样连起来。",
+        "core_commitments": [
+          "时间性的相续比静态在场重要",
+          "业力/诸法解释经验连续"
+        ],
+        "problem_conflict": "若每一刻都更替，是什么使“同一个人承担后果”有意义？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "空间与时间形成基本对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "虚空与业力的连结力相对"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以诸法分类说明刹那"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我昨天的决定今天仍有后果，但我也没有一块不变的“自我”在两日之间搬运。我想说明这种连续怎样成立。"
+        },
+        "strong_opponent": {
+          "argument": "奥古斯丁关于时间在心灵中的记忆、期待与当下，提醒连续性不能只由外部切片列举说明。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "过程论可用因果与习惯描述延续；不必诉诸完全不变的实体自我。",
+          "fair_reply": "过程论可用因果与习惯描述延续；不必诉诸完全不变的实体自我。"
+        },
+        "internal_tension": "如果业力既是连接又被说成拟制，它为何能承担伦理责任？",
+        "dialectical_assessment": "课程将佛教术语组合为独特结构；没有具体部派经论时不把它归给全部佛教。",
+        "self_questions": [
+          "你谈的是日常变动，还是刹那无常与业力？",
+          "后果如何跨时归属于行为？"
+        ],
+        "neighbor_distinction": "同父2-2-2讨论太一、水和否定；2-2-3以自然/超灵联结；2-2-4寻找二元矩阵的开放点。"
+      },
+      "pro_sources": [
+        {
+          "author": "《法句经》巴利传统",
+          "work": "Dhammapada",
+          "version": "Ācāriya Buddharakkhita英译1985、1996修订；SuttaCentral转录",
+          "locator": "第1–2偈行动与果；第277–279偈无常及无我",
+          "url": "https://dhammatalks.net/suttacentral/sc2016/sc/en/dhp.html",
+          "read_scope": "网页第44–46及518–521行；不代表部派刹那论或课程业力网络模型",
+          "supports": "受条件者无常，行动与后果相关",
+          "limits": "未讲每刹那静态切片、业力网络及诸法完整分类",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Augustine",
+          "work": "Confessions, Book XI",
+          "version": "397–400拉丁文原著；Albert C. Outler英译",
+          "locator": "XI.14–20，时间、记忆与期待",
+          "url": "https://en.wikisource.org/wiki/The_Confessions_of_Saint_Augustine_(Outler)/Book_XI",
+          "read_scope": "卷XI第14–20节",
+          "supports": "时间经验涉及记忆、当下与期待，不能只列外部切片",
+          "limits": "奥古斯丁不讨论业力或佛教刹那论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "《法句经》仅给无常与行动后果的局部原典；课程刹那—业力—诸法组合仍缺精确一手部派经论。"
+      }
+    },
+    {
+      "code": "2-2-2",
+      "name": "否定主义",
+      "depth": 3,
+      "parent": "2-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4/0125_2-2-2_%E5%90%A6%E5%AE%9A%E4%B8%BB%E4%B9%89_%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E8%87%B3%E9%AB%98%E6%B3%95%E8%A6%81_%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4_p3398.md",
+        "original_video_url": "https://www.bilibili.com/video/BV19v41187KL",
+        "axis_locator": [
+          "public/ism.json[2-2-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：空间与时间的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：岁(物质维度)与神明(精神维度)的对立"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：无名(愚、无法言说)与有名(知、聪明的、可言说)的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-2-2｜否定主义",
+        "portrait": "通过《太一生水》里一层层“生”与“反辅”理解天地、时令如何相成；课程再用否定性解释生成，而不是把太一当一件物。",
+        "core_commitments": [
+          "生成不是单向制作，产物会反过来规定其源头",
+          "有名/无名与物质/神明交错"
+        ],
+        "problem_conflict": "若起源总由所生之物反过来限定，它还能作为独立的第一起点吗？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "时间与空间互相规定"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "岁/物质与神明/精神被并置"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以无名与有名区分能否言说"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】城市的河道塑造街区，街区的建设又改变河道。我想用这种相辅关系思考“起源”，但它是否真能说明最初那一步？"
+        },
+        "strong_opponent": {
+          "argument": "斯宾诺莎把自因实体定义为可由自身理解；他会要求解释“太一”是否真可如此独立成立。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "相辅生成可作为过程模型；无需把每一环都说成绝对第一因。",
+          "fair_reply": "相辅生成可作为过程模型；无需把每一环都说成绝对第一因。"
+        },
+        "internal_tension": "无名若仍被描述为“否定性”，我们是否已用概念固定了它？",
+        "dialectical_assessment": "竹简释文支持生成次序；课程把太一解释为纯否定性，属于现代哲学重构。",
+        "self_questions": [
+          "你说的“反辅”是因果反作用还是概念上的相互规定？",
+          "起源能否被命名？"
+        ],
+        "neighbor_distinction": "同父2-2-1以刹那/业力为纽带；2-2-3以超灵的伦理直觉；2-2-4找开放矩阵。"
+      },
+      "pro_sources": [
+        {
+          "author": "郭店楚简",
+          "work": "《太一生水》",
+          "version": "楚简传世释文，Wikisource；异文需校",
+          "locator": "起首太一、水、天地的相辅次序",
+          "url": "https://wikisource.org/wiki/%E9%83%AD%E5%BA%97%E6%A5%9A%E5%A2%93%E7%AB%B9%E7%B0%A1%E3%80%8A%E5%A4%AA%E4%B8%80%E7%94%9F%E6%B0%B4%E3%80%8B",
+          "read_scope": "释文起首；不能直接推出课程的全部否定性理论",
+          "supports": "释文确有太一生水、水反辅及天地相辅的生成链",
+          "limits": "不直接提出黑格尔式否定理论",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Benedict de Spinoza",
+          "work": "Ethics, Part I",
+          "version": "1677原著；R. H. M. Elwes英译，Gutenberg #919",
+          "locator": "定义I–VI；公理I–IV",
+          "url": "https://www.gutenberg.org/cache/epub/919/pg919.html",
+          "read_scope": "网页第24–48行",
+          "supports": "自因和实体提供另一种起源论的明确标准",
+          "limits": "斯宾诺莎非竹简作者的历史论敌",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-2-3",
+      "name": "超验主义",
+      "depth": 3,
+      "parent": "2-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90/0134_2-2-3_%E8%B6%85%E9%AA%8C%E4%B8%BB%E4%B9%89_%E8%BE%A9%E8%AF%81%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E8%8D%A3%E8%80%80_%E4%B8%BA%E4%B8%AA%E4%BD%93%E5%B8%A6%E6%9D%A5%E5%BF%83%E7%81%B5%E8%A7%A3%E8%84%B1_%E4%B8%BA%E5%85%B1%E5%90%8C%E4%BD%93%E6%BF%80%E5%8F%91_%E5%9B%BD%E8%BF%90_p3595.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1pK411F7F7",
+        "axis_locator": [
+          "public/ism.json[2-2-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：空间(宇宙)与时间(超灵)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：自然(象征，包含着神秘的维度)与心灵(描述，从自然中把握超自然)的二分"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：第一人称的伦理直觉(调和愚蠢与智慧的对立)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-2-3｜超验主义",
+        "portrait": "在自然景象中寻找超越日常功用的精神意义，并相信第一人称伦理直觉能帮助判断；课程把自然与超灵放成时空对立。",
+        "core_commitments": [
+          "自然可成为超灵的象征",
+          "个人伦理直觉有认识与行动价值"
+        ],
+        "problem_conflict": "如果自然既是外部对象又是超灵显现，如何区分读出的意义和自己投射的期待？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "空间化自然与时间性的超灵相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "自然象征与心灵描述分工"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "伦理直觉试图越过愚与智的分界"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】走进树林让我重新想怎样对待别人。我重视这种提醒，但不把每次感动都当宇宙给我的明确命令。"
+        },
+        "strong_opponent": {
+          "argument": "休谟会问：经验中的强烈感受如何支持关于超灵的独立存在与具体指令？",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "象征可激发行动；让受影响者的理由也参与校正直觉。",
+          "fair_reply": "象征可激发行动；让受影响者的理由也参与校正直觉。"
+        },
+        "internal_tension": "若直觉互相冲突，是否有共同的申诉和修正规则？",
+        "dialectical_assessment": "爱默生的自然与灵魂支持局部对照；课程“国运动员”评价不能归给原著。",
+        "self_questions": [
+          "你在自然中看到伦理比喻，还是可验证的超自然讯息？",
+          "相反直觉如何裁决？"
+        ],
+        "neighbor_distinction": "同父2-2-1谈业力刹那；2-2-2谈太一相辅；2-2-4重结构性开放而非超灵体验。"
+      },
+      "pro_sources": [
+        {
+          "author": "Ralph Waldo Emerson",
+          "work": "Nature",
+          "version": "1849版，Gutenberg #29433",
+          "locator": "导言与第一章，自然和灵魂、透明眼球",
+          "url": "https://www.gutenberg.org/cache/epub/29433/pg29433-images.html",
+          "read_scope": "导言及第一章；不支持课程国家动员结论",
+          "supports": "自然与灵魂在文本中互相照亮",
+          "limits": "不证明伦理判断总可凭直觉完成",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "由感受到超经验原因的推断应受检验",
+          "limits": "不否定自然经验的伦理启发",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-2-4",
+      "name": "反二元对立",
+      "depth": 3,
+      "parent": "2-2",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-2_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5/0139_2-2-4_%E5%8F%8D%E4%BA%8C%E5%85%83%E5%AF%B9%E7%AB%8B_%E5%93%B2%E5%AD%A6%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B%E7%A7%98%E7%B1%8D_%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%BF%9B%E8%A1%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83_%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9F%A9%E9%98%B5%E8%BF%9B%E8%A1%8C%E5%93%B2%E5%AD%A6%E8%BF%90%E6%80%9D_p3751.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1Xh411U74z",
+        "axis_locator": [
+          "public/ism.json[2-2-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：闭合的与开放的二分"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论2：内在的与外在的二分"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：开放"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-2-4｜反二元对立",
+        "portrait": "面对主/客、内/外等僵硬对立，先画出它们怎样互相依赖，再找双方都解释不了的转换处；课程的具体工具是开放矩阵。",
+        "core_commitments": [
+          "二元关系可能由共同预设维持",
+          "矛盾处可揭露新的中介与变化"
+        ],
+        "problem_conflict": "如何突破封闭二分，又不只是把两边折中或随意宣布“都开放”？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "封闭与开放构成场域张力"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "内在与外在构成存在张力"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "认识保持开放以追问两组对立的短路"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这场争论总叫人选“个人责任”或“制度原因”。我想看个人行为怎样又被制度塑造，再问哪些事实使两端都需修改。"
+        },
+        "strong_opponent": {
+          "argument": "康德对经验条件的分析提醒：结构批评也必须说明自身合法性，不能把“打开矩阵”当万能证明。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "矩阵若能给出可检验的转换过程，就比口号更有说服力。",
+          "fair_reply": "矩阵若能给出可检验的转换过程，就比口号更有说服力。"
+        },
+        "internal_tension": "若一切都能被重画成矩阵，何种案例会表明这套方法失效？",
+        "dialectical_assessment": "该节点是课程的运思工具；黑格尔差异/矛盾原典只能作局部方法对照。",
+        "self_questions": [
+          "你指出了哪一处真正无法解释的转换？",
+          "两端有哪些各自仍成立的证据？"
+        ],
+        "neighbor_distinction": "同父2-2-1以刹那相续解释；2-2-2以太一相辅解释；2-2-3诉诸自然中的超灵直觉。"
+      },
+      "pro_sources": [
+        {
+          "author": "G. W. F. Hegel",
+          "work": "Science of Logic",
+          "version": "1812–1816原著；Marxists英译，译者网页待核",
+          "locator": "本质论中同一、差异与矛盾相关段",
+          "url": "https://www.marxists.org/reference/archive/hegel/works/hl/hl431.htm",
+          "read_scope": "网页相关段；与课程矩阵是跨文本对照",
+          "supports": "同一、差异与矛盾需在关系中理解",
+          "limits": "不是课程四格矩阵原型或直接来源",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "1781/1787原著；J. M. D. Meiklejohn英译，Gutenberg",
+          "locator": "第二版序言，经验对象与认识条件",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "B版序言；不等同社会学建构论",
+          "supports": "概念组织经验需受认识条件审查",
+          "limits": "康德并未直接批评课程矩阵",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 黑格尔只支持关系和矛盾的局部问题，课程特定矩阵没有独立原典。"
+      }
+    },
+    {
+      "code": "2-3-1",
+      "name": "实体一元论",
+      "depth": 3,
+      "parent": "2-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-3-1_%E5%AE%9E%E4%BD%93%E4%B8%80%E5%85%83%E8%AE%BA_%E5%A5%A5%E5%8D%A1%E5%A7%86%E7%9A%84%E5%89%83%E5%88%80%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88_%E8%AE%A4%E8%AF%86%E8%AE%BA%E4%B8%8A%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%8D%E6%80%9D%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0146_2-3-1_%E5%AE%9E%E4%BD%93%E4%B8%80%E5%85%83%E8%AE%BA_%E5%A5%A5%E5%8D%A1%E5%A7%86%E7%9A%84%E5%89%83%E5%88%80%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88_%E8%AE%A4%E8%AF%86%E8%AE%BA%E4%B8%8A%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%8F%8D%E6%80%9D%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p3932.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1P54y1j7HL",
+        "axis_locator": [
+          "public/ism.json[2-3-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：Ontic(本体的、形而下的)与Ontological(本体论的(本体论框架)、形而上的)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：唯一的实体(God)(调和普遍性实体(Universal)与具体的名相(Particular)的对立)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：神智论信仰，前批判(Pre-Critique)、未反思的"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-3-1｜实体一元论",
+        "portrait": "希望用唯一的实体解释分散事物与共同性质，不再为每一种名称另设实体；课程以神智信仰批评这种简化尚未反思认识条件。",
+        "core_commitments": [
+          "具体事物有赖一个更根本的统一者",
+          "不把每个共相都当独立存在"
+        ],
+        "problem_conflict": "实体越统一，越需要说明具体事物真实差异如何从其中出现。",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "具体在场与存在框架被分开"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "唯一实体承担普遍与个别关系"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "知识仍倚赖未经批判的神智确信"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我想用一个共同基础解释人的差异，不愿每种身份都造一种实体。但这个基础怎样让具体差异仍有力量？"
+        },
+        "strong_opponent": {
+          "argument": "休谟会追问唯一实体的印象或经验依据，防止概念节约变成无证的最终存在者。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "统一原则可减少任意实体；论证它的存在和适用范围仍需独立完成。",
+          "fair_reply": "统一原则可减少任意实体；论证它的存在和适用范围仍需独立完成。"
+        },
+        "internal_tension": "若唯一实体依赖信仰确信，“不增实体”的节约原则为何停在这一项？",
+        "dialectical_assessment": "斯宾诺莎提供严格的一实体原典；课程对奥卡姆的重构不同，不能合并为同一学说。",
+        "self_questions": [
+          "你说唯一实体是逻辑工具，还是确实存在的神？",
+          "个别东西如何有自身作用？"
+        ],
+        "neighbor_distinction": "同父2-3-2以灵魂连接神与自然；2-3-3用多单子并列；2-3-4以数学关系取代中心实体。"
+      },
+      "pro_sources": [
+        {
+          "author": "Benedict de Spinoza",
+          "work": "Ethics, Part I",
+          "version": "1677原著；R. H. M. Elwes英译，Gutenberg #919",
+          "locator": "定义I–VI；公理I–IV",
+          "url": "https://www.gutenberg.org/cache/epub/919/pg919.html",
+          "read_scope": "网页第24–48行",
+          "supports": "定义与公理呈现严格实体/属性/样态区分",
+          "limits": "斯宾诺莎不是课程奥卡姆式神智信仰的直接实例",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "超经验实体需解释其认识来源",
+          "limits": "休谟不提供一实体替代理论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 未找到奥卡姆本人直接支持课程“唯一必要实体 God”复合叙述的原文。"
+      }
+    },
+    {
+      "code": "2-3-2",
+      "name": "心物二元论",
+      "depth": 3,
+      "parent": "2-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-3-2_%E5%BF%83%E7%89%A9%E4%BA%8C%E5%85%83%E8%AE%BA_%E4%B8%80%E5%88%87%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%B2%A1%E8%90%BD%E4%B9%8B%E8%B7%AF/0151_2-3-2_%E5%BF%83%E7%89%A9%E4%BA%8C%E5%85%83%E8%AE%BA_%E4%B8%80%E5%88%87%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E6%B2%A1%E8%90%BD%E4%B9%8B%E8%B7%AF_p4023.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1cv411j7qQ",
+        "axis_locator": [
+          "public/ism.json[2-3-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：Ontic(宇宙(Cosmos)、空间性)与Ontological(太一、上帝(God)、时间性)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：灵魂(Soul)(调和具有普遍性的至高主宰(Deity)与具体的自然的对立)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：哲学与神学(Theology)的对立"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-3-2｜心物二元论",
+        "portrait": "用灵魂或心灵的独立性解释自我，又把自然身体放在另一个层次；课程还将哲学与神学的分立放进中世纪框架。",
+        "core_commitments": [
+          "灵魂不简单等于身体运动",
+          "心身区分与神学论证交织"
+        ],
+        "problem_conflict": "如果灵魂与身体性质不同，它们如何产生可观察的相互作用？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "日常宇宙与存在的神学框架相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "灵魂中介至高主宰和自然"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "哲学与神学的权威关系仍在争论"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我觉得疼痛既是身体损伤，也是只有我能感到的经历。如果两者真属不同实体，药物为何会改变体验？"
+        },
+        "strong_opponent": {
+          "argument": "伊丽莎白公主追问非广延心灵如何推动有广延身体，要求二元论说明因果机制。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可从认识上区分心与物，再谨慎论证是否真的存在两种独立实体。",
+          "fair_reply": "可从认识上区分心与物，再谨慎论证是否真的存在两种独立实体。"
+        },
+        "internal_tension": "从“能分别想象”到“能分别存在”的推理并非自动有效。",
+        "dialectical_assessment": "笛卡尔的我思和伊丽莎白通信构成真正历史论辩；课程更广的神学等级叙述仍要另核。",
+        "self_questions": [
+          "你说的是体验与神经描述不同，还是它们是可分离实体？",
+          "心如何影响身体行动？"
+        ],
+        "neighbor_distinction": "同父2-3-1压向单一实体；2-3-3设多单子及上帝协调；2-3-4以数学关系和观察者平等为枢纽。"
+      },
+      "pro_sources": [
+        {
+          "author": "René Descartes",
+          "work": "Meditations on First Philosophy",
+          "version": "1641原著；Wikisource英译，译者页面未明确",
+          "locator": "第二沉思开头，我思确定性",
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+          "read_scope": "第二沉思开头四段；不含第六沉思完整二元论",
+          "supports": "我思的确定性显示心灵问题不能直接等于外物认识",
+          "limits": "第二沉思未完成第六沉思的实体分离证明",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Princess Elisabeth of Bohemia",
+          "work": "Letter to Descartes, 6 May 1643",
+          "version": "1643法文原信；Jonathan Bennett现代英译",
+          "locator": "1643年5月6日信，心灵怎样推动身体",
+          "url": "https://www.earlymoderntexts.com/assets/pdfs/descartes1643.pdf",
+          "read_scope": "PDF伊丽莎白1643-05-06信；信件针对笛卡尔",
+          "supports": "身心若分立，其因果相互作用需要说明",
+          "limits": "质疑机制不直接证明一元论",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "positive_gap: 课程12–13世纪哲学/神学关系未由笛卡尔第二沉思支持。"
+      }
+    },
+    {
+      "code": "2-3-3",
+      "name": "单子论",
+      "depth": 3,
+      "parent": "2-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-3-3_%E5%8D%95%E5%AD%90%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E5%9F%BA%E7%A1%80_%E8%8E%B1%E5%B8%83%E5%B0%BC%E5%85%B9%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%8A%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E5%86%85%E5%9C%A8%E5%B0%81%E9%97%AD%E7%9A%84%E6%9C%BA%E6%A2%B0%E6%80%A7%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%A4%96%E5%9C%A8/0156_2-3-3_%E5%8D%95%E5%AD%90%E4%B8%BB%E4%B9%89_%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E5%9F%BA%E7%A1%80_%E8%8E%B1%E5%B8%83%E5%B0%BC%E5%85%B9%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%8A%E7%AC%9B%E5%8D%A1%E5%B0%94%E7%9A%84%E5%86%85%E5%9C%A8%E5%B0%81%E9%97%AD%E7%9A%84%E6%9C%BA%E6%A2%B0%E6%80%A7%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%A4%96%E5%9C%A8%E5%AD%A4%E7%AB%8B%E7%9A%84%E5%B9%B6%E5%88%97%E5%85%B3%E7%B3%BB%E7%9A%84_p4145.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1TN411f7Uo",
+        "axis_locator": [
+          "public/ism.json[2-3-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：由人的理性单子折射出的表象世界与形而上世界中单子彼此分隔的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：上帝(调和复杂的、聪明的单子与简单的、愚蠢的单子的二分)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：基于单子论的自然形而上学(调和哲学与神学的对立)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-3-3｜单子论",
+        "portrait": "把世界看成许多各自具有内在视角的简单单子；它们不直接互相穿透，协调问题交给上帝或预定秩序。",
+        "core_commitments": [
+          "简单单子无部分和“窗口”",
+          "各自表象与共同世界需要协调"
+        ],
+        "problem_conflict": "若彼此没有窗口，为什么我们观察到稳定互动和互相影响？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "表象世界与彼此分隔的单子世界相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "上帝调和不同清晰度的单子"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "自然形而上学试图连通哲学与神学"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我和你看到同一场雨，却各从自己的视角经历。若每个视角完全封闭，我们为什么还能一起修屋顶？"
+        },
+        "strong_opponent": {
+          "argument": "伊丽莎白的因果问题可被推广：若不允许直接作用，协调究竟是可检验机制还是被预设的和谐？",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "单子论可解释视角差异；必须说明共享经验如何让模型受反例约束。",
+          "fair_reply": "单子论可解释视角差异；必须说明共享经验如何让模型受反例约束。"
+        },
+        "internal_tension": "上帝保证协调，使单子独立与共同秩序同时成立，却可能把难题移到保证者那里。",
+        "dialectical_assessment": "单子不可等同物理粒子或康德物自身；原典只支持严格定义下的无窗与协调。",
+        "self_questions": [
+          "每个“视角”是比喻还是独立实体？",
+          "相互影响对你是表象还是实际因果？"
+        ],
+        "neighbor_distinction": "同父2-3-1只留唯一实体；2-3-2心与物二分；2-3-4数学几何关系优先。"
+      },
+      "pro_sources": [
+        {
+          "author": "G. W. Leibniz",
+          "work": "Monadology",
+          "version": "1714法文原著；Robert Latta英译1898，Harvard转录",
+          "locator": "§§1–7，简单实体与无窗",
+          "url": "https://people.math.harvard.edu/~knill/various/monadology/index.html",
+          "read_scope": "§§1–7；不把单子等同现代物理微粒",
+          "supports": "§§1–7阐明无部分单子与无窗",
+          "limits": "该节段尚不足证明课程关于每物思维、上帝平等伦理的全部解释",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Princess Elisabeth of Bohemia",
+          "work": "Letter to Descartes, 6 May 1643",
+          "version": "1643法文原信；Jonathan Bennett现代英译",
+          "locator": "1643年5月6日信，心灵怎样推动身体",
+          "url": "https://www.earlymoderntexts.com/assets/pdfs/descartes1643.pdf",
+          "read_scope": "PDF伊丽莎白1643-05-06信；信件针对笛卡尔",
+          "supports": "封闭实体之间的相互作用问题可作强反问",
+          "limits": "信件针对笛卡尔而非莱布尼茨；跨文本重构",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-3-4",
+      "name": "宇宙平等主义",
+      "depth": 3,
+      "parent": "2-3",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-3_%E5%A4%8D%E4%B9%A0%E8%AF%BE/2-3-4_%E5%AE%87%E5%AE%99%E5%B9%B3%E7%AD%89%E4%B8%BB%E4%B9%89_%E5%93%A5%E7%99%BD%E5%B0%BC%E9%9D%A9%E5%91%BD_%E5%85%AC%E8%BD%AC%E7%9A%84%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%A7%91%E5%AD%A6%E5%8F%B2_%E6%80%9D%E6%83%B3%E5%8F%B2%E6%84%8F%E4%B9%89/0161_2-3-4_%E5%AE%87%E5%AE%99%E5%B9%B3%E7%AD%89%E4%B8%BB%E4%B9%89_%E5%93%A5%E7%99%BD%E5%B0%BC%E9%9D%A9%E5%91%BD_%E5%85%AC%E8%BD%AC%E7%9A%84%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%A7%91%E5%AD%A6%E5%8F%B2_%E6%80%9D%E6%83%B3%E5%8F%B2%E6%84%8F%E4%B9%89_p4269.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1vo4y127Kn",
+        "axis_locator": [
+          "public/ism.json[2-3-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：形而下的宇宙(Cosmos)与形而上的几何关系(简单、美妙)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论3：数学关系(调和万物与上帝的对立)"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：主体的敞开、认识论的自我取消"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-3-4｜宇宙平等主义",
+        "portrait": "借几何关系重新安排观察者位置，不再让地球的日常视角成为天体唯一中心；课程再扩展为宇宙观察者平等。",
+        "core_commitments": [
+          "数学关系可修正直观中心",
+          "观察者位置须被纳入模型"
+        ],
+        "problem_conflict": "不同天体和观测者为何能受同一数学关系解释；改变观察中心后，世界的秩序怎样重新建立？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "可见宇宙与其数学几何关系有间隔"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "数学关系被提升为解释中心"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "课程主张认识论向本体论敞开乃至自我取消：把握几何关系就被视为把握事物本身；哥白尼原著并不证明这一步"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】地图以我家为中心很方便，但测行星轨道不能因此让地球成为宇宙中心。新图式也得经观测检验。"
+        },
+        "strong_opponent": {
+          "argument": "休谟会要求区分模型的计算便利、观测成功与世界本身的本体结构。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "几何模型可经天文预测与反例检验，而非仅凭美感确立。",
+          "fair_reply": "几何模型可经天文预测与反例检验，而非仅凭美感确立。"
+        },
+        "internal_tension": "“去中心”仍可能把数学本身立为新的不受审查中心。",
+        "dialectical_assessment": "哥白尼原典挑战地心安排；课程万物平等、数学本体化是后来的哲学扩展。",
+        "self_questions": [
+          "你要的是观测计算更好，还是一切存在者价值平等？",
+          "什么观测会修正你的几何模型？"
+        ],
+        "neighbor_distinction": "同父2-3-1以唯一实体统摄；2-3-2灵魂统摄；2-3-3上帝协调众单子。"
+      },
+      "pro_sources": [
+        {
+          "author": "Nicolaus Copernicus",
+          "work": "On the Revolutions of the Heavenly Spheres",
+          "version": "1543拉丁原著；Edward Rosen英译，Dartmouth选页",
+          "locator": "第一卷第9–10章，地球与诸天体位置",
+          "url": "https://math.dartmouth.edu/~matc/Readers/renaissance.astro/1.1.Revol.html",
+          "read_scope": "第一卷第9–10章；Osiander前言不属哥白尼",
+          "supports": "第一卷说明地球与天体的位置重排",
+          "limits": "不支持现代无中心宇宙学或所有存在者伦理平等",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "模型成功与必然实在之间仍有推断距离",
+          "limits": "不否定日心模型的历史科学成果",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-4-1",
+      "name": "经验主义",
+      "depth": 3,
+      "parent": "2-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80/0167_2-4-1_%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89_%E9%9C%8D%E5%B8%83%E6%96%AF%E7%9A%84%E6%9E%81%E7%AE%80%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%88%A9%E7%BB%B4%E5%9D%A6%E5%92%8C%E5%A5%91%E7%BA%A6%E8%AE%BA%E7%9A%84%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80_p4358.md",
+        "original_video_url": "https://www.bilibili.com/video/BV12f4y1a7ZV",
+        "axis_locator": [
+          "public/ism.json[2-4-1].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：自然秩序与文明秩序的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：事物的运动/运动机制"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论1：回音论、反映论"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-4-1｜经验主义",
+        "portrait": "从感官受到事物运动影响出发解释观念，再从脆弱个体怎样相互猜疑讨论政治秩序；课程以霍布斯为典型。",
+        "core_commitments": [
+          "具体经验和运动机制优先于抽象共相",
+          "命名和社会契约帮助组织经验"
+        ],
+        "problem_conflict": "若观念只是外物运动的回音，语言意义和共同规范如何从不同个人经验中稳定形成？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "自然秩序与文明秩序对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "运动机制而非固定本质充当解释对象"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "感觉和回音式反映成为认识入口"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】我先看人们在拥挤道路上怎样相互避让，再谈交通规则。可从观察到的行为，怎样推出大家应该守的规范？"
+        },
+        "strong_opponent": {
+          "argument": "休谟指出因果联系的必然性不能直接从感觉中读出，反映论需要处理习惯推断。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可从经验建立可修正规则；规范正当性还需要当事人共同讨论。",
+          "fair_reply": "可从经验建立可修正规则；规范正当性还需要当事人共同讨论。"
+        },
+        "internal_tension": "名字可由约定形成，却又被拿来作公共真理的载体；约定何以受对象约束？",
+        "dialectical_assessment": "霍布斯政治章支持自然状态/契约问题；课程感官回音须另核《利维坦》早章。",
+        "self_questions": [
+          "你说知识起于经验，还是感觉能直接复制外物？",
+          "名字的共同用法怎样形成？"
+        ],
+        "neighbor_distinction": "同父2-4-2以社会学和人类目的统摄科学；2-4-3以逻辑语言中介；2-4-4以行动后果修正方法。"
+      },
+      "pro_sources": [
+        {
+          "author": "Thomas Hobbes",
+          "work": "Leviathan",
+          "version": "1651原著；Richard Tuck编1996 Cambridge Revised Student Edition，Marxists转录",
+          "locator": "第一部第1章 Of Sense，物体运动与感官表象",
+          "url": "https://www.marxists.org/reference/subject/philosophy/works/en/hobbes.htm",
+          "read_scope": "网页第13–25行；并读第4章命名段",
+          "supports": "第一章说明外物运动经感觉器官形成表象与反作用",
+          "limits": "尚不足推出课程每项政治、命名和苹果反例",
+          "relation": "editorial_partial_comparison"
+        },
+        {
+          "author": "Thomas Hobbes",
+          "work": "Leviathan",
+          "version": "1651原著；Standard Ebooks数字版",
+          "locator": "第13章，自然状态的平等、不信任、冲突",
+          "url": "https://standardebooks.org/ebooks/thomas-hobbes/leviathan/text/chapter-13",
+          "read_scope": "第13章开头；仅支持课程政治线索局部",
+          "supports": "第13章从平等脆弱性、不信任推导冲突问题",
+          "limits": "不直接证明感官回音机制",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "David Hume",
+          "work": "An Enquiry Concerning Human Understanding",
+          "version": "1777身后版；L. A. Selby-Bigge编1902二版",
+          "locator": "§§IV–V，因果推断与习惯",
+          "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+          "read_scope": "网页§§IV–V；不含全书",
+          "supports": "经验反复不能提供因果必然性的直接印象",
+          "limits": "休谟与霍布斯有不同历史论题",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "已核霍布斯第一章与第十三章，分别支持感官论和政治秩序局部；课程苹果反例属讲者批评。"
+      }
+    },
+    {
+      "code": "2-4-2",
+      "name": "实证主义",
+      "depth": 3,
+      "parent": "2-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/0172_2-4-2_%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_%E4%B8%BA%E4%BA%BA%E6%80%A7%E7%AD%91%E8%B5%B7%E5%9C%A3%E5%9D%9B_%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6_%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AD%94%E5%BE%B7%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_p4480.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1o5411u7B4",
+        "axis_locator": [
+          "public/ism.json[2-4-2].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：形而下(自发的、散漫的秩序)与形而上(人类的伟大力量)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：拒绝预设物质本源等本体，不建构可直接把握的本体论。"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论2：科学与社会学的二分"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-4-2｜实证主义",
+        "portrait": "把科学看作人类社会改进的工具，并希望通过社会学组织知识和伦理；课程同时批评“人类”这个抽象整体会盖过具体人。",
+        "core_commitments": [
+          "实证方法取代神学与玄学的解释优先权",
+          "社会学统摄人类知识的价值方向"
+        ],
+        "problem_conflict": "科学分科各自有效却难协调共同生活；怎样让社会研究统合知识并服务人类整体？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "散漫现实与人类组织力量相对"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "拒绝预设可直接把握的物质本源"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "自然科学与社会学被分工并排序"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】医疗数据很重要，但我更想知道哪些制度能把疗效送到每个人。若专家替所有人决定“人类利益”，这个目标也得受质询。"
+        },
+        "strong_opponent": {
+          "argument": "杜威强调经验是在行动和承受后果中形成；社会方案不能只从顶端给出总纲。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "可以用参与者反馈使社会科学的目标可修改，而不放弃公共规划。",
+          "fair_reply": "可以用参与者反馈使社会科学的目标可修改，而不放弃公共规划。"
+        },
+        "internal_tension": "把一切伦理都社会学化后，受压迫者反对当前社会规范的理由从哪里来？",
+        "dialectical_assessment": "孔德本人文本可支撑实证转向局部；课程对女性与无产阶级的特定概括需另核段落。",
+        "self_questions": [
+          "你把社会学看作方法之一还是全部科学的终点？",
+          "抽象人类利益如何接受具体人的反对？"
+        ],
+        "neighbor_distinction": "同父2-4-1由感觉与运动机制起步；2-4-3靠逻辑语言；2-4-4用具体行动后果修正观念。"
+      },
+      "pro_sources": [
+        {
+          "author": "Auguste Comte",
+          "work": "A General View of Positivism",
+          "version": "1848法文原著；J. H. Bridges英译，网页采用1908再版，Gutenberg #53799",
+          "locator": "实证教育段（网页约L1158–1184）；以 Humanity 为中心及社会学综合段（约L2107–2133）",
+          "url": "https://dev.gutenberg.org/cache/epub/53799/pg53799-images.html",
+          "read_scope": "核读所列段：数学至社会学的教育排序、社会学与其他科学依赖、Humanity宗教；未覆盖全书",
+          "supports": "实证教育由数学至社会学，并把人类作为综合焦点；原文明确提出 Humanity 的宗教",
+          "limits": "不支持课程关于女性和无产阶级的全部特定概括",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "John Dewey",
+          "work": "Democracy and Education",
+          "version": "1916英文原著，Gutenberg #852",
+          "locator": "第11章第1节，行动、结果与经验",
+          "url": "https://www.gutenberg.org/files/852/852-h/852-h.htm",
+          "read_scope": "第11章开头；不等于目的全无",
+          "supports": "经验需在行动及其后果中检验",
+          "limits": "不否定社会学可以研究制度",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "孔德原文已核社会学排序及 Humanity 宗教局部；课程女性与无产阶级评价未在所列段核实。"
+      }
+    },
+    {
+      "code": "2-4-3",
+      "name": "逻辑实证主义",
+      "depth": 3,
+      "parent": "2-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-3_%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89/0177_2-4-3_%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E4%B8%BB%E4%B9%89_p4633.md",
+        "original_video_url": "https://www.bilibili.com/video/BV19h411Y7bv",
+        "axis_locator": [
+          "public/ism.json[2-4-3].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：感知空间与逻辑空间的二分"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：闭合"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论3：逻辑语言(调和直接经验与理智建构的二分)"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-4-3｜逻辑实证主义",
+        "portrait": "希望用逻辑分析让经验陈述更清楚，筛掉含混的形而上言说；课程进一步说逻辑语言可能垄断自然话语和社会科学。",
+        "core_commitments": [
+          "逻辑语言提供检验意义的工具",
+          "感官经验与理智构造须被明确连接"
+        ],
+        "problem_conflict": "如何借清晰语言检验论证，而不先规定只有一种形式语言有权说什么是真实？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "感知空间与逻辑空间分立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "本体边界交给科学共同体而趋于闭合"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "逻辑语言中介直接经验与理智建构"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这项政策说能提高幸福，我想先定义指标和推论。但如果有人说出的痛苦不进指标，我也要检查指标本身。"
+        },
+        "strong_opponent": {
+          "argument": "奎因批评分析/综合截然二分，指出语句与经验检验更像一个整体网络。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "澄清术语和推理仍可行；逻辑形式不应宣称穷尽生活意义。",
+          "fair_reply": "澄清术语和推理仍可行；逻辑形式不应宣称穷尽生活意义。"
+        },
+        "internal_tension": "意义标准能否用自身标准证明其有意义？",
+        "dialectical_assessment": "卡尔纳普支持逻辑分析纲领，课程“压制社会科学”是外部批评而非其自述。",
+        "self_questions": [
+          "你是在用逻辑澄清具体说法，还是宣布无法形式化的话一律无意义？",
+          "经验反例怎样改变语言框架？"
+        ],
+        "neighbor_distinction": "同父2-4-1以感官回音为认识入口；2-4-2以社会学排序；2-4-4以行动后果和过程修正。"
+      },
+      "pro_sources": [
+        {
+          "author": "Rudolf Carnap",
+          "work": "The Elimination of Metaphysics Through Logical Analysis of Language",
+          "version": "1932德文；Arthur Pap英译，diText转录",
+          "locator": "§§1–2，意义标准与形而上学语句",
+          "url": "https://ditext.com/carnap/elimination.html",
+          "read_scope": "网页§§1–2；不支持课程对社会科学的全部批评",
+          "supports": "逻辑分析可检验形而上句子的意义条件",
+          "limits": "并不证明逻辑语言天然中立或科学共同体可封闭本体",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "W. V. O. Quine",
+          "work": "Two Dogmas of Empiricism",
+          "version": "1951初刊；1961修订版，diText转录",
+          "locator": "§§1–2、6，分析性及整体经验检验",
+          "url": "https://ditext.com/quine/quine.html",
+          "read_scope": "网页所列节次；不主张取消一切逻辑",
+          "supports": "分析/综合二分和逐句经验还原受强挑战",
+          "limits": "奎因不主张停止使用逻辑",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    },
+    {
+      "code": "2-4-4",
+      "name": "实用主义",
+      "depth": 3,
+      "parent": "2-4",
+      "course_evidence": {
+        "lecture_url": "https://github.com/weathour/ismism-system/blob/b4d66c15e3d0e4361f6c6b58821e39dd7e947fb2/corpus/clean-markdown/2_%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%8F%A4%E4%BB%A3%E8%B4%B5%E6%97%8F%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%86%92%E9%99%A9_%E8%83%8C%E6%99%AF%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E7%A7%A9%E5%BA%8F%E4%B8%8E%E5%AE%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%B9%E7%AB%8B_%E6%AF%94%E4%B8%8B_%E5%BD%A2%E8%80%8C%E4%B8%8B%E5%AD%A6_%E6%9C%89%E4%BD%99_%E6%AF%94%E4%B8%8A_%E8%A7%82/2-4_%E5%8F%8D%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6_%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%BF%85%E9%A1%BB%E7%BB%95%E5%BC%80%E7%9A%84%E9%99%B7%E9%98%B1_%E5%98%B4%E5%B7%B4%E4%B8%8A%E4%B8%8D%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E6%98%AF%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE/0182_2-4-4_%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89_%E6%9D%9C%E5%A8%81%E5%93%B2%E5%AD%A6%E7%9A%84%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E9%A2%84%E8%AE%BE_p4783.md",
+        "original_video_url": "https://www.bilibili.com/video/BV1A5411g7Rh",
+        "axis_locator": [
+          "public/ism.json[2-4-4].axis_list 与 feature_list",
+          "本轮未重新核对固定社区讲稿的页行；课程轴以现有校对条目为准"
+        ],
+        "course_axes": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "course_wording": "场域论2：形而下(经验性技艺)与形而上(哲学理论)的对立"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "course_wording": "本体论4：向过程的丰富性敞开、向万事万物的整体性敞开"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "course_wording": "认识论4：拒绝旁观式认识及经验／观念的严格二分，以具体效用检验方法"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "course_wording": null
+          }
+        ],
+        "scope": "课程格位只依原库；原典仅支持明示局部命题，不反推完整课程编号"
+      },
+      "stance_profile": {
+        "position_title": "定位：2-4-4｜实用主义",
+        "portrait": "把思想当作处理实际问题的工具：亲自行动、看结果、再修改方法；课程也追问这种反旁观姿态能否自洽地解释理论的地位。",
+        "core_commitments": [
+          "认识在行动与承受后果中发生",
+          "理论与技艺应相互校正"
+        ],
+        "problem_conflict": "若拒绝旁观式哲学，提出这一拒绝的理论自身为什么不又成为凌驾实践的观点？",
+        "axes_plain": [
+          {
+            "dimension": "场域论",
+            "status": "course_defined",
+            "text": "经验技艺与哲学理论有张力"
+          },
+          {
+            "dimension": "本体论",
+            "status": "course_defined",
+            "text": "存在过程保持开放，不先封死本体"
+          },
+          {
+            "dimension": "认识论",
+            "status": "course_defined",
+            "text": "以实践效用检验方法而非隔岸旁观"
+          },
+          {
+            "dimension": "目的论",
+            "status": "undefined_at_this_depth",
+            "text": null
+          }
+        ],
+        "synthetic_example": {
+          "synthetic": true,
+          "text": "【synthetic】这套教学法先在两班试行，让学生反馈哪里卡住。我不只看平均分，也看他们能否在新问题上应用。"
+        },
+        "strong_opponent": {
+          "argument": "康德追问经验何以可能的普遍条件；只看局部成效未必解释判断本身的合法性。",
+          "relation": "根据所列反方原典作编者重构；并非历史上的直接论战，除非另有说明",
+          "fairness": "反方理由与原典支持范围分开",
+          "possible_response": "实践检验不是排斥概念分析，理论也可因新后果被改写。",
+          "fair_reply": "实践检验不是排斥概念分析，理论也可因新后果被改写。"
+        },
+        "internal_tension": "若“有用”总依具体目标，目标本身应由谁决定、如何审查？",
+        "dialectical_assessment": "杜威文本明确行动与后果；课程称其伪辩证和形而上仍属讲者判断。",
+        "self_questions": [
+          "你说有用是短期见效还是长期扩展能力？",
+          "方案失败时会改理论还是改指标？"
+        ],
+        "neighbor_distinction": "同父2-4-1重感觉反映；2-4-2重社会学总体目标；2-4-3重逻辑语言。"
+      },
+      "pro_sources": [
+        {
+          "author": "John Dewey",
+          "work": "Democracy and Education",
+          "version": "1916英文原著，Gutenberg #852",
+          "locator": "第11章第1节，行动、结果与经验",
+          "url": "https://www.gutenberg.org/files/852/852-h/852-h.htm",
+          "read_scope": "第11章开头；不等于目的全无",
+          "supports": "经验包含行动与后果的联系",
+          "limits": "不支持哲学史或行动完全无目的",
+          "relation": "editorial_partial_comparison"
+        }
+      ],
+      "con_sources": [
+        {
+          "author": "Immanuel Kant",
+          "work": "Critique of Pure Reason",
+          "version": "1781/1787原著；J. M. D. Meiklejohn英译，Gutenberg",
+          "locator": "第二版序言，经验对象与认识条件",
+          "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+          "read_scope": "B版序言；不等同社会学建构论",
+          "supports": "知识的有效性也需条件论证",
+          "limits": "康德并不否认行动后果有认识价值",
+          "relation": "editorial_counterargument"
+        }
+      ],
+      "evidence_status": {
+        "course": "库轴已核；讲稿页行本轮未重核",
+        "audio_verified": false,
+        "primary": "partial",
+        "note": "原典仅支持所列局部命题；不支持从原典直接确认课程三级码"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "long-passages.1",
+  "scope": "两篇公开论坛同一作者连续长论述；按指定边界实际联网通读；短锚点和中文内容提要用于定位，不代替输入全文。此前短段是长短配对，并非新增独立样本。",
+  "sources": [
+    {
+      "case_id": "LT01",
+      "source_url": "https://www.reddit.com/r/union/comments/sxdixq/fixing_a_bad_union/",
+      "source_locator": "楼主正文连续段落，从 First, a union is only as strong 起，至 swept the elections as a result 所在段结尾",
+      "start_anchor": "First, a union is only as strong",
+      "end_anchor": "ran as a unit.",
+      "reading_scope": "联网核读从上述起点至终点，包括会员参与、联系同事、组队参选及选举结果；全文其他段落及评论不计入输入。",
+      "length": "约521英文词，网页正文行21–28按空格拼接计数；较英文150–500词参考范围略长。",
+      "form": "Reddit公开论坛原创书面发帖，单一作者",
+      "date": "页面显示约5年前，确切日期未知；2026-11-15核读",
+      "summary_zh": "忠实提要，非输入全文：作者认为工会力量来自成员与领导关系，批评不倾听的领导使参与减少。提出先了解合同、联系同事、凝聚共同意见，再向领导施压或参选；以自己所在单位既有领导失职、团队联合竞选并获胜为实例。",
+      "paired_prior": "与 round-04:T08 同一帖；本次阅读起止段不含T08原句，是同帖扩展阅读，非新增独立作者样本。",
+      "input_character_count": 2968,
+      "input_word_count": 521,
+      "count_method": "网页对应正文文本行按空格拼接，不含行号；词数以空白分词，字符数按拼接文本统计。"
+    },
+    {
+      "case_id": "LT02",
+      "source_url": "https://www.reddit.com/r/antiwork/comments/tiwpnu/profiting_off_of_workers_is_theft/",
+      "source_locator": "楼主完整正文，首段至末段，不含评论",
+      "start_anchor": "First of all, let's define what profit is.",
+      "end_anchor": "those who actually produce it.",
+      "reading_scope": "联网核读正文从利润定义到主张由工人或政府持有生产资料的结尾；其他用户反驳与楼主回复不计入输入。",
+      "length": "约322英文词，网页正文行18–21按空格拼接计数。",
+      "form": "Reddit公开论坛原创书面发帖，单一作者",
+      "date": "2022-03-20（公开搜索结果）；2026-11-15核读",
+      "summary_zh": "忠实提要，非输入全文：作者以收入、成本、工资和利润的符号关系说明劳动创造收入而所有者占有余额；认为所有权本身并不构成生产贡献，因而提出由工人或政府拥有生产资料。此为发言者的论证，不预先认可其经济事实或结论。",
+      "paired_prior": "与 round-03:T08 为同一帖子，短段包含于本次全文；长短对照不是新增独立样本。",
+      "input_character_count": 1849,
+      "input_word_count": 322,
+      "count_method": "网页对应正文文本行按空格拼接，不含行号；词数以空白分词，字符数按拼接文本统计。"
+    }
+  ]
+}

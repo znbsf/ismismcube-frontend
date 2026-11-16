@@ -1,0 +1,283 @@
+{
+  "schema_version": "round-04.initial",
+  "scope": "独立初判已冻结；局部支持原话不等于课程格位已确认，未知不是反证。非金标，不统计准确率。",
+  "items": [
+    {
+      "case_id": "S01",
+      "source_url": "https://origin.v2ex.com/t/1215825?p=1",
+      "original_input": "日久见人心，放低期待，按照自己所信仰的生活就行，除非你想从环境中收获等价的反馈，我在经历了一些事情之后，我的社交心理模型会第一时间给新认识的人打上“恶”的标签。然后随着时间和交互来迭代对每个人的认识。",
+      "input_evidence": "以过去经历产生初步恶意预期，再由互动修订",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "未将经验与共同体秩序形成课程所说对立"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未对自我或世界背后的实体下判断"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "过去经验塑造预期，新的互动修订认识；未说明因果推断的必然性或习惯机制"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "按照信仰生活是个人建议，未给共同体共情伦理"
+        }
+      },
+      "neighbor_boundary": "日常心理模型和经验修正不是功能主义内部因果角色，也不自动等于休谟式因果习惯",
+      "best_followup": "除了交互修正印象，你认为从重复观察推断未来是否有逻辑上的必然保证？",
+      "primary_scope": "休谟习惯解释经验期待只能作局部对比，不能据此把印象更新等同因果论。"
+    },
+    {
+      "case_id": "S02",
+      "source_url": "https://origin.v2ex.com/t/1215825?p=1",
+      "original_input": "之所以有这个疑问，是前几天和同事聊天，他们觉得待人热情的人，大多都是另有所图。可工作这么多年，我始终没变，遇见陌生人、接触新事物，依旧心怀热忱。就像有新人入职，我会主动约他们一起吃饭，对方遇到难处也会搭把手。于我而言，这只是团队里本该有的相处方式，真的没有任何别的想法。",
+      "input_evidence": "同事认为热情另有所图；发言者则视帮助新人为团队正常相处",
+      "candidates": [
+        {
+          "code": "1-1-4-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "团队语境没有说明课程秩序宇宙"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "没有以物质互动定义自我或精神"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "叙述帮助新人等互动；没有说明自我由语言关系生成"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "explanation": "表达团队相互帮助的价值；不等于无终极目的"
+        }
+      },
+      "neighbor_boundary": "同事的怀疑是转述；帮助行为不等于社会行为主义理论",
+      "best_followup": "你认为与他人互动怎样影响一个人理解自己？",
+      "primary_scope": "米德社会自我形成可作问题对照；实际帮助行为并不证明其理论。"
+    },
+    {
+      "case_id": "S03",
+      "source_url": "https://fast.v2ex.com/t/1238879",
+      "original_input": "“认知”这个词用多了，越来越感觉带有一种贬义色彩。仔细想想，“认知”更多时候被用来拉开和强调某种差距。某些人明明是因为出身或特殊经历才形成的思维模式，却硬要把它说得像 USB 一样即插即用。",
+      "input_evidence": "指出“认知”被用以强调差距，思维模式可能受出身或经历影响",
+      "candidates": [
+        {
+          "code": "1-1-4-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "承认社会经历影响个体思维，但未提出符号互动的秩序场"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "没有对社会互动的物质本体作论证"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "以背景与特殊经历解释思维差异；未说明自我形成和自我对象化"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "没有课程目的主张"
+        }
+      },
+      "neighbor_boundary": "背景塑造观念不等于米德关于自我如何在社会互动产生的论证",
+      "best_followup": "这些经历如何通过语言或他人的反馈影响一个人对自己的认识？",
+      "primary_scope": "米德 §18 可以比较社会经验，自我对象化并不在该句。"
+    },
+    {
+      "case_id": "S04",
+      "source_url": "https://fast.v2ex.com/t/1238879",
+      "original_input": "最主要的问题是思维的固化，大部分人都知道如何能变好、如何做能挣更多的钱，但是这种认知抵抗不了固化的思维，从小养成的思维惯性让人们稳稳的行驶在固有的轨道上，很难做出改变。你改变不了的这种固化的思维，它也可以称作习惯也可以叫做潜意识，这就是算命占卜所说的“命”",
+      "input_evidence": "长期思维惯性影响行动，并把它比作算命说的命",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "没有课程第一人称和共同体秩序的对立"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "没有关于经验背后实体的说明"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出习惯影响行动；没有重复经验构成因果期待的论证"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "没有课程共情伦理方向"
+        }
+      },
+      "neighbor_boundary": "习惯对行为的影响不等于休谟因果习惯；命是比喻，不能据此认定其赞同超自然宿命",
+      "best_followup": "这里习惯如何形成？你是在说行为难改变，还是相信未来被必然决定？",
+      "primary_scope": "休谟关于习惯与因果推断只作界限对照，不支持把行动惯性自动归格。"
+    },
+    {
+      "case_id": "S05",
+      "source_url": "https://www.v2ex.com/t/1178614",
+      "original_input": "12.28 更新一下，12315 投诉了之后，Apple 给回电了之后说要和后台沟通一下，第三个工作日给解封了，但是一直不敢去登陆 App Store ，一朝被蛇咬 十年怕井绳，已经把 iCloud 照片和云盘的数据下载到群晖里了，数据在自己的手里才是最靠谱的，还是不能过于依赖云服务。感谢各位 V 友的帮助。",
+      "input_evidence": "一次账户故障后备份资料，认为数据掌握在自己手里更可靠",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "描述服务经历，未讨论课程场域"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未对经验背后实体表态"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "将经历应用于未来风险判断；没有就重复经验及因果必然性展开理论"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "explanation": "为保存数据选择本地备份；不是课程共同体伦理"
+        }
+      },
+      "neighbor_boundary": "经验促使行动不等于休谟因果习惯论，备份是个人方案而非实体论",
+      "best_followup": "你的判断依靠这一经历、多个案例还是对云服务机制的分析？",
+      "primary_scope": "休谟经验与习惯段可对照从经历形成期待，不能作为作者理论依据。"
+    },
+    {
+      "case_id": "S06",
+      "source_url": "https://www.v2ex.com/t/1226452",
+      "original_input": "如果是要让活人实现数字转生，那困难可能主要在迁移的那一刻。当一个脑子已经被快照化或者副本化，并以某种方式在你体外运行，那这个体外的“你”和你本身的脑子已经是两个客观的分支。除非有某种方式可以实时更新本身的你和体外的“你”的意识，并将本身的你停止运行，以实现热迁移。",
+      "input_evidence": "假设脑的副本在体外运行后，原体与副本形成两个分支，提出实时同步设想",
+      "candidates": [
+        {
+          "code": "1-1-3-1",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "没有科学宇宙整体论证"
+        },
+        "ontology": {
+          "status": "inference",
+          "explanation": "区分体外运行副本与本体，但并非明确支持或否定某材料可实现心理状态"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出条件性迁移和持续同步机制，没有心理状态的因果角色定义"
+        },
+        "teleology": {
+          "status": "unknown",
+          "explanation": "未给通用函数体系目标"
+        }
+      },
+      "neighbor_boundary": "数字复制及身份分支问题不同于功能主义的多重实现，条件性假设不能当已实现技术",
+      "best_followup": "你认为副本的心理状态与原体相同依靠哪些功能关系，而非仅复制结构？",
+      "primary_scope": "Putnam 的功能角色和多重实现可提出区别；该段不足以验证其全部。"
+    },
+    {
+      "case_id": "S07",
+      "source_url": "https://www.v2ex.com/t/1226452",
+      "original_input": "正经来说，应该要完整扫描神经系统的结构，并且通过精确的算法来模拟其后续变化，基本上就是把人脑的运算映射为计算机的运算，这离当前科技很遥远。即便如此，以现代的伦理观估计也无法接受，哪怕这个计算机程序能够完全正确模拟生物学大脑的行为。",
+      "input_evidence": "设想扫描神经结构并通过算法模拟行为，同时认为当代伦理或许不能接受",
+      "candidates": [
+        {
+          "code": "1-1-3-1",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "inference",
+          "explanation": "以神经结构和计算机模拟为背景，未确立课程科学宇宙"
+        },
+        "ontology": {
+          "status": "inference",
+          "explanation": "涉及计算机模拟生物脑，但未说明同类心理状态跨材料实现的条件"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "提出扫描结构和模拟变化与行为；没有定义心理状态的内部因果角色"
+        },
+        "teleology": {
+          "status": "support_partial",
+          "explanation": "表示对伦理可接受性的疑虑，非课程函数体系目的"
+        }
+      },
+      "neighbor_boundary": "模拟行为不等于主观体验或功能主义完整理论；没有该机制是未知而不是反证",
+      "best_followup": "只要行为一致是否足够，还是需要内部状态发挥同样的因果作用？",
+      "primary_scope": "Putnam 描述功能因果角色只作参照；模拟与伦理评价不构成其立场全貌。"
+    },
+    {
+      "case_id": "S08",
+      "source_url": "https://www.reddit.com/r/socialskills/comments/1lhqd2x/can_you_really_change_how_people_see_you/",
+      "original_input": "Yes, many people can change the way they see you\n\nHowever, this will vary among individuals since some people aren't very observant and / or aren't very mentally flexible (ie, they don't frequently update their opinions and views based on new evidence) while other people are highly observant and open-minded\nReal life example: I used to be very socially anxious, more quiet & physically still, and shy. I've intentionally worked on my social skills over the last few years and behave very differently now. One of my friends I've known for years commented several times that he's noticed me stepping out of my shell and being a social butterfly (his actual words). So clearly, his opinion of me has updated based on new evidence he's witnessed",
+      "input_evidence": "发言者改变社交行为，朋友观察后修正对其印象",
+      "candidates": [
+        {
+          "code": "1-1-4-4",
+          "status": "局部线索，完整编号未成立"
+        },
+        {
+          "code": "2-4-1-4",
+          "status": "局部线索，完整编号未成立"
+        }
+      ],
+      "decision": "abstain_full_code",
+      "axes": {
+        "field": {
+          "status": "unknown",
+          "explanation": "社会互动场景本身不构成课程外部观察秩序论"
+        },
+        "ontology": {
+          "status": "unknown",
+          "explanation": "未说明身体物质或精神的本体结构"
+        },
+        "epistemology": {
+          "status": "support_partial",
+          "explanation": "从行为证据更新他人看法；未解释自我在符号互动中生成，也未论证因果习惯"
+        },
+        "teleology": {
+          "status": "inference",
+          "explanation": "重视改善社交技能与他人理解，不构成课程目的论"
+        }
+      },
+      "neighbor_boundary": "观察他人行为并更新判断既不是社会行为主义完整机制，也不是休谟因果理论",
+      "best_followup": "你觉得朋友的反馈只是改变评价，还是参与形成了你对自己的理解？",
+      "primary_scope": "米德社会自我与休谟经验习惯均为问题对照，输入没有各自独特机制。"
+    }
+  ],
+  "post_freeze_transcription_note": "S08 opening sentence had a page line break without punctuation; removed an inserted period from mirrored source text only. Classification judgment unchanged."
+}

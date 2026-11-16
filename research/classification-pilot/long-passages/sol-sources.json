@@ -1,0 +1,45 @@
+{
+  "schema_version": "long-passages.1-frozen",
+  "scope": "两篇非Reddit中文公开原创长发言；输入是source_url所指页面的指定连续行段，记录忠实内容提要而不复制全文。判读者必须打开原页按边界阅读全文。",
+  "access_date": "2026-11-15",
+  "items": [
+    {
+      "case_id": "LS01",
+      "source_url": "https://edge.v2ex.com/t/1231318",
+      "source_locator": "楼主原创帖第三节正文网页文本行65–70，连续段落，止于梦中自我与童年自己的类比；第71行起不计入固定分析输入。",
+      "page_date": "页面显示Jul 31，年份由2026-09-08末回复日期推断为2026；精确发表时间未知。",
+      "public_speech_type": "公开论坛原创书面长段",
+      "language": "zh",
+      "input_mode": "linked_full_passage_with_faithful_summary_not_verbatim_copy",
+      "start_anchor": "严格讲，根本不存在",
+      "end_anchor": "那个小混混",
+      "input_character_count": 563,
+      "count_method": "网页文本行65–70的非空行正文字符数相加，不含行号与换行；按网页显示字词，不增删。",
+      "read_scope": "全文打开核读第三节行63–74，并阅读前一节可行性/必要性、后一节硅脑操作方案行75–83以区分输入与来源后文。",
+      "faithful_content_summary_zh": "作者先否定存在固定不变的自我：年龄、记忆和经历不断变化，甚至把睡眠中意识中断设为一个假想困难。随后转而指出，人通常仍把童年、昨天和现在的自己认作同一人，并用梦里带着另一套记忆却仍被醒后归为自己的体验作例证。他据此把“我还是我”的问题转向主观经验的连续感。段内没有讲心理状态由输入、内部状态和输出的因果角色定义，也没有从经验重复推出因果必然性的论证。",
+      "source_context_not_input": "同节第71–74行继续主张逻辑连续性可脱离物理时空，第四节提出硅脑接管方案；这些只用于核对全文立场，不得偷渡进本段固定输入。",
+      "paired_short_case": "round-03:S01",
+      "paired_short_relation": "旧短段仅取第65行首两句，长段补入睡眠、童年和梦的连续经验论证。",
+      "copyright_boundary": "非Reddit来源，仅留两处短定位锚点与自写忠实提要；原文请按URL和行段核读。"
+    },
+    {
+      "case_id": "LS02",
+      "source_url": "https://www.v2ex.com/t/1096418",
+      "source_locator": "楼主原创帖正文网页文本行11–29，从两群体对色觉驾驶的争论到以数据而非立场判断风险；补充说明行30–38不计入输入。",
+      "page_date": "2024-12-10",
+      "public_speech_type": "公开论坛原创书面长段",
+      "language": "zh",
+      "input_mode": "linked_full_passage_with_faithful_summary_not_verbatim_copy",
+      "start_anchor": "立场决定思考",
+      "end_anchor": "科学之道",
+      "input_character_count": 616,
+      "count_method": "网页文本行11–29的非空行正文字符数相加，不含行号与换行；按网页显示字词，不增删。",
+      "read_scope": "全文打开核读楼主正文行11–29及两条补充行30–38，并抽读相邻评论行62–84；评论均非楼主固定输入。",
+      "faithful_content_summary_zh": "作者先观察到色觉异常驾驶议题中两群体相互猜疑；随后提出驾照资格在法律实施上须有统一、可执行的标准，并认为各地检测差异会造成裁量失衡甚至寻租。接着把争论转为一个经验问题：色觉异常是否使驾驶事故风险升高。为此建议按有无相关特征分组，把驾驶员体检和事故责任记录结合，比较风险差异，再讨论何种差异足以支持限制驾照。结论是公共政策应由可核的数据与可争论的阈值引导。该段谈法律、交通与统计，未宣称心理学应舍弃内省。",
+      "source_context_not_input": "楼主在补充中把正文误写的“弱视”更正为“色弱”，并说明不愿无条件争取权益。保留正文原词；补充只作释义，不计入固定输入或归码证据。其他评论者的论证不归于楼主。",
+      "paired_short_case": "round-03:S04",
+      "paired_short_relation": "旧短段只取正文行22–26的数据提问；长段新增政策前提、标准执行、风险阈值与结论。",
+      "copyright_boundary": "非Reddit来源，仅留两处短定位锚点与自写忠实提要；原文请按URL和行段核读。"
+    }
+  ]
+}

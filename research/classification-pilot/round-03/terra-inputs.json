@@ -1,0 +1,94 @@
+{
+  "schema_version": "round-03.1",
+  "scope": "8条新公开论坛发言，非金标；输入只包括连续原文，页面语境不自动纳入。",
+  "items": [
+    {
+      "case_id": "T01",
+      "source_url": "https://www.reddit.com/r/antiwork/comments/z6o59f/your_labor_creates_value_far_greater_than_what/",
+      "page_date": "2022-11-28（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：以工人产生价值、雇主分配讨论利润；以原文首句在页面定位",
+      "original_input": "The entire problem with the capitalist system is that the workers are generating value by producing and selling products, generating value for the business, yet all of said value is claimed by the employer, who only compensates the workers with a fraction of the value they produce. This is necessary for a business to be profitable.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：工人生产销售创造价值，雇主占有并只付出部分作为工资；发言者认为这是盈利所必需的。"
+    },
+    {
+      "case_id": "T02",
+      "source_url": "https://www.reddit.com/r/antiwork/comments/uep1qy/we_need_a_better_system/",
+      "page_date": "2022-04-30（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：对劳动与雇主资本的辩论；以原文首句在页面定位",
+      "original_input": "It’s a little bit legit though, isn’t it? By leveraging the capital of my employer, I can generate much, much more value than I could on my own. I’m happy to pay a portion of that generated value to them for the use of their capital, since I still come out substantially ahead of where I would otherwise. It’s win-win",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：使用雇主资本使劳动者创造更多价值，因此发言者愿意分享部分价值，认为双方受益。"
+    },
+    {
+      "case_id": "T03",
+      "source_url": "https://www.reddit.com/r/union/comments/1avya15/been_trying_to_organize_over_the_past_few_months/",
+      "page_date": "网页显示约3年前；准确日期未知",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：对工会组织遭遇阻碍给建议；以原文首句在页面定位",
+      "original_input": "Lots of other good advice here already, but it sounds like another way to think about it is the main issue here is trust and relationship building. When they say they'll \"wait and see\" it is because they don't know your organizers well and don't have any evidence before them that organizing together - formally with a union or even informally through petitions and some collective action - will genuinely make things better.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：发言者把组织的障碍解释为信任和关系问题，认为观望者尚未看到集体行动能改善处境的证据。"
+    },
+    {
+      "case_id": "T04",
+      "source_url": "https://www.reddit.com/r/union/comments/1ibg2q8/decentralizing_the_organizing/",
+      "page_date": "网页显示约2年前；准确日期未知",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：组织者如何形成行动与信息反馈；以原文首句在页面定位",
+      "original_input": "For example, communications should be directly informed by what organizers are hearing when they talk to members.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：沟通工作应直接根据组织者与成员谈话时听到的内容制定。"
+    },
+    {
+      "case_id": "T05",
+      "source_url": "https://eo.reddit.com/r/AuburnCA/comments/1rfn1e5/is_auburn_ever_going_to_move_into_the_21st_century/",
+      "page_date": "网页显示约7个月前；准确日期未知",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：地方城市住房建议；以原文首句在页面定位",
+      "original_input": "Ideally we would see apartments or denser housing built in those areas for newcomers and young people who don’t want or can’t afford a single family home. We had an influx of young singles and families when Specialized moved to Auburn a few years ago (now sadly gone) and many of them located outside Auburn due to costs or general lack of availability near downtown.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：应在相关地区建设较高密度住房，供不愿或无力购买独栋房屋的年轻人与新居民居住；发言者以过往迁入者因成本和供给不足外迁为理由。"
+    },
+    {
+      "case_id": "T06",
+      "source_url": "https://www.reddit.com/r/askphilosophy/comments/1gpk9yw/what_is_meant_when_one_say_something_is_objective/",
+      "page_date": "2024-11-12（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "评论：客观真理与人的认识；以原文首句在页面定位",
+      "original_input": "It's not about access. It's about what makes the statement true. Nothing in my mind makes objective statements true or false. The fact that i have a mind that understands objective facts is irrelevant and in no way makes them subjective, at least not in any interesting sense.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：认识者认为，命题的真假不由自己心灵决定；心灵理解客观事实不使其成为主观事实。"
+    },
+    {
+      "case_id": "T07",
+      "source_url": "https://www.reddit.com/r/askphilosophy/comments/kdg1sd/albert_einstein_said_pure_logical_thinking_cannot/",
+      "page_date": "2020-12-15（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "楼主以帮助同学编程的亲身经历思考知识；以原文首句在页面定位",
+      "original_input": "My conclusion was that it wasn't about knowledge as much as it was about my past experiences being (in this case) completely relevant to the situation. But then I stopped and seemed to realize my knowledge of the assignment was derived from experience with it the night before. When breaking this down it seems to apply pretty universally.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：发言者从自己帮助同学的经历得出：对作业的知识来自前一晚的经验，并认为这种解释可能普遍适用。"
+    },
+    {
+      "case_id": "T08",
+      "source_url": "https://www.reddit.com/r/antiwork/comments/tiwpnu/profiting_off_of_workers_is_theft/",
+      "page_date": "2022-03-20（搜索结果所示）",
+      "access_date": "2026-11-15",
+      "public_speech_type": "公开论坛书面帖子或评论",
+      "source_locator": "楼主分析劳动报酬和生产成本；以原文首句在页面定位",
+      "original_input": "So if the workers' labor is worth R, why do they get paid W, which must mathematically be significantly less than R to turn a profit. Logically, they should be paid the value of their labor (R) minus the expenses necessary for them to produce that value (E). But where does most of the after-expense revenue go? The owner of the means of production.",
+      "context_not_input": "页面其他内容用于理解来源，不计入固定输入。",
+      "translation_zh_labeled": "本次译述：发言者认为劳动者应获得劳动价值减去必要成本，实际剩余收入却流向生产资料所有者。"
+    }
+  ]
+}

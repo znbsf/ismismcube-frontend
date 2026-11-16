@@ -1,0 +1,289 @@
+{
+  "schema_version": "1",
+  "scope": "非盲、原文短句的交叉检验；候选不等于结论，不报告准确率。",
+  "evaluations": [
+    {
+      "id": "A",
+      "actual_input": "The principle, which I have designated by this term",
+      "source_url": "https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)/Chapter_IV",
+      "candidates": [],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "单句未指出原则内容；1-1-1-2 与自然选择不能凭作者身份推出。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明何种自然世界",
+        "本体论": "未说明有机或物质基础",
+        "认识论": "未说明所指原则",
+        "目的论": "未说明演化方向"
+      },
+      "chinese_gloss": "我以此词指称的那个原则；指代不明。"
+    },
+    {
+      "id": "B",
+      "actual_input": "I do not wish to give the impression that I think there is no mystery about consciousness.",
+      "source_url": "https://www.cs.toronto.edu/~frank/csc2501/Readings/R1_Turing/Turing-1950.pdf",
+      "candidates": [],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "承认意识仍有难题"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "没有心理状态的因果角色或多重实现；无法区分功能主义与其他立场。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明科学宇宙",
+        "本体论": "未说明物质基质",
+        "认识论": "只承认意识难题，未说明功能关系",
+        "目的论": "未说明函数化目标"
+      },
+      "chinese_gloss": "我不想给人以为我认为意识全无谜题的印象。"
+    },
+    {
+      "id": "C",
+      "actual_input": "The time seems to have come when psychology must discard all reference to consciousness",
+      "source_url": "https://psychclassics.yorku.ca/Watson/views.htm",
+      "candidates": [
+        {
+          "code": "1-1-4",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "心理学应摒除对意识的援引"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "未表达客观预测控制或社会自我形成，不能确认课程三格及社会行为主义。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明秩序来源",
+        "本体论": "未说明行为对象",
+        "认识论": "排斥意识作为研究对象，接近行为主义方法",
+        "目的论": "短码未规定目的格"
+      },
+      "chinese_gloss": "心理学似乎到了应舍弃一切对意识的援引之时。"
+    },
+    {
+      "id": "D",
+      "actual_input": "The self has the characteristic that it is an object to itself",
+      "source_url": "https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html",
+      "candidates": [
+        {
+          "code": "1-1-4-4",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "自我可以成为自身对象"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "只有自反性，缺社会互动生成与行为主义方法；也不够排除其他自我理论。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明符号互动场",
+        "本体论": "未说明可互动的物质基础",
+        "认识论": "自我可成为自身对象；社会生成尚未出现",
+        "目的论": "未说明终极目的"
+      },
+      "chinese_gloss": "自我能够成为自身的对象。"
+    },
+    {
+      "id": "E",
+      "actual_input": "God is the indwelling and not the transient cause of all things.",
+      "source_url": "https://www.gutenberg.org/cache/epub/919/pg919.html",
+      "candidates": [
+        {
+          "code": "2-3-1-3",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "神被说成万物的内在原因"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "缺唯一实体、属性和样态的明确论证及伦理方向；不能仅凭该句认定完整格位。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明可分宇宙与实体张力",
+        "本体论": "内在原因暗示唯一实体；属性样态未说明",
+        "认识论": "未说明理智直观",
+        "目的论": "未说明自由与决定关系"
+      },
+      "chinese_gloss": "神是万物的内在原因，而非过渡到外部的原因。"
+    },
+    {
+      "id": "F",
+      "actual_input": "This is a point I cannot determine, and do not now enter into any dispute regarding it.",
+      "source_url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+      "candidates": [],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "对所指问题暂不判定"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "未给出所指问题；无我思、心物关系及神的担保信息，不能从作者名字推断。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明可疑经验与数学对置",
+        "本体论": "未说明神或心物关系",
+        "认识论": "代词无上文，不能确认怀疑方法",
+        "目的论": "未说明数理方向"
+      },
+      "chinese_gloss": "这一点我尚不能确定，此时不作争论。"
+    },
+    {
+      "id": "G",
+      "actual_input": "THERE MAY BE SOME OTHER SPIRIT THAT PERCEIVES THEM THOUGH WE DO NOT.",
+      "source_url": "https://www.gutenberg.org/cache/epub/4723/pg4723-images.html",
+      "candidates": [
+        {
+          "code": "2-4-1-3",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "提出可能有其他精神感知我们未感知之物"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "仅是可能性，未区分理念与精神，也未明确神或存在理论；不能据此判定完整四格。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明可感和隐匿秩序",
+        "本体论": "出现其他精神，但有限/最高精神区别未知",
+        "认识论": "暗示感知者不止本人；理念与精神区分不足",
+        "目的论": "未说明信任或方向"
+      },
+      "chinese_gloss": "即使我们没有感知，也可能有别的精神感知它们。"
+    },
+    {
+      "id": "H",
+      "actual_input": "Custom, then, is the great guide of human life.",
+      "source_url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "习惯被认为指导人类生活"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "counterevidence_or_neighbor": "未说明重复经验、因果推断或其与观念关系的区分，更无共同体伦理；习惯论不只休谟一家。",
+      "primary_source_use": "来源仅供核对原文；判断以上述短句为输入，不将邻段信息偷渡为已确认格位。",
+      "dimension_observations": {
+        "场域论": "未说明第一人称与共同体关系",
+        "本体论": "未说明实体支撑的悬置",
+        "认识论": "习惯作为生活指南可见；因果推断未说明",
+        "目的论": "未说明共情伦理"
+      },
+      "chinese_gloss": "习惯是人类生活的重要向导。"
+    },
+    {
+      "id": "I",
+      "actual_input": "unless profitable variations do occur, natural selection can do nothing.",
+      "source_url": "https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)/Chapter_IV",
+      "candidates": [
+        {
+          "code": "1-1-1-2",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "自然选择以有利变异出现为条件"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "dimension_observations": {
+        "场域论": "未说明科学化宇宙",
+        "本体论": "未说明活的科学实在",
+        "认识论": "有利变异是自然选择条件；学科等级未知",
+        "目的论": "未说明循环与上升张力"
+      },
+      "counterevidence_or_neighbor": "没有宇宙、学科或生命的预设上升等级，不能由机制判定课程四格；也不必把适应论当成进步论。",
+      "primary_source_use": "该URL供核验原文；只以所列短句作为判读输入。",
+      "chinese_gloss": "若没有有利变异，自然选择就无从作用。"
+    },
+    {
+      "id": "J",
+      "actual_input": "I am, I exist, is necessarily true each time it is expressed by me",
+      "source_url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+      "candidates": [
+        {
+          "code": "2-3-2-4",
+          "status": "待补证的可能候选，非完整归类"
+        }
+      ],
+      "confirmed_dimensions": [],
+      "confirmed_claims": [
+        "说话时我的存在具有必然真理性"
+      ],
+      "unknown_dimensions": [
+        "场域论",
+        "本体论",
+        "认识论",
+        "目的论"
+      ],
+      "dimension_observations": {
+        "场域论": "未说明可疑世界与数学对置",
+        "本体论": "未说明神作为保证",
+        "认识论": "我存在的确定性可见；方法性怀疑上下文未输入",
+        "目的论": "未说明数理体系方向"
+      },
+      "counterevidence_or_neighbor": "单句没有方法性怀疑的过程、神的担保或数学秩序；虽与笛卡尔认识论有关，完整课程格位未知。",
+      "primary_source_use": "该URL供核验原文；只以所列短句作为判读输入。",
+      "chinese_gloss": "每当我说出或想起“我存在”，这一命题便必然为真。"
+    }
+  ]
+}

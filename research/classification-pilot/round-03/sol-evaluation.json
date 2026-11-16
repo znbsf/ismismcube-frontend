@@ -1,0 +1,198 @@
+{
+  "schema_version": "round-03.1-initial-frozen",
+  "scope": "Sol 独立判读 Terra 的 T01–T08 固定原文；仅有局部倾向、完整课程码及范围外/不足三层，不把他人主张或提问当发言者立场。2026-11-15 初判冻结，互审另记。",
+  "evaluator": "Sol",
+  "items": [
+    {
+      "case_id": "T01",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "劳动价值分配的社会实践问题，局部线索"
+        }
+      ],
+      "input_quote_evidence": [
+        "workers are generating value",
+        "value is claimed by the employer",
+        "fraction of the value"
+      ],
+      "axes": {
+        "field": "支持：劳动者、企业与价值分配的现实关系是话题。",
+        "ontology": "未知：未论证劳动如何构成人与社会存在。",
+        "epistemology": "推断：以利润需保留剩余作解释，未给课程意义的理论批判方法。",
+        "teleology": "未知：批评现状，未说明组织行动或改造目标。"
+      },
+      "neighbor_difference": "与4-1-1-1的经济学哲学批判接近，但未说人的需要/对象化，也无公开批判行动；不能凭工人和雇主归入具体码。",
+      "best_followup": "你认为价值归属应如何改变，依靠什么组织和行动？",
+      "primary_scope": "马克思关于劳动和剩余的原典只能支持局部比较，不证明此网友持完整马克思立场。",
+      "reason": "有可辨的分配批评，四维不足。"
+    },
+    {
+      "case_id": "T02",
+      "decision": "outside_pilot",
+      "candidates": [],
+      "input_quote_evidence": [
+        "capital of my employer",
+        "much, much more value",
+        "It’s win-win"
+      ],
+      "axes": {
+        "field": "支持：从个人工作收入谈雇主资本。",
+        "ontology": "未知：没有人、劳动或社会关系的存在论。",
+        "epistemology": "支持：以自己与独立劳动的比较解释收益。",
+        "teleology": "支持：愿意分出部分价值，视为双方受益；这是个人安排。"
+      },
+      "neighbor_difference": "T01的剩余占有批评与这里的自愿互利判断方向相反；但两者都不足以套入首批4类的完整课程机制。",
+      "best_followup": "这种互利是否同样适用于没有议价能力的劳动者，为什么？",
+      "primary_scope": "马克思劳动原典可作相邻理论对照，不能把该评论当其支持例。",
+      "reason": "有经济立场而无首批课程的可核机制。"
+    },
+    {
+      "case_id": "T03",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "集体行动与关系建设，局部实践线索"
+        }
+      ],
+      "input_quote_evidence": [
+        "trust and relationship building",
+        "organizing together",
+        "petitions and some collective action"
+      ],
+      "axes": {
+        "field": "支持：工会成员之间的信任与共同组织是问题。",
+        "ontology": "未知：没有从关系生成社会主体的论证。",
+        "epistemology": "支持：把观望解释为缺少行动有效性的证据。",
+        "teleology": "支持：请愿或其他集体行动以改善处境。"
+      },
+      "neighbor_difference": "比泛泛合作更接近4的实践，但未出现理论和历史建设；也不是4-1-1-1需要、对象化及批判办报的全套格位。",
+      "best_followup": "行动中的共同经验如何改变成员对自己和劳动关系的认识？",
+      "primary_scope": "马克思关于实践与社会关系的段落只对照集体行动局部命题。",
+      "reason": "三处原话有实际组织机制，仍不满足完整四格。"
+    },
+    {
+      "case_id": "T04",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "从成员反馈调整沟通的单一实践线索"
+        }
+      ],
+      "input_quote_evidence": [
+        "communications should be directly informed",
+        "organizers are hearing",
+        "talk to members"
+      ],
+      "axes": {
+        "field": "支持：组织者与成员的沟通关系。",
+        "ontology": "未知：没有社会主体或生产关系论证。",
+        "epistemology": "支持：将成员谈话所得反馈作为调整沟通的依据。",
+        "teleology": "推断：意在改善组织沟通，但原句未说更远目标。"
+      },
+      "neighbor_difference": "反馈式沟通可见实践，但也可只是普通工作建议；缺4对历史与理论、组织行动的连贯说明。",
+      "best_followup": "你希望成员反馈如何转成共同决策和行动？",
+      "primary_scope": "实践原典支持知识与行动相关的局部对照，不把一句战术建议升为完整理论。",
+      "reason": "内容短，保留局部线索。"
+    },
+    {
+      "case_id": "T05",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4-3",
+          "status": "为年轻人与新居民建更可负担住房的局部建设目标"
+        }
+      ],
+      "input_quote_evidence": [
+        "denser housing built",
+        "can’t afford a single family home",
+        "lack of availability near downtown"
+      ],
+      "axes": {
+        "field": "支持：城市住房供给和迁居成本。",
+        "ontology": "未知：未谈社会历史主体或制度生成。",
+        "epistemology": "支持：援引过去迁入者外迁的经验作理由。",
+        "teleology": "支持：建设较高密度住房服务有需要者。"
+      },
+      "neighbor_difference": "与4-3的人民生活改善有局部相似，但没有其历史建设行动及理论中介；一般城市规划主张不自动成为课程码。",
+      "best_followup": "谁来组织建设，住房如何与更广的社会生活改善相连？",
+      "primary_scope": "4-3原典只支持建设与民生关系的特定命题，不能认证这个住房提案。",
+      "reason": "目标明确，理论与历史轴缺失。"
+    },
+    {
+      "case_id": "T06",
+      "decision": "outside_pilot",
+      "candidates": [],
+      "input_quote_evidence": [
+        "what makes the statement true",
+        "Nothing in my mind makes objective statements true or false",
+        "mind that understands objective facts"
+      ],
+      "axes": {
+        "field": "支持：讨论命题客观真假和认识者心灵。",
+        "ontology": "支持：否认个人心灵决定客观陈述的真假；未说明实体结构。",
+        "epistemology": "支持：区分理解事实与使事实为真。",
+        "teleology": "未知：无行动目标。"
+      },
+      "neighbor_difference": "与2字头理念/精神论构成反向边界，但反对主观决定真假不能直接归入斯宾诺莎或笛卡尔。",
+      "best_followup": "客观真假依靠何种存在或认识保证，而不仅是独立于你的心灵？",
+      "primary_scope": "笛卡尔、贝克莱相关原典可作问题对照，不支持给评论者贴具体哲学家标签。",
+      "reason": "明确知识论立场，但不在首批14类具体机制中。"
+    },
+    {
+      "case_id": "T07",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "2-4-1-4",
+          "status": "由经验形成知识的局部线索，远未达到休谟式因果习惯"
+        }
+      ],
+      "input_quote_evidence": [
+        "my knowledge of the assignment was derived from experience",
+        "knowledge of the assignment was derived from experience",
+        "apply pretty universally"
+      ],
+      "axes": {
+        "field": "支持：从编程作业经历谈知识来源。",
+        "ontology": "未知：没有自我、对象或因果结构的存在论。",
+        "epistemology": "支持：具体作业知识来自前一晚经验；泛化为普遍命题则只是发言者推测。",
+        "teleology": "未知：未提出实践或情感取向。"
+      },
+      "neighbor_difference": "普通经验学习不等于2-4-1-4的因果期待来自习惯及课程共情维度；T07只够作为近似边界。",
+      "best_followup": "你认为重复经验为何能让我们相信未来仍会如此，这种相信有证明吗？",
+      "primary_scope": "休谟《人类理解研究》关于习惯及因果推断的原典仅支持区别问题，不支持把编程经验认作休谟全论。",
+      "reason": "知识来源线索清楚，独特机制缺失。"
+    },
+    {
+      "case_id": "T08",
+      "decision": "partial_tendency",
+      "candidates": [
+        {
+          "code": "4",
+          "status": "劳动所得与生产资料所有者的分配批评"
+        }
+      ],
+      "input_quote_evidence": [
+        "workers' labor is worth R",
+        "paid the value of their labor (R) minus the expenses",
+        "owner of the means of production"
+      ],
+      "axes": {
+        "field": "支持：工人报酬、成本与生产资料所有者关系。",
+        "ontology": "推断：生产资料所有权影响收入归属；原句没有完整劳动存在论。",
+        "epistemology": "支持：用R、W、E的差额推出分配不公；数学设定是否充分尚未证明。",
+        "teleology": "支持：应让劳动者获得扣除成本后的劳动价值；没有组织实现方案。"
+      },
+      "neighbor_difference": "比T01更明确规范分配方案，但未进入4-1-1-1的人的需要、对象化和公开批判实践，也非4全部课程格位。",
+      "best_followup": "生产资料所有权与工人的共同组织、改变分配的行动怎样相连？",
+      "primary_scope": "马克思劳动与资本原典支持某些分配关系问题，不给此网友公式背书。",
+      "reason": "局部强倾向，仍无完整课程码。"
+    }
+  ],
+  "post_freeze_annotation": "互审仅将T07省略号式证据替换为固定输入中的连续原句，判断及四维未改。"
+}

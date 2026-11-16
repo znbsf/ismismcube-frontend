@@ -1,0 +1,160 @@
+{
+  "schema_version": "0.1-cross-review",
+  "scope": "对Terra七条公开著作固定短摘录的开放资料判读；可回看原文与课程目录，非盲测，不是日常口语验证，不计算准确率",
+  "items": [
+    {
+      "id": "T1",
+      "input": "all our knowledge begins with experience / it by no means follows that all arises out of experience.",
+      "source": "康德《纯粹理性批判》导论I，Meiklejohn英译，Gutenberg #4280",
+      "input_evidence": "区分时间上始于经验与来源上全由经验构成",
+      "candidates": [
+        {
+          "code": "3-2-1-1",
+          "basis": "认识条件局部相符；四格不足"
+        },
+        {
+          "code": "3",
+          "basis": "有限经验与认识条件的总类问题"
+        }
+      ],
+      "axes": {
+        "field": "inferred: 与经验/先天的张力可联系观念论，但未说自由意志",
+        "ontology": "supported_partial: 先验条件与经验来源有区分；物自身未出现",
+        "epistemology": "unknown: 判断未在短摘录中说明",
+        "teleology": "unknown: 道德及有限趋近无限未出现"
+      },
+      "neighbor_boundary": "不能因康德作者名直接从3落到3-2-1-1；3-2自我设定无证据",
+      "applicable_primary": "康德《纯粹理性批判》导论I",
+      "chinese_gloss": "所有知识在时间上始于经验，但不必全都源自经验。",
+      "source_url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+    },
+    {
+      "id": "T2",
+      "input": "the objects must conform to our cognition.",
+      "source": "康德《纯粹理性批判》第二版序言，Meiklejohn英译，Gutenberg #4280",
+      "input_evidence": "提出对象须符合认识的假设，孤立短句没有完整先验论证",
+      "candidates": [
+        {
+          "code": "3",
+          "basis": "认识中介总类的局部提示"
+        },
+        {
+          "code": "3-2-1-1",
+          "basis": "可作康德分支候选，但四格缺失"
+        }
+      ],
+      "axes": {
+        "field": "inferred: 认识作用突出，主体踌躇未直接出现",
+        "ontology": "unknown: 物自身与现象的区分未在句中展开",
+        "epistemology": "inferred: 对象与认识关系，判断形式未出现",
+        "teleology": "unknown"
+      },
+      "neighbor_boundary": "不能读成个人任意创造对象；3-2的自我设定亦未出现",
+      "applicable_primary": "康德《纯粹理性批判》第二版序言",
+      "chinese_gloss": "对象须符合我们的认识；原句未展开论证。",
+      "source_url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm"
+    },
+    {
+      "id": "T3",
+      "input": "circumstances are changed by men / educate the educator himself.",
+      "source": "马克思《关于费尔巴哈的提纲》III，Lough英译，MIA",
+      "input_evidence": "人改变环境，教育者本身也处在改变中",
+      "candidates": [
+        {
+          "code": "4",
+          "basis": "历史活动、主体与条件相互作用的局部命中"
+        }
+      ],
+      "axes": {
+        "field": "supported_partial: 人的现实活动改变条件",
+        "ontology": "unknown: 4短码未规定",
+        "epistemology": "unknown: 4短码未规定",
+        "teleology": "unknown: 4短码未规定"
+      },
+      "neighbor_boundary": "未谈劳动产品、需要及报刊出版，不能落到4-1-1-1；未谈建设幸福，不能落到4-3",
+      "applicable_primary": "马克思《关于费尔巴哈的提纲》III",
+      "chinese_gloss": "环境由人改变，教育者自身也须受教育。",
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm"
+    },
+    {
+      "id": "T4",
+      "input": "the ensemble of the social relations.",
+      "source": "马克思《关于费尔巴哈的提纲》VI，Lough英译，MIA",
+      "input_evidence": "短语只写‘社会关系的总和’，未说明所指对象或主张",
+      "source_context_not_input": "原条上下文谈人的本质；这个信息未进入固定输入，不能据此判为实践",
+      "candidates": [],
+      "axes": {
+        "field": "unknown: 未交代历史主体或实践活动",
+        "ontology": "unknown: 没有实体或关系的完整命题",
+        "epistemology": "unknown: 未谈认识形成",
+        "teleology": "unknown: 未谈行动方向"
+      },
+      "neighbor_boundary": "不能因马克思作者身份或原条上下文直接判4；4-1-1-1亦缺生产、需要、公开批判",
+      "applicable_primary": "马克思《关于费尔巴哈的提纲》VI，仅核对引文",
+      "chinese_gloss": "社会关系的总和；短语未说明所指。",
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm"
+    },
+    {
+      "id": "T5",
+      "input": "estrangement is manifested not only in the result but in the act of production",
+      "source": "马克思《1844年经济学哲学手稿·异化劳动》XXIII，MIA英译版本细节未知",
+      "input_evidence": "异化同时关联产品结果和生产活动",
+      "candidates": [
+        {
+          "code": "4-1-1-1",
+          "basis": "经济哲学批判方向的局部候选"
+        },
+        {
+          "code": "4",
+          "basis": "现实生产活动可属实践总类"
+        }
+      ],
+      "axes": {
+        "field": "unknown: 报刊出版实践单位未出现",
+        "ontology": "inferred: 产品与活动关系提示对象化，有限需要未出现",
+        "epistemology": "unknown: 意识发生及反思未出现",
+        "teleology": "inferred: 批判立场可见，现实政治经济行动未出现"
+      },
+      "neighbor_boundary": "不能以异化单词断定4-1-1-1完整四格；与4-3建设方案相区分",
+      "applicable_primary": "马克思《1844年经济学哲学手稿·异化劳动》XXIII",
+      "chinese_gloss": "异化既表现在结果，也表现在生产活动。",
+      "source_url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm"
+    },
+    {
+      "id": "T6",
+      "input": "Nature is just as much the source of use values",
+      "source": "马克思《哥达纲领批判》第一部分，MIA英译版本细节未知",
+      "input_evidence": "短句称自然也是使用价值来源之一；比较对象未出现在输入中",
+      "source_context_not_input": "原段比较劳动与自然、批评劳动是财富唯一来源；这些上下文未进入固定输入",
+      "candidates": [],
+      "axes": {
+        "field": "unknown: 未见历史组织或建设实践",
+        "ontology": "unknown: 未谈人民幸福中介",
+        "epistemology": "unknown: 此短码未规定且输入未谈认识",
+        "teleology": "unknown: 此短码未规定且输入未谈方向"
+      },
+      "neighbor_boundary": "不能由作者名或上下文判4-3；4-3所需历史建设和幸福中介均未在输入中",
+      "applicable_primary": "马克思《哥达纲领批判》第一部分，仅核对引文",
+      "chinese_gloss": "自然也是使用价值来源；未出现比较对象。",
+      "source_url": "https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm"
+    },
+    {
+      "id": "T7",
+      "input": "appoint six of these for work",
+      "source": "托马斯·莫尔《乌托邦》行业与生活方式章，MIA网页译者未知",
+      "input_evidence": "短语仅说指定其中六个去工作；these 的指代不在输入中",
+      "source_context_not_input": "章节上下文说明虚构共同体的六小时劳动制度；单独短语既不证明固定制度，也不证明4-4开放关系的反证",
+      "candidates": [],
+      "axes": {
+        "field": "unknown: 未见后资本主义历史中介或共同体",
+        "ontology": "unknown: 未见爱欲关系是否预先固定",
+        "epistemology": "unknown: 此短码未规定",
+        "teleology": "unknown: 此短码未规定"
+      },
+      "neighbor_boundary": "此短语应弃判；莫尔完整章可另作比较近反例，不能把章的内容偷渡入该固定输入",
+      "applicable_primary": "莫尔《乌托邦》行业与生活方式章，仅核对引文",
+      "chinese_gloss": "指定其中六个去工作；指代未知。",
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch5.html"
+    }
+  ]
+}
