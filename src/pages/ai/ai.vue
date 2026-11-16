@@ -85,12 +85,11 @@
           <div class="intro-item">本网页提供AI对话服务，你可以在左侧选择模型，在右侧的输入栏中输入问题并点击发送按钮，发起一个对话任务。</div>
           <div class="intro-item">本网页最多支持<span class="highlight">{{ serverConfig.max_concurrent_tasks == 0 ? '-' : serverConfig.max_concurrent_tasks }}</span>个对话任务同时运行。如果当前运行中的对话数量小于<span class="highlight">{{ serverConfig.max_concurrent_tasks == 0 ? '-' : serverConfig.max_concurrent_tasks }}</span>个，你提交的对话任务会立刻开始运行并生成回答；否则，你发起的对话任务会进入排队状态。</div>
           <div class="intro-item">当你的对话任务正在排队或运行时，你不能发起新的对话。</div>
-          <div class="intro-item">每天北京时间凌晨<span class="warning">4</span>点进行服务器维护（维护大约持续2分钟），届时此网页的功能可能暂时无法使用。</div>
         </div>
         <div class="divider-line"></div>
         <div id="notice-area">
-          <div class="intro-item">本网站不会储存任何对话记录，刷新/关闭此网页，会导致对话记录全部丢失。如需将对话记录保存到本地，点击左侧“保存对话”按钮。</div>
-          <div class="intro-item">当你的对话任务正在排队/运行时，刷新此网页/网络连接断开/浏览器关闭，会导致此排队/运行中的对话任务立即被取消。</div>
+          <div class="intro-item">刷新或关闭此网页后，当前页面的对话记录不会保留。如需保存，点击左侧“保存对话”按钮。</div>
+          <div class="intro-item">刷新页面、断开网络或关闭浏览器可能中断正在排队或运行的对话任务。</div>
         </div>
         <div class="divider-line"></div>
         <div id="warning-area">
@@ -99,10 +98,8 @@
         </div>
         <div class="divider-line"></div>
         <div id="contact-area">
-          <div>对本网站有任何改进建议</div>
-          <div>请联系本网站制作者B站账号</div>
-          <div><a href='https://b23.tv/JACBxVp' target='_blank'>https://b23.tv/JACBxVp</a></div>
-          <div><a href='https://github.com/spaceater/ismismcube-frontend' target='_blank'>此网页的Github仓库</a></div>
+          <div><a href='https://b23.tv/JACBxVp' target='_blank' rel='noopener noreferrer'>原项目相关 B 站链接</a></div>
+          <div><a href='https://github.com/znbsf/ismismcube-frontend/tree/research/source-audit' target='_blank' rel='noopener noreferrer'>本项目 GitHub 仓库与研究分支</a></div>
         </div>
       </div>
       <button id="control-panel-toggle" ref="controlPanelToggleRef" type="button" @click="toggleControlPanel"

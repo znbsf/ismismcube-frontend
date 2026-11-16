@@ -39,12 +39,12 @@ onUnmounted(() => {
         <span class="title-en">ISMISMCUBE</span>
       </h1>
 
-      <p class="notice-text">本网站原主要提供「主义主义魔方」与「AI 对话」两个功能，经由刘司墨（未明子）本人联系，要求下架网站，<br>特此公告。</p>
+      <p class="notice-text">这里是主义主义魔方项目的公告页面。项目源码与研究资料可在下方查看。</p>
 
       <hr class="divider" aria-hidden="true">
 
       <p class="visit-line">
-        网站已累计访问 <span class="visit-number">{{ pageView === -1 ? '-' : pageView.toLocaleString() }}</span> 次，感谢你一直以来的关注。<br>
+        网站累计访问 <span class="visit-number">{{ pageView === -1 ? '-' : pageView.toLocaleString() }}</span> 次。<br>
         更多内容：<a class="more-url" href="https://www.maybered.com" target="_blank" rel="noopener noreferrer">https://www.maybered.com</a>
       </p>
 
@@ -52,11 +52,11 @@ onUnmounted(() => {
         <p class="github-label">本网站源代码及相关数据已在 GitHub 开源：</p>
         <a
           class="github-link"
-          href="https://github.com/spaceater/ismismcube-frontend"
+          href="https://github.com/znbsf/ismismcube-frontend/tree/research/source-audit"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span class="github-url">https://github.com/spaceater/ismismcube-frontend</span>
+          <span class="github-url">https://github.com/znbsf/ismismcube-frontend/tree/research/source-audit</span>
         </a>
       </div>
     </div>

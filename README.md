@@ -3,12 +3,14 @@ __visualized webpage summary of *ISMISM*!__
 
 本分支已补齐原有空白摘要与格位说明，并逐字段校对213条原人工摘要和42条旧AI摘要。请先看[原理入门与阅读路线](research/START-HERE.md)、[实际完成范围](research/README.md)、[逐条资料导读](research/READING-GUIDE.md)和[典籍索引](research/BIBLIOGRAPHY.md)。[73项补充课程正文导读](research/COURSE-READINGS.md)包括`$`系列、预习、复习与番外，其中一项无声视频仅有部分板书说明。校对范围分别见[人工摘要记录](research/MANUAL-REVIEW.md)与[旧AI摘要记录](research/AI-REVIEW.md)；全部保留来源和未核原音的边界。
 
+[全分类树立场研究](research/classification-pilot/tree-expansion/README.md)提供340个节点的首轮阅读材料与原典缺口记录，目前存放在仓库研究目录，尚未接入网站界面。结构覆盖不代表全部原典已核实，也不代表日常发言可以精确归码。
+
 *****
-通过网址 **https://www.ismismtag.com** 访问网站
+原项目网站：**https://www.ismismtag.com**（不代表本分支已部署）
 
 相关视频：**https://www.bilibili.com/video/BV1VXiGekEHK**
 *****
-Visit **https://www.ismismtag.com** for full content
+Original project website: **https://www.ismismtag.com** (this branch is not necessarily deployed there)
 
 Video: **https://www.bilibili.com/video/BV1VXiGekEHK**
 
