@@ -1,146 +1,218 @@
 <template>
-  <div id="ismismcube-container">
-    <div id="left_part" :class="{ collapsed: isLeftPartClosed }">
-      <div id="page_view" title="此网页的总访量">
-        <img src="@/assets/page_view_icon.svg" alt="page_view">
-        <b>{{ pageView == -1 ? '-' : pageView }}</b>
+  <div
+    id="ismismcube-container"
+    :class="{
+      is_collapsed: isLeftPartClosed,
+      'mobile-pane-reader': mobilePane === 'reader',
+      'mobile-pane-cube': mobilePane === 'cube'
+    }"
+  >
+    <header id="app_topbar" aria-label="主工作台工具栏">
+      <div class="topbar_brand">
+        <button
+          type="button"
+          class="brand_home_btn"
+          title="返回总览"
+          @click="handleSpatialSelect('')"
+        >
+          <span class="brand_mark" aria-hidden="true">4⁴</span>
+          <span class="brand_copy">
+            <span class="brand_title">主义主义魔方</span>
+            <span class="brand_subtitle">340 立场哲学谱系工作台</span>
+          </span>
+        </button>
       </div>
-      <div id="online_count" title="当前在线数">
-        <p>在线:</p>
-        <b>{{ onlineCount == -1 ? '-' : onlineCount }}</b>
+
+      <nav class="topbar_nav" aria-label="核心专题工具">
+        <button id="route_button" type="button" @click="openReadingRoute">阅读路线</button>
+        <button id="courses_button" type="button" @click="openCourseDrawer()">
+          补充课程 / ${{ coursesList.length ? ` (${coursesList.length})` : '' }}
+        </button>
+        <button id="guide_button" type="button" @click="openCodeGuide">怎么读编号</button>
+      </nav>
+
+      <div class="mobile_pane_tabs" role="group" aria-label="移动端视图切换">
+        <button
+          type="button"
+          class="mobile_pane_btn"
+          :class="{ active: mobilePane === 'reader' }"
+          :aria-pressed="mobilePane === 'reader' ? 'true' : 'false'"
+          @click="selectMobilePane('reader')"
+        >
+          内容阅读
+        </button>
+        <button
+          type="button"
+          class="mobile_pane_btn"
+          :class="{ active: mobilePane === 'cube' }"
+          :aria-pressed="mobilePane === 'cube' ? 'true' : 'false'"
+          @click="selectMobilePane('cube')"
+        >
+          魔方空间
+        </button>
       </div>
-      <div id="ai_button" @click="goToAI">AI 对话</div>
-      <div id="return_button" @click="openMoreContent">更多内容</div>
-      <div id="download_button" @click="downloadIsmJson">下载文件</div>
-      <input
-        id="search_input"
-        ref="searchInputRef"
-        type="text"
-        placeholder="键入检索词"
-        v-model="searchInputText"
-        @keydown.enter="handleSearchInputEnter"
+
+      <div class="topbar_tools">
+        <button
+          id="cmd_palette_trigger"
+          type="button"
+          class="topbar_cmd_btn"
+          aria-keyshortcuts="Control+k Meta+k"
+          @click="openCommandPalette"
+        >
+          <span>快速跳转</span>
+          <kbd>⌘K</kbd>
+        </button>
+
+        <button
+          id="provenance_popover_btn"
+          type="button"
+          class="topbar_chip_btn provenance_chip"
+          popovertarget="provenance_popover"
+        >
+          未核原音 · 边界说明
+        </button>
+        <div id="provenance_popover" popover="auto" class="provenance_popover_card">
+          <div class="popover_head">
+            <strong>学术来源与核校声明</strong>
+          </div>
+          <p class="popover_body">
+            本站全部节点条目、二手讲稿索引与校勘提示均基于公开讲稿汇编与 AI 辅助梳理整理，<strong>全站内容均未核对原始视频音频</strong>；标注「未核原音」与细粒度依据标记用于提示事实与边界。
+          </p>
+          <div class="popover_stats">
+            <span>累计访问：{{ pageView == -1 ? '-' : pageView }}</span>
+            <span>当前在线：{{ onlineCount == -1 ? '-' : onlineCount }}</span>
+          </div>
+        </div>
+
+        <button
+          id="theme_cycle_button"
+          type="button"
+          class="topbar_chip_btn theme_btn"
+          :title="`当前外观：${themeLabel}（点击切换亮色 / 暗色 / 跟随系统）`"
+          @click="cycleThemeMode"
+        >
+          {{ themeLabel }}
+        </button>
+      </div>
+    </header>
+
+    <div id="size_adjuster" ref="sizeAdjusterRef" :class="{ collapsed: isLeftPartClosed }">
+      <button
+        id="size_indicator"
+        type="button"
+        aria-controls="left_part"
+        :aria-expanded="!isLeftPartClosed"
+        :aria-label="isLeftPartClosed ? '展开阅读区' : '折叠阅读区'"
+        @click="handleIndicatorClick"
+        ref="sizeIndicatorRef"
+        @mousedown="setIndicatorActive"
+        :style="{ top: sizeIndicatorRatio * 100 + '%' }"
       >
-      <div id="courses_button" @click="openCourseDrawer()">
-        补充课程 / ${{ coursesList.length ? ` (${coursesList.length})` : '' }}
-      </div>
-      <div id="search_status_line">
-        <template v-if="trimmedSearchInput !== ''">
-          <div class="search_status_summary">
-            <span v-if="trimmedSearchInput !== searchText">检索中...</span>
-            <span v-else-if="isSearchIndexIncomplete">命中 {{ searchedCount }}（未完）</span>
-            <span v-else>命中 {{ searchedCount }} 节点</span>
-          </div>
-          <div class="search_status_actions">
-            <button
-              id="open_search_results_btn"
-              type="button"
-              class="clear_search_link"
-              @click="openSearchResults"
-            >
-              查看结果
-            </button>
-            <button type="button" class="clear_search_link" @click="clearSearch">清空</button>
-          </div>
-        </template>
-        <template v-else-if="enrichmentsData && coursesStatus === 'ready'">
-          <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
-        </template>
-        <template v-else-if="enrichStatus === 'error' || coursesStatus === 'error'">
-          <div class="search_status_summary">
-            <span>索引加载失败</span>
-            <button type="button" class="clear_search_link" @click="retryFailedSearchIndexes">索引重试</button>
-          </div>
-        </template>
-        <template v-else-if="enrichmentsData">
-          <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
-        </template>
-        <template v-else-if="ismData">
-          <span>索引加载中...</span>
-        </template>
-      </div>
-      <button id="route_button" type="button" @click="openReadingRoute">阅读路线</button>
-      <button id="guide_button" type="button" @click="openCodeGuide">怎么读编号</button>
-      <div id="ismism_main_cube">
-        <div id="show_cube">
-          <template v-for="x in 4" :key="`show-${x}`">
-            <div
-              v-for="y in 4"
-              :key="`${5-x}-${y}`"
-              class="show_xy ism"
-              :style="{ '--x': 5-x, '--y': y, '--a': x == 1 ? 1 : 0.5, '--b': y == 4 ? 1 : 0.5 }"
-              :ism_tag="`${5-x}-${y}`"
-              :class="getIsmClass(`${5-x}-${y}`)"
-              @mouseenter="selectISM(`${5-x}-${y}`)"
-              @mouseleave="unselectISM()"
-              @click="pinISM(`${5-x}-${y}`)"
-            ></div>
-          </template>
-        </div>
-        <div id="show_cube_name">
-          <template v-for="x in 4" :key="`show-name-${x}`">
-            <div
-              v-for="y in 4"
-              :key="`show-name-${x}-${y}`"
-              class="show_xy_name"
-            >
-              <p
-                class="ism_name"
-                :class="{ no_data: ismData && ismData[`${5-x}-${y}`] && !ismData[`${5-x}-${y}`].summary_status }"
-                :style="{ fontSize: getIsmNameFontSize(getIsmName(`${5-x}-${y}`)) }">{{ getIsmName(`${5-x}-${y}`) }}
-              </p>
-            </div>
-          </template>
-        </div>
-        <div
-          v-for="x in 4"
-          :key="`line-x-${x}`"
-          class="line_x"
-          :style="{ '--x': x }"
-        >
-          <p>{{ x }}</p>
-        </div>
-        <div
-          v-for="y in 4"
-          :key="`line-y-${y}`"
-          class="line_y"
-          :style="{ '--y': y }"
-        >
-          <p>{{ y }}</p>
-        </div>
-        <div id="show_cube_x">
-          <div
-            v-for="i in 4"
-            :key="`${i}`"
-            class="show_x ism"
-            :ism_tag="`${5-i}`"
-            :class="getIsmClass(`${5-i}`)"
-            @mouseenter="selectISM(`${5-i}`)"
-            @mouseleave="unselectISM()"
-            @click="pinISM(`${5-i}`)"
+        <span class="indicator_grip" aria-hidden="true">{{ isLeftPartClosed ? '›' : '‹' }}</span>
+      </button>
+    </div>
+
+    <div id="left_part" ref="leftPartRef" :inert="isLeftPartClosed" :class="{ collapsed: isLeftPartClosed }">
+      <div class="left_workbench_bar">
+        <div class="search_box_row">
+          <input
+            id="search_input"
+            ref="searchInputRef"
+            type="text"
+            aria-label="检索节点编号、名称和内容"
+            placeholder="检索编号、名称、关键词或课程..."
+            v-model="searchInputText"
+            @keydown.enter="handleSearchInputEnter"
           >
-            <p
-              class="ism_name"
-              :class="{ no_data: ismData && ismData[`${5-i}`] && !ismData[`${5-i}`].summary_status }"
-              :style="{ fontSize: getIsmNameFontSize(getIsmName(`${5-i}`)) }">{{ getIsmName(`${5-i}`) }}
-            </p>
+          <div id="search_status_line">
+            <template v-if="trimmedSearchInput !== ''">
+              <div class="search_status_summary">
+                <span v-if="trimmedSearchInput !== searchText">检索中...</span>
+                <span v-else-if="isSearchIndexIncomplete">命中 {{ searchedCount }}（未完）</span>
+                <span v-else>命中 {{ searchedCount }} 节点</span>
+              </div>
+              <div class="search_status_actions">
+                <button
+                  id="open_search_results_btn"
+                  type="button"
+                  class="clear_search_link"
+                  @click="openSearchResults"
+                >
+                  查看结果
+                </button>
+                <button type="button" class="clear_search_link" @click="clearSearch">清空</button>
+              </div>
+            </template>
+            <template v-else-if="enrichmentsData && coursesStatus === 'ready'">
+              <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
+            </template>
+            <template v-else-if="enrichStatus === 'error' || coursesStatus === 'error'">
+              <div class="search_status_summary">
+                <span>索引加载失败</span>
+                <button type="button" class="clear_search_link" @click="retryFailedSearchIndexes">索引重试</button>
+              </div>
+            </template>
+            <template v-else-if="enrichmentsData">
+              <span>{{ Object.keys(enrichmentsData.nodes).length }} 节点已建索引</span>
+            </template>
+            <template v-else-if="ismData">
+              <span>索引加载中...</span>
+            </template>
           </div>
         </div>
-        <div id="axis_x"></div>
-        <div id="axis_y"></div>
-        <div id="axis_z"></div>
+
+        <CubeNavigation
+          class="cube_nav_panel"
+          :current-code="routeIsmTag"
+          :nodes="ismData"
+          @select="handleCubeNavigationSelect"
+        />
+
+        <div class="left_utility_row">
+          <div class="left_action_group">
+            <button id="ai_button" type="button" aria-label="打开 AI 对话" @click="goToAI">AI 顾问</button>
+            <button id="download_button" type="button" aria-label="下载主义主义节点 JSON 文件"
+              :disabled="!ismData" @click="downloadIsmJson">导出 JSON</button>
+            <button id="return_button" type="button" aria-label="在新窗口打开更多内容" @click="openMoreContent">原站延伸</button>
+          </div>
+
+          <div class="reader_metrics">
+            <div id="page_view" title="此网页的总访量">
+              <img src="@/assets/page_view_icon.svg" alt="page_view">
+              <b>{{ pageView == -1 ? '-' : pageView }}</b>
+            </div>
+            <div id="online_count" title="当前在线数">
+              <span>在线</span>
+              <b>{{ onlineCount == -1 ? '-' : onlineCount }}</b>
+            </div>
+          </div>
+        </div>
       </div>
-      <div id="axis_label">
-        <p id="axis_label_x">场域论</p>
-        <p id="axis_label_y">本体论</p>
-        <p id="axis_label_z">认识论</p>
-        <p id="axis_label_i">目的论</p>
-      </div>
+
       <div id="ism_info_wrapper">
-        <div id="ism_info" :style="{ fontSize: `${ismInfoFontSize}rem` }">
-          <div id="increase_fontsize_button" title="放大字体" @click="increaseFontSize"></div>
-          <div id="decrease_fontsize_button" title="缩小字体" @click="decreaseFontSize"></div>
-          <div id="ism_info_content">
-            <div v-if="ismLoadError" class="info_error_box">{{ ismLoadError }}</div>
+        <div id="ism_info" :style="{ fontSize: readerFontCss(ismInfoFontSize) }">
+          <div class="reader_font_toolbar" role="group" aria-label="正文字号">
+            <button id="increase_fontsize_button" type="button" aria-label="放大正文字体" title="放大字体"
+              :disabled="ismInfoFontSize >= MAX_READER_SCALE" @click="increaseFontSize">A+</button>
+            <button id="decrease_fontsize_button" type="button" aria-label="缩小正文字体" title="缩小字体"
+              :disabled="ismInfoFontSize <= MIN_READER_SCALE" @click="decreaseFontSize">A−</button>
+          </div>
+          <div id="ism_info_content" ref="readerContentRef" tabindex="-1" role="region" aria-label="节点阅读内容">
+            <div v-if="ismLoadError" class="info_error_box">
+              <div>{{ ismLoadError }}</div>
+              <button
+                type="button"
+                class="retry_btn_inline info_error_retry_btn"
+                :disabled="ismStatus === 'loading'"
+                @click="retryReaderResource($event, loadIsm)"
+              >
+                重试加载
+              </button>
+            </div>
+            <div v-else-if="ismStatus === 'loading' && !ismData" class="info_error_box">
+              正在加载基础数据...
+            </div>
             <div v-else-if="!activeIsmTag || !activeIsmData" class="info_intro_box">
               <div v-if="!guideSeen" class="first_visit_guide_banner" role="region" aria-label="首次阅读提示">
                 <p class="first_visit_guide_text">
@@ -173,7 +245,7 @@
                   :code="activeIsmTag"
                   :get-node="getIsmNode"
                   :query="searchText"
-                  @jump="jumpToNode"
+                  @jump="handleInlineJump"
                 />
 
                 <div
@@ -221,7 +293,7 @@
                 </div>
 
                 <div class="node_titles">
-                  <div class="node_ch_name">
+                  <div ref="nodeHeadingRef" class="node_ch_name" tabindex="-1">
                     <HighlightText :text="activeIsmData.ch_name" :query="searchText" />
                   </div>
                   <div class="node_en_name">
@@ -230,46 +302,33 @@
                 </div>
               </div>
 
-              <div class="info_tabs" role="tablist">
+              <div class="info_tabs" role="tablist" aria-label="节点阅读视图">
                 <button
+                  v-for="(tab, idx) in infoTabs"
+                  :id="getInfoTabId(tab.key)"
+                  :key="tab.key"
+                  :ref="(el) => setInfoTabRef(tab.key, el)"
                   type="button"
                   role="tab"
                   class="info_tab_btn"
-                  :class="{ active: activeInfoTab === 'overview', has_hit: overviewHasSearchHit }"
-                  @click="activeInfoTab = 'overview'"
+                  :class="{ active: activeInfoTab === tab.key, has_hit: tab.dotClass === 'hit_dot' && tab.hasHit }"
+                  :aria-selected="activeInfoTab === tab.key ? 'true' : 'false'"
+                  :aria-controls="getInfoPanelId(tab.key)"
+                  :tabindex="activeInfoTab === tab.key ? 0 : -1"
+                  @click="selectInfoTab(tab.key)"
+                  @keydown="handleInfoTabKeydown($event, idx)"
                 >
-                  概览与四轴<span v-if="overviewHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
-                </button>
-                <button
-                  type="button"
-                  role="tab"
-                  class="info_tab_btn"
-                  :class="{ active: activeInfoTab === 'courses', has_hit: coursesHasSearchHit }"
-                  @click="activeInfoTab = 'courses'"
-                >
-                  课程与讲稿 ({{ courseTabCount }})<span v-if="coursesHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
-                </button>
-                <button
-                  type="button"
-                  role="tab"
-                  class="info_tab_btn"
-                  :class="{ active: activeInfoTab === 'editorial', has_hit: editorialHasSearchHit }"
-                  @click="activeInfoTab = 'editorial'"
-                >
-                  校勘与典籍 ({{ editorialTabCount }})<span v-if="editorialHasSearchHit" class="hit_dot" title="当前搜索词命中此页">•</span>
-                </button>
-                <button
-                  type="button"
-                  role="tab"
-                  class="info_tab_btn"
-                  :class="{ active: activeInfoTab === 'notes' }"
-                  @click="activeInfoTab = 'notes'"
-                >
-                  我的笔记<span v-if="currentHasNote" class="note_dot" title="当前节点有笔记">•</span>
+                  {{ tab.label }}<span v-if="tab.hasHit" :class="tab.dotClass" :title="tab.dotTitle">•</span>
                 </button>
               </div>
 
-              <div v-show="activeInfoTab === 'overview'" class="tab_panel">
+              <div
+                v-show="activeInfoTab === 'overview'"
+                :id="getInfoPanelId('overview')"
+                role="tabpanel"
+                :aria-labelledby="getInfoTabId('overview')"
+                class="tab_panel"
+              >
                 <div class="evidence_toolbar">
                   <label class="evidence_toggle_label">
                     <input
@@ -311,16 +370,23 @@
                   :axis-evidence="getAxisEvidence"
                   :review-highlights="showEvidenceMarkers ? activeEnrichment?.review_summary?.highlights : undefined"
                   :self-test="selfTestMode"
-                  @jump="jumpToNode"
+                  @jump="handleInlineJump"
                 />
 
-                <div v-if="nonEmptyFeatures.length > 0" class="feature_section">
+                <div
+                  v-if="nonEmptyFeatures.length > 0"
+                  ref="featureSectionRef"
+                  class="feature_section"
+                  role="region"
+                  aria-label="立场主要特征"
+                  tabindex="-1"
+                >
                   <div v-if="selfTestMode && !featuresRevealed" class="self_test_prompt_box">
                     <span class="self_test_prompt_text">先用自己的话说出这个立场的主要特征，再揭晓。</span>
                     <button
                       type="button"
                       class="self_test_reveal_btn"
-                      @click="featuresRevealed = true"
+                      @click="revealFeatures"
                     >
                       揭晓特征
                     </button>
@@ -345,7 +411,7 @@
                   :code="activeIsmTag"
                   :get-node="getIsmNode"
                   :query="searchText"
-                  @jump="jumpToNode"
+                  @jump="handleInlineJump"
                 />
 
                 <div v-if="coreRelatedList.length > 0" class="core_related_section">
@@ -361,12 +427,18 @@
                 </div>
               </div>
 
-              <div v-show="activeInfoTab === 'courses'" class="tab_panel">
+              <div
+                v-show="activeInfoTab === 'courses'"
+                :id="getInfoPanelId('courses')"
+                role="tabpanel"
+                :aria-labelledby="getInfoTabId('courses')"
+                class="tab_panel"
+              >
                 <div class="section_block">
                   <div class="section_title">关联视频课程（{{ activeLinkedCourses.length }}）</div>
                   <div v-if="coursesStatus === 'error' && activeLinkedCourses.length === 0" class="empty_hint error_hint">
                     <span>{{ coursesError || '补充课程目录加载失败。' }}</span>
-                    <button type="button" class="retry_btn_inline" @click="loadCourses">重试</button>
+                    <button type="button" class="retry_btn_inline" @click="retryReaderResource($event, loadCourses)">重试</button>
                   </div>
                   <div v-else-if="coursesStatus === 'loading' && activeLinkedCourses.length === 0" class="empty_hint">
                     正在加载补充课程目录...
@@ -422,7 +494,7 @@
                   <div class="section_title">二手汇编讲稿入口（{{ activeEnrichment?.transcripts.length ?? 0 }}）</div>
                   <div v-if="!enrichmentsData && enrichStatus === 'error'" class="empty_hint error_hint">
                     <span>{{ enrichError || '讲稿索引加载失败。' }}</span>
-                    <button type="button" class="retry_btn_inline" @click="loadEnrichments">重试</button>
+                    <button type="button" class="retry_btn_inline" @click="retryReaderResource($event, loadEnrichments)">重试</button>
                   </div>
                   <div v-else-if="!enrichmentsData" class="empty_hint">
                     正在加载讲稿索引...
@@ -453,7 +525,13 @@
                 </div>
               </div>
 
-              <div v-show="activeInfoTab === 'editorial'" class="tab_panel">
+              <div
+                v-show="activeInfoTab === 'editorial'"
+                :id="getInfoPanelId('editorial')"
+                role="tabpanel"
+                :aria-labelledby="getInfoTabId('editorial')"
+                class="tab_panel"
+              >
                 <div class="section_block">
                   <div class="section_title">
                     典籍与延展阅读（{{ activeEnrichment?.readings.length ?? fallbackReadingEntries.length }}）
@@ -543,7 +621,7 @@
                   </template>
                   <div v-else-if="!enrichmentsData && enrichStatus === 'error'" class="empty_hint error_hint">
                     <span>{{ enrichError || '校勘记录加载失败。' }}</span>
-                    <button type="button" class="retry_btn_inline" @click="loadEnrichments">重试</button>
+                    <button type="button" class="retry_btn_inline" @click="retryReaderResource($event, loadEnrichments)">重试</button>
                   </div>
                   <div v-else-if="!enrichmentsData" class="empty_hint">
                     正在加载校勘记录...
@@ -590,8 +668,15 @@
                 </div>
               </div>
 
-              <div v-if="activeInfoTab === 'notes'" class="tab_panel">
+              <div
+                v-show="activeInfoTab === 'notes'"
+                :id="getInfoPanelId('notes')"
+                role="tabpanel"
+                :aria-labelledby="getInfoTabId('notes')"
+                class="tab_panel"
+              >
                 <NodeNotes
+                  v-if="activeInfoTab === 'notes'"
                   :code="activeIsmTag"
                   :title="activeIsmData.ch_name"
                   :readings="activeEnrichment?.readings ?? []"
@@ -606,71 +691,47 @@
         </div>
         <div id="ism_info_overlay"></div>
       </div>
-      <div id="size_adjuster">
-        <div
-          id="size_indicator"
-          @mousedown="setIndicatorActive"
-          :style="{ top: sizeIndicatorRatio * 100 + '%' }"
-        >
-        </div>
-      </div>
     </div>
 
     <div id="right_part" :class="{ widened: isLeftPartClosed }">
-      <div id="right_part_scroll">
-        <div id="ismism_cube_box" :style="{ transform: `scale(${1 + sizeIndicatorRatio * 1.5})` }">
-          <div
-            v-for="x in 4"
-            :key="`${x}`"
-            class="ism_x"
-            :style="{ '--x': 4-x }"
-          >
-            <div
-              v-for="y in 4"
-              :key="`${x}-${y}`"
-              class="ism_xy"
-            >
-              <div id="i"></div>
-              <div id="z"></div>
-              <div
-                v-for="z in 4"
-                :key="`${x}-${y}-${z}`"
-                class="ism_xyz ism"
-                :style="{ '--z': z }"
-                :ism_tag="`${x}-${y}-${5-z}`"
-                :class="getIsmClass(`${x}-${y}-${5-z}`)"
-                @mouseover="selectISM(`${x}-${y}-${5-z}`)"
-                @mouseout="unselectISM()"
-                @click="pinISM(`${x}-${y}-${5-z}`)"
-              >
-                <p
-                  class="ism_name"
-                  :class="{ no_data: ismData && ismData[`${x}-${y}-${5-z}`] && !ismData[`${x}-${y}-${5-z}`].summary_status }"
-                  :style="{ fontSize: getIsmNameFontSize(getIsmName(`${x}-${y}-${5-z}`)) }">{{ getIsmName(`${x}-${y}-${5-z}`) }}
-                </p>
-                <div id="ism_xyz_label_column">{{ 5-z }}</div>
-                <div
-                  v-for="i in 4"
-                  :key="`${x}-${y}-${5-z}-${i}`"
-                  class="ism_xyzi ism"
-                  :style="{ '--i': i }"
-                  :ism_tag="`${x}-${y}-${5-z}-${5-i}`"
-                  :class="getIsmClass(`${x}-${y}-${5-z}-${5-i}`)"
-                  @mouseover.stop="selectISM(`${x}-${y}-${5-z}-${5-i}`)"
-                  @mouseout.stop="unselectISM()"
-                  @click.stop="pinISM(`${x}-${y}-${5-z}-${5-i}`)"
-                >
-                  <p
-                    class="ism_name"
-                    :class="{ no_data: ismData && ismData[`${x}-${y}-${5-z}-${5-i}`] && !ismData[`${x}-${y}-${5-z}-${5-i}`].summary_status }"
-                    :style="{ fontSize: getIsmNameFontSize(getIsmName(`${x}-${y}-${5-z}-${5-i}`)) }">{{ getIsmName(`${x}-${y}-${5-z}-${5-i}`) }}
-                  </p>
-                  <div id="ism_xyz_label_row">{{ 5-i }}</div>
-                </div>
-              </div>
-            </div>
-          </div>
+      <div class="right_part_toolbar">
+        <div id="cube_zoom_controls">
+          <label for="cube_zoom_range">魔方缩放</label>
+          <input id="cube_zoom_range" type="range" min="100" max="250" step="1"
+            :value="cubeZoomPercent" :aria-valuetext="`${cubeZoomPercent}%`" @input="handleCubeZoomInput">
+          <output for="cube_zoom_range">{{ cubeZoomPercent }}%</output>
         </div>
+
+        <div id="danmu_button_container" :class="{ disabled: !danmuEnabled }">
+          <button id="danmu_toggle_button" type="button" :aria-pressed="danmuEnabled"
+            @click="toggleDanmu"
+          >
+            {{ danmuEnabled ? '关闭弹幕' : '开启弹幕' }}
+          </button>
+          <input id="danmu_input"
+            type="text"
+            placeholder="发送弹幕" aria-label="弹幕内容" :aria-busy="danmuPending"
+            v-model="danmuText"
+            :disabled="!danmuEnabled"
+            :class="{ disabled: !danmuEnabled }"
+            @keydown.enter="sendDanmu"
+          >
+        </div>
+      </div>
+
+      <div id="right_part_scroll">
+        <SpatialCubeExplorer
+          :nodes="ismData"
+          :active-code="routeIsmTag"
+          :pinned-code="routeIsmTag"
+          :hit-codes="searchedTags"
+          :note-codes="noteCodesSet"
+          :cube-scale-transform="cubeScaleTransform"
+          v-model:view-mode="spatialViewMode"
+          @select="handleSpatialSelect"
+          @hover="handleSpatialHover"
+        />
+
         <div id="danmu_overlay" ref="danmuOverlayRef">
           <div
             v-for="danmu in activeDanmus"
@@ -687,22 +748,9 @@
           </div>
         </div>
       </div>
-      <div id="danmu_button_container" :class="{ disabled: !danmuEnabled }">
-        <div id="danmu_toggle_button"
-          @click="toggleDanmu"
-        >
-          {{ danmuEnabled ? '关闭弹幕' : '开启弹幕' }}
-        </div>
-        <input id="danmu_input"
-          type="text"
-          placeholder="发送弹幕"
-          v-model="danmuText"
-          :disabled="!danmuEnabled"
-          :class="{ disabled: !danmuEnabled }"
-          @keydown.enter="sendDanmu"
-        >
-      </div>
     </div>
+
+    <span v-if="danmuStatus" id="danmu_status" role="status" aria-atomic="true">{{ danmuStatus }}</span>
 
     <CourseDrawer
       :open="courseDrawerOpen"
@@ -715,8 +763,9 @@
       :can-jump="canJumpToNode"
       :initial-course-id="drawerInitialCourseId"
       :initial-category="drawerInitialCategory"
+      fallback-focus-selector="#courses_button"
       @close="closeCourseDrawer"
-      @jump-to-node="jumpToNode"
+      @jump-to-node="handleCourseJump"
       @retry-courses="loadCourses"
       @retry-bodies="loadCourseBodies"
     />
@@ -755,12 +804,29 @@
       @retry-enrichments="loadEnrichments"
       @retry-courses="loadCourses"
     />
+
+    <CommandPalette
+      :open="commandPaletteOpen"
+      :nodes="ismData"
+      :courses="coursesList"
+      :theme-label="themeLabel"
+      :view-mode-label="spatialViewMode === 'cube' ? '矩阵切片' : '立体魔方'"
+      fallback-focus-selector="#cmd_palette_trigger"
+      @close="closeCommandPalette"
+      @jump-node="handleCommandJumpNode"
+      @open-course="handleCommandOpenCourse"
+      @open-full-search="handleCommandFullSearch"
+      @run-action="handleCommandAction"
+    />
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
+import { ref, computed, nextTick, onMounted, onBeforeUnmount, onUnmounted, watch } from 'vue'
+import { postDanmu, DanmuTimeoutError } from '../../utils/danmuRequest'
+import { validateCoursesPayload, validateEnrichmentsPayload, validateIsmPayload, validateCourseBodiesPayload } from '../../utils/staticPayload'
 import { useRoute, useRouter } from 'vue-router'
+import { MAX_READER_SCALE, MIN_READER_SCALE, READER_FONT_KEY, readReaderScale, readerFontCss, stepReaderScale } from '../../utils/readerFont'
 import { buildStaticUrl } from '../../config/static.ts'
 import { buildApiUrl } from '../../config/api.ts'
 import HighlightText from '../../components/HighlightText.vue'
@@ -773,9 +839,28 @@ import NodeNotes from '../../components/NodeNotes.vue'
 import ReadingRoute from '../../components/ReadingRoute.vue'
 import CodeGuide from '../../components/CodeGuide.vue'
 import SearchResults from '../../components/SearchResults.vue'
+import CubeNavigation from '../../components/CubeNavigation.vue'
+import SpatialCubeExplorer from '../../components/SpatialCubeExplorer.vue'
+import CommandPalette from '../../components/CommandPalette.vue'
 import { getAdjacentSiblingCodes, getParentCode } from '../../utils/axisStructure'
+import { useThemeMode } from '../../utils/themeMode'
+import { runViewTransition } from '../../utils/viewTransition'
+import { subscribeTabSync } from '../../utils/tabSync'
 import { CANONICAL_TONE, TONE_META, getFieldEvidence, type EvidenceTone } from '../../utils/evidence'
 import { isNoteEmpty, loadNotes, type NotesState } from '../../utils/notesStore'
+import {
+  JsonRequestAbortedError,
+  JsonRequestTimeoutError,
+  fetchJsonWithTimeout
+} from '../../utils/jsonRequest'
+import {
+  createPageViewSession,
+  type PageViewSession
+} from '../../utils/pageViewSession'
+import {
+  createIndicatorDrag,
+  type IndicatorDragController
+} from '../../utils/indicatorDrag'
 import {
   findRouteStepByCode,
   isRouteStepDone,
@@ -826,6 +911,7 @@ const buildIsmismcubeApiUrl = (path: string): string => {
 
 // 响应式数据
 const ismData = ref<Record<string, any> | null>(null)
+const ismStatus = ref<LoadStatus>('idle')
 const ismLoadError = ref('')
 const enrichmentsData = ref<CubeEnrichmentsPayload | null>(null)
 const enrichStatus = ref<LoadStatus>('idle')
@@ -837,11 +923,21 @@ const courseBodiesMap = ref<CourseBodiesMap>({})
 const bodiesStatus = ref<LoadStatus>('idle')
 const bodiesError = ref('')
 
-const INFO_FONT_SCALE_STORAGE_KEY = 'ismismcube.infoFontScale'
+const INFO_FONT_SCALE_STORAGE_KEY = READER_FONT_KEY
 const SHOW_EVIDENCE_MARKERS_STORAGE_KEY = 'ismismcube.showEvidenceMarkers'
 const SELF_TEST_STORAGE_KEY = 'ismismcube.selfTest'
 const GUIDE_SEEN_STORAGE_KEY = 'ismismcube.guideSeen'
-const axisColor = ["red", "green", "blue", "darkorange"]
+const SPATIAL_VIEW_MODE_STORAGE_KEY = 'ismismcube.spatialViewMode'
+const axisColor = [
+  'var(--axis-field-text)',
+  'var(--axis-ontology-text)',
+  'var(--axis-epistemology-text)',
+  'var(--axis-teleology-text)'
+]
+const { themeLabel, cycleThemeMode } = useThemeMode()
+const mobilePane = ref<'reader' | 'cube'>('reader')
+const spatialViewMode = ref<'matrix' | 'cube'>('matrix')
+const commandPaletteOpen = ref(false)
 const ismInfoFontSize = ref(1.0)
 const showEvidenceMarkers = ref(true)
 const selfTestMode = ref(false)
@@ -855,13 +951,41 @@ const evidenceLegendItems: { tone: EvidenceTone; examples: string }[] = [
 ]
 const pageView = ref(-1)
 const onlineCount = ref(-1)
+const readerContentRef = ref<HTMLElement | null>(null)
 const searchInputRef = ref<HTMLInputElement | null>(null)
 const searchInputText = ref('')
 const searchText = ref('')
+const leftPartRef = ref<HTMLElement | null>(null)
+const sizeAdjusterRef = ref<HTMLElement | null>(null)
+const sizeIndicatorRef = ref<HTMLElement | null>(null)
 const sizeIndicatorRatio = ref(0)
+const cubeZoomPercent = computed(() => Math.round(100 + sizeIndicatorRatio.value * 150))
+const cubeScaleTransform = computed(() => `scale(${1 + sizeIndicatorRatio.value * 1.5})`)
+const handleCubeZoomInput = (event: Event) => {
+  const value = Number((event.currentTarget as HTMLInputElement | null)?.value)
+  if (!Number.isFinite(value)) return
+  sizeIndicatorRatio.value = (Math.min(250, Math.max(100, value)) - 100) / 150
+}
+
 const isLeftPartClosed = ref(false)
 const hoveredIsmTag = ref<string | null>(null)
 const activeInfoTab = ref<InfoTabKey>('overview')
+const nodeHeadingRef = ref<HTMLElement | null>(null)
+const featureSectionRef = ref<HTMLElement | null>(null)
+const infoTabRefs = new Map<InfoTabKey, HTMLButtonElement>()
+const INFO_TAB_ORDER: InfoTabKey[] = ['overview', 'courses', 'editorial', 'notes']
+const getInfoTabId = (key: InfoTabKey): string => `info_tab_${key}`
+const getInfoPanelId = (key: InfoTabKey): string => `info_panel_${key}`
+const setInfoTabRef = (key: InfoTabKey, el: unknown) => {
+  if (el && typeof el === 'object' && 'focus' in el) {
+    infoTabRefs.set(key, el as HTMLButtonElement)
+  } else {
+    infoTabRefs.delete(key)
+  }
+}
+let courseJumpFocusToken = 0
+let featureRevealFocusToken = 0
+let pendingCourseJumpTarget: string | null = null
 
 const courseDrawerOpen = ref(false)
 const drawerInitialCourseId = ref<string | undefined>(undefined)
@@ -885,6 +1009,8 @@ const activeDanmus = ref<DanmuItem[]>([])
 // WebSocket连接
 let socket: WebSocket | null = null
 let reconnectTimer: number | null = null
+let socketGeneration = 0
+let detachSocketListeners: (() => void) | null = null
 
 // 路由
 const route = useRoute()
@@ -947,6 +1073,16 @@ const currentHasNote = computed<boolean>(() => {
   if (!activeIsmTag.value) return false
   const note = notesState.value.nodes[activeIsmTag.value]
   return Boolean(note && !isNoteEmpty(note))
+})
+
+const noteCodesSet = computed<Set<string>>(() => {
+  const result = new Set<string>()
+  for (const [code, entry] of Object.entries(notesState.value.nodes)) {
+    if (entry && !isNoteEmpty(entry)) {
+      result.add(code)
+    }
+  }
+  return result
 })
 
 const handleNotesUpdated = (nextState: NotesState) => {
@@ -1202,194 +1338,308 @@ const editorialHasSearchHit = computed(() => {
   return matchesEditorialContent(activeIsmData.value, activeEnrichment.value, searchText.value)
 })
 
+const infoTabs = computed(() => [
+  {
+    key: 'overview' as const,
+    label: '概览与四轴',
+    hasHit: overviewHasSearchHit.value,
+    dotClass: 'hit_dot',
+    dotTitle: '当前搜索词命中此页'
+  },
+  {
+    key: 'courses' as const,
+    label: `课程与讲稿 (${courseTabCount.value})`,
+    hasHit: coursesHasSearchHit.value,
+    dotClass: 'hit_dot',
+    dotTitle: '当前搜索词命中此页'
+  },
+  {
+    key: 'editorial' as const,
+    label: `校勘与典籍 (${editorialTabCount.value})`,
+    hasHit: editorialHasSearchHit.value,
+    dotClass: 'hit_dot',
+    dotTitle: '当前搜索词命中此页'
+  },
+  {
+    key: 'notes' as const,
+    label: '我的笔记',
+    hasHit: currentHasNote.value,
+    dotClass: 'note_dot',
+    dotTitle: '当前节点有笔记'
+  }
+])
+
+const selectInfoTab = (tab: InfoTabKey) => {
+  activeInfoTab.value = tab
+}
+
+const handleInfoTabKeydown = (event: KeyboardEvent, currentIndex: number) => {
+  if (event.isComposing || event.ctrlKey || event.metaKey || event.altKey || event.shiftKey) return
+  const count = INFO_TAB_ORDER.length
+  let nextIndex: number
+  if (event.key === 'ArrowRight') {
+    nextIndex = (currentIndex + 1) % count
+  } else if (event.key === 'ArrowLeft') {
+    nextIndex = (currentIndex - 1 + count) % count
+  } else if (event.key === 'Home') {
+    nextIndex = 0
+  } else if (event.key === 'End') {
+    nextIndex = count - 1
+  } else {
+    return
+  }
+  event.preventDefault?.()
+  const nextTab = INFO_TAB_ORDER[nextIndex]
+  activeInfoTab.value = nextTab
+  const targetEl = infoTabRefs.get(nextTab)
+  if (targetEl && targetEl.isConnected !== false) {
+    targetEl.focus()
+  }
+}
+
 // WebSocket连接管理
+const scheduleWebSocketReconnect = (generation: number) => {
+  if (isComponentUnmounted || generation !== socketGeneration) return
+  if (reconnectTimer !== null) window.clearTimeout(reconnectTimer)
+  const timer = window.setTimeout(() => {
+    if (isComponentUnmounted || generation !== socketGeneration || reconnectTimer !== timer) return
+    reconnectTimer = null
+    connectWebSocket()
+  }, 3000)
+  reconnectTimer = timer
+}
+
 const connectWebSocket = () => {
+  if (isComponentUnmounted) return
+  disconnectWebSocket()
+  const generation = socketGeneration
   try {
-    // 根据当前页面协议自动选择 WebSocket 协议
     const wsUrl = `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}${buildIsmismcubeApiUrl('/online')}`
-    socket = new WebSocket(wsUrl)
-    socket.addEventListener("open", () => {
+    const currentSocket = new WebSocket(wsUrl)
+    socket = currentSocket
+    const ownsSocket = () => !isComponentUnmounted && generation === socketGeneration && socket === currentSocket
+    const onOpen = () => {
+      if (!ownsSocket()) return
       console.log("WebSocket连接成功")
-      if (reconnectTimer) {
-        clearTimeout(reconnectTimer)
-        reconnectTimer = null
-      }
-    })
-    socket.addEventListener("message", (event) => {
-      const message = event.data as string
+    }
+    const onMessage = (event: MessageEvent) => {
+      if (!ownsSocket() || typeof event.data !== 'string') return
+      const message = event.data
       if (message.startsWith('broadcast')) {
         try {
           const data = JSON.parse(message.substring(message.indexOf('{')))
-          if (data.online !== undefined) {
-            onlineCount.value = data.online
-          }
+          if (data && typeof data === 'object' && !Array.isArray(data) &&
+            typeof data.online === 'number' && Number.isFinite(data.online) && Number.isInteger(data.online) && data.online >= 0) onlineCount.value = data.online
         } catch (error) {
           console.error("WebSocket JSON解析失败:", message, error)
         }
-      }
-      else if (message.startsWith("danmu")) {
+      } else if (message.startsWith('danmu')) {
         try {
           const data = JSON.parse(message.substring(message.indexOf('{')))
-          if (data.content !== undefined) {
-            spawnDanmu(String(data.content))
-          }
+          if (data && typeof data === 'object' && !Array.isArray(data) && typeof data.content === 'string') spawnDanmu(data.content)
         } catch (error) {
           console.error("弹幕消息解析失败:", message, error)
         }
       } else {
         console.error("WebSocket消息解析失败:", message)
       }
-    })
-    socket.addEventListener("error", (error) => {
+    }
+    const onError = (error: Event) => {
+      if (!ownsSocket()) return
       console.error("WebSocket连接错误:", error)
-    })
-    socket.addEventListener("close", (event) => {
+    }
+    const detach = () => {
+      currentSocket.removeEventListener('open', onOpen)
+      currentSocket.removeEventListener('message', onMessage)
+      currentSocket.removeEventListener('error', onError)
+      currentSocket.removeEventListener('close', onClose)
+    }
+    const onClose = (event: CloseEvent) => {
+      if (!ownsSocket()) return
+      detach()
+      detachSocketListeners = null
+      socket = null
       console.log("WebSocket连接关闭:", event.code, event.reason)
-      if (event.code !== 1000) {
-        reconnectTimer = window.setTimeout(() => {
-          connectWebSocket()
-        }, 3000)
-      }
-    })
+      if (event.code !== 1000) scheduleWebSocketReconnect(generation)
+    }
+    detachSocketListeners = detach
+    currentSocket.addEventListener('open', onOpen)
+    currentSocket.addEventListener('message', onMessage)
+    currentSocket.addEventListener('error', onError)
+    currentSocket.addEventListener('close', onClose)
   } catch (error) {
+    if (isComponentUnmounted || generation !== socketGeneration) return
+    detachSocketListeners?.()
+    detachSocketListeners = null
+    const failedSocket = socket
+    socket = null
+    failedSocket?.close(1000, '连接初始化失败')
     console.error("WebSocket连接失败:", error)
-    reconnectTimer = window.setTimeout(() => {
-      connectWebSocket()
-    }, 3000)
+    scheduleWebSocketReconnect(generation)
   }
 }
 
 const disconnectWebSocket = () => {
-  if (reconnectTimer) {
-    clearTimeout(reconnectTimer)
+  // Invalidate first, including callbacks queued before removeEventListener.
+  socketGeneration++
+  if (reconnectTimer !== null) {
+    window.clearTimeout(reconnectTimer)
     reconnectTimer = null
   }
-  if (socket) {
-    console.log('关闭WebSocket连接')
-    // 移除所有事件监听器，防止触发重连
-    socket.onopen = null
-    socket.onmessage = null
-    socket.onerror = null
-    socket.onclose = null
-    socket.close(1000, "页面卸载")
-    socket = null
-  }
+  const previousSocket = socket
+  socket = null
+  const detach = detachSocketListeners
+  detachSocketListeners = null
+  detach?.()
+  previousSocket?.close(1000, '页面卸载')
 }
 
 // 计算属性
-const getIsmClass = (ismTag: string) => {
-  const classes = []
-  const currentIsmTag = route.params.ismTag as string
-  if (currentIsmTag && ismTag.startsWith(currentIsmTag)) {
-    classes.push('pinned')
+let detachTabSync: (() => void) | null = null
+
+type StaticLoaderKey = 'ism' | 'enrichments' | 'courses' | 'courseBodies'
+
+const JSON_REQUEST_TIMEOUT_MS = 15_000
+let isComponentUnmounted = false
+const loaderControllers = new Map<StaticLoaderKey, AbortController>()
+const loaderTokens = new Map<StaticLoaderKey, number>()
+let pageViewSession: PageViewSession | null = null
+let indicatorDrag: IndicatorDragController | null = null
+
+interface StaticJsonRequestConfig<T> {
+  key: StaticLoaderKey
+  path: string
+  statusRef: { value: LoadStatus }
+  errorRef: { value: string }
+  logLabel: string
+  timeoutMessage: string
+  errorMessage: string
+  validate?: (payload: unknown) => boolean
+  onSuccess: (payload: T) => void
+}
+
+const runStaticJsonRequest = async <T>({
+  key,
+  path,
+  statusRef,
+  errorRef,
+  logLabel,
+  timeoutMessage,
+  errorMessage,
+  validate,
+  onSuccess
+}: StaticJsonRequestConfig<T>): Promise<boolean> => {
+  if (isComponentUnmounted || statusRef.value === 'loading' || statusRef.value === 'ready') {
+    return false
   }
-  if (searchedTags.value.has(ismTag)) {
-    classes.push('searched')
-  }
-  return classes
-}
 
-const getIsmName = (ismTag: string) => {
-  if (!ismData.value || !ismData.value[ismTag]) return ''
-  const name = ismData.value[ismTag].ch_name.split('/')[0].replace(/[“”"]/g, '')
-  return name
-}
+  const token = (loaderTokens.get(key) ?? 0) + 1
+  loaderTokens.set(key, token)
+  loaderControllers.get(key)?.abort('superseded')
+  const controller = new AbortController()
+  loaderControllers.set(key, controller)
 
-const getIsmNameFontSize = (text: string) => {
-  return text.length > 4 ? '0.75rem' : '1rem'
-}
+  const isCurrent = () => !isComponentUnmounted && loaderTokens.get(key) === token
 
-const loadEnrichments = async () => {
-  if (enrichStatus.value === 'loading') return
-  enrichStatus.value = 'loading'
-  enrichError.value = ''
+  statusRef.value = 'loading'
+  errorRef.value = ''
+
   try {
-    const res = await fetch(buildIsmismcubeStaticUrl('/cube-enrichments.json'))
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`)
+    const payload = await fetchJsonWithTimeout<unknown>(buildIsmismcubeStaticUrl(path), {
+      signal: controller.signal,
+      timeoutMs: JSON_REQUEST_TIMEOUT_MS
+    })
+    if (!isCurrent()) return false
+    if (validate && !validate(payload)) throw new Error(`Invalid UI structure in ${logLabel}`)
+    if (loaderControllers.get(key) === controller) {
+      loaderControllers.delete(key)
     }
-    enrichmentsData.value = await res.json() as CubeEnrichmentsPayload
-    enrichStatus.value = 'ready'
+    onSuccess(payload as T)
+    statusRef.value = 'ready'
+    return true
   } catch (error) {
-    console.error('Failed to load cube-enrichments.json:', error)
-    enrichStatus.value = 'error'
-    enrichError.value = '讲稿与校勘索引加载失败，请重试。'
+    if (loaderControllers.get(key) === controller) {
+      loaderControllers.delete(key)
+    }
+    if (!isCurrent()) return false
+    if (error instanceof JsonRequestAbortedError) {
+      statusRef.value = 'idle'
+      return false
+    }
+    console.error(`Failed to load ${logLabel}:`, error)
+    statusRef.value = 'error'
+    errorRef.value = error instanceof JsonRequestTimeoutError ? timeoutMessage : errorMessage
+    return false
   }
 }
 
-const loadCourses = async () => {
-  if (coursesStatus.value === 'loading') return
-  coursesStatus.value = 'loading'
-  coursesError.value = ''
-  try {
-    const res = await fetch(buildIsmismcubeStaticUrl('/courses.json'))
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`)
-    }
-    const payload = await res.json() as CoursesPayload
-    coursesList.value = payload.courses ?? []
-    coursesStatus.value = 'ready'
-  } catch (error) {
-    console.error('Failed to load courses.json:', error)
-    coursesStatus.value = 'error'
-    coursesError.value = '补充课程目录加载失败，请稍后重试。'
+const loadEnrichments = () => runStaticJsonRequest<CubeEnrichmentsPayload>({
+  key: 'enrichments',
+  path: '/cube-enrichments.json',
+  statusRef: enrichStatus,
+  errorRef: enrichError,
+  logLabel: 'cube-enrichments.json',
+  validate: validateEnrichmentsPayload,
+  timeoutMessage: '讲稿与校勘索引加载超时（15秒），请重试。',
+  errorMessage: '讲稿与校勘索引加载失败，请重试。',
+  onSuccess: (payload) => {
+    enrichmentsData.value = payload
   }
-}
+})
 
-const loadCourseBodies = async () => {
-  if (bodiesStatus.value === 'loading' || bodiesStatus.value === 'ready') return
-  bodiesStatus.value = 'loading'
-  bodiesError.value = ''
-  try {
-    const res = await fetch(buildIsmismcubeStaticUrl('/course-bodies.json'))
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`)
+const loadCourses = () => runStaticJsonRequest<CoursesPayload>({
+  key: 'courses',
+  path: '/courses.json',
+  statusRef: coursesStatus,
+  errorRef: coursesError,
+  logLabel: 'courses.json',
+  validate: validateCoursesPayload,
+  timeoutMessage: '补充课程目录加载超时（15秒），请稍后重试。',
+  errorMessage: '补充课程目录加载失败，请稍后重试。',
+  onSuccess: (payload) => {
+    coursesList.value = payload.courses
+  }
+})
+
+const loadCourseBodies = () => runStaticJsonRequest<CourseBodiesMap>({
+  key: 'courseBodies',
+  path: '/course-bodies.json',
+  statusRef: bodiesStatus,
+  errorRef: bodiesError,
+  logLabel: 'course-bodies.json',
+  validate: validateCourseBodiesPayload,
+  timeoutMessage: '课程摘要正文加载超时（15秒），请重试。',
+  errorMessage: '课程摘要正文加载失败，请重试。',
+  onSuccess: (payload) => {
+    courseBodiesMap.value = payload
+  }
+})
+
+const loadIsm = async () => {
+  const loaded = await runStaticJsonRequest<Record<string, any>>({
+    key: 'ism',
+    path: '/ism.json',
+    statusRef: ismStatus,
+    errorRef: ismLoadError,
+    logLabel: 'ism.json',
+    validate: validateIsmPayload,
+    timeoutMessage: '数据加载超时（15秒），请检查网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)',
+    errorMessage: '数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)',
+    onSuccess: (payload) => {
+      ismData.value = payload
+      handleRoute()
     }
-    courseBodiesMap.value = await res.json() as CourseBodiesMap
-    bodiesStatus.value = 'ready'
-  } catch (error) {
-    console.error('Failed to load course-bodies.json:', error)
-    bodiesStatus.value = 'error'
-    bodiesError.value = '课程摘要正文加载失败，请重试。'
+  })
+  if (loaded && !isComponentUnmounted) {
+    void Promise.allSettled([loadEnrichments(), loadCourses()])
   }
 }
 
 // 总初始化
 const initial = async () => {
-  try {
-    const response = await fetch(buildIsmismcubeStaticUrl('/ism.json'))
-    if (response.ok) {
-      ismData.value = await response.json()
-      handleRoute()
-      void Promise.allSettled([loadEnrichments(), loadCourses()])
-    } else {
-      ismLoadError.value = "数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)"
-    }
-  } catch (error) {
-    console.error('Failed to load ism.json:', error)
-    ismLoadError.value = "数据加载失败\n\n请检测网络后重试\n或\n强制重新加载此页面(windows快捷键 Ctrl + F5)"
-  }
-
-  let shouldConnectWs = true
-  try {
-    // POST 记录本次访问，并返回包含本次访问后的总数（保持原先每次加载计一次访问的行为）
-    const response = await fetch(buildIsmismcubeApiUrl('/page_view'), { method: 'POST' })
-    if (response.ok) {
-      const data = await response.json()
-      if (typeof data.page_view === 'number') {
-        pageView.value = data.page_view
-      }
-      if (data.offline === true) {
-        shouldConnectWs = false
-      }
-    }
-  } catch (error) {
-    console.error('Failed to load page view:', error)
-  }
-
-  if (shouldConnectWs) {
-    connectWebSocket()
-  }
+  await loadIsm()
+  if (isComponentUnmounted) return
+  await pageViewSession?.start()
 }
 
 const handleRoute = () => {
@@ -1401,36 +1651,118 @@ const handleRoute = () => {
   }
 }
 
-const selectISM = (ismTag: string) => {
-  hoveredIsmTag.value = ismTag
-  const ismNodes = document.querySelectorAll('.ism')
-  for (const ismNode of ismNodes) {
-    const nodeIsmTag = ismNode.getAttribute('ism_tag')
-    if (nodeIsmTag && nodeIsmTag.startsWith(ismTag)) {
-      ismNode.classList.add('selected')
-    }
+const navigateWithTransition = (action: () => void) => {
+  if (typeof document !== 'undefined' && typeof (document as Document & { startViewTransition?: unknown }).startViewTransition === 'function') {
+    void runViewTransition(action)
+  } else {
+    action()
   }
 }
 
-const unselectISM = () => {
-  hoveredIsmTag.value = null
-  const ismNodes = document.querySelectorAll('.ism')
-  for (const ismNode of ismNodes) {
-    ismNode.classList.remove('selected')
+const selectMobilePane = (pane: 'reader' | 'cube') => {
+  mobilePane.value = pane
+  if (pane === 'reader' && isLeftPartClosed.value) {
+    isLeftPartClosed.value = false
   }
-  handleRoute()
 }
 
 const pinISM = (ismTag: string) => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
   const currentIsmTag = route.params.ismTag as string
-  if (currentIsmTag === ismTag) {
-    router.push('/')
-  } else {
-    router.push('/' + ismTag)
+  navigateWithTransition(() => {
+    if (currentIsmTag === ismTag) {
+      router.push('/')
+    } else {
+      router.push('/' + ismTag)
+    }
+  })
+}
+
+const handleSpatialHover = (code: string) => {
+  hoveredIsmTag.value = code ? code : null
+  if (!code) {
+    handleRoute()
   }
 }
 
+const handleSpatialSelect = (code: string) => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
+  hoveredIsmTag.value = null
+  if (!code) {
+    navigateWithTransition(() => router.push('/'))
+    return
+  }
+  const targetDepth = code.split('-').filter(Boolean).length
+  if (routeIsmTag.value === code || targetDepth >= 4) {
+    selectMobilePane('reader')
+  }
+  if (routeIsmTag.value !== code) {
+    navigateWithTransition(() => router.push('/' + code))
+  }
+}
+
+const handleCubeNavigationSelect = (code: string) => {
+  hoveredIsmTag.value = null
+  selectMobilePane('reader')
+  pinISM(code)
+}
+
+const openCommandPalette = () => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
+  courseDrawerOpen.value = false
+  readingRouteOpen.value = false
+  codeGuideOpen.value = false
+  searchResultsOpen.value = false
+  commandPaletteOpen.value = true
+}
+
+const closeCommandPalette = () => {
+  commandPaletteOpen.value = false
+}
+
+const handleCommandJumpNode = (code: string) => {
+  void handleModalReaderJump(code, 'overview', closeCommandPalette)
+}
+
+const handleCommandOpenCourse = (courseId: string) => {
+  closeCommandPalette()
+  openCourseDrawer(courseId)
+}
+
+const handleCommandFullSearch = (query: string) => {
+  closeCommandPalette()
+  searchInputText.value = query
+  openSearchResults()
+}
+
+const handleCommandAction = (actionId: 'route' | 'courses' | 'guide' | 'theme' | 'ai' | 'view-toggle') => {
+  closeCommandPalette()
+  if (actionId === 'route') openReadingRoute()
+  else if (actionId === 'courses') openCourseDrawer()
+  else if (actionId === 'guide') openCodeGuide()
+  else if (actionId === 'theme') cycleThemeMode()
+  else if (actionId === 'ai') goToAI()
+  else if (actionId === 'view-toggle') {
+    spatialViewMode.value = spatialViewMode.value === 'cube' ? 'matrix' : 'cube'
+    selectMobilePane('cube')
+  }
+}
+
+watch(spatialViewMode, (mode) => {
+  try {
+    localStorage.setItem(SPATIAL_VIEW_MODE_STORAGE_KEY, mode)
+  } catch {
+    // 忽略本地存储异常
+  }
+})
+
 const openCourseDrawer = (courseId?: string, category: DrawerCategoryKey = 'dollar_series') => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
+  commandPaletteOpen.value = false
   readingRouteOpen.value = false
   codeGuideOpen.value = false
   searchResultsOpen.value = false
@@ -1451,6 +1783,9 @@ const closeCourseDrawer = () => {
 }
 
 const openReadingRoute = () => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
+  commandPaletteOpen.value = false
   courseDrawerOpen.value = false
   codeGuideOpen.value = false
   searchResultsOpen.value = false
@@ -1463,8 +1798,7 @@ const closeReadingRoute = () => {
 
 const handleRouteJump = (code: string) => {
   if (!canJumpToNode(code)) return
-  closeReadingRoute()
-  jumpToNode(code)
+  void handleModalReaderJump(code, 'overview', closeReadingRoute)
 }
 
 const markGuideSeen = () => {
@@ -1477,6 +1811,9 @@ const markGuideSeen = () => {
 }
 
 const openCodeGuide = () => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
+  commandPaletteOpen.value = false
   courseDrawerOpen.value = false
   readingRouteOpen.value = false
   searchResultsOpen.value = false
@@ -1489,7 +1826,10 @@ const closeCodeGuide = () => {
 }
 
 const openSearchResults = () => {
+  courseJumpFocusToken++
+  pendingCourseJumpTarget = null
   applySearchNow()
+  commandPaletteOpen.value = false
   courseDrawerOpen.value = false
   readingRouteOpen.value = false
   codeGuideOpen.value = false
@@ -1502,19 +1842,117 @@ const closeSearchResults = () => {
 
 const handleSearchResultJump = (code: string, tab: SearchMatchTabKey) => {
   if (!canJumpToNode(code)) return
-  closeSearchResults()
-  jumpToNodeWithTab(code, tab)
+  void handleModalReaderJump(code, tab, closeSearchResults)
 }
 
 const canJumpToNode = (code: string): boolean => {
   return Boolean(getIsmNode(code))
 }
 
+const isReadableTargetVisible = (el: HTMLElement | null | undefined): el is HTMLElement => {
+  if (!el || !el.isConnected) return false
+  if (typeof el.getClientRects === 'function' && el.getClientRects().length === 0) return false
+  if (typeof getComputedStyle === 'function' && getComputedStyle(el).visibility === 'hidden') return false
+  return true
+}
+
+const focusCourseJumpTarget = (tab: InfoTabKey): boolean => {
+  const tabEl = infoTabRefs.get(tab)
+  if (isReadableTargetVisible(tabEl)) {
+    tabEl.focus()
+    return true
+  }
+  if (isReadableTargetVisible(nodeHeadingRef.value)) {
+    nodeHeadingRef.value.focus()
+    return true
+  }
+  return false
+}
+
+const handleModalReaderJump = async (code: string, targetTab: InfoTabKey, close: () => void) => {
+  if (!canJumpToNode(code)) return
+  const token = ++courseJumpFocusToken
+  featureRevealFocusToken++
+  pendingCourseJumpTarget = code
+  hoveredIsmTag.value = null
+  activeInfoTab.value = targetTab
+  selectMobilePane('reader')
+  close()
+  try {
+    await router.push('/' + code)
+  } catch {
+    // 忽略取消或重复导航异常，交由下方状态守卫校验
+  }
+  await nextTick()
+  if (pendingCourseJumpTarget === code) {
+    pendingCourseJumpTarget = null
+  }
+  if (isComponentUnmounted || token !== courseJumpFocusToken) return
+  if (routeIsmTag.value !== code || activeIsmTag.value !== code || !activeIsmData.value) return
+  if (
+    courseDrawerOpen.value ||
+    readingRouteOpen.value ||
+    codeGuideOpen.value ||
+    searchResultsOpen.value ||
+    commandPaletteOpen.value ||
+    document.querySelector?.('[aria-modal="true"]')
+  ) {
+    return
+  }
+  const active = document.activeElement
+  const hasExternalFocus = Boolean(
+    active &&
+    active !== document.body &&
+    active !== document.documentElement &&
+    (active as { isConnected?: boolean }).isConnected
+  )
+  if (hasExternalFocus) return
+  focusCourseJumpTarget(targetTab)
+}
+
+const handleCourseJump = (code: string) => handleModalReaderJump(code, 'overview', closeCourseDrawer)
+
+const handleInlineJump = async (code: string) => {
+  if (!canJumpToNode(code)) return
+  const source = document.activeElement as HTMLElement | null
+  const token = ++courseJumpFocusToken
+  featureRevealFocusToken++
+  pendingCourseJumpTarget = code
+  hoveredIsmTag.value = null
+  activeInfoTab.value = 'overview'
+  selectMobilePane('reader')
+  closeCourseDrawer()
+  closeCommandPalette()
+  try {
+    await router.push('/' + code)
+  } catch {
+    // Verify the settled destination below, including cancelled navigation.
+  }
+  await nextTick()
+  if (pendingCourseJumpTarget === code) pendingCourseJumpTarget = null
+  if (isComponentUnmounted || token !== courseJumpFocusToken) return
+  if (routeIsmTag.value !== code || activeIsmTag.value !== code || !activeIsmData.value) return
+  if (courseDrawerOpen.value || readingRouteOpen.value || codeGuideOpen.value || searchResultsOpen.value ||
+    commandPaletteOpen.value || document.querySelector?.('[aria-modal="true"]')) return
+  const active = document.activeElement
+  if (active && active !== source && active !== document.body && active !== document.documentElement &&
+    (active as HTMLElement).isConnected) return
+  // Surviving, enabled step buttons remain useful for repeated navigation.
+  if (source && source !== document.body && source !== document.documentElement && isReadableTargetVisible(source) &&
+    !('disabled' in source && source.disabled)) return
+  if (isReadableTargetVisible(nodeHeadingRef.value)) nodeHeadingRef.value.focus()
+}
+
 const jumpToNodeWithTab = (code: string, tab: InfoTabKey) => {
   if (!getIsmNode(code)) return
+  courseJumpFocusToken++
+  featureRevealFocusToken++
+  pendingCourseJumpTarget = null
   hoveredIsmTag.value = null
   activeInfoTab.value = tab
+  selectMobilePane('reader')
   closeCourseDrawer()
+  closeCommandPalette()
   router.push('/' + code)
 }
 
@@ -1542,6 +1980,51 @@ const saveSelfTestPreference = () => {
   }
 }
 
+const revealFeatures = async () => {
+  if (!selfTestMode.value || featuresRevealed.value) return
+  const targetCode = activeIsmTag.value
+  const targetRouteCode = routeIsmTag.value
+  if (!targetCode || !activeIsmData.value || nonEmptyFeatures.value.length === 0) return
+  const source = typeof document !== 'undefined' ? (document.activeElement as HTMLElement | null) : null
+  const token = ++featureRevealFocusToken
+  featuresRevealed.value = true
+  await nextTick()
+  if (isComponentUnmounted || token !== featureRevealFocusToken) return
+  if (!selfTestMode.value || !featuresRevealed.value) return
+  if (
+    activeInfoTab.value !== 'overview' ||
+    routeIsmTag.value !== targetRouteCode ||
+    activeIsmTag.value !== targetCode ||
+    !activeIsmData.value ||
+    nonEmptyFeatures.value.length === 0
+  ) {
+    return
+  }
+  if (typeof document === 'undefined') return
+  if (
+    courseDrawerOpen.value ||
+    readingRouteOpen.value ||
+    codeGuideOpen.value ||
+    searchResultsOpen.value ||
+    commandPaletteOpen.value ||
+    document.querySelector?.('[aria-modal="true"]')
+  ) {
+    return
+  }
+  const active = document.activeElement
+  const hasExternalFocus = Boolean(
+    active &&
+    active !== source &&
+    active !== document.body &&
+    active !== document.documentElement &&
+    (active as { isConnected?: boolean }).isConnected
+  )
+  if (hasExternalFocus) return
+  const target = featureSectionRef.value
+  if (!isReadableTargetVisible(target)) return
+  target.focus({ preventScroll: true })
+}
+
 const saveInfoFontScale = (scale: number) => {
   try {
     localStorage.setItem(INFO_FONT_SCALE_STORAGE_KEY, String(scale))
@@ -1551,33 +2034,16 @@ const saveInfoFontScale = (scale: number) => {
 }
 
 const resolveInitialInfoFontSize = (): number => {
-  const rootPx = parseFloat(getComputedStyle(document.documentElement).fontSize)
-  const autoScale =
-    Number.isFinite(rootPx) && rootPx > 0
-      ? Math.min(1.8, Math.max(1.0, Math.round((13 / rootPx) * 10) / 10))
-      : 1.0
-
-  try {
-    const raw = localStorage.getItem(INFO_FONT_SCALE_STORAGE_KEY)
-    if (raw !== null && raw.trim() !== '') {
-      const parsed = Number(raw)
-      if (Number.isFinite(parsed) && parsed >= 0.7 && parsed <= 1.8) {
-        return parsed
-      }
-    }
-  } catch {
-    // 忽略本地存储异常
-  }
-  return autoScale
+  try { return readReaderScale(localStorage) } catch { return 1 }
 }
 
 const increaseFontSize = () => {
-  ismInfoFontSize.value = Math.min(1.8, Math.round((ismInfoFontSize.value + 0.1) * 10) / 10)
+  ismInfoFontSize.value = stepReaderScale(ismInfoFontSize.value, 1)
   saveInfoFontScale(ismInfoFontSize.value)
 }
 
 const decreaseFontSize = () => {
-  ismInfoFontSize.value = Math.max(0.7, Math.round((ismInfoFontSize.value - 0.1) * 10) / 10)
+  ismInfoFontSize.value = stepReaderScale(ismInfoFontSize.value, -1)
   saveInfoFontScale(ismInfoFontSize.value)
 }
 
@@ -1611,51 +2077,32 @@ const goToAI = () => {
   router.push('/ai')
 }
 
-const setIndicatorActive = () => {
-  document.body.style.userSelect = "none"
-  document.body.style.pointerEvents = "none"
-  document.documentElement.style.cursor = "pointer"
-  document.getElementById('size_indicator')!.style.pointerEvents = "auto"
-  document.getElementById('size_indicator')!.style.backgroundColor = "gray"
-  window.addEventListener("mouseup", setOverview)
-  window.addEventListener("mousemove", changeSize)
-  window.addEventListener("mouseup", closeIndicator)
-}
-
-const setOverview = () => {
-  document.body.style.userSelect = ""
-  document.body.style.pointerEvents = ""
-  document.documentElement.style.cursor = ""
-  document.getElementById('size_indicator')!.style.backgroundColor = ""
-  window.removeEventListener("mouseup", setOverview)
-  window.removeEventListener("mousemove", changeSize)
-  window.removeEventListener("mouseup", closeIndicator)
+const toggleReaderOverview = () => {
+  if (isComponentUnmounted) return
+  if (!isLeftPartClosed.value && leftPartRef.value?.contains(document.activeElement)) {
+    sizeIndicatorRef.value?.focus({ preventScroll: true })
+  }
   isLeftPartClosed.value = !isLeftPartClosed.value
 }
 
-const changeSize = (event: MouseEvent) => {
-  window.removeEventListener("mouseup", setOverview)
-  const max = document.getElementById('size_adjuster')!.offsetHeight
-  sizeIndicatorRatio.value += event.movementY / max
-  if (sizeIndicatorRatio.value < 0) sizeIndicatorRatio.value = 0
-  else if (sizeIndicatorRatio.value > 1) sizeIndicatorRatio.value = 1
+const handleIndicatorClick = (event: MouseEvent) => {
+  // Pointer clicks already commit through the drag owner's mouseup decision.
+  if (event.detail === 0) toggleReaderOverview()
 }
 
-const closeIndicator = () => {
-  document.body.style.userSelect = ""
-  document.body.style.pointerEvents = ""
-  document.documentElement.style.cursor = ""
-  document.getElementById('size_indicator')!.style.backgroundColor = ""
-  window.removeEventListener("mouseup", setOverview)
-  window.removeEventListener("mousemove", changeSize)
-  window.removeEventListener("mouseup", closeIndicator)
+const setIndicatorActive = (event: MouseEvent) => {
+  indicatorDrag?.start(event)
 }
 
+// Bound simultaneous visual effects, not message content or the server protocol.
+const MAX_ACTIVE_DANMUS = 40
+let nextDanmuId = 0
 const removeDanmu = (id: number) => {
   activeDanmus.value = activeDanmus.value.filter(danmu => danmu.id !== id)
 }
 
-const spawnDanmu = (text: string) => {
+const spawnDanmu = (text: unknown) => {
+  if (isComponentUnmounted || !danmuEnabled.value || typeof text !== 'string') return
   const trimmed = text.trim()
   if (trimmed === '') return
   if (!danmuOverlayRef.value) return
@@ -1665,47 +2112,65 @@ const spawnDanmu = (text: string) => {
   const maxTop = Math.max(containerHeight - danmuHeight - deadZoneHeight, 0) || 1
   const top = deadZoneHeight + Math.random() * maxTop
   const duration = 6 + Math.random() * 2
-  const id = Date.now() + Math.random()
+  const id = ++nextDanmuId
   const danmuItem: DanmuItem = {
     id,
     text: trimmed,
     top,
     duration
   }
-  activeDanmus.value = [...activeDanmus.value, danmuItem]
+  activeDanmus.value = [...activeDanmus.value, danmuItem].slice(-MAX_ACTIVE_DANMUS)
 }
+
+const danmuPending = ref(false)
+const danmuStatus = ref('')
+let danmuRevision = 0
+let danmuGeneration = 0
+let danmuController: AbortController | null = null
+watch(danmuText, () => { danmuRevision++ }, { flush: 'sync' })
 
 const toggleDanmu = () => {
   danmuEnabled.value = !danmuEnabled.value
+  if (!danmuEnabled.value) activeDanmus.value = []
 }
 
-const sendDanmu = async () => {
-  if (!danmuEnabled.value) return
-  const contentText = danmuText.value.trim()
-  if (contentText === '') {
-    alert('请输入弹幕内容')
-    return
-  }
-  try {
-    const response = await fetch(buildIsmismcubeApiUrl('/send_danmu'), {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ content: contentText })
-    })
+const cancelDanmuRequest = () => {
+  danmuGeneration++
+  const controller = danmuController
+  danmuController = null
+  controller?.abort('component unmounted')
+}
 
-    if (response.ok) {
-      console.log('弹幕发送成功')
+const sendDanmu = async (event?: KeyboardEvent) => {
+  if (event && (event.isComposing || event.keyCode === 229 || event.repeat ||
+    event.ctrlKey || event.metaKey || event.altKey || event.shiftKey)) return
+  if (isComponentUnmounted || !danmuEnabled.value || danmuPending.value) return
+  const content = danmuText.value.trim()
+  if (!content) { danmuStatus.value = '请输入弹幕内容。'; return }
+  const revision = danmuRevision
+  const generation = ++danmuGeneration
+  const controller = new AbortController()
+  danmuController = controller
+  danmuPending.value = true
+  danmuStatus.value = '正在发送…'
+  const current = () => !isComponentUnmounted && generation === danmuGeneration && danmuController === controller
+  try {
+    await postDanmu(buildIsmismcubeApiUrl('/send_danmu'), content, { signal: controller.signal, timeoutMs: 15_000 })
+    if (!current()) return
+    if (danmuRevision === revision) {
       danmuText.value = ''
-    } else {
-      const errorText = await response.text()
-      console.error('Failed to send test danmu:', errorText)
-      alert('发送失败，请重试')
-    }
+      danmuStatus.value = '已发送。'
+    } else danmuStatus.value = '已发送；新草稿已保留。'
   } catch (error) {
-    console.error('Error sending test danmu:', error)
-    alert('发送失败，请检查网络')
+    if (!current()) return
+    danmuStatus.value = error instanceof DanmuTimeoutError
+      ? '发送响应超时，服务器可能已收到；草稿已保留，请确认后再决定是否重发。'
+      : '发送失败，草稿已保留，请稍后重试。'
+  } finally {
+    if (current()) {
+      danmuPending.value = false
+      danmuController = null
+    }
   }
 }
 
@@ -1729,7 +2194,19 @@ const clearSearch = () => {
   searchResultsOpen.value = false
 }
 
-const retryFailedSearchIndexes = () => {
+const retryReaderResource = (event: MouseEvent, load: () => unknown) => {
+  if (isComponentUnmounted) return
+  if (event.currentTarget === document.activeElement && isReadableTargetVisible(readerContentRef.value)) {
+    readerContentRef.value.focus()
+  }
+  void load()
+}
+
+const retryFailedSearchIndexes = (event?: MouseEvent) => {
+  if (isComponentUnmounted) return
+  if (event?.currentTarget === document.activeElement && isReadableTargetVisible(searchInputRef.value)) {
+    searchInputRef.value.focus()
+  }
   if (enrichStatus.value === 'error') {
     void loadEnrichments()
   }
@@ -1763,18 +2240,30 @@ watch(searchInputText, (val) => {
 })
 
 // 监听路由变化
-watch(() => route.params.ismTag, () => {
+watch(() => route.params.ismTag, (newTag) => {
+  featureRevealFocusToken++
+  const tag = typeof newTag === 'string' ? newTag : ''
+  if (pendingCourseJumpTarget !== null && tag !== pendingCourseJumpTarget) {
+    courseJumpFocusToken++
+    pendingCourseJumpTarget = null
+  }
   handleRoute()
 })
 
 watch(activeIsmTag, () => {
+  featureRevealFocusToken++
   featuresRevealed.value = false
 })
 
 watch(selfTestMode, (enabled) => {
+  featureRevealFocusToken++
   if (!enabled) {
     featuresRevealed.value = false
   }
+})
+
+watch(activeInfoTab, () => {
+  featureRevealFocusToken++
 })
 
 const isEditableEventTarget = (target: EventTarget | null): boolean => {
@@ -1786,10 +2275,19 @@ const isEditableEventTarget = (target: EventTarget | null): boolean => {
 }
 
 const handleWindowKeydown = (event: KeyboardEvent) => {
+  if ((event.ctrlKey || event.metaKey) && !event.altKey && (event.key === 'k' || event.key === 'K')) {
+    event.preventDefault()
+    if (commandPaletteOpen.value) {
+      closeCommandPalette()
+    } else {
+      openCommandPalette()
+    }
+    return
+  }
   if (event.ctrlKey || event.metaKey || event.altKey) return
   if (event.defaultPrevented) return
   if (isEditableEventTarget(event.target)) return
-  if (courseDrawerOpen.value || readingRouteOpen.value || codeGuideOpen.value || searchResultsOpen.value) return
+  if (courseDrawerOpen.value || readingRouteOpen.value || codeGuideOpen.value || searchResultsOpen.value || commandPaletteOpen.value) return
 
   const routeCode = typeof route.params.ismTag === 'string' ? route.params.ismTag : ''
   if (!routeCode || !canJumpToNode(routeCode)) return
@@ -1813,11 +2311,45 @@ const handleWindowKeydown = (event: KeyboardEvent) => {
 
 // 生命周期
 onMounted(() => {
-  // 隐藏的标签页或嵌入环境里 screen 可能为 0，此时退回窗口尺寸，避免根字号变成 0
-  const baseScreenSize = Math.max(screen.width, screen.height) || Math.max(window.innerWidth, window.innerHeight) || 1536
-  document.documentElement.style.fontSize = baseScreenSize / 96 + "px"
+  isComponentUnmounted = false
+  indicatorDrag?.dispose()
+  indicatorDrag = typeof window !== 'undefined' && typeof document !== 'undefined'
+    ? createIndicatorDrag({
+      window,
+      document,
+      getIndicator: () => sizeIndicatorRef.value,
+      getAdjuster: () => sizeAdjusterRef.value,
+      getRatio: () => sizeIndicatorRatio.value,
+      setRatio: (ratio) => {
+        sizeIndicatorRatio.value = ratio
+      },
+      toggleOverview: toggleReaderOverview
+    })
+    : null
+  pageViewSession?.cancel('remounted')
+  pageViewSession = createPageViewSession({
+    url: buildIsmismcubeApiUrl('/page_view'),
+    timeoutMs: JSON_REQUEST_TIMEOUT_MS,
+    onPageView: (count) => {
+      if (!isComponentUnmounted) {
+        pageView.value = count
+      }
+    },
+    onConnectWs: () => {
+      if (!isComponentUnmounted) {
+        connectWebSocket()
+      }
+    },
+    onError: (error) => {
+      console.error('Failed to load page view:', error)
+    }
+  })
   ismInfoFontSize.value = resolveInitialInfoFontSize()
   try {
+    const savedMode = localStorage.getItem(SPATIAL_VIEW_MODE_STORAGE_KEY)
+    if (savedMode === 'matrix' || savedMode === 'cube') {
+      spatialViewMode.value = savedMode
+    }
     const saved = localStorage.getItem(SHOW_EVIDENCE_MARKERS_STORAGE_KEY)
     if (saved === 'false' || saved === '0') {
       showEvidenceMarkers.value = false
@@ -1835,6 +2367,15 @@ onMounted(() => {
   }
   notesState.value = loadNotes()
   loadRouteProgress()
+  detachTabSync?.()
+  detachTabSync = subscribeTabSync((message) => {
+    if (isComponentUnmounted) return
+    if (message.type === 'notes-updated') {
+      notesState.value = loadNotes()
+    } else if (message.type === 'route-updated') {
+      loadRouteProgress()
+    }
+  })
   try {
     guideSeen.value = Boolean(localStorage.getItem(GUIDE_SEEN_STORAGE_KEY))
   } catch {
@@ -1844,1621 +2385,1434 @@ onMounted(() => {
   initial()
 })
 
+onBeforeUnmount(() => {
+  indicatorDrag?.dispose()
+  indicatorDrag = null
+})
+
 onUnmounted(() => {
+  isComponentUnmounted = true
+  activeDanmus.value = []
+  cancelDanmuRequest()
+  detachTabSync?.()
+  detachTabSync = null
+  courseJumpFocusToken++
+  featureRevealFocusToken++
+  pendingCourseJumpTarget = null
+  pageViewSession?.cancel('component unmounted')
+  pageViewSession = null
+  for (const controller of loaderControllers.values()) {
+    controller.abort('component unmounted')
+  }
+  loaderControllers.clear()
   window.removeEventListener('keydown', handleWindowKeydown)
   if (searchDebounceTimer !== null) {
     window.clearTimeout(searchDebounceTimer)
     searchDebounceTimer = null
   }
-  document.documentElement.style.fontSize = ""
   disconnectWebSocket()
 })
 </script>
 
 <style scoped>
-@font-face {
-  font-family: "en_font";
-  src: local("Times New Roman");
-  unicode-range: U+0041-005A, U+0061-007A;
-}
-
-@font-face {
-  font-family: "other_font";
-  src: local("Microsoft YaHei");
-  font-style: normal;
-}
-
-* {
-  font-family: "en_font", "other_font", sans-serif;
-}
-
 #ismismcube-container {
   position: fixed;
+  inset: 0;
   width: 100%;
-  height: 100%;
-  overflow: auto;
-}
-
-.ism {
-  cursor: pointer;
-}
-
-/* 基础色 */
-.show_x,
-.show_xy,
-.ism_xyz::before {
-  background-color: rgb(170, 170, 170);
-}
-
-.show_xy::before,
-.ism_xyz {
-  background-color: gray;
-}
-
-.show_xy::after,
-.ism_xyz::after,
-.ism_xyzi {
-  background-color: rgb(200, 200, 200);
-}
-
-/* searched状态颜色优先级最低 */
-.show_x.searched,
-.show_xy.searched,
-.ism_xyz.searched::before {
-  background-color: rgb(201, 149, 15);
-}
-
-.show_xy.searched::before,
-.ism_xyz.searched {
-  background-color: darkgoldenrod;
-}
-
-.show_xy.searched::after,
-.ism_xyz.searched::after,
-.ism_xyzi.searched {
-  background-color: rgb(225, 172, 39);
-}
-
-.show_x.pinned,
-.show_xy.pinned,
-.ism_xyz.pinned::before {
-  background-color: rgb(11, 167, 167);
-}
-
-.show_xy.pinned::before,
-.ism_xyz.pinned {
-  background-color: darkcyan;
-}
-
-.show_xy.pinned::after,
-.ism_xyz.pinned::after,
-.ism_xyzi.pinned {
-    background-color: rgb(17, 188, 188);
-}
-
-.show_x.selected,
-.show_xy.selected,
-.ism_xyz.selected::before {
-    background-color: rgb(182, 53, 53);
-}
-
-.show_xy.selected::before,
-.ism_xyz.selected {
-    background-color: brown;
-}
-
-.show_xy.selected::after,
-.ism_xyz.selected::after,
-.ism_xyzi.selected {
-  background-color: rgb(218, 73, 73);
-}
-
-/* 名称 */
-.ism_name {
-  width: 2.5rem;
-  max-height: 3rem;
-  font-size: 0.75em;
-  line-height: 1.3;
-  text-align: center;
-  word-break: normal;
-  overflow: hidden;
-  text-wrap: balance;
-  color: black;
-}
-
-.show_x .ism_name.no_data,
-.show_xy_name .ism_name.no_data {
-  color: rgb(100, 100, 100);
-}
-
-.ism_xyz .ism_name.no_data {
-  color: rgb(68,68,68);
-}
-
-.ism_xyzi .ism_name.no_data {
-  color: rgb(130, 130, 130);
-}
-
-#left_part {
-  z-index: 1;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 40rem;
-  height: 100%;
-  min-height: 40rem;
-  background-color: rgb(230, 230, 230);
-  box-shadow: -1rem 0 1rem 1rem black;
-  transition: all 1s ease-in-out;
-}
-
-#left_part.collapsed {
-  left: -40rem;
-}
-
-#page_view {
-  position: absolute;
-  left: 1rem;
-  top: 0;
-  width: 4rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  display: flex;
-  align-items: center;
-  cursor: default;
-}
-
-#page_view img {
-  width: 1rem;
-  height: 1rem;
-}
-
-#online_count {
-  position: absolute;
-  right: 31.5rem;
-  top: 0;
-  width: 3.5rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  display: flex;
-  align-items: center;
-  justify-content: right;
-  cursor: default;
-}
-
-#online_count b {
-  color: green;
-}
-
-#ai_button {
-  position: absolute;
-  left: 1rem;
-  top: 1.5rem;
-  width: 7.5rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  background-color: rgb(200, 200, 200);
-  border: solid black 1px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-#return_button {
-  position: absolute;
-  left: 1rem;
-  top: 3.5rem;
-  width: 3.5rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  background-color: rgb(200, 200, 200);
-  border: solid black 1px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-#download_button {
-  position: absolute;
-  left: 5rem;
-  top: 3.5rem;
-  width: 3.5rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  background-color: rgb(200, 200, 200);
-  border: solid black 1px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-#ai_button:hover,
-#return_button:hover,
-#download_button:hover {
-  background-color: gray;
-}
-
-#search_input {
-  position: absolute;
-  left: 1rem;
-  top: 5.5rem;
-  width: 7.5rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  line-height: 1.5rem;
-  text-align: center;
-  border: solid black 1px;
-}
-
-#ismism_main_cube {
-  position: absolute;
-  left: 10rem;
-  top: 3.8rem;
-  transform: skewY(-15deg);
-}
-
-#show_cube {
-  z-index: -1;
-  position: absolute;
+  height: 100dvh;
   display: grid;
-  grid-template-columns: repeat(4, 2.5rem);
-  grid-template-rows: repeat(4, 3rem);
-  gap: 0;
-  width: 20rem;
-  height: 17.8rem;
-  contain: strict;
+  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-columns: minmax(320px, 44%) 14px minmax(0, 1fr);
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
   overflow: hidden;
-  transform: skewY(30deg);
-  clip-path: polygon(0% 100%, calc(50% - 1px) 100%, 100% 68%, 100% 0%, calc(50% - 1px) 0%, 0% 32%);
 }
 
-.show_xy {
-  z-index: var(--x);
-  position: relative;
-  top: 5.8rem;
-  width: 2.5rem;
-  height: 3rem;
-  transform-origin: right;
-  box-sizing: border-box;
-  border: solid black 1px;
-  display: flex;
+@media (prefers-reduced-motion: no-preference) {
+  #ismismcube-container {
+    transition: grid-template-columns 0.28s var(--ease-out-expo);
+  }
 }
 
-.show_xy.selected,
-.show_xy.pinned,
-.show_xy.searched {
-  z-index: calc(100 + var(--x));
+#ismismcube-container.is_collapsed {
+  grid-template-columns: 0px 14px minmax(0, 1fr);
 }
 
-.show_xy::before {
-  z-index: -1;
-  content: "";
-  position: absolute;
-  left: calc(2.5rem - 1px);
-  top: -1px;
-  width: 10rem;
-  height: 3rem;
-  box-sizing: border-box;
-  border: solid black 1px;
-  display: flex;
-  transform-origin: left;
-  transform: skewY(-30deg);
-  opacity: var(--b);
-  pointer-events: none;
-}
-
-.show_xy[style*="--y: 4"]::before {
-  pointer-events: auto;
-}
-
-.show_xy::after {
-  z-index: 1;
-  content: "";
-  position: absolute;
-  left: -2px;
-  top: calc(-5.9rem + 1px);
-  width: 2.5rem;
-  height: calc(5.9rem - 1px);
-  box-sizing: border-box;
-  border: solid black 1px;
-  transform-origin: bottom;
-  transform: skewX(-60deg);
-  opacity: var(--a);
-  pointer-events: none;
-}
-
-.show_xy[style*="--x: 4"]::after {
-  pointer-events: auto;
-}
-
-#show_cube_name {
-  z-index: 1;
-  position: absolute;
-  top: 2.9rem;
-  display: grid;
-  grid-template-columns: repeat(4, 2.5rem);
-  grid-template-rows: repeat(4, 3rem);
-  gap: 0;
-  transform: skewY(30deg);
-  pointer-events: none;
-}
-
-.show_xy_name {
-  position: relative;
-  width: 2.5rem;
-  height: 3rem;
+/* 顶部统一工作台顶栏 */
+#app_topbar {
+  grid-row: 1;
+  grid-column: 1 / -1;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-xs);
+  z-index: 20;
+  min-width: 0;
 }
 
-.line_x {
-  position: absolute;
-  left: 10rem;
-  top: calc(12rem - calc(var(--x)*3rem));
-  width: 10rem;
-  height: 0;
-  border-bottom: 1px dashed black;
-  transform-origin: left;
-  transform: skewY(30deg);
-  pointer-events: none;
-}
-
-.line_x[style*="--x: 4"] {
-  border-bottom: none;
-}
-
-.line_x p {
-  position: relative;
-  left:12.5rem;
-  height: 3rem;
+.topbar_brand {
   display: flex;
   align-items: center;
-  color: red;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+  min-width: 0;
 }
 
-.line_y {
-  position: absolute;
-  left: calc(10rem + calc(var(--y)*2.5rem) - 1px);
-  top: calc(calc(var(--y)*calc(1.5rem - 1px)) + 1px);
-  width: 0;
-  height: calc(12rem - 1px);
-  border-right: 1px dashed black;
-  transform: skewY(30deg);
-  pointer-events: none;
-}
-
-.line_y[style*="--y: 4"] {
-  border-bottom: none;
-}
-
-.line_y p {
-  position: relative;
-  left:-2.5rem;
-  top: -1.3rem;
-  width: 2.5rem;
-  height: 1.5rem;
-  color: green;
-  text-align: center;
-}
-
-#show_cube_x {
-  position: absolute;
-  left: calc(20rem - 1px);
-  top: 6.5rem;
-  transform: skewY(30deg);
-}
-
-.show_x {
-  position: relative;
-  list-style: none;
-  width: 2.5rem;
-  height: 3rem;
-  box-sizing: border-box;
-  border:solid black 1px;
-  display: flex;
-  justify-content: center;
+.brand_home_btn {
+  display: inline-flex;
   align-items: center;
-}
-
-.show_x p {
-  position: absolute;
-  width: 2.5rem;
-  max-height: 3rem;
-  text-align: center;
-  word-break: normal;
-  overflow: hidden;
-  text-wrap: balance;
-  pointer-events: none;
-}
-
-#axis_x {
-  z-index: 10;
-  position: absolute;
-  left: calc(10rem - 1px);
-  top: calc(1rem - 1px);
-  height: 11rem;
-  border-right: 3px dashed red;
-  transform-origin: left;
-  transform: skewY(30deg);
-  pointer-events: none;
-}
-
-#axis_x::before {
-  content: "";
-  position: absolute;
-  left: -3px;
-  top: -2rem;
-  border-style: solid;
-  border-width: 1rem 4px 1rem 4px;
-  border-color: transparent transparent red transparent;
-}
-
-#axis_y {
-  z-index: 9;
-  position: absolute;
-  left:10rem;
-  top: calc(12rem - 1px);
-  width: 9rem;
-  border-bottom: 3px dashed green;
-  transform-origin: left;
-  transform: skewY(30deg);
-  pointer-events: none;
-}
-
-#axis_y::before {
-  content: "";
-  position: absolute;
-  left: 9rem;
-  top: -3px;
-  border-style: solid;
-  border-width: 4px 1rem 4px 1rem;
-  border-color: transparent transparent transparent green;
-}
-
-#axis_z {
-  z-index: 8;
-  position: absolute;
-  left: 1rem;
-  top: calc(12rem - 1px);
-  width: 9rem;
-  border-bottom: 3px dashed blue;
-  transform-origin: top;
-  pointer-events: none;
-}
-
-#axis_z::before {
-  content: "";
-  position: absolute;
-  left: -2rem;
-  top: -3px;
-  border-style: solid;
-  border-width: 4px 1rem 4px 1rem;
-  border-color: transparent blue transparent transparent;
-}
-
-#axis_label {
-  position: absolute;
-  right: 0;
-  top: 0.5rem;
-  width: 4.5rem;
-  height: 8rem;
-}
-
-#axis_label p {
-  position: relative;
-  line-height: 1.5rem;
+  gap: 0.55rem;
+  padding: 0.22rem 0.45rem 0.22rem 0.22rem;
+  border: 1px solid transparent;
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--ink-primary);
+  cursor: pointer;
   text-align: left;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
 }
 
-#axis_label p::before {
-  content: "";
-  position: absolute;
-  left: -1rem;
-  bottom: 0.3rem;
-  width: 0.75rem;
-  height:0.75rem;
-  border:solid black 0.05rem;
+.brand_home_btn:hover {
+  background: var(--surface-hover);
+  border-color: var(--border-subtle);
 }
 
-#axis_label_x::before {
-  background-color: red;
+.brand_mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--radius-sm);
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 0.85rem;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
 }
 
-#axis_label_y::before {
-  background-color: green;
-}
-
-#axis_label_z::before {
-  background-color: blue;
-}
-
-#axis_label_i::before {
-  background-color: darkorange;
-}
-
-#ism_info_wrapper {
-  position: absolute;
-  left: 0.5rem;
-  right: 0.5rem;
-  top: 19.5rem;
-  overflow: hidden;
-  height: calc(100% - 20rem);
-}
-
-#ism_info {
-  z-index: 1;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(200, 200, 200);
-  overflow: auto;
-}
-
-#increase_fontsize_button {
-  z-index: 1;
-  position: absolute;
-  left: 1rem;
-  top: 0.5rem;
-  width: 1rem;
-  height: 1rem;
-  border-radius: 0.5rem;
-  background-color: rgb(200,200,200);
-  border:solid rgb(170, 170, 170) 0.2rem;
-}
-
-#increase_fontsize_button:hover {
-  background-color: rgb(170, 170, 170);
-}
-
-#increase_fontsize_button::before {
-  content: "";
-  position: absolute;
-  left: 0.1rem;
-  top: 0.4rem;
-  width: 0.8rem;
-  height: 0.2rem;
-  background-color: black;
-}
-
-#increase_fontsize_button::after {
-  content: "";
-  position: absolute;
-  left: 0.4rem;
-  top: 0.1rem;
-  width: 0.2rem;
-  height: 0.8rem;
-  background-color: black;
-}
-
-#decrease_fontsize_button {
-  z-index: 1;
-  position: absolute;
-  left: 3rem;
-  top: 0.5rem;
-  width: 1rem;
-  height: 1rem;
-  border-radius: 0.5rem;
-  background-color: rgb(200,200,200);
-  border:solid rgb(170, 170, 170) 0.2rem;
-}
-
-#decrease_fontsize_button:hover {
-  background-color: rgb(170, 170, 170);
-}
-
-#decrease_fontsize_button::before {
-  content: "";
-  position: absolute;
-  left: 0.1rem;
-  top: 0.4rem;
-  width: 0.8rem;
-  height: 0.2rem;
-  background-color: black;
-}
-
-#ism_info_content {
-  position: relative;
-  padding: 0.5rem 1rem;
-  white-space: pre-wrap;
+.brand_copy {
   display: flex;
   flex-direction: column;
+  min-width: 0;
+}
+
+.brand_title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--ink-primary);
+}
+
+.brand_subtitle {
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+  line-height: 1.15;
+}
+
+.cube_nav_panel {
+  flex-shrink: 0;
+}
+
+.topbar_nav {
+  display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.45rem;
+  flex-wrap: wrap;
 }
 
-#ism_info_overlay {
-  z-index: 2;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  box-shadow: inset 0 0 3px 3px gray;
-  pointer-events: none;
+#courses_button {
+  box-sizing: content-box;
+  height: 1.95rem;
+  line-height: 1.95rem;
+  padding: 0 0.72rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.82rem;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
+#courses_button:hover {
+  background: var(--surface-hover);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+#route_button,
+#guide_button,
+.topbar_cmd_btn,
+.topbar_chip_btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  height: 1.95rem;
+  padding: 0 0.72rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+#route_button:hover,
+#guide_button:hover,
+.topbar_cmd_btn:hover,
+.topbar_chip_btn:hover {
+  background: var(--surface-hover);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+.topbar_tools {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.topbar_cmd_btn kbd {
+  padding: 0.08rem 0.32rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  color: var(--ink-muted);
+  font-size: 0.72rem;
+  font-family: var(--font-mono);
+}
+
+.provenance_chip {
+  background: var(--tone-scoped-bg);
+  border-color: var(--tone-scoped-border);
+  color: var(--tone-scoped-ink);
+  font-weight: 600;
+}
+
+@supports (anchor-name: --provenance-anchor) {
+  #provenance_popover_btn {
+    anchor-name: --provenance-anchor;
+  }
+
+  #provenance_popover {
+    position-anchor: --provenance-anchor;
+    inset: auto;
+    top: calc(anchor(bottom) + 8px);
+    right: anchor(right);
+    margin: 0;
+  }
+}
+
+.provenance_popover_card {
+  max-width: min(24rem, calc(100vw - 24px));
+  padding: 0.9rem 1rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  box-shadow: var(--shadow-lg);
+}
+
+.provenance_popover_card::backdrop {
+  background: transparent;
+}
+
+.popover_head {
+  font-size: 0.9rem;
+  margin-bottom: 0.45rem;
+}
+
+.popover_body {
+  margin: 0 0 0.65rem;
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: var(--ink-secondary);
+}
+
+.popover_stats {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--border-subtle);
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+}
+
+.mobile_pane_tabs {
+  display: none;
+  padding: 0.16rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  gap: 0.16rem;
+}
+
+.mobile_pane_btn {
+  padding: 0.25rem 0.75rem;
+  border: none;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--ink-secondary);
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.mobile_pane_btn.active {
+  background: var(--surface-elevated);
+  color: var(--accent-text);
+  font-weight: 600;
+  box-shadow: var(--shadow-xs);
+}
+
+/* 中央折叠与缩放拖拽滑轨（DOM 在 #left_part 之前以满足键盘顺序） */
 #size_adjuster {
-  position: absolute;
-  left: 40rem;
-  height: calc(100% - 4rem);
+  grid-row: 2;
+  grid-column: 2;
+  position: relative;
+  height: calc(100% - 3.5rem);
+  align-self: start;
+  background: var(--surface-sunken);
+  border-inline: 1px solid var(--border-subtle);
+  user-select: none;
+  z-index: 5;
 }
 
 #size_indicator {
+  appearance: none;
   position: absolute;
-  width: 1rem;
-  height: 4rem;
-  background: rgb(200,200,200) url('@/assets/size_indicator.svg') center/contain no-repeat;
-  box-sizing: border-box;
-  border: 1px solid black;
-  display: flex;
-  justify-content: center;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 12px;
+  height: 3.5rem;
+  padding: 0;
+  margin: 0;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-muted);
+  display: inline-flex;
   align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
 #size_indicator:hover {
-  background-color: gray;
-  cursor: pointer;
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
 }
 
-#right_part {
-  z-index: 0;
-  position: absolute;
-  left: 40rem;
-  width: calc(100% - 40rem);
-  min-width: 40rem;
-  min-height: 40rem;
-  height: 100%;
+#size_indicator:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+.indicator_grip {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* 左侧阅读与检索工作区 */
+#left_part {
+  grid-row: 2;
+  grid-column: 1;
+  min-width: 0;
+  min-height: 0;
   display: flex;
   flex-direction: column;
+  background: var(--surface-panel);
   overflow: hidden;
-  transition: all 1s ease-in-out;
+  container-type: inline-size;
 }
 
-#right_part.widened {
-  left: 0;
-  width: 100%;
-}
-
-#right_part_scroll {
-  position: relative;
-  flex: 1;
-  overflow: auto;
-}
-
-#ismism_cube_box {
-  position: absolute;
-  left: 2rem;
-  right: 0;
-  max-width: 60rem;
-  display: flex;
-  transform-origin: left;
-  overflow: visible;
-}
-
-.ism_x {
-  position: absolute;
-  left: 0;
-  right: 0;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  top: calc(0.5rem + var(--x) * 18rem);
-}
-
-.ism_xy {
-  position: relative;
-  width: 12.5rem;
-  height: 18rem;
-  contain: strict;
-  overflow: hidden;
-  transform: skewY(-15deg);
-}
-
-.ism_xy p {
-  width: 2.5rem;
-  max-height: 3rem;
-  font-size: 0.75em;
-  line-height: 1.3;
-  text-align: center;
-  pointer-events: none;
-}
-
-.ism_xy #i {
-  z-index: 1;
-  position: absolute;
-  left: calc(10rem + 1px);
-  top: 2.5rem;
-  height: 11rem;
-  border-right: 3px dashed darkorange;
-  pointer-events: none;
-}
-
-.ism_xy #i::before {
-  content: "";
-  position: absolute;
-  left: -3px;
-  top: -2rem;
-  border-style: solid;
-  border-width: 1rem 4px 1rem 4px;
-  border-color: transparent transparent darkorange transparent;
-}
-
-.ism_xy #z {
-  z-index: 1;
-  position: absolute;
-  left: 1rem;
-  top: calc(13.5rem + 1px);
-  width: 9rem;
-  border-bottom: 3px dashed blue;
-  pointer-events: none;
-}
-
-.ism_xy #z::before {
-  content: "";
-  position: absolute;
-  left: -2rem;
-  top: -3px;
-  border-style: solid;
-  border-width: 4px 1rem 4px 1rem;
-  border-color: transparent blue transparent transparent;
-}
-
-.ism_xyz {
-  position: absolute;
-  left: calc(var(--z) * 2.5rem);
-  top: 15rem;
-  width: 2.5rem;
-  height: 3rem;
-  box-sizing: border-box;
-  border: solid black 1px;
-  display: flex;
-  align-items: center;
-}
-
-.ism_xyz::before {
-  z-index: -2;
-  content: "";
-  position: absolute;
-  left: -2.5rem;
-  top: -1px;
-  width: 2.5rem;
-  height: 3rem;
-  box-sizing: border-box;
-  border: solid black 1px;
-  transform-origin: right;
-  transform: skewY(31deg);
-}
-
-.ism_xyz::after {
-  z-index: -1;
-  content: "";
-  position: absolute;
-  left: 0;
-  top: -1.5rem;
-  width: 2.5rem;
-  height: 1.5rem;
-  box-sizing: border-box;
-  border: solid black 1px;
-  transform-origin: bottom;
-  transform: skewX(59deg);
-}
-
-#ism_xyz_label_column {
-  position: absolute;
-  left: -2.5rem;
-  top: -14.7rem;
-  width: 2.5rem;
-  height: 1.5rem;
-  color: blue;
-  text-align: center;
-  pointer-events: none;
-}
-
-#ism_xyz_label_row {
-  position: absolute;
-  left: 2.7rem;
-  height: 3rem;
-  color: darkorange;
-  display: flex;
-  align-items: center;
-  pointer-events: none;
- }
-
-.ism_xyzi {
-  position: absolute;
-  left: -2.5rem;
-  top: calc(-16.5rem + var(--i) * 3rem);
-  width: 2.5rem;
-  height: 3rem;
-  box-sizing: border-box;
-  border: solid black 1px;
-  display: flex;
-  align-items: center;
-}
-
-#danmu_overlay {
-  position: sticky;
-  left: 0;
-  right: 0;
-  top: 0;
-  height: 100%;
-  pointer-events: none;
-  overflow: hidden;
-  z-index: 2;
-}
-
-.danmu_fly {
-  position: absolute;
-  padding: 0.2rem 0.75rem;
-  font-size: 0.9rem;
-  vertical-align: middle;
-  white-space: nowrap;
-  border-radius: 0.5rem;
-  background-color: black;
-  opacity: 0.6;
-  color: white;
-  animation-name: danmu-slide;
-  animation-timing-function: linear;
-  animation-fill-mode: forwards;
-  will-change: transform;
-  pointer-events: auto;
-}
-
-.danmu_fly.disabled {
+#left_part.collapsed {
+  opacity: 0;
   visibility: hidden;
   pointer-events: none;
 }
 
-.danmu_fly:hover {
-  animation-play-state: paused;
-  opacity: 0.9;
-}
-
-@keyframes danmu-slide {
-  from {
-    left: 100%;
-    transform: translateX(0%);
-  }
-  to {
-    left: 0%;
-    transform: translateX(-100%);
-  }
-}
-
-#danmu_button_container {
-  position: relative;
+.left_workbench_bar {
+  flex-shrink: 0;
   display: flex;
+  flex-direction: column;
   gap: 0.5rem;
-  align-items: center;
-  padding: 0.5rem 2rem;
-  background-color: rgb(230, 230, 230);
-  box-shadow: 0 0.5rem 0.5rem 0.5rem black;
+  padding: 0.7rem 0.9rem;
+  background: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
 }
 
-#danmu_toggle_button {
-  width: 4rem;
-  height: 1.5rem;
-  line-height: 1.5rem;
-  text-align: center;
-  font-size: 0.8rem;
-  background-color: rgb(200, 200, 200);
-  border: 1px solid black;
-  cursor: pointer;
-  user-select: none;
-  transition: background-color 0.2s ease;
+.search_box_row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
-#danmu_toggle_button:hover {
-  background-color: gray;
-}
-
-#danmu_input {
-  flex: 1;
-  height: 1.5rem;
-  border: 1px solid black;
-  padding: 0 0.5rem;
-  font-size: 0.8rem;
-  background-color: white;
+#search_input {
+  width: 100%;
   box-sizing: border-box;
+  height: 2.2rem;
+  padding: 0 0.75rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
+  font-size: 0.88rem;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-#danmu_input.disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+#search_input::placeholder {
+  color: var(--ink-muted);
 }
 
-#courses_button {
-  position: absolute;
-  left: 1rem;
-  top: 7.5rem;
-  width: 7.5rem;
-  height: 1.5rem;
-  font-size: 0.78rem;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  background-color: rgb(200, 200, 200);
-  border: solid black 1px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-#courses_button:hover {
-  background-color: gray;
-}
-
-#route_button,
-#guide_button {
-  position: absolute;
-  left: 1rem;
-  width: 7.5rem;
-  height: 1.5rem;
-  padding: 0;
-  box-sizing: content-box;
-  font-size: 0.78rem;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  color: black;
-  background-color: rgb(200, 200, 200);
-  border: solid black 1px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-#route_button {
-  top: 11.55rem;
-}
-
-#guide_button {
-  top: 13.55rem;
-}
-
-#route_button:hover,
-#guide_button:hover {
-  background-color: gray;
+#search_input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--focus-ring-soft);
 }
 
 #search_status_line {
-  position: absolute;
-  left: 1rem;
-  top: 9.2rem;
-  width: 7.5rem;
-  font-size: 0.7rem;
-  line-height: 1.2;
-  color: rgb(55, 55, 55);
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  gap: 0.16rem;
-}
-
-.search_status_summary {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 0.2rem;
-  min-width: 0;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.6rem;
+  font-size: 0.76rem;
+  color: var(--ink-muted);
 }
 
+.search_status_summary,
 .search_status_actions {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.2rem;
+  gap: 0.45rem;
+  flex-wrap: wrap;
 }
 
 .clear_search_link {
-  background-color: rgb(210, 210, 210);
-  border: 1px solid black;
-  padding: 0 0.25rem;
-  font-size: 0.68rem;
-  line-height: 1.25;
-  color: black;
+  padding: 0.14rem 0.48rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--accent-text);
+  font-size: 0.74rem;
+  font-weight: 600;
   cursor: pointer;
-  white-space: nowrap;
 }
 
 .clear_search_link:hover {
-  background-color: rgb(180, 180, 180);
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.left_utility_row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.left_action_group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.38rem;
+}
+
+#ai_button,
+#download_button,
+#return_button {
+  padding: 0.3rem 0.65rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+#ai_button {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
+  font-weight: 600;
+}
+
+#ai_button:hover {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+#download_button:hover:not(:disabled),
+#return_button:hover {
+  background: var(--surface-hover);
+  border-color: var(--border-strong);
+}
+
+#download_button:disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+.reader_metrics {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.76rem;
+  color: var(--ink-muted);
+}
+
+#page_view,
+#online_count {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+}
+
+#page_view img {
+  width: 0.95rem;
+  height: 0.95rem;
+  opacity: 0.78;
+}
+
+/* 阅读器主体 */
+#ism_info_wrapper {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+#ism_info {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  color: var(--ink-primary);
+}
+
+.reader_font_toolbar {
+  position: absolute;
+  top: 0.55rem;
+  right: 0.85rem;
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.18rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: color-mix(in oklch, var(--surface-elevated) 90%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-xs);
 }
 
 #increase_fontsize_button,
 #decrease_fontsize_button {
-  z-index: 2;
+  padding: 0.2rem 0.55rem;
+  border: none;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--ink-secondary);
+  font-size: 0.78rem;
+  font-weight: 700;
   cursor: pointer;
 }
 
+#increase_fontsize_button:hover:not(:disabled),
+#decrease_fontsize_button:hover:not(:disabled) {
+  background: var(--surface-hover);
+  color: var(--accent-text);
+}
+
+#increase_fontsize_button:disabled,
+#decrease_fontsize_button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
 #ism_info_content {
-  white-space: normal;
-  align-items: stretch;
-  box-sizing: border-box;
-  width: 100%;
-}
-
-.info_intro_box,
-.info_error_box {
-  white-space: pre-wrap;
-  line-height: 1.45;
-  font-size: 1em;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 1.15rem 1rem 2rem;
+  outline: none;
+  line-height: 1.65;
 }
 
 .info_error_box {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.65rem;
   padding: 1rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--tone-problem-border);
+  background: var(--tone-problem-bg);
+  color: var(--tone-problem-ink);
+  white-space: pre-line;
 }
 
+.retry_btn_inline {
+  padding: 0.32rem 0.8rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.retry_btn_inline:hover:not(:disabled) {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+.info_intro_box {
+  padding-top: 1.2rem;
+}
+
+.first_visit_guide_banner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1.1rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--accent);
+  background: var(--accent-soft);
+}
+
+.first_visit_guide_text {
+  margin: 0;
+  font-size: 0.92em;
+  color: var(--ink-primary);
+}
+
+.first_visit_guide_actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.intro_guide_btn {
+  padding: 0.38rem 0.85rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 0.84em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.intro_guide_dismiss_btn {
+  padding: 0.38rem 0.85rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-secondary);
+  font-size: 0.84em;
+  cursor: pointer;
+}
+
+.intro_guide_row {
+  margin-top: 1.2rem;
+}
+
+.info_intro_box :deep(h1),
+.info_intro_box :deep(h2),
+.info_intro_box :deep(h3) {
+  color: var(--ink-primary);
+  margin: 0.9em 0 0.45em;
+  line-height: 1.35;
+}
+
+.info_intro_box :deep(p),
+.info_intro_box :deep(li) {
+  color: var(--ink-secondary);
+  line-height: 1.72;
+}
+
+.info_intro_box :deep(a) {
+  color: var(--accent-text);
+}
+
+.info_intro_box :deep(hr) {
+  border: none;
+  border-top: 1px solid var(--border-subtle);
+  margin: 1.2rem 0;
+}
+
+/* 节点头部与状态标签 */
 .node_header {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 0.35em;
-  width: 100%;
-  box-sizing: border-box;
+  gap: 0.55rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 .node_coord_row {
-  padding: 0 4.5rem;
-  text-align: center;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.2em;
-  flex-wrap: wrap;
+  gap: 0.32rem;
+  font-family: var(--font-mono);
 }
 
 .coord_box {
-  display: inline-block;
-  width: 1.2em;
-  height: 1.2em;
-  line-height: 1.2em;
-  text-align: center;
-  border: solid black 0.1em;
-  background-color: rgb(224, 224, 224);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.75rem;
+  height: 1.75rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  font-size: 0.95em;
 }
 
 .coord_dash {
-  font-weight: bold;
+  color: var(--ink-muted);
+  font-weight: 600;
+}
+
+.route_node_banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.84em;
+}
+
+.route_banner_text {
+  font-weight: 600;
+  color: var(--accent-text);
+}
+
+.route_banner_actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.route_banner_toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  cursor: pointer;
+  color: var(--ink-primary);
+}
+
+.route_banner_next_btn {
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 0.85em;
+  font-weight: 600;
+  cursor: pointer;
 }
 
 .node_status_banner {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.28em;
+  gap: 0.4rem;
 }
 
 .status_pill {
-  display: inline-block;
-  padding: 0.08em 0.42em;
-  font-size: 0.74em;
-  border: 1px solid rgb(70, 70, 70);
-  background-color: rgb(232, 232, 232);
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.55rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  font-size: 0.76em;
+  font-weight: 600;
 }
 
 .pill_manual {
-  background-color: rgb(216, 236, 216);
-  border-color: rgb(42, 102, 42);
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
 }
 
-.pill_ai {
-  background-color: rgb(226, 234, 246);
-  border-color: rgb(55, 86, 140);
-}
-
+.pill_ai,
 .pill_ai_warn {
-  background-color: rgb(248, 228, 200);
-  border-color: rgb(162, 92, 24);
-  color: rgb(92, 46, 8);
+  background: var(--tone-caution-bg);
+  border-color: var(--tone-caution-border);
+  color: var(--tone-caution-ink);
 }
 
 .pill_reviewed {
-  background-color: rgb(214, 239, 239);
-  border-color: darkcyan;
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
 }
 
 .pill_partial {
-  background-color: rgb(247, 238, 200);
-  border-color: rgb(146, 114, 30);
+  background: var(--tone-scoped-bg);
+  border-color: var(--tone-scoped-border);
+  color: var(--tone-scoped-ink);
 }
 
-.pill_pending {
-  background-color: rgb(246, 224, 224);
-  border-color: rgb(150, 50, 50);
+.pill_pending,
+.pill_neutral {
+  background: var(--surface-sunken);
+  color: var(--ink-muted);
 }
 
 .pill_unverified {
-  background-color: rgb(236, 236, 236);
-  color: rgb(65, 65, 65);
+  background: var(--tone-problem-bg);
+  border-color: var(--tone-problem-border);
+  color: var(--tone-problem-ink);
 }
 
 .summary_evidence_line {
-  font-size: 0.74em;
-  color: rgb(55, 55, 55);
-  text-align: center;
+  font-size: 0.8em;
+  color: var(--ink-muted);
 }
 
 .node_titles {
-  text-align: center;
-  line-height: 1.35;
+  margin-top: 0.15rem;
 }
 
 .node_ch_name {
-  font-weight: bold;
-  font-size: 1.05em;
+  font-size: 1.55em;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--ink-primary);
+  outline: none;
 }
 
 .node_en_name {
+  margin-top: 0.2rem;
   font-size: 0.92em;
-  font-weight: bold;
-  color: rgb(50, 50, 50);
+  color: var(--ink-muted);
+  font-style: italic;
 }
 
+/* 节点内子标签栏 */
 .info_tabs {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.3em;
-  width: 100%;
-  margin: 0.25em 0;
+  position: sticky;
+  top: -1.15rem;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+  padding: 0.6rem 0;
+  margin: 0.4rem 0 0.8rem;
+  background: color-mix(in oklch, var(--surface-panel) 94%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 .info_tab_btn {
-  position: relative;
-  padding: 0.28em 0.35em;
-  font-size: 0.78em;
-  background-color: rgb(218, 218, 218);
-  border: 1px solid black;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.36rem 0.78rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-secondary);
+  font-size: 0.84em;
+  font-weight: 500;
   cursor: pointer;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
 .info_tab_btn:hover {
-  background-color: rgb(185, 185, 185);
+  background: var(--surface-hover);
+  color: var(--ink-primary);
 }
 
 .info_tab_btn.active {
-  background-color: darkcyan;
-  color: white;
-  font-weight: bold;
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+  font-weight: 600;
 }
 
 .hit_dot,
 .note_dot {
-  margin-left: 0.2em;
-  color: rgb(225, 172, 39);
-  font-weight: bold;
+  font-size: 1.15em;
+  line-height: 1;
 }
 
-.self_test_prompt_box {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.5em;
-  padding: 0.38em 0.55em;
-  background-color: rgb(228, 228, 228);
-  border: 1px dashed rgb(120, 120, 120);
-  flex-wrap: wrap;
+.hit_dot {
+  color: var(--tone-caution-ink);
 }
 
-.self_test_prompt_text {
-  font-size: 0.9em;
-  color: rgb(50, 50, 50);
-  flex: 1;
-  min-width: 10em;
+.note_dot {
+  color: var(--tone-revised-ink);
 }
 
-.self_test_reveal_btn {
-  font: inherit;
-  font-size: 0.86em;
-  padding: 0.16em 0.6em;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid black;
-  color: black;
-  cursor: pointer;
-  flex-shrink: 0;
-}
-
-.self_test_reveal_btn:hover {
-  background-color: darkcyan;
-  color: white;
+.info_tab_btn.active .hit_dot,
+.info_tab_btn.active .note_dot {
+  color: #ffffff;
 }
 
 .tab_panel {
   display: flex;
   flex-direction: column;
-  gap: 0.6em;
-  width: 100%;
-  box-sizing: border-box;
-  line-height: 1.45;
-  font-size: 0.94em;
+  gap: 1rem;
 }
 
-.feature_section,
-.core_related_section {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35em;
-}
-
-.core_related_section {
-  text-align: center;
-  padding-top: 0.25em;
-  border-top: 1px dashed rgb(140, 140, 140);
-}
-
-.related_row {
-  word-break: break-word;
-}
-
-.section_block {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35em;
-}
-
-.section_title {
-  font-weight: bold;
-  font-size: 0.9em;
-  padding-bottom: 0.15em;
-  border-bottom: 1px solid rgb(140, 140, 140);
-}
-
-.info_card {
-  padding: 0.42em 0.55em;
-  background-color: rgb(222, 222, 222);
-  border: 1px solid rgb(135, 135, 135);
-  display: flex;
-  flex-direction: column;
-  gap: 0.22em;
-}
-
-.card_badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25em;
-}
-
-.mini_badge {
-  display: inline-block;
-  padding: 0.04em 0.32em;
-  font-size: 0.74em;
-  background-color: rgb(238, 238, 238);
-  border: 1px solid rgb(95, 95, 95);
-}
-
-.mini_badge.series {
-  background-color: rgb(252, 232, 180);
-  border-color: rgb(150, 100, 0);
-  font-weight: bold;
-}
-
-.mini_badge.rel_explicit {
-  background-color: rgb(215, 240, 215);
-  border: 1px solid rgb(24, 58, 24);
-  font-weight: bold;
-}
-
-.mini_badge.rel_editorial {
-  background-color: rgb(226, 228, 248);
-  border: 1px dashed rgb(110, 110, 110);
-}
-
-.mini_badge.canonical_badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.2em;
-}
-
+/* 概览核查工具栏与主要特征 */
 .evidence_toolbar {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 0.3em 0.75em;
-  padding: 0.3em 0.5em;
-  background-color: rgb(214, 214, 214);
-  border: 1px solid rgb(145, 145, 145);
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
   font-size: 0.84em;
 }
 
 .evidence_toggle_label {
   display: inline-flex;
   align-items: center;
-  gap: 0.3em;
+  gap: 0.35rem;
   cursor: pointer;
-  user-select: none;
+  color: var(--ink-primary);
+  font-weight: 500;
 }
 
-.evidence_legend_details[open] {
-  flex-basis: 100%;
+.evidence_legend_details {
+  font-size: 0.92em;
 }
 
 .evidence_legend_summary {
   cursor: pointer;
-  user-select: none;
-  color: rgb(45, 45, 45);
+  color: var(--accent-text);
+  font-weight: 600;
 }
 
 .evidence_legend_body {
-  margin-top: 0.35em;
-  padding-top: 0.35em;
-  border-top: 1px dashed rgb(150, 150, 150);
+  margin-top: 0.55rem;
+  padding: 0.65rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
   display: flex;
   flex-direction: column;
-  gap: 0.28em;
+  gap: 0.45rem;
 }
 
 .evidence_legend_row {
   display: flex;
+  align-items: flex-start;
   flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.35em;
+  gap: 0.45rem;
 }
 
 .legend_tone_chip {
   display: inline-flex;
   align-items: center;
-  gap: 0.2em;
-  padding: 0.04em 0.35em;
-  font-size: 0.9em;
-  border: 1px solid rgb(95, 95, 95);
-  white-space: nowrap;
+  gap: 0.25rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid transparent;
+  font-size: 0.85em;
+  font-weight: 600;
 }
 
 .evidence_legend_desc {
-  color: rgb(40, 40, 40);
+  color: var(--ink-secondary);
 }
 
 .evidence_legend_footnote {
-  margin-top: 0.12em;
+  padding-top: 0.35rem;
+  border-top: 1px dashed var(--border-subtle);
+  color: var(--ink-muted);
+  font-size: 0.88em;
+}
+
+.feature_section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 0.85rem 0.95rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  outline: none;
+}
+
+.self_test_prompt_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.self_test_prompt_text {
+  color: var(--ink-secondary);
+  font-size: 0.92em;
+}
+
+.self_test_reveal_btn {
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+  font-size: 0.84em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.feature_row {
+  color: var(--ink-primary);
+  line-height: 1.65;
+}
+
+.core_related_section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 0.8rem 0.9rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
   font-size: 0.9em;
-  color: rgb(65, 65, 65);
 }
 
-.mini_badge.evidence_tone_scoped,
-.legend_tone_chip.evidence_tone_scoped {
-  color: rgb(75, 75, 75);
-  background-color: rgba(255, 255, 255, 0.55);
-  border: 1px dotted rgb(115, 115, 115);
+.related_row a,
+.info_card a {
+  color: var(--accent-text);
+  word-break: break-all;
 }
 
-.mini_badge.evidence_tone_caution,
-.legend_tone_chip.evidence_tone_caution {
-  color: #8a5a00;
-  background-color: #fff4d6;
-  border-color: #c99a3b;
+/* 课程与校勘卡片 */
+.section_block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
 }
 
-.mini_badge.evidence_tone_problem,
-.legend_tone_chip.evidence_tone_problem {
-  color: #a00000;
-  background-color: #ffe5e5;
-  border-color: #cf6b6b;
+.section_title {
+  font-size: 0.95em;
+  font-weight: 700;
+  color: var(--ink-primary);
 }
 
-.mini_badge.evidence_tone_revised,
-.legend_tone_chip.evidence_tone_revised {
-  color: #1f4f8f;
-  background-color: #e6effa;
-  border-color: #6b93c9;
+.empty_hint {
+  padding: 0.8rem 0.9rem;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--border-subtle);
+  color: var(--ink-muted);
+  font-size: 0.88em;
 }
 
-.mini_badge.res_resolved {
-  background-color: rgb(215, 242, 242);
-  border-color: darkcyan;
+.error_hint {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  border-color: var(--tone-problem-border);
+  background: var(--tone-problem-bg);
+  color: var(--tone-problem-ink);
 }
 
-.mini_badge.res_qualified {
-  background-color: rgb(248, 238, 205);
-  border-color: rgb(155, 115, 25);
+.info_card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.42rem;
+  padding: 0.8rem 0.95rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  box-shadow: var(--shadow-xs);
+}
+
+.card_badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.mini_badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.12rem 0.48rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  color: var(--ink-secondary);
+  font-size: 0.74em;
+  font-weight: 600;
+}
+
+.mini_badge.kind,
+.mini_badge.series {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
 }
 
 .mini_badge.warn_soft {
-  background-color: rgb(246, 232, 224);
-  border-color: rgb(155, 78, 55);
+  background: var(--tone-problem-bg);
+  border-color: var(--tone-problem-border);
+  color: var(--tone-problem-ink);
+}
+
+.mini_badge.rel_explicit,
+.mini_badge.res_resolved {
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
+}
+
+.mini_badge.rel_editorial,
+.mini_badge.res_qualified {
+  background: var(--tone-scoped-bg);
+  border-color: var(--tone-scoped-border);
+  color: var(--tone-scoped-ink);
 }
 
 .card_main_link {
-  word-break: break-word;
+  font-size: 0.95em;
+  font-weight: 600;
 }
 
 .card_actions {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 0.4em;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .bv_code {
-  font-size: 0.76em;
-  color: rgb(70, 70, 70);
+  font-family: var(--font-mono);
+  font-size: 0.78em;
+  color: var(--ink-muted);
 }
 
 .mini_action_btn {
-  padding: 0.14em 0.5em;
-  font-size: 0.78em;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid black;
+  padding: 0.32rem 0.75rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--accent-text);
+  font-size: 0.8em;
+  font-weight: 600;
   cursor: pointer;
 }
 
 .mini_action_btn:hover {
-  background-color: darkcyan;
-  color: white;
+  background: var(--accent-soft);
+  border-color: var(--accent);
 }
 
-.drawer_cta_wrap {
-  display: flex;
-  justify-content: center;
-  padding-top: 0.2em;
+.card_meta_line {
+  font-size: 0.88em;
+  color: var(--ink-secondary);
+}
+
+.muted_meta {
+  font-size: 0.78em;
+  color: var(--ink-muted);
 }
 
 .review_stats_bar {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55em;
-  padding: 0.3em 0.5em;
-  background-color: rgb(216, 216, 216);
-  border: 1px solid rgb(140, 140, 140);
-  font-size: 0.8em;
-}
-
-.card_meta_line {
-  font-size: 0.84em;
-}
-
-.muted_meta {
-  font-size: 0.76em;
-  color: rgb(70, 70, 70);
-  word-break: break-all;
-}
-
-.empty_hint {
+  gap: 0.45rem 0.85rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: var(--radius-md);
+  background: var(--surface-sunken);
+  color: var(--ink-secondary);
   font-size: 0.82em;
-  color: rgb(75, 75, 75);
-}
-
-.error_hint {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.45em;
-  color: rgb(140, 36, 36);
-}
-
-.retry_btn_inline {
-  padding: 0.12em 0.5em;
-  font-size: 0.88em;
-  background-color: rgb(232, 232, 232);
-  border: 1px solid black;
-  cursor: pointer;
-}
-
-.retry_btn_inline:hover {
-  background-color: darkcyan;
-  color: white;
+  font-weight: 600;
 }
 
 .editorial_list {
   margin: 0;
-  padding-left: 1.25em;
+  padding-left: 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 0.25em;
-  font-size: 0.85em;
-}
-
-.first_visit_guide_banner {
-  white-space: normal;
-  margin-bottom: 0.65em;
-  padding: 0.45em 0.65em;
-  background-color: rgb(214, 236, 236);
-  border: 1px solid darkcyan;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4em;
-  box-sizing: border-box;
-  max-width: 100%;
-}
-
-.first_visit_guide_text {
-  margin: 0;
-  font-size: 0.88em;
-  line-height: 1.45;
-  color: rgb(20, 45, 45);
-  overflow-wrap: anywhere;
-}
-
-.first_visit_guide_actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4em;
-  align-items: center;
-}
-
-.intro_guide_row {
-  white-space: normal;
-  margin-top: 0.65em;
-  text-align: center;
-}
-
-.intro_guide_btn,
-.intro_guide_dismiss_btn {
-  white-space: normal;
-  padding: 0.25em 0.75em;
+  gap: 0.45rem;
+  color: var(--ink-secondary);
   font-size: 0.9em;
-  color: black;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid black;
-  cursor: pointer;
 }
 
-.intro_guide_dismiss_btn {
-  background-color: rgb(232, 232, 232);
+.drawer_cta_wrap {
+  padding-top: 0.25rem;
 }
 
-.intro_guide_btn:hover,
-.intro_guide_dismiss_btn:hover {
-  background-color: darkcyan;
-  color: white;
-}
-
-.route_node_banner {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  padding: 0.32em 0.55em;
-  background-color: rgb(214, 236, 236);
-  border: 1px solid darkcyan;
+/* 右侧空间浏览器与弹幕工作区 */
+#right_part {
+  grid-row: 2;
+  grid-column: 3;
+  min-width: 0;
+  min-height: 0;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  background: var(--surface-canvas);
+  overflow: hidden;
+}
+
+.right_part_toolbar {
+  flex-shrink: 0;
+  display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 0.35em 0.6em;
-  font-size: 0.8em;
-  line-height: 1.4;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.9rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--surface-panel);
+  border-bottom: 1px solid var(--border-subtle);
 }
 
-.route_banner_text {
-  flex: 1 1 12em;
+#cube_zoom_controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1 1 13rem;
   min-width: 0;
-  color: rgb(20, 45, 45);
+  font-size: 0.82rem;
+  color: var(--ink-secondary);
+}
+
+#cube_zoom_controls label,
+#cube_zoom_controls output {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+#cube_zoom_range {
+  flex: 1 1 0;
+  min-width: 4.5rem;
+  max-width: 14rem;
+  margin: 0;
+  accent-color: var(--accent);
+}
+
+#cube_zoom_range:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+#danmu_button_container {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex: 1 1 15rem;
+  max-width: 24rem;
+  min-width: 0;
+}
+
+#danmu_toggle_button {
+  flex-shrink: 0;
+  padding: 0.28rem 0.68rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+#danmu_toggle_button[aria-pressed='true'] {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
+  font-weight: 600;
+}
+
+#danmu_toggle_button:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+#danmu_input {
+  flex: 1;
+  min-width: 0;
+  height: 1.9rem;
+  padding: 0 0.65rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
+  font-size: 0.8rem;
+}
+
+#danmu_input.disabled {
+  opacity: 0.48;
+  cursor: not-allowed;
+}
+
+#right_part_scroll {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#danmu_overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 30;
+}
+
+.danmu_fly {
+  position: absolute;
+  left: 100%;
+  white-space: nowrap;
+  padding: 0.22rem 0.7rem;
+  border-radius: var(--radius-pill);
+  background: color-mix(in oklch, var(--surface-elevated) 85%, transparent);
+  border: 1px solid var(--border-subtle);
+  color: var(--ink-primary);
+  font-size: 0.88rem;
+  font-weight: 600;
+  box-shadow: var(--shadow-sm);
+  animation-name: danmu-scroll;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.danmu_fly.disabled {
+  display: none;
+}
+
+@keyframes danmu-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(calc(-100vw - 100%)); }
+}
+
+#danmu_status {
+  position: fixed;
+  z-index: 100;
+  left: 50%;
+  bottom: max(18px, 1.2rem);
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: calc(100vw - 24px);
+  pointer-events: none;
+  padding: 0.4rem 0.85rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  font-size: 0.82rem;
+  box-shadow: var(--shadow-md);
+  white-space: normal;
   overflow-wrap: anywhere;
 }
 
-.route_banner_actions {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5em;
-  flex-shrink: 0;
-  max-width: 100%;
+@media (max-width: 900px) {
+  #ismismcube-container,
+  #ismismcube-container.is_collapsed {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr);
+  }
+
+  #size_adjuster {
+    display: none;
+  }
+
+  .mobile_pane_tabs {
+    display: inline-flex;
+  }
+
+  #ismismcube-container.mobile-pane-reader #right_part {
+    display: none;
+  }
+
+  #ismismcube-container.mobile-pane-reader #left_part {
+    grid-row: 2;
+    grid-column: 1;
+    display: flex;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  #ismismcube-container.mobile-pane-cube #left_part {
+    display: none;
+  }
+
+  #ismismcube-container.mobile-pane-cube #right_part {
+    grid-row: 2;
+    grid-column: 1;
+    display: flex;
+  }
+
+  .brand_subtitle {
+    display: none;
+  }
+
+  #app_topbar {
+    padding: 0.45rem 0.6rem;
+    gap: 0.4rem;
+  }
+
+  #courses_button,
+  #route_button,
+  #guide_button,
+  .topbar_cmd_btn,
+  .topbar_chip_btn {
+    padding: 0 0.55rem;
+    font-size: 0.78rem;
+  }
 }
 
-.route_banner_toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25em;
-  cursor: pointer;
-  user-select: none;
-}
+@media (prefers-reduced-motion: reduce) {
+  #ismismcube-container,
+  #size_indicator,
+  .brand_home_btn,
+  .info_tab_btn {
+    transition: none;
+  }
 
-.route_banner_next_btn {
-  padding: 0.12em 0.5em;
-  font-size: 0.95em;
-  color: black;
-  background-color: rgb(232, 244, 244);
-  border: 1px solid black;
-  cursor: pointer;
+  .danmu_fly {
+    animation-duration: 0.01ms !important;
+  }
 }
-
-.route_banner_next_btn:hover {
-  background-color: darkcyan;
-  color: white;
-}
-
 </style>

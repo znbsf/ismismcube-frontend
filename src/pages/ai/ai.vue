@@ -1,11 +1,14 @@
 <template>
   <div id="ai-container">
     <div id="main-container">
-      <div id="control-panel" :class="{ collapsed: isControlPanelClosed }" ref="controlPanelRef">
+      <div id="control-panel" :class="{ collapsed: isControlPanelClosed }" :inert="isControlPanelClosed" ref="controlPanelRef"
+        @wheel.passive="interruptPanelDemo" @touchstart.passive="interruptPanelDemo" @pointerdown="interruptPanelDemo"
+        @focusin="interruptPanelDemo" @keydown="handlePanelScrollKey">
         <div id="button-area">
-          <div id="ismismcube-button" @click="goIsmismcube">返回主页</div>
-          <div id="return-button" @click="openMoreContent">更多内容</div>
-          <div id="save-button" @click="saveChat" :class="{ disabled: taskStatus === 'running' }">保存对话</div>
+          <button id="ismismcube-button" type="button" aria-label="返回主页（主义主义魔方）" @click="goIsmismcube">返回主页</button>
+          <button id="return-button" type="button" aria-label="在新窗口打开更多内容" @click="openMoreContent">更多内容</button>
+          <button id="save-button" type="button" aria-label="保存对话到本地文件" @click="saveChat"
+            :disabled="taskStatus !== 'none' || history.length === 0" :class="{ disabled: taskStatus !== 'none' || history.length === 0 }">保存对话</button>
         </div>
         <div class="divider-line"></div>
         <div id="server-area">
@@ -49,23 +52,24 @@
               <span>排队位置: <span class="highlight">{{ queuePosition===-1 ? waitingCount : queuePosition+1 }}</span> / <span class="highlight">{{ waitingCount===-1 ? '-' : waitingCount }}</span></span>
             </template>
               <template v-else-if="taskStatus === 'running'">
-                <div>生成速度: <span class="highlight">{{ tokenSpeed.toFixed(1) }}</span> tokens/秒</div>
+                <div>接收速度: <span class="highlight">{{ fragmentSpeed.toFixed(1) }}</span> 片段/秒</div>
               </template>
             <template v-else>
               <div>可用模型:</div>
-              <div id="models-list">
+              <div id="models-list" role="group" aria-label="选择 AI 模型">
                 <template v-if="serverConfig.available_models.length == 0">
                   <div class="model-item">无可用模型</div>
                 </template>
                 <template v-else>
-                  <div v-for="model in serverConfig.available_models"
+                  <button v-for="model in serverConfig.available_models"
+                    type="button" :aria-pressed="selectedModel === model"
                     :key="model"
                     class="model-item"
                     :class="{ selected: selectedModel == model }"
                     @click="selectModel(model)"
                   >
                     {{ model }}
-                  </div>
+                  </button>
                 </template>
               </div>
               <span class="model-link">
@@ -101,24 +105,61 @@
           <div><a href='https://github.com/spaceater/ismismcube-frontend' target='_blank'>此网页的Github仓库</a></div>
         </div>
       </div>
-      <div id="control-panel-toggle" @click="toggleControlPanel" :class="{ collapsed: isControlPanelClosed }">
+      <button id="control-panel-toggle" ref="controlPanelToggleRef" type="button" @click="toggleControlPanel"
+        aria-controls="control-panel" :aria-expanded="!isControlPanelClosed"
+        :aria-label="isControlPanelClosed ? '展开 AI 控制面板' : '折叠 AI 控制面板'"
+        :class="{ collapsed: isControlPanelClosed }">
         <svg v-if="!isControlPanelClosed" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
         <svg v-else viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
-      </div>
+      </button>
       <div id="message-panel" :class="{ widened: isControlPanelClosed }">
+        <header id="ai-stage-header" aria-label="AI 对话状态栏">
+          <div class="stage_title_group">
+            <span class="stage_badge">AI 哲思顾问</span>
+            <span class="stage_model_pill">{{ selectedModel || '暂未选择模型' }}</span>
+          </div>
+          <div class="stage_actions_group">
+            <span class="stage_conn_pill" :class="{ connected: isWebSocketConnected }">
+              {{ isWebSocketConnected ? '实时连接正常' : '连接中断 · 重试中' }}
+            </span>
+            <button
+              id="ai-theme-button"
+              type="button"
+              class="stage_theme_btn"
+              :title="`当前外观：${themeLabel}（点击切换亮色 / 暗色 / 跟随系统）`"
+              @click="cycleThemeMode"
+            >
+              {{ themeLabel }}
+            </button>
+          </div>
+        </header>
         <div id="message-area-wrapper">
           <div id="message-area-overlay">
             <div v-if="isContentOverflowing" id="generating-indicator">
-              <span @click="scrollToBottom">↓ 更多内容正在生成中...</span>
+              <button type="button" @click="scrollToBottom" aria-label="滚动到底部查看最新内容">{{ taskStatus === 'running' ? '↓ 更多内容正在生成中...' : '↓ 查看最新内容' }}</button>
             </div>
           </div>
-          <div id="message-area" ref="messageAreaRef" @scroll="checkContentOverflow">
-            <div v-if="history.length === 0" class="message assistant">
+          <div id="message-area" ref="messageAreaRef" role="region" aria-label="AI 对话内容" tabindex="-1" @scroll="checkContentOverflow"
+            @wheel.passive="interruptMessageScroll" @touchstart.passive="interruptMessageScroll"
+            @pointerdown="interruptMessageScroll" @keydown="handleMessageScrollKey">
+            <div v-if="history.length === 0" class="message assistant welcome-block">
               <div class="content assistant markdown" v-html="renderMarkdown(`你好，我是AI助手。请在左侧选择模型，在下方输入问题并点击发送按钮，向我发起一个对话。`)"></div>
+              <div class="starter_chips_grid" role="group" aria-label="常见探讨方向示例">
+                <button
+                  v-for="starter in starterPrompts"
+                  :key="starter.label"
+                  type="button"
+                  class="starter_chip_btn"
+                  @click="applyStarterPrompt(starter.prompt)"
+                >
+                  <span class="starter_chip_title">{{ starter.label }}</span>
+                  <span class="starter_chip_desc">{{ starter.prompt }}</span>
+                </button>
+              </div>
             </div>
             <div v-for="(msg, i) in history" :key="i" class="message" :class="[msg.role, { 'faded': editingIndex !== -1 && i > editingIndex }]">
               <template v-if="msg.role === 'user'">
@@ -126,8 +167,8 @@
                   v-model="editingContent"
                   class="content user editing"
                   max-width="calc(100% - 3rem)"
-                  @keydown.enter.prevent="confirmEditing"
-                  @keydown.escape.prevent="exitEditing"
+                  @keydown.enter="confirmEditing"
+                  @keydown.escape="handleEditEscape"
                   @vue:mounted="(vnode: any) => selectAndFocus(vnode)"
                   ref="editingElement"
                 />
@@ -135,22 +176,24 @@
                   class="content user"
                 >{{ msg.content }}</div>
                 <template v-if="taskStatus === 'none'">
-                  <div v-if="editingIndex !== i" class="edit-icon" @click="startEdit(i)" title="编辑此消息">
+                  <button v-if="editingIndex !== i" type="button" class="edit-icon" :data-edit-index="i" @click="startEdit(i)" :aria-label="`编辑第 ${i + 1} 条消息`"
+                    :disabled="editingIndex !== -1" :title="editingIndex !== -1 ? '请先完成或取消当前编辑' : '编辑此消息'">
                     <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L10.582 16.07a4.5 4.5 0 0 1-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 0 1 1.13-1.897l8.932-8.931Zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0 1 15.75 21H5.25A2.25 2.25 0 0 1 3 18.75V8.25A2.25 2.25 0 0 1 5.25 6H10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
-                  </div>
-                  <div v-else class="edit-buttons">
-                    <div class="edit-button cancel-button" @click="exitEditing" title="取消">
+                  </button>
+                  <div v-else class="edit-buttons" @keydown.escape="handleEditEscape">
+                    <button type="button" class="edit-button cancel-button" @click="exitEditing" aria-label="取消编辑" title="取消">
                       <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                       </svg>
-                    </div>
-                    <div class="edit-button confirm-button" @click="confirmEditing" title="确认">
+                    </button>
+                    <button type="button" class="edit-button confirm-button" @click="confirmEditing" aria-label="确认编辑并重新发送"
+                      :disabled="!isWebSocketConnected || taskStatus !== 'none' || !editingContent.trim()" title="确认">
                       <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                       </svg>
-                    </div>
+                    </button>
                   </div>
                 </template>
               </template>
@@ -161,58 +204,90 @@
             </div>
           </div>
         </div>
+        <p v-if="taskError" class="task_error_notice" role="alert">{{ taskError }}</p>
+        <p v-if="taskNotice" class="task_stream_notice" role="status">{{ taskNotice }}</p>
+        <p v-if="editingIndex !== -1" class="edit_pending_hint" role="status">请先完成或取消当前编辑</p>
         <div id="input-area">
           <AdaptiveTextarea
             id="input-textarea"
             v-model="inputText"
-            @keydown.enter.prevent="sendMessage"
+            @keydown.enter="handleSendEnter"
             min-height="3rem"
             max-height="10rem"
             :placeholder="isWebSocketConnected ? '输入你的问题...' : '等待服务器连接...'"
             :disabled="editingIndex !== -1"
             ref="inputRef"
           />
-          <div id="send-stop-button" @click="handleSendOrStop" :class="{ disabled: !isWebSocketConnected || editingIndex !== -1, send: taskStatus === 'none', stop: taskStatus !== 'none' }">{{ taskStatus === 'none' ? '发送' : '停止' }}</div>
-          <div id="settings-button" @click="openSettingsModal" title="对话设置">
-            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <button id="send-stop-button" type="button" @click="handleSendOrStop"
+            :disabled="taskStatus === 'none' && (!isWebSocketConnected || editingIndex !== -1)"
+            :aria-label="taskStatus === 'none' ? '发送消息' : '停止生成'"
+            :class="{ disabled: taskStatus === 'none' && (!isWebSocketConnected || editingIndex !== -1), send: taskStatus === 'none', stop: taskStatus !== 'none' }">{{ taskStatus === 'none' ? '发送' : '停止' }}</button>
+          <button
+            id="settings-button"
+            ref="settingsButtonRef"
+            type="button"
+            aria-label="对话设置"
+            aria-haspopup="dialog"
+            :aria-expanded="showSettingsModal"
+            @click="openSettingsModal"
+            title="对话设置"
+          >
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
               <path d="M18.75 12.75h1.5a.75.75 0 0 0 0-1.5h-1.5a.75.75 0 0 0 0 1.5ZM12 6a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5A.75.75 0 0 1 12 6ZM12 18a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5A.75.75 0 0 1 12 18ZM3.75 6.75h1.5a.75.75 0 1 0 0-1.5h-1.5a.75.75 0 0 0 0 1.5ZM5.25 18.75h-1.5a.75.75 0 0 1 0-1.5h1.5a.75.75 0 0 1 0 1.5ZM3 12a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5A.75.75 0 0 1 3 12ZM9 3.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5ZM12.75 12a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1-4.5 0ZM9 15.75a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
-          </div>
+          </button>
         </div>
       </div>
     </div>
     <!-- 对话设置弹窗 -->
     <div v-if="showSettingsModal" id="settings-modal-overlay" @click="closeSettingsModal">
-      <div id="settings-modal" @click.stop>
+      <div
+        id="settings-modal"
+        ref="settingsModalRef"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="settings-modal-title"
+        tabindex="-1"
+        @click.stop
+        @keydown="handleSettingsModalKeydown"
+      >
         <div id="settings-header">
-          <h3>对话设置</h3>
-          <div id="close-settings" @click="closeSettingsModal">
-            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <h3 id="settings-modal-title">对话设置</h3>
+          <button
+            id="close-settings"
+            type="button"
+            aria-label="关闭对话设置"
+            title="关闭"
+            @click="closeSettingsModal"
+          >
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
               <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
-          </div>
+          </button>
         </div>
         <div id="settings-content">
           <div class="setting-item system-prompt-item">
-            <label>系统提示词 (System Prompt):</label>
+            <label for="setting-prompt">系统提示词 (System Prompt):</label>
             <textarea
+              id="setting-prompt"
               v-model="tempChatConfig.prompt"
               class="system-prompt-input"
               placeholder="输入系统提示词..."
             ></textarea>
           </div>
           <div class="setting-item">
-            <label>最大上下文Token记忆长度 (Context Size):</label>
-            <span class="setting-value readonly-value">{{ serverChatConfig.content_size }}</span>
+            <span id="setting-content-size-label" class="setting-label">最大上下文Token记忆长度 (Context Size):</span>
+            <span class="setting-value readonly-value" aria-labelledby="setting-content-size-label">{{ serverChatConfig.content_size }}</span>
           </div>
           <div class="setting-item">
-            <label>最大生成Token数量 (Number Predict):</label>
-            <span class="setting-value readonly-value">{{ serverChatConfig.max_tokens }}</span>
+            <span id="setting-max-tokens-label" class="setting-label">最大生成Token数量 (Number Predict):</span>
+            <span class="setting-value readonly-value" aria-labelledby="setting-max-tokens-label">{{ serverChatConfig.max_tokens }}</span>
           </div>
           <div class="setting-item">
-            <label>温度 (Temperature):</label>
+            <label for="setting-temperature">温度 (Temperature):</label>
             <div class="slider-container">
               <input
+                id="setting-temperature"
                 type="range"
                 v-model.number="tempChatConfig.temperature"
                 min="0"
@@ -224,9 +299,10 @@
             </div>
           </div>
           <div class="setting-item">
-            <label>Top-p采样 (Top-p Sampling):</label>
+            <label for="setting-top-p">Top-p采样 (Top-p Sampling):</label>
             <div class="slider-container">
               <input
+                id="setting-top-p"
                 type="range"
                 v-model.number="tempChatConfig.top_p"
                 min="0"
@@ -238,9 +314,10 @@
             </div>
           </div>
           <div class="setting-item">
-            <label>频率惩罚 (Frequency Penalty):</label>
+            <label for="setting-frequency-penalty">频率惩罚 (Frequency Penalty):</label>
             <div class="slider-container">
               <input
+                id="setting-frequency-penalty"
                 type="range"
                 v-model.number="tempChatConfig.frequency_penalty"
                 min="-2"
@@ -252,9 +329,10 @@
             </div>
           </div>
           <div class="setting-item">
-            <label>存在惩罚 (Presence Penalty):</label>
+            <label for="setting-presence-penalty">存在惩罚 (Presence Penalty):</label>
             <div class="slider-container">
               <input
+                id="setting-presence-penalty"
                 type="range"
                 v-model.number="tempChatConfig.presence_penalty"
                 min="-2"
@@ -266,9 +344,10 @@
             </div>
           </div>
           <div class="setting-item">
-            <label>重复惩罚 (Repeat Penalty):</label>
+            <label for="setting-repeat-penalty">重复惩罚 (Repeat Penalty):</label>
             <div class="slider-container">
               <input
+                id="setting-repeat-penalty"
                 type="range"
                 v-model.number="tempChatConfig.repeat_penalty"
                 min="0"
@@ -280,9 +359,9 @@
             </div>
           </div>
           <div class="settings-actions">
-            <button class="settings-button reset" @click="resetSettings">恢复</button>
-            <button class="settings-button cancel" @click="closeSettingsModal">取消</button>
-            <button class="settings-button save" @click="saveSettings">保存</button>
+            <button type="button" class="settings-button reset" @click="resetSettings">恢复</button>
+            <button type="button" class="settings-button cancel" @click="closeSettingsModal">取消</button>
+            <button type="button" class="settings-button save" @click="saveSettings">保存</button>
           </div>
         </div>
       </div>
@@ -292,67 +371,73 @@
 
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted, reactive, computed, nextTick } from 'vue'
+import { createAiTaskOwner, type AiTaskSession } from '../../utils/aiTaskSession'
+import { fetchJsonWithTimeout, JsonRequestTimeoutError } from '../../utils/jsonRequest'
+import { createAiStreamStatus } from '../../utils/aiStreamStatus'
+import { createAiChatSettings, type AiChatSettings, type EditableAiSettings } from '../../utils/aiChatSettings'
+import { createScrollAnimationOwner } from '../../utils/scrollAnimation'
 import { useRouter } from 'vue-router'
 import AdaptiveTextarea from '@/components/adaptiveTextarea.vue'
-import { marked } from 'marked'
-marked.setOptions({
-  breaks: true, // 支持换行
-  gfm: true, // GitHub Flavored Markdown
-  pedantic: false, // 不使用严格模式
-})
+import { renderSafeMarkdown as renderMarkdown } from '../../utils/renderMarkdown'
 import { buildApiUrl } from '../../config/api.ts'
+import { useThemeMode } from '../../utils/themeMode'
 
 const buildAiApiUrl = (path: string): string => {
   return buildApiUrl(`/ai${path.startsWith('/') ? '' : '/'}${path}`)
 }
 
+const { themeLabel, cycleThemeMode } = useThemeMode()
+
+const starterPrompts = [
+  { label: '四轴坐标入门', prompt: '请用通俗清晰的结构解释「主义主义魔方」中场域论、本体论、认识论与目的论四个坐标轴分别在回答什么哲学问题？' },
+  { label: '一元论 vs 二元论', prompt: '在魔方的本体论轴上，1（一元论）与 2（二元论）在面对“主体与客体如何关联”时最本质的分歧是什么？' },
+  { label: '存在主义与结构主义', prompt: '对比分析存在主义立场与结构主义立场在自由意志与社会决定结构上的张力。' }
+]
+
 interface ServerConfig {
   available_models: string[]
   max_concurrent_tasks: number
 }
-interface ChatConfig {
-  prompt: string
-  content_size: number
-  max_tokens: number
-  temperature: number
-  top_p: number
-  frequency_penalty: number
-  presence_penalty: number
-  repeat_penalty: number
-}
 
 const router = useRouter()
 const taskStatus = ref<'none' | 'queue' | 'running'>('none')
+const taskError = ref('')
+const taskNotice = ref('')
 const isWebSocketConnected = ref(false)
 const serverConfig = ref<ServerConfig>({
   available_models: [],
   max_concurrent_tasks: 0
 })
 const selectedModel = ref<string>('')
-const serverChatConfig = ref<ChatConfig>({
-  prompt: '',
-  content_size: 0,
-  max_tokens: 0,
-  temperature: 0,
-  top_p: 0,
-  frequency_penalty: 0,
-  presence_penalty: 0,
-  repeat_penalty: 0
+const chatSettings = createAiChatSettings()
+const pickEditableSettings = (settings: EditableAiSettings): EditableAiSettings => ({
+  prompt: settings.prompt,
+  temperature: settings.temperature,
+  top_p: settings.top_p,
+  frequency_penalty: settings.frequency_penalty,
+  presence_penalty: settings.presence_penalty,
+  repeat_penalty: settings.repeat_penalty
 })
-const userChatConfig = ref<ChatConfig>({
-  prompt: '',
-  content_size: 0,
-  max_tokens: 0,
-  temperature: 0,
-  top_p: 0,
-  frequency_penalty: 0,
-  presence_penalty: 0,
-  repeat_penalty: 0
-})
+const serverChatConfig = ref<AiChatSettings>(chatSettings.serviceDefaults)
+const userChatConfig = ref<AiChatSettings>(chatSettings.effective)
 const history = ref<Array<{ role: string, content: string }>>([])
 const controlPanelRef = ref<HTMLDivElement>()
+const controlPanelToggleRef = ref<HTMLButtonElement>()
 const messageAreaRef = ref<HTMLDivElement>()
+const settingsButtonRef = ref<HTMLButtonElement | null>(null)
+const settingsModalRef = ref<HTMLDivElement | null>(null)
+const inputRef = ref<{ $el?: HTMLElement } | null>(null)
 const inputText = ref('')
+const applyStarterPrompt = (prompt: string) => {
+  if (editingIndex.value !== -1) return
+  inputText.value = prompt
+  nextTick(() => {
+    const textareaEl = (inputRef.value as { $el?: HTMLElement } | undefined)?.$el?.querySelector('textarea')
+    if (textareaEl instanceof HTMLTextAreaElement) {
+      textareaEl.focus()
+    }
+  })
+}
 const editingContent = ref('')
 const editingIndex = ref(-1)
 const lastBroadcastFlag = ref(-1)
@@ -360,27 +445,23 @@ const executedTaskCount = ref(-1)
 const waitingCount = ref(-1)
 const executingCount = ref(-1)
 const queuePosition = ref(-1)
-const tokenCount = ref(0)
-const tokenSpeedStartTime = ref<number | null>(null)
-const tokenSpeed = ref(0.0)
+const streamStatus = createAiStreamStatus()
+const fragmentCount = ref(0)
+const fragmentSpeed = ref(0.0)
 const isContentOverflowing = ref(false)
 const showSettingsModal = ref(false)
 const isControlPanelClosed = ref(false)
-const tempChatConfig = ref<ChatConfig>({
-  prompt: '',
-  content_size: 0,
-  max_tokens: 0,
-  temperature: 0,
-  top_p: 0,
-  frequency_penalty: 0,
-  presence_penalty: 0,
-  repeat_penalty: 0
-})
+const tempChatConfig = ref<EditableAiSettings>(pickEditableSettings(chatSettings.effective))
+let pageDisposed = false
+const taskOwner = createAiTaskOwner()
+const broadcastOwner = createAiTaskOwner()
+const scrollOwner = createScrollAnimationOwner({ isActive: () => !pageDisposed })
+const pageController = new AbortController()
+let panelScrollTimer: ReturnType<typeof setTimeout> | null = null
 let broadcastSocket: WebSocket | null = null
-let broadcastReconnectTimer: number | null = null
 let taskSocket: WebSocket | null = null
-let taskReconnectTimer: number | null = null
 let taskReconnectStartTime: number | null = null
+const AI_SUBMIT_TIMEOUT_MS = 15_000
 const TASK_RECONNECT_TIMEOUT = 10000 // 10秒超时
 
 const waitingProgress = computed(() => {
@@ -398,67 +479,148 @@ const selectModel = (model: string) => {
   selectedModel.value = model
 }
 
-const toggleControlPanel = () => {
-  isControlPanelClosed.value = !isControlPanelClosed.value
+let panelFocusToken = 0
+const toggleControlPanel = async () => {
+  interruptPanelDemo()
+  const token = ++panelFocusToken
+  if (!isControlPanelClosed.value) {
+    if (document.activeElement && controlPanelRef.value?.contains(document.activeElement)) {
+      controlPanelToggleRef.value?.focus()
+    }
+    isControlPanelClosed.value = true
+    return
+  }
+  const active = document.activeElement
+  isControlPanelClosed.value = false
+  await nextTick()
+  if (pageDisposed || token !== panelFocusToken || isControlPanelClosed.value || !controlPanelRef.value?.isConnected) return
+  if (document.activeElement !== active && document.activeElement !== document.body) return
+  const selected = controlPanelRef.value.querySelector<HTMLElement>('button.model-item[aria-pressed="true"]:not([disabled])')
+  const first = controlPanelRef.value.querySelector<HTMLElement>('button:not([disabled]), a[href], input:not([disabled]), textarea:not([disabled])')
+  const target = selected ?? first
+  target?.focus()
 }
 
-const openSettingsModal = () => {
-  tempChatConfig.value = { ...userChatConfig.value }
+let settingsFocusToken = 0
+
+const getSettingsFocusableElements = (): HTMLElement[] => {
+  const modal = settingsModalRef.value
+  if (!modal) return []
+  return Array.from(
+    modal.querySelectorAll<HTMLElement>(
+      'button:not([disabled]), textarea:not([disabled]), input:not([disabled]), select:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])'
+    )
+  )
+}
+
+const syncSettingsRefs = () => {
+  serverChatConfig.value = chatSettings.serviceDefaults
+  userChatConfig.value = chatSettings.effective
+}
+
+const openSettingsModal = async () => {
+  if (pageDisposed) return
+  const token = ++settingsFocusToken
+  tempChatConfig.value = chatSettings.openDraft()
   showSettingsModal.value = true
+  await nextTick()
+  if (pageDisposed || token !== settingsFocusToken || !showSettingsModal.value) return
+  const focusable = getSettingsFocusableElements()
+  ;(focusable[0] ?? settingsModalRef.value)?.focus()
 }
 
 const resetSettings = () => {
-  userChatConfig.value = { ...serverChatConfig.value }
-  tempChatConfig.value = { ...serverChatConfig.value }
+  const reset = chatSettings.resetDraft()
+  if (reset) {
+    tempChatConfig.value = reset
+  }
+}
+
+const finishClosingSettingsModal = async () => {
+  const token = ++settingsFocusToken
+  const activeBeforeClose = document.activeElement
+  const wasExternalBeforeClose =
+    activeBeforeClose !== null &&
+    activeBeforeClose !== document.body &&
+    activeBeforeClose !== settingsButtonRef.value &&
+    !(settingsModalRef.value?.contains(activeBeforeClose) ?? false)
+  showSettingsModal.value = false
+  await nextTick()
+  if (pageDisposed || token !== settingsFocusToken || showSettingsModal.value) return
+  if (wasExternalBeforeClose) return
+  const currentActive = document.activeElement
+  if (
+    currentActive !== null &&
+    currentActive !== document.body &&
+    currentActive !== activeBeforeClose
+  ) {
+    return
+  }
+  settingsButtonRef.value?.focus()
 }
 
 const closeSettingsModal = () => {
-  tempChatConfig.value = { ...userChatConfig.value }
-  showSettingsModal.value = false
+  chatSettings.cancelDraft()
+  tempChatConfig.value = pickEditableSettings(chatSettings.effective)
+  void finishClosingSettingsModal()
 }
 
 const saveSettings = () => {
-  userChatConfig.value.prompt = tempChatConfig.value.prompt
-  userChatConfig.value.temperature = tempChatConfig.value.temperature
-  userChatConfig.value.top_p = tempChatConfig.value.top_p
-  userChatConfig.value.frequency_penalty = tempChatConfig.value.frequency_penalty
-  userChatConfig.value.presence_penalty = tempChatConfig.value.presence_penalty
-  userChatConfig.value.repeat_penalty = tempChatConfig.value.repeat_penalty
-  showSettingsModal.value = false
+  const result = chatSettings.saveDraft(pickEditableSettings(tempChatConfig.value))
+  if (!result.ok) return
+  syncSettingsRefs()
+  tempChatConfig.value = pickEditableSettings(chatSettings.effective)
+  void finishClosingSettingsModal()
+}
+
+const handleSettingsModalKeydown = (event: KeyboardEvent) => {
+  if (event.key === 'Escape') {
+    if (event.isComposing || event.keyCode === 229) return
+    event.preventDefault()
+    event.stopPropagation()
+    closeSettingsModal()
+    return
+  }
+  if (event.key !== 'Tab') return
+  const focusable = getSettingsFocusableElements()
+  if (focusable.length === 0) {
+    event.preventDefault()
+    settingsModalRef.value?.focus()
+    return
+  }
+  const first = focusable[0]
+  const last = focusable[focusable.length - 1]
+  const active = document.activeElement as HTMLElement | null
+  if (!active || !settingsModalRef.value?.contains(active) || active === settingsModalRef.value) {
+    event.preventDefault()
+    ;(event.shiftKey ? last : first).focus()
+    return
+  }
+  if (event.shiftKey && active === first) {
+    event.preventDefault()
+    last.focus()
+  } else if (!event.shiftKey && active === last) {
+    event.preventDefault()
+    first.focus()
+  }
 }
 
 const startEdit = (index: number) => {
+  if (editingIndex.value !== -1 || taskStatus.value !== 'none' || history.value[index]?.role !== 'user') return
+  restoredEditFocus = null
   editingIndex.value = index
   editingContent.value = history.value[index].content
 }
 
-const renderMarkdown = (content: string) => {
-  try {
-    // 使用块级HTML元素作为占位符，避免被 marked 包裹在 <p> 标签中
-    const thinkStartPlaceholder = '<div class="think-placeholder-start"></div>'
-    const thinkEndPlaceholder = '<div class="think-placeholder-end"></div>'
-
-    // 替换 <think> 标签为占位符
-    let processedContent = content
-      .replace(/<think>/g, thinkStartPlaceholder)
-      .replace(/<\/think>/g, thinkEndPlaceholder)
-
-    // 使用 marked 处理 markdown
-    let result = marked(processedContent, { async: false }) as string
-
-    // 将占位符替换回 <think> 标签
-    result = result
-      .replace(/<div class="think-placeholder-start"><\/div>/g, '<think>')
-      .replace(/<div class="think-placeholder-end"><\/div>/g, '</think>')
-
-    return result
-  } catch (error) {
-    console.error('Markdown rendering error:', error)
-    return content
-  }
-}
-
 const selectAndFocus = (vnode: any) => {
+  if (pageDisposed) return
+  const restoration = restoredEditFocus
+  restoredEditFocus = null
+  if (restoration) {
+    if (restoration.token !== editFocusToken || !restoration.allowed || editingIndex.value < 0 ||
+      showSettingsModal.value || document.querySelector?.('[aria-modal="true"]')) return
+    if (document.activeElement !== restoration.source && document.activeElement !== document.body) return
+  }
   const element = vnode.el
   if (element) {
     element.focus()
@@ -466,77 +628,215 @@ const selectAndFocus = (vnode: any) => {
   }
 }
 
-const exitEditing = () => {
+let editFocusToken = 0
+type PendingEditTransaction = {
+  originalHistory: Array<{ role: string; content: string }>
+  index: number
+  draft: string
+  session: AiTaskSession | null
+}
+let pendingEditTransaction: PendingEditTransaction | null = null
+let restoredEditFocus: { token: number; source: Element | null; allowed: boolean } | null = null
+const hasPendingEdit = (session: AiTaskSession): boolean =>
+  pendingEditTransaction?.session === session && session.active()
+
+const restorePendingEdit = (): boolean => {
+  const transaction = pendingEditTransaction
+  if (!transaction?.session?.active() || pageDisposed) return false
+  pendingEditTransaction = null
+  const source = document.activeElement
+  const token = ++editFocusToken
+  restoredEditFocus = {
+    token, source,
+    allowed: source === document.body || source === document.documentElement ||
+      source === document.querySelector?.('#send-stop-button')
+  }
+  history.value = transaction.originalHistory.map(message => ({ ...message }))
+  editingIndex.value = transaction.index
+  editingContent.value = transaction.draft
+  taskNotice.value = ''
+  const notice = '编辑重发尚未收到正文，已恢复原完整对话并保留编辑草稿，可修改后重试。'
+  taskError.value = taskError.value ? `${taskError.value}\n${notice}` : notice
+  void nextTick(() => {
+    if (restoredEditFocus?.token === token) restoredEditFocus = null
+  })
+  return true
+}
+
+const exitEditing = async () => {
+  restoredEditFocus = null
+  const index = editingIndex.value
+  const token = ++editFocusToken
+  const active = document.activeElement
   editingIndex.value = -1
   editingContent.value = ''
+  await nextTick()
+  if (pageDisposed || token !== editFocusToken || editingIndex.value !== -1) return
+  if (document.activeElement !== active && document.activeElement !== document.body) return
+  document.querySelector<HTMLElement>(`[data-edit-index="${index}"]`)?.focus()
 }
 
-const confirmEditing = async () => {
-  if (editingIndex.value === -1) return
-  if (!editingContent.value.trim()) {
-    alert('内容不能为空')
+const confirmEditing = async (event?: KeyboardEvent | MouseEvent) => {
+  if (event?.shiftKey) return
+  if (event && ('isComposing' in event && event.isComposing || 'keyCode' in event && event.keyCode === 229)) return
+  if (event && 'repeat' in event && event.repeat) { event.preventDefault(); return }
+  event?.preventDefault()
+  const index = editingIndex.value
+  if (pageDisposed || index < 0 || taskStatus.value !== 'none' || !isWebSocketConnected.value ||
+    history.value[index]?.role !== 'user' || !editingContent.value.trim()) return
+  const token = ++editFocusToken
+  restoredEditFocus = null
+  const active = document.activeElement
+  const transaction: PendingEditTransaction = {
+    originalHistory: history.value.map(message => ({ ...message })),
+    index, draft: editingContent.value, session: null
+  }
+  history.value = transaction.originalHistory.slice(0, index + 1).map(message => ({ ...message }))
+  history.value[index].content = editingContent.value.trim()
+  editingIndex.value = -1
+  editingContent.value = ''
+  void callAI(transaction)
+  await nextTick()
+  if (pageDisposed || token !== editFocusToken) return
+  if (document.activeElement !== active && document.activeElement !== document.body) return
+  document.querySelector<HTMLElement>('#send-stop-button')?.focus()
+}
+
+const handleSendEnter = (event: KeyboardEvent) => {
+  if (event.shiftKey || event.isComposing || event.keyCode === 229) return
+  if (event.repeat) { event.preventDefault(); return }
+  event.preventDefault()
+  sendMessage()
+}
+
+const handleEditEscape = (event: KeyboardEvent) => {
+  if (event.isComposing || event.keyCode === 229) return
+  event.preventDefault()
+  void exitEditing()
+}
+
+let scrollToBottomToken = 0
+const prefersReducedMotion = ref(false)
+let motionMedia: MediaQueryList | null = null
+let removeMotionListener: (() => void) | null = null
+let motionGeneration = 0
+const cleanupReducedMotion = () => {
+  motionGeneration++
+  removeMotionListener?.()
+  removeMotionListener = null
+  motionMedia = null
+}
+const setupReducedMotion = () => {
+  cleanupReducedMotion()
+  prefersReducedMotion.value = false
+  if (pageDisposed || typeof window === 'undefined' || typeof window.matchMedia !== 'function') return
+  try {
+    const media = window.matchMedia('(prefers-reduced-motion: reduce)')
+    motionMedia = media
+    const generation = motionGeneration
+    const apply = (matches: boolean) => {
+      if (pageDisposed || generation !== motionGeneration || motionMedia !== media) return
+      prefersReducedMotion.value = matches
+      if (matches) {
+        interruptPanelDemo()
+        interruptMessageScroll()
+      }
+    }
+    const change = (event: MediaQueryListEvent) => apply(event.matches)
+    if (typeof media.addEventListener === 'function' && typeof media.removeEventListener === 'function') {
+      media.addEventListener('change', change)
+      removeMotionListener = () => media.removeEventListener('change', change)
+    } else if (typeof media.addListener === 'function' && typeof media.removeListener === 'function') {
+      media.addListener(change)
+      removeMotionListener = () => media.removeListener(change)
+    }
+    apply(media.matches)
+  } catch {
+    cleanupReducedMotion()
+  }
+}
+
+const scrollToBottom = async (event?: MouseEvent) => {
+  const element = messageAreaRef.value
+  const source = event?.currentTarget as HTMLElement | null | undefined
+  const restoreFocus = Boolean(source && document.activeElement === source)
+  if (pageDisposed || !element) return
+  // Only explicit activation may interrupt someone reading an earlier answer.
+  if (!event && element.scrollHeight - element.clientHeight - element.scrollTop > 24) {
+    checkContentOverflow()
     return
   }
-  history.value[editingIndex.value].content = editingContent.value.trim()
-  history.value = history.value.slice(0, editingIndex.value + 1)
-  exitEditing()
-  callAI()
-}
-
-const scrollToBottom = () => {
-  if (!messageAreaRef.value) return
-  scrollElement(messageAreaRef.value, messageAreaRef.value.scrollHeight, 1000, 'down')
-}
-
-const scrollElement = (element: HTMLElement, target: number, duration: number, direction: 'down' | 'up', onComplete?: () => void) => {
-  const start = Date.now()
-  const animate = () => {
-    const elapsed = Date.now() - start
-    const progress = Math.min(elapsed / duration, 1)
-    const ease = progress < 0.5
-      ? 2 * progress * progress
-      : 1 - Math.pow(-2 * progress + 2, 2) / 2
-    const scrollPosition = direction === 'down'
-      ? target * ease
-      : target * (1 - ease)
-    element.scrollTop = scrollPosition
-    if (progress < 1) {
-      requestAnimationFrame(animate)
-    } else if (onComplete) {
-      onComplete()
-    }
+  const token = ++scrollToBottomToken
+  await nextTick()
+  if (pageDisposed || token !== scrollToBottomToken || messageAreaRef.value !== element || !element.isConnected) return
+  if (restoreFocus && source?.isConnected && document.activeElement === source) {
+    element.focus({ preventScroll: true })
   }
-  requestAnimationFrame(animate)
+  scrollOwner.animate(element, () => element.scrollHeight - element.clientHeight, prefersReducedMotion.value ? 0 : 1000, checkContentOverflow)
+}
+
+const interruptMessageScroll = () => {
+  scrollToBottomToken++
+  if (messageAreaRef.value) scrollOwner.cancel(messageAreaRef.value)
+  checkContentOverflow()
+}
+
+const handleMessageScrollKey = (event: KeyboardEvent) => {
+  if (event.isComposing || event.ctrlKey || event.metaKey || event.altKey) return
+  const target = event.target as HTMLElement | null
+  if (target?.closest?.('input, textarea, select, button, [contenteditable]')) return
+  if (['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '].includes(event.key)) interruptMessageScroll()
+}
+
+let panelDemoCancelled = false
+const interruptPanelDemo = () => {
+  panelDemoCancelled = true
+  if (panelScrollTimer !== null) {
+    clearTimeout(panelScrollTimer)
+    panelScrollTimer = null
+  }
+  if (controlPanelRef.value) scrollOwner.cancel(controlPanelRef.value)
+}
+
+const handlePanelScrollKey = (event: KeyboardEvent) => {
+  if (event.isComposing || event.ctrlKey || event.metaKey || event.altKey) return
+  const target = event.target as HTMLElement | null
+  if (target?.closest?.('input, textarea, select, button, [contenteditable]')) return
+  if (['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '].includes(event.key)) interruptPanelDemo()
+}
+
+const schedulePanelDemo = () => {
+  if (pageDisposed || panelDemoCancelled) return
+  if (panelScrollTimer !== null) clearTimeout(panelScrollTimer)
+  panelScrollTimer = setTimeout(() => {
+    panelScrollTimer = null
+    if (!pageDisposed && !panelDemoCancelled) scrollControlPanel()
+  }, 500)
 }
 
 const scrollControlPanel = () => {
-  if (!controlPanelRef.value) return
   const element = controlPanelRef.value
-  const target = element.scrollHeight
-  scrollElement(element, target, 1000, 'down', () => {
-    scrollElement(element, target, 1000, 'up')
+  if (pageDisposed || panelDemoCancelled || !element || !element.isConnected) return
+  scrollOwner.animate(element, () => element.scrollHeight - element.clientHeight, 1000, () => {
+    if (pageDisposed || panelDemoCancelled || controlPanelRef.value !== element || !element.isConnected) return
+    scrollOwner.animate(element, 0, 1000)
   })
 }
 
 const checkContentOverflow = () => {
-  nextTick(() => {
-    if (messageAreaRef.value && taskStatus.value === 'running') {
-      const element = messageAreaRef.value
-      // 检测是否有溢出内容（scrollHeight > clientHeight）且未滚动到底部
-      const hasOverflow = element.scrollHeight > element.clientHeight
-      const isAtBottom = element.scrollHeight - element.scrollTop - element.clientHeight < 10
-      isContentOverflowing.value = hasOverflow && !isAtBottom
-    } else {
-      isContentOverflowing.value = false
-    }
+  void nextTick(() => {
+    if (pageDisposed) return
+    const element = messageAreaRef.value
+    isContentOverflowing.value = Boolean(element?.isConnected && history.value.length > 0 &&
+      element.scrollHeight > element.clientHeight && element.scrollHeight - element.scrollTop - element.clientHeight > 24)
   })
 }
 
-const createMessage = () => {
+const createMessage = (model = selectedModel.value) => {
   const lastMessage = history.value[history.value.length - 1]
   const needNewMessage = !lastMessage || lastMessage.role === 'user'
   if (needNewMessage) {
-    history.value.push(reactive({ role: selectedModel.value || 'assistant', content: '' }))
+    history.value.push(reactive({ role: model || 'assistant', content: '' }))
   }
 }
 
@@ -580,51 +880,56 @@ const saveChat = () => {
   URL.revokeObjectURL(url)
 }
 
-const updateTokenSpeed = () => {
-  if (!tokenSpeedStartTime.value) {
-    tokenSpeedStartTime.value = Date.now()
-  } else {
-    tokenCount.value++
-    const elapsed = (Date.now() - tokenSpeedStartTime.value) / 1000
-    if (elapsed > 0) {
-      tokenSpeed.value = tokenCount.value / elapsed
-    }
-  }
+const updateFragmentSpeed = (content: string) => {
+  streamStatus.record(content)
+  const snapshot = streamStatus.snapshot()
+  fragmentCount.value = snapshot.fragments
+  fragmentSpeed.value = snapshot.fragmentsPerSecond
 }
 
-const resetTokenStats = () => {
-  tokenSpeed.value = 0
-  tokenCount.value = 0
-  tokenSpeedStartTime.value = null
+const resetStreamStats = () => {
+  streamStatus.reset()
+  fragmentCount.value = 0
+  fragmentSpeed.value = 0
 }
 
 const connectBroadcastSocket = () => {
+  const session = broadcastOwner.begin()
+  if (!session || pageDisposed) return
   try {
     const wsUrl = `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}${buildAiApiUrl('/chat_broadcast')}`
-    broadcastSocket = new WebSocket(wsUrl)
-    broadcastSocket.addEventListener("open", () => {
+    const socket = new WebSocket(wsUrl)
+    broadcastSocket = socket
+    const ownsSocket = () => session.active() && broadcastSocket === socket
+    session.cleanup(() => {
+      socket.onopen = socket.onmessage = socket.onerror = socket.onclose = null
+      if (broadcastSocket === socket) broadcastSocket = null
+      socket.close(1000, '页面卸载')
+    })
+    socket.onopen = () => {
+      if (!ownsSocket()) return
       console.log("WebSocket连接成功")
       isWebSocketConnected.value = true
-      if (broadcastReconnectTimer) {
-        clearTimeout(broadcastReconnectTimer)
-        broadcastReconnectTimer = null
-      }
-    })
-    broadcastSocket.addEventListener("message", (event) => {
+    }
+    socket.onmessage = (event) => {
+      if (!ownsSocket()) return
       const message = event.data
+      if (typeof message !== 'string') return
       if (message.startsWith('broadcast')) {
         try {
           const data = JSON.parse(message.substring(message.indexOf('{')))
+          if (!data || typeof data !== 'object' || Array.isArray(data)) return
           if (data.broadcast_flag !== undefined) {
+            if (typeof data.broadcast_flag !== 'number' || !Number.isFinite(data.broadcast_flag) || data.broadcast_flag < 0) return
             if (data.broadcast_flag <= lastBroadcastFlag.value) {
               return
             }
             lastBroadcastFlag.value = data.broadcast_flag
           }
-          if (data.waiting_count !== undefined) {
+          if (typeof data.waiting_count === 'number' && Number.isFinite(data.waiting_count) && Number.isInteger(data.waiting_count) && data.waiting_count >= 0) {
             waitingCount.value = data.waiting_count
           }
-          if (data.executing_count !== undefined) {
+          if (typeof data.executing_count === 'number' && Number.isFinite(data.executing_count) && Number.isInteger(data.executing_count) && data.executing_count >= 0) {
             executingCount.value = data.executing_count
           }
         } catch (error) {
@@ -634,14 +939,18 @@ const connectBroadcastSocket = () => {
       else if (message.startsWith('server-config')) {
         try {
           const data = JSON.parse(message.substring(message.indexOf('{')))
-          if (data.available_models !== undefined) {
-            serverConfig.value.available_models = data.available_models
-            if (data.available_models.length > 0 && !selectedModel.value) {
-              selectedModel.value = data.available_models[0]
+          if (data && typeof data === 'object' && !Array.isArray(data)) {
+            const availableModels: unknown = data.available_models
+            if (Array.isArray(availableModels) && availableModels.every((model): model is string => typeof model === 'string')) {
+              const validModels = [...new Set(availableModels.filter(model => model.trim().length > 0))]
+              serverConfig.value.available_models = validModels
+              selectedModel.value = validModels.includes(selectedModel.value)
+                ? selectedModel.value
+                : (validModels[0] ?? '')
             }
-          }
-          if (data.max_concurrent_tasks !== undefined) {
-            serverConfig.value.max_concurrent_tasks = data.max_concurrent_tasks
+            if (typeof data.max_concurrent_tasks === 'number' && Number.isFinite(data.max_concurrent_tasks) && Number.isInteger(data.max_concurrent_tasks) && data.max_concurrent_tasks >= 0) {
+              serverConfig.value.max_concurrent_tasks = data.max_concurrent_tasks
+            }
           }
         } catch (error) {
           console.error("WebSocket JSON解析失败:", message, error)
@@ -650,31 +959,8 @@ const connectBroadcastSocket = () => {
       else if (message.startsWith('chat-config')) {
         try {
           const data = JSON.parse(message.substring(message.indexOf('{')))
-          if (data.prompt !== undefined) {
-            serverChatConfig.value.prompt = data.prompt
-          }
-          if (data.content_size !== undefined) {
-            serverChatConfig.value.content_size = data.content_size
-          }
-          if (data.max_tokens !== undefined) {
-            serverChatConfig.value.max_tokens = data.max_tokens
-          }
-          if (data.temperature !== undefined) {
-            serverChatConfig.value.temperature = data.temperature
-          }
-          if (data.top_p !== undefined) {
-            serverChatConfig.value.top_p = data.top_p
-          }
-          if (data.frequency_penalty !== undefined) {
-            serverChatConfig.value.frequency_penalty = data.frequency_penalty
-          }
-          if (data.presence_penalty !== undefined) {
-            serverChatConfig.value.presence_penalty = data.presence_penalty
-          }
-          if (data.repeat_penalty !== undefined) {
-            serverChatConfig.value.repeat_penalty = data.repeat_penalty
-          }
-          userChatConfig.value = { ...serverChatConfig.value }
+          chatSettings.updateServiceDefaults(data)
+          syncSettingsRefs()
         } catch (error) {
           console.error("WebSocket JSON解析失败:", message, error)
         }
@@ -682,70 +968,75 @@ const connectBroadcastSocket = () => {
       else {
         console.error("WebSocket消息解析失败:", event.data)
       }
-    })
-    broadcastSocket.addEventListener("error", (error) => {
+    }
+    socket.onerror = (error) => {
+      if (!ownsSocket()) return
       console.error("WebSocket连接错误:", error)
       isWebSocketConnected.value = false
-    })
-    broadcastSocket.addEventListener("close", (event) => {
+    }
+    socket.onclose = (event) => {
+      if (!ownsSocket()) return
       console.log("WebSocket连接关闭:", event.code, event.reason)
+      socket.onopen = socket.onmessage = socket.onerror = socket.onclose = null
+      broadcastSocket = null
       isWebSocketConnected.value = false
       if (event.code !== 1000) {
         console.log("3秒后尝试重连WebSocket")
-        broadcastReconnectTimer = setTimeout(() => {
+        session.later(() => {
           connectBroadcastSocket()
         }, 3000)
       }
-    })
+    }
   } catch (error) {
+    if (!session.active()) return
     console.error("WebSocket连接失败:", error)
     isWebSocketConnected.value = false
-    broadcastReconnectTimer = setTimeout(() => {
+    session.later(() => {
       connectBroadcastSocket()
     }, 3000)
   }
 }
 
 const disconnectBroadcastSocket = () => {
-  if (broadcastReconnectTimer) {
-    clearTimeout(broadcastReconnectTimer)
-    broadcastReconnectTimer = null
-  }
-  if (broadcastSocket) {
-    console.log('关闭WebSocket连接')
-    broadcastSocket.onopen = null
-    broadcastSocket.onmessage = null
-    broadcastSocket.onerror = null
-    broadcastSocket.onclose = null
-    broadcastSocket.close(1000, "页面卸载")
-    broadcastSocket = null
-  }
+  broadcastOwner.stop()
+  isWebSocketConnected.value = false
 }
 
-const connectTaskSocket = (websocketId: string) => {
-  if (!taskReconnectStartTime) {
-    taskReconnectStartTime = Date.now()
-  }
-  if (Date.now() - taskReconnectStartTime > TASK_RECONNECT_TIMEOUT) {
+const connectTaskSocket = (websocketId: string, session: AiTaskSession, taskModel = selectedModel.value) => {
+  if (!session.active() || pageDisposed) return
+  if (taskReconnectStartTime !== null && Date.now() - taskReconnectStartTime > TASK_RECONNECT_TIMEOUT) {
     console.error("任务WebSocket重连超时，停止重连")
+    taskError.value = 'AI 连接恢复超时，收到的内容已保留。请稍后重新发送。'
     disconnectTaskSocket()
     return
   }
   try {
-    const wsUrl = `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}${buildAiApiUrl(`/chat_task?id=${websocketId}`)}`
-    taskSocket = new WebSocket(wsUrl)
-    taskSocket.addEventListener("open", () => {
+    const wsUrl = `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}${buildAiApiUrl(`/chat_task?id=${encodeURIComponent(websocketId)}`)}`
+    const socket = new WebSocket(wsUrl)
+    taskSocket = socket
+    const ownsSocket = () => session.active() && taskSocket === socket
+    const detach = () => { socket.onopen = socket.onmessage = socket.onerror = socket.onclose = null }
+    session.cleanup(() => {
+      detach()
+      if (taskSocket === socket) taskSocket = null
+      socket.close(1000, '任务结束')
+    })
+    socket.onopen = () => {
+      if (!ownsSocket()) return
       console.log("任务WebSocket连接成功")
       queuePosition.value = waitingCount.value
-      taskReconnectStartTime = null
-      if (taskReconnectTimer) {
-        clearTimeout(taskReconnectTimer)
-        taskReconnectTimer = null
+    }
+    socket.onmessage = (event) => {
+      if (!ownsSocket()) return
+      if (typeof event.data !== 'string') {
+        taskError.value = 'AI 响应格式异常，本次生成已停止，收到的内容已保留。可重新发送。'
+        disconnectTaskSocket()
+        scrollToBottom()
+        return
       }
-    })
-    taskSocket.addEventListener("message", (event) => {
       const lines = event.data.split('\n')
       for (let message of lines) {
+        if (!ownsSocket()) return
         if (message.trim() === '') continue
         if (message.startsWith('broadcast')) {
           try {
@@ -760,100 +1051,133 @@ const connectTaskSocket = (websocketId: string) => {
             console.error("任务WebSocket JSON解析失败:", message, error)
           }
         }
+        else if (message.startsWith('error')) {
+          taskError.value = 'AI 服务返回错误，已保留收到的内容。可调整问题后重新发送。'
+          disconnectTaskSocket()
+          scrollToBottom()
+          return
+        }
         else if (message.startsWith('data')) {
           taskStatus.value = 'running'
-          createMessage()
           if (message.trim().endsWith('[DONE]')) {
+            streamStatus.finish()
             disconnectTaskSocket()
             scrollToBottom()
-            continue
+            return
           }
           try {
             const data = JSON.parse(message.substring(message.indexOf('{')))
-            if (data.choices && data.choices.length > 0) {
-              const choice = data.choices[0]
-              if (choice.finish_reason) {
-                disconnectTaskSocket()
-                scrollToBottom()
-                continue
-              }
-              if (choice.delta && choice.delta.content) {
-                const lastMessage = history.value[history.value.length - 1]
-                if (lastMessage && lastMessage.role !== 'user') {
-                  lastMessage.content += choice.delta.content
-                  updateTokenSpeed()
-                  checkContentOverflow()
-                  if (tokenCount.value >= serverChatConfig.value.max_tokens-1) {
-                    lastMessage.content += '\n\n!!!【最大生成token数量: ' + serverChatConfig.value.max_tokens + '，当前生成内容的长度已经达到最大生成token数量限制，请拆分你的问题或改变系统提示词以减少生成内容的长度】!!!'
-                  }
+            if (data?.error) {
+              taskError.value = 'AI 服务返回错误，已保留收到的内容。可调整问题后重新发送。'
+              disconnectTaskSocket()
+              scrollToBottom()
+              return
+            }
+            if (!data || typeof data !== 'object' || Array.isArray(data) ||
+              (data.choices !== undefined && !Array.isArray(data.choices))) throw new Error('Invalid choices')
+            if (Array.isArray(data.choices)) {
+              for (const item of data.choices) {
+                if (!item || typeof item !== 'object' || Array.isArray(item) ||
+                  (item.finish_reason !== undefined && item.finish_reason !== null && typeof item.finish_reason !== 'string') ||
+                  (item.delta !== undefined && item.delta !== null && (typeof item.delta !== 'object' || Array.isArray(item.delta))) ||
+                  (item.delta?.content !== undefined && item.delta.content !== null && typeof item.delta.content !== 'string')) {
+                  throw new Error('Invalid choice payload')
                 }
               }
             }
-          } catch(error) {
-            const lastMessage = history.value[history.value.length - 1]
-            if (lastMessage && lastMessage.role !== 'user') {
-              lastMessage.content = `服务器错误：${event.data}`
-            } else {
-              history.value.push({
-                role: selectedModel.value || 'assistant',
-                content: `服务器错误：${event.data}`
-              })
+            if (data.choices && data.choices.length > 0) {
+              const choice = data.choices[0]
+              // A nonempty text delta restores generation progress. Handshake,
+              // role/queue announcements and empty usage chunks do not reset retries.
+              if (typeof choice.delta?.content === 'string' && choice.delta.content.length > 0) taskReconnectStartTime = null
+              if (choice.delta && typeof choice.delta.content === 'string' && choice.delta.content) {
+                if (choice.delta.content.trim() && hasPendingEdit(session)) pendingEditTransaction = null
+                createMessage(taskModel)
+                const lastMessage = history.value[history.value.length - 1]
+                if (lastMessage && lastMessage.role !== 'user') {
+                  lastMessage.content += choice.delta.content
+                  updateFragmentSpeed(choice.delta.content)
+                  checkContentOverflow()
+                }
+              }
+              if (choice.finish_reason) {
+                const notice = streamStatus.finish(choice.finish_reason)
+                if (notice) taskNotice.value = notice.trim()
+                disconnectTaskSocket()
+                scrollToBottom()
+                return
+              }
             }
+          } catch(error) {
+            taskError.value = 'AI 响应格式异常，本次生成已停止，收到的内容已保留。可重新发送。'
             disconnectTaskSocket()
             scrollToBottom()
-            continue
+            return
           }
         }
         else {
           console.error("任务WebSocket消息解析失败:", event.data)
         }
       }
-    })
-    taskSocket.addEventListener("error", (error) => {
+    }
+    socket.onerror = (error) => {
+      if (!ownsSocket()) return
       console.error("任务WebSocket连接错误:", error)
-    })
-    taskSocket.addEventListener("close", (event) => {
+      if (hasPendingEdit(session)) {
+        taskError.value = '编辑重发连接出错，尚未收到回答。'
+        disconnectTaskSocket()
+        scrollToBottom()
+      }
+    }
+    socket.onclose = (event) => {
+      if (!ownsSocket()) return
       console.log("任务WebSocket连接关闭:", event.code, event.reason)
+      detach()
+      taskSocket = null
+      if (hasPendingEdit(session)) {
+        taskError.value = '编辑重发连接提前结束，尚未收到回答。'
+        disconnectTaskSocket()
+        scrollToBottom()
+        return
+      }
       // 如果不是正常关闭，尝试重连
       if (event.code !== 1000) {
-        taskReconnectTimer = setTimeout(() => {
-          connectTaskSocket(websocketId)
+        if (taskReconnectStartTime === null) taskReconnectStartTime = Date.now()
+        session.later(() => {
+          connectTaskSocket(websocketId, session, taskModel)
         }, 1000)
       }
       else {
+        taskError.value = 'AI 连接提前结束，收到的内容已保留。可重新发送。'
         disconnectTaskSocket()
+        scrollToBottom()
       }
-    })
+    }
   } catch (error) {
+    if (!session.active()) return
     console.error("任务WebSocket连接失败:", error)
-    taskReconnectTimer = setTimeout(() => {
-      connectTaskSocket(websocketId)
+    if (hasPendingEdit(session)) {
+      taskError.value = '编辑重发连接失败，尚未收到回答。'
+      disconnectTaskSocket()
+      return
+    }
+    if (taskReconnectStartTime === null) taskReconnectStartTime = Date.now()
+    session.later(() => {
+      connectTaskSocket(websocketId, session, taskModel)
     }, 1000)
   }
 }
 
 const disconnectTaskSocket = () => {
+  restorePendingEdit()
+  taskOwner.stop()
   taskReconnectStartTime = null
-  if (taskReconnectTimer) {
-    clearTimeout(taskReconnectTimer)
-    taskReconnectTimer = null
-  }
-  if (taskSocket) {
-    console.log('关闭任务WebSocket连接')
-    taskSocket.onopen = null
-    taskSocket.onmessage = null
-    taskSocket.onerror = null
-    taskSocket.close(1000, "页面卸载")
-    taskSocket.onclose = null
-    taskSocket = null
-  }
-  // 重置排队位置和任务状态
   queuePosition.value = -1
   taskStatus.value = 'none'
+  checkContentOverflow()
 }
 
 const handleSendOrStop = () => {
-  if (!isWebSocketConnected.value) return
   if (taskStatus.value === 'none') {
     sendMessage()
   } else {
@@ -862,7 +1186,7 @@ const handleSendOrStop = () => {
 }
 
 const sendMessage = () => {
-  if (taskStatus.value !== 'none' || !isWebSocketConnected.value) return
+  if (taskStatus.value !== 'none' || !isWebSocketConnected.value || editingIndex.value !== -1) return
   if (!inputText.value.trim()) {
     alert('请先输入问题')
     return
@@ -874,953 +1198,949 @@ const sendMessage = () => {
 
 const stopTask = () => {
   disconnectTaskSocket()
-  resetTokenStats()
+  resetStreamStats()
 }
 
-const callAI = async () => {
+const callAI = async (editTransaction?: PendingEditTransaction) => {
+  const session = taskOwner.begin()
+  if (!session || pageDisposed) return
+  const taskModel = selectedModel.value
+  pendingEditTransaction = editTransaction ?? null
+  if (editTransaction) {
+    editTransaction.session = session
+    session.cleanup(() => {
+      if (pendingEditTransaction === editTransaction) pendingEditTransaction = null
+    })
+  }
+  taskError.value = ''
+  taskNotice.value = ''
   queuePosition.value = -1
   taskStatus.value = 'queue'
   taskReconnectStartTime = null
-  resetTokenStats()
-  if (taskReconnectTimer) {
-    clearTimeout(taskReconnectTimer)
-    taskReconnectTimer = null
-  }
+  resetStreamStats()
   try {
-    const response = await fetch(buildAiApiUrl('/send_chat'), {
+    const { prompt, ...sampling } = chatSettings.requestSettings
+    const result = await fetchJsonWithTimeout<{ websocket_id?: unknown }>(buildAiApiUrl('/send_chat'), {
+      timeoutMs: AI_SUBMIT_TIMEOUT_MS,
       method: 'POST',
+      signal: session.signal,
       headers: {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        ...(selectedModel.value ? { model: selectedModel.value } : {}),
+        ...(taskModel ? { model: taskModel } : {}),
         messages: [
-          ...(userChatConfig.value.prompt ? [{
+          ...(typeof prompt === 'string' && prompt.trim() ? [{
             role: 'system',
-            content: userChatConfig.value.prompt
+            content: prompt
           }] : []),
           ...history.value.map(msg => ({
             role: msg.role === 'user' ? 'user' : 'assistant',
             content: msg.content
           }))
         ],
-        temperature: userChatConfig.value.temperature,
-        top_p: userChatConfig.value.top_p,
-        frequency_penalty: userChatConfig.value.frequency_penalty,
-        presence_penalty: userChatConfig.value.presence_penalty,
-        repeat_penalty: userChatConfig.value.repeat_penalty,
+        ...sampling,
         stream: true
       })
     })
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`)
-    }
-    const result = await response.json()
-    const websocketId = result.websocket_id
-    if (!websocketId) {
+    if (!session.active()) return
+    const websocketId = result?.websocket_id
+    if (typeof websocketId !== 'string' || !websocketId.trim()) {
       throw new Error('未获取到websocket_id')
     }
-    connectTaskSocket(websocketId)
+    connectTaskSocket(websocketId, session, taskModel)
   } catch (error) {
+    if (!session.active()) return
     console.error('AI Error:', error)
-    history.value.push({
-      role: selectedModel.value || 'assistant',
-      content: '抱歉，AI服务暂时不可用，请稍后重试。'
-    })
+    taskError.value = error instanceof JsonRequestTimeoutError
+      ? '提交响应超时，服务器可能已接收请求。请确认后再决定是否重试；已有对话已保留。'
+      : 'AI 服务暂时不可用，未收到新的回答。请稍后重试；已有对话已保留。'
+    restorePendingEdit()
+    taskOwner.stop()
     taskStatus.value = 'none'
-    resetTokenStats()
+    resetStreamStats()
+    checkContentOverflow()
   }
 }
 
 const fetchExecutedTaskCount = async () => {
   try {
-    const response = await fetch(buildAiApiUrl('/executed_task'))
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`)
-    }
-    const result = await response.json()
-    if (result.executed_task !== undefined) {
-      executedTaskCount.value = result.executed_task
-    }
+    const result = await fetchJsonWithTimeout<{ executed_task?: unknown } | null>(buildAiApiUrl('/executed_task'), {
+      method: 'GET', signal: pageController.signal, timeoutMs: 15_000,
+    })
+    if (pageDisposed) return
+    const count = result?.executed_task
+    executedTaskCount.value = typeof count === 'number' && Number.isFinite(count) && Number.isInteger(count) && count >= 0 ? count : -1
   } catch (error) {
+    if (pageDisposed) return
     console.error('获取已执行任务总数失败:', error)
     executedTaskCount.value = -1
   }
 }
 
 onMounted(() => {
+  setupReducedMotion()
   connectBroadcastSocket()
   fetchExecutedTaskCount()
-  setTimeout(() => {
-    scrollControlPanel()
-  }, 500)
+  schedulePanelDemo()
 })
 
 onUnmounted(() => {
+  pageDisposed = true
+  cleanupReducedMotion()
+  editFocusToken++
+  restoredEditFocus = null
+  settingsFocusToken++
+  scrollToBottomToken++
+  scrollOwner.dispose()
+  taskOwner.dispose()
+  broadcastOwner.dispose()
+  pageController.abort()
+  if (panelScrollTimer !== null) {
+    clearTimeout(panelScrollTimer)
+    panelScrollTimer = null
+  }
   disconnectBroadcastSocket()
   disconnectTaskSocket()
 })
 </script>
 
 <style scoped>
-
-@font-face {
-  font-family: "en_font";
-  src: local("Times New Roman");
-  unicode-range: U+0041-005A, U+0061-007A;
-}
-
-@font-face {
-  font-family: "other_font";
-  src: local("Microsoft YaHei");
-  font-style: normal;
-}
-
-* {
-  font-family: "en_font", "other_font", sans-serif;
-}
-
-.highlight {
-  color: green;
-  font-weight: bold;
-}
-
-.warning {
-  color:rgb(255,30,30);
-  font-weight: bold;
-}
-
 #ai-container {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgb(100, 100, 100);
-  padding: 1rem 4rem;
+  inset: 0;
+  width: 100%;
+  height: 100dvh;
+  padding: 0.75rem;
   box-sizing: border-box;
-  overflow: auto;
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
+  overflow: hidden;
 }
 
 #main-container {
   position: relative;
   width: 100%;
   height: 100%;
-  min-width: 50rem;
-  min-height: 30rem;
-  margin: auto;
-  border-radius: 1rem;
+  display: grid;
+  grid-template-columns: 19.5rem minmax(0, 1fr);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-panel);
+  box-shadow: var(--shadow-lg);
   overflow: hidden;
+  transition: grid-template-columns 0.25s var(--ease-out-expo);
 }
 
+#main-container:has(#control-panel.collapsed) {
+  grid-template-columns: 0px minmax(0, 1fr);
+}
+
+/* 左侧控制与队列说明栏 */
 #control-panel {
-  z-index: 2;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 15rem;
-  height: 100%;
-  background-color: rgb(230, 230, 230);
-  box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.2);
-  transition: all 1s ease-in-out;
+  grid-column: 1;
+  min-width: 0;
+  min-height: 0;
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding: 0.95rem 1.25rem 0.95rem 0.95rem;
+  background: var(--surface-elevated);
+  border-right: 1px solid var(--border-subtle);
+  font-size: 0.84rem;
+  line-height: 1.5;
+  color: var(--ink-secondary);
 }
 
 #control-panel.collapsed {
-  left: -15rem;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  padding: 0;
+  border-right: none;
 }
 
 #button-area {
-  position: relative;
-  margin: 1rem 0;
-  display: flex;
-  gap: 0.5rem;
-  justify-content: center;
-  padding: 0 0.5rem;
-}
-
-.divider-line {
-  height: 1px;
-  background-color: black;
-  margin: 0.5rem 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.4rem;
 }
 
 #ismismcube-button,
 #return-button,
 #save-button {
-  width: 4rem;
-  height: 1.5rem;
-  font-size: 0.8rem;
-  font-weight: bold;
-  line-height: 1.5rem;
-  text-align: center;
-  white-space: nowrap;
-  background-color: rgb(200, 200, 200);
-  box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.3);
-  border-radius: 0.5rem;
-  overflow: hidden;
+  padding: 0.42rem 0.5rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.78rem;
+  font-weight: 600;
   cursor: pointer;
-  border: none;
-  transition: all 0.2s ease;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
+#ismismcube-button {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+#ismismcube-button:hover {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+#return-button:hover,
+#save-button:hover:not(:disabled) {
+  background: var(--surface-hover);
+  border-color: var(--border-strong);
+}
+
+#save-button:disabled,
 #save-button.disabled {
+  opacity: 0.45;
   cursor: not-allowed;
 }
 
-#ismismcube-button:hover,
-#return-button:hover,
-#save-button:hover:not(.disabled) {
-  background-color: gray;
-  transform: translateY(-2px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
+.divider-line {
+  height: 1px;
+  background: var(--border-subtle);
+  flex-shrink: 0;
 }
 
 #server-area {
-  position: relative;
-  margin: 0.5rem 0;
-  padding: 0;
-  cursor: default;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
 }
 
 #connection-status {
-  width: fit-content;
-  height: 2rem;
-  padding: 0 0.75rem;
-  color: white;
-  font-weight: bold;
-  font-size: 1rem;
-  line-height: 2rem;
+  padding: 0.4rem 0.7rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
   text-align: center;
-  white-space: nowrap;
-  border-radius: 0.5rem;
-  margin: 0 auto;
+  font-size: 0.8rem;
+  font-weight: 600;
 }
 
 #connection-status.connected {
-  background-color: green;
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
 }
 
 #connection-status.disconnected {
-  background-color: #ff5722;
-  animation: pulse 1s infinite;
+  background: var(--tone-problem-bg);
+  border-color: var(--tone-problem-border);
+  color: var(--tone-problem-ink);
 }
 
 #queue-info {
-  display: flex;
-  margin: 0.5rem;
-  font-size: 0.8rem;
-  white-space: nowrap;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.35rem;
 }
 
-#executed-info, #waiting-info, #executing-info {
+#executed-info,
+#waiting-info,
+#executing-info {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  flex: 1;
-  text-align: center;
-  gap: 0.3rem;
+  padding: 0.4rem 0.3rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  font-size: 0.75rem;
 }
 
-#executed-info span, #waiting-info span, #executing-info span {
-  display: inline-block;
-  vertical-align: middle;
+.highlight {
+  font-weight: 700;
+  color: var(--accent-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.warning {
+  font-weight: 700;
+  color: var(--tone-problem-ink);
 }
 
 #task-area {
-  margin: 0.5rem 0;
-  cursor: default;
-}
-
-#task-status {
-  width: fit-content;
-  height: 2rem;
-  font-weight: bold;
-  font-size: 1rem;
-  line-height: 2rem;
-  text-align: center;
-  white-space: nowrap;
-  border-radius: 0.5rem;
-  margin: 0 auto;
-  overflow: hidden;
-  background-color: rgb(200, 200, 200);
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
 }
 
 #queue-status {
   position: relative;
-  width: 6rem;
-  height: 100%;
+  height: 1.75rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #progress-fill {
   position: absolute;
-  height: 100%;
-  background: green;
-  transition: width 0.3s ease;
-}
-
-#progress-fill::after {
-  content: '';
-  position: absolute;
-  top: 0;
+  inset-block: 0;
   left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(255, 255, 255, 0.3)
-  );
-  animation: progress-shine 2s infinite;
-}
-
-@keyframes progress-shine {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(0%);
-  }
+  background: var(--accent-soft);
+  transition: width 0.25s ease;
 }
 
 #progress-text {
+  position: relative;
   z-index: 1;
-  position: absolute;
-  left: 0;
-  right: 0;
-  height: 100%;
-  font-size: 1rem;
-  color: white;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent-text);
+}
+
+#running-status,
+#none-status {
+  padding: 0.36rem 0.65rem;
+  border-radius: var(--radius-pill);
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 600;
 }
 
 #running-status {
-  background-color: green;
-  padding: 0 0.75rem;
-  color: white;
+  background: var(--accent-soft);
+  color: var(--accent-text);
 }
 
 #none-status {
-  padding: 0 0.75rem;
+  background: var(--surface-sunken);
+  color: var(--ink-muted);
 }
 
 #task-info {
-  margin: 0.5rem 0;
-  text-align: center;
-  font-size: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
 }
 
 #models-list {
-  margin: 0.2rem 1rem;
-  background-color: white;
-  border-radius: 0.2rem;
-  font-weight: bold;
-  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.38rem;
 }
 
 .model-item {
-  position: relative;
-  margin: 0 auto;
-  padding: 0.2rem;
-  white-space: nowrap;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 0.34rem 0.68rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.78rem;
+  font-weight: 500;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
 .model-item:hover {
-  background-color: rgb(200, 200, 200);
+  background: var(--surface-hover);
+  border-color: var(--border-strong);
 }
 
 .model-item.selected {
-  width: fit-content;
-  border-radius: 0.2rem;
-  color: white;
-  animation: blink 1s ease-in-out infinite;
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
+  font-weight: 700;
 }
 
-@keyframes blink {
-  0%, 100% {
-    background-color: green;
-  }
-  50% {
-    background-color: rgba(0, 128, 0, 0.5);
-  }
-}
-
-.model-item.selected::after {
-  content: '✔';
-  position: absolute;
-  right: -1rem;
-  color: green;
-  font-size: 1rem;
+.model-link,
+#contact-area {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
 }
 
 .model-link {
-  display: block;
-  margin-top: 0.5rem;
-  text-align: center;
-  font-size: 0.8rem;
-  font-style: italic;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.35rem;
 }
 
-#introduction-area, #notice-area, #warning-area {
-  padding: 0 1rem;
-  font-size: 0.8rem;
-  text-indent: 1em;
-  text-align: justify;
+.model-link a,
+#contact-area a {
+  color: var(--accent-text);
 }
 
-#notice-area {
-  font-weight: bold;
-}
-
+#introduction-area,
+#notice-area,
 #warning-area {
-  color:rgb(255,30,30);
-  font-weight: bold;
-}
-
-.intro-item {
-  position: relative;
-}
-
-.intro-item + .intro-item {
-  margin-top: 0.2rem;
-}
-
-.intro-item::before {
-  content: "•";
-  position: absolute;
-  left: -0.5rem;
-  font-weight: bold;
-}
-
-#contact-area {
-  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
   font-size: 0.8rem;
-  text-align: center;
-  font-style: italic;
 }
 
+/* 左侧面板收起切换按钮 */
 #control-panel-toggle {
   position: absolute;
-  top: 1rem;
-  left: 15rem;
+  top: 50%;
+  left: 19.5rem;
+  transform: translate(-50%, -50%);
+  z-index: 15;
   width: 1.5rem;
-  height: 1.5rem;
-  background-color: rgb(230, 230, 230);
-  border-radius: 0 0.5rem 0.5rem 0;
-  cursor: pointer;
+  height: 3.5rem;
+  padding: 0;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-secondary);
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: left 1s ease-in-out;
-  box-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3);
-  z-index: 3;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: left 0.25s var(--ease-out-expo), background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
 #control-panel-toggle.collapsed {
-  left: 0;
+  left: 0.85rem;
 }
 
 #control-panel-toggle:hover {
-  background-color:rgb(200, 200, 200);
-  width: calc(1.5rem + 3px);
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
+}
+
+#control-panel-toggle:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
 }
 
 #control-panel-toggle svg {
   width: 1rem;
   height: 1rem;
-  color: black;
-  stroke: black;
 }
 
+/* 右侧主聊天区域 */
 #message-panel {
-  z-index: 1;
-  position: absolute;
-  left: 15rem;
-  width: calc(100% - 15rem);
-  height: 100%;
-  background-color: white;
-  display: flex;
-  flex-direction: column;
-  /* 确保flex容器不会被其中的子元素撑开撑开 */
+  grid-column: 2;
   min-width: 0;
   min-height: 0;
-  transition: all 1s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  background: var(--surface-canvas);
+  overflow: hidden;
 }
 
-#message-panel.widened {
-  left: 0;
-  width: 100%;
+#ai-stage-header {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.75rem;
+  padding: 0.65rem 1.1rem;
+  background: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stage_title_group,
+.stage_actions_group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.stage_badge {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--ink-primary);
+}
+
+.stage_model_pill,
+.stage_conn_pill {
+  padding: 0.18rem 0.6rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  color: var(--ink-secondary);
+  font-size: 0.76rem;
+  font-weight: 600;
+}
+
+.stage_conn_pill {
+  background: var(--tone-problem-bg);
+  border-color: var(--tone-problem-border);
+  color: var(--tone-problem-ink);
+}
+
+.stage_conn_pill.connected {
+  background: var(--tone-revised-bg);
+  border-color: var(--tone-revised-border);
+  color: var(--tone-revised-ink);
+}
+
+.stage_theme_btn {
+  padding: 0.24rem 0.7rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.78rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.stage_theme_btn:hover {
+  background: var(--surface-hover);
+  border-color: var(--accent);
+  color: var(--accent-text);
 }
 
 #message-area-wrapper {
-  flex: 1;
   position: relative;
-  display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr;
-  margin: 0.5rem 1rem;
+  flex: 1;
   min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  overflow: hidden;
 }
 
 #message-area-overlay {
-  z-index: 2;
+  z-index: 4;
   grid-row: 1;
   grid-column: 1;
-  border-radius: 0.5rem;
-  overflow: hidden;
   pointer-events: none;
-  position: relative;
-  box-shadow: inset 0 0 2px 2px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 0.85rem;
 }
 
 #generating-indicator {
-  z-index: 1;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  text-align: center;
-  padding: 1rem 0 0.2rem 0;
-  color: white;
-  font-weight: bold;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8), -1px -1px 2px rgba(0, 0, 0, 0.8), 1px -1px 2px rgba(0, 0, 0, 0.8), -1px 1px 2px rgba(0, 0, 0, 0.8);
   pointer-events: auto;
 }
 
-#generating-indicator span {
+#generating-indicator button {
+  padding: 0.38rem 0.9rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent);
+  background: var(--surface-elevated);
+  color: var(--accent-text);
+  font-size: 0.82rem;
+  font-weight: 600;
   cursor: pointer;
-  user-select: none;
+  box-shadow: var(--shadow-md);
 }
 
-#generating-indicator::before {
-  z-index: -1;
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(to top, rgba(100, 100, 100, 1), rgba(100, 100, 100, 0));
-  animation: pulse-opacity 1.5s ease-in-out infinite;
-}
-
-@keyframes pulse-opacity {
-  0%, 100% {
-    opacity: 0.3;
-  }
-  50% {
-    opacity: 0.9;
-  }
+#generating-indicator button:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
 }
 
 #message-area {
   z-index: 1;
   grid-row: 1;
   grid-column: 1;
-  overflow: auto;
-  padding: 0.5rem 1rem;
+  overflow-y: auto;
+  padding: 1.35rem clamp(0.9rem, 3vw, 2.2rem);
   display: flex;
   flex-direction: column;
-  gap: 1rem;
-  background-color: rgb(250, 250, 250);
+  gap: 1.35rem;
+  outline: none;
 }
 
 .message {
   position: relative;
   width: 100%;
   display: flex;
+  flex-direction: column;
 }
 
 .message.user {
-  flex-direction: row-reverse;
+  align-items: flex-end;
+}
+
+.message.assistant {
+  align-items: flex-start;
 }
 
 .message.faded {
-  opacity: 0.5;
-  transition: opacity 0.3s ease;
+  opacity: 0.45;
+  transition: opacity 0.25s ease;
+}
+
+.welcome-block {
+  gap: 0.9rem;
+}
+
+.starter_chips_grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 0.65rem;
+  width: min(100%, 54rem);
+}
+
+.starter_chip_btn {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.8rem 0.95rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  text-align: left;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  transition: transform 0.14s ease, border-color 0.14s ease, box-shadow 0.14s ease;
+}
+
+.starter_chip_btn:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: var(--shadow-sm);
+}
+
+.starter_chip_title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent-text);
+}
+
+.starter_chip_desc {
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: var(--ink-secondary);
 }
 
 .content {
-  max-width: calc(100% - 3rem);
-  padding: 0.5rem 1rem;
-  border-radius: 1rem;
-  font-size: 0.9rem;
-  background-color: white;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: min(100%, 52rem);
+  padding: 0.85rem 1.1rem;
+  border-radius: var(--radius-lg);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  box-shadow: var(--shadow-xs);
   white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.content.user {
+  background: var(--accent-soft);
+  border-color: color-mix(in oklch, var(--accent) 40%, var(--border-subtle));
+  border-bottom-right-radius: 4px;
 }
 
 .content.assistant {
-  border-bottom-left-radius: 0.25rem;
+  border-bottom-left-radius: 4px;
 }
 
-.model-label{
-  position: absolute;
-  font-size: 0.7rem;
-  color: gray;
-  top: -1rem;
-  left: 1rem;
+.model-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+  margin-bottom: 0.28rem;
+  padding-inline: 0.25rem;
 }
 
-/* Markdown 样式 */
+.edit-button,
+.copy-button {
+  margin-top: 0.35rem;
+  padding: 0.22rem 0.45rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-elevated);
+  color: var(--ink-muted);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.edit-button svg,
+.copy-button svg {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
+.edit-button:hover,
+.copy-button:hover {
+  color: var(--accent-text);
+  border-color: var(--accent);
+}
+
+.edit-actions {
+  margin-top: 0.45rem;
+  display: flex;
+  gap: 0.45rem;
+}
+
+.confirm-button,
+.cancel-button {
+  padding: 0.3rem 0.8rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.confirm-button {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+}
+
+.cancel-button {
+  background: var(--surface-elevated);
+  color: var(--ink-secondary);
+}
+
+/* Markdown 内容排版 */
 .markdown {
   white-space: normal !important;
-  word-wrap: break-word;
   overflow-wrap: break-word;
+}
+
+.markdown :deep(p) {
+  margin: 0.5em 0;
+}
+
+.markdown :deep(p:first-child) {
+  margin-top: 0;
+}
+
+.markdown :deep(p:last-child) {
+  margin-bottom: 0;
 }
 
 .markdown :deep(think) {
   display: block;
-  font-size: 0.9em;
-  font-style: italic;
-  padding: 0.2em 0.3em;
-  background-color: rgba(128, 128, 128, 0.2);
-  border-left: 0.3em solid rgba(128, 128, 128, 0.5);
-  border-radius: 0.3em;
+  margin: 0.6em 0;
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--accent);
+  background: var(--surface-sunken);
+  color: var(--ink-muted);
+  font-size: 0.88em;
+  line-height: 1.6;
+}
+
+.markdown :deep(pre) {
+  overflow-x: auto;
+  padding: 0.8rem 0.95rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+}
+
+.markdown :deep(code) {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  padding: 0.1em 0.32em;
+  border-radius: 4px;
+  background: var(--surface-sunken);
+}
+
+.markdown :deep(pre code) {
+  padding: 0;
+  background: transparent;
+}
+
+.markdown :deep(blockquote) {
+  margin: 0.65em 0;
+  padding: 0.35em 0.85em;
+  border-left: 3px solid var(--border-strong);
+  color: var(--ink-secondary);
 }
 
 .markdown :deep(ul),
 .markdown :deep(ol) {
-  padding-left: 0.5em;
-}
-
-.markdown :deep(h1),
-.markdown :deep(h2),
-.markdown :deep(h3),
-.markdown :deep(h4),
-.markdown :deep(h5),
-.markdown :deep(h6) {
-  font-weight: bold;
-}
-
-.markdown :deep(h1) {
-  font-size: 1.5em;
-}
-
-.markdown :deep(h2) {
-  font-size: 1.3em;
-}
-
-.markdown :deep(h3) {
-  font-size: 1.15em;
-}
-
-.markdown :deep(h4) {
-  font-size: 1em;
-}
-
-.markdown :deep(code) {
-  background-color: rgba(128, 128, 128, 0.1);
-  padding: 0.2em;
-  border-radius: 0.3em;
-  font-family: 'Consolas', 'Monaco', 'Courier New', Courier, monospace;
-  font-size: 0.9em;
-  color: darkgreen;
-}
-
-.markdown :deep(pre) {
-  background-color: rgba(128, 128, 128, 0.1);
-  padding: 0.2em 0.8em;
-  border-radius: 0.3em;
-  border: 1px solid black;
-}
-
-.markdown :deep(pre code) {
-  background-color: transparent;
-  padding: 0;
-  border-radius: 0;
-  color: inherit;
-  display: block;
-}
-
-.markdown :deep(blockquote) {
-  padding: 0.5em 1em;
-  border-left: 0.3em solid rgba(128, 128, 128, 0.5);
-  background-color: rgba(128, 128, 128, 0.1);
-  color: rgb(100, 100, 100);
+  padding-left: 1.4em;
+  margin: 0.5em 0;
 }
 
 .markdown :deep(table) {
   border-collapse: collapse;
-  width: 100%;
-}
-
-.markdown :deep(table th),
-.markdown :deep(table td) {
-  border: 1px solid black;
-  padding: 0.3em;
-  text-align: center;
-}
-
-.markdown :deep(table th) {
-  background-color: rgba(128, 128, 128, 0.1);
-  font-weight: bold;
-}
-
-.markdown :deep(table tr:nth-child(even)) {
-  background-color: rgba(128, 128, 128, 0.1);
-}
-
-.markdown :deep(img) {
   max-width: 100%;
-  height: auto;
   display: block;
+  overflow-x: auto;
 }
 
-.markdown :deep(br) {
-  display: block;
-  content: "";
-  margin: 0.5em 0;
+.markdown :deep(th),
+.markdown :deep(td) {
+  padding: 0.4rem 0.65rem;
+  border: 1px solid var(--border-subtle);
 }
 
-.markdown > *:first-child {
-  margin-top: 0;
+/* 状态提示与底部输入区 */
+.task_error_notice,
+.task_stream_notice,
+.edit_pending_hint {
+  margin: 0.35rem 1.1rem 0;
+  padding: 0.45rem 0.8rem;
+  border-radius: var(--radius-md);
+  font-size: 0.82rem;
 }
 
-.markdown > *:last-child {
-  margin-bottom: 0;
+.task_error_notice {
+  background: var(--tone-problem-bg);
+  border: 1px solid var(--tone-problem-border);
+  color: var(--tone-problem-ink);
 }
 
-.content.user {
-  background-color: green;
-  color: white;
-  border-bottom-right-radius: 0.25rem;
-}
-
-.edit-icon {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 1.5rem;
-  height: 1.5rem;
-  color: gray;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.2s ease;
-}
-
-.edit-icon:hover {
-  color: black;
-}
-
-.edit-icon svg {
-  width: 1rem;
-  height: 1rem;
-}
-
-.edit-buttons {
-  position: relative;
-  left: -0.25rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.25rem;
-}
-
-.edit-button {
-  width: 1.25rem;
-  height: 1.25rem;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  transition: all 0.2s ease;
-}
-
-.edit-button svg {
-  width: 0.8rem;
-  height: 0.8rem;
-}
-
-.cancel-button {
-  color: #ff5722;
-  background-color: rgba(255, 87, 34, 0.1);
-}
-
-.cancel-button:hover {
-  background-color: rgba(255, 87, 34, 0.2);
-  transform: scale(1.1);
-}
-
-.confirm-button {
-  color: #4caf50;
-  background-color: rgba(76, 175, 80, 0.1);
-}
-
-.confirm-button:hover {
-  background-color: rgba(76, 175, 80, 0.2);
-  transform: scale(1.1);
+.task_stream_notice,
+.edit_pending_hint {
+  background: var(--tone-scoped-bg);
+  border: 1px solid var(--tone-scoped-border);
+  color: var(--tone-scoped-ink);
 }
 
 #input-area {
-  position: relative;
-  padding: 0.5rem 1rem;
+  flex-shrink: 0;
   display: flex;
-  gap: 0.5rem;
-  align-items: center;
-  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
+  align-items: flex-end;
+  gap: 0.55rem;
+  padding: 0.8rem 1.1rem;
+  background: var(--surface-elevated);
+  border-top: 1px solid var(--border-subtle);
 }
 
 #input-textarea {
   flex: 1;
-  padding: 0.5rem;
-  background-color: rgb(250, 250, 250);
-  font-size: 0.9rem;
+  min-width: 0;
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
+  font-size: 0.94rem;
   line-height: 1.5;
-  font-family: inherit;
-  border-radius: 0.5rem;
-  box-shadow: inset 0 0 2px 2px rgba(0, 0, 0, 0.1);
-  transition: all 0.2s ease;
 }
 
-#input-textarea:disabled {
-  opacity: 0.6;
+#send-stop-button {
+  flex-shrink: 0;
+  height: 2.75rem;
+  padding: 0 1.15rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid transparent;
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#send-stop-button.send {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+#send-stop-button.stop {
+  background: var(--tone-problem-bg);
+  border-color: var(--tone-problem-border);
+  color: var(--tone-problem-ink);
+}
+
+#send-stop-button:disabled,
+#send-stop-button.disabled {
+  opacity: 0.45;
   cursor: not-allowed;
 }
 
 #settings-button {
-  width: 2.5rem;
-  height: 2.5rem;
-  cursor: pointer;
-  border-radius: 0.5rem;
-  transition: all 0.2s ease;
-  box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.3);
-  display: flex;
+  flex-shrink: 0;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-secondary);
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(200, 200, 200);
-  flex-shrink: 0;
-}
-
-#settings-button svg {
-  width: 1.5rem;
-  height: 1.5rem;
+  cursor: pointer;
 }
 
 #settings-button:hover {
-  background-color: gray;
-  transform: translateY(-2px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
+  background: var(--surface-hover);
+  border-color: var(--accent);
+  color: var(--accent-text);
 }
 
-#send-stop-button {
-  width: 4rem;
-  height: 2.5rem;
-  cursor: pointer;
-  font-weight: bold;
-  border-radius: 0.5rem;
-  transition: all 0.2s ease;
-  box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.3);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 0.9rem;
+#settings-button svg {
+  width: 1.25rem;
+  height: 1.25rem;
 }
 
-#send-stop-button.send {
-  background-color: green;
-}
-
-#send-stop-button.stop {
-  background-color: rgb(255,30,30);
-}
-
-#send-stop-button.disabled {
-  background-color: rgb(200, 200, 200);
-  cursor: not-allowed;
-  transform: none;
-  box-shadow: none;
-}
-
-#send-stop-button:hover:not(.disabled) {
-  transform: translateY(-3px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
-}
-
-#send-stop-button.send:hover:not(.disabled) {
-  background-color: darkgreen;
-}
-
-#send-stop-button.stop:hover:not(.disabled) {
-  background-color: darkred;
-}
-
+/* 对话设置弹窗 */
 #settings-modal-overlay {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
+  inset: 0;
+  z-index: 60;
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1000;
-  animation: fadeIn 0.3s ease;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
+  padding: 1rem;
+  background: var(--surface-overlay);
+  backdrop-filter: blur(5px);
 }
 
 #settings-modal {
-  background-color: white;
-  border-radius: 1rem;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  max-width: 500px;
-  width: 90%;
-  max-height: 80vh;
+  width: min(36rem, 100%);
+  max-height: 90dvh;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-elevated);
+  color: var(--ink-primary);
+  box-shadow: var(--shadow-lg);
   overflow: hidden;
-  animation: slideIn 0.3s ease;
-}
-
-@keyframes slideIn {
-  from {
-    transform: translateY(-50px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
+  outline: none;
 }
 
 #settings-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 1.5rem;
-  background-color: rgb(230, 230, 230);
-  box-shadow: 0 -2px 6px black;
+  justify-content: space-between;
+  padding: 0.9rem 1.15rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
-#settings-header h3 {
-  font-size: 1rem;
+#settings-modal-title {
+  margin: 0;
+  font-size: 1.02rem;
+  font-weight: 700;
 }
 
 #close-settings {
-  cursor: pointer;
-  margin-right: 1.25rem;
-  width: 1.5rem;
-  height: 1.5rem;
-  display: flex;
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-secondary);
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
-  transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 #close-settings svg {
@@ -1828,241 +2148,149 @@ onUnmounted(() => {
   height: 1rem;
 }
 
-#close-settings:hover {
-  background-color: white
-}
-
 #settings-content {
-  padding: 0.5rem 1.5rem;
-  max-height: 60vh;
   overflow-y: auto;
+  padding: 1rem 1.15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
 }
 
 .setting-item {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.5rem 0;
-  border-bottom: 1px solid rgb(230, 230, 230);
-}
-
-.setting-item:last-child {
-  border-bottom: none;
-}
-
-.setting-item label {
-  font-size: 0.9rem;
-  font-weight: bold;
-  flex: 1;
-}
-
-.setting-value {
-  font-size: 0.8rem;
-  font-weight: bold;
-  color: green;
-  min-width: 4rem;
-  text-align: center;
-}
-
-.setting-value.readonly-value {
-  color: black;
-}
-.system-prompt-item {
   flex-direction: column;
-}
-
-.system-prompt-item label {
-  margin-bottom: 0.5rem;
-  align-self: flex-start;
+  gap: 0.35rem;
+  font-size: 0.86rem;
 }
 
 .system-prompt-input {
   width: 100%;
-  min-height: 6rem;
-  padding: 0.5rem;
-  background-color: rgb(250, 250, 250);
-  border-radius: 0.5rem;
-  font-size: 0.8rem;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  resize: vertical;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  min-height: 5.5rem;
   box-sizing: border-box;
-  transition: border-color 0.2s ease;
+  padding: 0.6rem 0.75rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-strong);
+  background: var(--surface-canvas);
+  color: var(--ink-primary);
+  font-family: inherit;
+  font-size: 0.86rem;
+  resize: vertical;
+}
+
+.readonly-value {
+  padding: 0.35rem 0.65rem;
+  border-radius: var(--radius-sm);
+  background: var(--surface-sunken);
+  color: var(--ink-secondary);
+  font-family: var(--font-mono);
 }
 
 .slider-container {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  flex: 1;
-  min-width: 0;
+  gap: 0.75rem;
 }
 
 .slider {
   flex: 1;
-  height: 0.5rem;
-  border-radius: 0.25rem;
-  background: rgb(230, 230, 230);
-  outline: none;
-  cursor: pointer;
-  -webkit-appearance: none;
-  appearance: none;
+  accent-color: var(--accent);
 }
 
-.slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 1rem;
-  height: 1rem;
-  border-radius: 50%;
-  background: green;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.slider::-webkit-slider-thumb:hover {
-  background: darkgreen;
-  transform: scale(1.2);
-}
-
-.slider::-moz-range-thumb {
-  width: 1rem;
-  height: 1rem;
-  border-radius: 50%;
-  background: green;
-  cursor: pointer;
-  border: none;
-  transition: all 0.2s ease;
-}
-
-.slider::-moz-range-thumb:hover {
-  background: darkgreen;
-  transform: scale(1.2);
+.setting-value {
+  min-width: 3.2rem;
+  text-align: right;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
 }
 
 .settings-actions {
   display: flex;
   justify-content: flex-end;
-  gap: 0.5rem;
-  padding: 1rem 0 0.5rem 0;
-  border-top: 1px solid rgb(230, 230, 230);
-  margin-top: 0.5rem;
+  gap: 0.55rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border-subtle);
 }
 
 .settings-button {
-  padding: 0.5rem 1.5rem;
-  font-size: 0.9rem;
-  font-weight: bold;
-  border: none;
-  border-radius: 0.5rem;
+  padding: 0.42rem 0.95rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-card);
+  color: var(--ink-primary);
+  font-size: 0.84rem;
+  font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s ease;
-  box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.3);
-}
-
-.settings-button.reset {
-  background-color: rgb(255, 30, 30);
-  color: white;
-}
-
-.settings-button.reset:hover {
-  background-color: darkred;
-  transform: translateY(-2px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
-}
-
-.settings-button.cancel {
-  background-color: rgb(200, 200, 200);
-  color: black;
-}
-
-.settings-button.cancel:hover {
-  background-color: gray;
-  transform: translateY(-2px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
 }
 
 .settings-button.save {
-  background-color: green;
-  color: white;
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
 }
 
-.settings-button.save:hover {
-  background-color: darkgreen;
-  transform: translateY(-2px);
-  box-shadow: 0.4rem 0.4rem 0.3rem rgba(0, 0, 0, 0.3);
-}
-
-/* 竖屏优化 */
-@media (orientation: portrait) {
+@media (max-width: 900px), (orientation: portrait) {
   #ai-container {
     padding: 0;
   }
 
-  #main-container{
-    min-width: 0;
+  #main-container {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(0, 1fr) auto;
     border-radius: 0;
+    border: none;
   }
 
-  #control-panel {
-    top: 70%;
-    width: 100%;
-    height: 30%;
-  }
-
-  #control-panel.collapsed {
-    left: 0;
-    top: 100%;
+  #main-container:has(#control-panel.collapsed) {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(0, 1fr) 0px;
   }
 
   #message-panel {
-    left: 0;
-    width: 100%;
-    height: 70%;
+    grid-column: 1;
+    grid-row: 1;
   }
 
-  #message-panel.widened {
-    height: 100%;
+  #control-panel {
+    grid-column: 1;
+    grid-row: 2;
+    max-height: 36dvh;
+    border-right: none;
+    border-top: 1px solid var(--border-subtle);
+  }
+
+  #control-panel.collapsed {
+    height: 0;
+    max-height: 0;
+    padding: 0;
+    border-top: none;
+    overflow: hidden;
   }
 
   #control-panel-toggle {
-    left: 0.5rem;
     top: auto;
-    bottom: 30%;
+    bottom: 36dvh;
+    left: 0.9rem;
     transform: rotate(-90deg);
-    transition: bottom 1s ease-in-out;
-    box-shadow: none;
+    transition: bottom 0.25s var(--ease-out-expo);
   }
 
   #control-panel-toggle.collapsed {
-    left: 0.5rem;
-    bottom: 0;
-  }
-
-  #control-panel-toggle:hover {
-    width: 1.5rem;
-    height: calc(1.5rem + 3px);
-  }
-
-  #message-area-wrapper {
-    margin: 0;
-  }
-
-  #message-area-overlay {
-    border-radius: 0;
-  }
-
-  #input-textarea {
-    margin-left: 1.5rem;
+    bottom: 0.7rem;
+    left: 0.9rem;
   }
 }
 
-/* 小视窗优化 */
-@media (max-height: 32rem), (max-width: 58rem) {
-  #ai-container {
-    padding: 0;
+@media (prefers-reduced-motion: reduce) {
+  #ai-container,
+  #ai-container :deep(*),
+  #ai-container::before,
+  #ai-container::after,
+  #ai-container :deep(*::before),
+  #ai-container :deep(*::after) {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
   }
+  .model-item.selected { background-color: green; }
 }
-
 </style>

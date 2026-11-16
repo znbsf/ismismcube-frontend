@@ -1,20 +1,31 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, onUnmounted } from 'vue'
 import { buildApiUrl } from '../../config/api.ts'
+import { fetchJsonWithTimeout } from '../../utils/jsonRequest'
 
 const pageView = ref(-1)
+const controller = new AbortController()
+let disposed = false
 
 onMounted(async () => {
   try {
     // 仅读取累计访问数（GET 只读，浏览公告不会新增访问）
-    const response = await fetch(buildApiUrl('/ismismcube/page_view'), { method: 'GET' })
-    if (response.ok) {
-      const data = await response.json()
-      pageView.value = data.page_view
-    }
+    const data = await fetchJsonWithTimeout<{ page_view?: unknown } | null>(buildApiUrl('/ismismcube/page_view'), {
+      method: 'GET', signal: controller.signal, timeoutMs: 15_000,
+    })
+    if (disposed) return
+    const count = data?.page_view
+    pageView.value = typeof count === 'number' && Number.isFinite(count) && Number.isInteger(count) && count >= 0 ? count : -1
   } catch (error) {
+    if (disposed) return
+    pageView.value = -1
     console.error('Failed to load page view:', error)
   }
+})
+
+onUnmounted(() => {
+  disposed = true
+  controller.abort('notice unmounted')
 })
 </script>
 
@@ -55,146 +66,127 @@ onMounted(async () => {
 <style scoped>
 .notice-page {
   box-sizing: border-box;
-  min-height: 100%;
-  min-width: fit-content;
+  min-height: 100dvh;
+  min-width: 0;
   display: flex;
-  padding: 2.5rem 1.25rem;
-  background-color: rgb(200, 200, 200);
+  padding: clamp(1rem, 4vw, 2.5rem);
+  background-color: var(--surface-canvas);
+  color: var(--ink-primary);
 }
 
 .notice-box {
   box-sizing: border-box;
-  width: 34rem;
-  height: 34rem;
+  width: min(36rem, 100%);
+  min-width: 0;
   margin: auto;
-  padding: 1.5rem 3rem;
-  border: solid black 0.0625rem;
-  background: rgb(240, 240, 240);
+  padding: clamp(1.5rem, 5vw, 2.75rem) clamp(1.25rem, 5vw, 3rem);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  background: var(--surface-elevated);
+  box-shadow: var(--shadow-md);
   text-align: center;
-  overflow: hidden;
+  overflow-wrap: anywhere;
 }
 
-/* 内容块内所有元素禁止显示滚动条 */
-.notice-box,
-.notice-box * {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-
-.notice-box *::-webkit-scrollbar {
-  display: none;
-}
-
-/* —— 呼应「4×4×4 立方体」的装饰性点阵（纯 CSS，无外部资源） —— */
 .cube-mark {
   width: 2.5rem;
   height: 2.5rem;
-  /* 补偿标题行盒（line-height 1.3）在文字上方多出的 (1.3-1)/2 × 字号 空间，使上下视觉间距对称 */
-  margin: 0.3rem auto 1.365rem;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10'%3E%3Crect x='3' y='3' width='4' height='4' fill='%23646464'/%3E%3C/svg%3E");
+  margin: 0.25rem auto 1.25rem;
+  background-image: radial-gradient(var(--accent) 1.5px, transparent 1.5px);
   background-size: 0.625rem 0.625rem;
+  opacity: 0.85;
 }
 
 .site-title {
-  font-size: 2.9rem;
+  font-size: clamp(1.85rem, 5vw, 2.75rem);
   font-weight: 700;
-  line-height: 1.3;
-  letter-spacing: 0.08em;
-  color: #000;
+  line-height: 1.25;
+  letter-spacing: 0.06em;
+  color: var(--ink-primary);
 }
 
 .title-en {
   display: block;
-  margin-top: 0.35rem;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 0.55em;
+  margin-top: 0.4rem;
+  font-family: var(--font-serif);
+  font-size: 0.52em;
   font-weight: 400;
   letter-spacing: 0.24em;
-  color: rgb(100, 100, 100);
+  color: var(--ink-muted);
 }
 
 .notice-text {
-  margin-top: 1.3rem;
-  font-size: 1.1rem;
-  line-height: 1.9;
-  color: #000;
+  margin-top: 1.35rem;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--ink-primary);
 }
 
 .divider {
   width: 100%;
   border: none;
-  border-top: solid black 0.0625rem;
-  margin: 1.2rem auto;
+  border-top: 1px solid var(--border-subtle);
+  margin: 1.4rem auto;
 }
 
 .visit-line {
-  margin-top: 0.6rem;
-  font-size: 1.1rem;
-  line-height: 1.9;
-  color: #000;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.85;
+  color: var(--ink-secondary);
 }
 
 .visit-number {
   font-variant-numeric: tabular-nums;
-  font-weight: 600;
-  color: #000;
+  font-weight: 700;
+  color: var(--accent-text);
 }
 
 .more-url {
-  font-style: italic;
-  color: black;
+  color: var(--accent-text);
   text-decoration: underline;
+  text-underline-offset: 3px;
   word-break: break-all;
 }
 
 .github-block {
   margin-top: 1.6rem;
   max-width: 100%;
-  overflow: hidden;
+  min-width: 0;
 }
 
 .github-label {
-  margin-bottom: 0.3rem;
-  font-size: 1.1rem;
-  letter-spacing: 0.04em;
-  color: rgb(100, 100, 100);
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+  color: var(--ink-muted);
 }
 
 .github-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
+  display: inline-block;
   max-width: 100%;
-  white-space: nowrap;
-  font-style: italic;
-  font-size: 1.1rem;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-size: 0.95rem;
   line-height: 1.6;
-  letter-spacing: 0.02em;
-  color: rgb(100, 100, 100);
+  color: var(--accent-text);
   text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .github-link:focus-visible {
-  outline: 0.125rem solid #3366cc;
-  outline-offset: 0.1875rem;
+  outline: none;
+  box-shadow: var(--focus-ring);
+  border-radius: var(--radius-xs);
 }
 
-/* 竖屏：不固定 34×34，无背景无边框，正文直接铺满屏幕 */
 @media (orientation: portrait) {
   .notice-page {
-    min-width: 0;
-    padding: 0;
-    background: none;
+    padding: 1rem;
   }
 
   .notice-box {
     width: 100%;
-    height: auto;
-    min-height: 100vh;
-    margin: 0;
-    padding: 1.5rem 2.5rem;
-    border: none;
-    background: none;
+    padding: 1.5rem 1.25rem;
   }
 }
 </style>

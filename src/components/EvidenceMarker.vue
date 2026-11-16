@@ -68,26 +68,29 @@ const getHighlightToneMeta = (canonicalStatus: string) => {
 <style scoped>
 .evidence_marker_btn {
   font: inherit;
-  font-size: 0.85em;
-  line-height: 1.25;
+  font-size: 0.82em;
+  font-weight: 500;
+  line-height: 1.3;
   display: inline-flex;
   align-items: center;
-  gap: 0.2em;
-  margin-left: 0.35em;
-  padding: 0.04em 0.36em;
+  gap: 0.28em;
+  margin-left: 0.4em;
+  padding: 0.14em 0.5em;
+  border-radius: var(--radius-pill);
   border: 1px solid transparent;
   cursor: pointer;
   vertical-align: baseline;
   white-space: nowrap;
+  transition: transform 0.12s var(--ease-out-expo), background-color 0.15s ease, border-color 0.15s ease;
 }
 
 .evidence_marker_btn:hover {
-  filter: brightness(0.96);
+  filter: brightness(0.95);
 }
 
 .evidence_marker_btn:focus-visible {
-  outline: 2px solid darkcyan;
-  outline-offset: 1px;
+  outline: none;
+  box-shadow: var(--focus-ring);
 }
 
 .evidence_marker_icon {
@@ -96,99 +99,103 @@ const getHighlightToneMeta = (canonicalStatus: string) => {
 
 .evidence_marker_btn.evidence_tone_scoped,
 .evidence_badge.evidence_tone_scoped {
-  color: rgb(75, 75, 75);
-  background-color: rgba(255, 255, 255, 0.55);
-  border: 1px dotted rgb(115, 115, 115);
+  color: var(--ink-secondary);
+  background-color: var(--surface-subtle);
+  border-color: var(--border-default);
 }
 
 .evidence_marker_btn.evidence_tone_caution,
 .evidence_badge.evidence_tone_caution {
-  color: #8a5a00;
-  background-color: #fff4d6;
-  border-color: #c99a3b;
+  color: var(--status-draft-text);
+  background-color: var(--status-draft-soft);
+  border-color: var(--status-draft);
 }
 
 .evidence_marker_btn.evidence_tone_problem,
 .evidence_badge.evidence_tone_problem {
-  color: #a00000;
-  background-color: #ffe5e5;
-  border-color: #cf6b6b;
+  color: var(--status-danger-text);
+  background-color: var(--status-danger-soft);
+  border-color: var(--status-danger);
 }
 
 .evidence_marker_btn.evidence_tone_revised,
 .evidence_badge.evidence_tone_revised {
-  color: #1f4f8f;
-  background-color: #e6effa;
-  border-color: #6b93c9;
+  color: var(--status-info-text);
+  background-color: var(--status-info-soft);
+  border-color: var(--accent-border);
 }
 
 .evidence_detail_box {
-  margin-top: 0.3em;
-  padding: 0.38em 0.5em;
-  background-color: rgb(234, 234, 234);
-  border: 1px solid rgb(145, 145, 145);
+  margin-top: 0.5em;
+  padding: 0.65em 0.8em;
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-subtle);
   border-left-width: 3px;
-  font-size: 0.85em;
-  line-height: 1.4;
-  color: black;
+  border-radius: var(--radius-sm);
+  font-size: 0.86em;
+  line-height: 1.5;
+  color: var(--ink-primary);
   display: flex;
   flex-direction: column;
-  gap: 0.35em;
+  gap: 0.45em;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .evidence_detail_box.evidence_tone_scoped {
-  border-left-color: rgb(115, 115, 115);
+  border-left-color: var(--border-strong);
 }
 
 .evidence_detail_box.evidence_tone_caution {
-  border-left-color: #8a5a00;
+  border-left-color: var(--status-draft);
 }
 
 .evidence_detail_box.evidence_tone_problem {
-  border-left-color: #a00000;
+  border-left-color: var(--status-danger);
 }
 
 .evidence_detail_box.evidence_tone_revised {
-  border-left-color: #1f4f8f;
+  border-left-color: var(--accent);
 }
 
 .evidence_detail_item {
   display: flex;
   flex-direction: column;
-  gap: 0.18em;
+  gap: 0.25em;
 }
 
 .evidence_detail_item + .evidence_detail_item {
-  padding-top: 0.3em;
-  border-top: 1px dashed rgb(165, 165, 165);
+  padding-top: 0.45em;
+  border-top: 1px dashed var(--border-default);
 }
 
 .evidence_detail_badges {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25em;
+  gap: 0.35em;
 }
 
 .evidence_badge {
   display: inline-flex;
   align-items: center;
-  gap: 0.2em;
-  padding: 0.04em 0.32em;
-  font-size: 0.86em;
-  border: 1px solid rgb(95, 95, 95);
-  background-color: rgb(238, 238, 238);
+  gap: 0.25em;
+  padding: 0.1em 0.48em;
+  font-size: 0.84em;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-default);
+  background-color: var(--surface-elevated);
 }
 
 .evidence_badge.res_resolved {
-  background-color: rgb(215, 242, 242);
-  border-color: darkcyan;
+  color: var(--status-verified-text);
+  background-color: var(--status-verified-soft);
+  border-color: var(--status-verified);
 }
 
 .evidence_badge.res_qualified {
-  background-color: rgb(248, 238, 205);
-  border-color: rgb(155, 115, 25);
+  color: var(--status-draft-text);
+  background-color: var(--status-draft-soft);
+  border-color: var(--status-draft);
 }
 
 .evidence_detail_line {

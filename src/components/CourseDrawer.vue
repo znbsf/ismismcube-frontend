@@ -3,16 +3,47 @@
     <div
       ref="panelRef"
       class="course_drawer_panel"
+      :class="mobilePane === 'detail' ? 'mobile_pane_detail' : 'mobile_pane_list'"
       role="dialog"
       aria-modal="true"
-      aria-label="补充课程与 $ 系列资料库"
+      aria-labelledby="course_drawer_title"
+      tabindex="-1"
     >
       <div class="drawer_header">
         <div class="drawer_title_group">
-          <span class="drawer_title">补充课程与 $ 系列精读库</span>
+          <h2 id="course_drawer_title" class="drawer_title">补充课程与 $ 系列精读库</h2>
           <span class="drawer_subtitle">共 {{ courses.length }} 条课程元数据 · {{ withBodyCount }} 篇已摘录正文（均未核原音）</span>
         </div>
-        <button type="button" class="drawer_close_btn" @click="emit('close')">关闭 [ESC]</button>
+        <button ref="closeBtnRef" type="button" class="drawer_close_btn" @click="emit('close')">关闭 [ESC]</button>
+      </div>
+
+      <div
+        v-if="coursesStatus !== 'loading' && coursesStatus !== 'error'"
+        class="mobile_pane_switcher"
+        role="tablist"
+        aria-label="课程面板视图切换"
+      >
+        <button
+          ref="mobileListBtnRef"
+          type="button"
+          class="mobile_pane_btn"
+          :class="{ active: mobilePane === 'list' }"
+          :aria-selected="mobilePane === 'list'"
+          @click="switchMobilePane('list')"
+        >
+          课程列表 ({{ filteredCourses.length }})
+        </button>
+        <button
+          ref="mobileDetailBtnRef"
+          type="button"
+          class="mobile_pane_btn"
+          :class="{ active: mobilePane === 'detail' }"
+          :aria-selected="mobilePane === 'detail'"
+          :disabled="!selectedCourse && !unresolvedCourseId"
+          @click="switchMobilePane('detail')"
+        >
+          {{ unresolvedCourseId ? '目标课程缺失' : '课程详情' }}
+        </button>
       </div>
 
       <div class="drawer_toolbar">
@@ -23,7 +54,7 @@
             type="button"
             class="drawer_tab_btn"
             :class="{ active: activeCategory === tab.key }"
-            @click="activeCategory = tab.key"
+            @click="selectCategory(tab.key)"
           >
             {{ tab.label }} ({{ tab.count }})
           </button>
@@ -35,17 +66,18 @@
             type="text"
             class="drawer_search_input"
             placeholder="筛选课程标题 / BV号 / $编号 / 节点编码 / 摘要内容..."
+            @input="onFilterChanged"
           >
           <button
             v-if="drawerQuery"
             type="button"
             class="drawer_clear_btn"
-            @click="drawerQuery = ''"
+            @click="clearDrawerQuery"
           >
             清空
           </button>
           <label class="drawer_checkbox">
-            <input v-model="onlyWithBody" type="checkbox">
+            <input v-model="onlyWithBody" type="checkbox" @change="onFilterChanged">
             仅显示含正文摘要 ({{ withBodyCount }})
           </label>
         </div>
@@ -54,20 +86,21 @@
       <div v-if="coursesStatus === 'loading'" class="drawer_status_box">正在加载课程目录...</div>
       <div v-else-if="coursesStatus === 'error'" class="drawer_status_box error_box">
         <div>{{ coursesError || '补充课程目录加载失败。' }}</div>
-        <button type="button" class="retry_btn" @click="emit('retryCourses')">重试加载</button>
+        <button type="button" class="retry_btn" @click="retryLoad($event, 'courses')">重试加载</button>
       </div>
       <div v-else class="drawer_body">
-        <div class="drawer_list">
+        <div ref="listRef" class="drawer_list">
           <div v-if="filteredCourses.length === 0" class="drawer_empty">
             没有符合当前筛选条件的课程。
           </div>
           <button
             v-for="course in filteredCourses"
             :key="course.id"
+            :data-course-id="course.id"
             type="button"
             class="course_list_item"
             :class="{ selected: selectedCourse?.id === course.id }"
-            @click="selectedCourseId = course.id"
+            @click="selectCourse(course.id)"
           >
             <div class="course_item_top">
               <span class="course_badge kind_badge">{{ getCourseKindLabel(course.kind) }}</span>
@@ -90,8 +123,14 @@
           </button>
         </div>
 
-        <div class="drawer_detail">
-          <div v-if="!selectedCourse" class="drawer_empty">请从左侧列表选择一节课程查看详情。</div>
+        <div ref="detailRef" class="drawer_detail" tabindex="-1">
+          <div v-if="unresolvedCourseId" class="drawer_empty error_box" role="status">
+            <div>未找到目标课程「{{ unresolvedCourseId }}」，该课程可能尚未收录或编号无效。</div>
+            <div class="missing_course_hint">请从课程列表选择其他课程，或调整筛选条件继续浏览。</div>
+          </div>
+          <div v-else-if="!selectedCourse" class="drawer_empty">
+            {{ filteredCourses.length === 0 ? '没有符合当前筛选条件的课程。' : '请从左侧列表选择一节课程查看详情。' }}
+          </div>
           <template v-else>
             <div class="detail_header">
               <div class="detail_badges">
@@ -107,7 +146,7 @@
                 </span>
               </div>
 
-              <h3 class="detail_title">
+              <h3 ref="detailTitleRef" class="detail_title" tabindex="-1">
                 <HighlightText :text="selectedCourse.title" :query="drawerQuery" />
               </h3>
 
@@ -143,7 +182,7 @@
 
             <div v-if="bodiesStatus === 'error' && hasBodyForCourse(selectedCourse)" class="drawer_status_box error_box">
               <div>{{ bodiesError || '课程摘要正文加载失败。' }}</div>
-              <button type="button" class="retry_btn" @click="emit('retryBodies')">重试加载摘要</button>
+              <button type="button" class="retry_btn" @click="retryLoad($event, 'bodies')">重试加载摘要</button>
             </div>
             <div v-else-if="bodiesStatus === 'loading' && hasBodyForCourse(selectedCourse)" class="drawer_status_box">
               正在加载课程摘要正文...
@@ -236,6 +275,7 @@ const props = defineProps<{
   canJump?: (code: string) => boolean
   initialCourseId?: string
   initialCategory?: CategoryKey
+  fallbackFocusSelector?: string
 }>()
 
 const emit = defineEmits<{
@@ -246,13 +286,24 @@ const emit = defineEmits<{
 }>()
 
 const panelRef = ref<HTMLElement | null>(null)
+const closeBtnRef = ref<HTMLButtonElement | null>(null)
 const searchInputRef = ref<HTMLInputElement | null>(null)
+const mobileListBtnRef = ref<HTMLButtonElement | null>(null)
+const mobileDetailBtnRef = ref<HTMLButtonElement | null>(null)
+const listRef = ref<HTMLElement | null>(null)
+const detailRef = ref<HTMLElement | null>(null)
+const detailTitleRef = ref<HTMLElement | null>(null)
 let previouslyFocusedElement: HTMLElement | null = null
+let openFocusToken = 0
+let paneFocusToken = 0
+let suppressRestoreOnJump = false
 
 const activeCategory = ref<CategoryKey>('dollar_series')
 const onlyWithBody = ref(false)
 const drawerQuery = ref('')
 const selectedCourseId = ref('')
+const unresolvedCourseId = ref('')
+const mobilePane = ref<'list' | 'detail'>('list')
 
 const getBodyForCourse = (course: CourseRecord): CourseBodyRecord | undefined => {
   if (course.body_ref && props.courseBodies[course.body_ref]) {
@@ -349,6 +400,7 @@ const filteredCourses = computed(() => {
 })
 
 const selectedCourse = computed(() => {
+  if (unresolvedCourseId.value) return null
   const byId = filteredCourses.value.find((c) => c.id === selectedCourseId.value)
   return byId ?? filteredCourses.value[0] ?? null
 })
@@ -383,41 +435,248 @@ const getBodyStatusLabel = (status?: string): string => {
 
 const jumpToNode = (code: string) => {
   if (!canJumpToNode(code)) return
+  const token = openFocusToken
+  suppressRestoreOnJump = true
   emit('jumpToNode', code)
+  void nextTick().then(() => {
+    if (props.open && token === openFocusToken) {
+      suppressRestoreOnJump = false
+    }
+  })
+}
+
+const hasCourseById = (id: string): boolean => {
+  return Boolean(id) && props.courses.some((c) => c.id === id)
+}
+
+const isElementVisible = (el: HTMLElement | null): el is HTMLElement => {
+  if (!el || !el.isConnected) return false
+  return el.getClientRects().length > 0 && getComputedStyle(el).visibility !== 'hidden'
+}
+
+const isFocusableCandidate = (el: HTMLElement | null): el is HTMLElement => {
+  if (!isElementVisible(el)) return false
+  return !(el as HTMLButtonElement).disabled
+}
+
+const isMobileDetailActive = (): boolean => {
+  return (
+    mobilePane.value === 'detail' &&
+    isElementVisible(mobileListBtnRef.value) &&
+    !isElementVisible(listRef.value)
+  )
+}
+
+const focusDetailTarget = () => {
+  if (isElementVisible(detailTitleRef.value)) {
+    detailTitleRef.value.focus()
+  } else if (isElementVisible(detailRef.value)) {
+    detailRef.value.focus()
+  }
+}
+
+// Handoff before loading removes the initiating button; no late focus callback.
+const retryLoad = (event: MouseEvent, resource: 'courses' | 'bodies') => {
+  if (!props.open) return
+  if (event.currentTarget === document.activeElement) {
+    if (resource === 'bodies') focusDetailTarget()
+    else if (isElementVisible(panelRef.value)) panelRef.value.focus()
+  }
+  if (resource === 'courses') emit('retryCourses')
+  else emit('retryBodies')
+}
+
+const findCourseButton = (courseId: string): HTMLButtonElement | null => {
+  if (!listRef.value || !courseId) return null
+  const buttons = listRef.value.querySelectorAll<HTMLButtonElement>('.course_list_item')
+  for (const btn of buttons) {
+    if (btn.dataset.courseId === courseId) return btn
+  }
+  return null
+}
+
+const selectCourse = async (id: string) => {
+  const token = ++paneFocusToken
+  unresolvedCourseId.value = ''
+  selectedCourseId.value = id
+  mobilePane.value = 'detail'
+  await nextTick()
+  if (
+    token !== paneFocusToken ||
+    !props.open ||
+    unresolvedCourseId.value ||
+    selectedCourse.value?.id !== id ||
+    !isMobileDetailActive()
+  ) {
+    return
+  }
+  focusDetailTarget()
+}
+
+const ensureSelectionInFiltered = () => {
+  if (
+    filteredCourses.value.length > 0 &&
+    !filteredCourses.value.some((c) => c.id === selectedCourseId.value)
+  ) {
+    selectedCourseId.value = filteredCourses.value[0].id
+  }
+}
+
+const selectCategory = (cat: CategoryKey) => {
+  paneFocusToken++
+  unresolvedCourseId.value = ''
+  activeCategory.value = cat
+  ensureSelectionInFiltered()
+}
+
+const onFilterChanged = () => {
+  if (!unresolvedCourseId.value) return
+  unresolvedCourseId.value = ''
+  ensureSelectionInFiltered()
+}
+
+const clearDrawerQuery = () => {
+  drawerQuery.value = ''
+  onFilterChanged()
+}
+
+const switchMobilePane = async (pane: 'list' | 'detail') => {
+  const prevPane = mobilePane.value
+  const token = ++paneFocusToken
+  mobilePane.value = pane
+  if (pane !== 'list' || prevPane !== 'detail') return
+  const targetCourseId = selectedCourse.value?.id ?? ''
+  if (!targetCourseId) return
+  await nextTick()
+  if (
+    token !== paneFocusToken ||
+    !props.open ||
+    mobilePane.value !== 'list' ||
+    selectedCourse.value?.id !== targetCourseId
+  ) {
+    return
+  }
+  const targetBtn = findCourseButton(targetCourseId)
+  if (isElementVisible(targetBtn)) {
+    targetBtn.focus()
+  }
+}
+
+const restoreFocus = () => {
+  const active = document.activeElement
+  const hasExternalFocus = Boolean(
+    active &&
+    active !== document.body &&
+    active !== document.documentElement &&
+    (active as { isConnected?: boolean }).isConnected &&
+    !panelRef.value?.contains(active as Node)
+  )
+  const prev = previouslyFocusedElement
+  previouslyFocusedElement = null
+  if (hasExternalFocus) return
+  if (isFocusableCandidate(prev)) {
+    prev.focus()
+    return
+  }
+  if (props.fallbackFocusSelector) {
+    const fallback = document.querySelector<HTMLElement>(props.fallbackFocusSelector)
+    if (isFocusableCandidate(fallback)) {
+      fallback.focus()
+    }
+  }
 }
 
 watch(
   () => props.open,
   async (isOpen, wasOpen) => {
+    const token = ++openFocusToken
+    paneFocusToken++
     if (isOpen && !wasOpen) {
-      previouslyFocusedElement = document.activeElement instanceof HTMLElement ? document.activeElement : null
+      suppressRestoreOnJump = false
+      const active = document.activeElement
+      previouslyFocusedElement =
+        active instanceof HTMLElement && active !== document.body ? active : null
       document.documentElement.style.overflow = 'hidden'
       await nextTick()
-      searchInputRef.value?.focus()
+      if (!props.open || token !== openFocusToken) return
+      if (isElementVisible(searchInputRef.value)) {
+        searchInputRef.value.focus()
+      } else if (isElementVisible(closeBtnRef.value)) {
+        closeBtnRef.value.focus()
+      } else {
+        panelRef.value?.focus()
+      }
     } else if (!isOpen && wasOpen) {
+      const skipRestore = suppressRestoreOnJump
+      suppressRestoreOnJump = false
       document.documentElement.style.overflow = ''
-      previouslyFocusedElement?.focus()
-      previouslyFocusedElement = null
+      if (skipRestore) {
+        previouslyFocusedElement = null
+        return
+      }
+      await nextTick()
+      if (!props.open && token === openFocusToken) {
+        restoreFocus()
+      }
     }
-  }
+  },
+  { immediate: true }
 )
 
 watch(
   () => [props.open, props.initialCourseId, props.initialCategory] as const,
   ([isOpen, initId, initCat]) => {
     if (!isOpen) return
+    paneFocusToken++
     if (initId) {
       drawerQuery.value = ''
       activeCategory.value = 'all'
       onlyWithBody.value = false
       selectedCourseId.value = initId
-    } else if (initCat) {
-      activeCategory.value = initCat
+      unresolvedCourseId.value = hasCourseById(initId) ? '' : initId
+      mobilePane.value = 'detail'
+    } else {
+      unresolvedCourseId.value = ''
+      if (initCat) {
+        activeCategory.value = initCat
+      }
+      mobilePane.value = 'list'
+      ensureSelectionInFiltered()
+    }
+  },
+  { immediate: true }
+)
+
+const detailTargetKey = computed(() => {
+  if (!props.open) return ''
+  if (unresolvedCourseId.value) return `unresolved:${unresolvedCourseId.value}`
+  return selectedCourse.value?.id ? `course:${selectedCourse.value.id}` : ''
+})
+
+watch(
+  detailTargetKey,
+  (nextKey, prevKey) => {
+    if (!nextKey || nextKey === prevKey) return
+    if (detailRef.value) {
+      detailRef.value.scrollTop = 0
+    }
+  },
+  { flush: 'post' }
+)
+
+watch(
+  () => props.courses,
+  (list) => {
+    if (!unresolvedCourseId.value) return
+    if (list.some((c) => c.id === unresolvedCourseId.value)) {
+      selectedCourseId.value = unresolvedCourseId.value
+      unresolvedCourseId.value = ''
     }
   }
 )
 
 watch(filteredCourses, (list) => {
+  if (unresolvedCourseId.value) return
   if (list.length > 0 && !list.some((c) => c.id === selectedCourseId.value)) {
     selectedCourseId.value = list[0].id
   }
@@ -425,22 +684,28 @@ watch(filteredCourses, (list) => {
 
 const getFocusableElements = (): HTMLElement[] => {
   if (!panelRef.value) return []
-  const selector = 'a[href], button:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])'
+  const selector =
+    'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])'
   return Array.from(panelRef.value.querySelectorAll<HTMLElement>(selector)).filter(
-    (el) => el.offsetParent !== null
+    (el) => isElementVisible(el)
   )
 }
 
 const handleKeydown = (event: KeyboardEvent) => {
   if (!props.open) return
   if (event.key === 'Escape') {
+    if (event.isComposing) return
     event.preventDefault()
     emit('close')
     return
   }
   if (event.key === 'Tab') {
     const focusables = getFocusableElements()
-    if (focusables.length === 0) return
+    if (focusables.length === 0) {
+      event.preventDefault()
+      panelRef.value?.focus()
+      return
+    }
     const first = focusables[0]
     const last = focusables[focusables.length - 1]
     const active = document.activeElement
@@ -461,6 +726,9 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  openFocusToken++
+  paneFocusToken++
+  suppressRestoreOnJump = false
   document.documentElement.style.overflow = ''
   window.removeEventListener('keydown', handleKeydown)
 })
@@ -471,35 +739,56 @@ onUnmounted(() => {
   position: fixed;
   inset: 0;
   z-index: 200;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: var(--surface-backdrop);
+  backdrop-filter: blur(6px);
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1.5rem;
+  padding: clamp(0.6rem, 2vw, 1.5rem);
   box-sizing: border-box;
 }
 
 .course_drawer_panel {
-  width: min(68rem, 96vw);
-  height: min(46rem, 90vh);
-  background-color: rgb(230, 230, 230);
-  border: 2px solid black;
-  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.6);
+  width: min(72rem, 96vw);
+  max-width: 100%;
+  height: min(48rem, 90vh);
+  height: min(48rem, 90dvh);
+  background-color: var(--surface-canvas);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: black;
-  font-size: 0.85rem;
+  color: var(--ink-primary);
+  font-size: max(0.88rem, 14px);
+  box-sizing: border-box;
+}
+
+.course_drawer_panel .drawer_detail:focus,
+.course_drawer_panel .detail_title:focus {
+  outline: none;
+}
+
+.course_drawer_panel button:focus-visible,
+.course_drawer_panel input:focus-visible,
+.course_drawer_panel a:focus-visible,
+.course_drawer_panel .drawer_detail:focus-visible,
+.course_drawer_panel .detail_title:focus-visible {
+  outline: none;
+  box-shadow: var(--focus-ring);
 }
 
 .drawer_header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  padding: 0.6rem 1rem;
-  background-color: rgb(200, 200, 200);
-  border-bottom: 1px solid black;
+  gap: 0.75rem;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
+  flex-shrink: 0;
+  min-width: 0;
 }
 
 .drawer_title_group {
@@ -507,220 +796,322 @@ onUnmounted(() => {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.6rem;
+  min-width: 0;
+  flex: 1;
 }
 
 .drawer_title {
-  font-size: 1rem;
-  font-weight: bold;
+  margin: 0;
+  font-size: 1.15em;
+  font-weight: 700;
+  min-width: 0;
 }
 
 .drawer_subtitle {
-  font-size: 0.78rem;
-  color: rgb(60, 60, 60);
+  font-size: 0.9em;
+  color: var(--ink-muted);
 }
 
 .drawer_close_btn {
-  padding: 0.2rem 0.6rem;
-  background-color: rgb(220, 220, 220);
-  border: 1px solid black;
+  padding: 0.35em 0.85em;
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.78rem;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--ink-primary);
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 .drawer_close_btn:hover {
-  background-color: gray;
-  color: white;
+  background-color: var(--surface-hover);
+  border-color: var(--border-strong);
+}
+
+.mobile_pane_switcher {
+  display: none;
+}
+
+.mobile_pane_btn {
+  flex: 1;
+  min-width: 0;
+  padding: 0.4em 0.7em;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: var(--ink-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mobile_pane_btn.active {
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
+  font-weight: 600;
+}
+
+.mobile_pane_btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .drawer_toolbar {
-  padding: 0.55rem 1rem;
-  background-color: rgb(218, 218, 218);
-  border-bottom: 1px solid black;
+  padding: 0.7rem 1.2rem;
+  background-color: var(--surface-subtle);
+  border-bottom: 1px solid var(--border-subtle);
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.55rem;
+  flex-shrink: 0;
+  min-width: 0;
 }
 
 .drawer_tabs {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0.45rem;
 }
 
 .drawer_tab_btn {
-  padding: 0.2rem 0.6rem;
-  background-color: rgb(200, 200, 200);
-  border: 1px solid black;
+  padding: 0.3em 0.75em;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.78rem;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--ink-secondary);
+  transition: background-color 0.14s ease, border-color 0.14s ease, color 0.14s ease;
 }
 
 .drawer_tab_btn:hover {
-  background-color: rgb(175, 175, 175);
+  background-color: var(--surface-hover);
+  color: var(--ink-primary);
 }
 
 .drawer_tab_btn.active {
-  background-color: darkcyan;
-  color: white;
-  font-weight: bold;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
+  font-weight: 600;
 }
 
 .drawer_search_row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.55rem;
+  min-width: 0;
 }
 
 .drawer_search_input {
-  flex: 1;
-  min-width: 14rem;
-  height: 1.65rem;
-  padding: 0 0.5rem;
-  border: 1px solid black;
-  background-color: white;
-  font-size: 0.8rem;
+  flex: 1 1 12em;
+  min-width: 0;
+  max-width: 100%;
+  height: 2.2em;
+  padding: 0 0.75em;
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
+  background-color: var(--surface-elevated);
+  color: var(--ink-primary);
+  font-size: 0.92em;
   box-sizing: border-box;
 }
 
 .drawer_clear_btn {
-  height: 1.65rem;
-  padding: 0 0.55rem;
-  background-color: rgb(200, 200, 200);
-  border: 1px solid black;
+  height: 2.2em;
+  padding: 0 0.8em;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.78rem;
+  font-size: 0.88em;
+  color: var(--ink-secondary);
+  flex-shrink: 0;
 }
 
 .drawer_checkbox {
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  font-size: 0.78rem;
+  gap: 0.38em;
+  font-size: 0.88em;
+  color: var(--ink-secondary);
   cursor: pointer;
 }
 
+.drawer_checkbox input {
+  accent-color: var(--accent);
+}
+
 .drawer_status_box {
-  padding: 2rem;
+  padding: 2rem 1rem;
   text-align: center;
+  color: var(--ink-secondary);
 }
 
 .error_box {
-  color: darkred;
+  color: var(--status-danger-text);
+}
+
+.missing_course_hint {
+  margin-top: 0.5em;
+  font-size: 0.92em;
+  color: var(--ink-muted);
 }
 
 .drawer_body {
   flex: 1;
   min-height: 0;
+  min-width: 0;
+  overflow: hidden;
   display: grid;
-  grid-template-columns: 20rem 1fr;
+  grid-template-columns: 21rem 1fr;
 }
 
 .drawer_list {
+  min-width: 0;
+  min-height: 0;
   overflow-y: auto;
-  border-right: 1px solid black;
-  background-color: rgb(212, 212, 212);
+  overflow-x: hidden;
+  border-right: 1px solid var(--border-subtle);
+  background-color: var(--surface-subtle);
 }
 
 .course_list_item {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 92px;
   width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
   text-align: left;
-  padding: 0.55rem 0.75rem;
+  padding: 0.75rem 0.9rem;
   border: none;
-  border-bottom: 1px solid rgb(165, 165, 165);
+  border-bottom: 1px solid var(--border-subtle);
+  border-left: 3px solid transparent;
   background-color: transparent;
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 0.28rem;
+  gap: 0.35rem;
+  transition: background-color 0.14s ease;
 }
 
 .course_list_item:hover {
-  background-color: rgb(195, 195, 195);
+  background-color: var(--surface-hover);
 }
 
 .course_list_item.selected {
-  background-color: rgb(176, 214, 214);
-  border-left: 4px solid darkcyan;
+  background-color: var(--accent-soft);
+  border-left-color: var(--accent);
 }
 
 .course_item_top {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem;
+  gap: 0.3rem;
 }
 
 .course_badge {
   display: inline-block;
-  padding: 0.05rem 0.35rem;
-  font-size: 0.72rem;
-  border: 1px solid rgb(80, 80, 80);
-  background-color: rgb(240, 240, 240);
+  padding: 0.08em 0.48em;
+  font-size: 0.8em;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background-color: var(--surface-elevated);
+  color: var(--ink-secondary);
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 .series_badge {
-  background-color: rgb(252, 232, 180);
-  border-color: rgb(160, 110, 0);
-  font-weight: bold;
+  background-color: var(--status-draft-soft);
+  border-color: var(--status-draft);
+  color: var(--status-draft-text);
+  font-weight: 700;
 }
 
 .node_badge {
-  background-color: rgb(215, 242, 242);
-  border-color: darkcyan;
+  background-color: var(--accent-soft);
+  border-color: var(--accent-border);
+  color: var(--accent-text);
 }
 
 .body_badge {
-  background-color: rgb(220, 240, 218);
-  border-color: rgb(46, 112, 46);
+  background-color: var(--status-verified-soft);
+  border-color: var(--status-verified);
+  color: var(--status-verified-text);
 }
 
 .status_badge {
-  background-color: rgb(238, 238, 238);
+  background-color: var(--surface-subtle);
 }
 
 .video_badge {
-  background-color: rgb(226, 235, 248);
+  background-color: var(--status-info-soft);
+  border-color: var(--accent-border);
+  color: var(--status-info-text);
 }
 
 .reading_badge {
-  background-color: rgb(235, 226, 246);
+  background-color: var(--axis-teleology-soft);
+  border-color: var(--axis-teleology);
+  color: var(--axis-teleology-text);
 }
 
 .course_item_title {
-  font-size: 0.8rem;
-  line-height: 1.35;
-  color: black;
+  font-size: 0.94em;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--ink-primary);
+  overflow-wrap: anywhere;
 }
 
 .course_item_meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  font-size: 0.72rem;
-  color: rgb(75, 75, 75);
+  gap: 0.55rem;
+  font-size: 0.82em;
+  color: var(--ink-muted);
+  overflow-wrap: anywhere;
 }
 
 .drawer_detail {
+  min-width: 0;
+  min-height: 0;
   overflow-y: auto;
-  padding: 0.9rem 1.1rem;
-  background-color: rgb(225, 225, 225);
+  overflow-x: hidden;
+  padding: 1.1rem 1.3rem;
+  background-color: var(--surface-canvas);
   display: flex;
   flex-direction: column;
-  gap: 0.8rem;
+  gap: 0.95rem;
 }
 
 .drawer_empty {
-  padding: 1.5rem;
+  padding: 2rem 1rem;
   text-align: center;
-  color: rgb(80, 80, 80);
+  color: var(--ink-muted);
+  overflow-wrap: anywhere;
+}
+
+.drawer_empty.error_box {
+  color: var(--status-danger-text);
 }
 
 .detail_header {
-  padding-bottom: 0.65rem;
-  border-bottom: 1px solid rgb(150, 150, 150);
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border-subtle);
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.55rem;
+  min-width: 0;
 }
 
 .detail_badges {
@@ -730,94 +1121,120 @@ onUnmounted(() => {
 }
 
 .detail_title {
-  font-size: 1rem;
-  line-height: 1.4;
+  margin: 0;
+  font-size: 1.15em;
+  font-weight: 700;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
 }
 
 .detail_links_row {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.9rem;
-  font-size: 0.78rem;
+  gap: 0.65rem 0.9rem;
+  font-size: 0.9em;
+  color: var(--accent-text);
+  overflow-wrap: anywhere;
+}
+
+.detail_links_row a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .detail_codes_row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.4rem;
 }
 
 .codes_label {
-  font-size: 0.78rem;
-  font-weight: bold;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: var(--ink-secondary);
 }
 
 .node_jump_btn {
-  padding: 0.1rem 0.45rem;
-  background-color: rgb(200, 230, 230);
-  border: 1px solid darkcyan;
+  padding: 0.2em 0.65em;
+  border-radius: var(--radius-pill);
+  background-color: var(--accent-soft);
+  border: 1px solid var(--accent-border);
   cursor: pointer;
-  font-size: 0.76rem;
+  font-size: 0.86em;
+  font-weight: 500;
+  color: var(--accent-text);
 }
 
 .node_jump_btn:hover {
-  background-color: darkcyan;
-  color: white;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .node_code_tag {
   display: inline-block;
-  padding: 0.1rem 0.45rem;
-  background-color: rgb(235, 235, 235);
-  border: 1px solid rgb(135, 135, 135);
-  font-size: 0.76rem;
-  color: rgb(65, 65, 65);
+  padding: 0.2em 0.6em;
+  border-radius: var(--radius-pill);
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-subtle);
+  font-size: 0.86em;
+  color: var(--ink-secondary);
 }
 
 .retry_btn {
   margin-top: 0.6rem;
-  padding: 0.25rem 0.75rem;
-  background-color: rgb(215, 215, 215);
-  border: 1px solid black;
+  padding: 0.35em 0.9em;
+  border-radius: var(--radius-pill);
+  background-color: var(--accent-soft);
+  border: 1px solid var(--accent-border);
   cursor: pointer;
-  font-size: 0.8rem;
+  font-size: 0.92em;
+  font-weight: 500;
+  color: var(--accent-text);
 }
 
 .retry_btn:hover {
-  background-color: darkcyan;
-  color: white;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .info_notice_banner {
-  padding: 0.45rem 0.65rem;
-  background-color: rgb(246, 240, 215);
-  border: 1px solid rgb(150, 120, 40);
-  font-size: 0.78rem;
-  line-height: 1.45;
+  padding: 0.65em 0.85em;
+  border-radius: var(--radius-md);
+  background-color: var(--status-draft-soft);
+  border: 1px solid var(--status-draft);
+  color: var(--status-draft-text);
+  font-size: 0.9em;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .detail_sections {
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
+  gap: 1rem;
+  min-width: 0;
 }
 
 .detail_section h4 {
-  font-size: 0.86rem;
-  margin-bottom: 0.35rem;
-  padding-bottom: 0.15rem;
-  border-bottom: 1px dashed rgb(130, 130, 130);
+  font-size: 1em;
+  font-weight: 700;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.22rem;
+  border-bottom: 1px dashed var(--border-subtle);
 }
 
 .summary_list,
 .notes_list,
 .readings_list {
   margin: 0;
-  padding-left: 1.25rem;
+  padding-left: 1.25em;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.55rem;
+  overflow-wrap: anywhere;
 }
 
 .readings_list {
@@ -826,25 +1243,30 @@ onUnmounted(() => {
 }
 
 .summary_item {
-  line-height: 1.5;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 
 .summary_meta {
-  margin-top: 0.18rem;
+  margin-top: 0.25em;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.7rem;
-  font-size: 0.73rem;
-  color: rgb(70, 70, 70);
+  gap: 0.4rem 0.7rem;
+  font-size: 0.84em;
+  color: var(--ink-muted);
+  overflow-wrap: anywhere;
 }
 
 .reading_card {
-  padding: 0.45rem 0.6rem;
-  background-color: rgb(236, 236, 236);
-  border: 1px solid rgb(155, 155, 155);
+  padding: 0.65em 0.8em;
+  border-radius: var(--radius-md);
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-xs);
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.3rem;
+  min-width: 0;
 }
 
 .reading_top {
@@ -855,36 +1277,99 @@ onUnmounted(() => {
 }
 
 .reading_source {
-  font-weight: bold;
-  font-size: 0.78rem;
+  font-weight: 600;
+  font-size: 0.92em;
+  overflow-wrap: anywhere;
 }
 
 .reading_locator,
 .reading_scope {
-  font-size: 0.74rem;
-  color: rgb(70, 70, 70);
+  font-size: 0.86em;
+  color: var(--ink-secondary);
+  overflow-wrap: anywhere;
 }
 
 .reading_reason {
-  line-height: 1.45;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+  color: var(--ink-secondary);
 }
 
 .detail_no_body {
-  padding: 0.9rem;
-  background-color: rgb(236, 236, 236);
-  border: 1px solid rgb(160, 160, 160);
-  line-height: 1.5;
+  padding: 1rem;
+  border-radius: var(--radius-md);
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  color: var(--ink-secondary);
+  line-height: 1.55;
+  overflow-wrap: anywhere;
 }
 
 @media (max-width: 820px) {
-  .drawer_body {
-    grid-template-columns: 1fr;
-    grid-template-rows: 13rem 1fr;
+  .course_drawer_backdrop {
+    padding: 0;
   }
 
-  .drawer_list {
+  .course_drawer_panel {
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    max-height: 100dvh;
+    border-radius: 0;
+    border: none;
+  }
+
+  .drawer_header {
+    padding: 10px 12px;
+    gap: 8px;
+  }
+
+  .drawer_subtitle {
+    display: none;
+  }
+
+  .mobile_pane_switcher {
+    display: flex;
+    gap: 8px;
+    padding: 8px 12px;
+    background-color: var(--surface-subtle);
+    border-bottom: 1px solid var(--border-subtle);
+    flex-shrink: 0;
+  }
+
+  .drawer_toolbar {
+    padding: 8px 12px;
+    gap: 8px;
+  }
+
+  .drawer_search_input {
+    flex-basis: 100%;
+  }
+
+  .drawer_body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .course_drawer_panel.mobile_pane_list .drawer_detail {
+    display: none;
+  }
+
+  .course_drawer_panel.mobile_pane_list .drawer_list {
+    flex: 1;
+    min-height: 0;
     border-right: none;
-    border-bottom: 1px solid black;
+  }
+
+  .course_drawer_panel.mobile_pane_detail .drawer_toolbar,
+  .course_drawer_panel.mobile_pane_detail .drawer_list {
+    display: none;
+  }
+
+  .course_drawer_panel.mobile_pane_detail .drawer_detail {
+    flex: 1;
+    min-height: 0;
+    padding: 12px;
   }
 }
 </style>

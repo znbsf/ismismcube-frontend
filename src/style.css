@@ -1,52 +1,107 @@
-* {
-  margin: 0;
-  padding: 0;
+@import "./styles/tokens.css";
+
+@layer reset {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+  }
 }
 
-:root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+@layer base {
+  html,
+  body {
+    width: 100%;
+    min-height: 100%;
+    font-family: var(--font-sans);
+    background-color: var(--surface-canvas);
+    color: var(--ink-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-default) transparent;
+  }
 
-  /* 禁止自动颜色模式切换，强制使用浅色主题 */
-  color-scheme: light;
-  background-color: #ffffff;
+  #app {
+    width: 100%;
+    min-height: 100dvh;
+  }
 
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    font: inherit;
+    color: inherit;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible,
+  summary:focus-visible,
+  [tabindex]:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+  }
+
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--border-default);
+    border-radius: var(--radius-pill);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: var(--border-strong);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+      animation-duration: 220ms;
+      animation-timing-function: var(--ease-out-expo);
+    }
+  }
 }
 
-html, body {
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden;
-}
+@layer components {
+  .prose_academic a {
+    color: var(--accent-text);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
 
-#app {
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-}
-
-a {
-  font-style: italic;
-  color: black;
-}
-
-a:hover {
-  color: #3366cc;
-}
-
-* {
-  scrollbar-color: rgba(128, 128, 128, 0.5) transparent;
-}
-
-*::-webkit-scrollbar {
-  background: transparent;
-}
-
-*::-webkit-scrollbar-thumb {
-  background: rgba(128, 128, 128, 0.5);
-}
-
-*::-webkit-scrollbar-thumb:hover {
-  background: rgba(128, 128, 128, 0.7);
+  .sr_only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
 }

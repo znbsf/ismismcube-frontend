@@ -38,7 +38,11 @@
       <div
         v-for="row in axisDetailRows"
         :key="row.index"
+        :ref="(el) => setRowCardRef(row.index, el)"
         class="axis_detail_card"
+        role="region"
+        :aria-label="`${code} ${AXIS_LABELS[row.index] ?? `第${row.index + 1}轴`}说明`"
+        tabindex="-1"
         :style="{ borderLeftColor: row.color }"
       >
         <template v-if="row.fallback">
@@ -47,7 +51,7 @@
             <button
               type="button"
               class="self_test_reveal_btn"
-              @click="revealRow(row.index)"
+              @click="revealRow(row.index, $event)"
             >
               揭晓
             </button>
@@ -69,7 +73,7 @@
             <button
               type="button"
               class="self_test_reveal_btn"
-              @click="revealRow(row.index)"
+              @click="revealRow(row.index, $event)"
             >
               揭晓
             </button>
@@ -123,7 +127,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
 import type { IsmNodeEntry, NodeReviewHighlight } from '../types/research'
 import { getFieldEvidence } from '../utils/evidence'
 import { parseAxisEntry } from '../utils/ismFormat'
@@ -152,38 +156,68 @@ const emit = defineEmits<{
 }>()
 
 const revealedRows = ref<Record<number, boolean>>({})
+const rowCardRefs = new Map<number, HTMLElement>()
+let revealFocusToken = 0
+let disposed = false
+const setRowCardRef = (index: number, el: unknown) => {
+  if (el && typeof el === 'object' && 'focus' in el) rowCardRefs.set(index, el as HTMLElement)
+  else rowCardRefs.delete(index)
+}
 
 watch(
   () => props.code,
   () => {
+    revealFocusToken++
     revealedRows.value = {}
-  }
+  },
+  { flush: 'sync' }
 )
 
 watch(
   () => props.selfTest,
   (enabled) => {
+    revealFocusToken++
     if (!enabled) {
       revealedRows.value = {}
     }
-  }
+  },
+  { flush: 'sync' }
 )
 
 const isRowHidden = (index: number): boolean => {
   return props.selfTest && !revealedRows.value[index]
 }
 
-const revealRow = (index: number) => {
+const revealRow = async (index: number, event: MouseEvent) => {
+  if (!props.selfTest || disposed) return
+  const token = ++revealFocusToken
+  const code = props.code
+  const source = event?.currentTarget
   revealedRows.value = { ...revealedRows.value, [index]: true }
+  if (!(source instanceof HTMLElement)) return
+  await nextTick()
+  if (disposed || token !== revealFocusToken || code !== props.code || !props.selfTest || !revealedRows.value[index]) return
+  const target = rowCardRefs.get(index)
+  if (!target?.isConnected || target.getClientRects().length === 0 || getComputedStyle(target).visibility === 'hidden') return
+  if (document.querySelector?.('[aria-modal="true"]')) return
+  if (document.activeElement !== source && document.activeElement !== document.body) return
+  target.focus()
 }
 
 const revealAllRows = () => {
+  revealFocusToken++
   const next: Record<number, boolean> = {}
   for (const row of axisDetailRows.value) {
     next[row.index] = true
   }
   revealedRows.value = next
 }
+
+onBeforeUnmount(() => {
+  disposed = true
+  revealFocusToken++
+  rowCardRefs.clear()
+})
 
 const allRowsRevealed = computed(() => {
   return axisDetailRows.value.length > 0 && axisDetailRows.value.every((row) => Boolean(revealedRows.value[row.index]))
@@ -276,23 +310,28 @@ const axisDetailRows = computed(() => {
   container-type: inline-size;
   display: flex;
   flex-direction: column;
-  gap: 0.65em;
+  gap: 0.8em;
   width: 100%;
   box-sizing: border-box;
-  color: black;
+  color: var(--ink-primary);
 }
 
 .axis_anatomy_root button:focus-visible,
 .axis_anatomy_root summary:focus-visible {
-  outline: 2px solid darkcyan;
-  outline-offset: 1px;
+  outline: none;
+  box-shadow: var(--focus-ring);
+}
+
+.axis_detail_card:focus {
+  outline: none;
+  box-shadow: var(--focus-ring);
 }
 
 /* A. 格位条 */
 .position_strip {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.25em;
+  gap: 0.45em;
   width: 100%;
   box-sizing: border-box;
 }
@@ -303,40 +342,48 @@ const axisDetailRows = computed(() => {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 0.18em;
-  padding: 0.2em 0.15em;
-  border: 1px solid rgb(120, 120, 120);
-  background-color: rgb(224, 224, 224);
+  gap: 0.3em;
+  padding: 0.4em 0.3em;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  background-color: var(--surface-elevated);
+  box-shadow: var(--shadow-xs);
   font-size: 0.85em;
+  font-weight: 500;
   box-sizing: border-box;
 }
 
 .strip_cell.is_empty {
   border-style: dashed;
-  border-color: rgb(140, 140, 140);
-  background-color: rgb(212, 212, 212);
+  border-color: var(--border-default);
+  background-color: var(--surface-subtle);
+  opacity: 0.72;
 }
 
 .strip_label {
   white-space: nowrap;
+  color: var(--ink-secondary);
 }
 
 .strip_digit_box {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 1.15em;
-  height: 1.15em;
+  width: 1.4em;
+  height: 1.4em;
   line-height: 1;
-  border: 1px solid black;
-  background-color: rgb(236, 236, 236);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  border-radius: var(--radius-xs);
+  border: 1.5px solid var(--border-strong);
+  background-color: var(--surface-subtle);
   flex-shrink: 0;
 }
 
 .strip_digit_box.is_empty {
   border-style: dashed;
-  border-color: rgb(110, 110, 110);
-  color: rgb(110, 110, 110);
+  border-color: var(--border-default);
+  color: var(--ink-muted);
   background-color: transparent;
 }
 
@@ -344,17 +391,19 @@ const axisDetailRows = computed(() => {
 .axis_details_list {
   display: flex;
   flex-direction: column;
-  gap: 0.42em;
+  gap: 0.6em;
 }
 
 .axis_detail_card {
-  padding: 0.38em 0.55em;
-  background-color: rgb(220, 220, 220);
-  border: 1px solid rgb(140, 140, 140);
-  border-left-width: 0.24em;
+  padding: 0.65em 0.85em;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-left-width: 4px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-xs);
   display: flex;
   flex-direction: column;
-  gap: 0.2em;
+  gap: 0.35em;
   min-width: 0;
   box-sizing: border-box;
 }
@@ -362,47 +411,57 @@ const axisDetailRows = computed(() => {
 .axis_header_line {
   display: flex;
   align-items: center;
-  gap: 0.2em;
+  gap: 0.3em;
+  font-weight: 600;
 }
 
 .axis_digit_box {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  width: 1.15em;
-  height: 1.15em;
-  line-height: 1.15em;
-  margin: 0 0.15em;
-  border: solid black 0.1em;
+  width: 1.35em;
+  height: 1.35em;
+  line-height: 1;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  margin: 0 0.2em 0 0;
+  border-radius: var(--radius-xs);
+  border: 1.5px solid var(--border-strong);
+  background: var(--surface-subtle);
   flex-shrink: 0;
 }
 
 .axis_main_text {
   overflow-wrap: anywhere;
   word-break: break-word;
+  line-height: 1.65;
 }
 
 .axis_note_text {
-  font-size: 0.85em;
-  color: rgb(72, 72, 72);
+  font-size: 0.88em;
+  color: var(--ink-secondary);
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .axis_origin_line {
-  font-size: 0.9em;
-  color: rgb(75, 75, 75);
+  font-size: 0.88em;
+  color: var(--ink-muted);
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.2em;
+  gap: 0.35em;
 }
 
 .origin_new_badge {
   display: inline-block;
-  padding: 0.04em 0.35em;
-  border: 1px solid rgb(65, 110, 65);
-  background-color: rgb(216, 236, 216);
-  color: rgb(24, 72, 24);
+  padding: 0.08em 0.5em;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--status-verified);
+  background-color: var(--status-verified-soft);
+  color: var(--status-verified-text);
+  font-weight: 500;
 }
 
 .origin_link_btn {
@@ -410,20 +469,21 @@ const axisDetailRows = computed(() => {
   padding: 0;
   border: none;
   background: none;
-  color: rgb(16, 86, 136);
+  color: var(--accent-text);
   text-decoration: underline;
+  text-underline-offset: 2px;
   cursor: pointer;
   text-align: left;
   word-break: break-word;
 }
 
 .origin_link_btn:hover {
-  color: darkcyan;
+  color: var(--accent-hover);
 }
 
 .origin_diff_details {
-  font-size: 0.85em;
-  color: rgb(65, 65, 65);
+  font-size: 0.86em;
+  color: var(--ink-secondary);
 }
 
 .origin_diff_summary {
@@ -433,20 +493,21 @@ const axisDetailRows = computed(() => {
 }
 
 .origin_diff_body {
-  margin-top: 0.2em;
-  padding: 0.28em 0.45em;
-  background-color: rgb(232, 232, 232);
-  border-left: 2px solid rgb(130, 130, 130);
+  margin-top: 0.3em;
+  padding: 0.45em 0.65em;
+  background-color: var(--surface-subtle);
+  border-left: 3px solid var(--border-default);
+  border-radius: var(--radius-xs);
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .axis_evidence_chip {
-  margin-top: 0.12em;
-  padding-left: 0.5em;
-  border-left: 2px solid rgb(120, 120, 120);
-  font-size: 0.85em;
-  color: rgb(55, 55, 55);
+  margin-top: 0.15em;
+  padding-left: 0.6em;
+  border-left: 2px solid var(--border-default);
+  font-size: 0.86em;
+  color: var(--ink-secondary);
   overflow-wrap: anywhere;
   word-break: break-word;
 }
@@ -460,18 +521,22 @@ const axisDetailRows = computed(() => {
 .self_test_reveal_btn {
   font: inherit;
   font-size: 0.86em;
-  padding: 0.16em 0.6em;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid black;
-  color: black;
+  font-weight: 500;
+  padding: 0.3em 0.8em;
+  border-radius: var(--radius-pill);
+  background-color: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  color: var(--accent-text);
   cursor: pointer;
   flex-shrink: 0;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
 .self_test_reveal_all_btn:hover:not(:disabled),
 .self_test_reveal_btn:hover {
-  background-color: darkcyan;
-  color: white;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .self_test_reveal_all_btn:disabled {
@@ -483,16 +548,17 @@ const axisDetailRows = computed(() => {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 0.5em;
-  padding: 0.35em 0.5em;
-  background-color: rgb(232, 232, 232);
-  border: 1px dashed rgb(120, 120, 120);
+  gap: 0.6em;
+  padding: 0.55em 0.7em;
+  background-color: var(--surface-subtle);
+  border: 1px dashed var(--border-default);
+  border-radius: var(--radius-sm);
   flex-wrap: wrap;
 }
 
 .self_test_prompt_text {
   font-size: 0.9em;
-  color: rgb(50, 50, 50);
+  color: var(--ink-secondary);
   flex: 1;
   min-width: 10em;
 }

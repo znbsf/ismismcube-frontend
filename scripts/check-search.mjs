@@ -426,6 +426,8 @@ async function runTests() {
       type: 'entry-button',
       props: { class: 'entry' },
       isConnected: true,
+      disabled: false,
+      getClientRects: () => [{ width: 100, height: 24 }],
       focusedCount: 0,
       focus() {
         this.focusedCount += 1

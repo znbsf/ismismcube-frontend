@@ -1,0 +1,98 @@
+@layer tokens, reset, base, components, utilities;
+
+@layer tokens {
+  :root {
+    color-scheme: light dark;
+
+    /* 字体家族：兼顾学术阅读质感与现代界面清晰度 */
+    --font-sans: "PingFang SC", "HarmonyOS Sans SC", "Hiragino Sans GB", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "STSong", Georgia, serif;
+    --font-mono: "JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+    /* 核心语义色板：基于 oklch + light-dark() 的纸墨浅色与护眼深灰深色 */
+    --surface-canvas: light-dark(oklch(0.972 0.007 82), oklch(0.155 0.014 255));
+    --surface-elevated: light-dark(oklch(0.996 0.003 82), oklch(0.202 0.016 255));
+    --surface-subtle: light-dark(oklch(0.946 0.009 82), oklch(0.238 0.017 255));
+    --surface-sunken: light-dark(oklch(0.922 0.011 82), oklch(0.128 0.012 255));
+    --surface-glass: light-dark(oklch(0.996 0.003 82 / 0.84), oklch(0.185 0.016 255 / 0.86));
+    --surface-hover: light-dark(oklch(0.935 0.01 82), oklch(0.275 0.018 255));
+    --surface-backdrop: light-dark(oklch(0.22 0.02 255 / 0.36), oklch(0.05 0.01 255 / 0.62));
+
+    --ink-primary: light-dark(oklch(0.22 0.018 255), oklch(0.935 0.008 82));
+    --ink-secondary: light-dark(oklch(0.42 0.018 255), oklch(0.76 0.012 250));
+    --ink-muted: light-dark(oklch(0.56 0.015 255), oklch(0.60 0.014 250));
+    --ink-inverse: light-dark(oklch(0.985 0.004 82), oklch(0.16 0.015 255));
+
+    --border-subtle: light-dark(oklch(0.885 0.01 82), oklch(0.29 0.016 255));
+    --border-default: light-dark(oklch(0.815 0.012 82), oklch(0.35 0.018 255));
+    --border-strong: light-dark(oklch(0.64 0.02 255), oklch(0.50 0.02 250));
+
+    /* 主交互强调色（学院靛蓝） */
+    --accent: light-dark(oklch(0.49 0.145 256), oklch(0.69 0.14 250));
+    --accent-hover: light-dark(oklch(0.42 0.155 256), oklch(0.75 0.14 250));
+    --accent-soft: light-dark(oklch(0.945 0.028 256), oklch(0.27 0.045 252));
+    --accent-border: light-dark(oklch(0.78 0.075 256), oklch(0.46 0.085 250));
+    --accent-text: light-dark(oklch(0.38 0.14 256), oklch(0.84 0.10 250));
+
+    /* 哲学四轴色系（场域 / 本体 / 认识 / 目的） */
+    --axis-field: light-dark(oklch(0.54 0.12 182), oklch(0.68 0.115 182));
+    --axis-field-soft: light-dark(oklch(0.948 0.032 182), oklch(0.25 0.045 182));
+    --axis-field-text: light-dark(oklch(0.38 0.115 182), oklch(0.82 0.105 182));
+
+    --axis-ontology: light-dark(oklch(0.50 0.145 258), oklch(0.68 0.14 256));
+    --axis-ontology-soft: light-dark(oklch(0.948 0.03 258), oklch(0.26 0.05 256));
+    --axis-ontology-text: light-dark(oklch(0.38 0.135 258), oklch(0.83 0.11 256));
+
+    --axis-epistemology: light-dark(oklch(0.61 0.14 68), oklch(0.74 0.135 72));
+    --axis-epistemology-soft: light-dark(oklch(0.955 0.04 75), oklch(0.27 0.05 70));
+    --axis-epistemology-text: light-dark(oklch(0.43 0.13 62), oklch(0.86 0.11 75));
+
+    --axis-teleology: light-dark(oklch(0.53 0.15 332), oklch(0.70 0.145 332));
+    --axis-teleology-soft: light-dark(oklch(0.952 0.032 332), oklch(0.26 0.05 332));
+    --axis-teleology-text: light-dark(oklch(0.40 0.14 332), oklch(0.85 0.11 332));
+
+    /* 状态与学术核验色 */
+    --status-verified: light-dark(oklch(0.53 0.135 152), oklch(0.71 0.135 152));
+    --status-verified-soft: light-dark(oklch(0.945 0.036 152), oklch(0.25 0.045 152));
+    --status-verified-text: light-dark(oklch(0.36 0.125 152), oklch(0.84 0.11 152));
+
+    --status-draft: light-dark(oklch(0.64 0.145 78), oklch(0.78 0.14 82));
+    --status-draft-soft: light-dark(oklch(0.958 0.045 84), oklch(0.27 0.052 80));
+    --status-draft-text: light-dark(oklch(0.43 0.13 68), oklch(0.87 0.11 82));
+
+    --status-danger: light-dark(oklch(0.55 0.19 25), oklch(0.69 0.175 24));
+    --status-danger-soft: light-dark(oklch(0.952 0.036 25), oklch(0.26 0.055 24));
+    --status-danger-text: light-dark(oklch(0.43 0.18 25), oklch(0.86 0.13 24));
+
+    --status-info-soft: light-dark(oklch(0.95 0.024 240), oklch(0.25 0.038 240));
+    --status-info-text: light-dark(oklch(0.39 0.105 242), oklch(0.83 0.09 240));
+
+    /* 圆角、阴影与层级 */
+    --radius-xs: 6px;
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --radius-pill: 9999px;
+
+    --shadow-xs: light-dark(0 1px 2px oklch(0.2 0.02 255 / 0.05), 0 1px 2px oklch(0 0 0 / 0.25));
+    --shadow-sm: light-dark(0 2px 8px oklch(0.2 0.02 255 / 0.06), 0 4px 12px oklch(0 0 0 / 0.34));
+    --shadow-md: light-dark(0 8px 24px oklch(0.2 0.02 255 / 0.09), 0 10px 28px oklch(0 0 0 / 0.45));
+    --shadow-lg: light-dark(0 20px 48px oklch(0.18 0.02 255 / 0.14), 0 24px 56px oklch(0 0 0 / 0.62));
+
+    --focus-ring: 0 0 0 2px var(--surface-elevated), 0 0 0 4px var(--accent);
+    --ease-out-expo: cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  :root[data-theme="light"] {
+    color-scheme: light;
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+  }
+
+  :root[data-theme="system"] {
+    color-scheme: light dark;
+  }
+}

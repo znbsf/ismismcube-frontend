@@ -56,13 +56,13 @@
           </div>
           <div v-if="enrichStatus === 'error'" class="status_retry_row">
             <span>{{ enrichError || '讲稿与校勘索引加载失败' }}</span>
-            <button type="button" class="retry_btn" @click="emit('retryEnrichments')">
+            <button type="button" class="retry_btn" @click="retryIndex($event, 'enrichments')">
               重试讲稿与校勘索引
             </button>
           </div>
           <div v-if="coursesStatus === 'error'" class="status_retry_row">
             <span>{{ coursesError || '补充课程目录加载失败' }}</span>
-            <button type="button" class="retry_btn" @click="emit('retryCourses')">
+            <button type="button" class="retry_btn" @click="retryIndex($event, 'courses')">
               重试课程目录
             </button>
           </div>
@@ -109,7 +109,7 @@
               class="result_item_btn"
               :class="{ current: item.code === currentCode }"
               :disabled="!canJumpTo(item.code)"
-              @click="emit('jump', item.code, item.targetTab)"
+              @click="requestJump(item.code, item.targetTab)"
             >
               <div class="result_item_top">
                 <span class="result_code_badge">
@@ -184,6 +184,21 @@ const closeBtnRef = ref<HTMLButtonElement | null>(null)
 const bodyRef = ref<HTMLElement | null>(null)
 let itemRefs: (HTMLButtonElement | null)[] = []
 let previouslyFocusedElement: HTMLElement | null = null
+let openFocusToken = 0
+let disposed = false
+let suppressRestoreOnJump = false
+
+const isFocusableCandidate = (element: HTMLElement | null | undefined): element is HTMLElement => {
+  return Boolean(element?.isConnected && !(element as HTMLButtonElement).disabled &&
+    element.getClientRects().length > 0 && getComputedStyle(element).visibility !== 'hidden')
+}
+
+const retryIndex = (event: MouseEvent, resource: 'enrichments' | 'courses') => {
+  if (disposed || !props.open) return
+  if (event.currentTarget === document.activeElement && isFocusableCandidate(panelRef.value)) panelRef.value.focus()
+  if (resource === 'courses') emit('retryCourses')
+  else emit('retryEnrichments')
+}
 
 const normalizedQuery = computed(() => normalizeSearchQuery(props.query))
 const hasIndexError = computed(
@@ -227,31 +242,59 @@ watch(
   }
 )
 
+const hasOtherVisibleModal = () => Array.from(document.querySelectorAll?.('[aria-modal="true"]') ?? [])
+  .some(element => element !== panelRef.value && isFocusableCandidate(element as HTMLElement))
+
+const requestJump = (code: string, tab: SearchMatchTabKey) => {
+  if (!canJumpTo(code)) return
+  const token = openFocusToken
+  suppressRestoreOnJump = true
+  emit('jump', code, tab)
+  void nextTick(() => { if (!disposed && props.open && token === openFocusToken) suppressRestoreOnJump = false })
+}
+
 const restoreFocus = () => {
-  if (previouslyFocusedElement && previouslyFocusedElement.isConnected) {
-    previouslyFocusedElement.focus()
+  const active = document.activeElement
+  const external = active && active !== document.body && active !== document.documentElement &&
+    active.isConnected && !panelRef.value?.contains(active)
+  const previous = previouslyFocusedElement
+  previouslyFocusedElement = null
+  if (external) return
+  if (hasOtherVisibleModal()) return
+  if (isFocusableCandidate(previous)) {
+    previous.focus()
   } else if (props.fallbackFocusSelector) {
     const fallback = document.querySelector<HTMLElement>(props.fallbackFocusSelector)
-    fallback?.focus()
+    if (isFocusableCandidate(fallback)) fallback.focus()
   }
-  previouslyFocusedElement = null
 }
 
 watch(
   () => props.open,
   async (isOpen, wasOpen) => {
+    const token = ++openFocusToken
     if (isOpen && !wasOpen) {
-      previouslyFocusedElement =
-        document.activeElement instanceof HTMLElement ? document.activeElement : null
+      suppressRestoreOnJump = false
+      const source = document.activeElement
+      previouslyFocusedElement = source instanceof HTMLElement &&
+        source !== document.body && source !== document.documentElement ? source : null
       document.documentElement.style.overflow = 'hidden'
       await nextTick()
-      if (props.open) {
-        closeBtnRef.value?.focus()
-      }
+      if (disposed || !props.open || token !== openFocusToken) return
+      const active = document.activeElement
+      if (active && active !== source && active !== document.body && active !== document.documentElement &&
+        active.isConnected && !panelRef.value?.contains(active)) return
+      if (isFocusableCandidate(closeBtnRef.value)) closeBtnRef.value.focus()
     } else if (!isOpen && wasOpen) {
+      const skipRestore = suppressRestoreOnJump
+      suppressRestoreOnJump = false
       document.documentElement.style.overflow = ''
       await nextTick()
-      restoreFocus()
+      if (!disposed && !props.open && token === openFocusToken) {
+        if (hasOtherVisibleModal()) document.documentElement.style.overflow = 'hidden'
+        if (skipRestore) previouslyFocusedElement = null
+        else restoreFocus()
+      }
     }
   },
   { immediate: true }
@@ -340,6 +383,10 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  disposed = true
+  suppressRestoreOnJump = false
+  openFocusToken++
+  previouslyFocusedElement = null
   document.documentElement.style.overflow = ''
   window.removeEventListener('keydown', handleKeydown)
 })
@@ -350,29 +397,30 @@ onUnmounted(() => {
   position: fixed;
   inset: 0;
   z-index: 205;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: var(--surface-backdrop);
+  backdrop-filter: blur(6px);
   display: flex;
   justify-content: flex-end;
 }
 
 .search_drawer_panel {
-  width: min(max(32rem, 340px), 100vw);
+  width: min(max(34rem, 340px), 100vw);
   max-width: 100%;
   height: 100%;
-  background-color: rgb(230, 230, 230);
-  border-left: 2px solid black;
-  box-shadow: -0.4rem 0 1.5rem rgba(0, 0, 0, 0.55);
+  background-color: var(--surface-canvas);
+  border-left: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-lg);
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: black;
-  font-size: max(0.85rem, 13px);
+  color: var(--ink-primary);
+  font-size: max(0.88rem, 14px);
   box-sizing: border-box;
 }
 
 .search_drawer_panel button:focus-visible {
-  outline: 2px solid darkcyan;
-  outline-offset: 1px;
+  outline: none;
+  box-shadow: var(--focus-ring);
 }
 
 .drawer_header {
@@ -380,43 +428,45 @@ onUnmounted(() => {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  padding: 0.65rem 1rem;
-  background-color: rgb(200, 200, 200);
-  border-bottom: 1px solid black;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
   flex-shrink: 0;
   min-width: 0;
 }
 
 .drawer_title {
   margin: 0;
-  font-size: 1.18em;
-  font-weight: bold;
+  font-size: 1.15em;
+  font-weight: 700;
   min-width: 0;
 }
 
 .drawer_close_btn {
-  padding: 0.2rem 0.6rem;
-  background-color: rgb(220, 220, 220);
-  border: 1px solid black;
+  padding: 0.35rem 0.85rem;
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.92em;
-  color: black;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--ink-primary);
   flex-shrink: 0;
   white-space: nowrap;
 }
 
 .drawer_close_btn:hover {
-  background-color: gray;
-  color: white;
+  background-color: var(--surface-hover);
+  border-color: var(--border-strong);
 }
 
 .drawer_meta {
-  padding: 0.65rem 1rem;
-  background-color: rgb(218, 218, 218);
-  border-bottom: 1px solid black;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-subtle);
+  border-bottom: 1px solid var(--border-subtle);
   display: flex;
   flex-direction: column;
-  gap: 0.42rem;
+  gap: 0.5rem;
   flex-shrink: 0;
   min-width: 0;
 }
@@ -426,68 +476,71 @@ onUnmounted(() => {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.4rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .meta_label {
-  font-weight: bold;
-  color: rgb(45, 45, 45);
+  font-weight: 600;
+  color: var(--ink-secondary);
 }
 
 .query_chip {
   display: inline-block;
-  padding: 0.05rem 0.4rem;
-  background-color: rgb(252, 232, 180);
-  border: 1px solid rgb(150, 100, 0);
-  font-weight: bold;
+  padding: 0.1rem 0.55rem;
+  border-radius: var(--radius-pill);
+  background-color: var(--status-draft-soft);
+  border: 1px solid var(--status-draft);
+  color: var(--status-draft-text);
+  font-weight: 600;
   max-width: 100%;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .count_text {
-  font-size: 0.94em;
-  font-weight: bold;
-  color: rgb(30, 30, 30);
+  font-size: 0.92em;
+  font-weight: 600;
+  color: var(--ink-primary);
   overflow-wrap: anywhere;
 }
 
 .count_warn {
-  color: #8a5a00;
+  color: var(--status-draft-text);
 }
 
 .count_error {
-  color: #a00000;
+  color: var(--status-danger-text);
 }
 
 .status_banner {
-  padding: 0.42rem 0.55rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: var(--radius-md);
   font-size: 0.88em;
-  line-height: 1.4;
+  line-height: 1.45;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.4rem;
   min-width: 0;
   max-width: 100%;
   box-sizing: border-box;
 }
 
 .status_loading {
-  background-color: rgb(246, 240, 215);
-  border: 1px solid rgb(150, 120, 40);
-  color: rgb(72, 54, 12);
+  background-color: var(--status-draft-soft);
+  border: 1px solid var(--status-draft);
+  color: var(--status-draft-text);
 }
 
 .status_error {
-  background-color: rgb(248, 226, 226);
-  border: 1px solid #a00000;
-  color: #7d0000;
+  background-color: var(--status-danger-soft);
+  border: 1px solid var(--status-danger);
+  color: var(--status-danger-text);
 }
 
 .status_banner_text {
-  font-weight: bold;
+  font-weight: 600;
   overflow-wrap: anywhere;
 }
 
@@ -496,29 +549,31 @@ onUnmounted(() => {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 0.35rem 0.5rem;
+  gap: 0.4rem 0.6rem;
   min-width: 0;
 }
 
 .retry_btn {
-  padding: 0.14rem 0.5rem;
-  background-color: rgb(235, 235, 235);
-  border: 1px solid black;
-  color: black;
+  padding: 0.2rem 0.65rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
+  color: var(--ink-primary);
   cursor: pointer;
-  font-size: 0.92em;
+  font-size: 0.9em;
   flex-shrink: 0;
   white-space: nowrap;
 }
 
 .retry_btn:hover {
-  background-color: darkcyan;
-  color: white;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .keyboard_hint {
-  font-size: 0.84em;
-  color: rgb(75, 75, 75);
+  font-size: 0.82em;
+  color: var(--ink-muted);
   overflow-wrap: anywhere;
 }
 
@@ -528,37 +583,38 @@ onUnmounted(() => {
   min-width: 0;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 0.75rem 1rem 1.2rem;
+  padding: 0.9rem 1.2rem 1.4rem;
   box-sizing: border-box;
 }
 
 .empty_state_box {
-  padding: 0.9rem;
-  background-color: rgb(222, 222, 222);
-  border: 1px solid rgb(135, 135, 135);
-  line-height: 1.5;
-  color: rgb(45, 45, 45);
+  padding: 1rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  line-height: 1.55;
+  color: var(--ink-secondary);
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .error_state_box {
-  background-color: rgb(248, 226, 226);
-  border-color: #a00000;
-  color: #7d0000;
+  background-color: var(--status-danger-soft);
+  border-color: var(--status-danger);
+  color: var(--status-danger-text);
   white-space: pre-wrap;
 }
 
 .empty_title {
   margin: 0 0 0.35rem;
-  font-weight: bold;
-  color: black;
+  font-weight: 700;
+  color: var(--ink-primary);
 }
 
 .empty_sub {
   margin: 0;
-  font-size: 0.92em;
-  color: rgb(65, 65, 65);
+  font-size: 0.9em;
+  color: var(--ink-muted);
 }
 
 .results_list {
@@ -567,12 +623,14 @@ onUnmounted(() => {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.55rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .result_list_li {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 96px;
   min-width: 0;
   max-width: 100%;
 }
@@ -583,25 +641,28 @@ onUnmounted(() => {
   min-width: 0;
   box-sizing: border-box;
   text-align: left;
-  padding: 0.55rem 0.65rem;
-  background-color: rgb(222, 222, 222);
-  border: 1px solid rgb(135, 135, 135);
-  color: black;
+  padding: 0.7rem 0.85rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-xs);
+  color: var(--ink-primary);
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.35rem;
   font: inherit;
+  transition: border-color 0.14s ease, background-color 0.14s ease;
 }
 
 .result_item_btn:hover:not(:disabled) {
-  background-color: rgb(206, 232, 232);
-  border-color: black;
+  background-color: var(--accent-soft);
+  border-color: var(--accent-border);
 }
 
 .result_item_btn.current {
-  background-color: rgb(196, 228, 228);
-  border: 2px solid darkcyan;
+  background-color: var(--accent-soft);
+  border: 2px solid var(--accent);
 }
 
 .result_item_btn:disabled {
@@ -613,49 +674,53 @@ onUnmounted(() => {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.3rem 0.45rem;
+  gap: 0.35rem 0.5rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .result_code_badge {
   display: inline-block;
-  padding: 0.04rem 0.38rem;
-  background-color: rgb(238, 238, 238);
-  border: 1px solid rgb(95, 95, 95);
-  font-weight: bold;
-  font-size: 0.94em;
+  padding: 0.08rem 0.48rem;
+  border-radius: var(--radius-xs);
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-default);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.9em;
   max-width: 100%;
   overflow-wrap: anywhere;
 }
 
 .current_badge {
-  font-size: 0.82em;
-  padding: 0.02rem 0.32rem;
-  background-color: darkcyan;
-  color: white;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 0.08rem 0.45rem;
+  border-radius: var(--radius-pill);
+  background-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .result_target_hint {
   margin-left: auto;
   font-size: 0.84em;
-  color: rgb(45, 78, 78);
+  color: var(--accent-text);
   overflow-wrap: anywhere;
 }
 
 .result_ch_name {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 1.02em;
   line-height: 1.35;
-  color: black;
+  color: var(--ink-primary);
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 
 .result_en_name {
   font-size: 0.9em;
-  color: rgb(55, 55, 55);
-  line-height: 1.3;
+  color: var(--ink-secondary);
+  line-height: 1.35;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
@@ -664,55 +729,60 @@ onUnmounted(() => {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.25rem;
-  margin-top: 0.08rem;
+  gap: 0.3rem;
+  margin-top: 0.1rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .locations_label {
-  font-size: 0.82em;
-  color: rgb(70, 70, 70);
+  font-size: 0.8em;
+  color: var(--ink-muted);
 }
 
 .location_badge {
   display: inline-block;
-  padding: 0.02rem 0.34rem;
-  font-size: 0.8em;
-  border: 1px solid rgb(95, 95, 95);
-  background-color: rgb(238, 238, 238);
+  padding: 0.06rem 0.45rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.78em;
+  border: 1px solid var(--border-subtle);
+  background-color: var(--surface-subtle);
 }
 
 .location_badge.loc_code_name {
-  background-color: rgb(252, 232, 180);
-  border-color: rgb(150, 100, 0);
+  background-color: var(--status-draft-soft);
+  border-color: var(--status-draft);
+  color: var(--status-draft-text);
 }
 
 .location_badge.loc_overview {
-  background-color: rgb(216, 236, 216);
-  border-color: rgb(42, 102, 42);
+  background-color: var(--status-verified-soft);
+  border-color: var(--status-verified);
+  color: var(--status-verified-text);
 }
 
 .location_badge.loc_courses {
-  background-color: rgb(226, 234, 246);
-  border-color: rgb(55, 86, 140);
+  background-color: var(--status-info-soft);
+  border-color: var(--accent-border);
+  color: var(--status-info-text);
 }
 
 .location_badge.loc_editorial {
-  background-color: rgb(235, 226, 246);
-  border-color: rgb(108, 74, 148);
+  background-color: var(--axis-teleology-soft);
+  border-color: var(--axis-teleology);
+  color: var(--axis-teleology-text);
 }
 
 @media (max-width: 420px) {
   .drawer_header,
   .drawer_meta,
   .drawer_body {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
   }
 
   .result_item_btn {
-    padding: 0.45rem 0.5rem;
+    padding: 0.55rem 0.65rem;
   }
 }
 </style>

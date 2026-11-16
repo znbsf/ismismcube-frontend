@@ -124,60 +124,67 @@ const stepButtons = computed(() => [
 .node_breadcrumb_root {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 0.3em;
+  align-items: stretch;
+  gap: 0.5rem;
   width: 100%;
   max-width: 100%;
   min-width: 0;
   box-sizing: border-box;
-  color: black;
+  color: var(--ink-primary);
 }
 
 .node_breadcrumb_root button:focus-visible {
-  outline: 2px solid darkcyan;
-  outline-offset: 1px;
+  outline: none;
+  box-shadow: var(--focus-ring);
 }
 
 .breadcrumb_trail {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-  gap: 0.2em 0.25em;
+  justify-content: flex-start;
+  gap: 0.3rem 0.35rem;
   width: 100%;
   max-width: 100%;
   min-width: 0;
-  font-size: 0.9em;
+  font-size: 0.86rem;
 }
 
 .breadcrumb_btn {
   font: inherit;
   max-width: 100%;
   min-width: 0;
-  padding: 0.12em 0.38em;
-  background-color: rgb(224, 224, 224);
-  border: 1px solid rgb(120, 120, 120);
-  color: black;
+  padding: 0.22rem 0.58rem;
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-pill);
+  color: var(--ink-secondary);
   cursor: pointer;
   text-align: left;
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: break-word;
   box-sizing: border-box;
+  transition: background-color 0.14s ease, border-color 0.14s ease, color 0.14s ease;
 }
 
 .breadcrumb_btn:hover {
-  background-color: rgb(206, 230, 230);
-  border-color: black;
+  background-color: var(--accent-soft);
+  border-color: var(--accent-border);
+  color: var(--accent-text);
 }
 
 .breadcrumb_sep {
-  color: rgb(85, 85, 85);
+  color: var(--ink-muted);
   user-select: none;
 }
 
 .breadcrumb_current {
-  font-weight: bold;
+  font-weight: 600;
+  color: var(--ink-primary);
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-pill);
+  background: var(--accent-soft);
   max-width: 100%;
   min-width: 0;
   overflow-wrap: anywhere;
@@ -188,8 +195,8 @@ const stepButtons = computed(() => [
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-  gap: 0.28em;
+  justify-content: flex-start;
+  gap: 0.4rem;
   width: 100%;
   max-width: 100%;
   min-width: 0;
@@ -197,29 +204,34 @@ const stepButtons = computed(() => [
 
 .step_btn {
   font: inherit;
-  font-size: 0.85em;
+  font-size: 0.82rem;
+  font-weight: 500;
   max-width: 100%;
   min-width: 0;
-  padding: 0.14em 0.45em;
-  background-color: rgb(224, 224, 224);
-  border: 1px solid rgb(110, 110, 110);
-  color: black;
+  padding: 0.28rem 0.65rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
+  color: var(--ink-primary);
   cursor: pointer;
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: break-word;
   box-sizing: border-box;
+  transition: background-color 0.14s ease, border-color 0.14s ease, color 0.14s ease;
 }
 
 .step_btn:hover:not(:disabled) {
-  background-color: rgb(206, 230, 230);
-  border-color: black;
+  background-color: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-text);
 }
 
 .step_btn:disabled {
-  background-color: rgb(192, 192, 192);
-  border-color: rgb(145, 145, 145);
-  color: rgb(110, 110, 110);
-  cursor: default;
+  background-color: var(--surface-subtle);
+  border-color: var(--border-subtle);
+  color: var(--ink-muted);
+  opacity: 0.65;
+  cursor: not-allowed;
 }
 </style>

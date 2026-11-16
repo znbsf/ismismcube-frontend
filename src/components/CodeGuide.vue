@@ -99,8 +99,9 @@
         <section class="guide_section">
           <h3 class="section_heading">在本站怎么用</h3>
           <ul class="usage_list">
-            <li>点魔方格子打开一个立场；悬停可预览。</li>
-            <li>“概览与四轴”里看每一格定于哪一层，并与同层立场对比差在哪一格。</li>
+            <li>点魔方格子打开一个立场；悬停可预览。也可用 Tab 到“魔方节点导航”，展开后用按钮逐层选择，Enter 或空格确认。</li>
+            <li>“概览与四轴”里看每一格定于哪一层，并与同层立场对比差在哪一格。焦点在阅读页签上时，左右方向键切换，Home / End 到首尾页签。</li>
+            <li>阅读区边缘按钮可用 Enter 或空格折叠、展开。窄屏先折叠阅读区，再用 Tab 到“魔方缩放”；滑杆方向键调整，Home / End 到 100% / 250%。</li>
             <li>快捷键：[ 和 ] 切换同层立场，U 回到上一层。</li>
             <li>“校勘与典籍”看逐项核查与原典；概览里的 ◔ △ ✕ ✎ 标记可展开查看。</li>
             <li>“我的笔记”按编号 / 论点 / 出处 / 问题记录，可导出。</li>
@@ -131,32 +132,55 @@ const emit = defineEmits<{
 const panelRef = ref<HTMLElement | null>(null)
 const closeBtnRef = ref<HTMLButtonElement | null>(null)
 let previouslyFocusedElement: HTMLElement | null = null
+let openFocusToken = 0
+let disposed = false
+
+const isFocusableCandidate = (element: HTMLElement | null | undefined): element is HTMLElement => {
+  return Boolean(element?.isConnected && !(element as HTMLButtonElement).disabled &&
+    element.getClientRects().length > 0 && getComputedStyle(element).visibility !== 'hidden')
+}
+
+const hasOtherVisibleModal = () => Array.from(document.querySelectorAll?.('[aria-modal="true"]') ?? [])
+  .some(element => element !== panelRef.value && isFocusableCandidate(element as HTMLElement))
 
 const restoreFocus = () => {
-  if (previouslyFocusedElement && previouslyFocusedElement.isConnected) {
-    previouslyFocusedElement.focus()
+  const active = document.activeElement
+  const external = active && active !== document.body && active !== document.documentElement &&
+    active.isConnected && !panelRef.value?.contains(active)
+  const previous = previouslyFocusedElement
+  previouslyFocusedElement = null
+  if (external) return
+  if (hasOtherVisibleModal()) return
+  if (isFocusableCandidate(previous)) {
+    previous.focus()
   } else if (props.fallbackFocusSelector) {
     const fallback = document.querySelector<HTMLElement>(props.fallbackFocusSelector)
-    fallback?.focus()
+    if (isFocusableCandidate(fallback)) fallback.focus()
   }
-  previouslyFocusedElement = null
 }
 
 watch(
   () => props.open,
   async (isOpen, wasOpen) => {
+    const token = ++openFocusToken
     if (isOpen && !wasOpen) {
-      previouslyFocusedElement =
-        document.activeElement instanceof HTMLElement ? document.activeElement : null
+      const source = document.activeElement
+      previouslyFocusedElement = source instanceof HTMLElement &&
+        source !== document.body && source !== document.documentElement ? source : null
       document.documentElement.style.overflow = 'hidden'
       await nextTick()
-      if (props.open) {
-        closeBtnRef.value?.focus()
-      }
+      if (disposed || !props.open || token !== openFocusToken) return
+      const active = document.activeElement
+      if (active && active !== source && active !== document.body && active !== document.documentElement &&
+        active.isConnected && !panelRef.value?.contains(active)) return
+      if (isFocusableCandidate(closeBtnRef.value)) closeBtnRef.value.focus()
     } else if (!isOpen && wasOpen) {
       document.documentElement.style.overflow = ''
       await nextTick()
-      restoreFocus()
+      if (!disposed && !props.open && token === openFocusToken) {
+        if (hasOtherVisibleModal()) document.documentElement.style.overflow = 'hidden'
+        restoreFocus()
+      }
     }
   },
   { immediate: true }
@@ -205,6 +229,9 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  disposed = true
+  openFocusToken++
+  previouslyFocusedElement = null
   document.documentElement.style.overflow = ''
   window.removeEventListener('keydown', handleKeydown)
 })
@@ -215,11 +242,12 @@ onUnmounted(() => {
   position: fixed;
   inset: 0;
   z-index: 210;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: var(--surface-backdrop);
+  backdrop-filter: blur(6px);
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: clamp(0.5rem, 2vw, 1rem);
+  padding: clamp(0.6rem, 2vw, 1.25rem);
   box-sizing: border-box;
 }
 
@@ -228,14 +256,15 @@ onUnmounted(() => {
   max-width: 100%;
   max-height: 90vh;
   max-height: 90dvh;
-  background-color: rgb(230, 230, 230);
-  border: 2px solid black;
-  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.6);
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: black;
-  font-size: max(0.85rem, 13px);
+  color: var(--ink-primary);
+  font-size: max(0.88rem, 14px);
   box-sizing: border-box;
 }
 
@@ -244,35 +273,38 @@ onUnmounted(() => {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  padding: 0.65rem 1rem;
-  background-color: rgb(200, 200, 200);
-  border-bottom: 1px solid black;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-subtle);
+  border-bottom: 1px solid var(--border-subtle);
   flex-shrink: 0;
   min-width: 0;
 }
 
 .guide_title {
   margin: 0;
-  font-size: 1.18em;
-  font-weight: bold;
+  font-size: 1.15em;
+  font-weight: 700;
   min-width: 0;
   overflow-wrap: anywhere;
 }
 
 .guide_close_btn {
-  padding: 0.2rem 0.7rem;
-  background-color: rgb(220, 220, 220);
-  border: 1px solid black;
+  padding: 0.35rem 0.85rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.92em;
-  color: black;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--ink-primary);
   flex-shrink: 0;
   white-space: nowrap;
+  transition: background-color 0.14s ease, border-color 0.14s ease;
 }
 
 .guide_close_btn:hover {
-  background-color: gray;
-  color: white;
+  background-color: var(--surface-hover);
+  border-color: var(--border-strong);
 }
 
 .guide_body {
@@ -281,82 +313,95 @@ onUnmounted(() => {
   min-width: 0;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 0.9rem 1.1rem;
+  padding: 1.1rem 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
-  line-height: 1.5;
+  gap: 1.1rem;
+  line-height: 1.6;
 }
 
 .guide_paragraph {
   margin: 0;
+  color: var(--ink-secondary);
 }
 
 .guide_section {
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.55rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .section_heading {
   margin: 0;
-  font-size: 1.08em;
-  font-weight: bold;
-  padding-bottom: 0.2rem;
-  border-bottom: 1px solid rgb(135, 135, 135);
+  font-size: 1.05em;
+  font-weight: 700;
+  color: var(--ink-primary);
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 .table_scroll {
   max-width: 100%;
   overflow-x: auto;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
 }
 
 .guide_table {
   width: 100%;
   border-collapse: collapse;
-  background-color: rgb(238, 238, 238);
-  font-size: 0.96em;
+  background-color: var(--surface-elevated);
+  font-size: 0.94em;
 }
 
 .guide_table th,
 .guide_table td {
-  border: 1px solid rgb(120, 120, 120);
-  padding: 0.42rem 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 0.55rem 0.75rem;
   text-align: left;
   vertical-align: top;
 }
 
+.guide_table tr:last-child td {
+  border-bottom: none;
+}
+
 .guide_table th {
-  background-color: rgb(212, 212, 212);
-  font-weight: bold;
+  background-color: var(--surface-subtle);
+  font-weight: 600;
+  color: var(--ink-secondary);
 }
 
 .pos_cell {
-  font-weight: bold;
+  font-weight: 600;
   white-space: nowrap;
 }
 
 .val_cell {
-  font-weight: bold;
+  font-family: var(--font-mono);
+  font-weight: 700;
   text-align: center;
   white-space: nowrap;
   width: 3.5rem;
+  color: var(--accent-text);
 }
 
 .table_note {
   margin: 0;
-  font-size: 0.92em;
-  color: rgb(60, 60, 60);
+  font-size: 0.9em;
+  color: var(--ink-muted);
 }
 
 .guide_warning_box {
-  padding: 0.55rem 0.75rem;
-  background-color: rgb(248, 235, 205);
-  border: 1px solid rgb(160, 115, 30);
-  font-size: 0.96em;
-  line-height: 1.5;
+  padding: 0.75rem 0.95rem;
+  background-color: var(--status-draft-soft);
+  border: 1px solid var(--status-draft);
+  border-radius: var(--radius-md);
+  color: var(--status-draft-text);
+  font-size: 0.94em;
+  line-height: 1.55;
 }
 
 .usage_list {
@@ -364,27 +409,28 @@ onUnmounted(() => {
   padding-left: 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 0.28rem;
+  gap: 0.35rem;
+  color: var(--ink-secondary);
 }
 
 .guide_footer_muted {
   margin: 0;
-  padding-top: 0.45rem;
-  border-top: 1px dashed rgb(140, 140, 140);
-  font-size: 0.89em;
-  color: rgb(75, 75, 75);
+  padding-top: 0.65rem;
+  border-top: 1px dashed var(--border-subtle);
+  font-size: 0.88em;
+  color: var(--ink-muted);
 }
 
 @media (max-width: 480px) {
   .guide_header,
   .guide_body {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
   }
 
   .guide_table th,
   .guide_table td {
-    padding: 0.35rem 0.45rem;
+    padding: 0.42rem 0.55rem;
   }
 
   .pos_cell {

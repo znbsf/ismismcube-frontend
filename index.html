@@ -1,9 +1,19 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>主义主义魔方 · 哲学谱系探索工作台</title>
     <link rel="icon" type="image/x-icon" href="/ismismcube_favicon.ico" />
+    <script>
+      try {
+        var t = localStorage.getItem('ismismcube.theme.v1');
+        if (t === 'light' || t === 'dark' || t === 'system') {
+          document.documentElement.dataset.theme = t;
+        }
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <div id="app"></div>

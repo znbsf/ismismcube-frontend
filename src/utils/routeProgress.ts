@@ -33,8 +33,12 @@ export const TOTAL_ROUTE_STEPS = ROUTE_STEPS_FLAT.length
 
 const VALID_STEP_IDS = new Set(ROUTE_STEPS_FLAT.map((item) => item.stepId))
 
+export type RouteProgressErrorKind = 'read' | 'write' | null
+
 export const routeDoneIds = ref<string[]>([])
 export const routeProgressStorageError = ref(false)
+export const routeProgressErrorKind = ref<RouteProgressErrorKind>(null)
+export const routeProgressHasPending = ref(false)
 
 export const findFirstIncompleteRouteStep = (
   doneIds: readonly string[] = routeDoneIds.value
@@ -67,82 +71,123 @@ const normalizeDoneIds = (ids: unknown): string[] => {
   return result
 }
 
-export const loadRouteProgress = (): string[] => {
-  let raw: string | null = null
+// Pending actions encode the user's intended final value, not a toggle of disk.
+// localStorage read/modify/write is not atomic across simultaneous tabs.
+const pending = new Map<string, boolean>()
+let pendingReset = false
+
+const syncPendingFlag = () => {
+  routeProgressHasPending.value = pendingReset || pending.size > 0
+}
+
+const setStorageError = (kind: RouteProgressErrorKind) => {
+  routeProgressStorageError.value = kind !== null
+  routeProgressErrorKind.value = kind
+}
+
+const readDisk = (): string[] | null => {
   try {
-    raw = localStorage.getItem(ROUTE_PROGRESS_STORAGE_KEY)
-  } catch {
-    routeProgressStorageError.value = true
-    return routeDoneIds.value
-  }
-  if (raw === null) {
-    routeProgressStorageError.value = false
-    routeDoneIds.value = []
-    return []
-  }
-  try {
+    const raw = localStorage.getItem(ROUTE_PROGRESS_STORAGE_KEY)
+    if (raw === null) return []
     const parsed: unknown = JSON.parse(raw)
-    if (
-      typeof parsed !== 'object' ||
-      parsed === null ||
-      Array.isArray(parsed) ||
-      !Array.isArray((parsed as { done?: unknown }).done)
-    ) {
-      routeDoneIds.value = []
-      routeProgressStorageError.value = true
-      return []
+    if (typeof parsed !== 'object' || parsed === null || Array.isArray(parsed) ||
+      !Array.isArray((parsed as { done?: unknown }).done)) throw new Error('Invalid route progress')
+    const done = (parsed as { done: unknown[] }).done
+    if (done.some(id => typeof id !== 'string' || !VALID_STEP_IDS.has(id))) {
+      throw new Error('Unrecognized route progress entries')
     }
-    const done = normalizeDoneIds((parsed as { done: unknown[] }).done)
-    routeDoneIds.value = done
-    routeProgressStorageError.value = false
-    return done
+    return normalizeDoneIds(done)
   } catch {
-    routeDoneIds.value = []
-    routeProgressStorageError.value = true
-    return []
+    // Preserve unreadable raw data; subsequent explicit actions may retry reading.
+    setStorageError('read')
+    return null
   }
+}
+
+const applyPending = (disk: string[]): string[] => {
+  const next = new Set(pendingReset ? [] : disk)
+  for (const [id, done] of pending) {
+    if (done) next.add(id)
+    else next.delete(id)
+  }
+  return [...next]
+}
+
+const broadcastRouteSync = () => {
+  if (typeof BroadcastChannel === 'undefined') return
+  try {
+    const channel = new BroadcastChannel('ismismcube.tab-sync.v1')
+    channel.postMessage({ type: 'route-updated', timestamp: Date.now() })
+    channel.close()
+  } catch {
+    // Ignore channel errors in restricted/mock environments.
+  }
+}
+
+const flushPending = (): boolean => {
+  const disk = pendingReset ? [] : readDisk()
+  if (disk === null) return false
+  const next = applyPending(disk)
+  routeDoneIds.value = next
+  try {
+    if (pendingReset && next.length === 0) localStorage.removeItem(ROUTE_PROGRESS_STORAGE_KEY)
+    else localStorage.setItem(ROUTE_PROGRESS_STORAGE_KEY, JSON.stringify({ done: next }))
+    pending.clear()
+    pendingReset = false
+    syncPendingFlag()
+    setStorageError(null)
+    broadcastRouteSync()
+    return true
+  } catch {
+    syncPendingFlag()
+    setStorageError('write')
+    return false
+  }
+}
+
+export const loadRouteProgress = (): string[] => {
+  const disk = readDisk()
+  if (disk === null) return routeDoneIds.value
+  routeDoneIds.value = applyPending(disk)
+  const hasPending = pendingReset || pending.size > 0
+  syncPendingFlag()
+  setStorageError(hasPending ? 'write' : null)
+  return routeDoneIds.value
 }
 
 export const saveRouteProgress = (doneList: string[]): boolean => {
-  const normalized = normalizeDoneIds(doneList)
-  routeDoneIds.value = normalized
-  try {
-    localStorage.setItem(ROUTE_PROGRESS_STORAGE_KEY, JSON.stringify({ done: normalized }))
-    routeProgressStorageError.value = false
-    return true
-  } catch {
-    routeProgressStorageError.value = true
-    return false
+  const desired = normalizeDoneIds(doneList)
+  const before = new Set(routeDoneIds.value)
+  const after = new Set(desired)
+  for (const id of new Set([...before, ...after])) {
+    if (before.has(id) !== after.has(id)) pending.set(id, after.has(id))
   }
+  syncPendingFlag()
+  routeDoneIds.value = desired
+  return flushPending()
 }
 
 export const isRouteStepDone = (stageId: string, code: string): boolean => {
-  const stepId = getRouteStepId(stageId, code)
-  return routeDoneIds.value.includes(stepId)
+  return routeDoneIds.value.includes(getRouteStepId(stageId, code))
 }
 
 export const toggleRouteStepDone = (stageId: string, code: string): boolean => {
-  const stepId = getRouteStepId(stageId, code)
-  const exists = routeDoneIds.value.includes(stepId)
-  const next = exists
-    ? routeDoneIds.value.filter((id) => id !== stepId)
-    : [...routeDoneIds.value, stepId]
-  saveRouteProgress(next)
-  return !exists
+  const id = getRouteStepId(stageId, code)
+  if (!VALID_STEP_IDS.has(id)) return false
+  const done = !routeDoneIds.value.includes(id)
+  pending.set(id, done)
+  syncPendingFlag()
+  routeDoneIds.value = applyPending(routeDoneIds.value)
+  flushPending()
+  return done
 }
 
 export const resetRouteProgress = (): boolean => {
+  pending.clear()
+  pendingReset = true
+  syncPendingFlag()
   routeDoneIds.value = []
-  try {
-    localStorage.removeItem(ROUTE_PROGRESS_STORAGE_KEY)
-    routeProgressStorageError.value = false
-    return true
-  } catch {
-    routeProgressStorageError.value = true
-    return false
-  }
+  return flushPending()
 }
 
-export const getRouteProgressStorageError = (): boolean => {
-  return routeProgressStorageError.value
-}
+export const getRouteProgressStorageError = (): boolean => routeProgressStorageError.value

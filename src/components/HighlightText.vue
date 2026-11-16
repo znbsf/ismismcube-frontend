@@ -19,7 +19,10 @@ const segments = computed(() => splitHighlightSegments(props.text, props.query ?
 
 <style scoped>
 .search_highlight {
-  background-color: rgb(225, 172, 39);
-  color: black;
+  background-color: var(--status-draft-soft);
+  color: var(--status-draft-text);
+  padding: 0 0.18em;
+  border-radius: 3px;
+  font-weight: 600;
 }
 </style>

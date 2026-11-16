@@ -28,7 +28,7 @@
             <button
               type="button"
               class="reset_btn"
-              :disabled="doneCount === 0"
+              :disabled="doneCount === 0 && !storageError"
               @click="handleReset"
             >
               重置进度
@@ -69,9 +69,16 @@
           </div>
         </div>
 
-        <p v-if="storageError" class="storage_error_notice" role="status">
-          进度保存失败：浏览器存储不可用，当前仅在本次会话有效
-        </p>
+        <div v-if="storageError" class="storage_error_notice" role="status">
+          <span class="storage_error_text">{{ storageErrorMessage }}</span>
+          <button
+            type="button"
+            class="storage_retry_btn"
+            @click="handleRetryStorage"
+          >
+            {{ retryButtonLabel }}
+          </button>
+        </div>
       </div>
 
       <div class="drawer_body">
@@ -109,7 +116,7 @@
                 type="button"
                 class="jump_btn"
                 :disabled="!getNode(step.code)"
-                @click="emit('jump', step.code)"
+                @click="requestJump(step.code)"
               >
                 前往
               </button>
@@ -129,9 +136,13 @@ import {
   TOTAL_ROUTE_STEPS,
   findFirstIncompleteRouteStep,
   isRouteStepDone,
+  loadRouteProgress,
   resetRouteProgress,
   routeDoneIds,
+  routeProgressErrorKind,
+  routeProgressHasPending,
   routeProgressStorageError,
+  saveRouteProgress,
   toggleRouteStepDone
 } from '../utils/routeProgress'
 
@@ -150,6 +161,14 @@ const emit = defineEmits<{
 const panelRef = ref<HTMLElement | null>(null)
 const closeBtnRef = ref<HTMLButtonElement | null>(null)
 let previouslyFocusedElement: HTMLElement | null = null
+let openFocusToken = 0
+let disposed = false
+let suppressRestoreOnJump = false
+
+const isFocusableCandidate = (element: HTMLElement | null | undefined): element is HTMLElement => {
+  return Boolean(element?.isConnected && !(element as HTMLButtonElement).disabled &&
+    element.getClientRects().length > 0 && getComputedStyle(element).visibility !== 'hidden')
+}
 
 const doneCount = computed(() => routeDoneIds.value.length)
 const progressPercent = computed(() => {
@@ -170,50 +189,119 @@ const canContinueJump = computed(() =>
   Boolean(nextIncompleteStep.value && props.getNode(nextIncompleteStep.value.step.code))
 )
 const storageError = computed(() => routeProgressStorageError.value)
+const errorKind = computed(() => routeProgressErrorKind.value)
+const hasPendingChanges = computed(() => routeProgressHasPending.value)
+
+const storageErrorMessage = computed(() => {
+  if (errorKind.value === 'read') {
+    return hasPendingChanges.value
+      ? '进度读取失败：原存储不可读取或数据已损坏，已阻止覆盖原数据；当前改动仅暂存在本次会话'
+      : '进度读取失败：浏览器存储不可读取或数据已损坏，已保留原数据'
+  }
+  return '进度保存失败：无法写入浏览器存储，当前改动仅暂存在本次会话'
+})
+
+const retryButtonLabel = computed(() => {
+  if (errorKind.value === 'read') {
+    return hasPendingChanges.value ? '重试读取并保存' : '重试读取'
+  }
+  return '重试保存'
+})
 
 const handleContinueLearning = () => {
   const target = nextIncompleteStep.value
   if (!target || !props.getNode(target.step.code)) return
-  emit('jump', target.step.code)
+  requestJump(target.step.code)
+}
+
+const handleRetryStorage = () => {
+  const token = openFocusToken
+  const source = document.activeElement
+  if (errorKind.value === 'read' && !hasPendingChanges.value) {
+    loadRouteProgress()
+  } else {
+    saveRouteProgress(routeDoneIds.value)
+  }
+  void nextTick(() => {
+    if (!disposed && token === openFocusToken && props.open && !storageError.value &&
+      (document.activeElement === source || document.activeElement === document.body)) {
+      closeBtnRef.value?.focus()
+    }
+  })
 }
 
 const handleReset = () => {
-  if (doneCount.value === 0) return
-  if (window.confirm('重置阅读路线进度？')) {
+  if (doneCount.value === 0 && !storageError.value) return
+  const confirmText =
+    storageError.value && errorKind.value === 'read'
+      ? '当前阅读路线存储读取异常，确认清空并重置阅读路线进度？'
+      : '重置阅读路线进度？'
+  if (window.confirm(confirmText)) {
+    const token = openFocusToken
+    const source = document.activeElement
     resetRouteProgress()
     void nextTick(() => {
-      if (props.open) {
+      if (!disposed && token === openFocusToken && props.open &&
+        (document.activeElement === source || document.activeElement === document.body)) {
         closeBtnRef.value?.focus()
       }
     })
   }
 }
 
+const hasOtherVisibleModal = () => Array.from(document.querySelectorAll?.('[aria-modal="true"]') ?? [])
+  .some(element => element !== panelRef.value && isFocusableCandidate(element as HTMLElement))
+
+const requestJump = (code: string) => {
+  if (!props.getNode(code)) return
+  const token = openFocusToken
+  suppressRestoreOnJump = true
+  emit('jump', code)
+  void nextTick(() => { if (!disposed && props.open && token === openFocusToken) suppressRestoreOnJump = false })
+}
+
 const restoreFocus = () => {
-  if (previouslyFocusedElement && previouslyFocusedElement.isConnected) {
-    previouslyFocusedElement.focus()
+  const active = document.activeElement
+  const external = active && active !== document.body && active !== document.documentElement &&
+    active.isConnected && !panelRef.value?.contains(active)
+  const previous = previouslyFocusedElement
+  previouslyFocusedElement = null
+  if (external) return
+  if (hasOtherVisibleModal()) return
+  if (isFocusableCandidate(previous)) {
+    previous.focus()
   } else if (props.fallbackFocusSelector) {
     const fallback = document.querySelector<HTMLElement>(props.fallbackFocusSelector)
-    fallback?.focus()
+    if (isFocusableCandidate(fallback)) fallback.focus()
   }
-  previouslyFocusedElement = null
 }
 
 watch(
   () => props.open,
   async (isOpen, wasOpen) => {
+    const token = ++openFocusToken
     if (isOpen && !wasOpen) {
-      previouslyFocusedElement =
-        document.activeElement instanceof HTMLElement ? document.activeElement : null
+      suppressRestoreOnJump = false
+      const source = document.activeElement
+      previouslyFocusedElement = source instanceof HTMLElement &&
+        source !== document.body && source !== document.documentElement ? source : null
       document.documentElement.style.overflow = 'hidden'
       await nextTick()
-      if (props.open) {
-        closeBtnRef.value?.focus()
-      }
+      if (disposed || !props.open || token !== openFocusToken) return
+      const active = document.activeElement
+      if (active && active !== source && active !== document.body && active !== document.documentElement &&
+        active.isConnected && !panelRef.value?.contains(active)) return
+      if (isFocusableCandidate(closeBtnRef.value)) closeBtnRef.value.focus()
     } else if (!isOpen && wasOpen) {
+      const skipRestore = suppressRestoreOnJump
+      suppressRestoreOnJump = false
       document.documentElement.style.overflow = ''
       await nextTick()
-      restoreFocus()
+      if (!disposed && !props.open && token === openFocusToken) {
+        if (hasOtherVisibleModal()) document.documentElement.style.overflow = 'hidden'
+        if (skipRestore) previouslyFocusedElement = null
+        else restoreFocus()
+      }
     }
   },
   { immediate: true }
@@ -262,6 +350,10 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  disposed = true
+  suppressRestoreOnJump = false
+  openFocusToken++
+  previouslyFocusedElement = null
   document.documentElement.style.overflow = ''
   window.removeEventListener('keydown', handleKeydown)
 })
@@ -272,23 +364,24 @@ onUnmounted(() => {
   position: fixed;
   inset: 0;
   z-index: 200;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: var(--surface-backdrop);
+  backdrop-filter: blur(6px);
   display: flex;
   justify-content: flex-end;
 }
 
 .route_drawer_panel {
-  width: min(max(32rem, 340px), 100vw);
+  width: min(max(34rem, 340px), 100vw);
   max-width: 100%;
   height: 100%;
-  background-color: rgb(230, 230, 230);
-  border-left: 2px solid black;
-  box-shadow: -0.4rem 0 1.5rem rgba(0, 0, 0, 0.55);
+  background-color: var(--surface-canvas);
+  border-left: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-lg);
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  color: black;
-  font-size: max(0.85rem, 13px);
+  color: var(--ink-primary);
+  font-size: max(0.88rem, 14px);
   box-sizing: border-box;
 }
 
@@ -297,57 +390,60 @@ onUnmounted(() => {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  padding: 0.65rem 1rem;
-  background-color: rgb(200, 200, 200);
-  border-bottom: 1px solid black;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-elevated);
+  border-bottom: 1px solid var(--border-subtle);
   flex-shrink: 0;
   min-width: 0;
 }
 
 .drawer_title {
   margin: 0;
-  font-size: 1.18em;
-  font-weight: bold;
+  font-size: 1.15em;
+  font-weight: 700;
   min-width: 0;
 }
 
 .drawer_close_btn {
-  padding: 0.2rem 0.6rem;
-  background-color: rgb(220, 220, 220);
-  border: 1px solid black;
+  padding: 0.35rem 0.85rem;
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.92em;
-  color: black;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--ink-primary);
   flex-shrink: 0;
   white-space: nowrap;
+  transition: background-color 0.14s ease, border-color 0.14s ease;
 }
 
 .drawer_close_btn:hover {
-  background-color: gray;
-  color: white;
+  background-color: var(--surface-hover);
+  border-color: var(--border-strong);
 }
 
 .drawer_meta {
-  padding: 0.65rem 1rem;
-  background-color: rgb(218, 218, 218);
-  border-bottom: 1px solid black;
+  padding: 0.85rem 1.2rem;
+  background-color: var(--surface-subtle);
+  border-bottom: 1px solid var(--border-subtle);
   display: flex;
   flex-direction: column;
-  gap: 0.55rem;
+  gap: 0.65rem;
   flex-shrink: 0;
 }
 
 .route_intro {
   margin: 0;
-  font-size: 0.92em;
-  line-height: 1.45;
-  color: rgb(65, 65, 65);
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--ink-secondary);
 }
 
 .progress_block {
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.38rem;
 }
 
 .progress_row {
@@ -360,21 +456,23 @@ onUnmounted(() => {
 }
 
 .progress_text {
-  font-size: 0.94em;
-  font-weight: bold;
+  font-size: 0.92em;
+  font-weight: 600;
 }
 
 .reset_btn {
-  padding: 0.14rem 0.5rem;
-  background-color: rgb(232, 232, 232);
-  border: 1px solid rgb(90, 90, 90);
+  padding: 0.22rem 0.65rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.87em;
-  color: black;
+  font-size: 0.84em;
+  color: var(--ink-secondary);
 }
 
 .reset_btn:hover:not(:disabled) {
-  background-color: rgb(195, 195, 195);
+  background-color: var(--surface-hover);
+  color: var(--ink-primary);
 }
 
 .reset_btn:disabled {
@@ -384,17 +482,19 @@ onUnmounted(() => {
 
 .progress_track {
   width: 100%;
-  height: 0.35rem;
-  background-color: rgb(185, 185, 185);
-  border: 1px solid rgb(120, 120, 120);
+  height: 0.45rem;
+  background-color: var(--surface-sunken);
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
   box-sizing: border-box;
   overflow: hidden;
 }
 
 .progress_fill {
   height: 100%;
-  background-color: darkcyan;
-  transition: width 0.2s ease;
+  background-color: var(--accent);
+  border-radius: var(--radius-pill);
+  transition: width 0.25s var(--ease-out-expo);
 }
 
 .continue_card {
@@ -402,63 +502,66 @@ onUnmounted(() => {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 0.4rem 0.6rem;
-  padding: 0.42rem 0.55rem;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid darkcyan;
+  gap: 0.5rem 0.7rem;
+  padding: 0.6rem 0.8rem;
+  background-color: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  border-radius: var(--radius-md);
   box-sizing: border-box;
   min-width: 0;
   max-width: 100%;
 }
 
 .continue_card_done {
-  background-color: rgb(214, 228, 220);
-  border-color: rgb(95, 130, 105);
+  background-color: var(--status-verified-soft);
+  border-color: var(--status-verified);
 }
 
 .continue_info {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.4rem;
   flex: 1 1 10rem;
   min-width: 0;
 }
 
 .continue_label {
   font-size: 0.88em;
-  font-weight: bold;
-  color: rgb(20, 65, 65);
+  font-weight: 600;
+  color: var(--accent-text);
 }
 
 .done_badge {
-  font-size: 0.86em;
-  font-weight: bold;
-  padding: 0.04rem 0.35rem;
-  background-color: rgb(70, 115, 85);
-  color: white;
+  font-size: 0.84em;
+  font-weight: 600;
+  padding: 0.08rem 0.5rem;
+  border-radius: var(--radius-pill);
+  background-color: var(--status-verified);
+  color: var(--ink-inverse);
 }
 
 .continue_done_hint {
   font-size: 0.88em;
-  color: rgb(35, 60, 42);
+  color: var(--status-verified-text);
   overflow-wrap: anywhere;
 }
 
 .continue_btn {
   flex-shrink: 0;
-  padding: 0.2rem 0.6rem;
-  background-color: darkcyan;
-  border: 1px solid black;
+  padding: 0.32rem 0.85rem;
+  background-color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.89em;
-  font-weight: bold;
-  color: white;
+  font-size: 0.88em;
+  font-weight: 600;
+  color: var(--ink-inverse);
   white-space: nowrap;
 }
 
 .continue_btn:hover:not(:disabled) {
-  background-color: rgb(0, 105, 105);
+  background-color: var(--accent-hover);
 }
 
 .continue_btn:disabled {
@@ -468,14 +571,43 @@ onUnmounted(() => {
 
 .storage_error_notice {
   margin: 0;
-  padding: 0.3rem 0.45rem;
-  background-color: rgb(248, 226, 226);
-  border: 1px solid #a00000;
-  color: #a00000;
+  padding: 0.5rem 0.7rem;
+  background-color: var(--status-danger-soft);
+  border: 1px solid var(--status-danger);
+  border-radius: var(--radius-md);
+  color: var(--status-danger-text);
   font-size: 0.86em;
-  font-weight: bold;
-  line-height: 1.35;
+  font-weight: 600;
+  line-height: 1.4;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem 0.6rem;
+}
+
+.storage_error_text {
+  flex: 1 1 12rem;
+  min-width: 0;
   overflow-wrap: anywhere;
+}
+
+.storage_retry_btn {
+  flex-shrink: 0;
+  padding: 0.22rem 0.65rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--status-danger);
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: var(--status-danger-text);
+  white-space: nowrap;
+}
+
+.storage_retry_btn:hover {
+  background-color: var(--status-danger);
+  color: var(--ink-inverse);
 }
 
 .drawer_body {
@@ -484,33 +616,33 @@ onUnmounted(() => {
   min-width: 0;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 0.8rem 1rem 1.2rem;
+  padding: 1rem 1.2rem 1.4rem;
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.15rem;
 }
 
 .route_stage {
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.5rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .stage_title {
   margin: 0;
-  font-size: 1.08em;
-  font-weight: bold;
-  padding-bottom: 0.2rem;
-  border-bottom: 1px solid rgb(135, 135, 135);
+  font-size: 1.06em;
+  font-weight: 700;
+  padding-bottom: 0.28rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 .stage_goal {
   margin: 0;
-  font-size: 0.92em;
-  line-height: 1.4;
-  color: rgb(55, 55, 55);
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--ink-secondary);
 }
 
 .stage_steps {
@@ -519,31 +651,35 @@ onUnmounted(() => {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
+  gap: 0.5rem;
   min-width: 0;
   max-width: 100%;
 }
 
 .step_row {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 76px;
   display: flex;
   align-items: flex-start;
-  gap: 0.55rem;
-  padding: 0.5rem 0.6rem;
-  background-color: rgb(222, 222, 222);
-  border: 1px solid rgb(135, 135, 135);
+  gap: 0.65rem;
+  padding: 0.65rem 0.75rem;
+  background-color: var(--surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-xs);
   box-sizing: border-box;
   min-width: 0;
   max-width: 100%;
 }
 
 .step_row.done {
-  background-color: rgb(214, 228, 220);
-  border-color: rgb(95, 130, 105);
+  background-color: var(--status-verified-soft);
+  border-color: var(--status-verified);
 }
 
 .step_row.current {
-  background-color: rgb(196, 228, 228);
-  border: 2px solid darkcyan;
+  background-color: var(--accent-soft);
+  border: 2px solid var(--accent);
 }
 
 .step_check_wrap {
@@ -554,8 +690,9 @@ onUnmounted(() => {
 }
 
 .step_checkbox {
-  width: 1rem;
-  height: 1rem;
+  width: 1.05rem;
+  height: 1.05rem;
+  accent-color: var(--accent);
   cursor: pointer;
 }
 
@@ -564,63 +701,70 @@ onUnmounted(() => {
   min-width: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.22rem;
+  gap: 0.25rem;
 }
 
 .step_head {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.4rem;
 }
 
 .step_code {
-  font-weight: bold;
-  font-size: 0.96em;
-  padding: 0.02rem 0.35rem;
-  background-color: rgb(238, 238, 238);
-  border: 1px solid rgb(95, 95, 95);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.92em;
+  padding: 0.08rem 0.45rem;
+  border-radius: var(--radius-xs);
+  background-color: var(--surface-subtle);
+  border: 1px solid var(--border-default);
   max-width: 100%;
   overflow-wrap: anywhere;
 }
 
 .step_name {
-  font-weight: bold;
+  font-weight: 600;
   font-size: 0.96em;
   max-width: 100%;
   overflow-wrap: anywhere;
 }
 
 .current_badge {
-  font-size: 0.82em;
-  padding: 0.02rem 0.3rem;
-  background-color: darkcyan;
-  color: white;
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 0.08rem 0.45rem;
+  border-radius: var(--radius-pill);
+  background-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .step_task {
   margin: 0;
-  font-size: 0.92em;
-  line-height: 1.45;
-  color: rgb(35, 35, 35);
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--ink-secondary);
   overflow-wrap: anywhere;
 }
 
 .jump_btn {
   flex-shrink: 0;
-  padding: 0.2rem 0.5rem;
-  background-color: rgb(206, 232, 232);
-  border: 1px solid black;
+  padding: 0.28rem 0.72rem;
+  background-color: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  border-radius: var(--radius-pill);
   cursor: pointer;
-  font-size: 0.89em;
-  color: black;
+  font-size: 0.86em;
+  font-weight: 500;
+  color: var(--accent-text);
   align-self: center;
   white-space: nowrap;
 }
 
 .jump_btn:hover:not(:disabled) {
-  background-color: darkcyan;
-  color: white;
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: var(--ink-inverse);
 }
 
 .jump_btn:disabled {
@@ -632,13 +776,13 @@ onUnmounted(() => {
   .drawer_header,
   .drawer_meta,
   .drawer_body {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
   }
 
   .step_row {
-    gap: 0.45rem;
-    padding: 0.45rem;
+    gap: 0.5rem;
+    padding: 0.55rem;
   }
 }
 </style>

@@ -30,6 +30,96 @@ export interface MergeNotesResult {
 
 export const notesStorageError = ref(false)
 export const notesUnsavedInMemory = ref(false)
+export const notesConflictCodes = ref<string[]>([])
+export const notesReadBlocked = ref(false)
+export const notesRawBackup = ref<string | null>(null)
+export const notesConflictRevision = ref(0)
+export type ConflictChoice = 'local' | 'external'
+export interface NotesConflictPreview {
+  id: number
+  conflicts: Array<{ code: string; local: NodeNote | null; external: NodeNote | null }>
+}
+interface ConflictSession {
+  id: number
+  local: NotesState
+  external: NotesState
+  base: NotesState
+}
+let conflictSession: ConflictSession | null = null
+export function invalidateNotesConflictPreview(): void {
+  conflictSession = null
+  notesConflictRevision.value++
+}
+let baseline: NotesState | null = null
+
+export const getCurrentNotes = (): NotesState => cloneNotesState(inMemoryState)
+
+const readDisk = (): NotesState | null => {
+  let raw: string | null = null
+  try {
+    raw = localStorage.getItem(NOTES_STORAGE_KEY)
+    const state = raw === null ? { version: 1 as const, nodes: {} } : parseNotesImport(raw)
+    if (!state) {
+      notesRawBackup.value = raw
+      throw new Error('Invalid notes data')
+    }
+    notesRawBackup.value = null
+    return cloneNotesState(state)
+  } catch {
+    notesRawBackup.value = raw
+    notesStorageError.value = true
+    notesReadBlocked.value = true
+    return null
+  }
+}
+
+// User-triggered retry preserves drafts. If there has never been a readable
+// baseline, all draft nodes count as additions: any different external value
+// at those nodes therefore conflicts rather than being overwritten.
+export function retryNotesAfterReadFailure(state: NotesState): boolean {
+  invalidateNotesConflictPreview()
+  if (!readDisk()) return false
+  if (!baseline) baseline = { version: 1, nodes: {} }
+  notesReadBlocked.value = false
+  return saveNotes(state)
+}
+
+// Explicit recovery only: callers must confirm before discarding a local draft.
+export function reloadExternalNotes(): NotesState | null {
+  invalidateNotesConflictPreview()
+  const disk = readDisk()
+  if (!disk) return null
+  baseline = cloneNotesState(disk)
+  inMemoryState = cloneNotesState(disk)
+  notesConflictCodes.value = []
+  notesReadBlocked.value = false
+  notesStorageError.value = false
+  notesUnsavedInMemory.value = false
+  notesRawBackup.value = null
+  return cloneNotesState(disk)
+}
+
+// Explicit destructive recovery, after the UI offered a raw backup and obtained
+// confirmation. Never replace data that changed or became readable meanwhile.
+export function initializeAfterCorruption(backedUpRaw: string): NotesState | null {
+  invalidateNotesConflictPreview()
+  try {
+    const currentRaw = localStorage.getItem(NOTES_STORAGE_KEY)
+    if (currentRaw !== backedUpRaw || parseNotesImport(currentRaw) !== null) {
+      notesRawBackup.value = currentRaw !== null && !parseNotesImport(currentRaw) ? currentRaw : null
+      notesReadBlocked.value = true
+      notesStorageError.value = true
+      return null
+    }
+    const empty: NotesState = { version: 1, nodes: {} }
+    localStorage.setItem(NOTES_STORAGE_KEY, JSON.stringify(empty))
+    return reloadExternalNotes()
+  } catch {
+    notesRawBackup.value = null
+    notesStorageError.value = true
+    return null
+  }
+}
 
 let inMemoryState: NotesState = {
   version: 1,
@@ -206,44 +296,147 @@ export function mergeNotesState(current: NotesState, imported: NotesState): Merg
 }
 
 export function loadNotes(): NotesState {
+  invalidateNotesConflictPreview()
   // 存在未写入磁盘的内存变更时，重挂载/切换页签不能用旧磁盘数据覆盖内存状态
   if (notesUnsavedInMemory.value) {
     return cloneNotesState(inMemoryState)
   }
-  try {
-    const raw = localStorage.getItem(NOTES_STORAGE_KEY)
-    if (raw === null) {
-      notesStorageError.value = false
-      inMemoryState = { version: 1, nodes: {} }
-      return cloneNotesState(inMemoryState)
-    }
-    const parsed = parseNotesImport(raw)
-    if (!parsed) {
-      notesStorageError.value = true
-      return cloneNotesState(inMemoryState)
-    }
-    inMemoryState = cloneNotesState(parsed)
-    notesStorageError.value = false
-    return cloneNotesState(inMemoryState)
-  } catch {
-    notesStorageError.value = true
+  const disk = readDisk()
+  if (!disk) {
     return cloneNotesState(inMemoryState)
   }
+  baseline = cloneNotesState(disk)
+  inMemoryState = cloneNotesState(disk)
+  notesReadBlocked.value = false
+  notesConflictCodes.value = []
+  notesStorageError.value = false
+  return cloneNotesState(inMemoryState)
 }
 
 export function saveNotes(state: NotesState): boolean {
+  invalidateNotesConflictPreview()
   const normalized = cloneNotesState(state)
   inMemoryState = normalized
+  notesUnsavedInMemory.value = true
+  const disk = readDisk()
+  if (!disk) return false
+  if (notesReadBlocked.value) {
+    notesStorageError.value = true
+    return false
+  }
+  // A first save can initialize an absent store, but cannot replace unread data.
+  if (!baseline) {
+    if (notesReadBlocked.value || Object.keys(disk.nodes).length > 0) {
+      notesReadBlocked.value = true
+      notesStorageError.value = true
+      return false
+    }
+    baseline = { version: 1, nodes: {} }
+  }
+  const { nodes, conflicts } = mergeAgainstBaseline(normalized, disk, baseline)
+  notesConflictCodes.value = conflicts
+  if (conflicts.length) {
+    notesStorageError.value = true
+    return false
+  }
+  return persistMergedNotes({ version: 1, nodes })
+}
+
+const sameNote = (a: NodeNote | undefined, b: NodeNote | undefined): boolean => {
+  if (!a || !b) return a === b
+  const sorted = (note: NodeNote) => ({ claim: note.claim, source: note.source, question: note.question, readings: Object.fromEntries(Object.entries(note.readings).sort(([a], [b]) => a.localeCompare(b))) })
+  return JSON.stringify(sorted(a)) === JSON.stringify(sorted(b))
+}
+
+const mergeAgainstBaseline = (
+  localState: NotesState, disk: NotesState, base: NotesState,
+  choices: Record<string, ConflictChoice> = {}
+) => {
+  const nodes = cloneNotesState(disk).nodes
+  const conflicts: string[] = []
+  for (const code of new Set([...Object.keys(base.nodes), ...Object.keys(localState.nodes)])) {
+    const before = base.nodes[code]
+    const local = localState.nodes[code]
+    const external = disk.nodes[code]
+    if (sameNote(local, before)) continue
+    if (!sameNote(external, before) && !sameNote(local, external)) {
+      if (choices[code] === 'external') continue
+      if (choices[code] !== 'local') {
+        conflicts.push(code)
+        continue
+      }
+    }
+    if (local) nodes[code] = local
+    else delete nodes[code]
+  }
+  return { nodes, conflicts }
+}
+
+const broadcastNotesSync = () => {
+  if (typeof BroadcastChannel === 'undefined') return
   try {
-    localStorage.setItem(NOTES_STORAGE_KEY, JSON.stringify(normalized))
+    const channel = new BroadcastChannel('ismismcube.tab-sync.v1')
+    channel.postMessage({ type: 'notes-updated', timestamp: Date.now() })
+    channel.close()
+  } catch {
+    // Ignore channel errors in restricted/mock environments.
+  }
+}
+
+const persistMergedNotes = (merged: NotesState): boolean => {
+  try {
+    localStorage.setItem(NOTES_STORAGE_KEY, JSON.stringify(merged))
+    inMemoryState = cloneNotesState(merged)
+    baseline = cloneNotesState(merged)
+    notesReadBlocked.value = false
     notesStorageError.value = false
     notesUnsavedInMemory.value = false
+    notesConflictCodes.value = []
+    broadcastNotesSync()
     return true
   } catch {
     notesStorageError.value = true
     notesUnsavedInMemory.value = true
     return false
   }
+}
+
+export function previewNotesConflicts(state: NotesState): NotesConflictPreview | null {
+  invalidateNotesConflictPreview()
+  const disk = readDisk()
+  if (!disk || notesReadBlocked.value || !baseline) return null
+  const local = cloneNotesState(state)
+  const conflicts = mergeAgainstBaseline(local, disk, baseline).conflicts
+  notesConflictCodes.value = conflicts
+  conflictSession = { id: notesConflictRevision.value, local, external: cloneNotesState(disk), base: cloneNotesState(baseline) }
+  return {
+    id: conflictSession.id,
+    conflicts: conflicts.map(code => ({ code, local: local.nodes[code] ? cloneNodeNote(local.nodes[code]) : null, external: disk.nodes[code] ? cloneNodeNote(disk.nodes[code]) : null }))
+  }
+}
+
+const snapshotKey = (state: NotesState): string => JSON.stringify(state)
+export function resolveNotesConflicts(
+  state: NotesState, previewId: number, choices: Record<string, ConflictChoice>
+): { status: 'saved' | 'stale' | 'conflict' | 'storage-error'; state: NotesState; preview?: NotesConflictPreview | null } {
+  const session = conflictSession
+  const local = cloneNotesState(state)
+  const disk = readDisk()
+  if (!disk || notesReadBlocked.value || !baseline) {
+    invalidateNotesConflictPreview()
+    return { status: 'storage-error', state: local }
+  }
+  if (!session || session.id !== previewId || snapshotKey(session.local) !== snapshotKey(local) ||
+    snapshotKey(session.external) !== snapshotKey(disk) || snapshotKey(session.base) !== snapshotKey(baseline)) {
+    return { status: 'stale', state: local, preview: previewNotesConflicts(local) }
+  }
+  const { nodes, conflicts } = mergeAgainstBaseline(local, disk, baseline, choices)
+  if (conflicts.length) return { status: 'conflict', state: local }
+  // Only this explicit, freshly checked resolution may choose a local conflict.
+  // This is one localStorage write, not a cross-tab atomic transaction.
+  if (!persistMergedNotes({ version: 1, nodes })) return { status: 'storage-error', state: local }
+  invalidateNotesConflictPreview()
+  return { status: 'saved', state: getCurrentNotes() }
 }
 
 export function getNotesStorageError(): boolean {
